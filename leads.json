@@ -236,18 +236,11 @@
             "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
             "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
             "publishedDate": "12/11/2026 13:03",
-            "source": "bndestem.nl, drimble.nl",
+            "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
-                    "publishedDate": "12/11/2026 06:34"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -375,24 +368,11 @@
             "title": "'Antidepressiva voorkomen ook terugval op de langere termijn' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/antidepressiva-voorkomen-ook-terugval-op-de-langere-termijn",
             "publishedDate": "12/11/2026 10:53",
-            "source": "pw.nl, radboudumc.nl, rtl.nl",
+            "source": "pw.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Studie toont werking van antidepressiva op lange termijn - Radboudumc",
-                    "source": "radboudumc.nl",
-                    "link": "https://www.radboudumc.nl/nieuws/2026/studie-toont-werking-van-antidepressiva-op-lange-termijn",
-                    "publishedDate": "11/11/2026 17:34"
-                },
-                {
-                    "title": "Groot onderzoek naar werking antidepressiva: verrassende uitkomst - RTL Nieuws",
-                    "source": "rtl.nl",
-                    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5664511/drie-antidepressiva-effectiever-prozac-onderzoek",
-                    "publishedDate": "11/11/2026 17:22"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -761,6 +741,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
+            "link": "https://www.bndestem.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
+            "publishedDate": "12/11/2026 06:34",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1152,23 +1143,36 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Studie toont werking van antidepressiva op lange termijn - Radboudumc",
+            "link": "https://www.radboudumc.nl/nieuws/2026/studie-toont-werking-van-antidepressiva-op-lange-termijn",
+            "publishedDate": "11/11/2026 17:34",
+            "source": "ad.nl, radboudumc.nl, rtl.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Groot onderzoek naar werking antidepressiva: verrassende uitkomst - RTL Nieuws",
+                    "source": "rtl.nl",
+                    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5664511/drie-antidepressiva-effectiever-prozac-onderzoek",
+                    "publishedDate": "11/11/2026 17:22"
+                },
+                {
+                    "title": "Voorgeschreven antidepressiva lang niet altijd de beste keuze: dit zijn w\u00e9l de meest effectieve - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/binnenland/voorgeschreven-antidepressiva-lang-niet-altijd-de-beste-keuze-dit-zijn-wel-de-meest-effectieve~af03a9f2/",
+                    "publishedDate": "11/11/2026 17:20"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Happy Stones om vrijwilligers te werven voor 's Heeren Loo | Regio | De Gelderlander.nl",
             "link": "https://www.gelderlander.nl/druten/happy-stones-om-vrijwilligers-te-werven-voor-s-heeren-loo~aa1a1027/",
             "publishedDate": "11/11/2026 17:22",
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Voorgeschreven antidepressiva lang niet altijd de beste keuze: dit zijn w\u00e9l de meest effectieve - AD",
-            "link": "https://www.ad.nl/binnenland/voorgeschreven-antidepressiva-lang-niet-altijd-de-beste-keuze-dit-zijn-wel-de-meest-effectieve~af03a9f2/",
-            "publishedDate": "11/11/2026 17:20",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1400,12 +1404,49 @@
             "title": "Acties in de ggz na vastlopen cao-onderhandelingen - V&amp;VN",
             "link": "https://www.venvn.nl/nieuws/acties-in-de-ggz-na-vastlopen-cao-onderhandelingen",
             "publishedDate": "11/11/2026 14:32",
-            "source": "venvn.nl",
+            "source": "cnv.nl, denederlandseggz.nl, ggznieuws.nl, lad.nl, nu91.nl, venvn.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 7,
+            "extra_bronnen": [
+                {
+                    "title": "Werkgevers blijven bij eindbod cao ggz - - GGZ Nieuws",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/werkgevers-blijven-bij-eindbod-cao-ggz/",
+                    "publishedDate": "11/11/2026 12:14"
+                },
+                {
+                    "title": "[GGZ] Werkgevers blijven bij eindbod cao ggz",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/werkgevers-blijven-bij-eindbod-cao-ggz",
+                    "publishedDate": "09/11/2026 10:52"
+                },
+                {
+                    "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
+                    "publishedDate": "11/11/2026 12:00"
+                },
+                {
+                    "title": "FBZ start actietraject vanwege vastlopen onderhandelingen Cao GGZ -",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/fbz-start-actietraject-vanwege-vastlopen-onderhandelingen-cao-ggz/",
+                    "publishedDate": "11/11/2026 11:56"
+                },
+                {
+                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+                    "publishedDate": "10/11/2026 10:49"
+                },
+                {
+                    "title": "[CNV] Actie in de GGZ",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+                    "publishedDate": "10/11/2026 10:46"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Lezing over mindful opvoeden in de Weeffabriek in Geldrop",
@@ -1514,24 +1555,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Werkgevers blijven bij eindbod cao ggz - - GGZ Nieuws",
-            "link": "https://www.ggznieuws.nl/werkgevers-blijven-bij-eindbod-cao-ggz/",
-            "publishedDate": "11/11/2026 12:14",
-            "source": "denederlandseggz.nl, ggznieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[GGZ] Werkgevers blijven bij eindbod cao ggz",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/werkgevers-blijven-bij-eindbod-cao-ggz",
-                    "publishedDate": "09/11/2026 10:52"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Invoering nieuwe bekostiging stoppen met roken uitgesteld - Nederlandse Zorgautoriteit",
             "link": "https://www.nza.nl/actueel/nieuws/2026/11/11/invoering-nieuwe-bekostiging-stoppen-met-roken-uitgesteld",
             "publishedDate": "11/11/2026 12:10",
@@ -1539,28 +1562,6 @@
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
-            "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
-            "publishedDate": "11/11/2026 12:00",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "FBZ start actietraject vanwege vastlopen onderhandelingen Cao GGZ -",
-            "link": "https://www.ggznieuws.nl/fbz-start-actietraject-vanwege-vastlopen-onderhandelingen-cao-ggz/",
-            "publishedDate": "11/11/2026 11:56",
-            "source": "ggznieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1645,18 +1646,11 @@
             "title": "Voor ouderen kan goede spoedzorg niet zonder de VVT - Zorgkrant",
             "link": "https://zorgkrant.nl/ouderenzorg/21656-voor-ouderen-kan-goede-spoedzorg-niet-zonder-de-vvt",
             "publishedDate": "11/11/2026 09:14",
-            "source": "actiz.nl, zorgkrant.nl",
+            "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
-                    "source": "actiz.nl",
-                    "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
-                    "publishedDate": "10/11/2026 01:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1688,28 +1682,6 @@
             "source": "nieuwsinalphen.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "LAD/FBZ start actietraject in ggz-instellingen",
-            "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
-            "publishedDate": "10/11/2026 10:49",
-            "source": "lad.nl",
-            "category": "Vakbonden",
-            "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Actie in de GGZ",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-            "publishedDate": "10/11/2026 10:46",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1849,6 +1821,17 @@
         {
             "title": "[Artikel] Mantelzorgers: onmisbaar, maar niet onbegrensd",
             "link": "https://www.actiz.nl/actueel/mantelzorgers-onmisbaar-maar-niet-onbegrensd",
+            "publishedDate": "10/11/2026 01:00",
+            "source": "actiz.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
+            "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
             "publishedDate": "10/11/2026 01:00",
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
