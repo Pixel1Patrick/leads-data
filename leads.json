@@ -102,10 +102,10 @@
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland - AD",
             "link": "https://www.ad.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
             "publishedDate": "12/11/2026 17:02",
-            "source": "ad.nl, bndestem.nl, drimble.nl, gelderlander.nl",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
@@ -118,18 +118,6 @@
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
                     "publishedDate": "12/11/2026 06:34"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-                    "publishedDate": "12/11/2026 14:29"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
-                    "publishedDate": "12/11/2026 13:03"
                 }
             ],
             "belangrijkheid": 1
@@ -636,6 +624,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+            "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+            "publishedDate": "12/11/2026 14:29",
+            "source": "bndestem.nl, drimble.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
+                    "publishedDate": "12/11/2026 13:03"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Vier scholieren in Uganda overlijden mogelijk door vergiftiging, een nog in ziekenhuis",
             "link": "https://nos.nl/artikel/2639139-vier-scholieren-in-uganda-overlijden-mogelijk-door-vergiftiging-een-nog-in-ziekenhuis",
             "publishedDate": "12/11/2026 14:27",
@@ -830,18 +836,11 @@
             "title": "30 procent van de vrouwen kampt met overmatig bloedverlies tijdens menstruatie, maar ...",
             "link": "https://www.parool.nl/nederland/30-procent-van-de-vrouwen-kampt-met-overmatig-bloedverlies-tijdens-menstruatie-maar-deze-combinatiebehandeling-biedt-hoop~b01d2e85/",
             "publishedDate": "12/11/2026 13:11",
-            "source": "ed.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "30 procent van de vrouwen verliest veel bloed tijdens de menstruatie, maar dit onderzoek biedt hoop",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/eindhoven/30-procent-van-de-vrouwen-verliest-veel-bloed-tijdens-de-menstruatie-maar-dit-onderzoek-biedt-hoop~a01d2e85/",
-                    "publishedDate": "12/11/2026 11:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -873,15 +872,8 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
-                    "publishedDate": "12/11/2026 12:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -892,6 +884,17 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
+            "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
+            "publishedDate": "12/11/2026 12:36",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -990,6 +993,17 @@
             "source": "vvponline.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "30 procent van de vrouwen verliest veel bloed tijdens de menstruatie, maar dit onderzoek biedt hoop",
+            "link": "https://www.ed.nl/eindhoven/30-procent-van-de-vrouwen-verliest-veel-bloed-tijdens-de-menstruatie-maar-dit-onderzoek-biedt-hoop~a01d2e85/",
+            "publishedDate": "12/11/2026 11:00",
+            "source": "ed.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1551,11 +1565,17 @@
             "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
             "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
             "publishedDate": "11/11/2026 12:00",
-            "source": "cnv.nl, nu91.nl",
+            "source": "cnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+                    "publishedDate": "10/11/2026 10:49"
+                },
                 {
                     "title": "[CNV] Actie in de GGZ",
                     "source": "cnv.nl",
@@ -1563,7 +1583,7 @@
                     "publishedDate": "10/11/2026 10:46"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Nieuwe cao-onderhandeling CIZ, wat wil jij?",
@@ -1605,17 +1625,6 @@
             "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "LAD/FBZ start actietraject in ggz-instellingen",
-            "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
-            "publishedDate": "10/11/2026 10:49",
-            "source": "lad.nl",
-            "category": "Vakbonden",
-            "feed_label": "LAD (vakbond)",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1770,15 +1779,19 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
-                    "source": "actiz.nl",
-                    "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
-                    "publishedDate": "10/11/2026 01:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
+            "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
+            "publishedDate": "10/11/2026 01:00",
+            "source": "actiz.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
