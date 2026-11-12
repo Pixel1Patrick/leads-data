@@ -241,7 +241,7 @@
                     "publishedDate": "12/11/2026 18:29"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ziekenhuizen voor wekedelensarcomen - Kanker.nl",
@@ -714,7 +714,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Digitale gegevensuitwisseling maakt passende palliatieve zorg mogelijk - ZonMw",
@@ -731,12 +731,19 @@
             "title": "Zes jaar cel en tbs ge\u00ebist voor crackverslaafde die schedel van medebewoner zorgcomplex ...",
             "link": "https://www.parool.nl/amsterdam/zes-jaar-cel-en-tbs-geeist-voor-crackverslaafde-die-schedel-van-medebewoner-zorgcomplex-insloeg-om-een-fles-drank~b74a9919/",
             "publishedDate": "12/11/2026 16:05",
-            "source": "parool.nl",
+            "source": "om.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "OM acht bewezen dat man medebewoner met dumbell doodsloeg en eist zes jaar cel en ...",
+                    "source": "om.nl",
+                    "link": "https://www.om.nl/actueel/nieuws/2026/11/12/om-acht-bewezen-dat-man-medebewoner-met-dumbell-doodsloeg-en-eist-zes-jaar-cel-en-tbs-met-dwangverpleging",
+                    "publishedDate": "12/11/2026 15:51"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
@@ -811,17 +818,6 @@
             "link": "https://www.vriendin.nl/nieuwtjes/illya-bb-vol-liefde-ziekenhuis-sylwia-niet-langsgekomen/",
             "publishedDate": "12/11/2026 15:54",
             "source": "vriendin.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "OM acht bewezen dat man medebewoner met dumbell doodsloeg en eist zes jaar cel en ...",
-            "link": "https://www.om.nl/actueel/nieuws/2026/11/12/om-acht-bewezen-dat-man-medebewoner-met-dumbell-doodsloeg-en-eist-zes-jaar-cel-en-tbs-met-dwangverpleging",
-            "publishedDate": "12/11/2026 15:51",
-            "source": "om.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
@@ -1723,7 +1719,7 @@
             "feed_label": "Alert zorgmedewerker",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Update onderhandelingen CAO Gehandicaptenzorg - CNV",
@@ -1835,18 +1831,22 @@
             "title": "LAD/FBZ start actietraject in ggz-instellingen",
             "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
             "publishedDate": "10/11/2026 10:49",
-            "source": "cnv.nl, lad.nl",
+            "source": "lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Actie in de GGZ",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-                    "publishedDate": "10/11/2026 10:46"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "[CNV] Actie in de GGZ",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+            "publishedDate": "10/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
