@@ -49,22 +49,27 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Reactie op commissiebrief inzake Open brief het Acute zorglandschap staat onder zware druk van Stichting Acute Zorg VPR",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
                     "publishedDate": "12/11/2026 16:50"
-                },
-                {
-                    "title": "Ondertekende brief",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
-                    "publishedDate": "12/11/2026 16:50"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ondertekende brief",
+            "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
+            "publishedDate": "12/11/2026 16:50",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Beantwoording burgerbrief",
@@ -141,7 +146,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Digitale gegevensuitwisseling maakt passende palliatieve zorg mogelijk - ZonMw",
@@ -163,7 +168,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
@@ -209,7 +214,7 @@
                     "publishedDate": "12/11/2026 15:57"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Schouwen-Duiveland maakt extra opvangplaatsen vrij voor Oekra\u00efense vluchtelingen en ...",
@@ -387,7 +392,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Illya uit B&amp;B Vol Liefde met spoed naar ziekenhuis: 'Hart werkt nog maar voor 20 procent'",
@@ -576,19 +581,12 @@
             "title": "Isra\u00eblische aanval op ziekenhuis in Gaza doodt zes mensen, onder wie chirurg en kind",
             "link": "https://dekanttekening.nl/nieuws/israelische-aanval-op-ziekenhuis-in-gaza-doodt-zes-mensen-onder-wie-chirurg-en-kind/?amp",
             "publishedDate": "12/11/2026 13:43",
-            "source": "dekanttekening.nl, fd.nl",
+            "source": "dekanttekening.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Zes personen gedood bij Isra\u00eblische aanval op ziekenhuis in Gaza",
-                    "source": "fd.nl",
-                    "link": "https://fd.nl/politiek/1618978/zes-personen-gedood-bij-israelische-aanval-op-ziekenhuis-in-gaza",
-                    "publishedDate": "12/11/2026 13:07"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Pati\u00ebnten met een resistente bacterie hebben behoefte aan betere informatie",
@@ -653,6 +651,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zes personen gedood bij Isra\u00eblische aanval op ziekenhuis in Gaza",
+            "link": "https://fd.nl/politiek/1618978/zes-personen-gedood-bij-israelische-aanval-op-ziekenhuis-in-gaza",
+            "publishedDate": "12/11/2026 13:07",
+            "source": "fd.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Raad buigt zich over miljoenenbegroting - RTV Midden-Groningen",
             "link": "https://www.middengroningennieuws.nl/raad-buigt-zich-over-miljoenenbegroting/",
             "publishedDate": "12/11/2026 13:05",
@@ -692,15 +701,8 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
-                    "publishedDate": "12/11/2026 12:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -711,6 +713,17 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
+            "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
+            "publishedDate": "12/11/2026 12:36",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -818,7 +831,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kan zwembad Hartekamp toch openblijven? Zweminstituut ziet kansen en redde al eerder ...",
@@ -970,57 +983,92 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 9,
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek Stoppen met roken - PUUR: Goede voornemens",
+            "link": "https://open.overheid.nl/details/cd6fad86-f9a8-4374-8092-0acba9dd3c21",
+            "publishedDate": "12/11/2026 09:28",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
             "extra_bronnen": [
-                {
-                    "title": "Campagne-effectonderzoek Stoppen met roken - PUUR: Goede voornemens",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/cd6fad86-f9a8-4374-8092-0acba9dd3c21",
-                    "publishedDate": "12/11/2026 09:28"
-                },
                 {
                     "title": "Campagne-effectonderzoek Stoppen met roken - PUUR",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/b557aed9-aeb2-4f6c-92c0-45e06d1b4194",
                     "publishedDate": "12/11/2026 09:27"
-                },
-                {
-                    "title": "Campagne-effectonderzoek palliatieve zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/173b3bdb-d774-45e6-aa31-ae2f3a900935",
-                    "publishedDate": "12/11/2026 09:26"
-                },
-                {
-                    "title": "Campagne-effectonderzoek NIX18 (najaar 2022)",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/f647b549-1553-4b31-92e1-29a0d08d995b",
-                    "publishedDate": "12/11/2026 09:24"
-                },
-                {
-                    "title": "Campagne-effectonderzoek NIX18",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
-                    "publishedDate": "12/11/2026 09:22"
-                },
-                {
-                    "title": "Campagne-effectonderzoek HPV-vaccinatie 13 tot 18 jaar",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/ea35c55f-e2fe-4a68-967b-eee4b509b99f",
-                    "publishedDate": "12/11/2026 09:19"
-                },
-                {
-                    "title": "Campagne-effectonderzoek HPV-vaccinatie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
-                    "publishedDate": "12/11/2026 09:17"
-                },
-                {
-                    "title": "Campagne-effectonderzoek Hey het is ok\u00e9 2022",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/d7ea2421-d908-41c8-8f5b-d264759e703a",
-                    "publishedDate": "12/11/2026 09:15"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek palliatieve zorg",
+            "link": "https://open.overheid.nl/details/173b3bdb-d774-45e6-aa31-ae2f3a900935",
+            "publishedDate": "12/11/2026 09:26",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek NIX18 (najaar 2022)",
+            "link": "https://open.overheid.nl/details/f647b549-1553-4b31-92e1-29a0d08d995b",
+            "publishedDate": "12/11/2026 09:24",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek NIX18",
+            "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
+            "publishedDate": "12/11/2026 09:22",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek HPV-vaccinatie 13 tot 18 jaar",
+            "link": "https://open.overheid.nl/details/ea35c55f-e2fe-4a68-967b-eee4b509b99f",
+            "publishedDate": "12/11/2026 09:19",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek HPV-vaccinatie",
+            "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
+            "publishedDate": "12/11/2026 09:17",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek Hey het is ok\u00e9 2022",
+            "link": "https://open.overheid.nl/details/d7ea2421-d908-41c8-8f5b-d264759e703a",
+            "publishedDate": "12/11/2026 09:15",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1038,10 +1086,10 @@
             "title": "Jeugdhulp van Caterva heeft een aanwijzing met cli\u00ebntenstop - Zorgkrant",
             "link": "https://zorgkrant.nl/management-en-beleid/21660-jeugdhulp-van-caterva-heeft-een-aanwijzing-met-clientenstop",
             "publishedDate": "12/11/2026 08:37",
-            "source": "ad.nl, destentor.nl, huisaanhuisoldebroek.nl, igj.nl, nl.headtopics.com, rd.nl, tubantia.nl, vrmg.nl, zorgkrant.nl",
+            "source": "huisaanhuisoldebroek.nl, igj.nl, nl.headtopics.com, rd.nl, vrmg.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 11,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Jeugdhulp Caterva schiet 'ernstig' tekort, geen nieuwe cli\u00ebnten - Reformatorisch Dagblad",
@@ -1056,18 +1104,6 @@
                     "publishedDate": "11/11/2026 22:04"
                 },
                 {
-                    "title": "Inspectie grijpt hard in bij jeugdhulporganisatie op Veluwe: jongeren verblijven in onveilige ... - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/apeldoorn/inspectie-grijpt-hard-in-bij-jeugdhulporganisatie-op-veluwe-jongeren-verblijven-in-onveilige-onhygienische-omgeving~ac8d7366/",
-                    "publishedDate": "11/11/2026 19:37"
-                },
-                {
-                    "title": "Inspectie grijpt hard in bij jeugdhulporganisatie op Veluwe: jongeren verblijven in onveilige ...",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/nunspeet/inspectie-grijpt-hard-in-bij-jeugdhulporganisatie-op-veluwe-jongeren-verblijven-in-onveilige-onhygienische-omgeving~ac8d7366/",
-                    "publishedDate": "11/11/2026 18:07"
-                },
-                {
                     "title": "Inspectie grijpt in bij jeugdzorgorganisatie Caterva - VRMG",
                     "source": "vrmg.nl",
                     "link": "https://vrmg.nl/inspectie-grijpt-in-bij-jeugdzorgorganisatie-caterva",
@@ -1078,12 +1114,6 @@
                     "source": "nl.headtopics.com",
                     "link": "https://nl.headtopics.com/news/inspectie-verbiedt-caterva-nieuwe-jongeren-te-plaatsen-89751466",
                     "publishedDate": "11/11/2026 18:11"
-                },
-                {
-                    "title": "Jeugdhulporganisatie op Veluwe mag geen nieuwe jongeren aannemen na hard oordeel inspectie",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/apeldoorn/jeugdhulporganisatie-op-veluwe-mag-geen-nieuwe-jongeren-aannemen-na-hard-oordeel-inspectie~ac8d7366/",
-                    "publishedDate": "11/11/2026 16:16"
                 },
                 {
                     "title": "Inspectie tikt Nunspeetse zorgorganisatie Caterva op de vingers - Huis aan Huis Oldebroek",
@@ -1136,7 +1166,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Varkenshouder in Bergeijk knipt staarten af en slaat biggetjes tegen de muur: NVWA start ...",
@@ -1324,6 +1354,30 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Inspectie grijpt hard in bij jeugdhulporganisatie op Veluwe: jongeren verblijven in onveilige ... - AD",
+            "link": "https://www.ad.nl/apeldoorn/inspectie-grijpt-hard-in-bij-jeugdhulporganisatie-op-veluwe-jongeren-verblijven-in-onveilige-onhygienische-omgeving~ac8d7366/",
+            "publishedDate": "11/11/2026 19:37",
+            "source": "ad.nl, destentor.nl, tubantia.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Inspectie grijpt hard in bij jeugdhulporganisatie op Veluwe: jongeren verblijven in onveilige ...",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/nunspeet/inspectie-grijpt-hard-in-bij-jeugdhulporganisatie-op-veluwe-jongeren-verblijven-in-onveilige-onhygienische-omgeving~ac8d7366/",
+                    "publishedDate": "11/11/2026 18:07"
+                },
+                {
+                    "title": "Jeugdhulporganisatie op Veluwe mag geen nieuwe jongeren aannemen na hard oordeel inspectie",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/apeldoorn/jeugdhulporganisatie-op-veluwe-mag-geen-nieuwe-jongeren-aannemen-na-hard-oordeel-inspectie~ac8d7366/",
+                    "publishedDate": "11/11/2026 16:16"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Jongere werknemers vaker vermoeid: 'Druk buiten werk is hoger' | Algemeen | NU.nl",
@@ -1589,25 +1643,12 @@
             "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
             "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
             "publishedDate": "11/11/2026 12:00",
-            "source": "cnv.nl, lad.nl, nu91.nl",
+            "source": "nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
-                    "publishedDate": "10/11/2026 10:49"
-                },
-                {
-                    "title": "[CNV] Actie in de GGZ",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-                    "publishedDate": "10/11/2026 10:46"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Begrotingsdebat Rijswijk: partijen botsen over geld, woningbouw en toekomst van de stad",
@@ -1671,6 +1712,28 @@
             "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "LAD/FBZ start actietraject in ggz-instellingen",
+            "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+            "publishedDate": "10/11/2026 10:49",
+            "source": "lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Actie in de GGZ",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+            "publishedDate": "10/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1814,21 +1877,30 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
-                    "source": "actiz.nl",
-                    "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
-                    "publishedDate": "10/11/2026 01:00"
-                },
-                {
-                    "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
-                    "source": "actiz.nl",
-                    "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
-                    "publishedDate": "10/11/2026 01:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
+            "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
+            "publishedDate": "10/11/2026 01:00",
+            "source": "actiz.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
+            "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
+            "publishedDate": "10/11/2026 01:00",
+            "source": "actiz.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
