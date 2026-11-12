@@ -1,6 +1,24 @@
 {
     "artikelen": [
         {
+            "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' | Gezond | AD.nl",
+            "link": "https://www.ad.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-klachten-niet-negeren~a6caa9ee/",
+            "publishedDate": "12/11/2026 17:10",
+            "source": "ad.nl, bd.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert umc",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kun je ziek worden van borstimplantaten? 'Deel van de vrouwen ervaart verbetering na verwijdering'",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
+                    "publishedDate": "12/11/2026 17:06"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Toezichtrapport 2025 over het toezicht op het CAK door de Nederlandse Zorgautoriteit",
             "link": "https://open.overheid.nl/details/d0cb4f18-e950-4a84-882a-7f6ecf5dc770",
             "publishedDate": "12/11/2026 16:50",
@@ -31,27 +49,22 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Reactie op commissiebrief inzake Open brief het Acute zorglandschap staat onder zware druk van Stichting Acute Zorg VPR",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
                     "publishedDate": "12/11/2026 16:50"
+                },
+                {
+                    "title": "Ondertekende brief",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
+                    "publishedDate": "12/11/2026 16:50"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ondertekende brief",
-            "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
-            "publishedDate": "12/11/2026 16:50",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Beantwoording burgerbrief",
@@ -128,7 +141,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Digitale gegevensuitwisseling maakt passende palliatieve zorg mogelijk - ZonMw",
@@ -196,7 +209,7 @@
                     "publishedDate": "12/11/2026 15:57"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Schouwen-Duiveland maakt extra opvangplaatsen vrij voor Oekra\u00efense vluchtelingen en ...",
@@ -575,7 +588,7 @@
                     "publishedDate": "12/11/2026 13:07"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Pati\u00ebnten met een resistente bacterie hebben behoefte aan betere informatie",
@@ -625,11 +638,18 @@
             "title": "30 procent van de vrouwen kampt met overmatig bloedverlies tijdens menstruatie, maar ...",
             "link": "https://www.parool.nl/nederland/30-procent-van-de-vrouwen-kampt-met-overmatig-bloedverlies-tijdens-menstruatie-maar-deze-combinatiebehandeling-biedt-hoop~b01d2e85/",
             "publishedDate": "12/11/2026 13:11",
-            "source": "parool.nl",
+            "source": "ed.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "30 procent van de vrouwen verliest veel bloed tijdens de menstruatie, maar dit onderzoek biedt hoop",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/eindhoven/30-procent-van-de-vrouwen-verliest-veel-bloed-tijdens-de-menstruatie-maar-dit-onderzoek-biedt-hoop~a01d2e85/",
+                    "publishedDate": "12/11/2026 11:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -652,7 +672,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Rekenkamer doet onderzoek naar jeugdhulp Bunnik",
@@ -798,7 +818,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kan zwembad Hartekamp toch openblijven? Zweminstituut ziet kansen en redde al eerder ...",
@@ -818,17 +838,6 @@
             "source": "vvponline.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "30 procent van de vrouwen verliest veel bloed tijdens de menstruatie, maar dit onderzoek biedt hoop",
-            "link": "https://www.ed.nl/eindhoven/30-procent-van-de-vrouwen-verliest-veel-bloed-tijdens-de-menstruatie-maar-dit-onderzoek-biedt-hoop~a01d2e85/",
-            "publishedDate": "12/11/2026 11:00",
-            "source": "ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -961,84 +970,57 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek Stoppen met roken - PUUR: Goede voornemens",
-            "link": "https://open.overheid.nl/details/cd6fad86-f9a8-4374-8092-0acba9dd3c21",
-            "publishedDate": "12/11/2026 09:28",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 9,
             "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek Stoppen met roken - PUUR: Goede voornemens",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/cd6fad86-f9a8-4374-8092-0acba9dd3c21",
+                    "publishedDate": "12/11/2026 09:28"
+                },
                 {
                     "title": "Campagne-effectonderzoek Stoppen met roken - PUUR",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/b557aed9-aeb2-4f6c-92c0-45e06d1b4194",
                     "publishedDate": "12/11/2026 09:27"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek palliatieve zorg",
-            "link": "https://open.overheid.nl/details/173b3bdb-d774-45e6-aa31-ae2f3a900935",
-            "publishedDate": "12/11/2026 09:26",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek NIX18 (najaar 2022)",
-            "link": "https://open.overheid.nl/details/f647b549-1553-4b31-92e1-29a0d08d995b",
-            "publishedDate": "12/11/2026 09:24",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
+                },
+                {
+                    "title": "Campagne-effectonderzoek palliatieve zorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/173b3bdb-d774-45e6-aa31-ae2f3a900935",
+                    "publishedDate": "12/11/2026 09:26"
+                },
+                {
+                    "title": "Campagne-effectonderzoek NIX18 (najaar 2022)",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/f647b549-1553-4b31-92e1-29a0d08d995b",
+                    "publishedDate": "12/11/2026 09:24"
+                },
                 {
                     "title": "Campagne-effectonderzoek NIX18",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
                     "publishedDate": "12/11/2026 09:22"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek HPV-vaccinatie 13 tot 18 jaar",
-            "link": "https://open.overheid.nl/details/ea35c55f-e2fe-4a68-967b-eee4b509b99f",
-            "publishedDate": "12/11/2026 09:19",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
+                },
+                {
+                    "title": "Campagne-effectonderzoek HPV-vaccinatie 13 tot 18 jaar",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/ea35c55f-e2fe-4a68-967b-eee4b509b99f",
+                    "publishedDate": "12/11/2026 09:19"
+                },
                 {
                     "title": "Campagne-effectonderzoek HPV-vaccinatie",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
                     "publishedDate": "12/11/2026 09:17"
+                },
+                {
+                    "title": "Campagne-effectonderzoek Hey het is ok\u00e9 2022",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/d7ea2421-d908-41c8-8f5b-d264759e703a",
+                    "publishedDate": "12/11/2026 09:15"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek Hey het is ok\u00e9 2022",
-            "link": "https://open.overheid.nl/details/d7ea2421-d908-41c8-8f5b-d264759e703a",
-            "publishedDate": "12/11/2026 09:15",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1154,7 +1136,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Varkenshouder in Bergeijk knipt staarten af en slaat biggetjes tegen de muur: NVWA start ...",
@@ -1385,7 +1367,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nadat de gemeente het zorgcontract opzegt, valt hulp voor zoon (17) weg - de Stentor",
@@ -1607,12 +1589,25 @@
             "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
             "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
             "publishedDate": "11/11/2026 12:00",
-            "source": "nu91.nl",
+            "source": "cnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+                    "publishedDate": "10/11/2026 10:49"
+                },
+                {
+                    "title": "[CNV] Actie in de GGZ",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+                    "publishedDate": "10/11/2026 10:46"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Begrotingsdebat Rijswijk: partijen botsen over geld, woningbouw en toekomst van de stad",
@@ -1679,24 +1674,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "LAD/FBZ start actietraject in ggz-instellingen",
-            "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
-            "publishedDate": "10/11/2026 10:49",
-            "source": "cnv.nl, lad.nl",
-            "category": "Vakbonden",
-            "feed_label": "LAD (vakbond)",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Actie in de GGZ",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-                    "publishedDate": "10/11/2026 10:46"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "[Duurzaamheid] Hergebruik als standaard voor medische hulpmiddelen",
@@ -1837,19 +1814,14 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
-            "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
-            "publishedDate": "10/11/2026 01:00",
-            "source": "actiz.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "Actiz",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
+                    "source": "actiz.nl",
+                    "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
+                    "publishedDate": "10/11/2026 01:00"
+                },
                 {
                     "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
                     "source": "actiz.nl",
