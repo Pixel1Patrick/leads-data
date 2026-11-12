@@ -340,7 +340,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Arbeidsmigranten zijn kwetsbaar en lopen risico op dakloosheid - Binnenlands Bestuur",
@@ -1557,24 +1557,11 @@
             "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
             "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
             "publishedDate": "11/11/2026 12:00",
-            "source": "cnv.nl, lad.nl, nu91.nl",
+            "source": "nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
-                    "publishedDate": "10/11/2026 10:49"
-                },
-                {
-                    "title": "[CNV] Actie in de GGZ",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-                    "publishedDate": "10/11/2026 10:46"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1644,6 +1631,28 @@
                 }
             ],
             "belangrijkheid": 0
+        },
+        {
+            "title": "LAD/FBZ start actietraject in ggz-instellingen",
+            "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+            "publishedDate": "10/11/2026 10:49",
+            "source": "lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "[CNV] Actie in de GGZ",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+            "publishedDate": "10/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "[Duurzaamheid] Hergebruik als standaard voor medische hulpmiddelen",
