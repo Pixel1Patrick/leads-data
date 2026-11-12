@@ -1,12 +1,34 @@
 {
     "artikelen": [
         {
+            "title": "Belgische gezondheidszorg in Europese top 10 ondanks knelpunten - GVA",
+            "link": "https://www.gva.be/binnenland/belgische-gezondheidszorg-in-europese-top-10-ondanks-knelpunten/164465285.html",
+            "publishedDate": "12/11/2026 22:24",
+            "source": "gva.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Interzorg viert dubbel feest met uitreiking Drentse Onderneming van het Jaar - DVHN",
             "link": "https://www.dvhn.nl/economie/interzorg-viert-dubbel-feest-met-uitreiking-drentse-onderneming-van-het-jaar/164056437.html",
             "publishedDate": "12/11/2026 22:20",
             "source": "dvhn.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Afghaanse vrouwen geweigerd bij de dokter: 'Ga naar huis, we kunnen je niet helpen'",
+            "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5664742/taliban-medische-zorg-afghaanse-vrouwen-onmogelijk-beperkingen",
+            "publishedDate": "12/11/2026 22:15",
+            "source": "rtl.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -20,7 +42,18 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij een knuffel ...",
+            "link": "https://www.ad.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
+            "publishedDate": "12/11/2026 21:52",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Steeds meer mensen bieden hun nier te koop aan | Gezond - AD",
@@ -34,6 +67,36 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
+            "link": "https://www.bd.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+            "publishedDate": "12/11/2026 20:59",
+            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/brabant/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+                    "publishedDate": "12/11/2026 19:02"
+                },
+                {
+                    "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
+                    "publishedDate": "12/11/2026 17:02"
+                },
+                {
+                    "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/brabant/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
+                    "publishedDate": "12/11/2026 15:32"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Het Nasser-ziekenhuis is een van de belangrijkste ziekenhuizen van Zuid-Gaza. Zo'n 1 ... - Instagram",
             "link": "https://www.instagram.com/p/DfpwUiwDBvh/",
             "publishedDate": "12/11/2026 20:18",
@@ -45,13 +108,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Topklinische erkenning voor expertisecentrum astma - Deventer Ziekenhuis",
+            "link": "https://www.dz.nl/nieuws/algemeen/topklinische-erkenning-voor-expertisecentrum-astma",
+            "publishedDate": "12/11/2026 20:13",
+            "source": "dz.nl",
+            "category": "Zorgaanbieders",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' | Nieuws | De Stentor.nl",
             "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-klachten-niet-negeren~a6caa9ee/",
             "publishedDate": "12/11/2026 20:08",
-            "source": "ad.nl, bd.nl, bndestem.nl, destentor.nl, ed.nl, gelderlander.nl, tubantia.nl",
+            "source": "ad.nl, bndestem.nl, destentor.nl, gelderlander.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 8,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' | Nieuws | BN DeStem.nl",
@@ -76,24 +150,6 @@
                     "source": "tubantia.nl",
                     "link": "https://www.tubantia.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
                     "publishedDate": "12/11/2026 17:06"
-                },
-                {
-                    "title": "Kun je ziek worden van borstimplantaten? 'Deel van de vrouwen ervaart verbetering na verwijdering'",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
-                    "publishedDate": "12/11/2026 17:06"
-                },
-                {
-                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig' | ED.nl",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
-                    "publishedDate": "12/11/2026 16:58"
-                },
-                {
-                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig'",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
-                    "publishedDate": "12/11/2026 16:58"
                 }
             ],
             "belangrijkheid": 0
@@ -231,36 +287,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
-            "link": "https://www.ed.nl/brabant/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-            "publishedDate": "12/11/2026 19:02",
-            "source": "ad.nl, bndestem.nl, ed.nl, gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
-                    "publishedDate": "12/11/2026 17:02"
-                },
-                {
-                    "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/brabant/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
-                    "publishedDate": "12/11/2026 15:32"
-                },
-                {
-                    "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
-                    "publishedDate": "12/11/2026 06:34"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Meer duidelijkheid en \u00e9\u00e9n vast aanspreekpunt voor pati\u00ebnten met uitgezaaide prostaatkanker",
             "link": "https://www.antoniusziekenhuis.nl/kankercentrum/nieuwsoverzicht/meer-duidelijkheid-en-een-vast-aanspreekpunt-voor-patienten-met-uitgezaaide-prostaatkanker",
             "publishedDate": "12/11/2026 18:58",
@@ -309,7 +335,7 @@
                     "publishedDate": "12/11/2026 18:29"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ziekenhuizen voor wekedelensarcomen - Kanker.nl",
@@ -449,19 +475,13 @@
             "source": "nl.headtopics.com, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Son en Breugel verhoogt ozb met 48 procent door hoge jeugdzorgkosten - Omroep Brabant",
                     "source": "omroepbrabant.nl",
                     "link": "https://www.omroepbrabant.nl/nieuws/6034593/son-en-breugel-verhoogt-ozb-met-48-procent-door-hoge-jeugdzorgkosten",
                     "publishedDate": "12/11/2026 17:36"
-                },
-                {
-                    "title": "Jeugdzorgkosten drijven Son en Breugel in nauw: ozb stijgt met 48 procent - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/jeugdzorgkosten-drijven-son-en-breugel-in-nauw-ozb-stijgt-89794652",
-                    "publishedDate": "12/11/2026 17:21"
                 }
             ],
             "belangrijkheid": 0
@@ -522,12 +542,34 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Jeugdzorgkosten drijven Son en Breugel in nauw: ozb stijgt met 48 procent - Head Topics",
+            "link": "https://nl.headtopics.com/news/jeugdzorgkosten-drijven-son-en-breugel-in-nauw-ozb-stijgt-89794652",
+            "publishedDate": "12/11/2026 17:21",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Hij wilde zijn vriend helpen met een kast tillen, even later voelt hij een pistool tegen zijn hoofd | Regio",
             "link": "https://www.destentor.nl/almere/hij-wilde-zijn-vriend-helpen-met-een-kast-tillen-even-later-voelt-hij-een-pistool-tegen-zijn-hoofd~a07e1f8b/",
             "publishedDate": "12/11/2026 17:19",
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Toepassing verlaagd BTW-tarief voor ablatiekatheters op grond van vertrouwensbeginsel",
+            "link": "https://www.taxlive.nl/nl/documenten/vn-vandaag/toepassing-verlaagd-btw-tarief-voor-ablatiekatheters-op-grond-van-vertrouwensbeginsel/",
+            "publishedDate": "12/11/2026 17:16",
+            "source": "taxlive.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -550,15 +592,8 @@
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
-                    "publishedDate": "12/11/2026 16:04"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -584,6 +619,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Kun je ziek worden van borstimplantaten? 'Deel van de vrouwen ervaart verbetering na verwijdering'",
+            "link": "https://www.bd.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
+            "publishedDate": "12/11/2026 17:06",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Auto in sloot \u2022 fietser gewond - Omroep Gelderland",
             "link": "https://www.gld.nl/nieuws/8546008/auto-in-sloot-fietser-gewond",
             "publishedDate": "12/11/2026 17:04",
@@ -601,8 +647,26 @@
             "source": "plusonline.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig' | ED.nl",
+            "link": "https://www.ed.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
+            "publishedDate": "12/11/2026 16:58",
+            "source": "destentor.nl, ed.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig'",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
+                    "publishedDate": "12/11/2026 16:58"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -783,18 +847,22 @@
             "title": "Zes jaar cel en tbs ge\u00ebist voor crackverslaafde die schedel van medebewoner zorgcomplex ...",
             "link": "https://www.parool.nl/amsterdam/zes-jaar-cel-en-tbs-geeist-voor-crackverslaafde-die-schedel-van-medebewoner-zorgcomplex-insloeg-om-een-fles-drank~b74a9919/",
             "publishedDate": "12/11/2026 16:05",
-            "source": "om.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "OM acht bewezen dat man medebewoner met dumbell doodsloeg en eist zes jaar cel en ...",
-                    "source": "om.nl",
-                    "link": "https://www.om.nl/actueel/nieuws/2026/11/12/om-acht-bewezen-dat-man-medebewoner-met-dumbell-doodsloeg-en-eist-zes-jaar-cel-en-tbs-met-dwangverpleging",
-                    "publishedDate": "12/11/2026 15:51"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
+            "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
+            "publishedDate": "12/11/2026 16:04",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -859,6 +927,17 @@
             "link": "https://www.vriendin.nl/nieuwtjes/illya-bb-vol-liefde-ziekenhuis-sylwia-niet-langsgekomen/",
             "publishedDate": "12/11/2026 15:54",
             "source": "vriendin.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "OM acht bewezen dat man medebewoner met dumbell doodsloeg en eist zes jaar cel en ...",
+            "link": "https://www.om.nl/actueel/nieuws/2026/11/12/om-acht-bewezen-dat-man-medebewoner-met-dumbell-doodsloeg-en-eist-zes-jaar-cel-en-tbs-met-dwangverpleging",
+            "publishedDate": "12/11/2026 15:51",
+            "source": "om.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
@@ -1140,7 +1219,7 @@
                     "publishedDate": "12/11/2026 13:03"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bijeenkomst: Online contact met jet huisarts en apotheek - Sukerbiet.nl",
@@ -1149,17 +1228,6 @@
             "source": "sukerbiet.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Junior Life Sciences Consultant (ziekenhuizen) - Agidens",
-            "link": "https://www.agidens.com/careers/jobs/8709929-junior-life-sciences-consultant-ziekenhuizen/",
-            "publishedDate": "12/11/2026 14:25",
-            "source": "agidens.com",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1182,17 +1250,6 @@
             "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Langs de Oude Lijn komen twee nieuwe stations tussen Leiden en Dordrecht | Regio | AD.nl",
-            "link": "https://www.ad.nl/dordrecht/langs-de-oude-lijn-komen-twee-nieuwe-stations-tussen-leiden-en-dordrecht~ad5720de/",
-            "publishedDate": "12/11/2026 14:02",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1229,17 +1286,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Pati\u00ebnten met een resistente bacterie hebben behoefte aan betere informatie",
-            "link": "https://www.igj.nl/documenten/2026/11/12/patienten-met-een-resistente-bacterie-hebben-behoefte-aan-betere-informatie",
-            "publishedDate": "12/11/2026 13:35",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "Raad buigt zich over miljoenenbegroting - RTV Midden-Groningen",
@@ -1595,7 +1641,7 @@
                     "publishedDate": "11/11/2026 18:11"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Alle appartementen Zuidpost verhuurd, zestig procent van nieuwe bewoners komt uit Waddinxveen",
@@ -1839,22 +1885,18 @@
             "title": "LAD/FBZ start actietraject in ggz-instellingen",
             "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
             "publishedDate": "10/11/2026 10:49",
-            "source": "lad.nl",
+            "source": "cnv.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "[CNV] Actie in de GGZ",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-            "publishedDate": "10/11/2026 10:46",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Actie in de GGZ",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+                    "publishedDate": "10/11/2026 10:46"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -1996,19 +2038,15 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
-            "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
-            "publishedDate": "10/11/2026 01:00",
-            "source": "actiz.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "Actiz",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
+                    "source": "actiz.nl",
+                    "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
+                    "publishedDate": "10/11/2026 01:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
