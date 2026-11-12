@@ -8,26 +8,26 @@
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
             "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
             "publishedDate": "12/11/2026 13:45",
-            "source": "igj.nl",
+            "source": "igj.nl, nl.headtopics.com",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
+            "duplicate_count": 7,
             "belangrijkheid": 1
         },
         {
             "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
             "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
             "publishedDate": "12/11/2026 13:03",
-            "source": "bndestem.nl, drimble.nl",
+            "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "belangrijkheid": 0
         },
         {
@@ -104,10 +104,10 @@
             "title": "'Antidepressiva voorkomen ook terugval op de langere termijn' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/antidepressiva-voorkomen-ook-terugval-op-de-langere-termijn",
             "publishedDate": "12/11/2026 10:53",
-            "source": "pw.nl",
+            "source": "ad.nl, pw.nl, radboudumc.nl, rtl.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
+            "duplicate_count": 4,
             "belangrijkheid": 0
         },
         {
@@ -481,6 +481,16 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
+            "link": "https://www.bndestem.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
+            "publishedDate": "12/11/2026 06:34",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zorgpremie en eigen risico gaan omhoog, waar kun je nog op besparen? - Omroep West",
             "link": "https://www.omroepwest.nl/zorg/5172282/zorgpremie-en-eigen-risico-gaan-omhoog-waar-kun-je-nog-op-besparen",
             "publishedDate": "12/11/2026 06:34",
@@ -644,10 +654,10 @@
             "title": "Jeugdhulp Caterva schiet 'ernstig' tekort, geen nieuwe cli\u00ebnten - Reformatorisch Dagblad",
             "link": "https://www.rd.nl/artikel/jeugdhulp-caterva-schiet-ernstig-tekort-geen-nieuwe-clienten",
             "publishedDate": "11/11/2026 22:56",
-            "source": "bndestem.nl, huisaanhuisoldebroek.nl, igj.nl, nl.headtopics.com, rd.nl, tubantia.nl, vrmg.nl",
+            "source": "rd.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 10,
+            "duplicate_count": 1,
             "belangrijkheid": 1
         },
         {
@@ -791,6 +801,16 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Inspectie grijpt in bij jeugdzorgorganisatie Caterva - VRMG",
+            "link": "https://vrmg.nl/inspectie-grijpt-in-bij-jeugdzorgorganisatie-caterva",
+            "publishedDate": "11/11/2026 18:12",
+            "source": "vrmg.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "belangrijkheid": 1
+        },
+        {
             "title": "PRO Vlaardingen: onnodige onrust over toekomst Broekpolder - Vlaardingen24",
             "link": "https://vlaardingen24.nl/artikel/pro-vlaardingen-onnodige-onrust-over-toekomst-broekpolder",
             "publishedDate": "11/11/2026 18:05",
@@ -828,16 +848,6 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Studie toont werking van antidepressiva op lange termijn - Radboudumc",
-            "link": "https://www.radboudumc.nl/nieuws/2026/studie-toont-werking-van-antidepressiva-op-lange-termijn",
-            "publishedDate": "11/11/2026 17:34",
-            "source": "ad.nl, radboudumc.nl, rtl.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
             "belangrijkheid": 0
         },
         {
@@ -919,6 +929,16 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdhulporganisatie op Veluwe mag geen nieuwe jongeren aannemen na hard oordeel inspectie",
+            "link": "https://www.tubantia.nl/apeldoorn/jeugdhulporganisatie-op-veluwe-mag-geen-nieuwe-jongeren-aannemen-na-hard-oordeel-inspectie~ac8d7366/",
+            "publishedDate": "11/11/2026 16:16",
+            "source": "bndestem.nl, tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 2,
+            "belangrijkheid": 1
         },
         {
             "title": "Veel gehandicapte kinderen gaan niet naar school in eigen woonplaats - Zorgkrant",
@@ -1068,7 +1088,7 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 6,
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Lezing over mindful opvoeden in de Weeffabriek in Geldrop",
@@ -1191,6 +1211,16 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Inspectie tikt Nunspeetse zorgorganisatie Caterva op de vingers - Huis aan Huis Oldebroek",
+            "link": "https://www.huisaanhuisoldebroek.nl/lokaal/maatschappelijk/60415/inspectie-tikt-nunspeetse-zorgorganisatie-caterva-op-de-vingers",
+            "publishedDate": "11/11/2026 11:39",
+            "source": "huisaanhuisoldebroek.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgorganisatie",
+            "duplicate_count": 1,
+            "belangrijkheid": 1
+        },
+        {
             "title": "Duurzaamheid: gewoon beginnen, leren van anderen en ruimte geven",
             "link": "https://nvz-ziekenhuizen.nl/actualiteit-en-opinie/duurzaamheid-gewoon-beginnen-leren-van-anderen-en-ruimte-geven",
             "publishedDate": "11/11/2026 11:36",
@@ -1244,10 +1274,10 @@
             "title": "Voor ouderen kan goede spoedzorg niet zonder de VVT - Zorgkrant",
             "link": "https://zorgkrant.nl/ouderenzorg/21656-voor-ouderen-kan-goede-spoedzorg-niet-zonder-de-vvt",
             "publishedDate": "11/11/2026 09:14",
-            "source": "actiz.nl, zorgkrant.nl",
+            "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 3,
+            "duplicate_count": 1,
             "belangrijkheid": 0
         },
         {
@@ -1413,6 +1443,26 @@
         {
             "title": "[Artikel] Mantelzorgers: onmisbaar, maar niet onbegrensd",
             "link": "https://www.actiz.nl/actueel/mantelzorgers-onmisbaar-maar-niet-onbegrensd",
+            "publishedDate": "10/11/2026 01:00",
+            "source": "actiz.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
+            "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
+            "publishedDate": "10/11/2026 01:00",
+            "source": "actiz.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
+            "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
             "publishedDate": "10/11/2026 01:00",
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
