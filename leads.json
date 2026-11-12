@@ -53,7 +53,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Digitale gegevensuitwisseling maakt passende palliatieve zorg mogelijk - ZonMw",
@@ -78,6 +78,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
+            "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
+            "publishedDate": "12/11/2026 16:04",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Moeite met pillen slikken? Met deze 2 simpele technieken wordt het een stuk makkelijker",
             "link": "https://gezondnu.nl/gezondheid/makkelijker-pillen-slikken-tabletten-capsules-onderzoek-p7m642",
             "publishedDate": "12/11/2026 16:02",
@@ -95,7 +106,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Nota n a v  verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -108,9 +119,21 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/3eab501e-e574-4874-a3d2-2190e1df0850",
                     "publishedDate": "12/11/2026 15:57"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij antwoorden op vragen over bericht 'Bijna 300 mensen op zwarte lijst van ziekenhuizen door agressie tegen zorgpersoneel'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/0d051558-7d23-4614-902f-7d81d751400f",
+                    "publishedDate": "11/11/2026 15:37"
+                },
+                {
+                    "title": "[WOO] Antwoorden op vragen over bericht 'Bijna 300 mensen op zwarte lijst van ziekenhuizen door agressie tegen zorgpersoneel'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c9615ba1-6222-491a-ab5b-bc6a2e87b1ea",
+                    "publishedDate": "11/11/2026 15:37"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Schouwen-Duiveland maakt extra opvangplaatsen vrij voor Oekra\u00efense vluchtelingen en ...",
@@ -179,7 +202,7 @@
                     "publishedDate": "12/11/2026 15:40"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
@@ -203,7 +226,7 @@
                     "publishedDate": "12/11/2026 13:03"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit",
@@ -312,17 +335,24 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Illya uit B&amp;B Vol Liefde met spoed naar ziekenhuis: 'Hart werkt nog maar voor 20 procent'",
             "link": "https://www.andc.tv/entertainment/illya-uit-b-b-vol-liefde-met-spoed-naar-ziekenhuis-hart-werkt-nog-maar-voor-20-procent-",
             "publishedDate": "12/11/2026 14:50",
-            "source": "andc.tv",
+            "source": "andc.tv, metronieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Illya uit B&amp;B Vol Liefde met hartproblemen in ziekenhuis: 'Sylwia is niet langsgekomen'",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/entertainment/2026/11/illya-benb-vol-liefde-hartproblemen-ziekenhuis/",
+                    "publishedDate": "12/11/2026 12:17"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -387,6 +417,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Medisch Centrum West: Pati\u00ebnt herbeleeft traumatisch auto-ongeluk - KIJK",
+            "link": "https://www.kijk.nl/programmas/medisch-centrum-west/ZMJDEhcQBTmyzm",
+            "publishedDate": "12/11/2026 14:31",
+            "source": "kijk.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -472,11 +513,48 @@
             "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
             "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
             "publishedDate": "12/11/2026 13:45",
-            "source": "igj.nl",
+            "source": "huisaanhuisoldebroek.nl, igj.nl, nl.headtopics.com, rd.nl, vrmg.nl, zorgkrant.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 10,
+            "extra_bronnen": [
+                {
+                    "title": "Jeugdhulp van Caterva heeft een aanwijzing met cli\u00ebntenstop - Zorgkrant",
+                    "source": "zorgkrant.nl",
+                    "link": "https://zorgkrant.nl/management-en-beleid/21660-jeugdhulp-van-caterva-heeft-een-aanwijzing-met-clientenstop",
+                    "publishedDate": "12/11/2026 08:37"
+                },
+                {
+                    "title": "Jeugdhulp Caterva schiet 'ernstig' tekort, geen nieuwe cli\u00ebnten - Reformatorisch Dagblad",
+                    "source": "rd.nl",
+                    "link": "https://www.rd.nl/artikel/jeugdhulp-caterva-schiet-ernstig-tekort-geen-nieuwe-clienten",
+                    "publishedDate": "11/11/2026 22:56"
+                },
+                {
+                    "title": "Aanwijzing met cli\u00ebntenstop voor jeugdhulp van Caterva",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/11/aanwijzing-met-clientenstop-jeugdhulp-caterva",
+                    "publishedDate": "11/11/2026 22:04"
+                },
+                {
+                    "title": "Inspectie grijpt in bij jeugdzorgorganisatie Caterva - VRMG",
+                    "source": "vrmg.nl",
+                    "link": "https://vrmg.nl/inspectie-grijpt-in-bij-jeugdzorgorganisatie-caterva",
+                    "publishedDate": "11/11/2026 18:12"
+                },
+                {
+                    "title": "Inspectie verbiedt Caterva nieuwe jongeren te plaatsen | Maatschappij - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/inspectie-verbiedt-caterva-nieuwe-jongeren-te-plaatsen-89751466",
+                    "publishedDate": "11/11/2026 18:11"
+                },
+                {
+                    "title": "Inspectie tikt Nunspeetse zorgorganisatie Caterva op de vingers - Huis aan Huis Oldebroek",
+                    "source": "huisaanhuisoldebroek.nl",
+                    "link": "https://www.huisaanhuisoldebroek.nl/lokaal/maatschappelijk/60415/inspectie-tikt-nunspeetse-zorgorganisatie-caterva-op-de-vingers",
+                    "publishedDate": "11/11/2026 11:39"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -495,7 +573,7 @@
                     "publishedDate": "12/11/2026 13:07"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Pati\u00ebnten met een resistente bacterie hebben behoefte aan betere informatie",
@@ -545,11 +623,18 @@
             "title": "30 procent van de vrouwen kampt met overmatig bloedverlies tijdens menstruatie, maar ...",
             "link": "https://www.parool.nl/nederland/30-procent-van-de-vrouwen-kampt-met-overmatig-bloedverlies-tijdens-menstruatie-maar-deze-combinatiebehandeling-biedt-hoop~b01d2e85/",
             "publishedDate": "12/11/2026 13:11",
-            "source": "parool.nl",
+            "source": "ed.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "30 procent van de vrouwen verliest veel bloed tijdens de menstruatie, maar dit onderzoek biedt hoop",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/eindhoven/30-procent-van-de-vrouwen-verliest-veel-bloed-tijdens-de-menstruatie-maar-dit-onderzoek-biedt-hoop~a01d2e85/",
+                    "publishedDate": "12/11/2026 11:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -581,8 +666,15 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
+                    "publishedDate": "12/11/2026 12:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -593,17 +685,6 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
-            "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
-            "publishedDate": "12/11/2026 12:36",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -636,17 +717,6 @@
             "source": "lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Illya uit B&amp;B Vol Liefde met hartproblemen in ziekenhuis: 'Sylwia is niet langsgekomen'",
-            "link": "https://www.metronieuws.nl/entertainment/2026/11/illya-benb-vol-liefde-hartproblemen-ziekenhuis/",
-            "publishedDate": "12/11/2026 12:17",
-            "source": "metronieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -689,7 +759,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gemeente grijpt in spaarpot om 2027 te redden, maar vier partijen vrezen de rekening erna",
@@ -717,12 +787,31 @@
             "title": "Nieuwe CAO GGZ nog niet rond[ - BVKZ",
             "link": "https://bvkz.nl/nieuwe-cao-ggz-nog-niet-rond/",
             "publishedDate": "12/11/2026 11:11",
-            "source": "bvkz.nl",
+            "source": "bvkz.nl, cnv.nl, lad.nl, nu91.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
+                    "publishedDate": "11/11/2026 12:00"
+                },
+                {
+                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+                    "publishedDate": "10/11/2026 10:49"
+                },
+                {
+                    "title": "[CNV] Actie in de GGZ",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+                    "publishedDate": "10/11/2026 10:46"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Kan zwembad Hartekamp toch openblijven? Zweminstituut ziet kansen en redde al eerder ...",
@@ -736,12 +825,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "30 procent van de vrouwen verliest veel bloed tijdens de menstruatie, maar dit onderzoek biedt hoop",
-            "link": "https://www.ed.nl/eindhoven/30-procent-van-de-vrouwen-verliest-veel-bloed-tijdens-de-menstruatie-maar-dit-onderzoek-biedt-hoop~a01d2e85/",
-            "publishedDate": "12/11/2026 11:00",
-            "source": "ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
+            "title": "Lindenhaeghe sluit zich aan bij SIFS - VVP online -",
+            "link": "https://vvponline.nl/nieuws/lindenhaeghe-sluit-zich-aan-bij-sifs/",
+            "publishedDate": "12/11/2026 11:03",
+            "source": "vvponline.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -914,19 +1003,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek NIX18",
-            "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
-            "publishedDate": "12/11/2026 09:22",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek NIX18",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
+                    "publishedDate": "12/11/2026 09:22"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -936,19 +1021,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek HPV-vaccinatie",
-            "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
-            "publishedDate": "12/11/2026 09:17",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek HPV-vaccinatie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
+                    "publishedDate": "12/11/2026 09:17"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -980,19 +1061,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek Een tegen eenzaamheid",
-            "link": "https://open.overheid.nl/details/d51be9e6-fce6-4750-bf1e-b7cceb87d492",
-            "publishedDate": "12/11/2026 09:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek Een tegen eenzaamheid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/d51be9e6-fce6-4750-bf1e-b7cceb87d492",
+                    "publishedDate": "12/11/2026 09:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1005,66 +1082,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Jeugdhulp van Caterva heeft een aanwijzing met cli\u00ebntenstop - Zorgkrant",
-            "link": "https://zorgkrant.nl/management-en-beleid/21660-jeugdhulp-van-caterva-heeft-een-aanwijzing-met-clientenstop",
-            "publishedDate": "12/11/2026 08:37",
-            "source": "ad.nl, destentor.nl, huisaanhuisoldebroek.nl, igj.nl, nl.headtopics.com, rd.nl, tubantia.nl, vrmg.nl, zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 12,
-            "extra_bronnen": [
-                {
-                    "title": "Jeugdhulp Caterva schiet 'ernstig' tekort, geen nieuwe cli\u00ebnten - Reformatorisch Dagblad",
-                    "source": "rd.nl",
-                    "link": "https://www.rd.nl/artikel/jeugdhulp-caterva-schiet-ernstig-tekort-geen-nieuwe-clienten",
-                    "publishedDate": "11/11/2026 22:56"
-                },
-                {
-                    "title": "Aanwijzing met cli\u00ebntenstop voor jeugdhulp van Caterva",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/11/aanwijzing-met-clientenstop-jeugdhulp-caterva",
-                    "publishedDate": "11/11/2026 22:04"
-                },
-                {
-                    "title": "Inspectie grijpt hard in bij jeugdhulporganisatie op Veluwe: jongeren verblijven in onveilige ... - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/apeldoorn/inspectie-grijpt-hard-in-bij-jeugdhulporganisatie-op-veluwe-jongeren-verblijven-in-onveilige-onhygienische-omgeving~ac8d7366/",
-                    "publishedDate": "11/11/2026 19:37"
-                },
-                {
-                    "title": "Inspectie grijpt hard in bij jeugdhulporganisatie op Veluwe: jongeren verblijven in onveilige ...",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/nunspeet/inspectie-grijpt-hard-in-bij-jeugdhulporganisatie-op-veluwe-jongeren-verblijven-in-onveilige-onhygienische-omgeving~ac8d7366/",
-                    "publishedDate": "11/11/2026 18:07"
-                },
-                {
-                    "title": "Inspectie grijpt in bij jeugdzorgorganisatie Caterva - VRMG",
-                    "source": "vrmg.nl",
-                    "link": "https://vrmg.nl/inspectie-grijpt-in-bij-jeugdzorgorganisatie-caterva",
-                    "publishedDate": "11/11/2026 18:12"
-                },
-                {
-                    "title": "Inspectie verbiedt Caterva nieuwe jongeren te plaatsen | Maatschappij - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/inspectie-verbiedt-caterva-nieuwe-jongeren-te-plaatsen-89751466",
-                    "publishedDate": "11/11/2026 18:11"
-                },
-                {
-                    "title": "Jeugdhulporganisatie op Veluwe mag geen nieuwe jongeren aannemen na hard oordeel inspectie",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/apeldoorn/jeugdhulporganisatie-op-veluwe-mag-geen-nieuwe-jongeren-aannemen-na-hard-oordeel-inspectie~ac8d7366/",
-                    "publishedDate": "11/11/2026 16:16"
-                },
-                {
-                    "title": "Inspectie tikt Nunspeetse zorgorganisatie Caterva op de vingers - Huis aan Huis Oldebroek",
-                    "source": "huisaanhuisoldebroek.nl",
-                    "link": "https://www.huisaanhuisoldebroek.nl/lokaal/maatschappelijk/60415/inspectie-tikt-nunspeetse-zorgorganisatie-caterva-op-de-vingers",
-                    "publishedDate": "11/11/2026 11:39"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Minister Crevits schrapt tweede arts bij crematie: \u201cMeerwaarde was beperkt\u201d - Nieuwsblad",
@@ -1298,6 +1315,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Inspectie grijpt hard in bij jeugdhulporganisatie op Veluwe: jongeren verblijven in onveilige ... - AD",
+            "link": "https://www.ad.nl/apeldoorn/inspectie-grijpt-hard-in-bij-jeugdhulporganisatie-op-veluwe-jongeren-verblijven-in-onveilige-onhygienische-omgeving~ac8d7366/",
+            "publishedDate": "11/11/2026 19:37",
+            "source": "ad.nl, destentor.nl, tubantia.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Inspectie grijpt hard in bij jeugdhulporganisatie op Veluwe: jongeren verblijven in onveilige ...",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/nunspeet/inspectie-grijpt-hard-in-bij-jeugdhulporganisatie-op-veluwe-jongeren-verblijven-in-onveilige-onhygienische-omgeving~ac8d7366/",
+                    "publishedDate": "11/11/2026 18:07"
+                },
+                {
+                    "title": "Jeugdhulporganisatie op Veluwe mag geen nieuwe jongeren aannemen na hard oordeel inspectie",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/apeldoorn/jeugdhulporganisatie-op-veluwe-mag-geen-nieuwe-jongeren-aannemen-na-hard-oordeel-inspectie~ac8d7366/",
+                    "publishedDate": "11/11/2026 16:16"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Jongere werknemers vaker vermoeid: 'Druk buiten werk is hoger' | Algemeen | NU.nl",
             "link": "https://www.nu.nl/algemeen/6416140/jongere-werknemers-vaker-vermoeid-druk-buiten-werk-is-hoger.html",
             "publishedDate": "11/11/2026 19:37",
@@ -1372,7 +1413,7 @@
             "feed_label": "Alert zorgmedewerker",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Huisartsen zitten klem in eigen praktijk: 'Belachelijk dat mensen uit mijn wijk naar arts ...",
@@ -1514,24 +1555,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij antwoorden op vragen over bericht 'Bijna 300 mensen op zwarte lijst van ziekenhuizen door agressie tegen zorgpersoneel'",
-            "link": "https://open.overheid.nl/details/0d051558-7d23-4614-902f-7d81d751400f",
-            "publishedDate": "11/11/2026 15:37",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[WOO] Antwoorden op vragen over bericht 'Bijna 300 mensen op zwarte lijst van ziekenhuizen door agressie tegen zorgpersoneel'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c9615ba1-6222-491a-ab5b-bc6a2e87b1ea",
-                    "publishedDate": "11/11/2026 15:37"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Oosterparkbuurt krijgt extra handhavers en schoonmakers tegen drugsoverlast: 'Eerst zien ...",
             "link": "https://debrugkrant.nl/oosterparkbuurt-krijgt-extra-handhavers-en-schoonmakers-tegen-drugsoverlast-eerst-zien-dan-geloven/",
             "publishedDate": "11/11/2026 15:30",
@@ -1620,34 +1643,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Foto-expositie '100 jaar ouderenzorg in de Achterhoek - RTV IDEAAL",
-            "link": "https://www.rtvideaal.nl/agenda/foto-expositie-100-jaar-ouderenzorg-in-de-achterhoek",
-            "publishedDate": "11/11/2026 12:25",
-            "source": "rtvideaal.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Subsidie SO-Z&W 2027 voor opleiden en ontwikkelen van medewerkers",
             "link": "https://www.lhv.nl/nieuws/subsidie-so-zw-2027-voor-opleiden-en-ontwikkelen-van-medewerkers/",
             "publishedDate": "11/11/2026 12:24",
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
-            "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
-            "publishedDate": "11/11/2026 12:00",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1672,7 +1673,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Duurzaamheid: gewoon beginnen, leren van anderen en ruimte geven",
@@ -1682,17 +1683,6 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kinderen werken met 3D-pen in Bibliotheek Oostburg | Regio | PZC.nl",
-            "link": "https://www.pzc.nl/sluis/kinderen-werken-met-3d-pen-in-bibliotheek-oostburg~a971fdad/",
-            "publishedDate": "11/11/2026 11:12",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1722,33 +1712,24 @@
             "title": "Voor ouderen kan goede spoedzorg niet zonder de VVT - Zorgkrant",
             "link": "https://zorgkrant.nl/ouderenzorg/21656-voor-ouderen-kan-goede-spoedzorg-niet-zonder-de-vvt",
             "publishedDate": "11/11/2026 09:14",
-            "source": "zorgkrant.nl",
+            "source": "actiz.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "LAD/FBZ start actietraject in ggz-instellingen",
-            "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
-            "publishedDate": "10/11/2026 10:49",
-            "source": "lad.nl",
-            "category": "Vakbonden",
-            "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Actie in de GGZ",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-            "publishedDate": "10/11/2026 10:46",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
+                    "source": "actiz.nl",
+                    "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
+                    "publishedDate": "10/11/2026 01:00"
+                },
+                {
+                    "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
+                    "source": "actiz.nl",
+                    "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
+                    "publishedDate": "10/11/2026 01:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1886,28 +1867,6 @@
         {
             "title": "[Artikel] Mantelzorgers: onmisbaar, maar niet onbegrensd",
             "link": "https://www.actiz.nl/actueel/mantelzorgers-onmisbaar-maar-niet-onbegrensd",
-            "publishedDate": "10/11/2026 01:00",
-            "source": "actiz.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "Actiz",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
-            "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
-            "publishedDate": "10/11/2026 01:00",
-            "source": "actiz.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "Actiz",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
-            "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
             "publishedDate": "10/11/2026 01:00",
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
