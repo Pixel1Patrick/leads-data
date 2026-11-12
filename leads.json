@@ -5,7 +5,7 @@
             "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/12/verzoek-tot-overname-handelsvergunning-methergin",
             "publishedDate": "12/11/2026 15:00",
             "source": "cbg-meb.nl",
-            "category": "Overig",
+            "category": "Toezichthouders/Instituten",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
             "duplicate_count": 2,
             "extra_bronnen": [
@@ -69,6 +69,17 @@
             "source": "financieel-management.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgen om bezuiniging op armoedebeleid, maar begroting toch aangenomen door raad",
+            "link": "https://www.ad.nl/gouda/zorgen-om-bezuiniging-op-armoedebeleid-maar-begroting-toch-aangenomen-door-raad~ac288fd9/",
+            "publishedDate": "12/11/2026 14:32",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -306,6 +317,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Gemeente grijpt in spaarpot om 2027 te redden, maar vier partijen vrezen de rekening erna",
+            "link": "https://www.tubantia.nl/deventer/gemeente-grijpt-in-spaarpot-om-2027-te-redden-maar-vier-partijen-vrezen-de-rekening-erna~a1d38dbd/",
+            "publishedDate": "12/11/2026 12:03",
+            "source": "tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Treant Thuis start met beeldschermzorg in Emmen. Slimme zorg met persoonlijke aandacht",
             "link": "https://www.emmercourant.nl/emmen/treant-thuis-start-met-beeldschermzorg-in-emmen.-slimme-zorg-met-persoonlijke-aandacht/164444412.html",
             "publishedDate": "12/11/2026 11:46",
@@ -353,10 +375,10 @@
             "title": "'Antidepressiva voorkomen ook terugval op de langere termijn' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/antidepressiva-voorkomen-ook-terugval-op-de-langere-termijn",
             "publishedDate": "12/11/2026 10:53",
-            "source": "ad.nl, pw.nl, radboudumc.nl, rtl.nl",
+            "source": "pw.nl, radboudumc.nl, rtl.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Studie toont werking van antidepressiva op lange termijn - Radboudumc",
@@ -369,12 +391,6 @@
                     "source": "rtl.nl",
                     "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5664511/drie-antidepressiva-effectiever-prozac-onderzoek",
                     "publishedDate": "11/11/2026 17:22"
-                },
-                {
-                    "title": "Voorgeschreven antidepressiva lang niet altijd de beste keuze: dit zijn w\u00e9l de meest effectieve - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/binnenland/voorgeschreven-antidepressiva-lang-niet-altijd-de-beste-keuze-dit-zijn-wel-de-meest-effectieve~af03a9f2/",
-                    "publishedDate": "11/11/2026 17:20"
                 }
             ],
             "belangrijkheid": 0
@@ -558,19 +574,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek NIX18",
-            "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
-            "publishedDate": "12/11/2026 09:22",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek NIX18",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
+                    "publishedDate": "12/11/2026 09:22"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -580,19 +592,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek HPV-vaccinatie",
-            "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
-            "publishedDate": "12/11/2026 09:17",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek HPV-vaccinatie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
+                    "publishedDate": "12/11/2026 09:17"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -624,19 +632,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek Een tegen eenzaamheid",
-            "link": "https://open.overheid.nl/details/d51be9e6-fce6-4750-bf1e-b7cceb87d492",
-            "publishedDate": "12/11/2026 09:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek Een tegen eenzaamheid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/d51be9e6-fce6-4750-bf1e-b7cceb87d492",
+                    "publishedDate": "12/11/2026 09:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1147,6 +1151,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Voorgeschreven antidepressiva lang niet altijd de beste keuze: dit zijn w\u00e9l de meest effectieve - AD",
+            "link": "https://www.ad.nl/binnenland/voorgeschreven-antidepressiva-lang-niet-altijd-de-beste-keuze-dit-zijn-wel-de-meest-effectieve~af03a9f2/",
+            "publishedDate": "11/11/2026 17:20",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Update onderhandelingen CAO Gehandicaptenzorg - CNV",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-gehandicaptenzorg/nieuws/nieuwe-update-onderhandelingen-cao-gehandicaptenzorg/",
             "publishedDate": "11/11/2026 17:17",
@@ -1373,11 +1388,23 @@
             "title": "Acties in de ggz na vastlopen cao-onderhandelingen - V&amp;VN",
             "link": "https://www.venvn.nl/nieuws/acties-in-de-ggz-na-vastlopen-cao-onderhandelingen",
             "publishedDate": "11/11/2026 14:32",
-            "source": "cnv.nl, ggznieuws.nl, lad.nl, nu91.nl, venvn.nl",
+            "source": "cnv.nl, denederlandseggz.nl, ggznieuws.nl, lad.nl, nu91.nl, venvn.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 5,
+            "duplicate_count": 7,
             "extra_bronnen": [
+                {
+                    "title": "Werkgevers blijven bij eindbod cao ggz - - GGZ Nieuws",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/werkgevers-blijven-bij-eindbod-cao-ggz/",
+                    "publishedDate": "11/11/2026 12:14"
+                },
+                {
+                    "title": "[GGZ] Werkgevers blijven bij eindbod cao ggz",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/werkgevers-blijven-bij-eindbod-cao-ggz",
+                    "publishedDate": "09/11/2026 10:52"
+                },
                 {
                     "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
                     "source": "nu91.nl",
@@ -1509,24 +1536,6 @@
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Werkgevers blijven bij eindbod cao ggz - - GGZ Nieuws",
-            "link": "https://www.ggznieuws.nl/werkgevers-blijven-bij-eindbod-cao-ggz/",
-            "publishedDate": "11/11/2026 12:14",
-            "source": "denederlandseggz.nl, ggznieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[GGZ] Werkgevers blijven bij eindbod cao ggz",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/werkgevers-blijven-bij-eindbod-cao-ggz",
-                    "publishedDate": "09/11/2026 10:52"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1994,7 +2003,7 @@
             "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/05/webinar-voor-fabrikanten-en-groothandelaren-van-diergeneesmiddelen",
             "publishedDate": "05/11/2026 09:45",
             "source": "cbg-meb.nl",
-            "category": "Overig",
+            "category": "Toezichthouders/Instituten",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -2027,7 +2036,7 @@
             "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/04/column-over-medicijnen-melatonine-slaaphormoon-maar-geen-slaapmiddel",
             "publishedDate": "04/11/2026 11:00",
             "source": "cbg-meb.nl",
-            "category": "Overig",
+            "category": "Toezichthouders/Instituten",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -2313,7 +2322,7 @@
             "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/02/oproep-bijwerkingenweek-deel-je-verhaal-niet-alleen-online-maar-meld-het-ook",
             "publishedDate": "02/11/2026 08:00",
             "source": "cbg-meb.nl",
-            "category": "Overig",
+            "category": "Toezichthouders/Instituten",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
             "duplicate_count": 1,
             "extra_bronnen": [],
