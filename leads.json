@@ -124,10 +124,10 @@
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland - AD",
             "link": "https://www.ad.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
             "publishedDate": "12/11/2026 17:02",
-            "source": "ad.nl, bndestem.nl, drimble.nl, gelderlander.nl",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
@@ -140,18 +140,6 @@
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
                     "publishedDate": "12/11/2026 06:34"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-                    "publishedDate": "12/11/2026 14:29"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
-                    "publishedDate": "12/11/2026 13:03"
                 }
             ],
             "belangrijkheid": 1
@@ -655,6 +643,24 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+            "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+            "publishedDate": "12/11/2026 14:29",
+            "source": "bndestem.nl, drimble.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
+                    "publishedDate": "12/11/2026 13:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1639,24 +1645,11 @@
             "title": "Voor ouderen kan goede spoedzorg niet zonder de VVT - Zorgkrant",
             "link": "https://zorgkrant.nl/ouderenzorg/21656-voor-ouderen-kan-goede-spoedzorg-niet-zonder-de-vvt",
             "publishedDate": "11/11/2026 09:14",
-            "source": "actiz.nl, zorgkrant.nl",
+            "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
-                    "source": "actiz.nl",
-                    "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
-                    "publishedDate": "10/11/2026 01:00"
-                },
-                {
-                    "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
-                    "source": "actiz.nl",
-                    "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
-                    "publishedDate": "10/11/2026 01:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1794,6 +1787,28 @@
         {
             "title": "[Artikel] Mantelzorgers: onmisbaar, maar niet onbegrensd",
             "link": "https://www.actiz.nl/actueel/mantelzorgers-onmisbaar-maar-niet-onbegrensd",
+            "publishedDate": "10/11/2026 01:00",
+            "source": "actiz.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
+            "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
+            "publishedDate": "10/11/2026 01:00",
+            "source": "actiz.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
+            "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
             "publishedDate": "10/11/2026 01:00",
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
