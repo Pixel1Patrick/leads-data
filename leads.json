@@ -15,10 +15,10 @@
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
             "link": "https://www.ed.nl/brabant/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
             "publishedDate": "12/11/2026 19:02",
-            "source": "ad.nl, bndestem.nl, drimble.nl, ed.nl, gelderlander.nl",
+            "source": "ad.nl, bndestem.nl, ed.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 6,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland - AD",
@@ -37,18 +37,6 @@
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
                     "publishedDate": "12/11/2026 06:34"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-                    "publishedDate": "12/11/2026 14:29"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
-                    "publishedDate": "12/11/2026 13:03"
                 }
             ],
             "belangrijkheid": 1
@@ -344,7 +332,7 @@
                     "publishedDate": "12/11/2026 16:50"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over open brief het Acute zorglandschap staat onder zware druk van Stichting Acute Zorg VPR",
@@ -353,33 +341,48 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Reactie op commissiebrief inzake Open brief het Acute zorglandschap staat onder zware druk van Stichting Acute Zorg VPR",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
                     "publishedDate": "12/11/2026 16:50"
-                },
-                {
-                    "title": "Ondertekende brief",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
-                    "publishedDate": "12/11/2026 16:50"
-                },
-                {
-                    "title": "Beantwoording burgerbrief",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
-                    "publishedDate": "12/11/2026 16:50"
-                },
-                {
-                    "title": "Beantwoording brief aan de minister VWS d d  11 oktober2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
-                    "publishedDate": "12/11/2026 16:50"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ondertekende brief",
+            "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
+            "publishedDate": "12/11/2026 16:50",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beantwoording burgerbrief",
+            "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
+            "publishedDate": "12/11/2026 16:50",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beantwoording brief aan de minister VWS d d  11 oktober2026",
+            "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
+            "publishedDate": "12/11/2026 16:50",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -411,15 +414,19 @@
             "source": "catharinaziekenhuis.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Een nieuwe hartklep zonder operatie, herstellen in eigen huis: zo verandert de hartzorg",
-                    "source": "catharinaziekenhuis.nl",
-                    "link": "https://www.catharinaziekenhuis.nl/een-nieuwe-hartklep-zonder-operatie-herstellen-in-eigen-huis-zo-verandert-de-hartzorg/",
-                    "publishedDate": "12/11/2026 16:16"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Een nieuwe hartklep zonder operatie, herstellen in eigen huis: zo verandert de hartzorg",
+            "link": "https://www.catharinaziekenhuis.nl/een-nieuwe-hartklep-zonder-operatie-herstellen-in-eigen-huis-zo-verandert-de-hartzorg/",
+            "publishedDate": "12/11/2026 16:16",
+            "source": "catharinaziekenhuis.nl",
+            "category": "Zorgaanbieders",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -768,6 +775,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+            "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+            "publishedDate": "12/11/2026 14:29",
+            "source": "bndestem.nl, drimble.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
+                    "publishedDate": "12/11/2026 13:03"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Vier scholieren in Uganda overlijden mogelijk door vergiftiging, een nog in ziekenhuis",
             "link": "https://nos.nl/artikel/2639139-vier-scholieren-in-uganda-overlijden-mogelijk-door-vergiftiging-een-nog-in-ziekenhuis",
             "publishedDate": "12/11/2026 14:27",
@@ -1062,7 +1087,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kan zwembad Hartekamp toch openblijven? Zweminstituut ziet kansen en redde al eerder ...",
@@ -1254,15 +1279,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Campagne-effectonderzoek NIX18",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
-                    "publishedDate": "12/11/2026 09:22"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek NIX18",
+            "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
+            "publishedDate": "12/11/2026 09:22",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1272,15 +1301,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Campagne-effectonderzoek HPV-vaccinatie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
-                    "publishedDate": "12/11/2026 09:17"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek HPV-vaccinatie",
+            "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
+            "publishedDate": "12/11/2026 09:17",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1587,43 +1620,25 @@
             "feed_label": "Alert zorgmedewerker",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Update onderhandelingen CAO Gehandicaptenzorg - CNV",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-gehandicaptenzorg/nieuws/nieuwe-update-onderhandelingen-cao-gehandicaptenzorg/",
             "publishedDate": "11/11/2026 17:17",
-            "source": "cnv.nl, lad.nl, nu91.nl",
+            "source": "cnv.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "Alert Gehandicaptenzorg",
-            "duplicate_count": 6,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Update onderhandelingen cao kraamzorg",
                     "source": "nu91.nl",
                     "link": "https://nu91.nl/nieuws/767-update-onderhandelingen-cao-kraamzorg",
                     "publishedDate": "09/11/2026 10:57"
-                },
-                {
-                    "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
-                    "publishedDate": "11/11/2026 12:00"
-                },
-                {
-                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
-                    "publishedDate": "10/11/2026 10:49"
-                },
-                {
-                    "title": "[CNV] Actie in de GGZ",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-                    "publishedDate": "10/11/2026 10:46"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Thema-avond in Groenlo over jeugdzorg en passend onderwijs | Maatschappij - Elna.nl",
@@ -1654,6 +1669,17 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
+            "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
+            "publishedDate": "11/11/2026 12:00",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1698,6 +1724,28 @@
             "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "LAD/FBZ start actietraject in ggz-instellingen",
+            "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+            "publishedDate": "10/11/2026 10:49",
+            "source": "lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Actie in de GGZ",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+            "publishedDate": "10/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1852,15 +1900,19 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
-                    "source": "actiz.nl",
-                    "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
-                    "publishedDate": "10/11/2026 01:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
+            "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
+            "publishedDate": "10/11/2026 01:00",
+            "source": "actiz.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
