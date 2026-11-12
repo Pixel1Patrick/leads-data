@@ -7,13 +7,25 @@
             "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij een knuffel ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
                     "publishedDate": "12/11/2026 21:52"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:30"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:29"
                 }
             ],
             "belangrijkheid": 0
@@ -100,7 +112,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Steeds meer mensen bieden hun nier te koop aan | Gezond - AD",
@@ -333,6 +345,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zorgbouw Projectleider | Renovatie &amp; Nieuwbouw Ziekenhuizen | Harderwijk, Lelystad",
+            "link": "https://www.jobleads.com/nl/job/zorgbouw-projectleider-renovatie-nieuwbouw-ziekenhuizen--harderwijk--lelystad--e4e451958e13f112211809ba1317567c9",
+            "publishedDate": "12/11/2026 19:20",
+            "source": "jobleads.com",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Anneke gaat met pensioen - Sukerbiet.nl",
             "link": "https://www.sukerbiet.nl/anneke-gaat-met-pensioen/",
             "publishedDate": "12/11/2026 19:20",
@@ -391,11 +414,18 @@
             "title": "Meer duidelijkheid en \u00e9\u00e9n vast aanspreekpunt voor pati\u00ebnten met uitgezaaide prostaatkanker",
             "link": "https://www.antoniusziekenhuis.nl/kankercentrum/nieuwsoverzicht/meer-duidelijkheid-en-een-vast-aanspreekpunt-voor-patienten-met-uitgezaaide-prostaatkanker",
             "publishedDate": "12/11/2026 18:58",
-            "source": "antoniusziekenhuis.nl",
+            "source": "antoniusziekenhuis.nl, catharinaziekenhuis.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Samenwerking bij prostaatkanker verbetert zorg voor pati\u00ebnt in hele regio",
+                    "source": "catharinaziekenhuis.nl",
+                    "link": "https://www.catharinaziekenhuis.nl/samenwerking-bij-prostaatkanker-verbetert-zorg-voor-patient-in-hele-regio/",
+                    "publishedDate": "12/11/2026 16:16"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -419,24 +449,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
-            "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-            "publishedDate": "12/11/2026 18:30",
-            "source": "ad.nl, gelderlander.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:29"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Ziekenhuizen voor wekedelensarcomen - Kanker.nl",
@@ -509,7 +521,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De nieuwe editie van de Kennisagenda Wetenschappelijk Onderzoek Langdurige ... - UMCG",
@@ -594,11 +606,18 @@
             "title": "Ernstige hartproblemen voor Illya uit B&amp;B vol liefde, Sylwia laat zich nog niet zien - AD",
             "link": "https://www.ad.nl/show/ernstige-hartproblemen-voor-illya-uit-benb-vol-liefde-sylwia-laat-zich-nog-niet-zien~a9bc3c1d/",
             "publishedDate": "12/11/2026 17:40",
-            "source": "ad.nl",
+            "source": "ad.nl, vriendin.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Illya uit B&amp;B Vol Liefde in ziekenhuis, maar Sylwia komt niet langs: 'Niet zo heel blij'",
+                    "source": "vriendin.nl",
+                    "link": "https://www.vriendin.nl/nieuwtjes/illya-bb-vol-liefde-ziekenhuis-sylwia-niet-langsgekomen/",
+                    "publishedDate": "12/11/2026 15:54"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -842,17 +861,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Samenwerking bij prostaatkanker verbetert zorg voor pati\u00ebnt in hele regio",
-            "link": "https://www.catharinaziekenhuis.nl/samenwerking-bij-prostaatkanker-verbetert-zorg-voor-patient-in-hele-regio/",
-            "publishedDate": "12/11/2026 16:16",
-            "source": "catharinaziekenhuis.nl",
-            "category": "Zorgaanbieders",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Een nieuwe hartklep zonder operatie, herstellen in eigen huis: zo verandert de hartzorg",
             "link": "https://www.catharinaziekenhuis.nl/een-nieuwe-hartklep-zonder-operatie-herstellen-in-eigen-huis-zo-verandert-de-hartzorg/",
             "publishedDate": "12/11/2026 16:16",
@@ -965,17 +973,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Illya uit B&amp;B Vol Liefde in ziekenhuis, maar Sylwia komt niet langs: 'Niet zo heel blij'",
-            "link": "https://www.vriendin.nl/nieuwtjes/illya-bb-vol-liefde-ziekenhuis-sylwia-niet-langsgekomen/",
-            "publishedDate": "12/11/2026 15:54",
-            "source": "vriendin.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gemeente zei dat alle jongeren vervangende zorg hadden, maar deze gezinnen zitten zonder",
             "link": "https://www.destentor.nl/lelystad/gemeente-zei-dat-alle-jongeren-vervangende-zorg-hadden-maar-deze-gezinnen-zitten-zonder-we-horen-niets~a15eeed9/",
             "publishedDate": "12/11/2026 15:44",
@@ -1070,7 +1067,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Arbeidsmigranten zijn kwetsbaar en lopen risico op dakloosheid - Binnenlands Bestuur",
@@ -1099,17 +1096,6 @@
                     "publishedDate": "10/11/2026 10:00"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Computerproblemen in ziekenhuizen: \u00e9\u00e9n softwarepakket in het oog van de storm?",
-            "link": "https://www.despecialist.eu/nl/nieuws/computerproblemen-in-ziekenhuizen-een-softwarepakket-in-het-oog-van-de-storm.html",
-            "publishedDate": "12/11/2026 14:53",
-            "source": "despecialist.eu",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1666,34 +1652,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "HU, UU en UMCU maken samenwerken gemakkelijker | Utrecht Stad - Drimble",
-            "link": "https://drimble.nl/regio/utrecht/utrecht/108573105/hu-uu-en-umcu-maken-samenwerken-gemakkelijker.html",
-            "publishedDate": "11/11/2026 23:53",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Divisie Lab: Bepalingenwijzer - Candidozyma auris - UMC Utrecht",
             "link": "https://www.umcutrecht.nl/bepalingenwijzer/candidozyma-auris",
             "publishedDate": "11/11/2026 23:50",
             "source": "umcutrecht.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ambulance met spoed naar A1 | 11 november 2026 18:55 - Alarmeringen.nl",
-            "link": "https://alarmeringen.nl/messages/p2000-56086607-zo-a1-overplaatsing-vanaf-seh-vlz.html",
-            "publishedDate": "11/11/2026 20:40",
-            "source": "alarmeringen.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1753,11 +1717,18 @@
             "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
             "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
             "publishedDate": "11/11/2026 12:00",
-            "source": "nu91.nl",
+            "source": "cnv.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Actie in de GGZ",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+                    "publishedDate": "10/11/2026 10:46"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1797,11 +1768,24 @@
             "title": "Voor ouderen kan goede spoedzorg niet zonder de VVT - Zorgkrant",
             "link": "https://zorgkrant.nl/ouderenzorg/21656-voor-ouderen-kan-goede-spoedzorg-niet-zonder-de-vvt",
             "publishedDate": "11/11/2026 09:14",
-            "source": "zorgkrant.nl",
+            "source": "actiz.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
+                    "source": "actiz.nl",
+                    "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
+                    "publishedDate": "10/11/2026 01:00"
+                },
+                {
+                    "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
+                    "source": "actiz.nl",
+                    "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
+                    "publishedDate": "10/11/2026 01:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1819,18 +1803,11 @@
             "title": "LAD/FBZ start actietraject in ggz-instellingen",
             "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
             "publishedDate": "10/11/2026 10:49",
-            "source": "cnv.nl, lad.nl",
+            "source": "lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Actie in de GGZ",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-                    "publishedDate": "10/11/2026 10:46"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1957,28 +1934,6 @@
         {
             "title": "[Artikel] Mantelzorgers: onmisbaar, maar niet onbegrensd",
             "link": "https://www.actiz.nl/actueel/mantelzorgers-onmisbaar-maar-niet-onbegrensd",
-            "publishedDate": "10/11/2026 01:00",
-            "source": "actiz.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "Actiz",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
-            "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
-            "publishedDate": "10/11/2026 01:00",
-            "source": "actiz.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "Actiz",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
-            "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
             "publishedDate": "10/11/2026 01:00",
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
