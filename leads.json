@@ -428,7 +428,7 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Leeuwarden wil \u00e9\u00e9n plek voor vragen over zorg, geld, werk en jeugdhulp - Liwwadders",
@@ -498,7 +498,7 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 3,
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Jongere werknemers vaker vermoeid: 'Druk buiten werk is hoger' | Algemeen | NU.nl",
@@ -737,7 +737,7 @@
             "source": "tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "belangrijkheid": 0
         },
         {
@@ -777,6 +777,16 @@
             "source": "debrugkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "belangrijkheid": 0
+        },
+        {
+            "title": "In weekend huisarts nodig in Haaksbergen? Inwoner moet straks naar Enschede - Tubantia",
+            "link": "https://www.tubantia.nl/haaksbergen/in-weekend-huisarts-nodig-in-haaksbergen-inwoner-moet-straks-naar-enschede~aa77ce59/",
+            "publishedDate": "11/11/2026 15:30",
+            "source": "tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "belangrijkheid": 0
         },
@@ -874,10 +884,10 @@
             "title": "Magnetron vat vlam bij zorginstelling in Grubbenvorst - De Limburger",
             "link": "https://www.limburger.nl/regio/horst-aan-de-maas/grubbenvorst/magnetron-vat-vlam-bij-zorginstelling-in-grubbenvorst/164400859.html",
             "publishedDate": "11/11/2026 13:37",
-            "source": "limburger.nl, omroephorstaandemaas.nl",
+            "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "belangrijkheid": 0
         },
         {
@@ -899,6 +909,16 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "belangrijkheid": 1
+        },
+        {
+            "title": "Magnetron in brand bij zorginstelling in Grubbenvorst - Omroep Horst aan de Maas",
+            "link": "https://www.omroephorstaandemaas.nl/nieuws/magnetron-in-brand-bij-zorginstelling-in-grubbenvorst",
+            "publishedDate": "11/11/2026 13:30",
+            "source": "omroephorstaandemaas.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "belangrijkheid": 0
         },
         {
             "title": "Leidschendam-Voorburg breidt gezondheidsaanpak uit met extra hulp voor jongeren en ouderen",
