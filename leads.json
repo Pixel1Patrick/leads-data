@@ -8,26 +8,29 @@
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
             "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
             "publishedDate": "12/11/2026 13:45",
-            "source": "igj.nl, nl.headtopics.com",
+            "source": "igj.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
             "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
             "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
             "publishedDate": "12/11/2026 13:03",
-            "source": "bndestem.nl, drimble.nl",
+            "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -38,6 +41,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -48,6 +52,7 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -55,9 +60,10 @@
             "link": "https://www.lad.nl/cao-onderhandelingen-bij-arbodienstverlener-humantotalcare-gestart/",
             "publishedDate": "12/11/2026 12:18",
             "source": "lad.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -68,6 +74,7 @@
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -78,6 +85,7 @@
             "category": "Overig",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -88,6 +96,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -98,16 +107,31 @@
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "'Antidepressiva voorkomen ook terugval op de langere termijn' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/antidepressiva-voorkomen-ook-terugval-op-de-langere-termijn",
             "publishedDate": "12/11/2026 10:53",
-            "source": "pw.nl",
+            "source": "pw.nl, radboudumc.nl, rtl.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Studie toont werking van antidepressiva op lange termijn - Radboudumc",
+                    "source": "radboudumc.nl",
+                    "link": "https://www.radboudumc.nl/nieuws/2026/studie-toont-werking-van-antidepressiva-op-lange-termijn",
+                    "publishedDate": "11/11/2026 17:34"
+                },
+                {
+                    "title": "Groot onderzoek naar werking antidepressiva: verrassende uitkomst - RTL Nieuws",
+                    "source": "rtl.nl",
+                    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5664511/drie-antidepressiva-effectiever-prozac-onderzoek",
+                    "publishedDate": "11/11/2026 17:22"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -118,6 +142,7 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -128,6 +153,7 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -138,6 +164,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -148,6 +175,32 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "LIVE MIDDEN-OOSTEN. Doden bij Isra\u00eblische aanval op ziekenhuis - Iran dreigt met ...",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/buitenland/live-midden-oosten.-doden-bij-israelische-aanval-op-ziekenhuis-iran-dreigt-met-aanvallen-op-amerikaanse-basissen-in-europa/27532402.html",
+                    "publishedDate": "12/11/2026 09:39"
+                },
+                {
+                    "title": "Doden bij Isra\u00eblische aanval op ziekenhuis in Khan Younis in Gaza - Leidsch Dagblad",
+                    "source": "leidschdagblad.nl",
+                    "link": "https://www.leidschdagblad.nl/buitenland/doden-bij-israelische-aanval-op-ziekenhuis-in-khan-younis-in-gaza/164434712.html",
+                    "publishedDate": "12/11/2026 08:57"
+                },
+                {
+                    "title": "Doden bij Isra\u00eblische aanval op ziekenhuis in Khan Younis in Gaza - Nieuws.nl",
+                    "source": "nieuws.nl",
+                    "link": "https://nieuws.nl/buitenland/doden-bij-israelische-aanval-op-ziekenhuis-in-khan-younis-in-gaza",
+                    "publishedDate": "12/11/2026 08:55"
+                },
+                {
+                    "title": "Doden bij Isra\u00eblische aanval op ziekenhuis in Khan Younis in Gaza - DVHN",
+                    "source": "dvhn.nl",
+                    "link": "https://www.dvhn.nl/buitenland/doden-bij-israelische-aanval-op-ziekenhuis-in-khan-younis-in-gaza/158543212.html",
+                    "publishedDate": "12/11/2026 07:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -158,6 +211,7 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -168,6 +222,7 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -178,6 +233,7 @@
             "category": "Overig",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -188,6 +244,7 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -198,6 +255,7 @@
             "category": "Zorgaanbieders",
             "feed_label": "Alert umc",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -208,6 +266,7 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -218,6 +277,7 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -228,6 +288,7 @@
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -238,6 +299,7 @@
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -248,6 +310,14 @@
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek Stoppen met roken - PUUR",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/b557aed9-aeb2-4f6c-92c0-45e06d1b4194",
+                    "publishedDate": "12/11/2026 09:27"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -258,6 +328,7 @@
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -267,7 +338,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek NIX18",
+            "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
+            "publishedDate": "12/11/2026 09:22",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -277,7 +360,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek HPV-vaccinatie",
+            "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
+            "publishedDate": "12/11/2026 09:17",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -288,6 +383,7 @@
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -298,6 +394,7 @@
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -307,7 +404,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek Een tegen eenzaamheid",
+            "link": "https://open.overheid.nl/details/d51be9e6-fce6-4750-bf1e-b7cceb87d492",
+            "publishedDate": "12/11/2026 09:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -318,6 +427,7 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -328,6 +438,7 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -338,6 +449,7 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -348,6 +460,7 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -358,6 +471,7 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -368,6 +482,7 @@
             "category": "Landelijke Media",
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -378,6 +493,7 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -388,6 +504,14 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Ilya uit B&amp;B Vol Liefde lag met ernstige hartproblemen in het ziekenhuis | Achterklap - NU",
+                    "source": "nu.nl",
+                    "link": "https://www.nu.nl/achterklap/6416296/ilya-uit-bb-vol-liefde-lag-met-ernstige-hartproblemen-in-het-ziekenhuis.html",
+                    "publishedDate": "12/11/2026 06:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -398,6 +522,7 @@
             "category": "Overig",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -408,6 +533,7 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -418,6 +544,18 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Minister Sterk en IGJ criticisiert op toezicht Tamarinde Utrecht | Economy - Head Topics",
+            "link": "https://nl.headtopics.com/news/minister-sterk-en-igj-criticisiert-op-toezicht-tamarinde-89776093",
+            "publishedDate": "12/11/2026 07:01",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -428,6 +566,14 @@
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Lange wachttijden bij darmarts, maar oplossing is in zicht - RTV Noord",
+                    "source": "rtvnoord.nl",
+                    "link": "https://www.rtvnoord.nl/amp/zorg/1450350/lange-wachttijden-bij-darmarts-maar-oplossing-is-in-zicht",
+                    "publishedDate": "12/11/2026 06:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -438,6 +584,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -448,6 +595,18 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
+            "link": "https://www.bndestem.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
+            "publishedDate": "12/11/2026 06:34",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -458,6 +617,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -468,6 +628,7 @@
             "category": "Overig",
             "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -478,6 +639,7 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -488,6 +650,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -498,6 +661,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -508,6 +672,7 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -518,6 +683,7 @@
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -528,6 +694,7 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -538,6 +705,7 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -548,6 +716,7 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -558,6 +727,7 @@
             "category": "Overig",
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -568,6 +738,7 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -578,6 +749,7 @@
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -588,6 +760,7 @@
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -598,6 +771,7 @@
             "category": "Zorgaanbieders",
             "feed_label": "Alert umc",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -608,16 +782,74 @@
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Fietser breekt been bij ongeluk, toevallig aanwezige huisarts verleent eerste hulp - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/nijmegen/fietser-breekt-been-bij-ongeluk-toevallig-aanwezige-huisarts-verleent-eerste-hulp~aa95251c/",
+                    "publishedDate": "11/11/2026 15:33"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Jeugdhulp Caterva schiet 'ernstig' tekort, geen nieuwe cli\u00ebnten - Reformatorisch Dagblad",
             "link": "https://www.rd.nl/artikel/jeugdhulp-caterva-schiet-ernstig-tekort-geen-nieuwe-clienten",
             "publishedDate": "11/11/2026 22:56",
-            "source": "bndestem.nl, huisaanhuisoldebroek.nl, igj.nl, nl.headtopics.com, rd.nl, tubantia.nl, vrmg.nl",
+            "source": "ad.nl, bndestem.nl, destentor.nl, huisaanhuisoldebroek.nl, igj.nl, nl.headtopics.com, rd.nl, tubantia.nl, vrmg.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 10,
+            "duplicate_count": 13,
+            "extra_bronnen": [
+                {
+                    "title": "Aanwijzing met cli\u00ebntenstop voor jeugdhulp van Caterva",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/11/aanwijzing-met-clientenstop-jeugdhulp-caterva",
+                    "publishedDate": "11/11/2026 22:04"
+                },
+                {
+                    "title": "Inspectie grijpt hard in bij jeugdhulporganisatie op Veluwe: jongeren verblijven in onveilige ... - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/apeldoorn/inspectie-grijpt-hard-in-bij-jeugdhulporganisatie-op-veluwe-jongeren-verblijven-in-onveilige-onhygienische-omgeving~ac8d7366/",
+                    "publishedDate": "11/11/2026 19:37"
+                },
+                {
+                    "title": "Inspectie grijpt hard in bij jeugdhulporganisatie op Veluwe: jongeren verblijven in onveilige ...",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/nunspeet/inspectie-grijpt-hard-in-bij-jeugdhulporganisatie-op-veluwe-jongeren-verblijven-in-onveilige-onhygienische-omgeving~ac8d7366/",
+                    "publishedDate": "11/11/2026 18:07"
+                },
+                {
+                    "title": "Inspectie grijpt in bij jeugdzorgorganisatie Caterva - VRMG",
+                    "source": "vrmg.nl",
+                    "link": "https://vrmg.nl/inspectie-grijpt-in-bij-jeugdzorgorganisatie-caterva",
+                    "publishedDate": "11/11/2026 18:12"
+                },
+                {
+                    "title": "Inspectie verbiedt Caterva nieuwe jongeren te plaatsen | Maatschappij - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/inspectie-verbiedt-caterva-nieuwe-jongeren-te-plaatsen-89751466",
+                    "publishedDate": "11/11/2026 18:11"
+                },
+                {
+                    "title": "Jeugdhulporganisatie op Veluwe mag geen nieuwe jongeren aannemen na hard oordeel inspectie",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/apeldoorn/jeugdhulporganisatie-op-veluwe-mag-geen-nieuwe-jongeren-aannemen-na-hard-oordeel-inspectie~ac8d7366/",
+                    "publishedDate": "11/11/2026 16:16"
+                },
+                {
+                    "title": "Jeugdhulporganisatie op Veluwe mag geen nieuwe jongeren aannemen na hard oordeel inspectie",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/altena/jeugdhulporganisatie-op-veluwe-mag-geen-nieuwe-jongeren-aannemen-na-hard-oordeel-inspectie~ac8d7366/",
+                    "publishedDate": "11/11/2026 16:12"
+                },
+                {
+                    "title": "Inspectie tikt Nunspeetse zorgorganisatie Caterva op de vingers - Huis aan Huis Oldebroek",
+                    "source": "huisaanhuisoldebroek.nl",
+                    "link": "https://www.huisaanhuisoldebroek.nl/lokaal/maatschappelijk/60415/inspectie-tikt-nunspeetse-zorgorganisatie-caterva-op-de-vingers",
+                    "publishedDate": "11/11/2026 11:39"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -628,6 +860,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -638,6 +871,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -648,6 +882,7 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -658,6 +893,7 @@
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -668,6 +904,7 @@
             "category": "Overig",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -678,6 +915,7 @@
             "category": "Overig",
             "feed_label": "Alert seh",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -688,17 +926,8 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Inspectie grijpt hard in bij jeugdhulporganisatie op Veluwe: jongeren verblijven in onveilige ... - AD",
-            "link": "https://www.ad.nl/apeldoorn/inspectie-grijpt-hard-in-bij-jeugdhulporganisatie-op-veluwe-jongeren-verblijven-in-onveilige-onhygienische-omgeving~ac8d7366/",
-            "publishedDate": "11/11/2026 19:37",
-            "source": "ad.nl, destentor.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 3,
-            "belangrijkheid": 1
         },
         {
             "title": "Jongere werknemers vaker vermoeid: 'Druk buiten werk is hoger' | Algemeen | NU.nl",
@@ -708,6 +937,7 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -718,6 +948,7 @@
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -728,6 +959,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -738,6 +970,7 @@
             "category": "Overig",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -748,6 +981,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -758,6 +992,7 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -768,6 +1003,7 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -778,6 +1014,7 @@
             "category": "Landelijke Media",
             "feed_label": "Alert zorgmedewerker",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -788,6 +1025,14 @@
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Huisartsen zitten klem in eigen praktijk: 'Belachelijk dat mensen uit mijn wijk naar arts ...",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/hoeksche-waard/huisartsen-zitten-klem-in-eigen-praktijk-belachelijk-dat-mensen-uit-mijn-wijk-naar-arts-verderop-moeten~a2fdc5a9/",
+                    "publishedDate": "11/11/2026 18:01"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -798,16 +1043,7 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Studie toont werking van antidepressiva op lange termijn - Radboudumc",
-            "link": "https://www.radboudumc.nl/nieuws/2026/studie-toont-werking-van-antidepressiva-op-lange-termijn",
-            "publishedDate": "11/11/2026 17:34",
-            "source": "ad.nl, radboudumc.nl, rtl.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -818,16 +1054,36 @@
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Voorgeschreven antidepressiva lang niet altijd de beste keuze: dit zijn w\u00e9l de meest effectieve - AD",
+            "link": "https://www.ad.nl/binnenland/voorgeschreven-antidepressiva-lang-niet-altijd-de-beste-keuze-dit-zijn-wel-de-meest-effectieve~af03a9f2/",
+            "publishedDate": "11/11/2026 17:20",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Update onderhandelingen CAO Gehandicaptenzorg - CNV",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-gehandicaptenzorg/nieuws/nieuwe-update-onderhandelingen-cao-gehandicaptenzorg/",
             "publishedDate": "11/11/2026 17:17",
-            "source": "cnv.nl",
-            "category": "Overig",
+            "source": "cnv.nl, nu91.nl",
+            "category": "Vakbonden",
             "feed_label": "Alert Gehandicaptenzorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[NU'91] Update onderhandelingen cao kraamzorg",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/767-update-onderhandelingen-cao-kraamzorg",
+                    "publishedDate": "09/11/2026 10:57"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -838,6 +1094,7 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -848,6 +1105,7 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -858,6 +1116,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -868,6 +1127,7 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -878,6 +1138,7 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -888,6 +1149,7 @@
             "category": "Overig",
             "feed_label": "Alert seh",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -898,6 +1160,7 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -908,6 +1171,7 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -918,6 +1182,7 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -928,6 +1193,14 @@
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "In weekend huisarts nodig in Haaksbergen? Inwoner moet straks naar Enschede - Tubantia",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/haaksbergen/in-weekend-huisarts-nodig-in-haaksbergen-inwoner-moet-straks-naar-enschede~aa77ce59/",
+                    "publishedDate": "11/11/2026 15:30"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -938,6 +1211,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -948,7 +1222,15 @@
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 2,
-            "belangrijkheid": 0
+            "extra_bronnen": [
+                {
+                    "title": "[WOO] Antwoorden op vragen over bericht 'Bijna 300 mensen op zwarte lijst van ziekenhuizen door agressie tegen zorgpersoneel'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c9615ba1-6222-491a-ab5b-bc6a2e87b1ea",
+                    "publishedDate": "11/11/2026 15:37"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Oosterparkbuurt krijgt extra handhavers en schoonmakers tegen drugsoverlast: 'Eerst zien ...",
@@ -958,6 +1240,7 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -968,6 +1251,7 @@
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -978,6 +1262,7 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -988,6 +1273,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -998,6 +1284,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert seh",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1008,6 +1295,7 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1018,27 +1306,19 @@
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Tijs van den Brink (CDA) waarschuwt voor stank door wietproef: 'Drugslucht bij de huisarts'",
-            "link": "https://wnl.tv/2026/11/11/tijs-van-den-brink-cda-waarschuwt-voor-stank-door-wietproef-drugslucht-bij-de-huisarts",
-            "publishedDate": "11/11/2026 14:35",
-            "source": "wnl.tv",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Acties in de ggz na vastlopen cao-onderhandelingen - V&amp;VN",
             "link": "https://www.venvn.nl/nieuws/acties-in-de-ggz-na-vastlopen-cao-onderhandelingen",
             "publishedDate": "11/11/2026 14:32",
-            "source": "cnv.nl, ggznieuws.nl, lad.nl, nu91.nl, venvn.nl",
+            "source": "venvn.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 6,
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Lezing over mindful opvoeden in de Weeffabriek in Geldrop",
@@ -1048,6 +1328,7 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1058,6 +1339,7 @@
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1068,6 +1350,7 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1078,6 +1361,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert zorgmedewerker",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1088,7 +1372,15 @@
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 2,
-            "belangrijkheid": 0
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Rapporteursnotitie over opzet periodieke rapportage Wmo 2015",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/fa5794e3-9be7-460f-9c9c-09c0f109bebd",
+                    "publishedDate": "11/11/2026 12:58"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie 2027: waarom je beter wacht tot 19 november - Welingelichte Kringen",
@@ -1098,6 +1390,7 @@
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1108,6 +1401,7 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1118,6 +1412,7 @@
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1128,6 +1423,25 @@
             "category": "Overig",
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Werkgevers blijven bij eindbod cao ggz - - GGZ Nieuws",
+            "link": "https://www.ggznieuws.nl/werkgevers-blijven-bij-eindbod-cao-ggz/",
+            "publishedDate": "11/11/2026 12:14",
+            "source": "denederlandseggz.nl, ggznieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[GGZ] Werkgevers blijven bij eindbod cao ggz",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/werkgevers-blijven-bij-eindbod-cao-ggz",
+                    "publishedDate": "09/11/2026 10:52"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1138,6 +1452,36 @@
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
+            "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
+            "publishedDate": "11/11/2026 12:00",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "FBZ start actietraject vanwege vastlopen onderhandelingen Cao GGZ -",
+            "link": "https://www.ggznieuws.nl/fbz-start-actietraject-vanwege-vastlopen-onderhandelingen-cao-ggz/",
+            "publishedDate": "11/11/2026 11:56",
+            "source": "ggznieuws.nl, lad.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+                    "publishedDate": "10/11/2026 10:49"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1148,6 +1492,7 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1155,9 +1500,10 @@
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-centrum-indicatiestelling-zorg/nieuws/nieuwe-cao-onderhandeling-ciz-wat-wil-jij-2026-11-11/",
             "publishedDate": "11/11/2026 11:41",
             "source": "cnv.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1168,6 +1514,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1178,6 +1525,7 @@
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1188,6 +1536,7 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1198,6 +1547,7 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1208,16 +1558,31 @@
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Voor ouderen kan goede spoedzorg niet zonder de VVT - Zorgkrant",
             "link": "https://zorgkrant.nl/ouderenzorg/21656-voor-ouderen-kan-goede-spoedzorg-niet-zonder-de-vvt",
             "publishedDate": "11/11/2026 09:14",
-            "source": "zorgkrant.nl",
+            "source": "actiz.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
+                    "source": "actiz.nl",
+                    "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
+                    "publishedDate": "10/11/2026 01:00"
+                },
+                {
+                    "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
+                    "source": "actiz.nl",
+                    "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
+                    "publishedDate": "10/11/2026 01:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1228,6 +1593,7 @@
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1238,6 +1604,18 @@
             "category": "Overig",
             "feed_label": "Alert seh",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gespecialiseerde psychiatrische crisiszorg sneller tot bij mensen thuis - 27 november 2026 ...",
+            "link": "https://www.despecialist.eu/nl/agenda/gespecialiseerde-psychiatrische-crisiszorg-sneller-tot-bij-mensen-thuis-27-november-2026-herentals.html",
+            "publishedDate": "11/11/2026 02:54",
+            "source": "despecialist.eu",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1248,6 +1626,18 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Actie in de GGZ",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+            "publishedDate": "10/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1258,6 +1648,7 @@
             "category": "Overig",
             "feed_label": "ZN",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1268,6 +1659,7 @@
             "category": "Overig",
             "feed_label": "ZN",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1278,6 +1670,7 @@
             "category": "Overig",
             "feed_label": "ZN",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1285,9 +1678,10 @@
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/fnv-zet-invoering-nieuwe-financiering-kinderopvang",
             "publishedDate": "10/11/2026 10:36",
             "source": "fnv.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1298,6 +1692,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1308,6 +1703,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1318,6 +1714,7 @@
             "category": "Toezichthouders/Instituten",
             "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1328,6 +1725,7 @@
             "category": "Overig",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1338,6 +1736,7 @@
             "category": "Toezichthouders/Instituten",
             "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1348,6 +1747,7 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1358,6 +1758,7 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1368,6 +1769,7 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1378,6 +1780,7 @@
             "category": "Overig",
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1388,26 +1791,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
             "duplicate_count": 1,
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Nieuws] Goede spoedzorg voor ouderen kan niet zonder de VVT",
-            "link": "https://www.actiz.nl/actueel/goede-spoedzorg-voor-ouderen-kan-niet-zonder-de-vvt",
-            "publishedDate": "10/11/2026 01:00",
-            "source": "actiz.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "Actiz",
-            "duplicate_count": 1,
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Publicatie] Position paper Spoedzorg voor ouderen - Verenso-ActiZ",
-            "link": "https://www.actiz.nl/actueel/position-paper-spoedzorg-voor-ouderen-verenso-actiz",
-            "publishedDate": "10/11/2026 01:00",
-            "source": "actiz.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "Actiz",
-            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1418,6 +1802,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1428,26 +1813,7 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] Update onderhandelingen cao kraamzorg",
-            "link": "https://nu91.nl/nieuws/767-update-onderhandelingen-cao-kraamzorg",
-            "publishedDate": "09/11/2026 10:57",
-            "source": "cnv.nl, nu91.nl",
-            "category": "Overig",
-            "feed_label": "NU91",
-            "duplicate_count": 2,
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[GGZ] Werkgevers blijven bij eindbod cao ggz",
-            "link": "https://www.denederlandseggz.nl/nieuws/2026/werkgevers-blijven-bij-eindbod-cao-ggz",
-            "publishedDate": "09/11/2026 10:52",
-            "source": "denederlandseggz.nl",
-            "category": "Overig",
-            "feed_label": "Nederlandse ggz",
-            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1455,9 +1821,21 @@
             "link": "https://www.lad.nl/helft-geneeskundestudenten-heeft-financiele-zorgen/",
             "publishedDate": "09/11/2026 10:49",
             "source": "lad.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Update onderhandelingen nieuwe cao Kraamzorg",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-kraamzorg/nieuws/update-onderhandelingen-nieuwe-cao-kraamzorg-2026-11-09/",
+            "publishedDate": "09/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1465,9 +1843,17 @@
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/nieuws/ggz-werknemers-gaan-vanaf-december-actievoeren-eerste-acties-deze-eeuw/",
             "publishedDate": "09/11/2026 10:46",
             "source": "cnv.nl, fnv.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "CNV zorg",
             "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[FNV] GGZ-werknemers gaan vanaf december actievoeren: eerste acties deze eeuw",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/algemeen-nieuws/2026/11/ggz-werknemers-gaan-vanaf-december-actievoeren-eer",
+                    "publishedDate": "09/11/2026 10:36"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -1478,6 +1864,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1488,6 +1875,7 @@
             "category": "Overig",
             "feed_label": "Tuchtcollege voor de Gezondheidszorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1498,6 +1886,7 @@
             "category": "Overig",
             "feed_label": "ACM Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1505,9 +1894,10 @@
             "link": "https://www.lad.nl/lad-en-colbe-wisselen-inzet-uit-voor-nieuwe-cao/",
             "publishedDate": "06/11/2026 10:49",
             "source": "lad.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1515,9 +1905,10 @@
             "link": "https://www.lad.nl/onderhandelingen-nieuwe-cao-arbo-unie-van-start/",
             "publishedDate": "06/11/2026 10:49",
             "source": "lad.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1528,6 +1919,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1538,6 +1930,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1548,6 +1941,7 @@
             "category": "Overig",
             "feed_label": "VWS Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1558,6 +1952,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1565,9 +1960,10 @@
             "link": "https://www.lad.nl/helft-van-jonge-artsen-stelt-kinderwens-uit-vanwege-werk/",
             "publishedDate": "05/11/2026 10:49",
             "source": "lad.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1578,6 +1974,7 @@
             "category": "Overig",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1588,6 +1985,7 @@
             "category": "Overig",
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1598,6 +1996,7 @@
             "category": "Toezichthouders/Instituten",
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1608,6 +2007,7 @@
             "category": "Overig",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1615,9 +2015,10 @@
             "link": "https://www.cnv.nl/nieuws/onderhandelingsresultaat-nieuwe-cao-fysiotherapie-2026-11-04/",
             "publishedDate": "04/11/2026 10:46",
             "source": "cnv.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1625,9 +2026,10 @@
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/apotheekmedewerkers-achterbanraadpleging-pensioen",
             "publishedDate": "04/11/2026 10:36",
             "source": "fnv.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1638,6 +2040,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1648,6 +2051,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1658,6 +2062,7 @@
             "category": "Toezichthouders/Instituten",
             "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1668,6 +2073,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1678,6 +2084,7 @@
             "category": "Overig",
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1688,6 +2095,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1698,6 +2106,7 @@
             "category": "Toezichthouders/Instituten",
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1708,6 +2117,7 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1715,9 +2125,10 @@
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ambulancezorg/nieuws/wat-vind-jij-belangrijk-voor-de-nieuwe-cao-ambulancezorg-2026-11-03/",
             "publishedDate": "03/11/2026 10:46",
             "source": "cnv.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1725,9 +2136,10 @@
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-verpleeg-verzorgingshuizen-en-thuiszorg/nieuws/word-cnv-vakbondsconsulent-en-sta-naast-je-collegas-bij-kalorama-2026-11-03/",
             "publishedDate": "03/11/2026 10:46",
             "source": "cnv.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1738,6 +2150,7 @@
             "category": "Overig",
             "feed_label": "ZN",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1745,9 +2158,10 @@
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/praat-jij-mee-over-nieuwe-normfuncties-cao-umc",
             "publishedDate": "03/11/2026 10:36",
             "source": "fnv.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1758,6 +2172,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1768,6 +2183,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1778,6 +2194,7 @@
             "category": "Overig",
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1788,6 +2205,7 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1798,6 +2216,7 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1808,6 +2227,7 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1818,6 +2238,7 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1828,6 +2249,7 @@
             "category": "Overig",
             "feed_label": "Nederlandse ggz",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1835,9 +2257,10 @@
             "link": "https://www.lad.nl/lad-fbz-stelt-de-nederlandse-ggz-een-ultimatum/",
             "publishedDate": "02/11/2026 10:49",
             "source": "lad.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1845,9 +2268,10 @@
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/cao-ggz-ultimatum-2026-11-02/",
             "publishedDate": "02/11/2026 10:46",
             "source": "cnv.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1858,6 +2282,7 @@
             "category": "Toezichthouders/Instituten",
             "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1868,6 +2293,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1878,6 +2304,7 @@
             "category": "Overig",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1888,6 +2315,7 @@
             "category": "Overig",
             "feed_label": "VWS Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1895,9 +2323,10 @@
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/inzet-cnv-voor-nieuwe-cao-ziekenhuizen-2026-10-30/",
             "publishedDate": "30/10/2026 10:46",
             "source": "cnv.nl",
-            "category": "Overig",
+            "category": "Vakbonden",
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1908,6 +2337,7 @@
             "category": "Toezichthouders/Instituten",
             "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1918,6 +2348,7 @@
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1928,6 +2359,7 @@
             "category": "Overig",
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         }
     ],
