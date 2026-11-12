@@ -16,7 +16,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Utrecht gaat door met gratis relatie- en scheidingsspreekuur in Leidsche Rijn, Vleuten en de Meern",
@@ -178,7 +178,7 @@
                     "publishedDate": "12/11/2026 16:50"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over open brief het Acute zorglandschap staat onder zware druk van Stichting Acute Zorg VPR",
@@ -187,49 +187,34 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Reactie op commissiebrief inzake Open brief het Acute zorglandschap staat onder zware druk van Stichting Acute Zorg VPR",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
                     "publishedDate": "12/11/2026 16:50"
+                },
+                {
+                    "title": "Ondertekende brief",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
+                    "publishedDate": "12/11/2026 16:50"
+                },
+                {
+                    "title": "Beantwoording burgerbrief",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
+                    "publishedDate": "12/11/2026 16:50"
+                },
+                {
+                    "title": "Beantwoording brief aan de minister VWS d d  11 oktober2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
+                    "publishedDate": "12/11/2026 16:50"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ondertekende brief",
-            "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
-            "publishedDate": "12/11/2026 16:50",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Beantwoording burgerbrief",
-            "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
-            "publishedDate": "12/11/2026 16:50",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Beantwoording brief aan de minister VWS d d  11 oktober2026",
-            "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
-            "publishedDate": "12/11/2026 16:50",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Eigen weg: apotheker Jan Appelo - Arts en Auto",
@@ -380,11 +365,18 @@
             "title": "Illya uit B&amp;B Vol Liefde in ziekenhuis, maar Sylwia komt niet langs: 'Niet zo heel blij'",
             "link": "https://www.vriendin.nl/nieuwtjes/illya-bb-vol-liefde-ziekenhuis-sylwia-niet-langsgekomen/",
             "publishedDate": "12/11/2026 15:54",
-            "source": "vriendin.nl",
+            "source": "andc.tv, vriendin.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Illya uit B&amp;B Vol Liefde met spoed naar ziekenhuis: 'Hart werkt nog maar voor 20 procent'",
+                    "source": "andc.tv",
+                    "link": "https://www.andc.tv/entertainment/illya-uit-b-b-vol-liefde-met-spoed-naar-ziekenhuis-hart-werkt-nog-maar-voor-20-procent-",
+                    "publishedDate": "12/11/2026 14:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -543,17 +535,6 @@
             "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Illya uit B&amp;B Vol Liefde met spoed naar ziekenhuis: 'Hart werkt nog maar voor 20 procent'",
-            "link": "https://www.andc.tv/entertainment/illya-uit-b-b-vol-liefde-met-spoed-naar-ziekenhuis-hart-werkt-nog-maar-voor-20-procent-",
-            "publishedDate": "12/11/2026 14:50",
-            "source": "andc.tv",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -873,15 +854,8 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
-                    "publishedDate": "12/11/2026 12:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -892,6 +866,17 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
+            "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
+            "publishedDate": "12/11/2026 12:36",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -965,12 +950,43 @@
             "title": "Nieuwe CAO GGZ nog niet rond[ - BVKZ",
             "link": "https://bvkz.nl/nieuwe-cao-ggz-nog-niet-rond/",
             "publishedDate": "12/11/2026 11:11",
-            "source": "bvkz.nl",
+            "source": "bvkz.nl, cnv.nl, lad.nl, nu91.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 7,
+            "extra_bronnen": [
+                {
+                    "title": "Update onderhandelingen CAO Gehandicaptenzorg - CNV",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-gehandicaptenzorg/nieuws/nieuwe-update-onderhandelingen-cao-gehandicaptenzorg/",
+                    "publishedDate": "11/11/2026 17:17"
+                },
+                {
+                    "title": "[NU'91] Update onderhandelingen cao kraamzorg",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/767-update-onderhandelingen-cao-kraamzorg",
+                    "publishedDate": "09/11/2026 10:57"
+                },
+                {
+                    "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
+                    "publishedDate": "11/11/2026 12:00"
+                },
+                {
+                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+                    "publishedDate": "10/11/2026 10:49"
+                },
+                {
+                    "title": "[CNV] Actie in de GGZ",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+                    "publishedDate": "10/11/2026 10:46"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Kan zwembad Hartekamp toch openblijven? Zweminstituut ziet kansen en redde al eerder ...",
@@ -1263,7 +1279,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Varkenshouder in Bergeijk knipt staarten af en slaat biggetjes tegen de muur: NVWA start ...",
@@ -1486,24 +1502,6 @@
             "belangrijkheid": 1
         },
         {
-            "title": "Update onderhandelingen CAO Gehandicaptenzorg - CNV",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-gehandicaptenzorg/nieuws/nieuwe-update-onderhandelingen-cao-gehandicaptenzorg/",
-            "publishedDate": "11/11/2026 17:17",
-            "source": "cnv.nl, nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "Alert Gehandicaptenzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[NU'91] Update onderhandelingen cao kraamzorg",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/767-update-onderhandelingen-cao-kraamzorg",
-                    "publishedDate": "09/11/2026 10:57"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Thema-avond in Groenlo over jeugdzorg en passend onderwijs | Maatschappij - Elna.nl",
             "link": "https://www.elna.nl/nieuws/maatschappij/564381/thema-avond-in-groenlo-over-jeugdzorg-en-passend-onderwijs",
             "publishedDate": "11/11/2026 16:07",
@@ -1545,30 +1543,6 @@
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
-            "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
-            "publishedDate": "11/11/2026 12:00",
-            "source": "cnv.nl, lad.nl, nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
-                    "publishedDate": "10/11/2026 10:49"
-                },
-                {
-                    "title": "[CNV] Actie in de GGZ",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-                    "publishedDate": "10/11/2026 10:46"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
