@@ -48,18 +48,11 @@
             "title": "Aantal Barendrechters zonder huisarts vermoedelijk veel hoger dan bekend - Barendrechts Dagblad",
             "link": "https://barendrechtsdagblad.nl/Lokaal/aantal-barendrechters-zonder-huisarts-vermoedelijk-veel-hoger-dan-bekend",
             "publishedDate": "13/11/2026 13:05",
-            "source": "ad.nl, barendrechtsdagblad.nl",
+            "source": "barendrechtsdagblad.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe Barendrechters dreigen zonder huisarts te zitten: 'Het is belachelijk dat mensen ...",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/barendrecht/nieuwe-barendrechters-dreigen-zonder-huisarts-te-zitten-het-is-belachelijk-dat-mensen-naar-een-dokter-bij-de-ikea-moeten~a2fdc5a9/",
-                    "publishedDate": "12/11/2026 16:14"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -166,11 +159,24 @@
             "title": "Nieuwe operatietechniek bij prostaatkanker in Brabantse ziekenhuizen - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6034632/nieuwe-operatietechniek-bij-prostaatkanker-in-brabantse-ziekenhuizen",
             "publishedDate": "13/11/2026 12:10",
-            "source": "omroepbrabant.nl",
+            "source": "bnr.nl, icthealth.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "AI spoort prostaatkanker net zo snel op als radioloog | BNR Nieuwsradio",
+                    "source": "bnr.nl",
+                    "link": "https://www.bnr.nl/nieuws/tech-innovatie/10615499/ai-spoort-prostaatkanker-net-zo-snel-op-als-radioloog",
+                    "publishedDate": "13/11/2026 11:25"
+                },
+                {
+                    "title": "AI spoort prostaatkanker op, prestaties verschillen per ziekenhuis - ICT&amp;health",
+                    "source": "icthealth.nl",
+                    "link": "https://www.icthealth.nl/nieuws/ai-spoort-prostaatkanker-op-prestaties-verschillen-per-ziekenhuis",
+                    "publishedDate": "13/11/2026 07:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -357,17 +363,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "AI spoort prostaatkanker net zo snel op als radioloog | BNR Nieuwsradio",
-            "link": "https://www.bnr.nl/nieuws/tech-innovatie/10615499/ai-spoort-prostaatkanker-net-zo-snel-op-als-radioloog",
-            "publishedDate": "13/11/2026 11:25",
-            "source": "bnr.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nieuwe zorginstelling Reehuis opent in 2027 in Huize Rhederpark in De Steeg - Studio Rheden -",
             "link": "https://studiorheden.nl/2026/11/13/nieuwe-zorginstelling-reehuis-opent-in-2027-in-huize-rhederpark-in-de-steeg/",
             "publishedDate": "13/11/2026 11:22",
@@ -478,7 +473,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Helpt invriezen van zalm tegen bacteri\u00ebn? | PlusOnline - Plus Magazine",
@@ -524,7 +519,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Premie Zorg en Zekerheid stijgt fors in 2027: tot \u20ac 264 extra - Zorgwijzer",
@@ -590,7 +585,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderen ervaren de gezondheidsgevolgen van bepaalde omgevingsfactoren soms tot ver ...",
@@ -640,11 +635,18 @@
             "title": "Spanje veroordeelt Isra\u00eblische bombardementen op Nasser-ziekenhuis in Gaza",
             "link": "https://nieuws.marokko.nl/119073/spanje-veroordeelt-israelische-bombardementen-op-nasser-ziekenhuis-in-gaza/",
             "publishedDate": "13/11/2026 10:06",
-            "source": "nieuws.marokko.nl",
+            "source": "islamomroep.nl, nieuws.marokko.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
+                    "source": "islamomroep.nl",
+                    "link": "https://islamomroep.nl/2026/11/13/chirurg-gedood-bij-luchtaanval-op-nasser-ziekenhuis-in-gaza/",
+                    "publishedDate": "13/11/2026 08:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -738,17 +740,6 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
-            "link": "https://islamomroep.nl/2026/11/13/chirurg-gedood-bij-luchtaanval-op-nasser-ziekenhuis-in-gaza/",
-            "publishedDate": "13/11/2026 08:41",
-            "source": "islamomroep.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -849,17 +840,6 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "AI spoort prostaatkanker op, prestaties verschillen per ziekenhuis - ICT&amp;health",
-            "link": "https://www.icthealth.nl/nieuws/ai-spoort-prostaatkanker-op-prestaties-verschillen-per-ziekenhuis",
-            "publishedDate": "13/11/2026 07:00",
-            "source": "icthealth.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1622,6 +1602,17 @@
             "publishedDate": "12/11/2026 16:33",
             "source": "bicycling.nl",
             "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nieuwe Barendrechters dreigen zonder huisarts te zitten: 'Het is belachelijk dat mensen ...",
+            "link": "https://www.ad.nl/barendrecht/nieuwe-barendrechters-dreigen-zonder-huisarts-te-zitten-het-is-belachelijk-dat-mensen-naar-een-dokter-bij-de-ikea-moeten~a2fdc5a9/",
+            "publishedDate": "12/11/2026 16:14",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
