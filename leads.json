@@ -91,25 +91,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
                     "publishedDate": "13/11/2026 12:34"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
-                    "publishedDate": "13/11/2026 11:18"
                 }
             ],
             "belangrijkheid": 1
@@ -118,12 +106,43 @@
             "title": "Microsoft-storing zorgt voor ongemak in Limburg: achter de schermen haperde het, maar het ...",
             "link": "https://www.limburger.nl/regio/limburg/microsoft-storing-zorgt-voor-ongemak-in-limburg-achter-de-schermen-haperde-het-maar-werk-gaat-gewoon-door/164502287.html",
             "publishedDate": "13/11/2026 12:24",
-            "source": "limburger.nl",
+            "source": "antoniusziekenhuis.nl, duic.nl, hartvannederland.nl, limburger.nl, nhnieuws.nl, wza.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Wereldwijde Microsoft-storing raakt ook Utrecht: ziekenhuizen en onderwijsinstellingen ...",
+                    "source": "duic.nl",
+                    "link": "https://www.duic.nl/algemeen/algemeen/61500/wereldwijde-microsoft-storing-raakt-ook-utrecht-ziekenhuizen-en-onderwijsinstellingen-ondervinden-hinder",
+                    "publishedDate": "13/11/2026 12:07"
+                },
+                {
+                    "title": "Grote Microsoft-storing treft ook ziekenhuizen, gemeenten en rechtbanken",
+                    "source": "hartvannederland.nl",
+                    "link": "https://www.hartvannederland.nl/tech/storing/artikelen/grote-microsoft-storing-treft-ziekenhuizen-gemeenten-rechtbanken",
+                    "publishedDate": "13/11/2026 12:05"
+                },
+                {
+                    "title": "Meerdere instanties in Noord-Holland geraakt door storing bij Microsoft - NH Nieuws",
+                    "source": "nhnieuws.nl",
+                    "link": "https://www.nhnieuws.nl/nieuws/365418/meerdere-instanties-in-noord-holland-geraakt-door-storing-bij-microsoft",
+                    "publishedDate": "13/11/2026 11:02"
+                },
+                {
+                    "title": "Storing bij Microsoft - Wilhelmina Ziekenhuis Assen",
+                    "source": "wza.nl",
+                    "link": "https://www.wza.nl/actueel/nieuws/storing-bij-microsoft",
+                    "publishedDate": "13/11/2026 10:16"
+                },
+                {
+                    "title": "Storing Microsoft: dit betekent het voor pati\u00ebnten | St. Antonius Ziekenhuis",
+                    "source": "antoniusziekenhuis.nl",
+                    "link": "https://www.antoniusziekenhuis.nl/storing-microsoft-dit-betekent-het-voor-patienten",
+                    "publishedDate": "13/11/2026 10:12"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Jaarlijkse 11-11 giften kapel van de Heilige Martinus - De MooiRooiKrant - MooiRooi.nl",
@@ -177,17 +196,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Wereldwijde Microsoft-storing raakt ook Utrecht: ziekenhuizen en onderwijsinstellingen ...",
-            "link": "https://www.duic.nl/algemeen/algemeen/61500/wereldwijde-microsoft-storing-raakt-ook-utrecht-ziekenhuizen-en-onderwijsinstellingen-ondervinden-hinder",
-            "publishedDate": "13/11/2026 12:07",
-            "source": "duic.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Het POH-alfabet: denkt u even mee? | medischcontact",
             "link": "https://www.medischcontact.nl/opinie/blogs-columns/blog/het-poh-alfabet-denkt-u-even-mee",
             "publishedDate": "13/11/2026 12:05",
@@ -205,17 +213,6 @@
             "source": "hartvannederland.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Grote Microsoft-storing treft ook ziekenhuizen, gemeenten en rechtbanken",
-            "link": "https://www.hartvannederland.nl/tech/storing/artikelen/grote-microsoft-storing-treft-ziekenhuizen-gemeenten-rechtbanken",
-            "publishedDate": "13/11/2026 12:05",
-            "source": "hartvannederland.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
@@ -306,7 +303,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgverzekeraars trekken portemonnee, maar premies stijgen alsnog fors - BNR",
@@ -317,7 +314,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgverzekering bij grote namen flink duurder volgend jaar - RTL Nieuws",
@@ -339,7 +336,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Mysterie opgelost: daarom kleurt het Slingeland Ziekenhuis komende zondag paars - AD",
@@ -412,7 +409,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Brief van ministerie van VWS aan Stichting Acute Zorg VPR in reactie op brief \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
@@ -421,27 +418,34 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Brief van Stichting Acute Zorq VPR in reactie op brief van VWS over \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
                     "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
+                    "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
+                    "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
+                    "publishedDate": "13/11/2026 11:18"
                 }
             ],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
-            "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
-            "publishedDate": "13/11/2026 11:18",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "Zorgpremie a.s.r. stijgt in 2027: tot \u20ac 21 per maand duurder - Zorgwijzer",
@@ -452,7 +456,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremies voor 2027 bekend: enorme stijging bij Tilburgs CZ - Omroep Brabant",
@@ -463,7 +467,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -499,17 +503,6 @@
             "belangrijkheid": 1
         },
         {
-            "title": "Meerdere instanties in Noord-Holland geraakt door storing bij Microsoft - NH Nieuws",
-            "link": "https://www.nhnieuws.nl/nieuws/365418/meerdere-instanties-in-noord-holland-geraakt-door-storing-bij-microsoft",
-            "publishedDate": "13/11/2026 11:02",
-            "source": "nhnieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Helpt invriezen van zalm tegen bacteri\u00ebn? | PlusOnline - Plus Magazine",
             "link": "https://www.plusonline.nl/huisarts/helpt-invriezen-van-zalm-tegen-bacterien",
             "publishedDate": "13/11/2026 11:00",
@@ -529,7 +522,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -538,19 +531,14 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Aanbiedingsbrief toezichtrapport 2025 over toezicht op het CAK door de Nederlandse Zorgautoriteit",
-            "link": "https://open.overheid.nl/details/d0cb4f18-e950-4a84-882a-7f6ecf5dc770",
-            "publishedDate": "13/11/2026 10:54",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Aanbiedingsbrief toezichtrapport 2025 over toezicht op het CAK door de Nederlandse Zorgautoriteit",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/d0cb4f18-e950-4a84-882a-7f6ecf5dc770",
+                    "publishedDate": "13/11/2026 10:54"
+                },
                 {
                     "title": "Aanbiedingsbrief bij toezichtrapport 2025 over toezicht op het CAK door de Nederlandse Zorgautoriteit",
                     "source": "open.overheid.nl",
@@ -558,7 +546,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Premie Zorg en Zekerheid stijgt fors in 2027: tot \u20ac 264 extra - Zorgwijzer",
@@ -569,7 +557,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremies ontploffen: dit gaan Brabanders volgend jaar betalen | Regio | AD.nl",
@@ -602,7 +590,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "'Premieachterstand beperkt keuzevrijheid tijdens overstapseizoen' - ANP Persportaal",
@@ -649,17 +637,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Storing bij Microsoft - Wilhelmina Ziekenhuis Assen",
-            "link": "https://www.wza.nl/actueel/nieuws/storing-bij-microsoft",
-            "publishedDate": "13/11/2026 10:16",
-            "source": "wza.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zorgkosten stijgen: premie De Friesland omhoog. Bekijk en vergelijk hier wat je in 2027 ...",
             "link": "https://www.lc.nl/regio/friesland/zorgkosten-stijgen-premie-de-friesland-omhoog.-bekijk-en-vergelijk-hier-wat-je-in-2027-betaalt-voor-jouw-polis/164491495.html",
             "publishedDate": "13/11/2026 10:15",
@@ -668,7 +645,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Geen operaties bij nierkanker meer in Drachten: rechter geeft ziekenhuis ongelijk",
@@ -676,17 +653,6 @@
             "publishedDate": "13/11/2026 10:13",
             "source": "omropfryslan.nl",
             "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Storing Microsoft: dit betekent het voor pati\u00ebnten | St. Antonius Ziekenhuis",
-            "link": "https://www.antoniusziekenhuis.nl/storing-microsoft-dit-betekent-het-voor-patienten",
-            "publishedDate": "13/11/2026 10:12",
-            "source": "antoniusziekenhuis.nl",
-            "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -701,7 +667,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Spanje veroordeelt Isra\u00eblische bombardementen op Nasser-ziekenhuis in Gaza",
@@ -734,7 +700,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zilveren Kruis verhoogt premie minder dan verwacht: \u20ac 5,70 per maand - Zorgwijzer",
@@ -745,7 +711,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Politieke partij VVD is boos, stappen ze uit de regering? - NOS Jeugdjournaal",
@@ -961,7 +927,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Frederique presteert in wereldtop, mede dankzij baan in gehandicaptenzorg - Omroep Brabant",
@@ -1040,7 +1006,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "United Microelectronics Belegger-score - UMC",
@@ -1144,13 +1110,25 @@
             "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij een knuffel ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
                     "publishedDate": "12/11/2026 21:52"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:30"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:29"
                 }
             ],
             "belangrijkheid": 0
@@ -1294,10 +1272,10 @@
             "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' | Nieuws | De Stentor.nl",
             "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-klachten-niet-negeren~a6caa9ee/",
             "publishedDate": "12/11/2026 20:08",
-            "source": "ad.nl, bd.nl, bndestem.nl, destentor.nl, gelderlander.nl, tubantia.nl",
+            "source": "ad.nl, bd.nl, bndestem.nl, destentor.nl, ed.nl, gelderlander.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 6,
+            "duplicate_count": 9,
             "extra_bronnen": [
                 {
                     "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' | Nieuws | BN DeStem.nl",
@@ -1328,6 +1306,24 @@
                     "source": "tubantia.nl",
                     "link": "https://www.tubantia.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
                     "publishedDate": "12/11/2026 17:06"
+                },
+                {
+                    "title": "Kun je ziek worden van borstimplantaten? 'Deel van de vrouwen ervaart verbetering na verwijdering'",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
+                    "publishedDate": "12/11/2026 17:06"
+                },
+                {
+                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig' | ED.nl",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
+                    "publishedDate": "12/11/2026 16:58"
+                },
+                {
+                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig'",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
+                    "publishedDate": "12/11/2026 16:58"
                 }
             ],
             "belangrijkheid": 0
@@ -1465,24 +1461,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
-            "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-            "publishedDate": "12/11/2026 18:30",
-            "source": "ad.nl, gelderlander.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:29"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "V&amp;VN Ambassadeurstraject | Ouderenzorg 2027 (vooraankondiging)",
             "link": "https://www.venvn.nl/academie/ons-aanbod/ambassadeurstraject-ouderenzorg-2027",
             "publishedDate": "12/11/2026 18:11",
@@ -1520,7 +1498,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De nieuwe editie van de Kennisagenda Wetenschappelijk Onderzoek Langdurige ... - UMCG",
@@ -1630,24 +1608,6 @@
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
-                    "publishedDate": "12/11/2026 16:04"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kun je ziek worden van borstimplantaten? 'Deel van de vrouwen ervaart verbetering na verwijdering'",
-            "link": "https://www.bd.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
-            "publishedDate": "12/11/2026 17:06",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1661,24 +1621,6 @@
             "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig' | ED.nl",
-            "link": "https://www.ed.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
-            "publishedDate": "12/11/2026 16:58",
-            "source": "destentor.nl, ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig'",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
-                    "publishedDate": "12/11/2026 16:58"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1743,6 +1685,17 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
+            "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
+            "publishedDate": "12/11/2026 16:04",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
