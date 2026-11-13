@@ -391,7 +391,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Overlast van daklozen bij Het Schenge: 'Ik spreek ouders die hun kind hier niet meer alleen ... - PZC",
@@ -672,24 +672,11 @@
             "title": "Interzorg Noord-Nederland uitgeroepen tot Drentse onderneming van het jaar - Head Topics",
             "link": "https://nl.headtopics.com/news/interzorg-noord-nederland-uitgeroepen-tot-drentse-89803055",
             "publishedDate": "12/11/2026 23:41",
-            "source": "dvhn.nl, nl.headtopics.com, rtvdrenthe.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Interzorg Noord-Nederland Drentse onderneming van het jaar: eerste zorginstelling die de prijs wint",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/nieuws/18943383/interzorg-noord-nederland-drentse-onderneming-van-het-jaar-eerste-zorginstelling-die-de-prijs-wint",
-                    "publishedDate": "12/11/2026 22:57"
-                },
-                {
-                    "title": "Interzorg viert dubbel feest met uitreiking Drentse Onderneming van het Jaar - DVHN",
-                    "source": "dvhn.nl",
-                    "link": "https://www.dvhn.nl/economie/interzorg-viert-dubbel-feest-met-uitreiking-drentse-onderneming-van-het-jaar/164056437.html",
-                    "publishedDate": "12/11/2026 22:20"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -720,7 +707,7 @@
                     "publishedDate": "12/11/2026 18:29"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Treinreizigers zitten voorlopig nog wel in de ranzigheid van 11-11; schoonmakers staken",
@@ -731,7 +718,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Longarts David (63) zag pati\u00ebnten met uitgezaaide kanker opknappen - De Gelderlander",
@@ -742,6 +729,24 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Interzorg Noord-Nederland Drentse onderneming van het jaar: eerste zorginstelling die de prijs wint",
+            "link": "https://www.rtvdrenthe.nl/nieuws/18943383/interzorg-noord-nederland-drentse-onderneming-van-het-jaar-eerste-zorginstelling-die-de-prijs-wint",
+            "publishedDate": "12/11/2026 22:57",
+            "source": "dvhn.nl, rtvdrenthe.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Interzorg viert dubbel feest met uitreiking Drentse Onderneming van het Jaar - DVHN",
+                    "source": "dvhn.nl",
+                    "link": "https://www.dvhn.nl/economie/interzorg-viert-dubbel-feest-met-uitreiking-drentse-onderneming-van-het-jaar/164056437.html",
+                    "publishedDate": "12/11/2026 22:20"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1335,15 +1340,8 @@
             "source": "zuyderland.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
-                    "source": "zuyderland.nl",
-                    "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
-                    "publishedDate": "12/11/2026 16:53"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1364,6 +1362,17 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
+            "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
+            "publishedDate": "12/11/2026 16:53",
+            "source": "zuyderland.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1997,19 +2006,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek NIX18",
-            "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
-            "publishedDate": "12/11/2026 09:22",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek NIX18",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
+                    "publishedDate": "12/11/2026 09:22"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
