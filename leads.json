@@ -69,13 +69,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
                     "publishedDate": "13/11/2026 12:34"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
+                    "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
+                    "publishedDate": "13/11/2026 11:18"
                 }
             ],
             "belangrijkheid": 0
@@ -120,7 +132,7 @@
                     "publishedDate": "13/11/2026 10:12"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Jaarlijkse 11-11 giften kapel van de Heilige Martinus - De MooiRooiKrant - MooiRooi.nl",
@@ -155,11 +167,24 @@
             "title": "Nieuwe operatietechniek bij prostaatkanker in Brabantse ziekenhuizen - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6034632/nieuwe-operatietechniek-bij-prostaatkanker-in-brabantse-ziekenhuizen",
             "publishedDate": "13/11/2026 12:10",
-            "source": "omroepbrabant.nl",
+            "source": "bnr.nl, icthealth.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "AI spoort prostaatkanker net zo snel op als radioloog | BNR Nieuwsradio",
+                    "source": "bnr.nl",
+                    "link": "https://www.bnr.nl/nieuws/tech-innovatie/10615499/ai-spoort-prostaatkanker-net-zo-snel-op-als-radioloog",
+                    "publishedDate": "13/11/2026 11:25"
+                },
+                {
+                    "title": "AI spoort prostaatkanker op, prestaties verschillen per ziekenhuis - ICT&amp;health",
+                    "source": "icthealth.nl",
+                    "link": "https://www.icthealth.nl/nieuws/ai-spoort-prostaatkanker-op-prestaties-verschillen-per-ziekenhuis",
+                    "publishedDate": "13/11/2026 07:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -346,17 +371,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "AI spoort prostaatkanker net zo snel op als radioloog | BNR Nieuwsradio",
-            "link": "https://www.bnr.nl/nieuws/tech-innovatie/10615499/ai-spoort-prostaatkanker-net-zo-snel-op-als-radioloog",
-            "publishedDate": "13/11/2026 11:25",
-            "source": "bnr.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nieuwe zorginstelling Reehuis opent in 2027 in Huize Rhederpark in De Steeg - Studio Rheden -",
             "link": "https://studiorheden.nl/2026/11/13/nieuwe-zorginstelling-reehuis-opent-in-2027-in-huize-rhederpark-in-de-steeg/",
             "publishedDate": "13/11/2026 11:22",
@@ -385,33 +399,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Brief van Stichting Acute Zorq VPR in reactie op brief van VWS over \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
                     "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
-                    "publishedDate": "13/11/2026 11:18"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
+            "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
+            "publishedDate": "13/11/2026 11:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -590,7 +597,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderen ervaren de gezondheidsgevolgen van bepaalde omgevingsfactoren soms tot ver ...",
@@ -623,7 +630,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
@@ -849,17 +856,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "AI spoort prostaatkanker op, prestaties verschillen per ziekenhuis - ICT&amp;health",
-            "link": "https://www.icthealth.nl/nieuws/ai-spoort-prostaatkanker-op-prestaties-verschillen-per-ziekenhuis",
-            "publishedDate": "13/11/2026 07:00",
-            "source": "icthealth.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Eemsdelta onderzoekt link tussen gaswinningsschade en oplopende jeugdzorgkosten",
             "link": "https://www.dvhn.nl/regio/groningen/eemsdelta/eemsdelta-onderzoekt-link-tussen-gaswinningsschade-en-oplopende-jeugdzorgkosten/164441571.html",
             "publishedDate": "13/11/2026 06:52",
@@ -921,7 +917,7 @@
             "source": "debelegger.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "United Microelectronics (UMC) dividend 2026 - De Belegger",
@@ -934,18 +930,6 @@
                     "source": "debelegger.nl",
                     "link": "https://www.debelegger.nl/koers/UMC.US/kerncijfers",
                     "publishedDate": "13/11/2026 02:08"
-                },
-                {
-                    "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
-                    "publishedDate": "13/11/2026 02:08"
-                },
-                {
-                    "title": "United Microelectronics Belegger-score - UMC",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/score",
-                    "publishedDate": "13/11/2026 01:36"
                 }
             ],
             "belangrijkheid": 0
@@ -962,12 +946,34 @@
             "belangrijkheid": 0
         },
         {
+            "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
+            "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
+            "publishedDate": "13/11/2026 02:08",
+            "source": "debelegger.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zorgpremies Nationale-Nederlanden 2027 - Independer Weblog",
             "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-nationale-nederlanden-2027/",
             "publishedDate": "13/11/2026 01:42",
             "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "United Microelectronics Belegger-score - UMC",
+            "link": "https://www.debelegger.nl/koers/UMC.US/score",
+            "publishedDate": "13/11/2026 01:36",
+            "source": "debelegger.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1049,11 +1055,24 @@
             "title": "Interzorg Noord-Nederland uitgeroepen tot Drentse onderneming van het jaar - Head Topics",
             "link": "https://nl.headtopics.com/news/interzorg-noord-nederland-uitgeroepen-tot-drentse-89803055",
             "publishedDate": "12/11/2026 23:41",
-            "source": "nl.headtopics.com",
+            "source": "dvhn.nl, nl.headtopics.com, rtvdrenthe.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Interzorg Noord-Nederland Drentse onderneming van het jaar: eerste zorginstelling die de prijs wint",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18943383/interzorg-noord-nederland-drentse-onderneming-van-het-jaar-eerste-zorginstelling-die-de-prijs-wint",
+                    "publishedDate": "12/11/2026 22:57"
+                },
+                {
+                    "title": "Interzorg viert dubbel feest met uitreiking Drentse Onderneming van het Jaar - DVHN",
+                    "source": "dvhn.nl",
+                    "link": "https://www.dvhn.nl/economie/interzorg-viert-dubbel-feest-met-uitreiking-drentse-onderneming-van-het-jaar/164056437.html",
+                    "publishedDate": "12/11/2026 22:20"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1106,24 +1125,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Interzorg Noord-Nederland Drentse onderneming van het jaar: eerste zorginstelling die de prijs wint",
-            "link": "https://www.rtvdrenthe.nl/nieuws/18943383/interzorg-noord-nederland-drentse-onderneming-van-het-jaar-eerste-zorginstelling-die-de-prijs-wint",
-            "publishedDate": "12/11/2026 22:57",
-            "source": "dvhn.nl, rtvdrenthe.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Interzorg viert dubbel feest met uitreiking Drentse Onderneming van het Jaar - DVHN",
-                    "source": "dvhn.nl",
-                    "link": "https://www.dvhn.nl/economie/interzorg-viert-dubbel-feest-met-uitreiking-drentse-onderneming-van-het-jaar/164056437.html",
-                    "publishedDate": "12/11/2026 22:20"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1185,10 +1186,10 @@
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
             "link": "https://www.bd.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
             "publishedDate": "12/11/2026 20:59",
-            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl",
+            "source": "ad.nl, bd.nl, bndestem.nl, ed.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
@@ -1207,6 +1208,12 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/brabant/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
                     "publishedDate": "12/11/2026 15:32"
+                },
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+                    "publishedDate": "12/11/2026 14:29"
                 }
             ],
             "belangrijkheid": 1
@@ -1778,17 +1785,6 @@
             "source": "kijk.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-            "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-            "publishedDate": "12/11/2026 14:29",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
