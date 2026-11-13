@@ -647,29 +647,29 @@
             "title": "Spanje veroordeelt Isra\u00eblische bombardementen op Nasser-ziekenhuis in Gaza",
             "link": "https://nieuws.marokko.nl/119073/spanje-veroordeelt-israelische-bombardementen-op-nasser-ziekenhuis-in-gaza/",
             "publishedDate": "13/11/2026 10:06",
-            "source": "islamomroep.nl, nieuws.marokko.nl",
+            "source": "nieuws.marokko.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
-                    "source": "islamomroep.nl",
-                    "link": "https://islamomroep.nl/2026/11/13/chirurg-gedood-bij-luchtaanval-op-nasser-ziekenhuis-in-gaza/",
-                    "publishedDate": "13/11/2026 08:41"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Kind (12) loopt weg uit zorginstelling Enschede, even later wordt hij verkracht - RTV Oost",
             "link": "https://www.oost.nl/nieuws/3718274/kind-12-loopt-weg-uit-zorginstelling-enschede-even-later-wordt-hij-verkracht",
             "publishedDate": "13/11/2026 09:52",
-            "source": "oost.nl",
+            "source": "oost.nl, parool.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zes jaar cel en tbs ge\u00ebist voor crackverslaafde die schedel van medebewoner zorgcomplex ...",
+                    "source": "parool.nl",
+                    "link": "https://www.parool.nl/amsterdam/zes-jaar-cel-en-tbs-geeist-voor-crackverslaafde-die-schedel-van-medebewoner-zorgcomplex-insloeg-om-een-fles-drank~b74a9919/",
+                    "publishedDate": "12/11/2026 16:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -752,6 +752,17 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
+            "link": "https://islamomroep.nl/2026/11/13/chirurg-gedood-bij-luchtaanval-op-nasser-ziekenhuis-in-gaza/",
+            "publishedDate": "13/11/2026 08:41",
+            "source": "islamomroep.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1574,8 +1585,15 @@
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
+                    "publishedDate": "12/11/2026 16:04"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1629,28 +1647,6 @@
             "source": "bicycling.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zes jaar cel en tbs ge\u00ebist voor crackverslaafde die schedel van medebewoner zorgcomplex ...",
-            "link": "https://www.parool.nl/amsterdam/zes-jaar-cel-en-tbs-geeist-voor-crackverslaafde-die-schedel-van-medebewoner-zorgcomplex-insloeg-om-een-fles-drank~b74a9919/",
-            "publishedDate": "12/11/2026 16:05",
-            "source": "parool.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
-            "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
-            "publishedDate": "12/11/2026 16:04",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
