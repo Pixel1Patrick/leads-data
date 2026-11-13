@@ -20,7 +20,7 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Sijmen Egberts (23) schaatst zijn eerste World Cup met diabetes: 'Een half uur voor ik race ...",
@@ -171,42 +171,11 @@
             "title": "Zorgpremies Nationale-Nederlanden 2027 - Independer Weblog",
             "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-nationale-nederlanden-2027/",
             "publishedDate": "13/11/2026 01:42",
-            "source": "oost.nl, weblog.independer.nl",
+            "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Zorgpremie OHRA 2027 - Independer Weblog",
-                    "source": "weblog.independer.nl",
-                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-ohra-2027/",
-                    "publishedDate": "13/11/2026 00:55"
-                },
-                {
-                    "title": "Zorgpremies VGZ en VGZbewuzt stijgen in 2027 - Independer Weblog",
-                    "source": "weblog.independer.nl",
-                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-vgz-en-vgzbewuzt-stijgen-in-2027-tot-wel-e-18-p-m-duurder/",
-                    "publishedDate": "13/11/2026 00:55"
-                },
-                {
-                    "title": "FBTO verhoogt zorgpremie in 2027 met \u20ac 5,70 tot \u20ac 11,80 per maand - Independer Weblog",
-                    "source": "weblog.independer.nl",
-                    "link": "https://weblog.independer.nl/zorgverzekeringen/fbto-verhoogt-zorgpremie-in-2027-met-e-570-tot-e-1180-per-maand/",
-                    "publishedDate": "13/11/2026 00:43"
-                },
-                {
-                    "title": "Zorgpremies Menzis en VinkVink stijgen in 2027 met \u20ac 6 tot \u20ac 12,50 per maand",
-                    "source": "weblog.independer.nl",
-                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-menzis-en-vinkvink-stijgen-in-2027-met-e-6-tot-e-1250-per-maand/",
-                    "publishedDate": "13/11/2026 00:43"
-                },
-                {
-                    "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
-                    "source": "oost.nl",
-                    "link": "https://www.oost.nl/nieuws/3715742/zorgpremie-menzis-stijgt-met-bijna-10-euro-per-maand-kosten-blijven-oplopen",
-                    "publishedDate": "13/11/2026 00:11"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -265,12 +234,56 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zorgpremie OHRA 2027 - Independer Weblog",
+            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-ohra-2027/",
+            "publishedDate": "13/11/2026 00:55",
+            "source": "weblog.independer.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgpremies VGZ en VGZbewuzt stijgen in 2027 - Independer Weblog",
+            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-vgz-en-vgzbewuzt-stijgen-in-2027-tot-wel-e-18-p-m-duurder/",
+            "publishedDate": "13/11/2026 00:55",
+            "source": "weblog.independer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Sint-Michielsgestel is 'trots' op aanpak kleinschalige opvang asielzoekers | Regio | ED.nl",
             "link": "https://www.ed.nl/meierijstad/sint-michielsgestel-is-trots-op-aanpak-kleinschalige-opvang-asielzoekers~aae96aa9/",
             "publishedDate": "13/11/2026 00:52",
             "source": "ed.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "FBTO verhoogt zorgpremie in 2027 met \u20ac 5,70 tot \u20ac 11,80 per maand - Independer Weblog",
+            "link": "https://weblog.independer.nl/zorgverzekeringen/fbto-verhoogt-zorgpremie-in-2027-met-e-570-tot-e-1180-per-maand/",
+            "publishedDate": "13/11/2026 00:43",
+            "source": "weblog.independer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgpremies Menzis en VinkVink stijgen in 2027 met \u20ac 6 tot \u20ac 12,50 per maand",
+            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-menzis-en-vinkvink-stijgen-in-2027-met-e-6-tot-e-1250-per-maand/",
+            "publishedDate": "13/11/2026 00:43",
+            "source": "weblog.independer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -295,7 +308,18 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
+            "link": "https://www.oost.nl/nieuws/3715742/zorgpremie-menzis-stijgt-met-bijna-10-euro-per-maand-kosten-blijven-oplopen",
+            "publishedDate": "13/11/2026 00:11",
+            "source": "oost.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Medicijnen Enhertu voor maagkanker en Skyclarys voor zeldzame spierziekte nog niet in ...",
@@ -328,7 +352,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kampen ziet financi\u00eble tekorten oplopen, bezuinigingen dreigen - 1Zwolle",
@@ -383,13 +407,25 @@
             "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij een knuffel ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
                     "publishedDate": "12/11/2026 21:52"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:30"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:29"
                 }
             ],
             "belangrijkheid": 0
@@ -420,10 +456,10 @@
             "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' - De Gelderlander",
             "link": "https://www.gelderlander.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-klachten-niet-negeren~a6caa9ee/",
             "publishedDate": "12/11/2026 23:08",
-            "source": "ad.nl, bd.nl, bndestem.nl, destentor.nl, gelderlander.nl, tubantia.nl",
+            "source": "ad.nl, bd.nl, bndestem.nl, destentor.nl, ed.nl, gelderlander.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 7,
+            "duplicate_count": 10,
             "extra_bronnen": [
                 {
                     "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' | Nieuws | De Stentor.nl",
@@ -460,6 +496,24 @@
                     "source": "tubantia.nl",
                     "link": "https://www.tubantia.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
                     "publishedDate": "12/11/2026 17:06"
+                },
+                {
+                    "title": "Kun je ziek worden van borstimplantaten? 'Deel van de vrouwen ervaart verbetering na verwijdering'",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
+                    "publishedDate": "12/11/2026 17:06"
+                },
+                {
+                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig' | ED.nl",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
+                    "publishedDate": "12/11/2026 16:58"
+                },
+                {
+                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig'",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
+                    "publishedDate": "12/11/2026 16:58"
                 }
             ],
             "belangrijkheid": 0
@@ -581,7 +635,7 @@
                     "publishedDate": "12/11/2026 13:03"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "van Rossum en Kevin Schopman trainden de afgelopen weken het\u2026 | Boudewijn Kessing - LinkedIn",
@@ -620,11 +674,18 @@
             "title": "Topklinische erkenning voor expertisecentrum astma - Deventer Ziekenhuis",
             "link": "https://www.dz.nl/nieuws/algemeen/topklinische-erkenning-voor-expertisecentrum-astma",
             "publishedDate": "12/11/2026 20:13",
-            "source": "dz.nl",
+            "source": "ad.nl, dz.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
+                    "publishedDate": "12/11/2026 18:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -815,24 +876,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
-            "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-            "publishedDate": "12/11/2026 18:30",
-            "source": "ad.nl, gelderlander.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:29"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ziekenhuizen voor wekedelensarcomen - Kanker.nl",
             "link": "https://www.kanker.nl/kankersoorten/wekedelentumoren-wekedelensarcomen/na-de-uitslag/ziekenhuizen-voor-wekedelensarcomen",
             "publishedDate": "12/11/2026 18:21",
@@ -861,17 +904,6 @@
             "source": "venvn.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
-            "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
-            "publishedDate": "12/11/2026 18:10",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1029,17 +1061,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Kun je ziek worden van borstimplantaten? 'Deel van de vrouwen ervaart verbetering na verwijdering'",
-            "link": "https://www.bd.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
-            "publishedDate": "12/11/2026 17:06",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Waarom zien mijn medicijnen er ineens anders uit? | PlusOnline",
             "link": "https://www.plusonline.nl/huisarts/waarom-zien-mijn-medicijnen-er-ineens-anders-uit",
             "publishedDate": "12/11/2026 17:01",
@@ -1048,24 +1069,6 @@
             "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig' | ED.nl",
-            "link": "https://www.ed.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
-            "publishedDate": "12/11/2026 16:58",
-            "source": "destentor.nl, ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig'",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
-                    "publishedDate": "12/11/2026 16:58"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1549,8 +1552,15 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
+                    "publishedDate": "12/11/2026 12:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1561,17 +1571,6 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
-            "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
-            "publishedDate": "12/11/2026 12:36",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1985,18 +1984,22 @@
             "title": "LAD/FBZ start actietraject in ggz-instellingen",
             "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
             "publishedDate": "10/11/2026 10:49",
-            "source": "cnv.nl, lad.nl",
+            "source": "lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Actie in de GGZ",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-                    "publishedDate": "10/11/2026 10:46"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Actie in de GGZ",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+            "publishedDate": "10/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
