@@ -27,7 +27,7 @@
                     "publishedDate": "13/11/2026 09:29"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
@@ -60,7 +60,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Mysterie opgelost: daarom kleurt het Slingeland Ziekenhuis komende zondag paars",
@@ -159,7 +159,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Sijmen Egberts (23) schaatst zijn eerste World Cup met diabetes: 'Een half uur voor ik race ...",
@@ -381,7 +381,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Middelburg ziet rode cijfers opdoemen: broekriem aanhalen lijkt onvermijdelijk - PZC",
@@ -447,7 +447,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremies voor 2027 bekend, check hier jouw verzekering | Nieuws | AD.nl",
@@ -458,7 +458,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie stijgt harder dan verwacht: 170 euro per maand geen uitzondering | Economie",
@@ -469,7 +469,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
@@ -480,7 +480,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Medicijnen Enhertu voor maagkanker en Skyclarys voor zeldzame spierziekte nog niet in ...",
@@ -513,7 +513,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kampen ziet financi\u00eble tekorten oplopen, bezuinigingen dreigen - 1Zwolle",
@@ -725,6 +725,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Dag en nacht acute zorg voor kwetsbare ouderen - Wilhelmina Ziekenhuis Assen",
+            "link": "https://www.wza.nl/over-het-wza/samenwerkingspartners/dag-en-nacht-acute-zorg-voor-kwetsbare-ouderen",
+            "publishedDate": "12/11/2026 21:46",
+            "source": "wza.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Steeds meer mensen bieden hun nier te koop aan | Gezond - AD",
             "link": "https://www.ad.nl/gezond/steeds-meer-mensen-bieden-hun-nier-te-koop-aan~aee69cbf/",
             "publishedDate": "12/11/2026 21:40",
@@ -763,7 +774,7 @@
                     "publishedDate": "12/11/2026 15:32"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "van Rossum en Kevin Schopman trainden de afgelopen weken het\u2026 | Boudewijn Kessing - LinkedIn",
@@ -1650,7 +1661,7 @@
                     "publishedDate": "12/11/2026 13:03"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Is niet echt, Jan Klaassen - VerzekeringsNieuws",
@@ -1941,15 +1952,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Campagne-effectonderzoek NIX18",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
-                    "publishedDate": "12/11/2026 09:22"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek NIX18",
+            "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
+            "publishedDate": "12/11/2026 09:22",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
