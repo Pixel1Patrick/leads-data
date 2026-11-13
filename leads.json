@@ -27,7 +27,7 @@
                     "publishedDate": "13/11/2026 16:36"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
@@ -210,12 +210,19 @@
             "title": "UMC Utrecht raakt erkenning zeldzame tumoren kwijt, gaat toch door met behandelingen",
             "link": "https://www.ftm.nl/artikelen/ondanks-verlies-overheidskeurmerk-toch-behandelingen-gist-in-umcu",
             "publishedDate": "13/11/2026 16:47",
-            "source": "ftm.nl",
+            "source": "ftm.nl, gelderlander.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Treinreizigers zitten voorlopig nog wel in de ranzigheid van 11-11; schoonmakers staken",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/eindhoven/treinreizigers-zitten-voorlopig-nog-wel-in-de-ranzigheid-van-11-11-schoonmakers-staken~af244ab0/",
+                    "publishedDate": "12/11/2026 23:18"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Zestien Duitse schoolkinderen naar ziekenhuis na eten van muffins met batterijen - BNR",
@@ -261,7 +268,7 @@
                     "publishedDate": "13/11/2026 16:34"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Financi\u00eble crisis ziekenhuis Aruba dreigt in december te verergeren",
@@ -367,7 +374,7 @@
                     "publishedDate": "13/11/2026 12:02"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie De christelijke zorgverzekeraar 2027 stijgt naar \u20ac 160,95 per maand",
@@ -411,7 +418,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "RMU opent steunpunt voor gewetensbezwaard zorgpersoneel",
@@ -428,16 +435,46 @@
             "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
             "publishedDate": "13/11/2026 15:49",
-            "source": "kw.be, nieuwsblad.be",
+            "source": "gld.nl, gva.be, kw.be, l1nieuws.nl, limburger.nl, nieuwsblad.be, zuyderland.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 4,
+            "duplicate_count": 9,
             "extra_bronnen": [
+                {
+                    "title": "Storing Microsoft Outlook: Outlook en Teams nog niet overal bereikbaar - L1 Nieuws",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3271766/storing-microsoft-outlook-outlook-en-teams-nog-niet-overal-bereikbaar",
+                    "publishedDate": "13/11/2026 14:27"
+                },
+                {
+                    "title": "Grote storing Microsoft: onder andere e-mail onbereikbaar, ook Omroep Gelderland getroffen",
+                    "source": "gld.nl",
+                    "link": "https://www.gld.nl/nieuws/8546521/grote-storing-microsoft-onder-andere-e-mail-onbereikbaar-ook-omroep-gelderland-getroffen",
+                    "publishedDate": "13/11/2026 13:58"
+                },
                 {
                     "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
                     "source": "kw.be",
                     "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
                     "publishedDate": "13/11/2026 13:52"
+                },
+                {
+                    "title": "Storing bij e-mail en MijnZuyderland - Zuyderland",
+                    "source": "zuyderland.nl",
+                    "link": "https://zuyderland.nl/nieuws/storing-bij-e-mail-en-mijnzuyderland/",
+                    "publishedDate": "13/11/2026 13:39"
+                },
+                {
+                    "title": "Microsoft ziet \u201cvooruitgang\u201d na wereldwijde problemen met diensten als Outlook en Teams ... - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/binnenland/microsoft-ziet-vooruitgang-na-wereldwijde-problemen-met-diensten-als-outlook-en-teams-maar-nog-geen-definitieve-oplossing/164490398.html",
+                    "publishedDate": "13/11/2026 13:06"
+                },
+                {
+                    "title": "Microsoft-storing zorgt voor ongemak in Limburg: achter de schermen haperde het, maar het ...",
+                    "source": "limburger.nl",
+                    "link": "https://www.limburger.nl/regio/limburg/microsoft-storing-zorgt-voor-ongemak-in-limburg-achter-de-schermen-haperde-het-maar-werk-gaat-gewoon-door/164502287.html",
+                    "publishedDate": "13/11/2026 12:24"
                 },
                 {
                     "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
@@ -557,18 +594,11 @@
             "title": "Zorg Kortrijk kantelt zorgpersoneel Zusters Augustinessen in stedelijke werking in - KW.be",
             "link": "https://kw.be/nieuws/samenleving/gezondheid/verzorging/zorg-kortrijk-kantelt-zorgpersoneel-zusters-augustinessen-in-stedelijke-werking-in-sociaal-akkoord-geeft-duidelijkheid-en-vertrouwen/",
             "publishedDate": "13/11/2026 15:09",
-            "source": "kw.be, pers.kortrijk.be",
+            "source": "kw.be",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zorg Kortrijk verankert publieke zorg door volledige inkanteling van zorgpersoneel in ...",
-                    "source": "pers.kortrijk.be",
-                    "link": "https://pers.kortrijk.be/269798-zorg-kortrijk-verankert-publieke-zorg-door-volledige-inkanteling-van-zorgpersoneel-in-stedelijke-werking-sociaal-akkoord-bereikt/",
-                    "publishedDate": "13/11/2026 13:18"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -586,36 +616,11 @@
             "title": "Utrechtse ziekenhuizen en scholen slecht bereikbaar door grote storing bij Microsoft - AD",
             "link": "https://www.ad.nl/utrecht/utrechtse-ziekenhuizen-en-scholen-slecht-bereikbaar-door-grote-storing-bij-microsoft~a58598f9/",
             "publishedDate": "13/11/2026 15:05",
-            "source": "ad.nl, gld.nl, gva.be, l1nieuws.nl, limburger.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Storing Microsoft Outlook: Outlook en Teams nog niet overal bereikbaar - L1 Nieuws",
-                    "source": "l1nieuws.nl",
-                    "link": "https://www.l1nieuws.nl/nieuws/3271766/storing-microsoft-outlook-outlook-en-teams-nog-niet-overal-bereikbaar",
-                    "publishedDate": "13/11/2026 14:27"
-                },
-                {
-                    "title": "Grote storing Microsoft: onder andere e-mail onbereikbaar, ook Omroep Gelderland getroffen",
-                    "source": "gld.nl",
-                    "link": "https://www.gld.nl/nieuws/8546521/grote-storing-microsoft-onder-andere-e-mail-onbereikbaar-ook-omroep-gelderland-getroffen",
-                    "publishedDate": "13/11/2026 13:58"
-                },
-                {
-                    "title": "Microsoft ziet \u201cvooruitgang\u201d na wereldwijde problemen met diensten als Outlook en Teams ... - GVA",
-                    "source": "gva.be",
-                    "link": "https://www.gva.be/binnenland/microsoft-ziet-vooruitgang-na-wereldwijde-problemen-met-diensten-als-outlook-en-teams-maar-nog-geen-definitieve-oplossing/164490398.html",
-                    "publishedDate": "13/11/2026 13:06"
-                },
-                {
-                    "title": "Microsoft-storing zorgt voor ongemak in Limburg: achter de schermen haperde het, maar het ...",
-                    "source": "limburger.nl",
-                    "link": "https://www.limburger.nl/regio/limburg/microsoft-storing-zorgt-voor-ongemak-in-limburg-achter-de-schermen-haperde-het-maar-werk-gaat-gewoon-door/164502287.html",
-                    "publishedDate": "13/11/2026 12:24"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -798,17 +803,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Storing bij e-mail en MijnZuyderland - Zuyderland",
-            "link": "https://zuyderland.nl/nieuws/storing-bij-e-mail-en-mijnzuyderland/",
-            "publishedDate": "13/11/2026 13:39",
-            "source": "zuyderland.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Mindoo is AI-platform voor ziekenhuizen: van intake tot facturatie - P-magazine",
             "link": "https://p-magazine.com/nl/articles/mindoo-is-ai-platform-voor-ziekenhuizen-van-intake-tot-facturatie",
             "publishedDate": "13/11/2026 13:33",
@@ -870,6 +864,17 @@
             "source": "streekgids.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorg Kortrijk verankert publieke zorg door volledige inkanteling van zorgpersoneel in ...",
+            "link": "https://pers.kortrijk.be/269798-zorg-kortrijk-verankert-publieke-zorg-door-volledige-inkanteling-van-zorgpersoneel-in-stedelijke-werking-sociaal-akkoord-bereikt/",
+            "publishedDate": "13/11/2026 13:18",
+            "source": "pers.kortrijk.be",
+            "category": "Overig",
+            "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1210,7 +1215,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgpremies ontploffen: dit gaan Brabanders volgend jaar betalen | Regio | AD.nl",
@@ -1402,20 +1407,26 @@
             "source": "debelegger.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 6,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
                     "source": "debelegger.nl",
                     "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
                     "publishedDate": "13/11/2026 02:08"
-                },
-                {
-                    "title": "United Microelectronics (UMC) cijfers 2025 - De Belegger",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/cijfers",
-                    "publishedDate": "13/11/2026 03:15"
-                },
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "United Microelectronics (UMC) cijfers 2025 - De Belegger",
+            "link": "https://www.debelegger.nl/koers/UMC.US/cijfers",
+            "publishedDate": "13/11/2026 03:15",
+            "source": "debelegger.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 3,
+            "extra_bronnen": [
                 {
                     "title": "United Microelectronics (UMC) dividend 2026 - De Belegger",
                     "source": "debelegger.nl",
@@ -1427,12 +1438,6 @@
                     "source": "debelegger.nl",
                     "link": "https://www.debelegger.nl/koers/UMC.US/kerncijfers",
                     "publishedDate": "13/11/2026 02:08"
-                },
-                {
-                    "title": "United Microelectronics Belegger-score - UMC",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/score",
-                    "publishedDate": "13/11/2026 01:36"
                 }
             ],
             "belangrijkheid": 0
@@ -1455,6 +1460,17 @@
             "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "United Microelectronics Belegger-score - UMC",
+            "link": "https://www.debelegger.nl/koers/UMC.US/score",
+            "publishedDate": "13/11/2026 01:36",
+            "source": "debelegger.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1547,17 +1563,6 @@
                     "publishedDate": "12/11/2026 18:30"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Treinreizigers zitten voorlopig nog wel in de ranzigheid van 11-11; schoonmakers staken",
-            "link": "https://www.gelderlander.nl/eindhoven/treinreizigers-zitten-voorlopig-nog-wel-in-de-ranzigheid-van-11-11-schoonmakers-staken~af244ab0/",
-            "publishedDate": "12/11/2026 23:18",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
