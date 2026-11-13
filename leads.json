@@ -97,7 +97,7 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Premie Zorg en Zekerheid stijgt fors in 2027: tot \u20ac 264 extra - Zorgwijzer",
@@ -139,7 +139,7 @@
             "source": "debelegger.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "United Microelectronics (UMC) dividend 2026 - De Belegger",
@@ -152,18 +152,6 @@
                     "source": "debelegger.nl",
                     "link": "https://www.debelegger.nl/koers/UMC.US/kerncijfers",
                     "publishedDate": "13/11/2026 02:08"
-                },
-                {
-                    "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
-                    "publishedDate": "13/11/2026 02:08"
-                },
-                {
-                    "title": "United Microelectronics Belegger-score - UMC",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/score",
-                    "publishedDate": "13/11/2026 01:36"
                 }
             ],
             "belangrijkheid": 0
@@ -172,18 +160,11 @@
             "title": "Belgische zorg bij Europese top maar pati\u00ebntveiligheid kan beter - De Morgen",
             "link": "https://www.demorgen.be/nieuws/belgische-zorg-bij-europese-top-maar-patientveiligheid-kan-beter~b089dd89/",
             "publishedDate": "13/11/2026 03:09",
-            "source": "demorgen.be, gva.be",
+            "source": "demorgen.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Belgische gezondheidszorg in Europese top 10 ondanks knelpunten - GVA",
-                    "source": "gva.be",
-                    "link": "https://www.gva.be/binnenland/belgische-gezondheidszorg-in-europese-top-10-ondanks-knelpunten/164465285.html",
-                    "publishedDate": "12/11/2026 22:24"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -215,6 +196,17 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
+            "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
+            "publishedDate": "13/11/2026 02:08",
+            "source": "debelegger.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -281,6 +273,17 @@
             "source": "nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "United Microelectronics Belegger-score - UMC",
+            "link": "https://www.debelegger.nl/koers/UMC.US/score",
+            "publishedDate": "13/11/2026 01:36",
+            "source": "debelegger.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -487,24 +490,11 @@
             "title": "Interzorg Noord-Nederland uitgeroepen tot Drentse onderneming van het jaar - Head Topics",
             "link": "https://nl.headtopics.com/news/interzorg-noord-nederland-uitgeroepen-tot-drentse-89803055",
             "publishedDate": "12/11/2026 23:41",
-            "source": "dvhn.nl, nl.headtopics.com, rtvdrenthe.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Interzorg Noord-Nederland Drentse onderneming van het jaar: eerste zorginstelling die de prijs wint",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/nieuws/18943383/interzorg-noord-nederland-drentse-onderneming-van-het-jaar-eerste-zorginstelling-die-de-prijs-wint",
-                    "publishedDate": "12/11/2026 22:57"
-                },
-                {
-                    "title": "Interzorg viert dubbel feest met uitreiking Drentse Onderneming van het Jaar - DVHN",
-                    "source": "dvhn.nl",
-                    "link": "https://www.dvhn.nl/economie/interzorg-viert-dubbel-feest-met-uitreiking-drentse-onderneming-van-het-jaar/164056437.html",
-                    "publishedDate": "12/11/2026 22:20"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -535,7 +525,7 @@
                     "publishedDate": "12/11/2026 18:29"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Treinreizigers zitten voorlopig nog wel in de ranzigheid van 11-11; schoonmakers staken",
@@ -552,28 +542,21 @@
             "title": "Longarts David (63) zag pati\u00ebnten met uitgezaaide kanker opknappen - De Gelderlander",
             "link": "https://www.gelderlander.nl/gezond/longarts-david-63-zag-patienten-met-uitgezaaide-kanker-opknappen-maar-het-werkt-niet-bij-iedereen~a555d8d3/",
             "publishedDate": "12/11/2026 23:14",
-            "source": "ad.nl, gelderlander.nl",
+            "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Waarom overleeft de ene pati\u00ebnt uitgezaaide longkanker en de andere niet? 'Gezondheid is ...",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/binnenland/waarom-overleeft-de-ene-patient-uitgezaaide-longkanker-en-de-andere-niet-gezondheid-is-niet-maakbaar~a555d8d3/",
-                    "publishedDate": "12/11/2026 19:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' - De Gelderlander",
             "link": "https://www.gelderlander.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-klachten-niet-negeren~a6caa9ee/",
             "publishedDate": "12/11/2026 23:08",
-            "source": "ad.nl, bd.nl, bndestem.nl, destentor.nl, ed.nl, gelderlander.nl, tubantia.nl",
+            "source": "ad.nl, bd.nl, bndestem.nl, destentor.nl, gelderlander.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 10,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' | Nieuws | De Stentor.nl",
@@ -610,26 +593,19 @@
                     "source": "tubantia.nl",
                     "link": "https://www.tubantia.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
                     "publishedDate": "12/11/2026 17:06"
-                },
-                {
-                    "title": "Kun je ziek worden van borstimplantaten? 'Deel van de vrouwen ervaart verbetering na verwijdering'",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
-                    "publishedDate": "12/11/2026 17:06"
-                },
-                {
-                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig' | ED.nl",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
-                    "publishedDate": "12/11/2026 16:58"
-                },
-                {
-                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig'",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
-                    "publishedDate": "12/11/2026 16:58"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Interzorg Noord-Nederland Drentse onderneming van het jaar: eerste zorginstelling die de prijs wint",
+            "link": "https://www.rtvdrenthe.nl/nieuws/18943383/interzorg-noord-nederland-drentse-onderneming-van-het-jaar-eerste-zorginstelling-die-de-prijs-wint",
+            "publishedDate": "12/11/2026 22:57",
+            "source": "rtvdrenthe.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -650,6 +626,28 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Belgische gezondheidszorg in Europese top 10 ondanks knelpunten - GVA",
+            "link": "https://www.gva.be/binnenland/belgische-gezondheidszorg-in-europese-top-10-ondanks-knelpunten/164465285.html",
+            "publishedDate": "12/11/2026 22:24",
+            "source": "gva.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Interzorg viert dubbel feest met uitreiking Drentse Onderneming van het Jaar - DVHN",
+            "link": "https://www.dvhn.nl/economie/interzorg-viert-dubbel-feest-met-uitreiking-drentse-onderneming-van-het-jaar/164056437.html",
+            "publishedDate": "12/11/2026 22:20",
+            "source": "dvhn.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -702,10 +700,10 @@
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
             "link": "https://www.bd.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
             "publishedDate": "12/11/2026 20:59",
-            "source": "ad.nl, bd.nl, bndestem.nl, drimble.nl, ed.nl, gelderlander.nl",
+            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 7,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
@@ -724,18 +722,6 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/brabant/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
                     "publishedDate": "12/11/2026 15:32"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-                    "publishedDate": "12/11/2026 14:29"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
-                    "publishedDate": "12/11/2026 13:03"
                 }
             ],
             "belangrijkheid": 0
@@ -777,18 +763,11 @@
             "title": "Topklinische erkenning voor expertisecentrum astma - Deventer Ziekenhuis",
             "link": "https://www.dz.nl/nieuws/algemeen/topklinische-erkenning-voor-expertisecentrum-astma",
             "publishedDate": "12/11/2026 20:13",
-            "source": "ad.nl, dz.nl",
+            "source": "dz.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
-                    "publishedDate": "12/11/2026 18:10"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -842,6 +821,17 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Waarom overleeft de ene pati\u00ebnt uitgezaaide longkanker en de andere niet? 'Gezondheid is ...",
+            "link": "https://www.ad.nl/binnenland/waarom-overleeft-de-ene-patient-uitgezaaide-longkanker-en-de-andere-niet-gezondheid-is-niet-maakbaar~a555d8d3/",
+            "publishedDate": "12/11/2026 19:36",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -968,6 +958,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
+            "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
+            "publishedDate": "12/11/2026 18:10",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Leeuwarden wil \u00e9\u00e9n plek voor vragen over zorg, geld, werk en jeugdhulp",
             "link": "https://www.rondomvandaag.nl/leeuwarden/verhalen-uit-de-buurt/47833/leeuwarden-wil-een-plek-voor-vragen-over-zorg-geld-werk-en-je",
             "publishedDate": "12/11/2026 18:04",
@@ -994,7 +995,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De nieuwe editie van de Kennisagenda Wetenschappelijk Onderzoek Langdurige ... - UMCG",
@@ -1115,15 +1116,19 @@
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
-                    "publishedDate": "12/11/2026 16:04"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Kun je ziek worden van borstimplantaten? 'Deel van de vrouwen ervaart verbetering na verwijdering'",
+            "link": "https://www.bd.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
+            "publishedDate": "12/11/2026 17:06",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1138,21 +1143,32 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig' | ED.nl",
+            "link": "https://www.ed.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
+            "publishedDate": "12/11/2026 16:58",
+            "source": "destentor.nl, ed.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig'",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
+                    "publishedDate": "12/11/2026 16:58"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Informatie over contracten met zorgverzekeraars voor 2027 beschikbaar - Zuyderland",
             "link": "https://zuyderland.nl/nieuws/informatie-over-contracten-met-zorgverzekeraars-voor-2027-beschikbaar/",
             "publishedDate": "12/11/2026 16:58",
             "source": "zuyderland.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
-                    "source": "zuyderland.nl",
-                    "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
-                    "publishedDate": "12/11/2026 16:53"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1173,6 +1189,17 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
+            "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
+            "publishedDate": "12/11/2026 16:53",
+            "source": "zuyderland.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1292,6 +1319,17 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
+            "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
+            "publishedDate": "12/11/2026 16:04",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1532,6 +1570,24 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+            "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+            "publishedDate": "12/11/2026 14:29",
+            "source": "bndestem.nl, drimble.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
+                    "publishedDate": "12/11/2026 13:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
