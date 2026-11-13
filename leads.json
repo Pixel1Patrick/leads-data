@@ -41,6 +41,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Evaluatieonderzoek: Ervaringsdeskundigen in algemene ziekenhuizen | Trefpunt Zelfhulp",
+            "link": "https://www.zelfhulp.be/onderzoek/zelfhulp-in-vlaanderen/evaluatieonderzoek-ervaringsdeskundigen-in-algemene-ziekenhuizen",
+            "publishedDate": "13/11/2026 21:28",
+            "source": "zelfhulp.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zorgpremie omhoog? Zo bespaar je op je zorgverzekering | De Telegraaf",
             "link": "https://www.telegraaf.nl/financieel/premies-naar-recordhoogte-met-deze-adviezen-van-experts-kun-je-toch-besparen-op-je-zorgverzekering/164507916.html",
             "publishedDate": "13/11/2026 21:16",
@@ -49,7 +60,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Advies van BuRO over het gebruik van pijnstillers en/of antibiotica in de roodvleesketen in Nederland",
@@ -159,6 +170,17 @@
                     "publishedDate": "13/11/2026 20:21"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Inbreng van CDA Son en Breugel bij het begrotingsdebat - CDA",
+            "link": "https://www.cda.nl/noord-brabant/son-en-breugel/nieuws/inbreng-van-cda-son-en-breugel-bij-het-begrotingsdebat/",
+            "publishedDate": "13/11/2026 20:00",
+            "source": "cda.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -498,11 +520,24 @@
             "title": "Storing bij Microsoft 365 - Eurocross",
             "link": "https://eurocross.nl/nieuws/73/storing-bij-microsoft-365",
             "publishedDate": "13/11/2026 16:59",
-            "source": "eurocross.nl",
+            "source": "ad.nl, dub.uu.nl, eurocross.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Langzaam herstel Microsoft-diensten - DUB",
+                    "source": "dub.uu.nl",
+                    "link": "https://dub.uu.nl/nl/nieuws/langzaam-herstel-microsoft-diensten",
+                    "publishedDate": "13/11/2026 16:14"
+                },
+                {
+                    "title": "Utrechtse ziekenhuizen en scholen slecht bereikbaar door grote storing bij Microsoft - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/utrecht/utrechtse-ziekenhuizen-en-scholen-slecht-bereikbaar-door-grote-storing-bij-microsoft~a58598f9/",
+                    "publishedDate": "13/11/2026 15:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -640,17 +675,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Langzaam herstel Microsoft-diensten - DUB",
-            "link": "https://dub.uu.nl/nl/nieuws/langzaam-herstel-microsoft-diensten",
-            "publishedDate": "13/11/2026 16:14",
-            "source": "dub.uu.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nederlandse lichtchip moet ontwikkeling van medicijnen versnellen - TW.nl",
             "link": "https://tw.nl/nederlandse-lichtchip-moet-ontwikkeling-van-medicijnen-versnellen/",
             "publishedDate": "13/11/2026 16:11",
@@ -732,7 +756,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Dylan Debaene wil 61 uur aan de toog hangen: \u201cHuisarts en kinesist staan paraat\u201d",
@@ -897,17 +921,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Utrechtse ziekenhuizen en scholen slecht bereikbaar door grote storing bij Microsoft - AD",
-            "link": "https://www.ad.nl/utrecht/utrechtse-ziekenhuizen-en-scholen-slecht-bereikbaar-door-grote-storing-bij-microsoft~a58598f9/",
-            "publishedDate": "13/11/2026 15:05",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Haaksbergen verliest eigen weekendspoedzorg: pati\u00ebnten ook overdag naar Enschede",
             "link": "https://www.twentefm.nl/artikel/6398201/__temp_ggkukdvsmhcezgynlfcyqxgiinhcemlpsnwd",
             "publishedDate": "13/11/2026 15:03",
@@ -938,7 +951,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
@@ -1013,17 +1026,6 @@
             "source": "nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Mindoo is AI-platform voor ziekenhuizen: van intake tot facturatie - P-magazine",
-            "link": "https://p-magazine.com/nl/articles/mindoo-is-ai-platform-voor-ziekenhuizen-van-intake-tot-facturatie",
-            "publishedDate": "13/11/2026 13:33",
-            "source": "p-magazine.com",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1163,7 +1165,7 @@
             "source": "knmp.nl, lhv.nl",
             "category": "Overig",
             "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "In gesprek met VWS over de impact van regeldruk op de eerstelijnszorg",
@@ -1324,12 +1326,19 @@
             "title": "Balans Thuiszorg in Oosterhout heeft Last onder dwangsom en aanwijzing met cli\u00ebntenstop",
             "link": "https://www.zorgkrant.nl/management-en-beleid/21668-balans-thuiszorg-in-oosterhout-heeft-last-onder-dwangsom-en-aanwijzing-met-clientenstop",
             "publishedDate": "13/11/2026 11:02",
-            "source": "zorgkrant.nl",
+            "source": "igj.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
+                    "publishedDate": "12/11/2026 13:44"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1713,17 +1722,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Minister zegt nee tegen extra steun voor Rijksmuseum Eindhoven: het Rijk subsidieert al Amsterdam",
-            "link": "https://www.gelderlander.nl/eindhoven/cultuurminister-letschert-vindt-rijksmuseum-eindhoven-hartstikke-mooi-maar-heeft-geen-geldboom-in-de-hoftoren~affd7914/",
-            "publishedDate": "12/11/2026 22:33",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Digitale gegevensuitwisseling maakt passende palliatieve zorg mogelijk - ZonMw",
             "link": "https://www.zonmw.nl/nl/artikel/digitale-gegevensuitwisseling-maakt-passende-palliatieve-zorg-mogelijk",
             "publishedDate": "12/11/2026 22:10",
@@ -1773,17 +1771,6 @@
                 }
             ],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
-            "publishedDate": "12/11/2026 13:44",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Cao-onderhandelingen bij arbodienstverlener HumanTotalCare gestart",
@@ -1933,7 +1920,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Voor ouderen kan goede spoedzorg niet zonder de VVT - Zorgkrant",
