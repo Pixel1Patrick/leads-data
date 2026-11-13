@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Zestien Duitse schoolkinderen naar ziekenhuis na vondst van batterijen in muffins - NU",
+            "link": "https://www.nu.nl/opmerkelijk/6416418/zestien-duitse-schoolkinderen-naar-ziekenhuis-na-vondst-van-batterijen-in-muffins.html",
+            "publishedDate": "13/11/2026 11:27",
+            "source": "nu.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
             "link": "https://open.overheid.nl/details/oep-ob-203ccce89bfa35ea59175f34931f50ca1b1d63fe_8",
             "publishedDate": "13/11/2026 11:26",
@@ -52,7 +63,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -87,7 +98,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremies ontploffen: dit gaan Brabanders volgend jaar betalen | Regio | AD.nl",
@@ -104,11 +115,18 @@
             "title": "Storing bij Microsoft - Wilhelmina Ziekenhuis Assen",
             "link": "https://www.wza.nl/actueel/nieuws/storing-bij-microsoft",
             "publishedDate": "13/11/2026 10:16",
-            "source": "wza.nl",
+            "source": "antoniusziekenhuis.nl, wza.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Storing Microsoft: dit betekent het voor pati\u00ebnten | St. Antonius Ziekenhuis",
+                    "source": "antoniusziekenhuis.nl",
+                    "link": "https://www.antoniusziekenhuis.nl/storing-microsoft-dit-betekent-het-voor-patienten",
+                    "publishedDate": "13/11/2026 10:12"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -120,7 +138,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
@@ -131,6 +149,30 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Spanje veroordeelt Isra\u00eblische bombardementen op Nasser-ziekenhuis in Gaza",
+            "link": "https://nieuws.marokko.nl/119073/spanje-veroordeelt-israelische-bombardementen-op-nasser-ziekenhuis-in-gaza/",
+            "publishedDate": "13/11/2026 10:06",
+            "source": "instagram.com, islamomroep.nl, nieuws.marokko.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
+                    "source": "islamomroep.nl",
+                    "link": "https://islamomroep.nl/2026/11/13/chirurg-gedood-bij-luchtaanval-op-nasser-ziekenhuis-in-gaza/",
+                    "publishedDate": "13/11/2026 08:41"
+                },
+                {
+                    "title": "Het Nasser-ziekenhuis is een van de belangrijkste ziekenhuizen van Zuid-Gaza. Zo'n 1 ... - Instagram",
+                    "source": "instagram.com",
+                    "link": "https://www.instagram.com/p/DfpwUiwDBvh/",
+                    "publishedDate": "12/11/2026 20:18"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -156,22 +198,29 @@
             "belangrijkheid": 1
         },
         {
+            "title": "AI spoort prostaatkanker net zo snel op als radioloog | BNR Nieuwsradio",
+            "link": "https://www.bnr.nl/nieuws/tech-innovatie/10615499/ai-spoort-prostaatkanker-net-zo-snel-op-als-radioloog",
+            "publishedDate": "13/11/2026 09:28",
+            "source": "bnr.nl, icthealth.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "AI spoort prostaatkanker op, prestaties verschillen per ziekenhuis - ICT&amp;health",
+                    "source": "icthealth.nl",
+                    "link": "https://www.icthealth.nl/nieuws/ai-spoort-prostaatkanker-op-prestaties-verschillen-per-ziekenhuis",
+                    "publishedDate": "13/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Kerstkringloop draagt bij aan betere zorg voor vrouwen - St. Antonius Ziekenhuis",
             "link": "https://www.antoniusziekenhuis.nl/kerstkringloop-draagt-bij-aan-betere-zorg-voor-vrouwen",
             "publishedDate": "13/11/2026 09:12",
             "source": "antoniusziekenhuis.nl",
             "category": "Zorgaanbieders",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
-            "link": "https://islamomroep.nl/2026/11/13/chirurg-gedood-bij-luchtaanval-op-nasser-ziekenhuis-in-gaza/",
-            "publishedDate": "13/11/2026 08:41",
-            "source": "islamomroep.nl",
-            "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -212,6 +261,17 @@
             "publishedDate": "13/11/2026 08:34",
             "source": "gelderlander.nl",
             "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Van levensbedreigende operatie naar een boekje vol dankbaarheid: '7,5 liter bloed verloren'",
+            "link": "https://www.zuidwestupdate.nl/nieuws/van-levensbedreigende-operatie-naar-een-boekje-vol-dankbaarheid-75-liter-bloed-verloren/",
+            "publishedDate": "13/11/2026 08:17",
+            "source": "zuidwestupdate.nl",
+            "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -262,25 +322,68 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgpremie a.s.r. stijgt in 2027: tot \u20ac 21 per maand duurder - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/zorgpremie-a-s-r-stijgt-in-2027-tot-e-21-per-maand-duurder",
-            "publishedDate": "13/11/2026 07:02",
-            "source": "zorgwijzer.nl",
+            "title": "Belgische zorg bij Europese top maar pati\u00ebntveiligheid kan beter - De Morgen",
+            "link": "https://www.demorgen.be/nieuws/belgische-zorg-bij-europese-top-maar-patientveiligheid-kan-beter~b089dd89/",
+            "publishedDate": "13/11/2026 07:08",
+            "source": "demorgen.be",
             "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
-            "title": "AI spoort prostaatkanker op, prestaties verschillen per ziekenhuis - ICT&amp;health",
-            "link": "https://www.icthealth.nl/nieuws/ai-spoort-prostaatkanker-op-prestaties-verschillen-per-ziekenhuis",
-            "publishedDate": "13/11/2026 07:00",
-            "source": "icthealth.nl",
+            "title": "Zorgpremie a.s.r. stijgt in 2027: tot \u20ac 21 per maand duurder - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/zorgpremie-a-s-r-stijgt-in-2027-tot-e-21-per-maand-duurder",
+            "publishedDate": "13/11/2026 07:02",
+            "source": "hetdeventernieuws.nl, oost.nl, weblog.independer.nl, zorgwijzer.nl",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 8,
+            "extra_bronnen": [
+                {
+                    "title": "Basisverzekering Salland Zorgverzekeraar stijgt naar 171,45 euro per maand - Het Deventer Nieuws",
+                    "source": "hetdeventernieuws.nl",
+                    "link": "https://www.hetdeventernieuws.nl/2026/11/13/basisverzekering-salland-zorgverzekeraar-stijgt-naar-17145-euro-per-maand/",
+                    "publishedDate": "13/11/2026 06:27"
+                },
+                {
+                    "title": "Premie Zorg en Zekerheid stijgt fors in 2027: tot \u20ac 264 extra - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/premie-zorg-en-zekerheid-stijgt-fors-in-2027-tot-e-264-extra",
+                    "publishedDate": "13/11/2026 05:32"
+                },
+                {
+                    "title": "Zorgpremies Nationale-Nederlanden 2027 - Independer Weblog",
+                    "source": "weblog.independer.nl",
+                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-nationale-nederlanden-2027/",
+                    "publishedDate": "13/11/2026 01:42"
+                },
+                {
+                    "title": "Zorgpremies VGZ en VGZbewuzt stijgen in 2027 - Independer Weblog",
+                    "source": "weblog.independer.nl",
+                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-vgz-en-vgzbewuzt-stijgen-in-2027-tot-wel-e-18-p-m-duurder/",
+                    "publishedDate": "13/11/2026 00:55"
+                },
+                {
+                    "title": "FBTO verhoogt zorgpremie in 2027 met \u20ac 5,70 tot \u20ac 11,80 per maand - Independer Weblog",
+                    "source": "weblog.independer.nl",
+                    "link": "https://weblog.independer.nl/zorgverzekeringen/fbto-verhoogt-zorgpremie-in-2027-met-e-570-tot-e-1180-per-maand/",
+                    "publishedDate": "13/11/2026 00:43"
+                },
+                {
+                    "title": "Zorgpremies Menzis en VinkVink stijgen in 2027 met \u20ac 6 tot \u20ac 12,50 per maand",
+                    "source": "weblog.independer.nl",
+                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-menzis-en-vinkvink-stijgen-in-2027-met-e-6-tot-e-1250-per-maand/",
+                    "publishedDate": "13/11/2026 00:43"
+                },
+                {
+                    "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
+                    "source": "oost.nl",
+                    "link": "https://www.oost.nl/nieuws/3715742/zorgpremie-menzis-stijgt-met-bijna-10-euro-per-maand-kosten-blijven-oplopen",
+                    "publishedDate": "13/11/2026 00:11"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -295,12 +398,23 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Basisverzekering Salland Zorgverzekeraar stijgt naar 171,45 euro per maand - Het Deventer Nieuws",
-            "link": "https://www.hetdeventernieuws.nl/2026/11/13/basisverzekering-salland-zorgverzekeraar-stijgt-naar-17145-euro-per-maand/",
-            "publishedDate": "13/11/2026 06:27",
-            "source": "hetdeventernieuws.nl",
+            "title": "UMC Utrecht raakt erkenning zeldzame tumoren kwijt, gaat toch door met behandelingen",
+            "link": "https://www.ftm.nl/artikelen/ondanks-verlies-overheidskeurmerk-toch-behandelingen-gist-in-umcu",
+            "publishedDate": "13/11/2026 06:43",
+            "source": "ftm.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Financieel directeur ziekenhuis, Gregory Croeze: Als er geen extra middelen binnenkomen ...",
+            "link": "https://www.eanews.com/financieel-directeur-ziekenhuis-gregory-croeze-als-er-geen-extra-middelen-binnenkomen-kan-het-ziekenhuis-het-zorgniveau-niet-handhaven/",
+            "publishedDate": "13/11/2026 06:35",
+            "source": "eanews.com",
             "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -324,50 +438,6 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "UMC Utrecht raakt erkenning zeldzame tumoren kwijt, gaat toch door met behandelingen",
-            "link": "https://www.ftm.nl/artikelen/ondanks-verlies-overheidskeurmerk-toch-behandelingen-gist-in-umcu",
-            "publishedDate": "13/11/2026 05:57",
-            "source": "ftm.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Premie Zorg en Zekerheid stijgt fors in 2027: tot \u20ac 264 extra - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/premie-zorg-en-zekerheid-stijgt-fors-in-2027-tot-e-264-extra",
-            "publishedDate": "13/11/2026 05:32",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Sijmen Egberts (23) schaatst zijn eerste World Cup met diabetes: 'Een half uur voor ik race ...",
-            "link": "https://www.parool.nl/sport/sijmen-egberts-23-schaatst-zijn-eerste-world-cup-met-diabetes-een-half-uur-voor-ik-race-spuit-ik-insuline~b34c23cd/",
-            "publishedDate": "13/11/2026 04:33",
-            "source": "parool.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Het dagelijks leven van veel nierpati\u00ebnten kan een stuk aangenamer worden, met hulp van ... - NRC",
-            "link": "https://www.nrc.nl/nieuws/2026/11/12/het-dagelijks-leven-van-veel-nierpatienten-kan-een-stuk-aangenamer-worden-met-hulp-van-een-peulvrucht-a4940387",
-            "publishedDate": "13/11/2026 04:18",
-            "source": "nrc.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -408,10 +478,10 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Belgische zorg bij Europese top maar pati\u00ebntveiligheid kan beter - De Morgen",
-            "link": "https://www.demorgen.be/nieuws/belgische-zorg-bij-europese-top-maar-patientveiligheid-kan-beter~b089dd89/",
-            "publishedDate": "13/11/2026 03:09",
-            "source": "demorgen.be",
+            "title": "RIZIV-rapport pleit voor minder \u201connodige zorg\u201d aan levenseinde: \u201cWe moeten niet focussen ...",
+            "link": "https://www.nieuwsblad.be/binnenland/riziv-rapport-pleit-voor-minder-onnodige-zorg-aan-levenseinde-we-moeten-niet-focussen-op-aantal-levensdagen-wel-op-de-kwaliteit-ervan/164444310.html",
+            "publishedDate": "13/11/2026 03:04",
+            "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
@@ -419,22 +489,11 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Voor welke kennis klopt jouw hart? - UZ Leuven",
-            "link": "https://www.uzleuven.be/nl/nieuws/voor-welke-kennis-klopt-jouw-hart",
-            "publishedDate": "13/11/2026 03:05",
-            "source": "uzleuven.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "RIZIV-rapport pleit voor minder \u201connodige zorg\u201d aan levenseinde: \u201cWe moeten niet focussen ...",
-            "link": "https://www.nieuwsblad.be/binnenland/riziv-rapport-pleit-voor-minder-onnodige-zorg-aan-levenseinde-we-moeten-niet-focussen-op-aantal-levensdagen-wel-op-de-kwaliteit-ervan/164444310.html",
-            "publishedDate": "13/11/2026 03:04",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
+            "title": "Het dagelijks leven van veel nierpati\u00ebnten kan een stuk aangenamer worden, met hulp van ... - NRC",
+            "link": "https://www.nrc.nl/nieuws/2026/11/12/het-dagelijks-leven-van-veel-nierpatienten-kan-een-stuk-aangenamer-worden-met-hulp-van-een-peulvrucht-a4940387",
+            "publishedDate": "13/11/2026 02:48",
+            "source": "nrc.nl",
+            "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -463,67 +522,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Shovel met plaskruis rijdt man op scootmobiel aan, slachtoffer met spoed naar ziekenhuis",
-            "link": "https://www.bd.nl/112-nieuws-oisterwijk/shovel-met-plaskruis-rijdt-man-op-scootmobiel-aan-slachtoffer-met-spoed-naar-ziekenhuis~a5127c30/",
-            "publishedDate": "13/11/2026 02:07",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Twee bewoners naar ziekenhuis na uitslaande woningbrand in Zaandam - De Orkaan",
-            "link": "https://www.deorkaan.nl/twee-bewoners-naar-ziekenhuis-na-uitslaande-woningbrand-in-zaandam-%F0%9F%93%B8/",
-            "publishedDate": "13/11/2026 02:04",
-            "source": "deorkaan.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Boerhaaveprijs 2026 voor Chendly Cecilia - UMC Utrecht",
-            "link": "https://www.umcutrecht.nl/nieuws/chendly-cecilia-wint-boerhaaveprijs-2026",
-            "publishedDate": "13/11/2026 01:45",
-            "source": "umcutrecht.nl",
-            "category": "Zorgaanbieders",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremies Nationale-Nederlanden 2027 - Independer Weblog",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-nationale-nederlanden-2027/",
-            "publishedDate": "13/11/2026 01:42",
-            "source": "weblog.independer.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Doden bij schietpartij Washington D.C., schutter had huurgeschil - NOS",
             "link": "https://nos.nl/artikel/2639190-doden-bij-schietpartij-washington-d-c-schutter-had-huurgeschil",
             "publishedDate": "13/11/2026 01:38",
             "source": "nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campus Pellenberg kiest voor nieuwbouw - UZ Leuven",
-            "link": "https://www.uzleuven.be/nl/nieuws/campus-pellenberg-kiest-voor-nieuwbouw",
-            "publishedDate": "13/11/2026 01:34",
-            "source": "uzleuven.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -573,56 +577,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgpremie OHRA 2027 - Independer Weblog",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-ohra-2027/",
-            "publishedDate": "13/11/2026 00:55",
-            "source": "weblog.independer.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremies VGZ en VGZbewuzt stijgen in 2027 - Independer Weblog",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-vgz-en-vgzbewuzt-stijgen-in-2027-tot-wel-e-18-p-m-duurder/",
-            "publishedDate": "13/11/2026 00:55",
-            "source": "weblog.independer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Sint-Michielsgestel is 'trots' op aanpak kleinschalige opvang asielzoekers | Regio | ED.nl",
             "link": "https://www.ed.nl/meierijstad/sint-michielsgestel-is-trots-op-aanpak-kleinschalige-opvang-asielzoekers~aae96aa9/",
             "publishedDate": "13/11/2026 00:52",
             "source": "ed.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "FBTO verhoogt zorgpremie in 2027 met \u20ac 5,70 tot \u20ac 11,80 per maand - Independer Weblog",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/fbto-verhoogt-zorgpremie-in-2027-met-e-570-tot-e-1180-per-maand/",
-            "publishedDate": "13/11/2026 00:43",
-            "source": "weblog.independer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremies Menzis en VinkVink stijgen in 2027 met \u20ac 6 tot \u20ac 12,50 per maand",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-menzis-en-vinkvink-stijgen-in-2027-met-e-6-tot-e-1250-per-maand/",
-            "publishedDate": "13/11/2026 00:43",
-            "source": "weblog.independer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -644,17 +604,6 @@
             "publishedDate": "13/11/2026 00:35",
             "source": "nu.nl",
             "category": "Landelijke Media",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
-            "link": "https://www.oost.nl/nieuws/3715742/zorgpremie-menzis-stijgt-met-bijna-10-euro-per-maand-kosten-blijven-oplopen",
-            "publishedDate": "13/11/2026 00:11",
-            "source": "oost.nl",
-            "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -702,6 +651,24 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Utrecht gaat door met gratis relatie- en scheidingsspreekuur in Leidsche Rijn, Vleuten en de Meern",
+            "link": "https://www.utrecht.nl/nieuws/nieuwsbericht-gemeente-utrecht/utrecht-gaat-door-met-gratis-relatie-en-scheidingsspreekuur-in-leidsche-rijn-vleuten-en-de-meern",
+            "publishedDate": "13/11/2026 00:00",
+            "source": "utrecht.nl, varnws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Utrecht gaat door met gratis relatie- en scheidingsspreekuur in Leidsche Rijn, Vleuten en de Meern",
+                    "source": "varnws.nl",
+                    "link": "https://www.varnws.nl/leidscherijn/nieuws/58422/utrecht-gaat-door-met-gratis-relatie-en-scheidingsspreekuur-i",
+                    "publishedDate": "12/11/2026 17:46"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -926,17 +893,6 @@
             "link": "https://nl.linkedin.com/posts/boudewijn-kessing-3b784722_team-endoscopie-is-als-eerste-afdeling-ai-ready-activity-7526703057376571393-UznZ",
             "publishedDate": "12/11/2026 20:33",
             "source": "nl.linkedin.com",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Het Nasser-ziekenhuis is een van de belangrijkste ziekenhuizen van Zuid-Gaza. Zo'n 1 ... - Instagram",
-            "link": "https://www.instagram.com/p/DfpwUiwDBvh/",
-            "publishedDate": "12/11/2026 20:18",
-            "source": "instagram.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
@@ -1305,17 +1261,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Utrecht gaat door met gratis relatie- en scheidingsspreekuur in Leidsche Rijn, Vleuten en de Meern",
-            "link": "https://www.varnws.nl/leidscherijn/nieuws/58422/utrecht-gaat-door-met-gratis-relatie-en-scheidingsspreekuur-i",
-            "publishedDate": "12/11/2026 17:46",
-            "source": "varnws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Belastingen Goes: grijze bak aan de straat zetten wordt 2 euro duurder | Regio - PZC",
             "link": "https://www.pzc.nl/goes/belastingen-goes-grijze-bak-aan-de-straat-zetten-wordt-2-euro-duurder~ad39f7aa/",
             "publishedDate": "12/11/2026 17:39",
@@ -1366,8 +1311,15 @@
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
+                    "publishedDate": "12/11/2026 16:04"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1461,17 +1413,6 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
-            "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
-            "publishedDate": "12/11/2026 16:04",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1737,6 +1678,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Boerhaaveprijs 2026 voor Chendly Cecilia - UMC Utrecht",
+            "link": "https://www.umcutrecht.nl/nieuws/chendly-cecilia-wint-boerhaaveprijs-2026",
+            "publishedDate": "12/11/2026 13:45",
+            "source": "umcutrecht.nl",
+            "category": "Zorgaanbieders",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
             "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
             "publishedDate": "12/11/2026 13:45",
@@ -1839,11 +1791,17 @@
             "title": "Nieuwe CAO GGZ nog niet rond[ - BVKZ",
             "link": "https://bvkz.nl/nieuwe-cao-ggz-nog-niet-rond/",
             "publishedDate": "12/11/2026 11:11",
-            "source": "bvkz.nl, cnv.nl",
+            "source": "bvkz.nl, cnv.nl, nu91.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
+                    "publishedDate": "11/11/2026 12:00"
+                },
                 {
                     "title": "[CNV] Actie in de GGZ",
                     "source": "cnv.nl",
@@ -2057,17 +2015,6 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
-            "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
-            "publishedDate": "11/11/2026 12:00",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
