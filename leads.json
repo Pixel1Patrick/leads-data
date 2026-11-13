@@ -493,15 +493,19 @@
             "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zorgpremies Menzis en VinkVink stijgen in 2027 met \u20ac 6 tot \u20ac 12,50 per maand",
-                    "source": "weblog.independer.nl",
-                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-menzis-en-vinkvink-stijgen-in-2027-met-e-6-tot-e-1250-per-maand/",
-                    "publishedDate": "13/11/2026 00:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgpremies Menzis en VinkVink stijgen in 2027 met \u20ac 6 tot \u20ac 12,50 per maand",
+            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-menzis-en-vinkvink-stijgen-in-2027-met-e-6-tot-e-1250-per-maand/",
+            "publishedDate": "13/11/2026 00:43",
+            "source": "weblog.independer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -524,7 +528,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
@@ -647,18 +651,11 @@
             "title": "Interzorg Noord-Nederland Drentse onderneming van het jaar: eerste zorginstelling die de prijs wint",
             "link": "https://www.rtvdrenthe.nl/nieuws/18943383/interzorg-noord-nederland-drentse-onderneming-van-het-jaar-eerste-zorginstelling-die-de-prijs-wint",
             "publishedDate": "12/11/2026 22:57",
-            "source": "dvhn.nl, rtvdrenthe.nl",
+            "source": "rtvdrenthe.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Interzorg viert dubbel feest met uitreiking Drentse Onderneming van het Jaar - DVHN",
-                    "source": "dvhn.nl",
-                    "link": "https://www.dvhn.nl/economie/interzorg-viert-dubbel-feest-met-uitreiking-drentse-onderneming-van-het-jaar/164056437.html",
-                    "publishedDate": "12/11/2026 22:20"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -690,6 +687,17 @@
             "source": "gva.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Interzorg viert dubbel feest met uitreiking Drentse Onderneming van het Jaar - DVHN",
+            "link": "https://www.dvhn.nl/economie/interzorg-viert-dubbel-feest-met-uitreiking-drentse-onderneming-van-het-jaar/164056437.html",
+            "publishedDate": "12/11/2026 22:20",
+            "source": "dvhn.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -753,10 +761,10 @@
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
             "link": "https://www.bd.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
             "publishedDate": "12/11/2026 20:59",
-            "source": "ad.nl, bd.nl, bndestem.nl, drimble.nl, ed.nl, gelderlander.nl",
+            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 7,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
@@ -775,18 +783,6 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/brabant/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
                     "publishedDate": "12/11/2026 15:32"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-                    "publishedDate": "12/11/2026 14:29"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
-                    "publishedDate": "12/11/2026 13:03"
                 }
             ],
             "belangrijkheid": 1
@@ -1100,13 +1096,19 @@
             "source": "nza.nl, pw.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Invoering nieuwe bekostiging stoppen met roken uitgesteld",
                     "source": "nza.nl",
                     "link": "https://www.nza.nl/actueel/nieuws/2026/11/11/invoering-nieuwe-bekostiging-stoppen-met-roken-uitgesteld",
                     "publishedDate": "11/11/2026 12:06"
+                },
+                {
+                    "title": "Nieuwe kerncijfers NZa geven inzicht in de ontwikkeling van geneesmiddelenuitgaven",
+                    "source": "nza.nl",
+                    "link": "https://www.nza.nl/actueel/nieuws/2026/11/11/nieuwe-kerncijfers-nza-geven-inzicht-in-de-ontwikkeling-van-geneesmiddelenuitgaven",
+                    "publishedDate": "11/11/2026 09:06"
                 }
             ],
             "belangrijkheid": 0
@@ -1151,19 +1153,13 @@
             "source": "nl.headtopics.com, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Son en Breugel verhoogt ozb met 48 procent door hoge jeugdzorgkosten - Omroep Brabant",
                     "source": "omroepbrabant.nl",
                     "link": "https://www.omroepbrabant.nl/nieuws/6034593/son-en-breugel-verhoogt-ozb-met-48-procent-door-hoge-jeugdzorgkosten",
                     "publishedDate": "12/11/2026 17:36"
-                },
-                {
-                    "title": "Jeugdzorgkosten drijven Son en Breugel in nauw: ozb stijgt met 48 procent - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/jeugdzorgkosten-drijven-son-en-breugel-in-nauw-ozb-stijgt-89794652",
-                    "publishedDate": "12/11/2026 17:21"
                 }
             ],
             "belangrijkheid": 0
@@ -1197,6 +1193,17 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdzorgkosten drijven Son en Breugel in nauw: ozb stijgt met 48 procent - Head Topics",
+            "link": "https://nl.headtopics.com/news/jeugdzorgkosten-drijven-son-en-breugel-in-nauw-ozb-stijgt-89794652",
+            "publishedDate": "12/11/2026 17:21",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1281,15 +1288,8 @@
             "source": "zuyderland.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
-                    "source": "zuyderland.nl",
-                    "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
-                    "publishedDate": "12/11/2026 16:53"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1310,6 +1310,17 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
+            "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
+            "publishedDate": "12/11/2026 16:53",
+            "source": "zuyderland.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1669,6 +1680,24 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+            "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+            "publishedDate": "12/11/2026 14:29",
+            "source": "bndestem.nl, drimble.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
+                    "publishedDate": "12/11/2026 13:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -2091,17 +2120,6 @@
             "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nieuwe kerncijfers NZa geven inzicht in de ontwikkeling van geneesmiddelenuitgaven",
-            "link": "https://www.nza.nl/actueel/nieuws/2026/11/11/nieuwe-kerncijfers-nza-geven-inzicht-in-de-ontwikkeling-van-geneesmiddelenuitgaven",
-            "publishedDate": "11/11/2026 09:06",
-            "source": "nza.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
