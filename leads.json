@@ -341,7 +341,7 @@
                     "publishedDate": "12/11/2026 13:03"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Personeel HOH legt werk neer om financi\u00eble problemen ziekenhuis | nu.CW",
@@ -845,8 +845,15 @@
             "source": "zuyderland.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
+                    "source": "zuyderland.nl",
+                    "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
+                    "publishedDate": "12/11/2026 16:53"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -868,17 +875,6 @@
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
-            "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
-            "publishedDate": "12/11/2026 16:53",
-            "source": "zuyderland.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1353,7 +1349,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Raad buigt zich over miljoenenbegroting - RTV Midden-Groningen",
@@ -1384,15 +1380,8 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
-                    "publishedDate": "12/11/2026 12:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1403,6 +1392,17 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
+            "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
+            "publishedDate": "12/11/2026 12:36",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1682,7 +1682,7 @@
                     "publishedDate": "11/11/2026 10:00"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Alle appartementen Zuidpost verhuurd, zestig procent van nieuwe bewoners komt uit Waddinxveen",
@@ -1883,7 +1883,7 @@
             "feed_label": "LAD (vakbond)",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Duurzaamheid] Hergebruik als standaard voor medische hulpmiddelen",
