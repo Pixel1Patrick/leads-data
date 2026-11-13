@@ -241,7 +241,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Nota n a v  verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -254,18 +254,6 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/3eab501e-e574-4874-a3d2-2190e1df0850",
                     "publishedDate": "13/11/2026 16:34"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/5c2dee92-703d-46b3-9983-8723fedd61b3",
-                    "publishedDate": "13/11/2026 12:34"
-                },
-                {
-                    "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
-                    "publishedDate": "13/11/2026 12:34"
                 }
             ],
             "belangrijkheid": 0
@@ -432,7 +420,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De resistentie van schimmels is nog hardnekkiger dan gedacht - Trouw",
@@ -471,16 +459,34 @@
             "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
             "publishedDate": "13/11/2026 15:49",
-            "source": "kw.be, nieuwsblad.be",
+            "source": "gva.be, kw.be, l1nieuws.nl, limburger.nl, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 4,
+            "duplicate_count": 7,
             "extra_bronnen": [
+                {
+                    "title": "Storing Microsoft Outlook: Outlook en Teams nog niet overal bereikbaar - L1 Nieuws",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3271766/storing-microsoft-outlook-outlook-en-teams-nog-niet-overal-bereikbaar",
+                    "publishedDate": "13/11/2026 14:27"
+                },
                 {
                     "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
                     "source": "kw.be",
                     "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
                     "publishedDate": "13/11/2026 13:52"
+                },
+                {
+                    "title": "Microsoft ziet \u201cvooruitgang\u201d na wereldwijde problemen met diensten als Outlook en Teams ... - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/binnenland/microsoft-ziet-vooruitgang-na-wereldwijde-problemen-met-diensten-als-outlook-en-teams-maar-nog-geen-definitieve-oplossing/164490398.html",
+                    "publishedDate": "13/11/2026 13:06"
+                },
+                {
+                    "title": "Microsoft-storing zorgt voor ongemak in Limburg: achter de schermen haperde het, maar het ...",
+                    "source": "limburger.nl",
+                    "link": "https://www.limburger.nl/regio/limburg/microsoft-storing-zorgt-voor-ongemak-in-limburg-achter-de-schermen-haperde-het-maar-werk-gaat-gewoon-door/164502287.html",
+                    "publishedDate": "13/11/2026 12:24"
                 },
                 {
                     "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
@@ -699,11 +705,17 @@
             "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Oostermoer",
             "link": "https://www.oostermoer.info/nieuws/algemeen/124081/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
             "publishedDate": "13/11/2026 14:35",
-            "source": "dvhn.nl, nl.headtopics.com, oostermoer.info, rtvdrenthe.nl",
+            "source": "dvhn.nl, instagram.com, nl.headtopics.com, oostermoer.info, rtvdrenthe.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
+                    "source": "instagram.com",
+                    "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
+                    "publishedDate": "13/11/2026 09:20"
+                },
                 {
                     "title": "Interzorg Noord-Nederland uitgeroepen tot Drentse onderneming van het jaar - Head Topics",
                     "source": "nl.headtopics.com",
@@ -733,17 +745,6 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Storing Microsoft Outlook: Outlook en Teams nog niet overal bereikbaar - L1 Nieuws",
-            "link": "https://www.l1nieuws.nl/nieuws/3271766/storing-microsoft-outlook-outlook-en-teams-nog-niet-overal-bereikbaar",
-            "publishedDate": "13/11/2026 14:27",
-            "source": "l1nieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -891,17 +892,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Microsoft ziet \u201cvooruitgang\u201d na wereldwijde problemen met diensten als Outlook en Teams ... - GVA",
-            "link": "https://www.gva.be/binnenland/microsoft-ziet-vooruitgang-na-wereldwijde-problemen-met-diensten-als-outlook-en-teams-maar-nog-geen-definitieve-oplossing/164490398.html",
-            "publishedDate": "13/11/2026 13:06",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Aantal Barendrechters zonder huisarts vermoedelijk veel hoger dan bekend - Barendrechts Dagblad",
             "link": "https://barendrechtsdagblad.nl/Lokaal/aantal-barendrechters-zonder-huisarts-vermoedelijk-veel-hoger-dan-bekend",
             "publishedDate": "13/11/2026 13:05",
@@ -935,14 +925,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Microsoft-storing zorgt voor ongemak in Limburg: achter de schermen haperde het, maar het ...",
-            "link": "https://www.limburger.nl/regio/limburg/microsoft-storing-zorgt-voor-ongemak-in-limburg-achter-de-schermen-haperde-het-maar-werk-gaat-gewoon-door/164502287.html",
-            "publishedDate": "13/11/2026 12:24",
-            "source": "limburger.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
+            "link": "https://open.overheid.nl/details/5c2dee92-703d-46b3-9983-8723fedd61b3",
+            "publishedDate": "13/11/2026 12:34",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
+                    "publishedDate": "13/11/2026 12:34"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1115,7 +1112,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgpremies in 2027 weer omhoog, van beperkt tot fors | de Volkskrant",
@@ -1162,7 +1159,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremies voor 2027 bekend: enorme stijging bij Tilburgs CZ - Omroep Brabant",
@@ -1294,17 +1291,6 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
-            "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
-            "publishedDate": "13/11/2026 09:20",
-            "source": "instagram.com",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1673,7 +1659,7 @@
                     "publishedDate": "12/11/2026 19:02"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Crackverslaafde daklozen maken buurten onleefbaar, maar hulp blijft uit - de Volkskrant",
