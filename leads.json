@@ -16,7 +16,7 @@
                     "publishedDate": "13/11/2026 16:36"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "UMC Utrecht raakt erkenning zeldzame tumoren kwijt, gaat toch door met behandelingen",
@@ -112,10 +112,10 @@
             "title": "Microsoft: vooruitgang bij oplossen grote storing - Trouw",
             "link": "https://www.trouw.nl/buitenland/microsoft-vooruitgang-bij-oplossen-grote-storing~b19abb6b/",
             "publishedDate": "13/11/2026 16:24",
-            "source": "ad.nl, duic.nl, gld.nl, gva.be, hartvannederland.nl, l1nieuws.nl, limburger.nl, nhnieuws.nl, nieuwsblad.be, trouw.nl",
+            "source": "ad.nl, duic.nl, gld.nl, gva.be, hartvannederland.nl, l1nieuws.nl, limburger.nl, nhnieuws.nl, nieuwsblad.be, trouw.nl, zuyderland.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 11,
+            "duplicate_count": 12,
             "extra_bronnen": [
                 {
                     "title": "Utrechtse ziekenhuizen en scholen slecht bereikbaar door grote storing bij Microsoft - AD",
@@ -134,6 +134,12 @@
                     "source": "gld.nl",
                     "link": "https://www.gld.nl/nieuws/8546521/grote-storing-microsoft-onder-andere-e-mail-onbereikbaar-ook-omroep-gelderland-getroffen",
                     "publishedDate": "13/11/2026 13:58"
+                },
+                {
+                    "title": "Storing bij e-mail en MijnZuyderland - Zuyderland",
+                    "source": "zuyderland.nl",
+                    "link": "https://zuyderland.nl/nieuws/storing-bij-e-mail-en-mijnzuyderland/",
+                    "publishedDate": "13/11/2026 13:39"
                 },
                 {
                     "title": "Microsoft ziet \u201cvooruitgang\u201d na wereldwijde problemen met diensten als Outlook en Teams ... - GVA",
@@ -187,7 +193,7 @@
             "source": "ad.nl, ed.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 4,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel - De Gelderlander",
@@ -206,6 +212,30 @@
                     "source": "ed.nl",
                     "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
                     "publishedDate": "13/11/2026 16:17"
+                },
+                {
+                    "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij ... - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
+                    "publishedDate": "12/11/2026 23:21"
+                },
+                {
+                    "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij een knuffel ...",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
+                    "publishedDate": "12/11/2026 21:52"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:30"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:29"
                 }
             ],
             "belangrijkheid": 0
@@ -259,7 +289,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Alle zorgverzekeraars verhogen hun premie. Bekijk en vergelijk hier wat je in 2027 betaalt ... - DVHN",
@@ -314,7 +344,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Lezing: Een reis langs de grenzen van Europa - MO* Magazine",
@@ -336,7 +366,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Staphorst op jacht naar punten, een weerzien in Bathmen en een derby in Heerde - de Stentor",
@@ -430,11 +460,17 @@
             "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Oostermoer",
             "link": "https://www.oostermoer.info/nieuws/algemeen/124081/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
             "publishedDate": "13/11/2026 14:35",
-            "source": "dvhn.nl, nl.headtopics.com, oostermoer.info, rtvdrenthe.nl",
+            "source": "dvhn.nl, instagram.com, nl.headtopics.com, oostermoer.info, rtvdrenthe.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
+                    "source": "instagram.com",
+                    "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
+                    "publishedDate": "13/11/2026 09:20"
+                },
                 {
                     "title": "Interzorg Noord-Nederland uitgeroepen tot Drentse onderneming van het jaar - Head Topics",
                     "source": "nl.headtopics.com",
@@ -534,17 +570,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Storing bij e-mail en MijnZuyderland - Zuyderland",
-            "link": "https://zuyderland.nl/nieuws/storing-bij-e-mail-en-mijnzuyderland/",
-            "publishedDate": "13/11/2026 13:39",
-            "source": "zuyderland.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Wat verdienen apothekers? Dit is het salaris in Nederland en andere landen - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/economie/wat-verdienen-apothekers-salaris",
             "publishedDate": "13/11/2026 13:34",
@@ -597,7 +622,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorg Kortrijk verankert publieke zorg door volledige inkanteling van zorgpersoneel in ...",
@@ -732,7 +757,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "'We moeten vertellen wat we allemaal doen in de openbare apotheek' | Pharmaceutisch Weekblad",
@@ -765,7 +790,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Waarom Belgi\u00eb goed scoort op zorgpersoneel, maar na operaties vaker sepsis ziet dan het ...",
@@ -798,7 +823,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Eigen risico en zorgpremies omhoog: 'Flinke stijging was te verwachten' - L1 Nieuws",
@@ -809,7 +834,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
@@ -853,7 +878,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Mysterie opgelost: daarom kleurt het Slingeland Ziekenhuis komende zondag paars - AD",
@@ -944,7 +969,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1012,7 +1037,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Politieke column: 'Ouderen zijn geen kostenpost' - Ditishelmond.nl",
@@ -1045,24 +1070,13 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kind (12) loopt weg uit zorginstelling Enschede, even later wordt hij verkracht - RTV Oost",
             "link": "https://www.oost.nl/nieuws/3718274/kind-12-loopt-weg-uit-zorginstelling-enschede-even-later-wordt-hij-verkracht",
             "publishedDate": "13/11/2026 09:52",
             "source": "oost.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
-            "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
-            "publishedDate": "13/11/2026 09:20",
-            "source": "instagram.com",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
@@ -1129,7 +1143,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Eemsdelta onderzoekt link tussen gaswinningsschade en oplopende jeugdzorgkosten",
@@ -1151,7 +1165,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Frederique presteert in wereldtop, mede dankzij baan in gehandicaptenzorg - Omroep Brabant",
@@ -1173,7 +1187,7 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "United Microelectronics (UMC) cijfers 2025 - De Belegger",
@@ -1182,7 +1196,7 @@
             "source": "debelegger.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "United Microelectronics (UMC) dividend 2026 - De Belegger",
@@ -1195,6 +1209,18 @@
                     "source": "debelegger.nl",
                     "link": "https://www.debelegger.nl/koers/UMC.US/kerncijfers",
                     "publishedDate": "13/11/2026 02:08"
+                },
+                {
+                    "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
+                    "source": "debelegger.nl",
+                    "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
+                    "publishedDate": "13/11/2026 02:08"
+                },
+                {
+                    "title": "United Microelectronics Belegger-score - UMC",
+                    "source": "debelegger.nl",
+                    "link": "https://www.debelegger.nl/koers/UMC.US/score",
+                    "publishedDate": "13/11/2026 01:36"
                 }
             ],
             "belangrijkheid": 0
@@ -1211,17 +1237,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
-            "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
-            "publishedDate": "13/11/2026 02:08",
-            "source": "debelegger.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zorgpremies Nationale-Nederlanden 2027 - Independer Weblog",
             "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-nationale-nederlanden-2027/",
             "publishedDate": "13/11/2026 01:42",
@@ -1230,18 +1245,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "United Microelectronics Belegger-score - UMC",
-            "link": "https://www.debelegger.nl/koers/UMC.US/score",
-            "publishedDate": "13/11/2026 01:36",
-            "source": "debelegger.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Mensen met dementie helpen om actief te blijven en gezien te worden",
@@ -1312,36 +1316,6 @@
                     "source": "varnws.nl",
                     "link": "https://www.varnws.nl/leidscherijn/nieuws/58422/utrecht-gaat-door-met-gratis-relatie-en-scheidingsspreekuur-i",
                     "publishedDate": "12/11/2026 17:46"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij ... - De Gelderlander",
-            "link": "https://www.gelderlander.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
-            "publishedDate": "12/11/2026 23:21",
-            "source": "ad.nl, gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij een knuffel ...",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
-                    "publishedDate": "12/11/2026 21:52"
-                },
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:30"
-                },
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:29"
                 }
             ],
             "belangrijkheid": 0
