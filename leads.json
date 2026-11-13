@@ -31,7 +31,7 @@
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zestien Duitse schoolkinderen naar ziekenhuis na eten van muffins met batterijen - BNR",
@@ -73,7 +73,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Nota n a v  verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -88,16 +88,10 @@
                     "publishedDate": "13/11/2026 16:34"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
-                    "publishedDate": "13/11/2026 11:18"
+                    "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_3",
+                    "publishedDate": "13/11/2026 11:47"
                 }
             ],
             "belangrijkheid": 0
@@ -117,16 +111,16 @@
             "title": "Huisartsen schakelen pati\u00ebnten in tegen afschaffing Impulseo - De Specialist",
             "link": "https://www.despecialist.eu/nl/nieuws/beroepsnieuws/huisartsen-schakelen-patienten-in-tegen-afschaffing-impulseo.html",
             "publishedDate": "13/11/2026 16:26",
-            "source": "despecialist.eu, tubantia.nl",
+            "source": "despecialist.eu, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 2,
             "extra_bronnen": [
                 {
-                    "title": "Oud-huisarts uit Diepenheim bereidt massaclaim tegen voormalig asbestfabriek in Goor voor",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/hof-van-twente/oud-huisarts-uit-diepenheim-bereidt-massaclaim-tegen-voormalig-asbestfabriek-in-goor-voor-het-had-allemaal-voorkomen-kunnen-worden~a69cdd20/",
-                    "publishedDate": "13/11/2026 16:16"
+                    "title": "Zorgpremies voor 2027 bekend: enorme stijging bij Tilburgs CZ - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6034677/zorgpremies-voor-2027-bekend-enorme-stijging-bij-tilburgs-cz",
+                    "publishedDate": "13/11/2026 11:14"
                 }
             ],
             "belangrijkheid": 0
@@ -135,7 +129,7 @@
             "title": "Microsoft: vooruitgang bij oplossen grote storing - Trouw",
             "link": "https://www.trouw.nl/buitenland/microsoft-vooruitgang-bij-oplossen-grote-storing~b19abb6b/",
             "publishedDate": "13/11/2026 16:24",
-            "source": "ad.nl, duic.nl, gld.nl, hartvannederland.nl, l1nieuws.nl, limburger.nl, nhnieuws.nl, trouw.nl",
+            "source": "ad.nl, duic.nl, gld.nl, gva.be, l1nieuws.nl, limburger.nl, nhnieuws.nl, trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 8,
@@ -159,6 +153,12 @@
                     "publishedDate": "13/11/2026 13:58"
                 },
                 {
+                    "title": "Microsoft ziet \u201cvooruitgang\u201d na wereldwijde problemen met diensten als Outlook en Teams ... - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/binnenland/microsoft-ziet-vooruitgang-na-wereldwijde-problemen-met-diensten-als-outlook-en-teams-maar-nog-geen-definitieve-oplossing/164490398.html",
+                    "publishedDate": "13/11/2026 13:06"
+                },
+                {
                     "title": "Microsoft-storing legt Noord-Hollandse instanties plat - NH Nieuws",
                     "source": "nhnieuws.nl",
                     "link": "https://www.nhnieuws.nl/nieuws/365418/microsoft-storing-legt-noord-hollandse-instanties-plat",
@@ -175,12 +175,6 @@
                     "source": "duic.nl",
                     "link": "https://www.duic.nl/algemeen/algemeen/61500/wereldwijde-microsoft-storing-raakt-ook-utrecht-ziekenhuizen-en-onderwijsinstellingen-ondervinden-hinder",
                     "publishedDate": "13/11/2026 12:07"
-                },
-                {
-                    "title": "Grote Microsoft-storing treft ook ziekenhuizen, gemeenten en rechtbanken",
-                    "source": "hartvannederland.nl",
-                    "link": "https://www.hartvannederland.nl/tech/storing/artikelen/grote-microsoft-storing-treft-ziekenhuizen-gemeenten-rechtbanken",
-                    "publishedDate": "13/11/2026 12:05"
                 }
             ],
             "belangrijkheid": 0
@@ -228,6 +222,17 @@
             "source": "omropfryslan.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Oud-huisarts uit Diepenheim bereidt massaclaim tegen voormalig asbestfabriek in Goor voor",
+            "link": "https://www.tubantia.nl/hof-van-twente/oud-huisarts-uit-diepenheim-bereidt-massaclaim-tegen-voormalig-asbestfabriek-in-goor-voor-het-had-allemaal-voorkomen-kunnen-worden~a69cdd20/",
+            "publishedDate": "13/11/2026 16:16",
+            "source": "tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -366,7 +371,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Staphorst op jacht naar punten, een weerzien in Bathmen en een derby in Heerde - de Stentor",
@@ -450,7 +455,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
@@ -661,17 +666,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Microsoft ziet \u201cvooruitgang\u201d na wereldwijde problemen met diensten als Outlook en Teams ... - GVA",
-            "link": "https://www.gva.be/binnenland/microsoft-ziet-vooruitgang-na-wereldwijde-problemen-met-diensten-als-outlook-en-teams-maar-nog-geen-definitieve-oplossing/164490398.html",
-            "publishedDate": "13/11/2026 13:06",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Aantal Barendrechters zonder huisarts vermoedelijk veel hoger dan bekend - Barendrechts Dagblad",
             "link": "https://barendrechtsdagblad.nl/Lokaal/aantal-barendrechters-zonder-huisarts-vermoedelijk-veel-hoger-dan-bekend",
             "publishedDate": "13/11/2026 13:05",
@@ -711,31 +705,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
                     "publishedDate": "13/11/2026 12:34"
-                },
-                {
-                    "title": "Brief van ministerie van VWS aan Stichting Acute Zorg VPR in reactie op brief \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "[WOO] Brief van Stichting Acute Zorq VPR in reactie op brief van VWS over \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
-                    "publishedDate": "13/11/2026 11:18"
                 }
             ],
             "belangrijkheid": 0
@@ -822,7 +798,18 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Grote Microsoft-storing treft ook ziekenhuizen, gemeenten en rechtbanken",
+            "link": "https://www.hartvannederland.nl/tech/storing/artikelen/grote-microsoft-storing-treft-ziekenhuizen-gemeenten-rechtbanken",
+            "publishedDate": "13/11/2026 12:05",
+            "source": "hartvannederland.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "'We moeten vertellen wat we allemaal doen in de openbare apotheek' | Pharmaceutisch Weekblad",
@@ -902,17 +889,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
-            "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_3",
-            "publishedDate": "13/11/2026 11:47",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zorgverzekeraars trekken portemonnee, maar premies stijgen alsnog fors - BNR",
             "link": "https://www.bnr.nl/nieuws/economie/10615507/zorgverzekeraars-trekken-portemonnee-maar-premies-stijgen-alsnog-fors",
             "publishedDate": "13/11/2026 11:47",
@@ -932,7 +908,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie VGZ stijgt fors in 2027: tot \u20ac 210 extra - Zorgwijzer",
@@ -968,14 +944,39 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgpremies voor 2027 bekend: enorme stijging bij Tilburgs CZ - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6034677/zorgpremies-voor-2027-bekend-enorme-stijging-bij-tilburgs-cz",
-            "publishedDate": "13/11/2026 11:14",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "title": "Brief van ministerie van VWS aan Stichting Acute Zorg VPR in reactie op brief \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
+            "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
+            "publishedDate": "13/11/2026 11:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "[WOO] Brief van Stichting Acute Zorq VPR in reactie op brief van VWS over \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
+                    "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
+                    "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
+                    "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
+                    "publishedDate": "13/11/2026 11:18"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1449,10 +1450,10 @@
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
             "link": "https://www.bd.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
             "publishedDate": "12/11/2026 20:59",
-            "source": "ad.nl, bd.nl, bndestem.nl, ed.nl",
+            "source": "ad.nl, bd.nl, ed.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
@@ -1465,15 +1466,9 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/breda/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
                     "publishedDate": "12/11/2026 17:02"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-                    "publishedDate": "12/11/2026 14:29"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' | Nieuws | De Stentor.nl",
@@ -1778,6 +1773,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+            "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+            "publishedDate": "12/11/2026 14:29",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Erasmusschutter Fouad L. suggereert dat hoger beroep overbodig was geweest na ...",
             "link": "https://www.nationalezorggids.nl/zorgpersoneel/erasmusschutter-fouad-l-suggereert-dat-hoger-beroep-overbodig-was-geweest-na-persoonlijk-gesprek/",
             "publishedDate": "12/11/2026 14:08",
@@ -1808,7 +1814,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Cao-onderhandelingen bij arbodienstverlener HumanTotalCare gestart",
