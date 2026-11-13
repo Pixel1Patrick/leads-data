@@ -179,19 +179,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_13",
                     "publishedDate": "13/11/2026 19:34"
-                },
-                {
-                    "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_7",
-                    "publishedDate": "13/11/2026 19:01"
                 }
             ],
             "belangrijkheid": 0
@@ -200,18 +194,11 @@
             "title": "Rechtbank: ziekenhuis Nij Smellinghe moet stoppen met specialistische nierkankerzorg",
             "link": "https://www.lc.nl/regio/friesland/rechtbank-ziekenhuis-nij-smellinghe-moet-stoppen-met-specialistische-nierkankerzorg/164450134.html",
             "publishedDate": "13/11/2026 19:17",
-            "source": "lc.nl, omropfryslan.nl",
+            "source": "lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Geen operaties bij nierkanker meer in Drachten: rechter geeft ziekenhuis ongelijk",
-                    "source": "omropfryslan.nl",
-                    "link": "https://www.omropfryslan.nl/nl/nieuws/18944094/geen-operaties-bij-nierkanker-meer-in-drachten-rechter-geeft-ziekenhuis-ongelijk",
-                    "publishedDate": "13/11/2026 16:22"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -232,6 +219,17 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
+            "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_7",
+            "publishedDate": "13/11/2026 19:01",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -500,24 +498,11 @@
             "title": "Storing bij Microsoft 365 - Eurocross",
             "link": "https://eurocross.nl/nieuws/73/storing-bij-microsoft-365",
             "publishedDate": "13/11/2026 16:59",
-            "source": "ad.nl, dub.uu.nl, eurocross.nl",
+            "source": "eurocross.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Langzaam herstel Microsoft-diensten - DUB",
-                    "source": "dub.uu.nl",
-                    "link": "https://dub.uu.nl/nl/nieuws/langzaam-herstel-microsoft-diensten",
-                    "publishedDate": "13/11/2026 16:14"
-                },
-                {
-                    "title": "Utrechtse ziekenhuizen en scholen slecht bereikbaar door grote storing bij Microsoft - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/utrecht/utrechtse-ziekenhuizen-en-scholen-slecht-bereikbaar-door-grote-storing-bij-microsoft~a58598f9/",
-                    "publishedDate": "13/11/2026 15:05"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -622,6 +607,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Geen operaties bij nierkanker meer in Drachten: rechter geeft ziekenhuis ongelijk",
+            "link": "https://www.omropfryslan.nl/nl/nieuws/18944094/geen-operaties-bij-nierkanker-meer-in-drachten-rechter-geeft-ziekenhuis-ongelijk",
+            "publishedDate": "13/11/2026 16:22",
+            "source": "omropfryslan.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Meerderheid Veenendaalse raad neemt programmabegroting 2027-2030 aan - De Rijnpost",
             "link": "https://www.derijnpost.nl/lokaal/politiek/1327475/meerderheid-veenendaalse-raad-neemt-programmabegroting-2027-2",
             "publishedDate": "13/11/2026 16:21",
@@ -639,6 +635,17 @@
             "source": "tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Langzaam herstel Microsoft-diensten - DUB",
+            "link": "https://dub.uu.nl/nl/nieuws/langzaam-herstel-microsoft-diensten",
+            "publishedDate": "13/11/2026 16:14",
+            "source": "dub.uu.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -890,6 +897,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Utrechtse ziekenhuizen en scholen slecht bereikbaar door grote storing bij Microsoft - AD",
+            "link": "https://www.ad.nl/utrecht/utrechtse-ziekenhuizen-en-scholen-slecht-bereikbaar-door-grote-storing-bij-microsoft~a58598f9/",
+            "publishedDate": "13/11/2026 15:05",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Haaksbergen verliest eigen weekendspoedzorg: pati\u00ebnten ook overdag naar Enschede",
             "link": "https://www.twentefm.nl/artikel/6398201/__temp_ggkukdvsmhcezgynlfcyqxgiinhcemlpsnwd",
             "publishedDate": "13/11/2026 15:03",
@@ -920,7 +938,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
@@ -1253,7 +1271,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Brief van ministerie van VWS aan Stichting Acute Zorg VPR in reactie op brief \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
@@ -1306,18 +1324,11 @@
             "title": "Balans Thuiszorg in Oosterhout heeft Last onder dwangsom en aanwijzing met cli\u00ebntenstop",
             "link": "https://www.zorgkrant.nl/management-en-beleid/21668-balans-thuiszorg-in-oosterhout-heeft-last-onder-dwangsom-en-aanwijzing-met-clientenstop",
             "publishedDate": "13/11/2026 11:02",
-            "source": "igj.nl, zorgkrant.nl",
+            "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
-                    "publishedDate": "12/11/2026 13:44"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1762,6 +1773,17 @@
                 }
             ],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
+            "publishedDate": "12/11/2026 13:44",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Cao-onderhandelingen bij arbodienstverlener HumanTotalCare gestart",
