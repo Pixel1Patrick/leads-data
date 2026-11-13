@@ -158,18 +158,11 @@
             "title": "Rechtbank: ziekenhuis Nij Smellinghe moet stoppen met specialistische nierkankerzorg",
             "link": "https://www.lc.nl/regio/friesland/rechtbank-ziekenhuis-nij-smellinghe-moet-stoppen-met-specialistische-nierkankerzorg/164450134.html",
             "publishedDate": "13/11/2026 19:17",
-            "source": "lc.nl, omropfryslan.nl",
+            "source": "lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Geen operaties bij nierkanker meer in Drachten: rechter geeft ziekenhuis ongelijk",
-                    "source": "omropfryslan.nl",
-                    "link": "https://www.omropfryslan.nl/nl/nieuws/18944094/geen-operaties-bij-nierkanker-meer-in-drachten-rechter-geeft-ziekenhuis-ongelijk",
-                    "publishedDate": "13/11/2026 16:22"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -428,16 +421,28 @@
             "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Nieuwsbode",
             "link": "https://www.nieuwsbode.info/nieuws/algemeen/124092/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
             "publishedDate": "13/11/2026 17:08",
-            "source": "nieuwsbode.info, oostermoer.info",
+            "source": "nieuwsbode.info, nl.headtopics.com, oostermoer.info, rtvdrenthe.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Oostermoer",
                     "source": "oostermoer.info",
                     "link": "https://www.oostermoer.info/nieuws/algemeen/124081/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
                     "publishedDate": "13/11/2026 14:35"
+                },
+                {
+                    "title": "Interzorg Noord-Nederland uitgeroepen tot Drentse onderneming van het jaar - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/interzorg-noord-nederland-uitgeroepen-tot-drentse-89803055",
+                    "publishedDate": "12/11/2026 23:41"
+                },
+                {
+                    "title": "Interzorg Noord-Nederland Drentse onderneming van het jaar: eerste zorginstelling die de prijs wint",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18943383/interzorg-noord-nederland-drentse-onderneming-van-het-jaar-eerste-zorginstelling-die-de-prijs-wint",
+                    "publishedDate": "12/11/2026 22:57"
                 }
             ],
             "belangrijkheid": 0
@@ -457,11 +462,54 @@
             "title": "Storing bij Microsoft 365 - Eurocross",
             "link": "https://eurocross.nl/nieuws/73/storing-bij-microsoft-365",
             "publishedDate": "13/11/2026 16:59",
-            "source": "eurocross.nl",
+            "source": "ad.nl, dub.uu.nl, eurocross.nl, kw.be, nieuwsblad.be, trouw.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 8,
+            "extra_bronnen": [
+                {
+                    "title": "Microsoft: vooruitgang bij oplossen grote storing - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/buitenland/microsoft-vooruitgang-bij-oplossen-grote-storing~b19abb6b/",
+                    "publishedDate": "13/11/2026 16:24"
+                },
+                {
+                    "title": "Langzaam herstel Microsoft-diensten - DUB",
+                    "source": "dub.uu.nl",
+                    "link": "https://dub.uu.nl/nl/nieuws/langzaam-herstel-microsoft-diensten",
+                    "publishedDate": "13/11/2026 16:14"
+                },
+                {
+                    "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
+                    "publishedDate": "13/11/2026 15:49"
+                },
+                {
+                    "title": "Utrechtse ziekenhuizen en scholen slecht bereikbaar door grote storing bij Microsoft - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/utrecht/utrechtse-ziekenhuizen-en-scholen-slecht-bereikbaar-door-grote-storing-bij-microsoft~a58598f9/",
+                    "publishedDate": "13/11/2026 15:05"
+                },
+                {
+                    "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
+                    "source": "kw.be",
+                    "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
+                    "publishedDate": "13/11/2026 13:52"
+                },
+                {
+                    "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
+                    "publishedDate": "13/11/2026 12:12"
+                },
+                {
+                    "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164496592.html",
+                    "publishedDate": "13/11/2026 10:59"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -484,7 +532,7 @@
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zestien Duitse schoolkinderen naar ziekenhuis na eten van muffins met batterijen - BNR",
@@ -577,15 +625,15 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Microsoft: vooruitgang bij oplossen grote storing - Trouw",
-            "link": "https://www.trouw.nl/buitenland/microsoft-vooruitgang-bij-oplossen-grote-storing~b19abb6b/",
-            "publishedDate": "13/11/2026 16:24",
-            "source": "trouw.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
+            "title": "Geen operaties bij nierkanker meer in Drachten: rechter geeft ziekenhuis ongelijk",
+            "link": "https://www.omropfryslan.nl/nl/nieuws/18944094/geen-operaties-bij-nierkanker-meer-in-drachten-rechter-geeft-ziekenhuis-ongelijk",
+            "publishedDate": "13/11/2026 16:22",
+            "source": "omropfryslan.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Meerderheid Veenendaalse raad neemt programmabegroting 2027-2030 aan - De Rijnpost",
@@ -605,17 +653,6 @@
             "source": "tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Langzaam herstel Microsoft-diensten - DUB",
-            "link": "https://dub.uu.nl/nl/nieuws/langzaam-herstel-microsoft-diensten",
-            "publishedDate": "13/11/2026 16:14",
-            "source": "dub.uu.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -724,36 +761,6 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
-            "publishedDate": "13/11/2026 15:49",
-            "source": "kw.be, nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
-                    "source": "kw.be",
-                    "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
-                    "publishedDate": "13/11/2026 13:52"
-                },
-                {
-                    "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
-                    "publishedDate": "13/11/2026 12:12"
-                },
-                {
-                    "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164496592.html",
-                    "publishedDate": "13/11/2026 10:59"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -867,24 +874,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Utrechtse ziekenhuizen en scholen slecht bereikbaar door grote storing bij Microsoft - AD",
-            "link": "https://www.ad.nl/utrecht/utrechtse-ziekenhuizen-en-scholen-slecht-bereikbaar-door-grote-storing-bij-microsoft~a58598f9/",
-            "publishedDate": "13/11/2026 15:05",
-            "source": "ad.nl, nemokennislink.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Wat als de VS alle Amerikaanse software uitschakelt - NEMO Kennislink",
-                    "source": "nemokennislink.nl",
-                    "link": "https://www.nemokennislink.nl/publicaties/wat-als-de-vs-alle-amerikaanse-software-uitschakelt/",
-                    "publishedDate": "13/11/2026 14:15"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Haaksbergen verliest eigen weekendspoedzorg: pati\u00ebnten ook overdag naar Enschede",
             "link": "https://www.twentefm.nl/artikel/6398201/__temp_ggkukdvsmhcezgynlfcyqxgiinhcemlpsnwd",
             "publishedDate": "13/11/2026 15:03",
@@ -936,6 +925,17 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Wat als de VS alle Amerikaanse software uitschakelt - NEMO Kennislink",
+            "link": "https://www.nemokennislink.nl/publicaties/wat-als-de-vs-alle-amerikaanse-software-uitschakelt/",
+            "publishedDate": "13/11/2026 14:15",
+            "source": "nemokennislink.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1671,17 +1671,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Interzorg Noord-Nederland uitgeroepen tot Drentse onderneming van het jaar - Head Topics",
-            "link": "https://nl.headtopics.com/news/interzorg-noord-nederland-uitgeroepen-tot-drentse-89803055",
-            "publishedDate": "12/11/2026 23:41",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij ... - De Gelderlander",
             "link": "https://www.gelderlander.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
             "publishedDate": "12/11/2026 23:21",
@@ -1708,24 +1697,6 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Interzorg Noord-Nederland Drentse onderneming van het jaar: eerste zorginstelling die de prijs wint",
-            "link": "https://www.rtvdrenthe.nl/nieuws/18943383/interzorg-noord-nederland-drentse-onderneming-van-het-jaar-eerste-zorginstelling-die-de-prijs-wint",
-            "publishedDate": "12/11/2026 22:57",
-            "source": "dvhn.nl, rtvdrenthe.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Interzorg viert dubbel feest met uitreiking Drentse Onderneming van het Jaar - DVHN",
-                    "source": "dvhn.nl",
-                    "link": "https://www.dvhn.nl/economie/interzorg-viert-dubbel-feest-met-uitreiking-drentse-onderneming-van-het-jaar/164056437.html",
-                    "publishedDate": "12/11/2026 22:20"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
