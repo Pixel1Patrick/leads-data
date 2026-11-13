@@ -693,7 +693,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Spanje veroordeelt Isra\u00eblische bombardementen op Nasser-ziekenhuis in Gaza",
@@ -975,7 +975,7 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "United Microelectronics (UMC) cijfers 2025 - De Belegger",
@@ -1229,10 +1229,10 @@
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
             "link": "https://www.bd.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
             "publishedDate": "12/11/2026 20:59",
-            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl",
+            "source": "ad.nl, bd.nl, bndestem.nl, ed.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
@@ -1251,6 +1251,12 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/brabant/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
                     "publishedDate": "12/11/2026 15:32"
+                },
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+                    "publishedDate": "12/11/2026 14:29"
                 }
             ],
             "belangrijkheid": 1
@@ -1826,17 +1832,6 @@
             "source": "kijk.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-            "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-            "publishedDate": "12/11/2026 14:29",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
