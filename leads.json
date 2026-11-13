@@ -1,6 +1,48 @@
 {
     "artikelen": [
         {
+            "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
+            "link": "https://open.overheid.nl/details/e0033922-90c9-457e-b7cb-341bf2d87bfd",
+            "publishedDate": "13/11/2026 10:54",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Aanbiedingsbrief toezichtrapport 2025 over toezicht op het CAK door de Nederlandse Zorgautoriteit",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/d0cb4f18-e950-4a84-882a-7f6ecf5dc770",
+                    "publishedDate": "13/11/2026 10:54"
+                },
+                {
+                    "title": "Aanbiedingsbrief bij toezichtrapport 2025 over toezicht op het CAK door de Nederlandse Zorgautoriteit",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/478b44f8-c4f9-4ce8-ae70-15434c7ba3fe",
+                    "publishedDate": "13/11/2026 10:54"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
+            "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_5",
+            "publishedDate": "13/11/2026 10:44",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/oep-ob-203ccce89bfa35ea59175f34931f50ca1b1d63fe_5",
+                    "publishedDate": "13/11/2026 10:43"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Zorgpremies ontploffen: dit gaan Brabanders volgend jaar betalen | Regio | AD.nl",
             "link": "https://www.ad.nl/tilburg/zorgpremies-ontploffen-dit-gaan-brabanders-volgend-jaar-betalen~a450c7ee/",
             "publishedDate": "13/11/2026 10:41",
@@ -10,17 +52,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
-            "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_3",
-            "publishedDate": "13/11/2026 10:20",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Storing bij Microsoft - Wilhelmina Ziekenhuis Assen",
@@ -42,7 +73,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
@@ -53,7 +84,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kind (12) loopt weg uit zorginstelling Enschede, even later wordt hij verkracht - RTV Oost",
@@ -300,7 +331,7 @@
             "source": "debelegger.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "United Microelectronics (UMC) dividend 2026 - De Belegger",
@@ -313,18 +344,6 @@
                     "source": "debelegger.nl",
                     "link": "https://www.debelegger.nl/koers/UMC.US/kerncijfers",
                     "publishedDate": "13/11/2026 02:08"
-                },
-                {
-                    "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
-                    "publishedDate": "13/11/2026 02:08"
-                },
-                {
-                    "title": "United Microelectronics Belegger-score - UMC",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/score",
-                    "publishedDate": "13/11/2026 01:36"
                 }
             ],
             "belangrijkheid": 0
@@ -369,6 +388,17 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
+            "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
+            "publishedDate": "13/11/2026 02:08",
+            "source": "debelegger.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -440,6 +470,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "United Microelectronics Belegger-score - UMC",
+            "link": "https://www.debelegger.nl/koers/UMC.US/score",
+            "publishedDate": "13/11/2026 01:36",
+            "source": "debelegger.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Campus Pellenberg kiest voor nieuwbouw - UZ Leuven",
             "link": "https://www.uzleuven.be/nl/nieuws/campus-pellenberg-kiest-voor-nieuwbouw",
             "publishedDate": "13/11/2026 01:34",
@@ -481,7 +522,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Middelburg ziet rode cijfers opdoemen: broekriem aanhalen lijkt onvermijdelijk - PZC",
@@ -558,7 +599,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie stijgt harder dan verwacht: 170 euro per maand geen uitzondering | Economie",
@@ -569,7 +610,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
@@ -613,7 +654,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kampen ziet financi\u00eble tekorten oplopen, bezuinigingen dreigen - 1Zwolle",
@@ -655,16 +696,28 @@
             "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij een knuffel ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
                     "publishedDate": "12/11/2026 21:52"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:30"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:29"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Treinreizigers zitten voorlopig nog wel in de ranzigheid van 11-11; schoonmakers staken",
@@ -1088,24 +1141,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
-            "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-            "publishedDate": "12/11/2026 18:30",
-            "source": "ad.nl, gelderlander.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:29"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ziekenhuizen voor wekedelensarcomen - Kanker.nl",
             "link": "https://www.kanker.nl/kankersoorten/wekedelentumoren-wekedelensarcomen/na-de-uitslag/ziekenhuizen-voor-wekedelensarcomen",
             "publishedDate": "12/11/2026 18:21",
@@ -1176,7 +1211,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De nieuwe editie van de Kennisagenda Wetenschappelijk Onderzoek Langdurige ... - UMCG",
@@ -1319,15 +1354,8 @@
             "source": "zuyderland.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
-                    "source": "zuyderland.nl",
-                    "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
-                    "publishedDate": "12/11/2026 16:53"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1353,30 +1381,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Toezichtrapport 2025 over het toezicht op het CAK door de Nederlandse Zorgautoriteit",
-            "link": "https://open.overheid.nl/details/d0cb4f18-e950-4a84-882a-7f6ecf5dc770",
-            "publishedDate": "12/11/2026 16:50",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over Toezichtrapport 2025 over het toezicht op het CAK door de Nederlandse Zorgautoriteit",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/478b44f8-c4f9-4ce8-ae70-15434c7ba3fe",
-                    "publishedDate": "12/11/2026 16:50"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
-            "link": "https://open.overheid.nl/details/e0033922-90c9-457e-b7cb-341bf2d87bfd",
-            "publishedDate": "12/11/2026 16:50",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
+            "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
+            "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
+            "publishedDate": "12/11/2026 16:53",
+            "source": "zuyderland.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2010,19 +2020,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek NIX18",
-            "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
-            "publishedDate": "12/11/2026 09:22",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek NIX18",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
+                    "publishedDate": "12/11/2026 09:22"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
