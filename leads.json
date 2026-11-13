@@ -405,25 +405,13 @@
             "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij een knuffel ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
                     "publishedDate": "12/11/2026 21:52"
-                },
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:30"
-                },
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:29"
                 }
             ],
             "belangrijkheid": 0
@@ -573,7 +561,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Digitale gegevensuitwisseling maakt passende palliatieve zorg mogelijk - ZonMw",
@@ -871,6 +859,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
+            "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+            "publishedDate": "12/11/2026 18:30",
+            "source": "ad.nl, gelderlander.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:29"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Ziekenhuizen voor wekedelensarcomen - Kanker.nl",
             "link": "https://www.kanker.nl/kankersoorten/wekedelentumoren-wekedelensarcomen/na-de-uitslag/ziekenhuizen-voor-wekedelensarcomen",
             "publishedDate": "12/11/2026 18:21",
@@ -941,7 +947,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "De nieuwe editie van de Kennisagenda Wetenschappelijk Onderzoek Langdurige ... - UMCG",
@@ -980,16 +986,40 @@
             "title": "Gemeente Son en Breugel verhoogt ozb met 48 procent voor jeugdzorg - Head Topics",
             "link": "https://nl.headtopics.com/news/gemeente-son-en-breugel-verhoogt-ozb-met-48-procent-voor-89795331",
             "publishedDate": "12/11/2026 17:46",
-            "source": "nl.headtopics.com, omroepbrabant.nl",
+            "source": "bndestem.nl, drimble.nl, nl.headtopics.com, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Son en Breugel verhoogt ozb met 48 procent door hoge jeugdzorgkosten - Omroep Brabant",
                     "source": "omroepbrabant.nl",
                     "link": "https://www.omroepbrabant.nl/nieuws/6034593/son-en-breugel-verhoogt-ozb-met-48-procent-door-hoge-jeugdzorgkosten",
                     "publishedDate": "12/11/2026 17:36"
+                },
+                {
+                    "title": "Jeugdzorgkosten drijven Son en Breugel in nauw: ozb stijgt met 48 procent - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/jeugdzorgkosten-drijven-son-en-breugel-in-nauw-ozb-stijgt-89794652",
+                    "publishedDate": "12/11/2026 17:21"
+                },
+                {
+                    "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/brabant/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit~a4757032/",
+                    "publishedDate": "12/11/2026 15:32"
+                },
+                {
+                    "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/helmond/108574380/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit.html",
+                    "publishedDate": "12/11/2026 09:04"
+                },
+                {
+                    "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/helmond/108574402/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit.html",
+                    "publishedDate": "12/11/2026 08:28"
                 }
             ],
             "belangrijkheid": 0
@@ -1023,17 +1053,6 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jeugdzorgkosten drijven Son en Breugel in nauw: ozb stijgt met 48 procent - Head Topics",
-            "link": "https://nl.headtopics.com/news/jeugdzorgkosten-drijven-son-en-breugel-in-nauw-ozb-stijgt-89794652",
-            "publishedDate": "12/11/2026 17:21",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1346,46 +1365,16 @@
             "title": "Meer mensen met flinke schuld bij zorgverzekeraar krijgen nog hogere rekening | Economie",
             "link": "https://www.nu.nl/economie/6416220/meer-mensen-met-flinke-schuld-bij-zorgverzekeraar-krijgen-nog-hogere-rekening.html",
             "publishedDate": "12/11/2026 15:41",
-            "source": "bnr.nl, drimble.nl, nu.nl",
+            "source": "drimble.nl, nu.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Meer mensen met flinke schuld bij zorgverzekeraar krijgen nog hogere rekening | Economie",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/economie/108574404/meer-mensen-met-flinke-schuld-bij-zorgverzekeraar-krijgen-nog-hogere-rekening.html",
                     "publishedDate": "12/11/2026 07:44"
-                },
-                {
-                    "title": "Zorgverzekering volgend jaar waarschijnlijk flink duurder, 'trend is gezet' | BNR Nieuwsradio",
-                    "source": "bnr.nl",
-                    "link": "https://www.bnr.nl/nieuws/ec4a:o1000,onomie/10615299/zorgverzekering-volgend-jaar-waarschijnlijk-flink-duurder-trend-is-gezet",
-                    "publishedDate": "12/11/2026 15:19"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit",
-            "link": "https://www.bndestem.nl/brabant/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit~a4757032/",
-            "publishedDate": "12/11/2026 15:32",
-            "source": "bndestem.nl, drimble.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/helmond/108574380/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit.html",
-                    "publishedDate": "12/11/2026 09:04"
-                },
-                {
-                    "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/helmond/108574402/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit.html",
-                    "publishedDate": "12/11/2026 08:28"
                 }
             ],
             "belangrijkheid": 0
@@ -1408,6 +1397,17 @@
             "source": "knmp.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgverzekering volgend jaar waarschijnlijk flink duurder, 'trend is gezet' | BNR Nieuwsradio",
+            "link": "https://www.bnr.nl/nieuws/ec4a:o1000,onomie/10615299/zorgverzekering-volgend-jaar-waarschijnlijk-flink-duurder-trend-is-gezet",
+            "publishedDate": "12/11/2026 15:19",
+            "source": "bnr.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
