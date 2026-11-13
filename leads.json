@@ -31,7 +31,7 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Sijmen Egberts (23) schaatst zijn eerste World Cup met diabetes: 'Een half uur voor ik race ...",
@@ -185,8 +185,21 @@
             "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgpremie OHRA 2027 - Independer Weblog",
+                    "source": "weblog.independer.nl",
+                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-ohra-2027/",
+                    "publishedDate": "13/11/2026 00:55"
+                },
+                {
+                    "title": "FBTO verhoogt zorgpremie in 2027 met \u20ac 5,70 tot \u20ac 11,80 per maand - Independer Weblog",
+                    "source": "weblog.independer.nl",
+                    "link": "https://weblog.independer.nl/zorgverzekeringen/fbto-verhoogt-zorgpremie-in-2027-met-e-570-tot-e-1180-per-maand/",
+                    "publishedDate": "13/11/2026 00:43"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -237,39 +250,9 @@
             "title": "Grootste premiestijging in jaren, check hier jouw verzekering | Nieuws | AD.nl",
             "link": "https://www.ad.nl/economie/grootste-premiestijging-in-jaren-check-hier-jouw-verzekering~a7d268a1/",
             "publishedDate": "13/11/2026 01:13",
-            "source": "ad.nl, nu.nl, telegraaf.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Zorgpremies voor 2027 bekend, check hier jouw verzekering | Nieuws | AD.nl",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/economie/zorgpremies-voor-2027-bekend-check-hier-jouw-verzekering~a7d268a1/",
-                    "publishedDate": "13/11/2026 00:37"
-                },
-                {
-                    "title": "Zorgpremie stijgt harder dan verwacht: 170 euro per maand geen uitzondering | Economie",
-                    "source": "nu.nl",
-                    "link": "https://www.nu.nl/economie/6416130/zorgpremie-stijgt-harder-dan-verwacht-170-euro-per-maand-geen-uitzondering.html",
-                    "publishedDate": "13/11/2026 00:35"
-                },
-                {
-                    "title": "Grootste premiestijging in jaren: dit betaal je straks en zo wordt jouw premie berekend",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/financieel/grootste-premiestijging-in-jaren-dit-betaal-je-straks-en-zo-wordt-jouw-premie-berekend/164470467.html",
-                    "publishedDate": "13/11/2026 00:05"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Zorgpremie OHRA 2027 - Independer Weblog",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-ohra-2027/",
-            "publishedDate": "13/11/2026 00:55",
-            "source": "weblog.independer.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -278,11 +261,24 @@
             "title": "Zorgpremies VGZ en VGZbewuzt stijgen in 2027 - Independer Weblog",
             "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-vgz-en-vgzbewuzt-stijgen-in-2027-tot-wel-e-18-p-m-duurder/",
             "publishedDate": "13/11/2026 00:55",
-            "source": "weblog.independer.nl",
+            "source": "oost.nl, weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgpremies Menzis en VinkVink stijgen in 2027 met \u20ac 6 tot \u20ac 12,50 per maand",
+                    "source": "weblog.independer.nl",
+                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-menzis-en-vinkvink-stijgen-in-2027-met-e-6-tot-e-1250-per-maand/",
+                    "publishedDate": "13/11/2026 00:43"
+                },
+                {
+                    "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
+                    "source": "oost.nl",
+                    "link": "https://www.oost.nl/nieuws/3715742/zorgpremie-menzis-stijgt-met-bijna-10-euro-per-maand-kosten-blijven-oplopen",
+                    "publishedDate": "13/11/2026 00:11"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -297,32 +293,25 @@
             "belangrijkheid": 0
         },
         {
-            "title": "FBTO verhoogt zorgpremie in 2027 met \u20ac 5,70 tot \u20ac 11,80 per maand - Independer Weblog",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/fbto-verhoogt-zorgpremie-in-2027-met-e-570-tot-e-1180-per-maand/",
-            "publishedDate": "13/11/2026 00:43",
-            "source": "weblog.independer.nl",
-            "category": "Overig",
+            "title": "Zorgpremies voor 2027 bekend, check hier jouw verzekering | Nieuws | AD.nl",
+            "link": "https://www.ad.nl/economie/zorgpremies-voor-2027-bekend-check-hier-jouw-verzekering~a7d268a1/",
+            "publishedDate": "13/11/2026 00:37",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgpremies Menzis en VinkVink stijgen in 2027 met \u20ac 6 tot \u20ac 12,50 per maand",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-menzis-en-vinkvink-stijgen-in-2027-met-e-6-tot-e-1250-per-maand/",
-            "publishedDate": "13/11/2026 00:43",
-            "source": "oost.nl, weblog.independer.nl",
-            "category": "Overig",
+            "title": "Zorgpremie stijgt harder dan verwacht: 170 euro per maand geen uitzondering | Economie",
+            "link": "https://www.nu.nl/economie/6416130/zorgpremie-stijgt-harder-dan-verwacht-170-euro-per-maand-geen-uitzondering.html",
+            "publishedDate": "13/11/2026 00:35",
+            "source": "nu.nl",
+            "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
-                    "source": "oost.nl",
-                    "link": "https://www.oost.nl/nieuws/3715742/zorgpremie-menzis-stijgt-met-bijna-10-euro-per-maand-kosten-blijven-oplopen",
-                    "publishedDate": "13/11/2026 00:11"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -345,7 +334,18 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Grootste premiestijging in jaren: dit betaal je straks en zo wordt jouw premie berekend",
+            "link": "https://www.telegraaf.nl/financieel/grootste-premiestijging-in-jaren-dit-betaal-je-straks-en-zo-wordt-jouw-premie-berekend/164470467.html",
+            "publishedDate": "13/11/2026 00:05",
+            "source": "telegraaf.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Kampen ziet financi\u00eble tekorten oplopen, bezuinigingen dreigen - 1Zwolle",
@@ -421,7 +421,7 @@
                     "publishedDate": "12/11/2026 18:29"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Treinreizigers zitten voorlopig nog wel in de ranzigheid van 11-11; schoonmakers staken",
@@ -432,7 +432,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Longarts David (63) zag pati\u00ebnten met uitgezaaide kanker opknappen - De Gelderlander",
@@ -564,7 +564,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Digitale gegevensuitwisseling maakt passende palliatieve zorg mogelijk - ZonMw",
@@ -592,10 +592,10 @@
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
             "link": "https://www.bd.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
             "publishedDate": "12/11/2026 20:59",
-            "source": "ad.nl, bd.nl, bndestem.nl, drimble.nl, ed.nl, gelderlander.nl",
+            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 7,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
@@ -614,21 +614,9 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/brabant/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
                     "publishedDate": "12/11/2026 15:32"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-                    "publishedDate": "12/11/2026 14:29"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
-                    "publishedDate": "12/11/2026 13:03"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "van Rossum en Kevin Schopman trainden de afgelopen weken het\u2026 | Boudewijn Kessing - LinkedIn",
@@ -667,11 +655,18 @@
             "title": "Topklinische erkenning voor expertisecentrum astma - Deventer Ziekenhuis",
             "link": "https://www.dz.nl/nieuws/algemeen/topklinische-erkenning-voor-expertisecentrum-astma",
             "publishedDate": "12/11/2026 20:13",
-            "source": "dz.nl",
+            "source": "ad.nl, dz.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
+                    "publishedDate": "12/11/2026 18:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -895,17 +890,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
-            "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
-            "publishedDate": "12/11/2026 18:10",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Leeuwarden wil \u00e9\u00e9n plek voor vragen over zorg, geld, werk en jeugdhulp",
             "link": "https://www.rondomvandaag.nl/leeuwarden/verhalen-uit-de-buurt/47833/leeuwarden-wil-een-plek-voor-vragen-over-zorg-geld-werk-en-je",
             "publishedDate": "12/11/2026 18:04",
@@ -1053,8 +1037,15 @@
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
+                    "publishedDate": "12/11/2026 16:04"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1075,8 +1066,15 @@
             "source": "zuyderland.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
+                    "source": "zuyderland.nl",
+                    "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
+                    "publishedDate": "12/11/2026 16:53"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1097,17 +1095,6 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
-            "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
-            "publishedDate": "12/11/2026 16:53",
-            "source": "zuyderland.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1134,7 +1121,7 @@
                     "publishedDate": "12/11/2026 16:50"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over open brief het Acute zorglandschap staat onder zware druk van Stichting Acute Zorg VPR",
@@ -1143,49 +1130,34 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Reactie op commissiebrief inzake Open brief het Acute zorglandschap staat onder zware druk van Stichting Acute Zorg VPR",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
                     "publishedDate": "12/11/2026 16:50"
+                },
+                {
+                    "title": "Ondertekende brief",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
+                    "publishedDate": "12/11/2026 16:50"
+                },
+                {
+                    "title": "Beantwoording burgerbrief",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
+                    "publishedDate": "12/11/2026 16:50"
+                },
+                {
+                    "title": "Beantwoording brief aan de minister VWS d d  11 oktober2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
+                    "publishedDate": "12/11/2026 16:50"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ondertekende brief",
-            "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
-            "publishedDate": "12/11/2026 16:50",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Beantwoording burgerbrief",
-            "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
-            "publishedDate": "12/11/2026 16:50",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Beantwoording brief aan de minister VWS d d  11 oktober2026",
-            "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
-            "publishedDate": "12/11/2026 16:50",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Eigen weg: apotheker Jan Appelo - Arts en Auto",
@@ -1227,17 +1199,6 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
-            "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
-            "publishedDate": "12/11/2026 16:04",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1324,7 +1285,7 @@
             "source": "bndestem.nl, drimble.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit - Drimble",
@@ -1337,6 +1298,18 @@
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/regio/noord-brabant/helmond/108574402/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit.html",
                     "publishedDate": "12/11/2026 08:28"
+                },
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+                    "publishedDate": "12/11/2026 14:29"
+                },
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
+                    "publishedDate": "12/11/2026 13:03"
                 }
             ],
             "belangrijkheid": 0
@@ -1553,8 +1526,15 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
+                    "publishedDate": "12/11/2026 12:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1565,17 +1545,6 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
-            "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
-            "publishedDate": "12/11/2026 12:36",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1780,19 +1749,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek NIX18",
-            "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
-            "publishedDate": "12/11/2026 09:22",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek NIX18",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/ee21ab36-74b6-4686-999c-b8e44e8b1895",
+                    "publishedDate": "12/11/2026 09:22"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1802,19 +1767,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne-effectonderzoek HPV-vaccinatie",
-            "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
-            "publishedDate": "12/11/2026 09:17",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek HPV-vaccinatie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e85947eb-8bfa-4e9f-a696-77eb3f71df89",
+                    "publishedDate": "12/11/2026 09:17"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1872,38 +1833,58 @@
             "title": "Vrij roosteren levert belangrijke bijdrage aan meer eerlijke verdeling van ANW-diensten",
             "link": "https://huisartsvandaag.nl/vrij-roosteren-levert-belangrijke-bijdrage-aan-meer-eerlijke-verdeling-van-anw-diensten/",
             "publishedDate": "12/11/2026 06:17",
-            "source": "huisartsvandaag.nl",
+            "source": "huisartsvandaag.nl, lhv.nl, zn.nl",
             "category": "Overig",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Actieplan ANW: nu verder in de regio",
-            "link": "https://www.lhv.nl/nieuws/actieplan-anw-nu-verder-in-de-regio/",
-            "publishedDate": "12/11/2026 02:43",
-            "source": "lhv.nl",
-            "category": "Overig",
-            "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Actieplan ANW: nu verder in de regio",
+                    "source": "lhv.nl",
+                    "link": "https://www.lhv.nl/nieuws/actieplan-anw-nu-verder-in-de-regio/",
+                    "publishedDate": "12/11/2026 02:43"
+                },
+                {
+                    "title": "[Eerstelijnszorg] Monitor ANW-zorg laat vooruitgang zien, regionale samenwerking blijft nodig",
+                    "source": "zn.nl",
+                    "link": "https://www.zn.nl/actueel/monitor-anw-zorg-laat-vooruitgang-zien-regionale-samenwerking-blijft-nodig/",
+                    "publishedDate": "10/11/2026 10:39"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Update onderhandelingen CAO Gehandicaptenzorg - CNV",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-gehandicaptenzorg/nieuws/nieuwe-update-onderhandelingen-cao-gehandicaptenzorg/",
             "publishedDate": "11/11/2026 17:17",
-            "source": "cnv.nl, nu91.nl",
+            "source": "cnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "Alert Gehandicaptenzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Update onderhandelingen cao kraamzorg",
                     "source": "nu91.nl",
                     "link": "https://nu91.nl/nieuws/767-update-onderhandelingen-cao-kraamzorg",
                     "publishedDate": "09/11/2026 10:57"
+                },
+                {
+                    "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
+                    "publishedDate": "11/11/2026 12:00"
+                },
+                {
+                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+                    "publishedDate": "10/11/2026 10:49"
+                },
+                {
+                    "title": "[CNV] Actie in de GGZ",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+                    "publishedDate": "10/11/2026 10:46"
                 }
             ],
             "belangrijkheid": 0
@@ -1915,17 +1896,6 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
-            "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
-            "publishedDate": "11/11/2026 12:00",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1975,28 +1945,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "LAD/FBZ start actietraject in ggz-instellingen",
-            "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
-            "publishedDate": "10/11/2026 10:49",
-            "source": "lad.nl",
-            "category": "Vakbonden",
-            "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Actie in de GGZ",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-            "publishedDate": "10/11/2026 10:46",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Duurzaamheid] Hergebruik als standaard voor medische hulpmiddelen",
             "link": "https://www.zn.nl/actueel/hergebruik-als-standaard-voor-medische-hulpmiddelen/",
             "publishedDate": "10/11/2026 10:39",
@@ -2010,17 +1958,6 @@
         {
             "title": "[Eerstelijnszorg] Constructieve samenwerking is noodzakelijk voor oplossingen geneesmiddelentekort",
             "link": "https://www.zn.nl/actueel/constructieve-samenwerking-is-noodzakelijk-voor-oplossingen-geneesmiddelentekort/",
-            "publishedDate": "10/11/2026 10:39",
-            "source": "zn.nl",
-            "category": "Overig",
-            "feed_label": "ZN",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Eerstelijnszorg] Monitor ANW-zorg laat vooruitgang zien, regionale samenwerking blijft nodig",
-            "link": "https://www.zn.nl/actueel/monitor-anw-zorg-laat-vooruitgang-zien-regionale-samenwerking-blijft-nodig/",
             "publishedDate": "10/11/2026 10:39",
             "source": "zn.nl",
             "category": "Overig",
