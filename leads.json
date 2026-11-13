@@ -53,25 +53,13 @@
             "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij een knuffel ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
                     "publishedDate": "12/11/2026 21:52"
-                },
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:30"
-                },
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:29"
                 }
             ],
             "belangrijkheid": 1
@@ -80,11 +68,18 @@
             "title": "Treinreizigers zitten voorlopig nog wel in de ranzigheid van 11-11; schoonmakers staken",
             "link": "https://www.gelderlander.nl/eindhoven/treinreizigers-zitten-voorlopig-nog-wel-in-de-ranzigheid-van-11-11-schoonmakers-staken~af244ab0/",
             "publishedDate": "12/11/2026 23:18",
-            "source": "gelderlander.nl",
+            "source": "bndestem.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "NS probeert iets nieuws tijdens treinloze periode van volgende week: 'Het idee kwam uit de regio'",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/terneuzen/ns-probeert-iets-nieuws-tijdens-treinloze-periode-van-volgende-week-het-idee-kwam-uit-de-regio~a7773cce/",
+                    "publishedDate": "12/11/2026 19:47"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -211,7 +206,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Steeds meer mensen bieden hun nier te koop aan | Gezond - AD",
@@ -292,11 +287,24 @@
             "title": "Topklinische erkenning voor expertisecentrum astma - Deventer Ziekenhuis",
             "link": "https://www.dz.nl/nieuws/algemeen/topklinische-erkenning-voor-expertisecentrum-astma",
             "publishedDate": "12/11/2026 20:13",
-            "source": "dz.nl",
+            "source": "ad.nl, destentor.nl, dz.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
+                    "publishedDate": "12/11/2026 18:12"
+                },
+                {
+                    "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
+                    "publishedDate": "12/11/2026 18:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -328,17 +336,6 @@
             "source": "1almere.nl",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "NS probeert iets nieuws tijdens treinloze periode van volgende week: 'Het idee kwam uit de regio'",
-            "link": "https://www.bndestem.nl/terneuzen/ns-probeert-iets-nieuws-tijdens-treinloze-periode-van-volgende-week-het-idee-kwam-uit-de-regio~a7773cce/",
-            "publishedDate": "12/11/2026 19:47",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -476,6 +473,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
+            "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+            "publishedDate": "12/11/2026 18:30",
+            "source": "ad.nl, gelderlander.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:29"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Ziekenhuizen voor wekedelensarcomen - Kanker.nl",
             "link": "https://www.kanker.nl/kankersoorten/wekedelentumoren-wekedelensarcomen/na-de-uitslag/ziekenhuizen-voor-wekedelensarcomen",
             "publishedDate": "12/11/2026 18:21",
@@ -487,27 +502,14 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg",
-            "link": "https://www.destentor.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
+            "title": "De twee scholen liggen 100 meter uit elkaar, en de verkeerschaos wacht al jaren op een oplossing",
+            "link": "https://www.tubantia.nl/apeldoorn/de-twee-scholen-liggen-100-meter-uit-elkaar-en-de-verkeerschaos-wacht-al-jaren-op-een-oplossing~a0cf5fb4/",
             "publishedDate": "12/11/2026 18:12",
-            "source": "ad.nl, destentor.nl, tubantia.nl",
+            "source": "tubantia.nl",
             "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
-                    "publishedDate": "12/11/2026 18:10"
-                },
-                {
-                    "title": "De twee scholen liggen 100 meter uit elkaar, en de verkeerschaos wacht al jaren op een oplossing",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/apeldoorn/de-twee-scholen-liggen-100-meter-uit-elkaar-en-de-verkeerschaos-wacht-al-jaren-op-een-oplossing~a0cf5fb4/",
-                    "publishedDate": "12/11/2026 18:12"
-                }
-            ],
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -550,16 +552,22 @@
             "source": "nza.nl, pw.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Invoering nieuwe bekostiging stoppen met roken uitgesteld",
                     "source": "nza.nl",
                     "link": "https://www.nza.nl/actueel/nieuws/2026/11/11/invoering-nieuwe-bekostiging-stoppen-met-roken-uitgesteld",
                     "publishedDate": "11/11/2026 12:06"
+                },
+                {
+                    "title": "Nieuwe kerncijfers NZa geven inzicht in de ontwikkeling van geneesmiddelenuitgaven",
+                    "source": "nza.nl",
+                    "link": "https://www.nza.nl/actueel/nieuws/2026/11/11/nieuwe-kerncijfers-nza-geven-inzicht-in-de-ontwikkeling-van-geneesmiddelenuitgaven",
+                    "publishedDate": "11/11/2026 09:06"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "De nieuwe editie van de Kennisagenda Wetenschappelijk Onderzoek Langdurige ... - UMCG",
@@ -1040,29 +1048,23 @@
             "title": "Meer mensen met flinke schuld bij zorgverzekeraar krijgen nog hogere rekening | Economie",
             "link": "https://www.nu.nl/economie/6416220/meer-mensen-met-flinke-schuld-bij-zorgverzekeraar-krijgen-nog-hogere-rekening.html",
             "publishedDate": "12/11/2026 15:41",
-            "source": "drimble.nl, nu.nl",
+            "source": "ad.nl, bndestem.nl, drimble.nl, nu.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Meer mensen met flinke schuld bij zorgverzekeraar krijgen nog hogere rekening | Economie",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/economie/108574404/meer-mensen-met-flinke-schuld-bij-zorgverzekeraar-krijgen-nog-hogere-rekening.html",
                     "publishedDate": "12/11/2026 07:44"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit",
-            "link": "https://www.bndestem.nl/brabant/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit~a4757032/",
-            "publishedDate": "12/11/2026 15:32",
-            "source": "ad.nl, bndestem.nl, drimble.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 4,
-            "extra_bronnen": [
+                },
+                {
+                    "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/brabant/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit~a4757032/",
+                    "publishedDate": "12/11/2026 15:32"
+                },
                 {
                     "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit - Drimble",
                     "source": "drimble.nl",
@@ -1318,15 +1320,8 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
-                    "publishedDate": "12/11/2026 12:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1337,6 +1332,17 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
+            "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
+            "publishedDate": "12/11/2026 12:36",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1644,18 +1650,22 @@
             "title": "Vrij roosteren levert belangrijke bijdrage aan meer eerlijke verdeling van ANW-diensten",
             "link": "https://huisartsvandaag.nl/vrij-roosteren-levert-belangrijke-bijdrage-aan-meer-eerlijke-verdeling-van-anw-diensten/",
             "publishedDate": "12/11/2026 06:17",
-            "source": "huisartsvandaag.nl, lhv.nl",
+            "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Actieplan ANW: nu verder in de regio",
-                    "source": "lhv.nl",
-                    "link": "https://www.lhv.nl/nieuws/actieplan-anw-nu-verder-in-de-regio/",
-                    "publishedDate": "12/11/2026 02:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Actieplan ANW: nu verder in de regio",
+            "link": "https://www.lhv.nl/nieuws/actieplan-anw-nu-verder-in-de-regio/",
+            "publishedDate": "12/11/2026 02:43",
+            "source": "lhv.nl",
+            "category": "Overig",
+            "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1735,11 +1745,17 @@
             "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
             "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
             "publishedDate": "11/11/2026 12:00",
-            "source": "cnv.nl, nu91.nl",
+            "source": "cnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+                    "publishedDate": "10/11/2026 10:49"
+                },
                 {
                     "title": "[CNV] Actie in de GGZ",
                     "source": "cnv.nl",
@@ -1789,28 +1805,6 @@
             "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nieuwe kerncijfers NZa geven inzicht in de ontwikkeling van geneesmiddelenuitgaven",
-            "link": "https://www.nza.nl/actueel/nieuws/2026/11/11/nieuwe-kerncijfers-nza-geven-inzicht-in-de-ontwikkeling-van-geneesmiddelenuitgaven",
-            "publishedDate": "11/11/2026 09:06",
-            "source": "nza.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "NZa Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "LAD/FBZ start actietraject in ggz-instellingen",
-            "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
-            "publishedDate": "10/11/2026 10:49",
-            "source": "lad.nl",
-            "category": "Vakbonden",
-            "feed_label": "LAD (vakbond)",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2517,13 +2511,6 @@
         }
     ],
     "agenda": [
-        {
-            "titel": "[SPOED EMAILPROCEDURE] Verzoek van het lid Westerveld (PRO) uw reactie graag donderdag 12 november om 14.00 uur - verzoek inzake plannen commissiedebat Villa ExpertCare/Medische kindzorg",
-            "datum_kort": "12-11-2026",
-            "tijd": "14:00\n14:00",
-            "soort": "\ud83d\udd12 Besloten e-mailprocedure",
-            "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08356"
-        },
         {
             "titel": "Voortgangsbrief Nationale Dementiestrategie",
             "datum_kort": "16-11-2026",
