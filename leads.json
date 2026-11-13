@@ -51,7 +51,7 @@
             "source": "debelegger.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "United Microelectronics (UMC) dividend 2026 - De Belegger",
@@ -64,18 +64,6 @@
                     "source": "debelegger.nl",
                     "link": "https://www.debelegger.nl/koers/UMC.US/kerncijfers",
                     "publishedDate": "13/11/2026 02:08"
-                },
-                {
-                    "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
-                    "publishedDate": "13/11/2026 02:08"
-                },
-                {
-                    "title": "United Microelectronics Belegger-score - UMC",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/score",
-                    "publishedDate": "13/11/2026 01:36"
                 }
             ],
             "belangrijkheid": 0
@@ -120,6 +108,17 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
+            "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
+            "publishedDate": "13/11/2026 02:08",
+            "source": "debelegger.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -191,6 +190,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "United Microelectronics Belegger-score - UMC",
+            "link": "https://www.debelegger.nl/koers/UMC.US/score",
+            "publishedDate": "13/11/2026 01:36",
+            "source": "debelegger.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Luna (18) wist niet beter dan dat ze telkens weer moest verhuizen, bij Liselotte (49) veranderde alles",
             "link": "https://www.destentor.nl/apeldoorn/luna-18-wist-niet-beter-dan-dat-ze-telkens-weer-moest-verhuizen-bij-liselotte-49-veranderde-alles~afe2e7f1/",
             "publishedDate": "13/11/2026 01:22",
@@ -216,36 +226,11 @@
             "title": "Grootste premiestijging in jaren, check hier jouw verzekering | Nieuws | AD.nl",
             "link": "https://www.ad.nl/economie/grootste-premiestijging-in-jaren-check-hier-jouw-verzekering~a7d268a1/",
             "publishedDate": "13/11/2026 01:13",
-            "source": "ad.nl, bnr.nl, nu.nl, telegraaf.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Zorgpremies voor 2027 bekend, check hier jouw verzekering | Nieuws | AD.nl",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/economie/zorgpremies-voor-2027-bekend-check-hier-jouw-verzekering~a7d268a1/",
-                    "publishedDate": "13/11/2026 00:37"
-                },
-                {
-                    "title": "Zorgpremie stijgt harder dan verwacht: 170 euro per maand geen uitzondering | Economie",
-                    "source": "nu.nl",
-                    "link": "https://www.nu.nl/economie/6416130/zorgpremie-stijgt-harder-dan-verwacht-170-euro-per-maand-geen-uitzondering.html",
-                    "publishedDate": "13/11/2026 00:35"
-                },
-                {
-                    "title": "Grootste premiestijging in jaren: dit betaal je straks en zo wordt jouw premie berekend",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/financieel/grootste-premiestijging-in-jaren-dit-betaal-je-straks-en-zo-wordt-jouw-premie-berekend/164470467.html",
-                    "publishedDate": "13/11/2026 00:05"
-                },
-                {
-                    "title": "Zorgverzekering volgend jaar waarschijnlijk flink duurder, 'trend is gezet' | BNR Nieuwsradio",
-                    "source": "bnr.nl",
-                    "link": "https://www.bnr.nl/nieuws/ec4a:o1000,onomie/10615299/zorgverzekering-volgend-jaar-waarschijnlijk-flink-duurder-trend-is-gezet",
-                    "publishedDate": "12/11/2026 15:19"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -263,18 +248,11 @@
             "title": "Zorgpremies VGZ en VGZbewuzt stijgen in 2027 - Independer Weblog",
             "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremies-vgz-en-vgzbewuzt-stijgen-in-2027-tot-wel-e-18-p-m-duurder/",
             "publishedDate": "13/11/2026 00:55",
-            "source": "oost.nl, weblog.independer.nl",
+            "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
-                    "source": "oost.nl",
-                    "link": "https://www.oost.nl/nieuws/3715742/zorgpremie-menzis-stijgt-met-bijna-10-euro-per-maand-kosten-blijven-oplopen",
-                    "publishedDate": "13/11/2026 00:11"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -311,6 +289,39 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zorgpremies voor 2027 bekend, check hier jouw verzekering | Nieuws | AD.nl",
+            "link": "https://www.ad.nl/economie/zorgpremies-voor-2027-bekend-check-hier-jouw-verzekering~a7d268a1/",
+            "publishedDate": "13/11/2026 00:37",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgpremie stijgt harder dan verwacht: 170 euro per maand geen uitzondering | Economie",
+            "link": "https://www.nu.nl/economie/6416130/zorgpremie-stijgt-harder-dan-verwacht-170-euro-per-maand-geen-uitzondering.html",
+            "publishedDate": "13/11/2026 00:35",
+            "source": "nu.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
+            "link": "https://www.oost.nl/nieuws/3715742/zorgpremie-menzis-stijgt-met-bijna-10-euro-per-maand-kosten-blijven-oplopen",
+            "publishedDate": "13/11/2026 00:11",
+            "source": "oost.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Medicijnen Enhertu voor maagkanker en Skyclarys voor zeldzame spierziekte nog niet in ...",
             "link": "https://huisartsvandaag.nl/medicijnen-enhertu-voor-maagkanker-en-skyclarys-voor-zeldzame-spierziekte-nog-niet-in-basispakket/",
             "publishedDate": "13/11/2026 00:11",
@@ -331,6 +342,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Grootste premiestijging in jaren: dit betaal je straks en zo wordt jouw premie berekend",
+            "link": "https://www.telegraaf.nl/financieel/grootste-premiestijging-in-jaren-dit-betaal-je-straks-en-zo-wordt-jouw-premie-berekend/164470467.html",
+            "publishedDate": "13/11/2026 00:05",
+            "source": "telegraaf.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Kampen ziet financi\u00eble tekorten oplopen, bezuinigingen dreigen - 1Zwolle",
@@ -393,7 +415,7 @@
                     "publishedDate": "12/11/2026 18:29"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Treinreizigers zitten voorlopig nog wel in de ranzigheid van 11-11; schoonmakers staken",
@@ -421,10 +443,10 @@
             "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' - De Gelderlander",
             "link": "https://www.gelderlander.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-klachten-niet-negeren~a6caa9ee/",
             "publishedDate": "12/11/2026 23:08",
-            "source": "ad.nl, bd.nl, bndestem.nl, destentor.nl, ed.nl, gelderlander.nl, tubantia.nl",
+            "source": "ad.nl, bd.nl, bndestem.nl, destentor.nl, gelderlander.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 10,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' | Nieuws | De Stentor.nl",
@@ -461,24 +483,6 @@
                     "source": "tubantia.nl",
                     "link": "https://www.tubantia.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
                     "publishedDate": "12/11/2026 17:06"
-                },
-                {
-                    "title": "Kun je ziek worden van borstimplantaten? 'Deel van de vrouwen ervaart verbetering na verwijdering'",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
-                    "publishedDate": "12/11/2026 17:06"
-                },
-                {
-                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig' | ED.nl",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
-                    "publishedDate": "12/11/2026 16:58"
-                },
-                {
-                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig'",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
-                    "publishedDate": "12/11/2026 16:58"
                 }
             ],
             "belangrijkheid": 0
@@ -618,7 +622,7 @@
                     "publishedDate": "12/11/2026 13:03"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "van Rossum en Kevin Schopman trainden de afgelopen weken het\u2026 | Boudewijn Kessing - LinkedIn",
@@ -657,18 +661,11 @@
             "title": "Topklinische erkenning voor expertisecentrum astma - Deventer Ziekenhuis",
             "link": "https://www.dz.nl/nieuws/algemeen/topklinische-erkenning-voor-expertisecentrum-astma",
             "publishedDate": "12/11/2026 20:13",
-            "source": "ad.nl, dz.nl",
+            "source": "dz.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
-                    "publishedDate": "12/11/2026 18:10"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -892,6 +889,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
+            "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
+            "publishedDate": "12/11/2026 18:10",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Leeuwarden wil \u00e9\u00e9n plek voor vragen over zorg, geld, werk en jeugdhulp",
             "link": "https://www.rondomvandaag.nl/leeuwarden/verhalen-uit-de-buurt/47833/leeuwarden-wil-een-plek-voor-vragen-over-zorg-geld-werk-en-je",
             "publishedDate": "12/11/2026 18:04",
@@ -918,7 +926,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De nieuwe editie van de Kennisagenda Wetenschappelijk Onderzoek Langdurige ... - UMCG",
@@ -1046,6 +1054,30 @@
                     "source": "nl.headtopics.com",
                     "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
                     "publishedDate": "12/11/2026 16:04"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Kun je ziek worden van borstimplantaten? 'Deel van de vrouwen ervaart verbetering na verwijdering'",
+            "link": "https://www.bd.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-deel-van-de-vrouwen-ervaart-verbetering-na-verwijdering~a6caa9ee/",
+            "publishedDate": "12/11/2026 17:06",
+            "source": "bd.nl, destentor.nl, ed.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert umc",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig' | ED.nl",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
+                    "publishedDate": "12/11/2026 16:58"
+                },
+                {
+                    "title": "Kun je ziek worden van borstimplantaten? Expert geeft antwoord: 'Meer onderzoek is nodig'",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/gezond/kun-je-ziek-worden-van-borstimplantaten-expert-geeft-antwoord-meer-onderzoek-is-nodig~a6caa9ee/",
+                    "publishedDate": "12/11/2026 16:58"
                 }
             ],
             "belangrijkheid": 0
@@ -1293,7 +1325,7 @@
                     "publishedDate": "12/11/2026 07:44"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit",
@@ -1343,6 +1375,17 @@
             "source": "knmp.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgverzekering volgend jaar waarschijnlijk flink duurder, 'trend is gezet' | BNR Nieuwsradio",
+            "link": "https://www.bnr.nl/nieuws/ec4a:o1000,onomie/10615299/zorgverzekering-volgend-jaar-waarschijnlijk-flink-duurder-trend-is-gezet",
+            "publishedDate": "12/11/2026 15:19",
+            "source": "bnr.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1495,7 +1538,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Raad buigt zich over miljoenenbegroting - RTV Midden-Groningen",
@@ -1526,8 +1569,15 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
+                    "publishedDate": "12/11/2026 12:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1538,17 +1588,6 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
-            "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
-            "publishedDate": "12/11/2026 12:36",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1809,7 +1848,7 @@
                     "publishedDate": "11/11/2026 10:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Alle appartementen Zuidpost verhuurd, zestig procent van nieuwe bewoners komt uit Waddinxveen",
@@ -1888,25 +1927,12 @@
             "title": "[NU'91] NU\u201991 roept ggz-medewerkers op: kom samen in actie voor een goede cao",
             "link": "https://nu91.nl/nieuws/768-nu-91-roept-ggz-medewerkers-op-kom-samen-in-actie-voor-een-goede-cao",
             "publishedDate": "11/11/2026 12:00",
-            "source": "cnv.nl, lad.nl, nu91.nl",
+            "source": "nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "LAD/FBZ start actietraject in ggz-instellingen",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
-                    "publishedDate": "10/11/2026 10:49"
-                },
-                {
-                    "title": "[CNV] Actie in de GGZ",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
-                    "publishedDate": "10/11/2026 10:46"
-                }
-            ],
-            "belangrijkheid": 0
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Nieuwe cao-onderhandeling CIZ, wat wil jij?",
@@ -1962,6 +1988,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "LAD/FBZ start actietraject in ggz-instellingen",
+            "link": "https://www.lad.nl/lad-fbz-start-actietraject-in-ggz-instellingen/",
+            "publishedDate": "10/11/2026 10:49",
+            "source": "cnv.nl, lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Actie in de GGZ",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+                    "publishedDate": "10/11/2026 10:46"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "[Duurzaamheid] Hergebruik als standaard voor medische hulpmiddelen",
