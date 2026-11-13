@@ -112,10 +112,10 @@
             "title": "Microsoft: vooruitgang bij oplossen grote storing - Trouw",
             "link": "https://www.trouw.nl/buitenland/microsoft-vooruitgang-bij-oplossen-grote-storing~b19abb6b/",
             "publishedDate": "13/11/2026 16:24",
-            "source": "ad.nl, duic.nl, gld.nl, gva.be, hartvannederland.nl, l1nieuws.nl, limburger.nl, nhnieuws.nl, nieuwsblad.be, trouw.nl, zuyderland.nl",
+            "source": "ad.nl, duic.nl, gld.nl, gva.be, hartvannederland.nl, l1nieuws.nl, limburger.nl, nhnieuws.nl, trouw.nl, zuyderland.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 12,
+            "duplicate_count": 10,
             "extra_bronnen": [
                 {
                     "title": "Utrechtse ziekenhuizen en scholen slecht bereikbaar door grote storing bij Microsoft - AD",
@@ -160,12 +160,6 @@
                     "publishedDate": "13/11/2026 12:24"
                 },
                 {
-                    "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
-                    "publishedDate": "13/11/2026 12:12"
-                },
-                {
                     "title": "Wereldwijde Microsoft-storing raakt ook Utrecht: ziekenhuizen en onderwijsinstellingen ...",
                     "source": "duic.nl",
                     "link": "https://www.duic.nl/algemeen/algemeen/61500/wereldwijde-microsoft-storing-raakt-ook-utrecht-ziekenhuizen-en-onderwijsinstellingen-ondervinden-hinder",
@@ -176,12 +170,6 @@
                     "source": "hartvannederland.nl",
                     "link": "https://www.hartvannederland.nl/tech/storing/artikelen/grote-microsoft-storing-treft-ziekenhuizen-gemeenten-rechtbanken",
                     "publishedDate": "13/11/2026 12:05"
-                },
-                {
-                    "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164496592.html",
-                    "publishedDate": "13/11/2026 10:59"
                 }
             ],
             "belangrijkheid": 0
@@ -328,11 +316,30 @@
             "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
             "publishedDate": "13/11/2026 15:49",
-            "source": "nieuwsblad.be",
+            "source": "kw.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
+                    "source": "kw.be",
+                    "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
+                    "publishedDate": "13/11/2026 13:52"
+                },
+                {
+                    "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
+                    "publishedDate": "13/11/2026 12:12"
+                },
+                {
+                    "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164496592.html",
+                    "publishedDate": "13/11/2026 10:59"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -532,17 +539,6 @@
             "source": "nieuws.umcg.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
-            "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
-            "publishedDate": "13/11/2026 13:52",
-            "source": "kw.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
