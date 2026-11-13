@@ -20,7 +20,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Mysterie opgelost: daarom kleurt het Slingeland Ziekenhuis komende zondag paars",
@@ -78,6 +78,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Frederique presteert in wereldtop, mede dankzij baan in gehandicaptenzorg - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6034439/frederique-presteert-in-wereldtop-mede-dankzij-baan-in-gehandicaptenzorg",
+            "publishedDate": "13/11/2026 06:10",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Gehandicaptenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Dit is het verschil tussen goedkoopste en duurste zorgverzekering in 2027 - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-is-het-verschil-tussen-goedkoopste-en-duurste-zorgverzekering-in-2027",
             "publishedDate": "13/11/2026 06:08",
@@ -97,7 +108,7 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Premie Zorg en Zekerheid stijgt fors in 2027: tot \u20ac 264 extra - Zorgwijzer",
@@ -418,7 +429,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
@@ -462,7 +473,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kampen ziet financi\u00eble tekorten oplopen, bezuinigingen dreigen - 1Zwolle",
@@ -517,13 +528,25 @@
             "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij een knuffel ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
                     "publishedDate": "12/11/2026 21:52"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:30"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:29"
                 }
             ],
             "belangrijkheid": 0
@@ -669,7 +692,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Digitale gegevensuitwisseling maakt passende palliatieve zorg mogelijk - ZonMw",
@@ -733,7 +756,7 @@
                     "publishedDate": "12/11/2026 13:03"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "van Rossum en Kevin Schopman trainden de afgelopen weken het\u2026 | Boudewijn Kessing - LinkedIn",
@@ -772,11 +795,18 @@
             "title": "Topklinische erkenning voor expertisecentrum astma - Deventer Ziekenhuis",
             "link": "https://www.dz.nl/nieuws/algemeen/topklinische-erkenning-voor-expertisecentrum-astma",
             "publishedDate": "12/11/2026 20:13",
-            "source": "dz.nl",
+            "source": "ad.nl, dz.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
+                    "publishedDate": "12/11/2026 18:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -934,24 +964,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
-            "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-            "publishedDate": "12/11/2026 18:30",
-            "source": "ad.nl, gelderlander.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:29"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ziekenhuizen voor wekedelensarcomen - Kanker.nl",
             "link": "https://www.kanker.nl/kankersoorten/wekedelentumoren-wekedelensarcomen/na-de-uitslag/ziekenhuizen-voor-wekedelensarcomen",
             "publishedDate": "12/11/2026 18:21",
@@ -985,17 +997,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Deventer Ziekenhuis krijgt landelijke erkenning voor gespecialiseerde astmazorg - AD",
-            "link": "https://www.ad.nl/deventer/deventer-ziekenhuis-krijgt-landelijke-erkenning-voor-gespecialiseerde-astmazorg~a78e0bfcd/",
-            "publishedDate": "12/11/2026 18:10",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Leeuwarden wil \u00e9\u00e9n plek voor vragen over zorg, geld, werk en jeugdhulp",
             "link": "https://www.rondomvandaag.nl/leeuwarden/verhalen-uit-de-buurt/47833/leeuwarden-wil-een-plek-voor-vragen-over-zorg-geld-werk-en-je",
             "publishedDate": "12/11/2026 18:04",
@@ -1022,7 +1023,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "De nieuwe editie van de Kennisagenda Wetenschappelijk Onderzoek Langdurige ... - UMCG",
@@ -1143,8 +1144,15 @@
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
+                    "publishedDate": "12/11/2026 16:04"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1165,8 +1173,15 @@
             "source": "zuyderland.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
+                    "source": "zuyderland.nl",
+                    "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
+                    "publishedDate": "12/11/2026 16:53"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1187,17 +1202,6 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Contracten zorgverzekeraars 2027 - Zuyderland",
-            "link": "https://zuyderland.nl/contracten-zorgverzekeraars-2027/",
-            "publishedDate": "12/11/2026 16:53",
-            "source": "zuyderland.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1317,17 +1321,6 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gemeenteraad voelt zich buitenspel gezet bij plannen voor Fivoor in Amersfoort | Nederland",
-            "link": "https://nl.headtopics.com/news/gemeenteraad-voelt-zich-buitenspel-gezet-bij-plannen-voor-89791892",
-            "publishedDate": "12/11/2026 16:04",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1948,13 +1941,13 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Update onderhandelingen CAO Gehandicaptenzorg - CNV",
+            "title": "[CNV] Update onderhandelingen CAO Gehandicaptenzorg",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-gehandicaptenzorg/nieuws/nieuwe-update-onderhandelingen-cao-gehandicaptenzorg/",
-            "publishedDate": "11/11/2026 17:17",
+            "publishedDate": "11/11/2026 14:39",
             "source": "cnv.nl, nu91.nl",
             "category": "Vakbonden",
-            "feed_label": "Alert Gehandicaptenzorg",
-            "duplicate_count": 3,
+            "feed_label": "CNV zorg",
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Update onderhandelingen cao kraamzorg",
