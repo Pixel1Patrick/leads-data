@@ -60,7 +60,7 @@
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zestien Duitse schoolkinderen naar ziekenhuis na eten van muffins met batterijen - BNR",
@@ -88,11 +88,18 @@
             "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
             "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_11",
             "publishedDate": "13/11/2026 16:36",
-            "source": "open.overheid.nl",
+            "source": "fiscalert.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgpremies 2027 bekend: gemiddeld \u20ac14,48 per maand duurder | FiscAlert",
+                    "source": "fiscalert.nl",
+                    "link": "https://fiscalert.nl/verzekeren/artikelen/zorgpremies-2027-bekend-gemiddeld-14-48-per-maand-duurder/",
+                    "publishedDate": "13/11/2026 13:24"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -237,7 +244,7 @@
                     "publishedDate": "13/11/2026 12:02"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie De christelijke zorgverzekeraar 2027 stijgt naar \u20ac 160,95 per maand",
@@ -259,7 +266,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie schiet omhoog naar gemiddeld 169 euro per maand, en dit is waarom | Nieuws",
@@ -270,7 +277,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "RMU opent steunpunt voor gewetensbezwaard zorgpersoneel",
@@ -287,11 +294,65 @@
             "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
             "publishedDate": "13/11/2026 15:49",
-            "source": "nieuwsblad.be",
+            "source": "duic.nl, gld.nl, gva.be, hartvannederland.nl, kw.be, l1nieuws.nl, limburger.nl, nieuwsblad.be, zuyderland.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 2,
+            "duplicate_count": 11,
             "extra_bronnen": [
+                {
+                    "title": "Storing Microsoft Outlook: Outlook en Teams nog niet overal bereikbaar - L1 Nieuws",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3271766/storing-microsoft-outlook-outlook-en-teams-nog-niet-overal-bereikbaar",
+                    "publishedDate": "13/11/2026 14:27"
+                },
+                {
+                    "title": "Grote storing Microsoft: onder andere e-mail onbereikbaar, ook Omroep Gelderland getroffen",
+                    "source": "gld.nl",
+                    "link": "https://www.gld.nl/nieuws/8546521/grote-storing-microsoft-onder-andere-e-mail-onbereikbaar-ook-omroep-gelderland-getroffen",
+                    "publishedDate": "13/11/2026 13:58"
+                },
+                {
+                    "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
+                    "source": "kw.be",
+                    "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
+                    "publishedDate": "13/11/2026 13:52"
+                },
+                {
+                    "title": "Storing bij e-mail en MijnZuyderland - Zuyderland",
+                    "source": "zuyderland.nl",
+                    "link": "https://zuyderland.nl/nieuws/storing-bij-e-mail-en-mijnzuyderland/",
+                    "publishedDate": "13/11/2026 13:39"
+                },
+                {
+                    "title": "Microsoft ziet \u201cvooruitgang\u201d na wereldwijde problemen met diensten als Outlook en Teams ... - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/binnenland/microsoft-ziet-vooruitgang-na-wereldwijde-problemen-met-diensten-als-outlook-en-teams-maar-nog-geen-definitieve-oplossing/164490398.html",
+                    "publishedDate": "13/11/2026 13:06"
+                },
+                {
+                    "title": "Microsoft-storing zorgt voor ongemak in Limburg: achter de schermen haperde het, maar het ...",
+                    "source": "limburger.nl",
+                    "link": "https://www.limburger.nl/regio/limburg/microsoft-storing-zorgt-voor-ongemak-in-limburg-achter-de-schermen-haperde-het-maar-werk-gaat-gewoon-door/164502287.html",
+                    "publishedDate": "13/11/2026 12:24"
+                },
+                {
+                    "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
+                    "publishedDate": "13/11/2026 12:12"
+                },
+                {
+                    "title": "Wereldwijde Microsoft-storing raakt ook Utrecht: ziekenhuizen en onderwijsinstellingen ...",
+                    "source": "duic.nl",
+                    "link": "https://www.duic.nl/algemeen/algemeen/61500/wereldwijde-microsoft-storing-raakt-ook-utrecht-ziekenhuizen-en-onderwijsinstellingen-ondervinden-hinder",
+                    "publishedDate": "13/11/2026 12:07"
+                },
+                {
+                    "title": "Grote Microsoft-storing treft ook ziekenhuizen, gemeenten en rechtbanken",
+                    "source": "hartvannederland.nl",
+                    "link": "https://www.hartvannederland.nl/tech/storing/artikelen/grote-microsoft-storing-treft-ziekenhuizen-gemeenten-rechtbanken",
+                    "publishedDate": "13/11/2026 12:05"
+                },
                 {
                     "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
                     "source": "nieuwsblad.be",
@@ -427,7 +488,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
@@ -477,17 +538,6 @@
             "source": "rodi.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Storing Microsoft Outlook: Outlook en Teams nog niet overal bereikbaar - L1 Nieuws",
-            "link": "https://www.l1nieuws.nl/nieuws/3271766/storing-microsoft-outlook-outlook-en-teams-nog-niet-overal-bereikbaar",
-            "publishedDate": "13/11/2026 14:27",
-            "source": "l1nieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -555,28 +605,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Grote storing Microsoft: onder andere e-mail onbereikbaar, ook Omroep Gelderland getroffen",
-            "link": "https://www.gld.nl/nieuws/8546521/grote-storing-microsoft-onder-andere-e-mail-onbereikbaar-ook-omroep-gelderland-getroffen",
-            "publishedDate": "13/11/2026 13:58",
-            "source": "gld.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
-            "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
-            "publishedDate": "13/11/2026 13:52",
-            "source": "kw.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Schiphol schenkt 29 gebruikte elektrische bussen aan Oekra\u00efne - Het Parool",
             "link": "https://www.parool.nl/nederland/schiphol-schenkt-29-gebruikte-elektrische-bussen-aan-oekraine~b8a9a201/",
             "publishedDate": "13/11/2026 13:40",
@@ -594,17 +622,6 @@
             "source": "nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Storing bij e-mail en MijnZuyderland - Zuyderland",
-            "link": "https://zuyderland.nl/nieuws/storing-bij-e-mail-en-mijnzuyderland/",
-            "publishedDate": "13/11/2026 13:39",
-            "source": "zuyderland.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -647,28 +664,6 @@
             "link": "https://niw.nl/verrotting/",
             "publishedDate": "13/11/2026 13:25",
             "source": "niw.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremies 2027 bekend: gemiddeld \u20ac14,48 per maand duurder | FiscAlert",
-            "link": "https://fiscalert.nl/verzekeren/artikelen/zorgpremies-2027-bekend-gemiddeld-14-48-per-maand-duurder/",
-            "publishedDate": "13/11/2026 13:24",
-            "source": "fiscalert.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Microsoft ziet \u201cvooruitgang\u201d na wereldwijde problemen met diensten als Outlook en Teams ... - GVA",
-            "link": "https://www.gva.be/binnenland/microsoft-ziet-vooruitgang-na-wereldwijde-problemen-met-diensten-als-outlook-en-teams-maar-nog-geen-definitieve-oplossing/164490398.html",
-            "publishedDate": "13/11/2026 13:06",
-            "source": "gva.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
@@ -727,17 +722,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Microsoft-storing zorgt voor ongemak in Limburg: achter de schermen haperde het, maar het ...",
-            "link": "https://www.limburger.nl/regio/limburg/microsoft-storing-zorgt-voor-ongemak-in-limburg-achter-de-schermen-haperde-het-maar-werk-gaat-gewoon-door/164502287.html",
-            "publishedDate": "13/11/2026 12:24",
-            "source": "limburger.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Jaarlijkse 11-11 giften kapel van de Heilige Martinus - De MooiRooiKrant - MooiRooi.nl",
             "link": "https://www.mooirooi.nl/nieuws/zorg-en-welzijn/76884/jaarlijkse-11-11-giften-kapel-van-de-heilige-martinus",
             "publishedDate": "13/11/2026 12:22",
@@ -755,17 +739,6 @@
             "source": "icthealth.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
-            "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
-            "publishedDate": "13/11/2026 12:12",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -800,17 +773,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Wereldwijde Microsoft-storing raakt ook Utrecht: ziekenhuizen en onderwijsinstellingen ...",
-            "link": "https://www.duic.nl/algemeen/algemeen/61500/wereldwijde-microsoft-storing-raakt-ook-utrecht-ziekenhuizen-en-onderwijsinstellingen-ondervinden-hinder",
-            "publishedDate": "13/11/2026 12:07",
-            "source": "duic.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Het POH-alfabet: denkt u even mee? | medischcontact",
             "link": "https://www.medischcontact.nl/opinie/blogs-columns/blog/het-poh-alfabet-denkt-u-even-mee",
             "publishedDate": "13/11/2026 12:05",
@@ -828,17 +790,6 @@
             "source": "hartvannederland.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grote Microsoft-storing treft ook ziekenhuizen, gemeenten en rechtbanken",
-            "link": "https://www.hartvannederland.nl/tech/storing/artikelen/grote-microsoft-storing-treft-ziekenhuizen-gemeenten-rechtbanken",
-            "publishedDate": "13/11/2026 12:05",
-            "source": "hartvannederland.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -973,7 +924,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Brief van ministerie van VWS aan Stichting Acute Zorg VPR in reactie op brief \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
@@ -1042,7 +993,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Helpt invriezen van zalm tegen bacteri\u00ebn? | PlusOnline - Plus Magazine",
@@ -1269,7 +1220,7 @@
             "source": "debelegger.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "United Microelectronics (UMC) dividend 2026 - De Belegger",
@@ -1282,6 +1233,18 @@
                     "source": "debelegger.nl",
                     "link": "https://www.debelegger.nl/koers/UMC.US/kerncijfers",
                     "publishedDate": "13/11/2026 02:08"
+                },
+                {
+                    "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
+                    "source": "debelegger.nl",
+                    "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
+                    "publishedDate": "13/11/2026 02:08"
+                },
+                {
+                    "title": "United Microelectronics Belegger-score - UMC",
+                    "source": "debelegger.nl",
+                    "link": "https://www.debelegger.nl/koers/UMC.US/score",
+                    "publishedDate": "13/11/2026 01:36"
                 }
             ],
             "belangrijkheid": 0
@@ -1298,34 +1261,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
-            "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
-            "publishedDate": "13/11/2026 02:08",
-            "source": "debelegger.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zorgpremies Nationale-Nederlanden 2027 - Independer Weblog",
             "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-nationale-nederlanden-2027/",
             "publishedDate": "13/11/2026 01:42",
             "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "United Microelectronics Belegger-score - UMC",
-            "link": "https://www.debelegger.nl/koers/UMC.US/score",
-            "publishedDate": "13/11/2026 01:36",
-            "source": "debelegger.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1538,7 +1479,7 @@
                     "publishedDate": "12/11/2026 14:29"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' | Nieuws | De Stentor.nl",
