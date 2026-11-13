@@ -1200,7 +1200,7 @@
                     "publishedDate": "12/11/2026 16:50"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ondertekende brief",
@@ -1583,11 +1583,24 @@
             "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
             "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
             "publishedDate": "12/11/2026 13:45",
-            "source": "igj.nl",
+            "source": "igj.nl, zorgkrant.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Jeugdhulp van Caterva heeft een aanwijzing met cli\u00ebntenstop - Zorgkrant",
+                    "source": "zorgkrant.nl",
+                    "link": "https://zorgkrant.nl/management-en-beleid/21660-jeugdhulp-van-caterva-heeft-een-aanwijzing-met-clientenstop",
+                    "publishedDate": "12/11/2026 08:37"
+                },
+                {
+                    "title": "Aanwijzing met cli\u00ebntenstop voor jeugdhulp van Caterva",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/11/aanwijzing-met-clientenstop-jeugdhulp-caterva",
+                    "publishedDate": "11/11/2026 10:00"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -1893,24 +1906,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Jeugdhulp van Caterva heeft een aanwijzing met cli\u00ebntenstop - Zorgkrant",
-            "link": "https://zorgkrant.nl/management-en-beleid/21660-jeugdhulp-van-caterva-heeft-een-aanwijzing-met-clientenstop",
-            "publishedDate": "12/11/2026 08:37",
-            "source": "igj.nl, zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Aanwijzing met cli\u00ebntenstop voor jeugdhulp van Caterva",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/11/aanwijzing-met-clientenstop-jeugdhulp-caterva",
-                    "publishedDate": "11/11/2026 10:00"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Minister Sterk en IGJ criticisiert op toezicht Tamarinde Utrecht | Economy - Head Topics",
