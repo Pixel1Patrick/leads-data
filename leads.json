@@ -6,8 +6,8 @@
             "publishedDate": "13/11/2026 06:52",
             "source": "dvhn.nl",
             "category": "Regionale Media",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -242,7 +242,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie OHRA 2027 - Independer Weblog",
@@ -425,7 +425,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Longarts David (63) zag pati\u00ebnten met uitgezaaide kanker opknappen - De Gelderlander",
@@ -977,13 +977,19 @@
             "source": "nl.headtopics.com, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Son en Breugel verhoogt ozb met 48 procent door hoge jeugdzorgkosten - Omroep Brabant",
                     "source": "omroepbrabant.nl",
                     "link": "https://www.omroepbrabant.nl/nieuws/6034593/son-en-breugel-verhoogt-ozb-met-48-procent-door-hoge-jeugdzorgkosten",
                     "publishedDate": "12/11/2026 17:36"
+                },
+                {
+                    "title": "Jeugdzorgkosten drijven Son en Breugel in nauw: ozb stijgt met 48 procent - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/jeugdzorgkosten-drijven-son-en-breugel-in-nauw-ozb-stijgt-89794652",
+                    "publishedDate": "12/11/2026 17:21"
                 }
             ],
             "belangrijkheid": 0
@@ -1017,17 +1023,6 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jeugdzorgkosten drijven Son en Breugel in nauw: ozb stijgt met 48 procent - Head Topics",
-            "link": "https://nl.headtopics.com/news/jeugdzorgkosten-drijven-son-en-breugel-in-nauw-ozb-stijgt-89794652",
-            "publishedDate": "12/11/2026 17:21",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1361,7 +1356,7 @@
             "source": "bndestem.nl, drimble.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit - Drimble",
@@ -1374,9 +1369,21 @@
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/regio/noord-brabant/helmond/108574402/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit.html",
                     "publishedDate": "12/11/2026 08:28"
+                },
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+                    "publishedDate": "12/11/2026 14:29"
+                },
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
+                    "publishedDate": "12/11/2026 13:03"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De huisarts is meer dan een consult: tijd voor een eerlijke waardering - LHV",
@@ -1518,24 +1525,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-            "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-            "publishedDate": "12/11/2026 14:29",
-            "source": "bndestem.nl, drimble.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
-                    "publishedDate": "12/11/2026 13:03"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Is niet echt, Jan Klaassen - VerzekeringsNieuws",
             "link": "https://www.verzekeringsnieuws.nl/artikel/130498-niet-echt-jan-klaassen",
             "publishedDate": "12/11/2026 14:09",
@@ -1572,17 +1561,11 @@
             "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
             "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
             "publishedDate": "12/11/2026 13:45",
-            "source": "igj.nl, zorgkrant.nl",
+            "source": "igj.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
-                {
-                    "title": "Jeugdhulp van Caterva heeft een aanwijzing met cli\u00ebntenstop - Zorgkrant",
-                    "source": "zorgkrant.nl",
-                    "link": "https://zorgkrant.nl/management-en-beleid/21660-jeugdhulp-van-caterva-heeft-een-aanwijzing-met-clientenstop",
-                    "publishedDate": "12/11/2026 08:37"
-                },
                 {
                     "title": "Aanwijzing met cli\u00ebntenstop voor jeugdhulp van Caterva",
                     "source": "igj.nl",
@@ -1621,8 +1604,15 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
+                    "publishedDate": "12/11/2026 12:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1633,17 +1623,6 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
-            "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
-            "publishedDate": "12/11/2026 12:36",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1892,6 +1871,17 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdhulp van Caterva heeft een aanwijzing met cli\u00ebntenstop - Zorgkrant",
+            "link": "https://zorgkrant.nl/management-en-beleid/21660-jeugdhulp-van-caterva-heeft-een-aanwijzing-met-clientenstop",
+            "publishedDate": "12/11/2026 08:37",
+            "source": "zorgkrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
