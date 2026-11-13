@@ -237,11 +237,36 @@
             "title": "Grootste premiestijging in jaren, check hier jouw verzekering | Nieuws | AD.nl",
             "link": "https://www.ad.nl/economie/grootste-premiestijging-in-jaren-check-hier-jouw-verzekering~a7d268a1/",
             "publishedDate": "13/11/2026 01:13",
-            "source": "ad.nl",
+            "source": "ad.nl, bnr.nl, nu.nl, telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgpremies voor 2027 bekend, check hier jouw verzekering | Nieuws | AD.nl",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/economie/zorgpremies-voor-2027-bekend-check-hier-jouw-verzekering~a7d268a1/",
+                    "publishedDate": "13/11/2026 00:37"
+                },
+                {
+                    "title": "Zorgpremie stijgt harder dan verwacht: 170 euro per maand geen uitzondering | Economie",
+                    "source": "nu.nl",
+                    "link": "https://www.nu.nl/economie/6416130/zorgpremie-stijgt-harder-dan-verwacht-170-euro-per-maand-geen-uitzondering.html",
+                    "publishedDate": "13/11/2026 00:35"
+                },
+                {
+                    "title": "Grootste premiestijging in jaren: dit betaal je straks en zo wordt jouw premie berekend",
+                    "source": "telegraaf.nl",
+                    "link": "https://www.telegraaf.nl/financieel/grootste-premiestijging-in-jaren-dit-betaal-je-straks-en-zo-wordt-jouw-premie-berekend/164470467.html",
+                    "publishedDate": "13/11/2026 00:05"
+                },
+                {
+                    "title": "Zorgverzekering volgend jaar waarschijnlijk flink duurder, 'trend is gezet' | BNR Nieuwsradio",
+                    "source": "bnr.nl",
+                    "link": "https://www.bnr.nl/nieuws/ec4a:o1000,onomie/10615299/zorgverzekering-volgend-jaar-waarschijnlijk-flink-duurder-trend-is-gezet",
+                    "publishedDate": "12/11/2026 15:19"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -300,28 +325,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgpremies voor 2027 bekend, check hier jouw verzekering | Nieuws | AD.nl",
-            "link": "https://www.ad.nl/economie/zorgpremies-voor-2027-bekend-check-hier-jouw-verzekering~a7d268a1/",
-            "publishedDate": "13/11/2026 00:37",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremie stijgt harder dan verwacht: 170 euro per maand geen uitzondering | Economie",
-            "link": "https://www.nu.nl/economie/6416130/zorgpremie-stijgt-harder-dan-verwacht-170-euro-per-maand-geen-uitzondering.html",
-            "publishedDate": "13/11/2026 00:35",
-            "source": "nu.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Zorgpremie Menzis stijgt met bijna 10 euro per maand: 'Kosten blijven oplopen' - RTV Oost",
             "link": "https://www.oost.nl/nieuws/3715742/zorgpremie-menzis-stijgt-met-bijna-10-euro-per-maand-kosten-blijven-oplopen",
             "publishedDate": "13/11/2026 00:11",
@@ -353,17 +356,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Grootste premiestijging in jaren: dit betaal je straks en zo wordt jouw premie berekend",
-            "link": "https://www.telegraaf.nl/financieel/grootste-premiestijging-in-jaren-dit-betaal-je-straks-en-zo-wordt-jouw-premie-berekend/164470467.html",
-            "publishedDate": "13/11/2026 00:05",
-            "source": "telegraaf.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "Kampen ziet financi\u00eble tekorten oplopen, bezuinigingen dreigen - 1Zwolle",
@@ -405,13 +397,25 @@
             "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Agent begaat fatale fout: arrestant overlijdt na verkeerde medicatie, toch krijgt hij een knuffel ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/arnhem/agent-begaat-fatale-fout-arrestant-overlijdt-na-verkeerde-medicatie-toch-krijgt-hij-een-knuffel-van-moeder-van-slachtoffer~a3305fe5/",
                     "publishedDate": "12/11/2026 21:52"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:30"
+                },
+                {
+                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
+                    "publishedDate": "12/11/2026 18:29"
                 }
             ],
             "belangrijkheid": 0
@@ -425,7 +429,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Longarts David (63) zag pati\u00ebnten met uitgezaaide kanker opknappen - De Gelderlander",
@@ -589,10 +593,10 @@
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
             "link": "https://www.bd.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
             "publishedDate": "12/11/2026 20:59",
-            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl",
+            "source": "ad.nl, bd.nl, bndestem.nl, drimble.nl, ed.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 5,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
@@ -611,6 +615,18 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/brabant/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
                     "publishedDate": "12/11/2026 15:32"
+                },
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+                    "publishedDate": "12/11/2026 14:29"
+                },
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
+                    "publishedDate": "12/11/2026 13:03"
                 }
             ],
             "belangrijkheid": 1
@@ -847,24 +863,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - AD",
-            "link": "https://www.ad.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-            "publishedDate": "12/11/2026 18:30",
-            "source": "ad.nl, gelderlander.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Agent geeft totaal verkeerde medicijnen aan arrestant, die dat niet overleeft - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/arnhem/agent-geeft-totaal-verkeerde-medicijnen-aan-arrestant-die-dat-niet-overleeft-hoe-konden-ze-hem-deze-taak-geven~a3305fe5/",
-                    "publishedDate": "12/11/2026 18:29"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ziekenhuizen voor wekedelensarcomen - Kanker.nl",
             "link": "https://www.kanker.nl/kankersoorten/wekedelentumoren-wekedelensarcomen/na-de-uitslag/ziekenhuizen-voor-wekedelensarcomen",
             "publishedDate": "12/11/2026 18:21",
@@ -935,7 +933,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De nieuwe editie van de Kennisagenda Wetenschappelijk Onderzoek Langdurige ... - UMCG",
@@ -1347,16 +1345,16 @@
                     "publishedDate": "12/11/2026 07:44"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit",
             "link": "https://www.bndestem.nl/brabant/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit~a4757032/",
             "publishedDate": "12/11/2026 15:32",
-            "source": "bndestem.nl, drimble.nl",
+            "source": "bndestem.nl, drimble.nl, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit - Drimble",
@@ -1371,19 +1369,13 @@
                     "publishedDate": "12/11/2026 08:28"
                 },
                 {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-                    "publishedDate": "12/11/2026 14:29"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
-                    "publishedDate": "12/11/2026 13:03"
+                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
+                    "publishedDate": "12/11/2026 12:36"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "De huisarts is meer dan een consult: tijd voor een eerlijke waardering - LHV",
@@ -1403,17 +1395,6 @@
             "source": "knmp.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgverzekering volgend jaar waarschijnlijk flink duurder, 'trend is gezet' | BNR Nieuwsradio",
-            "link": "https://www.bnr.nl/nieuws/ec4a:o1000,onomie/10615299/zorgverzekering-volgend-jaar-waarschijnlijk-flink-duurder-trend-is-gezet",
-            "publishedDate": "12/11/2026 15:19",
-            "source": "bnr.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1564,15 +1545,8 @@
             "source": "igj.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Aanwijzing met cli\u00ebntenstop voor jeugdhulp van Caterva",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/11/aanwijzing-met-clientenstop-jeugdhulp-caterva",
-                    "publishedDate": "11/11/2026 10:00"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1604,15 +1578,8 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Middelburg stelt maatregelen nog even uit; tekort dreigt komende jaren op te lopen tot 3,8 ...",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/middelburg/middelburg-stelt-maatregelen-nog-even-uit-tekort-dreigt-komende-jaren-op-te-lopen-tot-3-8-miljoen-euro~aff6d15a/",
-                    "publishedDate": "12/11/2026 12:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1879,12 +1846,19 @@
             "title": "Jeugdhulp van Caterva heeft een aanwijzing met cli\u00ebntenstop - Zorgkrant",
             "link": "https://zorgkrant.nl/management-en-beleid/21660-jeugdhulp-van-caterva-heeft-een-aanwijzing-met-clientenstop",
             "publishedDate": "12/11/2026 08:37",
-            "source": "zorgkrant.nl",
+            "source": "igj.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanwijzing met cli\u00ebntenstop voor jeugdhulp van Caterva",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/11/aanwijzing-met-clientenstop-jeugdhulp-caterva",
+                    "publishedDate": "11/11/2026 10:00"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Alle appartementen Zuidpost verhuurd, zestig procent van nieuwe bewoners komt uit Waddinxveen",
