@@ -524,7 +524,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgkosten stijgen: premie De Friesland omhoog. Bekijk en vergelijk hier wat je in 2027 ...",
@@ -563,18 +563,11 @@
             "title": "Spanje veroordeelt Isra\u00eblische bombardementen op Nasser-ziekenhuis in Gaza",
             "link": "https://nieuws.marokko.nl/119073/spanje-veroordeelt-israelische-bombardementen-op-nasser-ziekenhuis-in-gaza/",
             "publishedDate": "13/11/2026 10:06",
-            "source": "islamomroep.nl, nieuws.marokko.nl",
+            "source": "nieuws.marokko.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
-                    "source": "islamomroep.nl",
-                    "link": "https://islamomroep.nl/2026/11/13/chirurg-gedood-bij-luchtaanval-op-nasser-ziekenhuis-in-gaza/",
-                    "publishedDate": "13/11/2026 08:41"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -651,6 +644,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
+            "link": "https://islamomroep.nl/2026/11/13/chirurg-gedood-bij-luchtaanval-op-nasser-ziekenhuis-in-gaza/",
+            "publishedDate": "13/11/2026 08:41",
+            "source": "islamomroep.nl, zuidwestupdate.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Van levensbedreigende operatie naar een boekje vol dankbaarheid: '7,5 liter bloed verloren'",
+                    "source": "zuidwestupdate.nl",
+                    "link": "https://www.zuidwestupdate.nl/nieuws/van-levensbedreigende-operatie-naar-een-boekje-vol-dankbaarheid-75-liter-bloed-verloren/",
+                    "publishedDate": "13/11/2026 08:17"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Sommige dingen veranderen nooit in Rotterdam | medischcontact",
             "link": "https://www.medischcontact.nl/opinie/blogs-columns/blog/sommige-dingen-veranderen-nooit-in-rotterdam",
             "publishedDate": "13/11/2026 08:39",
@@ -668,17 +679,6 @@
             "source": "rtvnoord.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Van levensbedreigende operatie naar een boekje vol dankbaarheid: '7,5 liter bloed verloren'",
-            "link": "https://www.zuidwestupdate.nl/nieuws/van-levensbedreigende-operatie-naar-een-boekje-vol-dankbaarheid-75-liter-bloed-verloren/",
-            "publishedDate": "13/11/2026 08:17",
-            "source": "zuidwestupdate.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -822,7 +822,7 @@
             "source": "debelegger.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "United Microelectronics (UMC) dividend 2026 - De Belegger",
@@ -835,6 +835,18 @@
                     "source": "debelegger.nl",
                     "link": "https://www.debelegger.nl/koers/UMC.US/kerncijfers",
                     "publishedDate": "13/11/2026 02:08"
+                },
+                {
+                    "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
+                    "source": "debelegger.nl",
+                    "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
+                    "publishedDate": "13/11/2026 02:08"
+                },
+                {
+                    "title": "United Microelectronics Belegger-score - UMC",
+                    "source": "debelegger.nl",
+                    "link": "https://www.debelegger.nl/koers/UMC.US/score",
+                    "publishedDate": "13/11/2026 01:36"
                 }
             ],
             "belangrijkheid": 0
@@ -851,34 +863,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
-            "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
-            "publishedDate": "13/11/2026 02:08",
-            "source": "debelegger.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zorgpremies Nationale-Nederlanden 2027 - Independer Weblog",
             "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-nationale-nederlanden-2027/",
             "publishedDate": "13/11/2026 01:42",
             "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "United Microelectronics Belegger-score - UMC",
-            "link": "https://www.debelegger.nl/koers/UMC.US/score",
-            "publishedDate": "13/11/2026 01:36",
-            "source": "debelegger.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1096,10 +1086,10 @@
             "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
             "link": "https://www.bd.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
             "publishedDate": "12/11/2026 20:59",
-            "source": "ad.nl, bd.nl, bndestem.nl, drimble.nl, ed.nl, gelderlander.nl",
+            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 6,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Apothekers slaan alarm: steeds minder fabrikanten leveren medicijnen aan Nederland",
@@ -1118,18 +1108,6 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/brabant/apothekers-slaan-alarm-steeds-minder-fabrikanten-leveren-medicijnen-aan-nederland~a54faca2/",
                     "publishedDate": "12/11/2026 15:32"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
-                    "publishedDate": "12/11/2026 14:29"
-                },
-                {
-                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
-                    "publishedDate": "12/11/2026 13:03"
                 }
             ],
             "belangrijkheid": 1
@@ -1626,7 +1604,7 @@
             "source": "bndestem.nl, drimble.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Kosten jeugdzorg regio Helmond vallen halverwege het jaar al vier miljoen hoger uit - Drimble",
@@ -1639,6 +1617,18 @@
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/regio/noord-brabant/helmond/108574402/kosten-jeugdzorg-regio-helmond-vallen-halverwege-het-jaar-al-vier-miljoen-hoger-uit.html",
                     "publishedDate": "12/11/2026 08:28"
+                },
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Regio",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/breda/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen~a54faca2/",
+                    "publishedDate": "12/11/2026 14:29"
+                },
+                {
+                    "title": "Steeds meer medicijnen dreigen onvindbaar te worden, apothekers maken zich grote zorgen | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108574471/steeds-meer-medicijnen-dreigen-onvindbaar-te-worden-apothekers-maken-zich-grote-zorgen.html",
+                    "publishedDate": "12/11/2026 13:03"
                 }
             ],
             "belangrijkheid": 0
