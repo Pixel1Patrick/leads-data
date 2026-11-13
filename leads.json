@@ -1,6 +1,24 @@
 {
     "artikelen": [
         {
+            "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
+            "link": "https://open.overheid.nl/details/oep-ob-203ccce89bfa35ea59175f34931f50ca1b1d63fe_27",
+            "publishedDate": "13/11/2026 16:24",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_9",
+                    "publishedDate": "13/11/2026 15:26"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zorgpremies 2027 bekend: dit betaal je per maand bij iedere zorgverzekeraar - Manly",
             "link": "https://manly.nl/zorgpremies-2027-vergelijken",
             "publishedDate": "13/11/2026 16:08",
@@ -27,7 +45,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Alle zorgverzekeraars verhogen hun premie. Bekijk en vergelijk hier wat je in 2027 betaalt ... - DVHN",
@@ -41,31 +59,13 @@
             "belangrijkheid": 1
         },
         {
-            "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
-            "link": "https://open.overheid.nl/details/oep-ob-203ccce89bfa35ea59175f34931f50ca1b1d63fe_25",
-            "publishedDate": "13/11/2026 15:56",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_9",
-                    "publishedDate": "13/11/2026 15:26"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
             "publishedDate": "13/11/2026 15:49",
-            "source": "kw.be, nieuwsblad.be",
+            "source": "antoniusziekenhuis.nl, duic.nl, hartvannederland.nl, kw.be, limburger.nl, nhnieuws.nl, nieuwsblad.be, wza.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 4,
+            "duplicate_count": 10,
             "extra_bronnen": [
                 {
                     "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
@@ -74,16 +74,52 @@
                     "publishedDate": "13/11/2026 13:52"
                 },
                 {
+                    "title": "Microsoft-storing zorgt voor ongemak in Limburg: achter de schermen haperde het, maar het ...",
+                    "source": "limburger.nl",
+                    "link": "https://www.limburger.nl/regio/limburg/microsoft-storing-zorgt-voor-ongemak-in-limburg-achter-de-schermen-haperde-het-maar-werk-gaat-gewoon-door/164502287.html",
+                    "publishedDate": "13/11/2026 12:24"
+                },
+                {
                     "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
                     "source": "nieuwsblad.be",
                     "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
                     "publishedDate": "13/11/2026 12:12"
                 },
                 {
+                    "title": "Wereldwijde Microsoft-storing raakt ook Utrecht: ziekenhuizen en onderwijsinstellingen ...",
+                    "source": "duic.nl",
+                    "link": "https://www.duic.nl/algemeen/algemeen/61500/wereldwijde-microsoft-storing-raakt-ook-utrecht-ziekenhuizen-en-onderwijsinstellingen-ondervinden-hinder",
+                    "publishedDate": "13/11/2026 12:07"
+                },
+                {
+                    "title": "Grote Microsoft-storing treft ook ziekenhuizen, gemeenten en rechtbanken",
+                    "source": "hartvannederland.nl",
+                    "link": "https://www.hartvannederland.nl/tech/storing/artikelen/grote-microsoft-storing-treft-ziekenhuizen-gemeenten-rechtbanken",
+                    "publishedDate": "13/11/2026 12:05"
+                },
+                {
+                    "title": "Meerdere instanties in Noord-Holland geraakt door storing bij Microsoft - NH Nieuws",
+                    "source": "nhnieuws.nl",
+                    "link": "https://www.nhnieuws.nl/nieuws/365418/meerdere-instanties-in-noord-holland-geraakt-door-storing-bij-microsoft",
+                    "publishedDate": "13/11/2026 11:02"
+                },
+                {
                     "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
                     "source": "nieuwsblad.be",
                     "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164496592.html",
                     "publishedDate": "13/11/2026 10:59"
+                },
+                {
+                    "title": "Storing bij Microsoft - Wilhelmina Ziekenhuis Assen",
+                    "source": "wza.nl",
+                    "link": "https://www.wza.nl/actueel/nieuws/storing-bij-microsoft",
+                    "publishedDate": "13/11/2026 10:16"
+                },
+                {
+                    "title": "Storing Microsoft: dit betekent het voor pati\u00ebnten | St. Antonius Ziekenhuis",
+                    "source": "antoniusziekenhuis.nl",
+                    "link": "https://www.antoniusziekenhuis.nl/storing-microsoft-dit-betekent-het-voor-patienten",
+                    "publishedDate": "13/11/2026 10:12"
                 }
             ],
             "belangrijkheid": 0
@@ -147,11 +183,17 @@
             "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Oostermoer",
             "link": "https://www.oostermoer.info/nieuws/algemeen/124081/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
             "publishedDate": "13/11/2026 14:35",
-            "source": "dvhn.nl, nl.headtopics.com, oostermoer.info, rtvdrenthe.nl",
+            "source": "dvhn.nl, instagram.com, nl.headtopics.com, oostermoer.info, rtvdrenthe.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
+                    "source": "instagram.com",
+                    "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
+                    "publishedDate": "13/11/2026 09:20"
+                },
                 {
                     "title": "Interzorg Noord-Nederland uitgeroepen tot Drentse onderneming van het jaar - Head Topics",
                     "source": "nl.headtopics.com",
@@ -232,18 +274,11 @@
             "title": "Aantal Barendrechters zonder huisarts vermoedelijk veel hoger dan bekend - Barendrechts Dagblad",
             "link": "https://barendrechtsdagblad.nl/Lokaal/aantal-barendrechters-zonder-huisarts-vermoedelijk-veel-hoger-dan-bekend",
             "publishedDate": "13/11/2026 13:05",
-            "source": "ad.nl, barendrechtsdagblad.nl",
+            "source": "barendrechtsdagblad.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe Barendrechters dreigen zonder huisarts te zitten: 'Het is belachelijk dat mensen ...",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/barendrecht/nieuwe-barendrechters-dreigen-zonder-huisarts-te-zitten-het-is-belachelijk-dat-mensen-naar-een-dokter-bij-de-ikea-moeten~a2fdc5a9/",
-                    "publishedDate": "12/11/2026 16:14"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -264,55 +299,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
                     "publishedDate": "13/11/2026 12:34"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Microsoft-storing zorgt voor ongemak in Limburg: achter de schermen haperde het, maar het ...",
-            "link": "https://www.limburger.nl/regio/limburg/microsoft-storing-zorgt-voor-ongemak-in-limburg-achter-de-schermen-haperde-het-maar-werk-gaat-gewoon-door/164502287.html",
-            "publishedDate": "13/11/2026 12:24",
-            "source": "antoniusziekenhuis.nl, duic.nl, hartvannederland.nl, limburger.nl, nhnieuws.nl, wza.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Wereldwijde Microsoft-storing raakt ook Utrecht: ziekenhuizen en onderwijsinstellingen ...",
-                    "source": "duic.nl",
-                    "link": "https://www.duic.nl/algemeen/algemeen/61500/wereldwijde-microsoft-storing-raakt-ook-utrecht-ziekenhuizen-en-onderwijsinstellingen-ondervinden-hinder",
-                    "publishedDate": "13/11/2026 12:07"
                 },
                 {
-                    "title": "Grote Microsoft-storing treft ook ziekenhuizen, gemeenten en rechtbanken",
-                    "source": "hartvannederland.nl",
-                    "link": "https://www.hartvannederland.nl/tech/storing/artikelen/grote-microsoft-storing-treft-ziekenhuizen-gemeenten-rechtbanken",
-                    "publishedDate": "13/11/2026 12:05"
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
+                    "publishedDate": "13/11/2026 11:18"
                 },
                 {
-                    "title": "Meerdere instanties in Noord-Holland geraakt door storing bij Microsoft - NH Nieuws",
-                    "source": "nhnieuws.nl",
-                    "link": "https://www.nhnieuws.nl/nieuws/365418/meerdere-instanties-in-noord-holland-geraakt-door-storing-bij-microsoft",
-                    "publishedDate": "13/11/2026 11:02"
-                },
-                {
-                    "title": "Storing bij Microsoft - Wilhelmina Ziekenhuis Assen",
-                    "source": "wza.nl",
-                    "link": "https://www.wza.nl/actueel/nieuws/storing-bij-microsoft",
-                    "publishedDate": "13/11/2026 10:16"
-                },
-                {
-                    "title": "Storing Microsoft: dit betekent het voor pati\u00ebnten | St. Antonius Ziekenhuis",
-                    "source": "antoniusziekenhuis.nl",
-                    "link": "https://www.antoniusziekenhuis.nl/storing-microsoft-dit-betekent-het-voor-patienten",
-                    "publishedDate": "13/11/2026 10:12"
+                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
+                    "publishedDate": "13/11/2026 11:18"
                 }
             ],
             "belangrijkheid": 0
@@ -421,7 +426,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "UMC Utrecht raakt erkenning zeldzame tumoren kwijt, gaat toch door met behandelingen",
@@ -432,7 +437,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Waarom Belgi\u00eb goed scoort op zorgpersoneel, maar na operaties vaker sepsis ziet dan het ...",
@@ -465,7 +470,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Eigen risico en zorgpremies omhoog: 'Flinke stijging was te verwachten' - L1 Nieuws",
@@ -476,7 +481,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
@@ -520,7 +525,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Mysterie opgelost: daarom kleurt het Slingeland Ziekenhuis komende zondag paars - AD",
@@ -566,18 +571,11 @@
             "title": "AI spoort prostaatkanker net zo snel op als radioloog | BNR Nieuwsradio",
             "link": "https://www.bnr.nl/nieuws/tech-innovatie/10615499/ai-spoort-prostaatkanker-net-zo-snel-op-als-radioloog",
             "publishedDate": "13/11/2026 11:25",
-            "source": "bnr.nl, icthealth.nl",
+            "source": "bnr.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "AI spoort prostaatkanker op, prestaties verschillen per ziekenhuis - ICT&amp;health",
-                    "source": "icthealth.nl",
-                    "link": "https://www.icthealth.nl/nieuws/ai-spoort-prostaatkanker-op-prestaties-verschillen-per-ziekenhuis",
-                    "publishedDate": "13/11/2026 07:00"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -600,7 +598,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Brief van ministerie van VWS aan Stichting Acute Zorg VPR in reactie op brief \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
@@ -609,24 +607,12 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Brief van Stichting Acute Zorq VPR in reactie op brief van VWS over \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
                     "publishedDate": "13/11/2026 11:18"
                 },
                 {
@@ -636,7 +622,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgpremie a.s.r. stijgt in 2027: tot \u20ac 21 per maand duurder - Zorgwijzer",
@@ -647,7 +633,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgpremies voor 2027 bekend: enorme stijging bij Tilburgs CZ - Omroep Brabant",
@@ -658,7 +644,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -726,7 +712,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgpremies ontploffen: dit gaan Brabanders volgend jaar betalen | Regio | AD.nl",
@@ -737,7 +723,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Politieke column: 'Ouderen zijn geen kostenpost' - Ditishelmond.nl",
@@ -770,7 +756,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
@@ -781,24 +767,17 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Spanje veroordeelt Isra\u00eblische bombardementen op Nasser-ziekenhuis in Gaza",
             "link": "https://nieuws.marokko.nl/119073/spanje-veroordeelt-israelische-bombardementen-op-nasser-ziekenhuis-in-gaza/",
             "publishedDate": "13/11/2026 10:06",
-            "source": "islamomroep.nl, nieuws.marokko.nl",
+            "source": "nieuws.marokko.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
-                    "source": "islamomroep.nl",
-                    "link": "https://islamomroep.nl/2026/11/13/chirurg-gedood-bij-luchtaanval-op-nasser-ziekenhuis-in-gaza/",
-                    "publishedDate": "13/11/2026 08:41"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -819,17 +798,6 @@
             "source": "jeugdjournaal.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
-            "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
-            "publishedDate": "13/11/2026 09:20",
-            "source": "instagram.com",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -870,6 +838,17 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
+            "link": "https://islamomroep.nl/2026/11/13/chirurg-gedood-bij-luchtaanval-op-nasser-ziekenhuis-in-gaza/",
+            "publishedDate": "13/11/2026 08:41",
+            "source": "islamomroep.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -974,6 +953,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "AI spoort prostaatkanker op, prestaties verschillen per ziekenhuis - ICT&amp;health",
+            "link": "https://www.icthealth.nl/nieuws/ai-spoort-prostaatkanker-op-prestaties-verschillen-per-ziekenhuis",
+            "publishedDate": "13/11/2026 07:00",
+            "source": "icthealth.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Eemsdelta onderzoekt link tussen gaswinningsschade en oplopende jeugdzorgkosten",
             "link": "https://www.dvhn.nl/regio/groningen/eemsdelta/eemsdelta-onderzoekt-link-tussen-gaswinningsschade-en-oplopende-jeugdzorgkosten/164441571.html",
             "publishedDate": "13/11/2026 06:52",
@@ -1004,7 +994,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Frederique presteert in wereldtop, mede dankzij baan in gehandicaptenzorg - Omroep Brabant",
@@ -1026,7 +1016,7 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Premie Zorg en Zekerheid stijgt fors in 2027: tot \u20ac 264 extra - Zorgwijzer",
@@ -1037,7 +1027,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "United Microelectronics (UMC) cijfers 2025 - De Belegger",
@@ -1095,7 +1085,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Mensen met dementie helpen om actief te blijven en gezien te worden",
@@ -1242,7 +1232,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Digitale gegevensuitwisseling maakt passende palliatieve zorg mogelijk - ZonMw",
@@ -1305,7 +1295,7 @@
                     "publishedDate": "12/11/2026 14:29"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kun je ziek worden van borstimplantaten? 'Klachten niet negeren' | Nieuws | De Stentor.nl",
@@ -1708,6 +1698,17 @@
             "publishedDate": "12/11/2026 16:33",
             "source": "bicycling.nl",
             "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nieuwe Barendrechters dreigen zonder huisarts te zitten: 'Het is belachelijk dat mensen ...",
+            "link": "https://www.ad.nl/barendrecht/nieuwe-barendrechters-dreigen-zonder-huisarts-te-zitten-het-is-belachelijk-dat-mensen-naar-een-dokter-bij-de-ikea-moeten~a2fdc5a9/",
+            "publishedDate": "12/11/2026 16:14",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
