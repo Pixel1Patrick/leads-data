@@ -136,6 +136,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Campagne niet-automatische weeginstrumenten gebruikt in ziekenhuizen, dokterspraktijken ...",
+            "link": "https://economie.fgov.be/nl/file/7475191/download?token=LD70mLlO",
+            "publishedDate": "13/11/2026 18:35",
+            "source": "economie.fgov.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Wat betreft veiligheid deed Breda het in tien jaar beter dan elders | Regio - BN DeStem",
             "link": "https://www.bndestem.nl/breda/wat-betreft-veiligheid-deed-breda-het-in-tien-jaar-beter-dan-elders~aa19244d/",
             "publishedDate": "13/11/2026 18:32",
@@ -150,12 +161,43 @@
             "title": "Oud-huisarts moet jaar de cel in voor seksueel misbruiken van pati\u00ebnte - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6034744/oud-huisarts-moet-jaar-de-cel-in-voor-seksueel-misbruiken-van-patiente",
             "publishedDate": "13/11/2026 18:22",
-            "source": "omroepbrabant.nl",
+            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:23"
+                },
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/eindhoven/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:22"
+                },
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/eindhoven/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:20"
+                },
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts uit Budel: jaar cel voor ontucht met pati\u00ebnte",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:18"
+                },
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts uit Budel: jaar cel voor ontucht met pati\u00ebnte",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:17"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Wolters Kluwer neemt AgileMD over - De AandeelHouder",
@@ -453,10 +495,10 @@
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
             "link": "https://open.overheid.nl/details/d6fb1a24-75ee-48a5-9370-8058d39ce040",
             "publishedDate": "13/11/2026 16:34",
-            "source": "aruba.nu, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Nota n a v  verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -469,14 +511,19 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/3eab501e-e574-4874-a3d2-2190e1df0850",
                     "publishedDate": "13/11/2026 16:34"
-                },
-                {
-                    "title": "Financi\u00eble crisis ziekenhuis Aruba dreigt in december te verergeren",
-                    "source": "aruba.nu",
-                    "link": "https://www.aruba.nu/nieuws/gezondheidszorg/98438/financiele-crisis-ziekenhuis-aruba-dreigt-in-december-te-verergeren",
-                    "publishedDate": "13/11/2026 16:34"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Financi\u00eble crisis ziekenhuis Aruba dreigt in december te verergeren",
+            "link": "https://www.aruba.nu/nieuws/gezondheidszorg/98438/financiele-crisis-ziekenhuis-aruba-dreigt-in-december-te-verergeren",
+            "publishedDate": "13/11/2026 16:34",
+            "source": "aruba.nu",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -499,42 +546,6 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-            "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-            "publishedDate": "13/11/2026 16:23",
-            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/eindhoven/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:22"
-                },
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/eindhoven/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:20"
-                },
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts uit Budel: jaar cel voor ontucht met pati\u00ebnte",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:18"
-                },
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts uit Budel: jaar cel voor ontucht met pati\u00ebnte",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:17"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -762,7 +773,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie omhoog? Zo bespaar je op je zorgverzekering | De Telegraaf",
@@ -1759,17 +1770,6 @@
             "source": "1almere.nl",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "VIC verdwenen: wie houdt het dashboard van de gezondheidszorg bij? - Curacao.nu",
-            "link": "https://www.curacao.nu/nieuws/gezondheidszorg/98284/vic-verdwenen-wie-houdt-het-dashboard-van-de-gezondheidszorg-bij-",
-            "publishedDate": "12/11/2026 19:23",
-            "source": "curacao.nu",
-            "category": "Overig",
-            "feed_label": "Alert eerstelijnszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
