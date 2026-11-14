@@ -333,7 +333,7 @@
                     "publishedDate": "13/11/2026 16:22"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Lopend Vuur: Overstappen naar een andere zorgverzekeraar vind ik te veel gedoe",
@@ -353,8 +353,15 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Dylan Debaene wil 61 uur aan de toog hangen: \u201cHuisarts en kinesist staan paraat\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/brugge/dylan-debaene-wil-61-uur-aan-de-toog-hangen-de-huisarts-en-de-kinesist-staan-paraat/164508126.html",
+                    "publishedDate": "13/11/2026 15:53"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -602,16 +609,22 @@
             "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Nieuwsbode",
             "link": "https://www.nieuwsbode.info/nieuws/algemeen/124092/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
             "publishedDate": "13/11/2026 17:08",
-            "source": "nieuwsbode.info, oostermoer.info",
+            "source": "instagram.com, nieuwsbode.info, oostermoer.info",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Oostermoer",
                     "source": "oostermoer.info",
                     "link": "https://www.oostermoer.info/nieuws/algemeen/124081/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
                     "publishedDate": "13/11/2026 14:35"
+                },
+                {
+                    "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
+                    "source": "instagram.com",
+                    "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
+                    "publishedDate": "13/11/2026 09:20"
                 }
             ],
             "belangrijkheid": 0
@@ -649,48 +662,11 @@
             "title": "Storing bij Microsoft 365 - Eurocross",
             "link": "https://eurocross.nl/nieuws/73/storing-bij-microsoft-365",
             "publishedDate": "13/11/2026 16:59",
-            "source": "ad.nl, dub.uu.nl, eurocross.nl, kw.be, nieuwsblad.be",
+            "source": "eurocross.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 7,
-            "extra_bronnen": [
-                {
-                    "title": "Langzaam herstel Microsoft-diensten - DUB",
-                    "source": "dub.uu.nl",
-                    "link": "https://dub.uu.nl/nl/nieuws/langzaam-herstel-microsoft-diensten",
-                    "publishedDate": "13/11/2026 16:14"
-                },
-                {
-                    "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
-                    "publishedDate": "13/11/2026 15:49"
-                },
-                {
-                    "title": "Utrechtse ziekenhuizen en scholen slecht bereikbaar door grote storing bij Microsoft - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/utrecht/utrechtse-ziekenhuizen-en-scholen-slecht-bereikbaar-door-grote-storing-bij-microsoft~a58598f9/",
-                    "publishedDate": "13/11/2026 15:05"
-                },
-                {
-                    "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
-                    "source": "kw.be",
-                    "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
-                    "publishedDate": "13/11/2026 13:52"
-                },
-                {
-                    "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
-                    "publishedDate": "13/11/2026 12:12"
-                },
-                {
-                    "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164496592.html",
-                    "publishedDate": "13/11/2026 10:59"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -713,7 +689,7 @@
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -768,6 +744,17 @@
             "source": "tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Langzaam herstel Microsoft-diensten - DUB",
+            "link": "https://dub.uu.nl/nl/nieuws/langzaam-herstel-microsoft-diensten",
+            "publishedDate": "13/11/2026 16:14",
+            "source": "dub.uu.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -850,17 +837,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Dylan Debaene wil 61 uur aan de toog hangen: \u201cHuisarts en kinesist staan paraat\u201d",
-            "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/brugge/dylan-debaene-wil-61-uur-aan-de-toog-hangen-de-huisarts-en-de-kinesist-staan-paraat/164508126.html",
-            "publishedDate": "13/11/2026 15:53",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "RMU opent steunpunt voor gewetensbezwaard zorgpersoneel",
             "link": "https://www.rd.nl/artikel/rmu-opent-steunpunt-voor-gewetensbezwaard-zorgpersoneel",
             "publishedDate": "13/11/2026 15:50",
@@ -869,6 +845,36 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
+            "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
+            "publishedDate": "13/11/2026 15:49",
+            "source": "kw.be, nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
+                    "source": "kw.be",
+                    "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
+                    "publishedDate": "13/11/2026 13:52"
+                },
+                {
+                    "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
+                    "publishedDate": "13/11/2026 12:12"
+                },
+                {
+                    "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164496592.html",
+                    "publishedDate": "13/11/2026 10:59"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -935,7 +941,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Pancreaskanker neemt sterk toe: onderzoekers willen meer daadkracht van het beleid",
@@ -963,11 +969,18 @@
             "title": "Zorg Kortrijk kantelt zorgpersoneel Zusters Augustinessen in stedelijke werking in - KW.be",
             "link": "https://kw.be/nieuws/samenleving/gezondheid/verzorging/zorg-kortrijk-kantelt-zorgpersoneel-zusters-augustinessen-in-stedelijke-werking-in-sociaal-akkoord-geeft-duidelijkheid-en-vertrouwen/",
             "publishedDate": "13/11/2026 15:09",
-            "source": "kw.be",
+            "source": "kw.be, pers.kortrijk.be",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorg Kortrijk verankert publieke zorg door volledige inkanteling van zorgpersoneel in ...",
+                    "source": "pers.kortrijk.be",
+                    "link": "https://pers.kortrijk.be/269798-zorg-kortrijk-verankert-publieke-zorg-door-volledige-inkanteling-van-zorgpersoneel-in-stedelijke-werking-sociaal-akkoord-bereikt/",
+                    "publishedDate": "13/11/2026 13:18"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -977,6 +990,17 @@
             "source": "nieuws.marokko.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Utrechtse ziekenhuizen en scholen slecht bereikbaar door grote storing bij Microsoft - AD",
+            "link": "https://www.ad.nl/utrecht/utrechtse-ziekenhuizen-en-scholen-slecht-bereikbaar-door-grote-storing-bij-microsoft~a58598f9/",
+            "publishedDate": "13/11/2026 15:05",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1011,17 +1035,6 @@
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Chirurg gedood bij luchtaanval op Nasser-ziekenhuis in Gaza - IslamOmroep",
-            "link": "https://islamomroep.nl/2026/11/13/chirurg-gedood-bij-luchtaanval-op-nasser-ziekenhuis-in-gaza/",
-            "publishedDate": "13/11/2026 14:41",
-            "source": "islamomroep.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1109,17 +1122,6 @@
             "source": "streekgids.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorg Kortrijk verankert publieke zorg door volledige inkanteling van zorgpersoneel in ...",
-            "link": "https://pers.kortrijk.be/269798-zorg-kortrijk-verankert-publieke-zorg-door-volledige-inkanteling-van-zorgpersoneel-in-stedelijke-werking-sociaal-akkoord-bereikt/",
-            "publishedDate": "13/11/2026 13:18",
-            "source": "pers.kortrijk.be",
-            "category": "Overig",
-            "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1322,7 +1324,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1421,17 +1423,6 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
-            "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
-            "publishedDate": "13/11/2026 09:20",
-            "source": "instagram.com",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1860,7 +1851,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Voor ouderen kan goede spoedzorg niet zonder de VVT - Zorgkrant",
