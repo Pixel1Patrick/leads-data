@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Scooterrijder naar ziekenhuis, mogelijk betrokkene doorgereden - GelreNieuws",
+            "link": "https://www.gelrenieuws.nl/2026/11/scooterrijder-naar-ziekenhuis-mogelijk-betrokkene-doorgereden.html",
+            "publishedDate": "14/11/2026 21:49",
+            "source": "gelrenieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Oud-huisarts bereidt massaclaim tegen Eternit voor: 'Bedragen die het leed echt vergoeden'",
             "link": "https://www.ed.nl/binnenland/oud-huisarts-bereidt-massaclaim-tegen-eternit-voor-bedragen-die-het-leed-echt-vergoeden~a69cdd20/",
             "publishedDate": "14/11/2026 20:48",
@@ -39,11 +50,18 @@
             "title": "Vijftien mensen met ademhalingsproblemen door te veel chloor in zwembad Phantasialand",
             "link": "https://www.nieuwsblad.be/buitenland/vijftien-mensen-met-ademhalingsproblemen-door-te-veel-chloor-in-zwembad-phantasialand-storing-bij-microsoft-blokkeerde-waarschuwingsmail/164563322.html",
             "publishedDate": "14/11/2026 20:42",
-            "source": "nieuwsblad.be",
+            "source": "looopings.nl, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zwembad Phantasialand-hotel maakt vijftien gasten ziek: vier naar ziekenhuis - Looopings",
+                    "source": "looopings.nl",
+                    "link": "https://www.looopings.nl/weblog/34904/Zwembad-Phantasialand-hotel-maakt-vijftien-gasten-ziek-vier-naar-ziekenhuis.html",
+                    "publishedDate": "14/11/2026 13:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -294,17 +312,6 @@
             "source": "bladna.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "ROYALS. Kate Middleton geeft zeldzaam interview over kankerbehandeling en koning Filip ...",
-            "link": "https://www.nieuwsblad.be/lifestyle/royals.-kate-middleton-geeft-zeldzaam-interview-over-kankerbehandeling-en-koning-filip-duikt-op-met-mondmasker/164438067.html",
-            "publishedDate": "14/11/2026 17:02",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -566,17 +573,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zwembad Phantasialand-hotel maakt vijftien gasten ziek: vier naar ziekenhuis - Looopings",
-            "link": "https://www.looopings.nl/weblog/34904/Zwembad-Phantasialand-hotel-maakt-vijftien-gasten-ziek-vier-naar-ziekenhuis.html",
-            "publishedDate": "14/11/2026 13:08",
-            "source": "looopings.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Oud-huisarts uit Diepenheim bereidt massaclaim tegen Eternit voor | Regio | Tubantia.nl",
             "link": "https://www.tubantia.nl/hof-van-twente/oud-huisarts-uit-diepenheim-bereidt-massaclaim-tegen-eternit-voor~a69cdd20/",
             "publishedDate": "14/11/2026 13:04",
@@ -666,12 +662,49 @@
             "title": "Grote premieverschillen basiszorgverzekering: dit zijn de duurste en goedkoopste - AD",
             "link": "https://www.ad.nl/gezond/grote-premieverschillen-basiszorgverzekering-dit-zijn-de-duurste-en-goedkoopste~ae3cb2346/",
             "publishedDate": "14/11/2026 11:41",
-            "source": "ad.nl",
+            "source": "ad.nl, bd.nl, bndestem.nl, destentor.nl, margriet.nl, pzc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 7,
+            "extra_bronnen": [
+                {
+                    "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/gezond/grote-premieverschillen-tussen-de-basiszorgverzekeringen-tot-wel-650-euro-per-jaar~ae3cb2346/",
+                    "publishedDate": "14/11/2026 10:06"
+                },
+                {
+                    "title": "Zorgpremie schiet omhoog naar gemiddeld 169 euro per maand, en dit is waarom - PZC",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/gezond/zorgpremie-schiet-omhoog-naar-gemiddeld-169-euro-per-maand-en-dit-is-waarom~a16c0928/",
+                    "publishedDate": "14/11/2026 02:34"
+                },
+                {
+                    "title": "Zorgpremie schiet omhoog naar gemiddeld 169 euro per maand, en dit is waarom | Nieuws",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/gezond/zorgpremie-schiet-omhoog-naar-gemiddeld-169-euro-per-maand-en-dit-is-waarom~a16c0928/",
+                    "publishedDate": "14/11/2026 02:32"
+                },
+                {
+                    "title": "Zorgpremie schiet omhoog naar gemiddeld 169 euro per maand, en dit is waarom",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/gezond/waarom-stijgt-de-premie-voor-de-zorgverzekering-zo-flink~a16c0928/",
+                    "publishedDate": "14/11/2026 02:02"
+                },
+                {
+                    "title": "Grootste prijsstijging zorpremies in 15 jaar: dit is de goedkoopste zorgverzekeraar",
+                    "source": "margriet.nl",
+                    "link": "https://www.margriet.nl/goed-met-geld/zorgpremie-2027-waarom-duurder~e7dc245",
+                    "publishedDate": "13/11/2026 18:22"
+                },
+                {
+                    "title": "Grootste stijging zorgpremie in jaren, maar de verschillen zijn groot | Nieuws | De Stentor.nl",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/economie/grootste-premiestijging-in-jaren-check-hier-jouw-verzekering~a7d268a1/",
+                    "publishedDate": "13/11/2026 15:55"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Zestien Duitse schoolkinderen naar ziekenhuis na eten van muffins met batterijen - BNR",
@@ -688,11 +721,18 @@
             "title": "Waarom zorgverzekeraar De Friesland dit jaar een greep uit eigen reserves doet",
             "link": "https://www.lc.nl/economie/waarom-zorgverzekeraar-de-friesland-dit-jaar-een-greep-uit-eigen-reserves-doet-we-willen-de-premie-stabiel-houden/164500716.html",
             "publishedDate": "14/11/2026 11:21",
-            "source": "lc.nl",
+            "source": "lc.nl, weblog.independer.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgpremie De Friesland 2027 bekend: stijging van \u20ac 6 - Independer.nl",
+                    "source": "weblog.independer.nl",
+                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-friesland-2027-bekend-stijging-van-e-6/",
+                    "publishedDate": "14/11/2026 04:11"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -710,23 +750,19 @@
             "title": "Zorgpremie 2027: Achmea legt \u20ac400 miljoen bij, CZ \u20ac20 mln - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/samenleving/je-buurman-bij-zilveren-kruis-betaalt-eur570-meer-jij-bij-cz-eur1726-het-verschil-komt-uit-de-spaarpot-van-je-verzekeraa",
             "publishedDate": "14/11/2026 10:55",
-            "source": "welingelichtekringen.nl",
+            "source": "nl.headtopics.com, welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
-            "link": "https://www.bd.nl/gezond/grote-premieverschillen-tussen-de-basiszorgverzekeringen-tot-wel-650-euro-per-jaar~ae3cb2346/",
-            "publishedDate": "14/11/2026 10:06",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Directeur CZ legt uit waarom zorgpremie hard stijgt: 'Doordachte keuze' | Zorg - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/directeur-cz-legt-uit-waarom-zorgpremie-hard-stijgt-89832223",
+                    "publishedDate": "13/11/2026 20:21"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Financi\u00eble crisis HOH dreigt te verergeren in december - Amigoe Aruba",
@@ -857,17 +893,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgpremie De Friesland 2027 bekend: stijging van \u20ac 6 - Independer.nl",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-friesland-2027-bekend-stijging-van-e-6/",
-            "publishedDate": "14/11/2026 04:11",
-            "source": "weblog.independer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "ONVZ: Zorgpremies + nieuwe basisverzekering 2027 - Independer Weblog",
             "link": "https://weblog.independer.nl/zorgverzekeringen/onvz-introduceert-nieuwe-basisverzekering-in-2027-en-verhoogt-premies-met-1130-en-1750-per-maand/",
             "publishedDate": "14/11/2026 03:31",
@@ -877,30 +902,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremie schiet omhoog naar gemiddeld 169 euro per maand, en dit is waarom - PZC",
-            "link": "https://www.pzc.nl/gezond/zorgpremie-schiet-omhoog-naar-gemiddeld-169-euro-per-maand-en-dit-is-waarom~a16c0928/",
-            "publishedDate": "14/11/2026 02:34",
-            "source": "bd.nl, bndestem.nl, pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Zorgpremie schiet omhoog naar gemiddeld 169 euro per maand, en dit is waarom | Nieuws",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/gezond/zorgpremie-schiet-omhoog-naar-gemiddeld-169-euro-per-maand-en-dit-is-waarom~a16c0928/",
-                    "publishedDate": "14/11/2026 02:32"
-                },
-                {
-                    "title": "Zorgpremie schiet omhoog naar gemiddeld 169 euro per maand, en dit is waarom",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/gezond/waarom-stijgt-de-premie-voor-de-zorgverzekering-zo-flink~a16c0928/",
-                    "publishedDate": "14/11/2026 02:02"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Daan van der Hoeven speelt Mensenmens in Veldhoven | Regio | ED.nl",
@@ -991,17 +992,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Directeur CZ legt uit waarom zorgpremie hard stijgt: 'Doordachte keuze' | Zorg - Head Topics",
-            "link": "https://nl.headtopics.com/news/directeur-cz-legt-uit-waarom-zorgpremie-hard-stijgt-89832223",
-            "publishedDate": "13/11/2026 20:21",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "KNMP ondertekent Actieplan Chronische Nierziekte",
             "link": "https://www.knmp.nl/actueel/nieuws/knmp-ondertekent-actieplan-chronische-nierziekte",
             "publishedDate": "13/11/2026 20:00",
@@ -1050,7 +1040,7 @@
                     "publishedDate": "13/11/2026 19:34"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Lopend Vuur: Overstappen naar een andere zorgverzekeraar vind ik te veel gedoe",
@@ -1081,17 +1071,6 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grootste prijsstijging zorpremies in 15 jaar: dit is de goedkoopste zorgverzekeraar",
-            "link": "https://www.margriet.nl/goed-met-geld/zorgpremie-2027-waarom-duurder~e7dc245",
-            "publishedDate": "13/11/2026 18:22",
-            "source": "margriet.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
@@ -1133,19 +1112,25 @@
             "title": "Grote zorgverzekeraars maken premies voor 2027 bekend - Haarlems Dagblad",
             "link": "https://www.haarlemsdagblad.nl/binnenland/grote-zorgverzekeraars-maken-premies-voor-2027-bekend/164499798.html",
             "publishedDate": "13/11/2026 17:03",
-            "source": "haarlemsdagblad.nl, nieuws.nl",
+            "source": "cnv.nl, haarlemsdagblad.nl, nieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Grote zorgverzekeraars maken premies voor 2027 bekend - Nieuws.nl",
                     "source": "nieuws.nl",
                     "link": "https://nieuws.nl/algemeen/grote-zorgverzekeraars-maken-premies-voor-2027-bekend",
                     "publishedDate": "13/11/2026 15:03"
+                },
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -1181,17 +1166,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Grootste stijging zorgpremie in jaren, maar de verschillen zijn groot | Nieuws | De Stentor.nl",
-            "link": "https://www.destentor.nl/economie/grootste-premiestijging-in-jaren-check-hier-jouw-verzekering~a7d268a1/",
-            "publishedDate": "13/11/2026 15:55",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "[NU'91] Duurzame inzetbaarheid belangrijk thema tijdens cao-onderhandelingen ziekenhuizen",
@@ -1296,7 +1270,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1325,7 +1299,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1349,17 +1323,6 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
