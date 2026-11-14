@@ -121,7 +121,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "E\u00e9n persoon naar ziekenhuis na woningbrand in Almelo - RTV Oost",
@@ -398,6 +398,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "DNA-volgorde van vrouw vastgesteld",
+            "link": "https://www.rd.nl/artikel/dna-volgorde-van-vrouw-vastgesteld",
+            "publishedDate": "14/11/2026 05:03",
+            "source": "rd.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "AI raadt duurdere zorg aan: meer onderzoeken en verwijzingen - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/viewer/magazine/DAKbe0015C01/article/EAKbe2646S41_00",
             "publishedDate": "14/11/2026 04:43",
@@ -514,7 +525,7 @@
                     "publishedDate": "14/11/2026 02:02"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Daan van der Hoeven speelt Mensenmens in Veldhoven | Regio | ED.nl",
@@ -586,30 +597,11 @@
             "title": "12 maanden cel voor oud-huisarts Pieter S. om misbruik - Moordplekken.nl",
             "link": "https://www.moordplekken.nl/nieuws/12-maanden-cel-oud-huisarts-pieter-s-misbruik-kwetsbare-patiente-autisme-den-bosch",
             "publishedDate": "14/11/2026 00:05",
-            "source": "ad.nl, ed.nl, moordplekken.nl, omroepbrabant.nl",
+            "source": "moordplekken.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 20:51"
-                },
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:23"
-                },
-                {
-                    "title": "Oud-huisarts moet jaar de cel in voor seksueel misbruiken van pati\u00ebnte - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6034744/oud-huisarts-moet-jaar-de-cel-in-voor-seksueel-misbruiken-van-patiente",
-                    "publishedDate": "13/11/2026 18:22"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -694,6 +686,24 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
+            "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+            "publishedDate": "13/11/2026 20:51",
+            "source": "ad.nl, ed.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:23"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -853,6 +863,17 @@
             "source": "margriet.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Oud-huisarts moet jaar de cel in voor seksueel misbruiken van pati\u00ebnte - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6034744/oud-huisarts-moet-jaar-de-cel-in-voor-seksueel-misbruiken-van-patiente",
+            "publishedDate": "13/11/2026 18:22",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1063,7 +1084,7 @@
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gynaecologie zorg geschrapt Martini Ziekenhuis: overgang, endometriose en spiraaltje",
@@ -1266,18 +1287,11 @@
             "title": "Zorg Kortrijk kantelt zorgpersoneel Zusters Augustinessen in stedelijke werking in - KW.be",
             "link": "https://kw.be/nieuws/samenleving/gezondheid/verzorging/zorg-kortrijk-kantelt-zorgpersoneel-zusters-augustinessen-in-stedelijke-werking-in-sociaal-akkoord-geeft-duidelijkheid-en-vertrouwen/",
             "publishedDate": "13/11/2026 15:09",
-            "source": "kw.be, pers.kortrijk.be",
+            "source": "kw.be",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zorg Kortrijk verankert publieke zorg door volledige inkanteling van zorgpersoneel in ...",
-                    "source": "pers.kortrijk.be",
-                    "link": "https://pers.kortrijk.be/269798-zorg-kortrijk-verankert-publieke-zorg-door-volledige-inkanteling-van-zorgpersoneel-in-stedelijke-werking-sociaal-akkoord-bereikt/",
-                    "publishedDate": "13/11/2026 13:18"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1375,6 +1389,17 @@
             "source": "streekgids.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorg Kortrijk verankert publieke zorg door volledige inkanteling van zorgpersoneel in ...",
+            "link": "https://pers.kortrijk.be/269798-zorg-kortrijk-verankert-publieke-zorg-door-volledige-inkanteling-van-zorgpersoneel-in-stedelijke-werking-sociaal-akkoord-bereikt/",
+            "publishedDate": "13/11/2026 13:18",
+            "source": "pers.kortrijk.be",
+            "category": "Overig",
+            "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1504,7 +1529,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
