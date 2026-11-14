@@ -121,30 +121,17 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "E\u00e9n persoon naar ziekenhuis na woningbrand in Almelo - RTV Oost",
             "link": "https://www.oost.nl/nieuws/3719487/een-persoon-naar-ziekenhuis-na-woningbrand-in-almelo",
             "publishedDate": "14/11/2026 10:10",
-            "source": "112brabant.nl, dtvnieuws.nl, oost.nl",
+            "source": "oost.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Stikstoftank explodeert, \u00e9\u00e9n persoon naar ziekenhuis - DTV Nieuws",
-                    "source": "dtvnieuws.nl",
-                    "link": "https://dtvnieuws.nl/nieuws/artikel/stikstoftank-explodeert-een-persoon-naar-ziekenhuis",
-                    "publishedDate": "14/11/2026 09:28"
-                },
-                {
-                    "title": "Stikstoftank ontploft bij bedrijf, \u00e9\u00e9n persoon naar ziekenhuis - 112Brabant",
-                    "source": "112brabant.nl",
-                    "link": "https://112brabant.nl/2026/11/14/stikstoftank-ontploft-bij-bedrijf-n-persoon-naar-ziekenhuis/",
-                    "publishedDate": "14/11/2026 08:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -167,6 +154,24 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Stikstoftank explodeert, \u00e9\u00e9n persoon naar ziekenhuis - DTV Nieuws",
+            "link": "https://dtvnieuws.nl/nieuws/artikel/stikstoftank-explodeert-een-persoon-naar-ziekenhuis",
+            "publishedDate": "14/11/2026 09:28",
+            "source": "112brabant.nl, dtvnieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Stikstoftank ontploft bij bedrijf, \u00e9\u00e9n persoon naar ziekenhuis - 112Brabant",
+                    "source": "112brabant.nl",
+                    "link": "https://112brabant.nl/2026/11/14/stikstoftank-ontploft-bij-bedrijf-n-persoon-naar-ziekenhuis/",
+                    "publishedDate": "14/11/2026 08:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -509,7 +514,7 @@
                     "publishedDate": "14/11/2026 02:02"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Daan van der Hoeven speelt Mensenmens in Veldhoven | Regio | ED.nl",
@@ -581,11 +586,30 @@
             "title": "12 maanden cel voor oud-huisarts Pieter S. om misbruik - Moordplekken.nl",
             "link": "https://www.moordplekken.nl/nieuws/12-maanden-cel-oud-huisarts-pieter-s-misbruik-kwetsbare-patiente-autisme-den-bosch",
             "publishedDate": "14/11/2026 00:05",
-            "source": "moordplekken.nl",
+            "source": "ad.nl, ed.nl, moordplekken.nl, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 20:51"
+                },
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:23"
+                },
+                {
+                    "title": "Oud-huisarts moet jaar de cel in voor seksueel misbruiken van pati\u00ebnte - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6034744/oud-huisarts-moet-jaar-de-cel-in-voor-seksueel-misbruiken-van-patiente",
+                    "publishedDate": "13/11/2026 18:22"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -673,24 +697,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-            "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-            "publishedDate": "13/11/2026 20:51",
-            "source": "ad.nl, ed.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:23"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Stageaanbod in de zorg groeit ondanks landelijke daling - ICT&amp;health",
             "link": "https://www.icthealth.nl/nieuws/stageaanbod-in-de-zorg-groeit-ondanks-landelijke-daling",
             "publishedDate": "13/11/2026 20:51",
@@ -772,7 +778,7 @@
                     "publishedDate": "13/11/2026 19:34"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Lopend Vuur: Overstappen naar een andere zorgverzekeraar vind ik te veel gedoe",
@@ -803,7 +809,7 @@
             "source": "barendrechtsdagblad.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -847,17 +853,6 @@
             "source": "margriet.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Oud-huisarts moet jaar de cel in voor seksueel misbruiken van pati\u00ebnte - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6034744/oud-huisarts-moet-jaar-de-cel-in-voor-seksueel-misbruiken-van-patiente",
-            "publishedDate": "13/11/2026 18:22",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1068,7 +1063,7 @@
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Gynaecologie zorg geschrapt Martini Ziekenhuis: overgang, endometriose en spiraaltje",
@@ -1271,11 +1266,18 @@
             "title": "Zorg Kortrijk kantelt zorgpersoneel Zusters Augustinessen in stedelijke werking in - KW.be",
             "link": "https://kw.be/nieuws/samenleving/gezondheid/verzorging/zorg-kortrijk-kantelt-zorgpersoneel-zusters-augustinessen-in-stedelijke-werking-in-sociaal-akkoord-geeft-duidelijkheid-en-vertrouwen/",
             "publishedDate": "13/11/2026 15:09",
-            "source": "kw.be",
+            "source": "kw.be, pers.kortrijk.be",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorg Kortrijk verankert publieke zorg door volledige inkanteling van zorgpersoneel in ...",
+                    "source": "pers.kortrijk.be",
+                    "link": "https://pers.kortrijk.be/269798-zorg-kortrijk-verankert-publieke-zorg-door-volledige-inkanteling-van-zorgpersoneel-in-stedelijke-werking-sociaal-akkoord-bereikt/",
+                    "publishedDate": "13/11/2026 13:18"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1345,17 +1347,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgpremies opnieuw hard omhoog. Meer marktwerking moest de zorg beter en ... - NRC",
-            "link": "https://www.nrc.nl/nieuws/2026/11/13/zorgpremies-opnieuw-hard-omhoog-meer-marktwerking-moest-de-zorg-beter-en-betaalbaarder-maken-twintig-jaar-geleden-hoe-pakt-dat-nu-uit-a4940543",
-            "publishedDate": "13/11/2026 13:30",
-            "source": "nrc.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Doorhaling gz-psycholoog/ psychotherapeut vanwege grensoverschrijdend gedrag",
             "link": "https://www.tuchtcollege-gezondheidszorg.nl/actueel/nieuws/2026/11/13/doorhaling-gz-psycholoog-psychotherapeut-vanwege-grensoverschrijdend-gedrag",
             "publishedDate": "13/11/2026 13:30",
@@ -1384,17 +1375,6 @@
             "source": "streekgids.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorg Kortrijk verankert publieke zorg door volledige inkanteling van zorgpersoneel in ...",
-            "link": "https://pers.kortrijk.be/269798-zorg-kortrijk-verankert-publieke-zorg-door-volledige-inkanteling-van-zorgpersoneel-in-stedelijke-werking-sociaal-akkoord-bereikt/",
-            "publishedDate": "13/11/2026 13:18",
-            "source": "pers.kortrijk.be",
-            "category": "Overig",
-            "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1586,17 +1566,6 @@
             "source": "ditishelmond.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kinderen ervaren de gezondheidsgevolgen van bepaalde omgevingsfactoren soms tot ver ...",
-            "link": "https://www.mariabode.nl/kinderen-ervaren-de-gezondheidsgevolgen-van-bepaalde-omgevingsfactoren-soms-tot-ver-in-de-puberteit/amp/",
-            "publishedDate": "13/11/2026 10:17",
-            "source": "mariabode.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
