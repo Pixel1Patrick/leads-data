@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Gronings bedrijf QT Sense uitgeroepen tot meest innovatieve bedrijf van Nederland",
+            "link": "https://www.rtvnoord.nl/economie/1452433/gronings-bedrijf-qt-sense-uitgeroepen-tot-meest-innovatieve-bedrijf-van-nederland",
+            "publishedDate": "14/11/2026 13:21",
+            "source": "rtvnoord.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Mentale gezondheid tijdens coronapandemie minder uniform dan gedacht - - GGZ nieuws",
             "link": "https://www.ggznieuws.nl/mentale-gezondheid-tijdens-coronapandemie-minder-uniform-dan-gedacht/",
             "publishedDate": "14/11/2026 12:23",
@@ -66,6 +77,17 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Zestien Duitse schoolkinderen naar ziekenhuis na eten van muffins met batterijen - BNR",
+            "link": "https://www.bnr.nl/nieuws/juridisch/10615592/zestien-duitse-schoolkinderen-naar-ziekenhuis-na-eten-van-muffins-met-batterijen",
+            "publishedDate": "14/11/2026 11:37",
+            "source": "bnr.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -80,13 +102,37 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Microsoft lost wereldwijde storing zaterdagochtend eindelijk op na twee dagen chaos",
+            "link": "https://www.ed.nl/tech/microsoft-lost-wereldwijde-storing-zaterdagochtend-eindelijk-op-na-twee-dagen-chaos~a707e134/",
+            "publishedDate": "14/11/2026 11:14",
+            "source": "ed.nl, jeroenboschziekenhuis.nl, nrc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Storing bij Microsoft: wat betekent het voor jou? (update) | Jeroen Bosch Ziekenhuis",
+                    "source": "jeroenboschziekenhuis.nl",
+                    "link": "https://www.jeroenboschziekenhuis.nl/nieuws/storing-bij-microsoft-wat-betekent-het-voor-jou-update",
+                    "publishedDate": "14/11/2026 10:07"
+                },
+                {
+                    "title": "Microsoft boekt vooruitgang met verhelpen storing - NRC",
+                    "source": "nrc.nl",
+                    "link": "https://www.nrc.nl/nieuws/2026/11/13/microsoft-boekt-vooruitgang-met-verhelpen-storing-a4941341",
+                    "publishedDate": "14/11/2026 02:35"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zorgpremie 2027: Achmea legt \u20ac400 miljoen bij, CZ \u20ac20 mln - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/samenleving/je-buurman-bij-zilveren-kruis-betaalt-eur570-meer-jij-bij-cz-eur1726-het-verschil-komt-uit-de-spaarpot-van-je-verzekeraa",
             "publishedDate": "14/11/2026 10:55",
-            "source": "bd.nl, bndestem.nl, cnv.nl, dvhn.nl, nl.headtopics.com, omroepbrabant.nl, pzc.nl, weblog.independer.nl, welingelichtekringen.nl",
+            "source": "bd.nl, bndestem.nl, cnv.nl, dvhn.nl, nl.headtopics.com, nrc.nl, omroepbrabant.nl, pzc.nl, weblog.independer.nl, welingelichtekringen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 13,
+            "duplicate_count": 15,
             "extra_bronnen": [
                 {
                     "title": "Zorgpremie De Friesland 2027 bekend: stijging van \u20ac 6 - Independer.nl",
@@ -125,6 +171,12 @@
                     "publishedDate": "14/11/2026 02:02"
                 },
                 {
+                    "title": "Waarom je bij CZ \u20ac 12 per maand meer betaalt dan bij Zilveren Kruis - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/waarom-je-bij-cz-e-12-per-maand-meer-betaalt-dan-bij-zilveren-kruis",
+                    "publishedDate": "13/11/2026 17:25"
+                },
+                {
                     "title": "Zorgpremie De christelijke zorgverzekeraar 2027 stijgt naar \u20ac 160,95 per maand",
                     "source": "weblog.independer.nl",
                     "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-christelijke-zorgverzekeraar-2027-stijgt-naar-e-16095-per-maand/",
@@ -135,6 +187,12 @@
                     "source": "dvhn.nl",
                     "link": "https://www.dvhn.nl/lifestyle/gezond/alle-zorgverzekeraars-verhogen-hun-premie.-bekijk-en-vergelijk-hier-wat-je-in-2027-betaalt-voor-jouw-polis/164435383.html",
                     "publishedDate": "13/11/2026 16:05"
+                },
+                {
+                    "title": "Zorgpremies opnieuw hard omhoog. Meer marktwerking moest de zorg beter en ... - NRC",
+                    "source": "nrc.nl",
+                    "link": "https://www.nrc.nl/nieuws/2026/11/13/zorgpremies-opnieuw-hard-omhoog-meer-marktwerking-moest-de-zorg-beter-en-betaalbaarder-maken-twintig-jaar-geleden-hoe-pakt-dat-nu-uit-a4940543",
+                    "publishedDate": "13/11/2026 13:30"
                 },
                 {
                     "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
@@ -154,30 +212,6 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Storing bij Microsoft: wat betekent het voor jou? (update) | Jeroen Bosch Ziekenhuis",
-            "link": "https://www.jeroenboschziekenhuis.nl/nieuws/storing-bij-microsoft-wat-betekent-het-voor-jou-update",
-            "publishedDate": "14/11/2026 10:07",
-            "source": "jeroenboschziekenhuis.nl, nos.nl, nrc.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Microsoft boekt vooruitgang met verhelpen storing - NRC",
-                    "source": "nrc.nl",
-                    "link": "https://www.nrc.nl/nieuws/2026/11/13/microsoft-boekt-vooruitgang-met-verhelpen-storing-a4941341",
-                    "publishedDate": "14/11/2026 02:35"
-                },
-                {
-                    "title": "Microsoft biedt excuses aan na urenlange storing bij onder meer Outlook - NOS",
-                    "source": "nos.nl",
-                    "link": "http://nos.nl/artikel/2639353-microsoft-biedt-excuses-aan-na-urenlange-storing-bij-onder-meer-outlook",
-                    "publishedDate": "13/11/2026 20:35"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -261,6 +295,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Deze stokoude varkensstal is nu de zelfgebouwde droomwereld van Marleen (36) en Sander (38)",
+            "link": "https://www.tubantia.nl/apeldoorn/deze-stokoude-varkensstal-is-nu-de-zelfgebouwde-droomwereld-van-marleen-36-en-sander-38~a660da15/",
+            "publishedDate": "14/11/2026 07:54",
+            "source": "tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Paul Van Himst ligt in het ziekenhuis, Eddy Merckx komt met update over gezondheid",
             "link": "https://www.voetbalkrant.com/nieuws/2026-11-13/paul-van-himst-ligt-in-het-ziekenhuis-eddy-merckx-komt-met-update-over-gezondheid",
             "publishedDate": "14/11/2026 07:51",
@@ -338,6 +383,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "VN: Isra\u00eblische aanvallen brengen zorg Gaza op rand van instorten, zeven doden bij ...",
+            "link": "https://nieuws.marokko.nl/119110/vn-israelische-aanvallen-brengen-zorg-gaza-op-rand-van-instorten-zeven-doden-bij-nieuwe-ziekenhuisaanval/",
+            "publishedDate": "14/11/2026 06:13",
+            "source": "nieuws.marokko.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Een derde van de diabetespati\u00ebnten in Belgi\u00eb weet het niet: 'Ik lag bijna in coma bij ... - De Morgen",
             "link": "https://www.demorgen.be/nieuws/een-derde-van-de-diabetespatienten-in-belgie-weet-het-niet-ik-lag-bijna-in-coma-bij-de-huisarts-en-moest-drie-dagen-aan-het-insuline-infuus~bb0bd7c7/",
             "publishedDate": "14/11/2026 06:03",
@@ -355,6 +411,17 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ziekenhuis wil garantie op operatie geven - Reformatorisch Dagblad",
+            "link": "https://www.rd.nl/artikel/ziekenhuis-wil-garantie-op-operatie-geven",
+            "publishedDate": "14/11/2026 05:36",
+            "source": "rd.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -437,6 +504,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "AI halveert beoordelingstijd van ECG's door cardiologen - ICT&amp;health",
+            "link": "https://www.icthealth.nl/nieuws/ai-halveert-beoordelingstijd-van-ecgs-door-cardiologen",
+            "publishedDate": "14/11/2026 02:01",
+            "source": "icthealth.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Promoties UMCG | Faculteit Medische Wetenschappen - Rijksuniversiteit Groningen",
             "link": "https://www.rug.nl/umcg/phd-ceremonies-umcg?hfId=124532",
             "publishedDate": "14/11/2026 01:49",
@@ -495,30 +573,11 @@
             "title": "12 maanden cel voor oud-huisarts Pieter S. om misbruik - Moordplekken.nl",
             "link": "https://www.moordplekken.nl/nieuws/12-maanden-cel-oud-huisarts-pieter-s-misbruik-kwetsbare-patiente-autisme-den-bosch",
             "publishedDate": "14/11/2026 00:05",
-            "source": "ad.nl, ed.nl, moordplekken.nl, omroepbrabant.nl",
+            "source": "moordplekken.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 20:51"
-                },
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:23"
-                },
-                {
-                    "title": "Oud-huisarts moet jaar de cel in voor seksueel misbruiken van pati\u00ebnte - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6034744/oud-huisarts-moet-jaar-de-cel-in-voor-seksueel-misbruiken-van-patiente",
-                    "publishedDate": "13/11/2026 18:22"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -539,17 +598,6 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Advies van de Nationale Paritaire Commissie artsen-ziekenhuizen over het stabiliseren van ...",
-            "link": "https://overlegorganen.gezondheid.belgie.be/nl/documenten/advies-van-de-nationale-paritaire-commissie-artsen-ziekenhuizen-over-het-stabiliseren",
-            "publishedDate": "13/11/2026 22:18",
-            "source": "overlegorganen.gezondheid.belgie.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -588,28 +636,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Evaluatieonderzoek: Ervaringsdeskundigen in algemene ziekenhuizen | Trefpunt Zelfhulp",
-            "link": "https://www.zelfhulp.be/onderzoek/zelfhulp-in-vlaanderen/evaluatieonderzoek-ervaringsdeskundigen-in-algemene-ziekenhuizen",
-            "publishedDate": "13/11/2026 21:28",
-            "source": "zelfhulp.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremie omhoog? Zo bespaar je op je zorgverzekering | De Telegraaf",
-            "link": "https://www.telegraaf.nl/financieel/premies-naar-recordhoogte-met-deze-adviezen-van-experts-kun-je-toch-besparen-op-je-zorgverzekering/164507916.html",
-            "publishedDate": "13/11/2026 21:16",
-            "source": "telegraaf.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Dylan (28) waagt zich aan recordpoging onafgebroken toogzitten in caf\u00e9 - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/brugge/dylan-28-waagt-zich-aan-recordpoging-onafgebroken-toogzitten-in-cafe-huisarts-en-kinesist-staan-paraat/164508126.html",
             "publishedDate": "13/11/2026 21:02",
@@ -639,6 +665,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
+            "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+            "publishedDate": "13/11/2026 20:51",
+            "source": "ad.nl, ed.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:23"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Stageaanbod in de zorg groeit ondanks landelijke daling - ICT&amp;health",
             "link": "https://www.icthealth.nl/nieuws/stageaanbod-in-de-zorg-groeit-ondanks-landelijke-daling",
             "publishedDate": "13/11/2026 20:51",
@@ -650,34 +694,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zutphen, Gelre ziekenhuizen \u2022 Stop - Transitland",
-            "link": "https://www.transit.land/explore/stops/s-u1k2t2znyc-zutphengelreziekenhuizen",
-            "publishedDate": "13/11/2026 20:44",
-            "source": "transit.land",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Belastingplan komt nog vier zetels tekort in Eerste Kamer - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/samenleving/belastingplan-komt-nog-vier-zetels-tekort-in-eerste-kamer",
             "publishedDate": "13/11/2026 20:43",
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dyania Health draait Synapsis AI op GPU-systemen die eigendom zijn van ziekenhuizen",
-            "link": "https://www.unite.ai/nl/dyania-health-runs-synapsis-ai-on-hospital-owned-gpu-systems/",
-            "publishedDate": "13/11/2026 20:35",
-            "source": "unite.ai",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -742,7 +764,7 @@
                     "publishedDate": "13/11/2026 19:34"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Lopend Vuur: Overstappen naar een andere zorgverzekeraar vind ik te veel gedoe",
@@ -786,7 +808,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Lelystad sluit 2027 met zwarte cijfers, maar daarna dreigt een miljoenentekort: 'Zeer onverstandig'",
@@ -795,17 +817,6 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Campagne niet-automatische weeginstrumenten gebruikt in ziekenhuizen, dokterspraktijken ...",
-            "link": "https://economie.fgov.be/nl/file/7475191/download?token=LD70mLlO",
-            "publishedDate": "13/11/2026 18:35",
-            "source": "economie.fgov.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -828,6 +839,17 @@
             "source": "margriet.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Oud-huisarts moet jaar de cel in voor seksueel misbruiken van pati\u00ebnte - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6034744/oud-huisarts-moet-jaar-de-cel-in-voor-seksueel-misbruiken-van-patiente",
+            "publishedDate": "13/11/2026 18:22",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -910,17 +932,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Waarom je bij CZ \u20ac 12 per maand meer betaalt dan bij Zilveren Kruis - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/waarom-je-bij-cz-e-12-per-maand-meer-betaalt-dan-bij-zilveren-kruis",
-            "publishedDate": "13/11/2026 17:25",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Jeugdreclassering 2025, nader voorlopige cijfers - CBS",
             "link": "https://www.cbs.nl/nl-nl/maatwerk/2026/46/jeugdreclassering-2025-nader-voorlopige-cijfers",
             "publishedDate": "13/11/2026 17:23",
@@ -993,16 +1004,22 @@
             "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Nieuwsbode",
             "link": "https://www.nieuwsbode.info/nieuws/algemeen/124092/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
             "publishedDate": "13/11/2026 17:08",
-            "source": "nieuwsbode.info, oostermoer.info",
+            "source": "instagram.com, nieuwsbode.info, oostermoer.info",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Oostermoer",
                     "source": "oostermoer.info",
                     "link": "https://www.oostermoer.info/nieuws/algemeen/124081/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
                     "publishedDate": "13/11/2026 14:35"
+                },
+                {
+                    "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
+                    "source": "instagram.com",
+                    "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
+                    "publishedDate": "13/11/2026 09:20"
                 }
             ],
             "belangrijkheid": 0
@@ -1300,17 +1317,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgpremies opnieuw hard omhoog. Meer marktwerking moest de zorg beter en ... - NRC",
-            "link": "https://www.nrc.nl/nieuws/2026/11/13/zorgpremies-opnieuw-hard-omhoog-meer-marktwerking-moest-de-zorg-beter-en-betaalbaarder-maken-twintig-jaar-geleden-hoe-pakt-dat-nu-uit-a4940543",
-            "publishedDate": "13/11/2026 13:30",
-            "source": "nrc.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Doorhaling gz-psycholoog/ psychotherapeut vanwege grensoverschrijdend gedrag",
             "link": "https://www.tuchtcollege-gezondheidszorg.nl/actueel/nieuws/2026/11/13/doorhaling-gz-psycholoog-psychotherapeut-vanwege-grensoverschrijdend-gedrag",
             "publishedDate": "13/11/2026 13:30",
@@ -1350,17 +1356,6 @@
             "source": "dongen.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Joke Bleys: \u201cMinderjarigen moeten erop\u2026 - Orde van Vlaamse Balies",
-            "link": "https://www.ordevanvlaamsebalies.be/nl/nieuws-en-events/joke-bleys-minderjarigen-moeten-erop-kunnen-vertrouwen-dat-hun-advocaat-zegt-wat-zij-zelf-willen-zeggen",
-            "publishedDate": "13/11/2026 12:53",
-            "source": "ordevanvlaamsebalies.be",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1446,24 +1441,13 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Waarom Belgi\u00eb goed scoort op zorgpersoneel, maar na operaties vaker sepsis ziet dan het ...",
-            "link": "https://www.demorgen.be/nieuws/waarom-belgie-goed-scoort-op-zorgpersoneel-maar-na-operaties-vaker-sepsis-ziet-dan-het-europese-gemiddelde~b089dd89/",
-            "publishedDate": "13/11/2026 11:57",
-            "source": "demorgen.be",
-            "category": "Overig",
-            "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Handreiking Mobiliteitsplan Zorgsector",
             "link": "https://nvz-ziekenhuizen.nl/actualiteit-en-opinie/handreiking-mobiliteitsplan-zorgsector",
             "publishedDate": "13/11/2026 11:54",
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1501,7 +1485,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1530,7 +1514,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1554,7 +1538,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Politieke column: 'Ouderen zijn geen kostenpost' - Ditishelmond.nl",
@@ -1574,28 +1558,6 @@
             "source": "mariabode.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
-            "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
-            "publishedDate": "13/11/2026 09:20",
-            "source": "instagram.com",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Sensoren ontlasten oudere cli\u00ebnten met diabetes en leveren zorgorganisatie Omring tijd op",
-            "link": "https://www.zonmw.nl/nl/artikel/sensoren-ontlasten-oudere-clienten-met-diabetes-en-leveren-zorgorganisatie-omring-tijd-op",
-            "publishedDate": "13/11/2026 08:49",
-            "source": "zonmw.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1711,7 +1673,7 @@
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De huisarts is meer dan een consult: tijd voor een eerlijke waardering",
