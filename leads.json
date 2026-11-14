@@ -135,11 +135,18 @@
             "title": "Auto belandt in sloot in Helmond, man met verwondingen naar ziekenhuis - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/video/5008517/Auto-belandt-in-sloot-in-Helmond-man-met-verwondingen-naar-ziekenhuis",
             "publishedDate": "13/11/2026 21:43",
-            "source": "omroepbrabant.nl",
+            "source": "ed.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Auto belandt in sloot in Helmond: man naar ziekenhuis, vrouw met schrik vrij",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/play/productie/auto-belandt-in-sloot-in-helmond-man-naar-ziekenhuis-vrouw-met-schrik-vrij-15021808",
+                    "publishedDate": "13/11/2026 19:20"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -277,33 +284,16 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_13",
                     "publishedDate": "13/11/2026 19:34"
-                },
-                {
-                    "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_7",
-                    "publishedDate": "13/11/2026 19:01"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Auto belandt in sloot in Helmond: man naar ziekenhuis, vrouw met schrik vrij",
-            "link": "https://www.ed.nl/play/productie/auto-belandt-in-sloot-in-helmond-man-naar-ziekenhuis-vrouw-met-schrik-vrij-15021808",
-            "publishedDate": "13/11/2026 19:20",
-            "source": "ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Rechtbank: ziekenhuis Nij Smellinghe moet stoppen met specialistische nierkankerzorg",
@@ -345,6 +335,17 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
+            "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_7",
+            "publishedDate": "13/11/2026 19:01",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -612,11 +613,18 @@
             "title": "Grote zorgverzekeraars maken premies voor 2027 bekend - Haarlems Dagblad",
             "link": "https://www.haarlemsdagblad.nl/binnenland/grote-zorgverzekeraars-maken-premies-voor-2027-bekend/164499798.html",
             "publishedDate": "13/11/2026 17:03",
-            "source": "haarlemsdagblad.nl",
+            "source": "haarlemsdagblad.nl, nieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Grote zorgverzekeraars maken premies voor 2027 bekend - Nieuws.nl",
+                    "source": "nieuws.nl",
+                    "link": "https://nieuws.nl/algemeen/grote-zorgverzekeraars-maken-premies-voor-2027-bekend",
+                    "publishedDate": "13/11/2026 15:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -794,11 +802,24 @@
             "title": "Zorgpremie De christelijke zorgverzekeraar 2027 stijgt naar \u20ac 160,95 per maand",
             "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-christelijke-zorgverzekeraar-2027-stijgt-naar-e-16095-per-maand/",
             "publishedDate": "13/11/2026 16:06",
-            "source": "weblog.independer.nl",
+            "source": "destentor.nl, hetdeventernieuws.nl, weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgpremie schiet omhoog naar gemiddeld 169 euro per maand, en dit is waarom | Nieuws",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/gezond/zorgpremie-schiet-omhoog-naar-gemiddeld-169-euro-per-maand-en-dit-is-waarom~a16c0928/",
+                    "publishedDate": "13/11/2026 16:03"
+                },
+                {
+                    "title": "Basisverzekering Salland Zorgverzekeraar stijgt naar 171,45 euro per maand - Het Deventer Nieuws",
+                    "source": "hetdeventernieuws.nl",
+                    "link": "https://www.hetdeventernieuws.nl/2026/11/13/basisverzekering-salland-zorgverzekeraar-stijgt-naar-17145-euro-per-maand/",
+                    "publishedDate": "13/11/2026 06:27"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -819,17 +840,6 @@
             "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremie schiet omhoog naar gemiddeld 169 euro per maand, en dit is waarom | Nieuws",
-            "link": "https://www.destentor.nl/gezond/zorgpremie-schiet-omhoog-naar-gemiddeld-169-euro-per-maand-en-dit-is-waarom~a16c0928/",
-            "publishedDate": "13/11/2026 16:03",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -920,7 +930,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Pancreaskanker neemt sterk toe: onderzoekers willen meer daadkracht van het beleid",
@@ -1017,7 +1027,7 @@
             "source": "rodi.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1201,17 +1211,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgverzekering fors duurder in 2027: flinke verschil tussen verzekeraars",
-            "link": "https://www.hartvannederland.nl/economie/geld/artikelen/zorgpremie-2027-overzicht-zorgverzekeraars-cz-vgz-menzis-zilveren-kruis",
-            "publishedDate": "13/11/2026 12:05",
-            "source": "hartvannederland.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "'We moeten vertellen wat we allemaal doen in de openbare apotheek' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/achtergrondartikel/2026-11/we-moeten-vertellen-wat-we-allemaal-doen-de-openbare-apotheek",
             "publishedDate": "13/11/2026 12:03",
@@ -1229,17 +1228,6 @@
             "source": "pw.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremie Zilveren Kruis en andere labels Achmea stijgen in 2027 | Overstappen.nl",
-            "link": "https://www.overstappen.nl/nieuws/zorgpremie-zilveren-kruis-en-andere-labels-achmea-stijgen-in-2027/",
-            "publishedDate": "13/11/2026 12:03",
-            "source": "overstappen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1300,7 +1288,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1506,17 +1494,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Basisverzekering Salland Zorgverzekeraar stijgt naar 171,45 euro per maand - Het Deventer Nieuws",
-            "link": "https://www.hetdeventernieuws.nl/2026/11/13/basisverzekering-salland-zorgverzekeraar-stijgt-naar-17145-euro-per-maand/",
-            "publishedDate": "13/11/2026 06:27",
-            "source": "hetdeventernieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Frederique presteert in wereldtop, mede dankzij baan in gehandicaptenzorg - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6034439/frederique-presteert-in-wereldtop-mede-dankzij-baan-in-gehandicaptenzorg",
             "publishedDate": "13/11/2026 06:10",
@@ -1642,17 +1619,6 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Sint-Michielsgestel is 'trots' op aanpak kleinschalige opvang asielzoekers | Regio | ED.nl",
-            "link": "https://www.ed.nl/meierijstad/sint-michielsgestel-is-trots-op-aanpak-kleinschalige-opvang-asielzoekers~aae96aa9/",
-            "publishedDate": "13/11/2026 00:52",
-            "source": "ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
