@@ -51,7 +51,7 @@
             "source": "ggznieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -394,7 +394,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Uitslaande woningbrand in Almelo, \u00e9\u00e9n persoon naar ziekenhuis - Twente FM",
@@ -723,15 +723,19 @@
             "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "ONVZ: Zorgpremies + nieuwe basisverzekering 2027 - Independer Weblog",
-                    "source": "weblog.independer.nl",
-                    "link": "https://weblog.independer.nl/zorgverzekeringen/onvz-introduceert-nieuwe-basisverzekering-in-2027-en-verhoogt-premies-met-1130-en-1750-per-maand/",
-                    "publishedDate": "14/11/2026 03:31"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "ONVZ: Zorgpremies + nieuwe basisverzekering 2027 - Independer Weblog",
+            "link": "https://weblog.independer.nl/zorgverzekeringen/onvz-introduceert-nieuwe-basisverzekering-in-2027-en-verhoogt-premies-met-1130-en-1750-per-maand/",
+            "publishedDate": "14/11/2026 03:31",
+            "source": "weblog.independer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1310,17 +1314,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Gemeente: zorg bij Pactum voor 9 Nijkerkse jongeren gewaarborgd | De Vallei - Drimble",
-            "link": "https://drimble.nl/regio/gelderland/de-vallei/108590071/gemeente-zorg-bij-pactum-voor-9-nijkerkse-jongeren-gewaarborgd.html",
-            "publishedDate": "13/11/2026 14:02",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[NU'91] Duurzame inzetbaarheid belangrijk thema tijdens cao-onderhandelingen ziekenhuizen",
             "link": "https://nu91.nl/nieuws/769-duurzame-inzetbaarheid-belangrijk-thema-tijdens-cao-onderhandelingen-ziekenhuizen",
             "publishedDate": "13/11/2026 13:39",
@@ -1358,17 +1351,6 @@
             "link": "https://streekgids.nl/gemeenteraad-bespreekt-addendum-voor-jeugdzorg-in-de-achterhoek/",
             "publishedDate": "13/11/2026 13:22",
             "source": "streekgids.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Begroting 2027: Raad eist meer grip op buitensporige kosten jeugdzorg - Dongen.nieuws.nl",
-            "link": "https://dongen.nieuws.nl/gemeente/begroting-2027-raad-eist-meer-grip-op-buitensporige-kosten-jeugdzorg",
-            "publishedDate": "13/11/2026 12:54",
-            "source": "dongen.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
@@ -1633,7 +1615,7 @@
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De huisarts is meer dan een consult: tijd voor een eerlijke waardering",
