@@ -55,18 +55,11 @@
             "title": "Microsoft boekt vooruitgang met verhelpen storing - NRC",
             "link": "https://www.nrc.nl/nieuws/2026/11/13/microsoft-boekt-vooruitgang-met-verhelpen-storing-a4941341",
             "publishedDate": "14/11/2026 02:35",
-            "source": "nos.nl, nrc.nl",
+            "source": "nrc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Microsoft biedt excuses aan na urenlange storing bij onder meer Outlook - NOS",
-                    "source": "nos.nl",
-                    "link": "http://nos.nl/artikel/2639353-microsoft-biedt-excuses-aan-na-urenlange-storing-bij-onder-meer-outlook",
-                    "publishedDate": "13/11/2026 20:35"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -97,11 +90,18 @@
             "title": "Daan van der Hoeven speelt Mensenmens in Veldhoven | Regio | ED.nl",
             "link": "https://www.ed.nl/veldhoven/daan-van-der-hoeven-speelt-mensenmens-in-veldhoven~ab69194c/",
             "publishedDate": "14/11/2026 02:07",
-            "source": "ed.nl",
+            "source": "bndestem.nl, ed.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "West-Brabantse 'sintadviseurs' zien opvolger Stefan de Walle met spanning tegemoet - BN DeStem",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/breda/west-brabantse-sintadviseurs-zien-opvolger-stefan-de-walle-met-spanning-tegemoet-wat-neemt-hij-over-en-wat-niet~ac003840/",
+                    "publishedDate": "13/11/2026 19:57"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -163,11 +163,54 @@
             "title": "12 maanden cel voor oud-huisarts Pieter S. om misbruik - Moordplekken.nl",
             "link": "https://www.moordplekken.nl/nieuws/12-maanden-cel-oud-huisarts-pieter-s-misbruik-kwetsbare-patiente-autisme-den-bosch",
             "publishedDate": "14/11/2026 00:05",
-            "source": "moordplekken.nl",
+            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl, moordplekken.nl, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 8,
+            "extra_bronnen": [
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 20:51"
+                },
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:23"
+                },
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/eindhoven/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:22"
+                },
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/eindhoven/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:20"
+                },
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts uit Budel: jaar cel voor ontucht met pati\u00ebnte",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:18"
+                },
+                {
+                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts uit Budel: jaar cel voor ontucht met pati\u00ebnte",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
+                    "publishedDate": "13/11/2026 16:17"
+                },
+                {
+                    "title": "Oud-huisarts moet jaar de cel in voor seksueel misbruiken van pati\u00ebnte - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6034744/oud-huisarts-moet-jaar-de-cel-in-voor-seksueel-misbruiken-van-patiente",
+                    "publishedDate": "13/11/2026 18:22"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -321,48 +364,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-            "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-            "publishedDate": "13/11/2026 20:51",
-            "source": "ad.nl, bd.nl, ed.nl, gelderlander.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:23"
-                },
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/eindhoven/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:22"
-                },
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/eindhoven/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:20"
-                },
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts uit Budel: jaar cel voor ontucht met pati\u00ebnte",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:18"
-                },
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts uit Budel: jaar cel voor ontucht met pati\u00ebnte",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:17"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Stageaanbod in de zorg groeit ondanks landelijke daling - ICT&amp;health",
             "link": "https://www.icthealth.nl/nieuws/stageaanbod-in-de-zorg-groeit-ondanks-landelijke-daling",
             "publishedDate": "13/11/2026 20:51",
@@ -407,6 +408,42 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Microsoft biedt excuses aan na urenlange storing bij onder meer Outlook - NOS",
+            "link": "http://nos.nl/artikel/2639353-microsoft-biedt-excuses-aan-na-urenlange-storing-bij-onder-meer-outlook",
+            "publishedDate": "13/11/2026 20:35",
+            "source": "kw.be, nieuwsblad.be, nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
+                    "publishedDate": "13/11/2026 15:49"
+                },
+                {
+                    "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
+                    "source": "kw.be",
+                    "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
+                    "publishedDate": "13/11/2026 13:52"
+                },
+                {
+                    "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
+                    "publishedDate": "13/11/2026 12:12"
+                },
+                {
+                    "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164496592.html",
+                    "publishedDate": "13/11/2026 10:59"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "KNMP ondertekent Actieplan Chronische Nierziekte",
             "link": "https://www.knmp.nl/actueel/nieuws/knmp-ondertekent-actieplan-chronische-nierziekte",
             "publishedDate": "13/11/2026 20:00",
@@ -429,36 +466,19 @@
             "belangrijkheid": 0
         },
         {
-            "title": "West-Brabantse 'sintadviseurs' zien opvolger Stefan de Walle met spanning tegemoet - BN DeStem",
-            "link": "https://www.bndestem.nl/breda/west-brabantse-sintadviseurs-zien-opvolger-stefan-de-walle-met-spanning-tegemoet-wat-neemt-hij-over-en-wat-niet~ac003840/",
-            "publishedDate": "13/11/2026 19:57",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
             "link": "https://open.overheid.nl/details/oep-ob-203ccce89bfa35ea59175f34931f50ca1b1d63fe_55",
             "publishedDate": "13/11/2026 19:55",
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_13",
                     "publishedDate": "13/11/2026 19:34"
-                },
-                {
-                    "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_7",
-                    "publishedDate": "13/11/2026 19:01"
                 }
             ],
             "belangrijkheid": 0
@@ -508,6 +528,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
+            "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_7",
+            "publishedDate": "13/11/2026 19:01",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Lelystad sluit 2027 met zwarte cijfers, maar daarna dreigt een miljoenentekort: 'Zeer onverstandig'",
             "link": "https://www.destentor.nl/lelystad/lelystad-sluit-2027-met-zwarte-cijfers-maar-daarna-dreigt-een-miljoenentekort-zeer-onverstandig~aa4383e1/",
             "publishedDate": "13/11/2026 18:59",
@@ -547,17 +578,6 @@
             "source": "margriet.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Oud-huisarts moet jaar de cel in voor seksueel misbruiken van pati\u00ebnte - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6034744/oud-huisarts-moet-jaar-de-cel-in-voor-seksueel-misbruiken-van-patiente",
-            "publishedDate": "13/11/2026 18:22",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -752,16 +772,22 @@
             "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Nieuwsbode",
             "link": "https://www.nieuwsbode.info/nieuws/algemeen/124092/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
             "publishedDate": "13/11/2026 17:08",
-            "source": "nieuwsbode.info, oostermoer.info",
+            "source": "instagram.com, nieuwsbode.info, oostermoer.info",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Oostermoer",
                     "source": "oostermoer.info",
                     "link": "https://www.oostermoer.info/nieuws/algemeen/124081/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
                     "publishedDate": "13/11/2026 14:35"
+                },
+                {
+                    "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
+                    "source": "instagram.com",
+                    "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
+                    "publishedDate": "13/11/2026 09:20"
                 }
             ],
             "belangrijkheid": 0
@@ -821,10 +847,10 @@
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
             "link": "https://open.overheid.nl/details/d6fb1a24-75ee-48a5-9370-8058d39ce040",
             "publishedDate": "13/11/2026 16:34",
-            "source": "open.overheid.nl",
+            "source": "despecialist.eu, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Nota n a v  verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -837,19 +863,14 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/3eab501e-e574-4874-a3d2-2190e1df0850",
                     "publishedDate": "13/11/2026 16:34"
+                },
+                {
+                    "title": "Huisartsen schakelen pati\u00ebnten in tegen afschaffing Impulseo - De Specialist",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/beroepsnieuws/huisartsen-schakelen-patienten-in-tegen-afschaffing-impulseo.html",
+                    "publishedDate": "13/11/2026 16:26"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Huisartsen schakelen pati\u00ebnten in tegen afschaffing Impulseo - De Specialist",
-            "link": "https://www.despecialist.eu/nl/nieuws/beroepsnieuws/huisartsen-schakelen-patienten-in-tegen-afschaffing-impulseo.html",
-            "publishedDate": "13/11/2026 16:26",
-            "source": "despecialist.eu",
-            "category": "Overig",
-            "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -938,36 +959,6 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
-            "publishedDate": "13/11/2026 15:49",
-            "source": "kw.be, nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
-                    "source": "kw.be",
-                    "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
-                    "publishedDate": "13/11/2026 13:52"
-                },
-                {
-                    "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
-                    "publishedDate": "13/11/2026 12:12"
-                },
-                {
-                    "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164496592.html",
-                    "publishedDate": "13/11/2026 10:59"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1476,17 +1467,6 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
-            "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
-            "publishedDate": "13/11/2026 09:20",
-            "source": "instagram.com",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
