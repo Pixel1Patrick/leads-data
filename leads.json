@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "BENU Apotheek-sms is nep: daarna belt een valse bank - Welingelichte Kringen",
+            "link": "https://www.welingelichtekringen.nl/samenleving/sms-van-je-apotheek-om-je-gegevens-bij-te-werken-wie-die-ene-cent-betaalt-kan-daarna-een-nepbank-aan-de-lijn-krijgen-d",
+            "publishedDate": "14/11/2026 06:16",
+            "source": "welingelichtekringen.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Een derde van de diabetespati\u00ebnten in Belgi\u00eb weet het niet: 'Ik lag bijna in coma bij ... - De Morgen",
             "link": "https://www.demorgen.be/nieuws/een-derde-van-de-diabetespatienten-in-belgie-weet-het-niet-ik-lag-bijna-in-coma-bij-de-huisarts-en-moest-drie-dagen-aan-het-insuline-infuus~bb0bd7c7/",
             "publishedDate": "14/11/2026 06:03",
@@ -49,7 +60,7 @@
                     "publishedDate": "13/11/2026 20:21"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Beste meneer Van de Walle, met weten over Gaza komt ook de verantwoordelijkheid tot handelen",
@@ -407,11 +418,36 @@
             "title": "Microsoft biedt excuses aan na urenlange storing bij onder meer Outlook - NOS",
             "link": "http://nos.nl/artikel/2639353-microsoft-biedt-excuses-aan-na-urenlange-storing-bij-onder-meer-outlook",
             "publishedDate": "13/11/2026 20:35",
-            "source": "nos.nl",
+            "source": "kw.be, nieuwsblad.be, nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
+                    "publishedDate": "13/11/2026 15:49"
+                },
+                {
+                    "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
+                    "source": "kw.be",
+                    "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
+                    "publishedDate": "13/11/2026 13:52"
+                },
+                {
+                    "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
+                    "publishedDate": "13/11/2026 12:12"
+                },
+                {
+                    "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164496592.html",
+                    "publishedDate": "13/11/2026 10:59"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -812,7 +848,7 @@
                     "publishedDate": "13/11/2026 15:03"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "UMC Utrecht raakt erkenning zeldzame tumoren kwijt, gaat toch door met behandelingen",
@@ -821,9 +857,9 @@
             "source": "ftm.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Gynaecologie zorg geschrapt Martini Ziekenhuis: overgang, endometriose en spiraaltje",
@@ -840,10 +876,10 @@
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
             "link": "https://open.overheid.nl/details/d6fb1a24-75ee-48a5-9370-8058d39ce040",
             "publishedDate": "13/11/2026 16:34",
-            "source": "cbg-meb.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Nota n a v  verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -856,18 +892,6 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/3eab501e-e574-4874-a3d2-2190e1df0850",
                     "publishedDate": "13/11/2026 16:34"
-                },
-                {
-                    "title": "Verzoek tot overname handelsvergunning Methergin",
-                    "source": "cbg-meb.nl",
-                    "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/12/verzoek-tot-overname-handelsvergunning-methergin",
-                    "publishedDate": "12/11/2026 15:00"
-                },
-                {
-                    "title": "Verzoek tot overname handelsvergunning Emend",
-                    "source": "cbg-meb.nl",
-                    "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/10/verzoek-tot-overname-handelsvergunning-emend",
-                    "publishedDate": "10/11/2026 10:00"
                 }
             ],
             "belangrijkheid": 0
@@ -947,7 +971,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "De resistentie van schimmels is nog hardnekkiger dan gedacht - Trouw",
@@ -969,7 +993,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "RMU opent steunpunt voor gewetensbezwaard zorgpersoneel",
@@ -980,36 +1004,6 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "VIDEO. Alle hens aan de telefoon bij de apotheker na Outlook-problemen - Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/video-zebra/video.-alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164500930.html",
-            "publishedDate": "13/11/2026 15:49",
-            "source": "kw.be, nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Telefoons staan roodgloeiend bij Apotheek Lamoot na Outlook-problemen - KW.be",
-                    "source": "kw.be",
-                    "link": "https://kw.be/nieuws/samenleving/gezondheid/telefoons-staan-roodgloeiend-bij-apotheek-lamoot-na-outlook-problemen-het-risico-op-fouten-wordt-groter/",
-                    "publishedDate": "13/11/2026 13:52"
-                },
-                {
-                    "title": "Wereldwijde problemen met Outlook treffen ook apotheek: \u201cRisico op fouten neemt toe\u201d",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/binnenland/wereldwijde-problemen-met-outlook-treffen-ook-apotheek-risico-op-fouten-neemt-toe/164496592.html",
-                    "publishedDate": "13/11/2026 12:12"
-                },
-                {
-                    "title": "Alle hens aan de telefoon bij de apotheker na Outlook-problemen: \u201cHet risico op fouten wordt groter\u201d",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/alle-hens-aan-de-telefoon-bij-de-apotheker-na-outlook-problemen-het-risico-op-fouten-wordt-groter/164496592.html",
-                    "publishedDate": "13/11/2026 10:59"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1065,7 +1059,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kerstkringloop draagt bij aan betere zorg voor vrouwen - St. Antonius Ziekenhuis",
@@ -1120,7 +1114,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Gemeente Dijk en Waard wil inwoners met psychische klachten sneller helpen - Rodi",
@@ -1607,17 +1601,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Dit is het verschil tussen goedkoopste en duurste zorgverzekering in 2027 - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-is-het-verschil-tussen-goedkoopste-en-duurste-zorgverzekering-in-2027",
-            "publishedDate": "13/11/2026 06:08",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Mag een zorgorganisatie gezondheidsgegevens delen met een leverancier van zorgtechnologie?",
             "link": "https://sociaalweb.nl/vragen/mag-een-zorgorganisatie-gezondheidsgegevens-delen-met-een-leverancier-van-zorgtechnologie/",
             "publishedDate": "13/11/2026 05:52",
@@ -1684,6 +1667,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Verzoek tot overname handelsvergunning Methergin",
+            "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/12/verzoek-tot-overname-handelsvergunning-methergin",
+            "publishedDate": "12/11/2026 15:00",
+            "source": "cbg-meb.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "College ter Beoordeling van Geneesmiddelen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Verzoek tot overname handelsvergunning Emend",
+                    "source": "cbg-meb.nl",
+                    "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/10/verzoek-tot-overname-handelsvergunning-emend",
+                    "publishedDate": "10/11/2026 10:00"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Cao-onderhandelingen bij arbodienstverlener HumanTotalCare gestart",
             "link": "https://www.lad.nl/cao-onderhandelingen-bij-arbodienstverlener-humantotalcare-gestart/",
             "publishedDate": "12/11/2026 12:18",
@@ -1725,7 +1726,7 @@
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "De huisarts is meer dan een consult: tijd voor een eerlijke waardering",
