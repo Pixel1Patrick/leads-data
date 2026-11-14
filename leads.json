@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Is het vergeetachtigheid of is er meer aan de hand? - Leudal.nieuws.nl",
+            "link": "https://leudal.nieuws.nl/nieuws/is-het-vergeetachtigheid-of-is-er-meer-aan-de-hand",
+            "publishedDate": "14/11/2026 14:03",
+            "source": "leudal.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Gronings bedrijf QT Sense uitgeroepen tot meest innovatieve bedrijf van Nederland",
             "link": "https://www.rtvnoord.nl/economie/1452433/gronings-bedrijf-qt-sense-uitgeroepen-tot-meest-innovatieve-bedrijf-van-nederland",
             "publishedDate": "14/11/2026 13:21",
@@ -9,6 +20,24 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Oud-huisarts uit Diepenheim bereidt massaclaim tegen Eternit voor | Regio | Tubantia.nl",
+            "link": "https://www.tubantia.nl/hof-van-twente/oud-huisarts-uit-diepenheim-bereidt-massaclaim-tegen-eternit-voor~a69cdd20/",
+            "publishedDate": "14/11/2026 13:04",
+            "source": "destentor.nl, tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Oud-huisarts uit Diepenheim bereidt massaclaim tegen Eternit voor | Regio | De Stentor.nl",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/hengelo/oud-huisarts-uit-diepenheim-bereidt-massaclaim-tegen-eternit-voor~a69cdd20/",
+                    "publishedDate": "14/11/2026 12:32"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -77,7 +106,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zestien Duitse schoolkinderen naar ziekenhuis na eten van muffins met batterijen - BNR",
@@ -692,18 +721,11 @@
             "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
             "link": "https://www.ad.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
             "publishedDate": "13/11/2026 20:51",
-            "source": "ad.nl, ed.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Rechters zien geraffineerd misbruik door oud-huisarts (69) uit Budel: jaar cel voor ontucht ...",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/cranendonck/rechters-zien-geraffineerd-misbruik-door-oud-huisarts-69-uit-budel-jaar-cel-voor-ontucht-met-patiente~a2c3468a/",
-                    "publishedDate": "13/11/2026 16:23"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1073,7 +1095,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "UMC Utrecht raakt erkenning zeldzame tumoren kwijt, gaat toch door met behandelingen",
@@ -1082,17 +1104,6 @@
             "source": "ftm.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Gynaecologie zorg geschrapt Martini Ziekenhuis: overgang, endometriose en spiraaltje",
-            "link": "https://www.dvhn.nl/regio/groningen/stad/grote-druk-op-gynaecologie-martini-ziekenhuis-schrapt-zorg-rondom-overgang-endometriose-en-spiraaltje/164512357.html",
-            "publishedDate": "13/11/2026 16:35",
-            "source": "dvhn.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1128,7 +1139,7 @@
             "source": "despecialist.eu",
             "category": "Overig",
             "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1174,7 +1185,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie De christelijke zorgverzekeraar 2027 stijgt naar \u20ac 160,95 per maand",
@@ -1196,7 +1207,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De resistentie van schimmels is nog hardnekkiger dan gedacht - Trouw",
@@ -1717,7 +1728,7 @@
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De huisarts is meer dan een consult: tijd voor een eerlijke waardering",
