@@ -102,27 +102,8 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Pouwels van schlemiel naar held binnen minuut",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-pouwels-van-schlemiel-naar-held-binnen-minuut-rohda-op-voorsprong-tegen-katwijk~a66f0be3/",
-                    "publishedDate": "14/11/2026 16:20"
-                },
-                {
-                    "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Riante voorsprong voor Sparta Nijkerk - Destentor",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-riante-voorsprong-voor-sparta-nijkerk-hhc-op-jacht-naar-treffer-tegen-tiental~a66f0be3/",
-                    "publishedDate": "14/11/2026 16:06"
-                },
-                {
-                    "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen is in vorm",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-is-in-vorm~a66f0be3/",
-                    "publishedDate": "14/11/2026 14:56"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -133,6 +114,17 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Pouwels van schlemiel naar held binnen minuut",
+            "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-pouwels-van-schlemiel-naar-held-binnen-minuut-rohda-op-voorsprong-tegen-katwijk~a66f0be3/",
+            "publishedDate": "14/11/2026 16:20",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -151,11 +143,30 @@
             "title": "Megastoring bij Microsoft voorbij, maar bedrijf wacht enorme nasleep - Computable.nl",
             "link": "https://www.computable.nl/2026/11/14/megastoring-bij-microsoft-voorbij-maar-bedrijf-wacht-enorme-nasleep/",
             "publishedDate": "14/11/2026 16:07",
-            "source": "computable.nl",
+            "source": "computable.nl, ed.nl, gva.be, jeroenboschziekenhuis.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Wereldwijde storing bij Microsoft zou naar schatting minstens 6,3 miljard euro kosten - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/binnenland/wereldwijde-storing-bij-microsoft-zou-naar-schatting-minstens-63-miljard-euro-kosten-onderliggend-probleem-is-intussen-verholpen/164490398.html",
+                    "publishedDate": "14/11/2026 14:55"
+                },
+                {
+                    "title": "Microsoft lost wereldwijde storing zaterdagochtend eindelijk op na twee dagen chaos",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/tech/microsoft-lost-wereldwijde-storing-zaterdagochtend-eindelijk-op-na-twee-dagen-chaos~a707e134/",
+                    "publishedDate": "14/11/2026 11:14"
+                },
+                {
+                    "title": "Storing bij Microsoft: wat betekent het voor jou? (update) | Jeroen Bosch Ziekenhuis",
+                    "source": "jeroenboschziekenhuis.nl",
+                    "link": "https://www.jeroenboschziekenhuis.nl/nieuws/storing-bij-microsoft-wat-betekent-het-voor-jou-update",
+                    "publishedDate": "14/11/2026 10:07"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -165,6 +176,17 @@
             "source": "krapuul.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Riante voorsprong voor Sparta Nijkerk - Destentor",
+            "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-riante-voorsprong-voor-sparta-nijkerk-hhc-op-jacht-naar-treffer-tegen-tiental~a66f0be3/",
+            "publishedDate": "14/11/2026 16:06",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -239,32 +261,25 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Wereldwijde storing bij Microsoft zou naar schatting minstens 6,3 miljard euro kosten - GVA",
-            "link": "https://www.gva.be/binnenland/wereldwijde-storing-bij-microsoft-zou-naar-schatting-minstens-63-miljard-euro-kosten-onderliggend-probleem-is-intussen-verholpen/164490398.html",
-            "publishedDate": "14/11/2026 14:55",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
+            "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen is in vorm",
+            "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-is-in-vorm~a66f0be3/",
+            "publishedDate": "14/11/2026 14:56",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorginstelling in Diemen deels ontruimd na rook via ventilatiesysteem - 112 in Beeld",
             "link": "https://112inbeeld.nl/112-melding-aan-de-arent-krijtsstraat-in-diemen/",
             "publishedDate": "14/11/2026 14:50",
-            "source": "112inbeeld.nl, hardnieuws.nl",
+            "source": "112inbeeld.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zorginstelling ontruimd na rookontwikkeling bij werkzaamheden op dak - Hardnieuws",
-                    "source": "hardnieuws.nl",
-                    "link": "https://www.hardnieuws.nl/noord-holland/diemen/zorginstelling-ontruimd-na-rookontwikkeling-bij-werkzaamheden-op-dak-arent-krijtsstraat-diemen-76052.html",
-                    "publishedDate": "14/11/2026 14:39"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -274,6 +289,17 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorginstelling ontruimd na rookontwikkeling bij werkzaamheden op dak - Hardnieuws",
+            "link": "https://www.hardnieuws.nl/noord-holland/diemen/zorginstelling-ontruimd-na-rookontwikkeling-bij-werkzaamheden-op-dak-arent-krijtsstraat-diemen-76052.html",
+            "publishedDate": "14/11/2026 14:39",
+            "source": "hardnieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -558,30 +584,12 @@
             "title": "Waarom zorgverzekeraar De Friesland dit jaar een greep uit eigen reserves doet",
             "link": "https://www.lc.nl/economie/waarom-zorgverzekeraar-de-friesland-dit-jaar-een-greep-uit-eigen-reserves-doet-we-willen-de-premie-stabiel-houden/164500716.html",
             "publishedDate": "14/11/2026 11:21",
-            "source": "lc.nl, weblog.independer.nl",
+            "source": "lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zorgpremie De Friesland 2027 bekend: stijging van \u20ac 6 - Independer.nl",
-                    "source": "weblog.independer.nl",
-                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-friesland-2027-bekend-stijging-van-e-6/",
-                    "publishedDate": "14/11/2026 04:11"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Microsoft lost wereldwijde storing zaterdagochtend eindelijk op na twee dagen chaos",
-            "link": "https://www.ed.nl/tech/microsoft-lost-wereldwijde-storing-zaterdagochtend-eindelijk-op-na-twee-dagen-chaos~a707e134/",
-            "publishedDate": "14/11/2026 11:14",
-            "source": "ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgpremie 2027: Achmea legt \u20ac400 miljoen bij, CZ \u20ac20 mln - Welingelichte Kringen",
@@ -590,17 +598,6 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Storing bij Microsoft: wat betekent het voor jou? (update) | Jeroen Bosch Ziekenhuis",
-            "link": "https://www.jeroenboschziekenhuis.nl/nieuws/storing-bij-microsoft-wat-betekent-het-voor-jou-update",
-            "publishedDate": "14/11/2026 10:07",
-            "source": "jeroenboschziekenhuis.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -767,14 +764,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "ONVZ: Zorgpremies + nieuwe basisverzekering 2027 - Independer Weblog",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/onvz-introduceert-nieuwe-basisverzekering-in-2027-en-verhoogt-premies-met-1130-en-1750-per-maand/",
-            "publishedDate": "14/11/2026 03:31",
+            "title": "Zorgpremie De Friesland 2027 bekend: stijging van \u20ac 6 - Independer.nl",
+            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-friesland-2027-bekend-stijging-van-e-6/",
+            "publishedDate": "14/11/2026 04:11",
             "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "ONVZ: Zorgpremies + nieuwe basisverzekering 2027 - Independer Weblog",
+                    "source": "weblog.independer.nl",
+                    "link": "https://weblog.independer.nl/zorgverzekeringen/onvz-introduceert-nieuwe-basisverzekering-in-2027-en-verhoogt-premies-met-1130-en-1750-per-maand/",
+                    "publishedDate": "14/11/2026 03:31"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1033,7 +1037,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Lelystad sluit 2027 met zwarte cijfers, maar daarna dreigt een miljoenentekort: 'Zeer onverstandig'",
@@ -1066,7 +1070,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ontroerende dorpshulp voor zorgcentrum De Kreek: zes restaurants nemen Leonie werk uit handen",
@@ -1253,17 +1257,6 @@
             "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kerstkringloop draagt bij aan betere zorg voor vrouwen - St. Antonius Ziekenhuis",
-            "link": "https://www.antoniusziekenhuis.nl/kerstkringloop-draagt-bij-aan-betere-zorg-voor-vrouwen",
-            "publishedDate": "13/11/2026 15:12",
-            "source": "antoniusziekenhuis.nl",
-            "category": "Zorgaanbieders",
-            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1467,17 +1460,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "United Microelectronics (UMC) kwaliteit - De Belegger",
-            "link": "https://www.debelegger.nl/koers/UMC.US/kwaliteit",
-            "publishedDate": "13/11/2026 03:15",
-            "source": "debelegger.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Eindelijk eerste keeper bij Klundert, maar bizarre blessure zet toekomst Stan Leijten op het spel",
             "link": "https://www.voetbalbrabant.nl/2026/11/eindelijk-eerste-keeper-bij-klundert-maar-bizarre-blessure-zet-toekomst-stan-leijten-op-het-spel/",
             "publishedDate": "12/11/2026 17:12",
@@ -1548,7 +1530,7 @@
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De huisarts is meer dan een consult: tijd voor een eerlijke waardering",
