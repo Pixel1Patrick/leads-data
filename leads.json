@@ -1,13 +1,24 @@
 {
     "artikelen": [
         {
+            "title": "Oud-huisarts bereidt massaclaim tegen Eternit voor: 'Bedragen die het leed echt vergoeden'",
+            "link": "https://www.pzc.nl/binnenland/oud-huisarts-bereidt-massaclaim-tegen-eternit-voor-bedragen-die-het-leed-echt-vergoeden~a69cdd20/",
+            "publishedDate": "14/11/2026 15:58",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Salaris verpleegkundige 2026: zoveel betalen ziekenhuis, thuiszorg en umc - Drimble",
             "link": "https://drimble.nl/binnenlands-nieuws/108599945/salaris-verpleegkundige-2026-zoveel-betalen-ziekenhuis-thuiszorg-en-umc.html",
             "publishedDate": "14/11/2026 15:22",
             "source": "drimble.nl, welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Salaris verpleegkundige 2026: zoveel betalen ziekenhuis, thuiszorg en umc",
@@ -283,11 +294,18 @@
             "title": "Waarom zorgverzekeraar De Friesland dit jaar een greep uit eigen reserves doet",
             "link": "https://www.lc.nl/economie/waarom-zorgverzekeraar-de-friesland-dit-jaar-een-greep-uit-eigen-reserves-doet-we-willen-de-premie-stabiel-houden/164500716.html",
             "publishedDate": "14/11/2026 11:21",
-            "source": "lc.nl",
+            "source": "lc.nl, weblog.independer.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgpremie De Friesland 2027 bekend: stijging van \u20ac 6 - Independer.nl",
+                    "source": "weblog.independer.nl",
+                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-friesland-2027-bekend-stijging-van-e-6/",
+                    "publishedDate": "14/11/2026 04:11"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -310,7 +328,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Storing bij Microsoft: wat betekent het voor jou? (update) | Jeroen Bosch Ziekenhuis",
@@ -595,17 +613,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgpremie De Friesland 2027 bekend: stijging van \u20ac 6 - Independer.nl",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-friesland-2027-bekend-stijging-van-e-6/",
-            "publishedDate": "14/11/2026 04:11",
-            "source": "weblog.independer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Bieb gaat dicht, maar steeds meer Utrechters komen dan pas binnen - De Gelderlander",
             "link": "https://www.gelderlander.nl/utrecht/bieb-gaat-dicht-maar-steeds-meer-utrechters-komen-dan-pas-binnen-hier-is-de-avondopening-een-schot-in-de-roos~ac9ca629/",
             "publishedDate": "14/11/2026 04:05",
@@ -649,7 +656,7 @@
                     "publishedDate": "14/11/2026 02:02"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Daan van der Hoeven speelt Mensenmens in Veldhoven | Regio | ED.nl",
@@ -1168,7 +1175,7 @@
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -1430,7 +1437,7 @@
                     "publishedDate": "13/11/2026 12:34"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "In gesprek met VWS over de impact van regeldruk op de eerstelijnszorg - KNMP",
@@ -1548,7 +1555,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
