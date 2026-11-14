@@ -84,7 +84,7 @@
                     "publishedDate": "14/11/2026 02:02"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Daan van der Hoeven speelt Mensenmens in Veldhoven | Regio | ED.nl",
@@ -287,18 +287,11 @@
             "title": "Auto belandt in sloot in Helmond, man met verwondingen naar ziekenhuis - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/video/5008517/Auto-belandt-in-sloot-in-Helmond-man-met-verwondingen-naar-ziekenhuis",
             "publishedDate": "13/11/2026 21:43",
-            "source": "ed.nl, omroepbrabant.nl",
+            "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Auto belandt in sloot in Helmond: man naar ziekenhuis, vrouw met schrik vrij",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/play/productie/auto-belandt-in-sloot-in-helmond-man-naar-ziekenhuis-vrouw-met-schrik-vrij-15021808",
-                    "publishedDate": "13/11/2026 19:20"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -458,15 +451,32 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_13",
                     "publishedDate": "13/11/2026 19:34"
+                },
+                {
+                    "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_7",
+                    "publishedDate": "13/11/2026 19:01"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Auto belandt in sloot in Helmond: man naar ziekenhuis, vrouw met schrik vrij",
+            "link": "https://www.ed.nl/play/productie/auto-belandt-in-sloot-in-helmond-man-naar-ziekenhuis-vrouw-met-schrik-vrij-15021808",
+            "publishedDate": "13/11/2026 19:20",
+            "source": "ed.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -478,7 +488,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Lopend Vuur: Overstappen naar een andere zorgverzekeraar vind ik te veel gedoe",
@@ -498,17 +508,6 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
-            "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_7",
-            "publishedDate": "13/11/2026 19:01",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -747,22 +746,16 @@
             "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Nieuwsbode",
             "link": "https://www.nieuwsbode.info/nieuws/algemeen/124092/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
             "publishedDate": "13/11/2026 17:08",
-            "source": "instagram.com, nieuwsbode.info, oostermoer.info",
+            "source": "nieuwsbode.info, oostermoer.info",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Oostermoer",
                     "source": "oostermoer.info",
                     "link": "https://www.oostermoer.info/nieuws/algemeen/124081/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
                     "publishedDate": "13/11/2026 14:35"
-                },
-                {
-                    "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
-                    "source": "instagram.com",
-                    "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
-                    "publishedDate": "13/11/2026 09:20"
                 }
             ],
             "belangrijkheid": 0
@@ -805,7 +798,7 @@
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gynaecologie zorg geschrapt Martini Ziekenhuis: overgang, endometriose en spiraaltje",
@@ -1024,7 +1017,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kerstkringloop draagt bij aan betere zorg voor vrouwen - St. Antonius Ziekenhuis",
@@ -1041,18 +1034,11 @@
             "title": "Zorg Kortrijk kantelt zorgpersoneel Zusters Augustinessen in stedelijke werking in - KW.be",
             "link": "https://kw.be/nieuws/samenleving/gezondheid/verzorging/zorg-kortrijk-kantelt-zorgpersoneel-zusters-augustinessen-in-stedelijke-werking-in-sociaal-akkoord-geeft-duidelijkheid-en-vertrouwen/",
             "publishedDate": "13/11/2026 15:09",
-            "source": "kw.be, pers.kortrijk.be",
+            "source": "kw.be",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zorg Kortrijk verankert publieke zorg door volledige inkanteling van zorgpersoneel in ...",
-                    "source": "pers.kortrijk.be",
-                    "link": "https://pers.kortrijk.be/269798-zorg-kortrijk-verankert-publieke-zorg-door-volledige-inkanteling-van-zorgpersoneel-in-stedelijke-werking-sociaal-akkoord-bereikt/",
-                    "publishedDate": "13/11/2026 13:18"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1172,6 +1158,17 @@
             "source": "streekgids.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorg Kortrijk verankert publieke zorg door volledige inkanteling van zorgpersoneel in ...",
+            "link": "https://pers.kortrijk.be/269798-zorg-kortrijk-verankert-publieke-zorg-door-volledige-inkanteling-van-zorgpersoneel-in-stedelijke-werking-sociaal-akkoord-bereikt/",
+            "publishedDate": "13/11/2026 13:18",
+            "source": "pers.kortrijk.be",
+            "category": "Overig",
+            "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1478,6 +1475,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
+            "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
+            "publishedDate": "13/11/2026 09:20",
+            "source": "instagram.com",
+            "category": "Overig",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Sensoren ontlasten oudere cli\u00ebnten met diabetes en leveren zorgorganisatie Omring tijd op",
             "link": "https://www.zonmw.nl/nl/artikel/sensoren-ontlasten-oudere-clienten-met-diabetes-en-leveren-zorgorganisatie-omring-tijd-op",
             "publishedDate": "13/11/2026 08:49",
@@ -1587,48 +1595,6 @@
             "title": "United Microelectronics (UMC) kwaliteit - De Belegger",
             "link": "https://www.debelegger.nl/koers/UMC.US/kwaliteit",
             "publishedDate": "13/11/2026 03:15",
-            "source": "debelegger.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
-                    "publishedDate": "13/11/2026 02:08"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "United Microelectronics (UMC) cijfers 2025 - De Belegger",
-            "link": "https://www.debelegger.nl/koers/UMC.US/cijfers",
-            "publishedDate": "13/11/2026 03:15",
-            "source": "debelegger.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "United Microelectronics (UMC) dividend 2026 - De Belegger",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/dividend",
-                    "publishedDate": "13/11/2026 02:34"
-                },
-                {
-                    "title": "United Microelectronics (UMC) kerncijfers 2025 - De Belegger",
-                    "source": "debelegger.nl",
-                    "link": "https://www.debelegger.nl/koers/UMC.US/kerncijfers",
-                    "publishedDate": "13/11/2026 02:08"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "United Microelectronics Belegger-score - UMC",
-            "link": "https://www.debelegger.nl/koers/UMC.US/score",
-            "publishedDate": "13/11/2026 01:36",
             "source": "debelegger.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
