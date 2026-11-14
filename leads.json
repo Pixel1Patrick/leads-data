@@ -681,7 +681,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Nota n a v  verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -694,18 +694,6 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/3eab501e-e574-4874-a3d2-2190e1df0850",
                     "publishedDate": "13/11/2026 16:34"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/5c2dee92-703d-46b3-9983-8723fedd61b3",
-                    "publishedDate": "13/11/2026 12:34"
-                },
-                {
-                    "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
-                    "publishedDate": "13/11/2026 12:34"
                 }
             ],
             "belangrijkheid": 0
@@ -1170,6 +1158,24 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
+            "link": "https://open.overheid.nl/details/5c2dee92-703d-46b3-9983-8723fedd61b3",
+            "publishedDate": "13/11/2026 12:34",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
+                    "publishedDate": "13/11/2026 12:34"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
