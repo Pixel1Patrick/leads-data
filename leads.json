@@ -23,6 +23,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Dit vreemde zilveren kroontje is opeens een hit bij kinderen met gaatjes | Regio - PZC",
+            "link": "https://www.pzc.nl/breda/dit-vreemde-zilveren-kroontje-is-opeens-een-hit-bij-kinderen-met-gaatjes~ae5f7bd9/",
+            "publishedDate": "14/11/2026 00:05",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "12 maanden cel voor oud-huisarts Pieter S. om misbruik - Moordplekken.nl",
             "link": "https://www.moordplekken.nl/nieuws/12-maanden-cel-oud-huisarts-pieter-s-misbruik-kwetsbare-patiente-autisme-den-bosch",
             "publishedDate": "14/11/2026 00:05",
@@ -159,7 +170,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Advies van BuRO over het gebruik van pijnstillers en/of antibiotica in de roodvleesketen in Nederland",
@@ -269,7 +280,7 @@
                     "publishedDate": "13/11/2026 20:21"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "KNMP ondertekent Actieplan Chronische Nierziekte",
@@ -326,11 +337,18 @@
             "title": "Rechtbank: ziekenhuis Nij Smellinghe moet stoppen met specialistische nierkankerzorg",
             "link": "https://www.lc.nl/regio/friesland/rechtbank-ziekenhuis-nij-smellinghe-moet-stoppen-met-specialistische-nierkankerzorg/164450134.html",
             "publishedDate": "13/11/2026 19:17",
-            "source": "lc.nl",
+            "source": "lc.nl, omropfryslan.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Geen operaties bij nierkanker meer in Drachten: rechter geeft ziekenhuis ongelijk",
+                    "source": "omropfryslan.nl",
+                    "link": "https://www.omropfryslan.nl/nl/nieuws/18944094/geen-operaties-bij-nierkanker-meer-in-drachten-rechter-geeft-ziekenhuis-ongelijk",
+                    "publishedDate": "13/11/2026 16:22"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -419,7 +437,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Wolters Kluwer neemt AgileMD over - De AandeelHouder",
@@ -600,22 +618,16 @@
             "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Nieuwsbode",
             "link": "https://www.nieuwsbode.info/nieuws/algemeen/124092/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
             "publishedDate": "13/11/2026 17:08",
-            "source": "instagram.com, nieuwsbode.info, oostermoer.info",
+            "source": "nieuwsbode.info, oostermoer.info",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Zorginstelling Interzorg is D\u00e9 Drentse Onderneming van het Jaar 2026 - De Oostermoer",
                     "source": "oostermoer.info",
                     "link": "https://www.oostermoer.info/nieuws/algemeen/124081/zorginstelling-interzorg-is-de-drentse-onderneming-van-het-ja",
                     "publishedDate": "13/11/2026 14:35"
-                },
-                {
-                    "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
-                    "source": "instagram.com",
-                    "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
-                    "publishedDate": "13/11/2026 09:20"
                 }
             ],
             "belangrijkheid": 0
@@ -647,7 +659,7 @@
                     "publishedDate": "13/11/2026 15:03"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Storing bij Microsoft 365 - Eurocross",
@@ -755,17 +767,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Geen operaties bij nierkanker meer in Drachten: rechter geeft ziekenhuis ongelijk",
-            "link": "https://www.omropfryslan.nl/nl/nieuws/18944094/geen-operaties-bij-nierkanker-meer-in-drachten-rechter-geeft-ziekenhuis-ongelijk",
-            "publishedDate": "13/11/2026 16:22",
-            "source": "omropfryslan.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Meerderheid Veenendaalse raad neemt programmabegroting 2027-2030 aan - De Rijnpost",
             "link": "https://www.derijnpost.nl/lokaal/politiek/1327475/meerderheid-veenendaalse-raad-neemt-programmabegroting-2027-2",
             "publishedDate": "13/11/2026 16:21",
@@ -818,7 +819,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie De christelijke zorgverzekeraar 2027 stijgt naar \u20ac 160,95 per maand",
@@ -840,7 +841,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De resistentie van schimmels is nog hardnekkiger dan gedacht - Trouw",
@@ -862,7 +863,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Dylan Debaene wil 61 uur aan de toog hangen: \u201cHuisarts en kinesist staan paraat\u201d",
@@ -928,7 +929,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Staphorst op jacht naar punten, een weerzien in Bathmen en een derby in Heerde - de Stentor",
@@ -1027,7 +1028,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gemeente Dijk en Waard wil inwoners met psychische klachten sneller helpen - Rodi",
@@ -1093,7 +1094,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Almere moet duidelijk maken waar geld voor jeugd en gezin naartoe gaat | 1Almere",
@@ -1326,7 +1327,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1361,7 +1362,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Politieke column: 'Ouderen zijn geen kostenpost' - Ditishelmond.nl",
@@ -1394,7 +1395,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kind (12) loopt weg uit zorginstelling Enschede, even later wordt hij verkracht - RTV Oost",
@@ -1425,6 +1426,17 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Een unieke winnaar Nog nooit werd een zorginstelling uitgeroepen tot Drentse ... - Instagram",
+            "link": "https://www.instagram.com/p/DfrHEu_G_0C/",
+            "publishedDate": "13/11/2026 09:20",
+            "source": "instagram.com",
+            "category": "Overig",
+            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1478,7 +1490,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Eemsdelta onderzoekt link tussen gaswinningsschade en oplopende jeugdzorgkosten",
@@ -1500,7 +1512,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Frederique presteert in wereldtop, mede dankzij baan in gehandicaptenzorg - Omroep Brabant",
@@ -1542,26 +1554,20 @@
             "source": "debelegger.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 2,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "United Microelectronics (UMC) waarde en groei - De Belegger",
                     "source": "debelegger.nl",
                     "link": "https://www.debelegger.nl/koers/UMC.US/waarde",
                     "publishedDate": "13/11/2026 02:08"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "United Microelectronics (UMC) cijfers 2025 - De Belegger",
-            "link": "https://www.debelegger.nl/koers/UMC.US/cijfers",
-            "publishedDate": "13/11/2026 03:15",
-            "source": "debelegger.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 3,
-            "extra_bronnen": [
+                },
+                {
+                    "title": "United Microelectronics (UMC) cijfers 2025 - De Belegger",
+                    "source": "debelegger.nl",
+                    "link": "https://www.debelegger.nl/koers/UMC.US/cijfers",
+                    "publishedDate": "13/11/2026 03:15"
+                },
                 {
                     "title": "United Microelectronics (UMC) dividend 2026 - De Belegger",
                     "source": "debelegger.nl",
@@ -1573,6 +1579,12 @@
                     "source": "debelegger.nl",
                     "link": "https://www.debelegger.nl/koers/UMC.US/kerncijfers",
                     "publishedDate": "13/11/2026 02:08"
+                },
+                {
+                    "title": "United Microelectronics Belegger-score - UMC",
+                    "source": "debelegger.nl",
+                    "link": "https://www.debelegger.nl/koers/UMC.US/score",
+                    "publishedDate": "13/11/2026 01:36"
                 }
             ],
             "belangrijkheid": 0
@@ -1584,28 +1596,6 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremies Nationale-Nederlanden 2027 - Independer Weblog",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-nationale-nederlanden-2027/",
-            "publishedDate": "13/11/2026 01:42",
-            "source": "weblog.independer.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "United Microelectronics Belegger-score - UMC",
-            "link": "https://www.debelegger.nl/koers/UMC.US/score",
-            "publishedDate": "13/11/2026 01:36",
-            "source": "debelegger.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1853,7 +1843,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Voor ouderen kan goede spoedzorg niet zonder de VVT - Zorgkrant",
