@@ -354,7 +354,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Opinie: 'Wat als het recept dat ik hier aan mijn pati\u00ebnten voorschrijf elders genocidaal ...",
@@ -483,7 +483,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Analyse: de gemeenteraad van Stadskanaal blijft vechten met de klok. `Niet afraffelen!` | Groningen",
@@ -591,7 +591,7 @@
             "source": "ad.nl, destentor.nl, nieuwsbladschaapskooi.nl, tubantia.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 9,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ...",
@@ -616,30 +616,6 @@
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/amateurvoetbal/live-broeksema-beslist-derby-in-voordeel-seh-pouwels-helpt-hhc-aan-zege-ex-prof-zet-katwijk-naast-rohda~a66f0be3/",
                     "publishedDate": "14/11/2026 16:47"
-                },
-                {
-                    "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Pouwels van schlemiel naar held binnen minuut",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-pouwels-van-schlemiel-naar-held-binnen-minuut-rohda-op-voorsprong-tegen-katwijk~a66f0be3/",
-                    "publishedDate": "14/11/2026 16:20"
-                },
-                {
-                    "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Riante voorsprong voor Sparta Nijkerk - Destentor",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-riante-voorsprong-voor-sparta-nijkerk-hhc-op-jacht-naar-treffer-tegen-tiental~a66f0be3/",
-                    "publishedDate": "14/11/2026 16:06"
-                },
-                {
-                    "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen schiet uit de ...",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-schiet-uit-de-startblokken~a66f0be3/",
-                    "publishedDate": "14/11/2026 15:08"
-                },
-                {
-                    "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen is in vorm",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-is-in-vorm~a66f0be3/",
-                    "publishedDate": "14/11/2026 14:56"
                 }
             ],
             "belangrijkheid": 0
@@ -758,18 +734,11 @@
             "title": "'Het water spoot uit de stopcontacten': onderbuurman zwaar getroffen door flatbrand in Breda - PZC",
             "link": "https://www.pzc.nl/breda/het-water-spoot-uit-de-stopcontacten-onderbuurman-zwaar-getroffen-door-flatbrand-in-breda~a7729784/",
             "publishedDate": "14/11/2026 17:26",
-            "source": "bndestem.nl, pzc.nl",
+            "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Brand jaagt bewoners Bredase flat hun huis uit: 'Ik zag ineens enorme vlammen onder me'",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/brand-jaagt-bewoners-bredase-flat-hun-huis-uit-ik-zag-ineens-enorme-vlammen-onder-me~a7d5ede3/",
-                    "publishedDate": "14/11/2026 13:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -792,6 +761,36 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Pouwels van schlemiel naar held binnen minuut",
+            "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-pouwels-van-schlemiel-naar-held-binnen-minuut-rohda-op-voorsprong-tegen-katwijk~a66f0be3/",
+            "publishedDate": "14/11/2026 16:20",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Riante voorsprong voor Sparta Nijkerk - Destentor",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-riante-voorsprong-voor-sparta-nijkerk-hhc-op-jacht-naar-treffer-tegen-tiental~a66f0be3/",
+                    "publishedDate": "14/11/2026 16:06"
+                },
+                {
+                    "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen schiet uit de ...",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-schiet-uit-de-startblokken~a66f0be3/",
+                    "publishedDate": "14/11/2026 15:08"
+                },
+                {
+                    "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen is in vorm",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-is-in-vorm~a66f0be3/",
+                    "publishedDate": "14/11/2026 14:56"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -848,6 +847,17 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Brand jaagt bewoners Bredase flat hun huis uit: 'Ik zag ineens enorme vlammen onder me'",
+            "link": "https://www.bndestem.nl/breda/brand-jaagt-bewoners-bredase-flat-hun-huis-uit-ik-zag-ineens-enorme-vlammen-onder-me~a7d5ede3/",
+            "publishedDate": "14/11/2026 13:43",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -912,7 +922,7 @@
                     "publishedDate": "13/11/2026 19:34"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
@@ -923,7 +933,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -1092,7 +1102,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1127,7 +1137,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
