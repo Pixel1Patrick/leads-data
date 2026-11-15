@@ -296,11 +296,24 @@
             "title": "Slachtoffer steekpartij Maastricht is 46-jarige man - L1 Nieuws",
             "link": "https://www.l1nieuws.nl/nieuws/3272307/slachtoffer-steekpartij-maastricht-is-46-jarige-man",
             "publishedDate": "14/11/2026 23:39",
-            "source": "l1nieuws.nl",
+            "source": "l1nieuws.nl, limburger.nl, moordplekken.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Update steekpartij Vrijthof Maastricht: slachtoffer (46) en - Moordplekken.nl",
+                    "source": "moordplekken.nl",
+                    "link": "https://www.moordplekken.nl/nieuws/update-steekpartij-vrijthof-maastricht-slachtoffer-46-ziekenhuis-steekwapen",
+                    "publishedDate": "14/11/2026 22:30"
+                },
+                {
+                    "title": "Man gewond bij steekpartij in centrum van Maastricht - De Limburger",
+                    "source": "limburger.nl",
+                    "link": "https://www.limburger.nl/video-zebra/man-gewond-bij-steekpartij-in-centrum-van-maastricht/164548559.html",
+                    "publishedDate": "14/11/2026 13:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -375,17 +388,6 @@
             "publishedDate": "14/11/2026 22:47",
             "source": "dvhn.nl",
             "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Update steekpartij Vrijthof Maastricht: slachtoffer (46) en - Moordplekken.nl",
-            "link": "https://www.moordplekken.nl/nieuws/update-steekpartij-vrijthof-maastricht-slachtoffer-46-ziekenhuis-steekwapen",
-            "publishedDate": "14/11/2026 22:30",
-            "source": "moordplekken.nl",
-            "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -779,22 +781,18 @@
             "title": "Zorginstelling in Diemen deels ontruimd na rook via ventilatiesysteem - 112 in Beeld",
             "link": "https://112inbeeld.nl/112-melding-aan-de-arent-krijtsstraat-in-diemen/",
             "publishedDate": "14/11/2026 14:50",
-            "source": "112inbeeld.nl",
+            "source": "112inbeeld.nl, hardnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorginstelling ontruimd na rookontwikkeling bij werkzaamheden op dak - Hardnieuws",
-            "link": "https://www.hardnieuws.nl/noord-holland/diemen/zorginstelling-ontruimd-na-rookontwikkeling-bij-werkzaamheden-op-dak-arent-krijtsstraat-diemen-76052.html",
-            "publishedDate": "14/11/2026 14:39",
-            "source": "hardnieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorginstelling ontruimd na rookontwikkeling bij werkzaamheden op dak - Hardnieuws",
+                    "source": "hardnieuws.nl",
+                    "link": "https://www.hardnieuws.nl/noord-holland/diemen/zorginstelling-ontruimd-na-rookontwikkeling-bij-werkzaamheden-op-dak-arent-krijtsstraat-diemen-76052.html",
+                    "publishedDate": "14/11/2026 14:39"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -826,17 +824,6 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Man gewond bij steekpartij in centrum van Maastricht - De Limburger",
-            "link": "https://www.limburger.nl/video-zebra/man-gewond-bij-steekpartij-in-centrum-van-maastricht/164548559.html",
-            "publishedDate": "14/11/2026 13:19",
-            "source": "limburger.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -911,22 +898,36 @@
             "title": "Grote premieverschillen basiszorgverzekering: dit zijn de duurste en goedkoopste - AD",
             "link": "https://www.ad.nl/gezond/grote-premieverschillen-basiszorgverzekering-dit-zijn-de-duurste-en-goedkoopste~ae3cb2346/",
             "publishedDate": "14/11/2026 11:41",
-            "source": "ad.nl",
+            "source": "ad.nl, bd.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/gezond/grote-premieverschillen-tussen-de-basiszorgverzekeringen-tot-wel-650-euro-per-jaar~ae3cb2346/",
+                    "publishedDate": "14/11/2026 10:06"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Waarom zorgverzekeraar De Friesland dit jaar een greep uit eigen reserves doet",
             "link": "https://www.lc.nl/economie/waarom-zorgverzekeraar-de-friesland-dit-jaar-een-greep-uit-eigen-reserves-doet-we-willen-de-premie-stabiel-houden/164500716.html",
             "publishedDate": "14/11/2026 11:21",
-            "source": "lc.nl",
+            "source": "lc.nl, weblog.independer.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgpremie De Friesland 2027 bekend: stijging van \u20ac 6 - Independer.nl",
+                    "source": "weblog.independer.nl",
+                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-friesland-2027-bekend-stijging-van-e-6/",
+                    "publishedDate": "14/11/2026 04:11"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -938,18 +939,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
-            "link": "https://www.bd.nl/gezond/grote-premieverschillen-tussen-de-basiszorgverzekeringen-tot-wel-650-euro-per-jaar~ae3cb2346/",
-            "publishedDate": "14/11/2026 10:06",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Financi\u00eble crisis HOH dreigt te verergeren in december - Amigoe Aruba",
@@ -967,17 +957,6 @@
             "link": "https://www.plusonline.nl/astma-en-copd/copd-dan-is-de-kans-op-gordelroos-groter",
             "publishedDate": "14/11/2026 09:00",
             "source": "plusonline.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nieuwe richtlijnen voor nachtdiensten - Medisch Dossier",
-            "link": "https://medischdossier.org/nieuwe-richtlijnen-voor-nachtdiensten/",
-            "publishedDate": "14/11/2026 06:59",
-            "source": "medischdossier.org",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
@@ -1018,17 +997,6 @@
             "link": "https://drimble.nl/regio/utrecht/utrecht/108591320/stand-van-zaken-contracten-zorgverzekeraars-2027.html",
             "publishedDate": "14/11/2026 04:41",
             "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremie De Friesland 2027 bekend: stijging van \u20ac 6 - Independer.nl",
-            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-friesland-2027-bekend-stijging-van-e-6/",
-            "publishedDate": "14/11/2026 04:11",
-            "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
@@ -1137,7 +1105,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Nota n a v  verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -1150,18 +1118,6 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/3eab501e-e574-4874-a3d2-2190e1df0850",
                     "publishedDate": "13/11/2026 16:34"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/5c2dee92-703d-46b3-9983-8723fedd61b3",
-                    "publishedDate": "13/11/2026 12:34"
-                },
-                {
-                    "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
-                    "publishedDate": "13/11/2026 12:34"
                 }
             ],
             "belangrijkheid": 0
@@ -1197,6 +1153,24 @@
             "feed_label": "Tuchtcollege voor de Gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
+            "link": "https://open.overheid.nl/details/5c2dee92-703d-46b3-9983-8723fedd61b3",
+            "publishedDate": "13/11/2026 12:34",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
+                    "publishedDate": "13/11/2026 12:34"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
