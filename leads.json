@@ -226,7 +226,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Video: Spectaculaire takeloperatie nieuwe MRI-scanner bij Viasana - inMill.nl",
@@ -327,11 +327,17 @@
             "title": "Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
             "link": "https://deanderekrant.nl/artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
             "publishedDate": "15/11/2026 13:13",
-            "source": "deanderekrant.nl",
+            "source": "cafeweltschmerz.nl, deanderekrant.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
+                    "source": "cafeweltschmerz.nl",
+                    "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
+                    "publishedDate": "15/11/2026 12:40"
+                },
                 {
                     "title": "Artsen laks over bijwerkingen - De Andere Krant",
                     "source": "deanderekrant.nl",
@@ -370,17 +376,6 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
-            "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
-            "publishedDate": "15/11/2026 12:40",
-            "source": "cafeweltschmerz.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -902,22 +897,18 @@
             "title": "Zorginstelling in Diemen deels ontruimd na rook via ventilatiesysteem - 112 in Beeld",
             "link": "https://112inbeeld.nl/112-melding-aan-de-arent-krijtsstraat-in-diemen/",
             "publishedDate": "14/11/2026 14:50",
-            "source": "112inbeeld.nl",
+            "source": "112inbeeld.nl, hardnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorginstelling ontruimd na rookontwikkeling bij werkzaamheden op dak - Hardnieuws",
-            "link": "https://www.hardnieuws.nl/noord-holland/diemen/zorginstelling-ontruimd-na-rookontwikkeling-bij-werkzaamheden-op-dak-arent-krijtsstraat-diemen-76052.html",
-            "publishedDate": "14/11/2026 14:39",
-            "source": "hardnieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorginstelling ontruimd na rookontwikkeling bij werkzaamheden op dak - Hardnieuws",
+                    "source": "hardnieuws.nl",
+                    "link": "https://www.hardnieuws.nl/noord-holland/diemen/zorginstelling-ontruimd-na-rookontwikkeling-bij-werkzaamheden-op-dak-arent-krijtsstraat-diemen-76052.html",
+                    "publishedDate": "14/11/2026 14:39"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1120,7 +1111,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1149,7 +1140,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
