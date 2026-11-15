@@ -513,6 +513,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "'Het water spoot uit de stopcontacten': onderbuurman zwaar getroffen door flatbrand in Breda - PZC",
+            "link": "https://www.pzc.nl/breda/het-water-spoot-uit-de-stopcontacten-onderbuurman-zwaar-getroffen-door-flatbrand-in-breda~a7729784/",
+            "publishedDate": "14/11/2026 17:26",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Aloy Timmerhuis roept op: 'Koester schorpioenvlieg, wesp en bidsprinkhaan' - Tubantia",
             "link": "https://www.tubantia.nl/opinie/aloy-timmerhuis-roept-op-koester-schorpioenvlieg-wesp-en-bidsprinkhaan~a992403e/",
             "publishedDate": "14/11/2026 17:09",
@@ -616,7 +627,7 @@
                     "publishedDate": "14/11/2026 15:10"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen schiet uit de ...",
@@ -640,18 +651,22 @@
             "title": "Zorginstelling in Diemen deels ontruimd na rook via ventilatiesysteem - 112 in Beeld",
             "link": "https://112inbeeld.nl/112-melding-aan-de-arent-krijtsstraat-in-diemen/",
             "publishedDate": "14/11/2026 14:50",
-            "source": "112inbeeld.nl, hardnieuws.nl",
+            "source": "112inbeeld.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zorginstelling ontruimd na rookontwikkeling bij werkzaamheden op dak - Hardnieuws",
-                    "source": "hardnieuws.nl",
-                    "link": "https://www.hardnieuws.nl/noord-holland/diemen/zorginstelling-ontruimd-na-rookontwikkeling-bij-werkzaamheden-op-dak-arent-krijtsstraat-diemen-76052.html",
-                    "publishedDate": "14/11/2026 14:39"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorginstelling ontruimd na rookontwikkeling bij werkzaamheden op dak - Hardnieuws",
+            "link": "https://www.hardnieuws.nl/noord-holland/diemen/zorginstelling-ontruimd-na-rookontwikkeling-bij-werkzaamheden-op-dak-arent-krijtsstraat-diemen-76052.html",
+            "publishedDate": "14/11/2026 14:39",
+            "source": "hardnieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -705,6 +720,17 @@
             "source": "rd.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Over het onderzoek - Radboudumc",
+            "link": "https://www.radboudumc.nl/meedoen-aan-medisch-wetenschappelijk-onderzoek/lijst/vax-glp1/over-het-onderzoek",
+            "publishedDate": "14/11/2026 13:13",
+            "source": "radboudumc.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -780,7 +806,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Waarom zorgverzekeraar De Friesland dit jaar een greep uit eigen reserves doet",
@@ -802,7 +828,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
@@ -813,7 +839,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Financi\u00eble crisis HOH dreigt te verergeren in december - Amigoe Aruba",
@@ -1014,7 +1040,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Laat studenten kennismaken met mensen met een ernstige verstandelijke en meervoudige ...",
