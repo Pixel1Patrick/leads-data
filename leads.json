@@ -1,6 +1,35 @@
 {
     "artikelen": [
         {
+            "title": "Afghaanse artsen mogen geen vrouwen meer behandelen | BNR Nieuwsradio",
+            "link": "https://www.bnr.nl/nieuws/internationaal/10615696/afghaanse-artsen-mogen-geen-vrouwen-meer-behandelen",
+            "publishedDate": "15/11/2026 18:31",
+            "source": "bnr.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws - De Gelderlander",
+            "link": "https://www.gelderlander.nl/wetenschap/wat-is-een-hitteberoerte-en-en-wat-moet-je-doen-als-je-het-hebt~af24c121/",
+            "publishedDate": "15/11/2026 18:31",
+            "source": "destentor.nl, gelderlander.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? - Destentor",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/wetenschap/wat-is-een-hitteberoerte-en-en-wat-moet-je-doen-als-je-het-hebt~af24c121/",
+                    "publishedDate": "15/11/2026 17:05"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Mysterie opgelost: daarom kleurt het Albert Schweitzer ziekenhuis paars | Regio | AD.nl",
             "link": "https://www.ad.nl/dordrecht/mysterie-opgelost-daarom-kleurt-het-albert-schweitzer-ziekenhuis-binnenkort-paars~ac5c01b4/",
             "publishedDate": "15/11/2026 17:46",
@@ -16,17 +45,6 @@
                     "publishedDate": "15/11/2026 11:53"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? - Destentor",
-            "link": "https://www.destentor.nl/wetenschap/wat-is-een-hitteberoerte-en-en-wat-moet-je-doen-als-je-het-hebt~af24c121/",
-            "publishedDate": "15/11/2026 17:05",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -122,7 +140,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Video: Spectaculaire takeloperatie nieuwe MRI-scanner bij Viasana - inMill.nl",
@@ -150,12 +168,19 @@
             "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
             "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
             "publishedDate": "15/11/2026 14:09",
-            "source": "nunspeet.nieuws.nl",
+            "source": "haarlemsdagblad.nl, nunspeet.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Wethouder: sluiting van Tussenhout en Spaar en Hout heeft 'geen ... - Haarlems Dagblad",
+                    "source": "haarlemsdagblad.nl",
+                    "link": "https://www.haarlemsdagblad.nl/regio/haarlem/wethouder-sluiting-van-tussenhout-en-spaar-en-hout-heeft-geen-consequenties-voor-voorraad-zorgwoningen-in-haarlem/164474578.html",
+                    "publishedDate": "15/11/2026 04:29"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Minister Sterk brengt komende week werkbezoek aan Bonaire",
@@ -227,17 +252,11 @@
             "title": "Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
             "link": "https://deanderekrant.nl/artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
             "publishedDate": "15/11/2026 13:13",
-            "source": "cafeweltschmerz.nl, deanderekrant.nl",
+            "source": "deanderekrant.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
-                {
-                    "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
-                    "source": "cafeweltschmerz.nl",
-                    "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
-                    "publishedDate": "15/11/2026 12:40"
-                },
                 {
                     "title": "Artsen laks over bijwerkingen - De Andere Krant",
                     "source": "deanderekrant.nl",
@@ -276,6 +295,17 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
+            "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
+            "publishedDate": "15/11/2026 12:40",
+            "source": "cafeweltschmerz.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -657,17 +687,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Wethouder: sluiting van Tussenhout en Spaar en Hout heeft 'geen ... - Haarlems Dagblad",
-            "link": "https://www.haarlemsdagblad.nl/regio/haarlem/wethouder-sluiting-van-tussenhout-en-spaar-en-hout-heeft-geen-consequenties-voor-voorraad-zorgwoningen-in-haarlem/164474578.html",
-            "publishedDate": "15/11/2026 04:29",
-            "source": "haarlemsdagblad.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Tevredenheid bij ziekenhuiswerknemers - Reformatorisch Dagblad",
             "link": "https://www.rd.nl/artikel/tevredenheid-bij-ziekenhuiswerknemers",
             "publishedDate": "15/11/2026 01:50",
@@ -718,19 +737,13 @@
             "source": "ad.nl, destentor.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Deze artsen verwijderen de prostaat voortaan anders: einde aan erectieproblemen en urineverlies",
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/gezond/deze-artsen-verwijderen-de-prostaat-voortaan-anders-einde-aan-erectieproblemen-en-urineverlies~a80a0b2f/",
                     "publishedDate": "14/11/2026 23:29"
-                },
-                {
-                    "title": "Deze artsen verwijderen de prostaat voortaan anders: einde aan erectieproblemen en urineverlies",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/gezond/nieuwe-prostaatoperatie-belooft-einde-aan-wekenlang-urineverlies-ik-zou-het-zo-weer-doen~a80a0b2f/",
-                    "publishedDate": "14/11/2026 22:33"
                 }
             ],
             "belangrijkheid": 0
@@ -764,17 +777,6 @@
             "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "ZMC werkt aan versterking financi\u00ebn: nu nog hekkensluiter | Zaanstreek - Drimble",
-            "link": "https://drimble.nl/regio/noord-holland/zaanstreek/108603733/zmc-werkt-aan-versterking-financien-nu-nog-hekkensluiter.html",
-            "publishedDate": "14/11/2026 23:50",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -838,30 +840,11 @@
             "title": "vv Heerde verliest de derby van SEH - Nieuwsblad Schaapskooi",
             "link": "https://www.nieuwsbladschaapskooi.nl/nieuws/sport/379244/vv-heerde-verliest-de-derby-van-seh",
             "publishedDate": "14/11/2026 21:58",
-            "source": "ad.nl, nieuwsbladschaapskooi.nl, tubantia.nl",
+            "source": "nieuwsbladschaapskooi.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ...",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/oldenzaal/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
-                    "publishedDate": "14/11/2026 21:10"
-                },
-                {
-                    "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ... - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/heerde/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
-                    "publishedDate": "14/11/2026 20:48"
-                },
-                {
-                    "title": "SEH viert feest na zege in dorpsderby - Nieuwsblad Schaapskooi",
-                    "source": "nieuwsbladschaapskooi.nl",
-                    "link": "https://www.nieuwsbladschaapskooi.nl/nieuws/sport/379242/seh-viert-feest-na-zege-in-dorpsderby",
-                    "publishedDate": "14/11/2026 20:13"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -870,6 +853,35 @@
             "publishedDate": "14/11/2026 21:51",
             "source": "tubantia.nl",
             "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ...",
+            "link": "https://www.tubantia.nl/oldenzaal/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
+            "publishedDate": "14/11/2026 21:10",
+            "source": "ad.nl, tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ... - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/heerde/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
+                    "publishedDate": "14/11/2026 20:48"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "SEH viert feest na zege in dorpsderby - Nieuwsblad Schaapskooi",
+            "link": "https://www.nieuwsbladschaapskooi.nl/nieuws/sport/379242/seh-viert-feest-na-zege-in-dorpsderby",
+            "publishedDate": "14/11/2026 20:13",
+            "source": "nieuwsbladschaapskooi.nl",
+            "category": "Overig",
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -904,17 +916,6 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen schiet uit de ...",
-            "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-schiet-uit-de-startblokken~a66f0be3/",
-            "publishedDate": "14/11/2026 15:08",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1054,7 +1055,7 @@
             "feed_label": "Tuchtcollege voor de Gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
@@ -1137,7 +1138,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1166,7 +1167,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1190,7 +1191,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
@@ -1201,7 +1202,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
