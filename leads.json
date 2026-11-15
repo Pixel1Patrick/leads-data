@@ -753,28 +753,16 @@
             "title": "Grote premieverschillen basiszorgverzekering: dit zijn de duurste en goedkoopste - AD",
             "link": "https://www.ad.nl/gezond/grote-premieverschillen-basiszorgverzekering-dit-zijn-de-duurste-en-goedkoopste~ae3cb2346/",
             "publishedDate": "14/11/2026 11:41",
-            "source": "ad.nl, bd.nl, cnv.nl, destentor.nl",
+            "source": "ad.nl, bd.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
                     "source": "bd.nl",
                     "link": "https://www.bd.nl/gezond/grote-premieverschillen-tussen-de-basiszorgverzekeringen-tot-wel-650-euro-per-jaar~ae3cb2346/",
                     "publishedDate": "14/11/2026 10:06"
-                },
-                {
-                    "title": "Grootste stijging zorgpremie in jaren, maar de verschillen zijn groot | Nieuws | De Stentor.nl",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/economie/grootste-premiestijging-in-jaren-check-hier-jouw-verzekering~a7d268a1/",
-                    "publishedDate": "13/11/2026 15:55"
-                },
-                {
-                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-                    "publishedDate": "13/11/2026 10:06"
                 }
             ],
             "belangrijkheid": 1
@@ -952,17 +940,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Promoties UMCG | Faculteit Medische Wetenschappen - Rijksuniversiteit Groningen",
-            "link": "https://www.rug.nl/umcg/phd-ceremonies-umcg?hfId=124532",
-            "publishedDate": "14/11/2026 01:49",
-            "source": "rug.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Te veel papierwerk zet Belgisch zorgpersoneel onder druk - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/dossier/EGVbe2645S06_00",
             "publishedDate": "14/11/2026 00:38",
@@ -1011,7 +988,7 @@
                     "publishedDate": "13/11/2026 19:34"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Aantal Barendrechters zonder huisarts vermoedelijk veel hoger dan bekend - Barendrechts Dagblad",
@@ -1033,7 +1010,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Laat studenten kennismaken met mensen met een ernstige verstandelijke en meervoudige ...",
@@ -1080,6 +1057,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Grootste stijging zorgpremie in jaren, maar de verschillen zijn groot | Nieuws | De Stentor.nl",
+            "link": "https://www.destentor.nl/economie/grootste-premiestijging-in-jaren-check-hier-jouw-verzekering~a7d268a1/",
+            "publishedDate": "13/11/2026 15:55",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "[NU'91] Duurzame inzetbaarheid belangrijk thema tijdens cao-onderhandelingen ziekenhuizen",
@@ -1240,6 +1228,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+            "publishedDate": "13/11/2026 10:06",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/tweede-overleg-cao-ziekenhuizen",
             "publishedDate": "13/11/2026 08:40",
@@ -1339,7 +1338,7 @@
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De huisarts is meer dan een consult: tijd voor een eerlijke waardering",
