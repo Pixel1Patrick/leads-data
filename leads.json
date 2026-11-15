@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Frederique uit Helmond is topsporter maar kan niet zonder haar werk in de zorg",
+            "link": "https://ditishelmond.nl/helmondse-frederique-is-topsporter-maar-kan-niet-zonder-haar-werk-in-de-zorg/",
+            "publishedDate": "15/11/2026 09:21",
+            "source": "ditishelmond.nl",
+            "category": "Overig",
+            "feed_label": "Alert Gehandicaptenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Sint heeft het op eerste dag in de regio maar druk met al die blije kinderen (met veel foto's!)",
             "link": "https://www.gelderlander.nl/enschede/sint-heeft-het-op-eerste-dag-in-de-regio-maar-druk-met-al-die-blije-kinderen-met-veel-fotos~a9ece411/",
             "publishedDate": "15/11/2026 08:05",
@@ -646,18 +657,11 @@
             "title": "'Het water spoot uit de stopcontacten': onderbuurman zwaar getroffen door flatbrand in Breda - PZC",
             "link": "https://www.pzc.nl/breda/het-water-spoot-uit-de-stopcontacten-onderbuurman-zwaar-getroffen-door-flatbrand-in-breda~a7729784/",
             "publishedDate": "14/11/2026 17:26",
-            "source": "bndestem.nl, pzc.nl",
+            "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Brand jaagt bewoners Bredase flat hun huis uit: 'Ik zag ineens enorme vlammen onder me'",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/breda/brand-jaagt-bewoners-bredase-flat-hun-huis-uit-ik-zag-ineens-enorme-vlammen-onder-me~a7d5ede3/",
-                    "publishedDate": "14/11/2026 13:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -825,6 +829,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Brand jaagt bewoners Bredase flat hun huis uit: 'Ik zag ineens enorme vlammen onder me'",
+            "link": "https://www.bndestem.nl/breda/brand-jaagt-bewoners-bredase-flat-hun-huis-uit-ik-zag-ineens-enorme-vlammen-onder-me~a7d5ede3/",
+            "publishedDate": "14/11/2026 13:43",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Startende arts moet flink betalen - Reformatorisch Dagblad",
             "link": "https://www.rd.nl/artikel/startende-arts-moet-flink-betalen",
             "publishedDate": "14/11/2026 13:15",
@@ -894,11 +909,18 @@
             "title": "Grote premieverschillen basiszorgverzekering: dit zijn de duurste en goedkoopste - AD",
             "link": "https://www.ad.nl/gezond/grote-premieverschillen-basiszorgverzekering-dit-zijn-de-duurste-en-goedkoopste~ae3cb2346/",
             "publishedDate": "14/11/2026 11:41",
-            "source": "ad.nl",
+            "source": "ad.nl, bd.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/gezond/grote-premieverschillen-tussen-de-basiszorgverzekeringen-tot-wel-650-euro-per-jaar~ae3cb2346/",
+                    "publishedDate": "14/11/2026 10:06"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -919,17 +941,6 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
-            "link": "https://www.bd.nl/gezond/grote-premieverschillen-tussen-de-basiszorgverzekeringen-tot-wel-650-euro-per-jaar~ae3cb2346/",
-            "publishedDate": "14/11/2026 10:06",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1087,17 +1098,6 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Laat studenten kennismaken met mensen met een ernstige verstandelijke en meervoudige ...",
-            "link": "https://www.dvhn.nl/meningen/opinie/laat-studenten-kennismaken-met-mensen-met-een-ernstige-verstandelijke-en-meervoudige-beperking/164346900.html",
-            "publishedDate": "13/11/2026 17:13",
-            "source": "dvhn.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Gehandicaptenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
