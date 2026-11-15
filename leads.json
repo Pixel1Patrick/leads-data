@@ -155,7 +155,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Minister Sterk brengt komende week werkbezoek aan Bonaire",
@@ -592,22 +592,16 @@
             "title": "Oud-huisarts bereidt massaclaim tegen Eternit voor: 'Bedragen die het leed echt vergoeden'",
             "link": "https://www.bndestem.nl/binnenland/mogelijk-massaclaim-tegen-voormalig-asbestfabriek-eternit-bedragen-die-het-leed-echt-vergoeden~a69cdd20/",
             "publishedDate": "15/11/2026 06:52",
-            "source": "bndestem.nl, destentor.nl, drimble.nl",
+            "source": "bndestem.nl, drimble.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Oud-huisarts bereidt massaclaim tegen Eternit voor: `Bedragen die het leed echt vergoeden`",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/binnenlands-nieuws/108602140/oud-huisarts-bereidt-massaclaim-tegen-eternit-voor-bedragen-die-het-leed-echt-vergoeden.html",
                     "publishedDate": "15/11/2026 05:06"
-                },
-                {
-                    "title": "Oud-huisarts uit Diepenheim bereidt massaclaim tegen Eternit voor | Regio | De Stentor.nl",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/hengelo/oud-huisarts-uit-diepenheim-bereidt-massaclaim-tegen-voormalig-asbestfabriek-in-goor-voor-het-had-allemaal-voorkomen-kunnen-worden~a69cdd20/",
-                    "publishedDate": "15/11/2026 04:45"
                 }
             ],
             "belangrijkheid": 0
@@ -652,6 +646,17 @@
             "source": "sciensano.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Oud-huisarts uit Diepenheim bereidt massaclaim tegen Eternit voor | Regio | De Stentor.nl",
+            "link": "https://www.destentor.nl/hengelo/oud-huisarts-uit-diepenheim-bereidt-massaclaim-tegen-voormalig-asbestfabriek-in-goor-voor-het-had-allemaal-voorkomen-kunnen-worden~a69cdd20/",
+            "publishedDate": "15/11/2026 04:45",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -860,30 +865,29 @@
             "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ...",
             "link": "https://www.tubantia.nl/oldenzaal/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
             "publishedDate": "14/11/2026 21:10",
-            "source": "ad.nl, destentor.nl, nieuwsbladschaapskooi.nl, tubantia.nl",
+            "source": "ad.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ... - AD",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/heerde/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
                     "publishedDate": "14/11/2026 20:48"
-                },
-                {
-                    "title": "SEH viert feest na zege in dorpsderby - Nieuwsblad Schaapskooi",
-                    "source": "nieuwsbladschaapskooi.nl",
-                    "link": "https://www.nieuwsbladschaapskooi.nl/nieuws/sport/379242/seh-viert-feest-na-zege-in-dorpsderby",
-                    "publishedDate": "14/11/2026 20:13"
-                },
-                {
-                    "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen schiet uit de ...",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-schiet-uit-de-startblokken~a66f0be3/",
-                    "publishedDate": "14/11/2026 15:08"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "SEH viert feest na zege in dorpsderby - Nieuwsblad Schaapskooi",
+            "link": "https://www.nieuwsbladschaapskooi.nl/nieuws/sport/379242/seh-viert-feest-na-zege-in-dorpsderby",
+            "publishedDate": "14/11/2026 20:13",
+            "source": "nieuwsbladschaapskooi.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -917,7 +921,18 @@
             "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen schiet uit de ...",
+            "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-schiet-uit-de-startblokken~a66f0be3/",
+            "publishedDate": "14/11/2026 15:08",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Zorginstelling in Diemen deels ontruimd na rook via ventilatiesysteem - 112 in Beeld",
@@ -1137,7 +1152,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1166,7 +1181,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1190,7 +1205,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
