@@ -390,19 +390,12 @@
             "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
             "publishedDate": "15/11/2026 14:52",
-            "source": "cnv.nl, zorgwijzer.nl",
+            "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-                    "publishedDate": "13/11/2026 10:06"
-                }
-            ],
-            "belangrijkheid": 0
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Video: Spectaculaire takeloperatie nieuwe MRI-scanner bij Viasana - inMill.nl",
@@ -441,12 +434,19 @@
             "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
             "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
             "publishedDate": "15/11/2026 14:09",
-            "source": "nunspeet.nieuws.nl",
+            "source": "nunspeet.nieuws.nl, stedendriehoek.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Vertel me Gelre over de overgang - Stedendriehoek",
+                    "source": "stedendriehoek.nl",
+                    "link": "https://www.stedendriehoek.nl/stedendriehoek/algemeen/vertel-me-gelre-over-de-overgang-2/",
+                    "publishedDate": "15/11/2026 14:02"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Minister Sterk brengt komende week werkbezoek aan Bonaire",
@@ -455,17 +455,6 @@
             "source": "bonaire.nu",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Vertel me Gelre over de overgang - Stedendriehoek",
-            "link": "https://www.stedendriehoek.nl/stedendriehoek/algemeen/vertel-me-gelre-over-de-overgang-2/",
-            "publishedDate": "15/11/2026 14:02",
-            "source": "stedendriehoek.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -926,41 +915,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "vv Heerde verliest de derby van SEH - Nieuwsblad Schaapskooi",
-            "link": "https://www.nieuwsbladschaapskooi.nl/nieuws/sport/379244/vv-heerde-verliest-de-derby-van-seh",
-            "publishedDate": "14/11/2026 21:58",
-            "source": "ad.nl, nieuwsbladschaapskooi.nl, tubantia.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ...",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/oldenzaal/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
-                    "publishedDate": "14/11/2026 21:10"
-                },
-                {
-                    "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ... - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/heerde/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
-                    "publishedDate": "14/11/2026 20:48"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "op 21 plekken in Noordoost-Twente wordt Sinterklaas liefdevol onthaald | Regio - Tubantia",
-            "link": "https://www.tubantia.nl/oldenzaal/in-een-onrustige-wereld-is-dit-mooi-nieuws-op-21-plekken-in-noordoost-twente-wordt-sinterklaas-liefdevol-onthaald~aa092415/",
-            "publishedDate": "14/11/2026 21:51",
-            "source": "tubantia.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "'Het water spoot uit de stopcontacten': onderbuurman zwaar getroffen door flatbrand in Breda - PZC",
             "link": "https://www.pzc.nl/breda/het-water-spoot-uit-de-stopcontacten-onderbuurman-zwaar-getroffen-door-flatbrand-in-breda~a7729784/",
             "publishedDate": "14/11/2026 17:26",
@@ -1031,7 +985,7 @@
                     "publishedDate": "13/11/2026 19:34"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
@@ -1211,7 +1165,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1236,6 +1190,17 @@
                 }
             ],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+            "publishedDate": "13/11/2026 10:06",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
