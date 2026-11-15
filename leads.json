@@ -118,12 +118,25 @@
             "title": "Wethouder: sluiting van Tussenhout en Spaar en Hout heeft 'geen ... - Haarlems Dagblad",
             "link": "https://www.haarlemsdagblad.nl/regio/haarlem/wethouder-sluiting-van-tussenhout-en-spaar-en-hout-heeft-geen-consequenties-voor-voorraad-zorgwoningen-in-haarlem/164474578.html",
             "publishedDate": "15/11/2026 04:29",
-            "source": "haarlemsdagblad.nl",
+            "source": "haarlemsdagblad.nl, igj.nl, zorgkrant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Balans Thuiszorg in Oosterhout heeft Last onder dwangsom en aanwijzing met cli\u00ebntenstop",
+                    "source": "zorgkrant.nl",
+                    "link": "https://www.zorgkrant.nl/management-en-beleid/21668-balans-thuiszorg-in-oosterhout-heeft-last-onder-dwangsom-en-aanwijzing-met-clientenstop",
+                    "publishedDate": "13/11/2026 11:02"
+                },
+                {
+                    "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
+                    "publishedDate": "12/11/2026 13:44"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Stroomstoring op Jan Vermeerlaan in Roosendaal opgelost | Regio | BN DeStem.nl",
@@ -255,18 +268,11 @@
             "title": "Slachtoffer steekpartij Maastricht is 46-jarige man - L1 Nieuws",
             "link": "https://www.l1nieuws.nl/nieuws/3272307/slachtoffer-steekpartij-maastricht-is-46-jarige-man",
             "publishedDate": "14/11/2026 23:39",
-            "source": "l1nieuws.nl, moordplekken.nl",
+            "source": "l1nieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Update steekpartij Vrijthof Maastricht: slachtoffer (46) en - Moordplekken.nl",
-                    "source": "moordplekken.nl",
-                    "link": "https://www.moordplekken.nl/nieuws/update-steekpartij-vrijthof-maastricht-slachtoffer-46-ziekenhuis-steekwapen",
-                    "publishedDate": "14/11/2026 22:30"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -347,6 +353,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Update steekpartij Vrijthof Maastricht: slachtoffer (46) en - Moordplekken.nl",
+            "link": "https://www.moordplekken.nl/nieuws/update-steekpartij-vrijthof-maastricht-slachtoffer-46-ziekenhuis-steekwapen",
+            "publishedDate": "14/11/2026 22:30",
+            "source": "moordplekken.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Na vijftien jaar wachten gaan in december de eerste woningen van het Elzenpark in ... - BN DeStem",
             "link": "https://www.bndestem.nl/drimmelen/na-vijftien-jaar-wachten-gaan-in-december-de-eerste-woningen-van-het-elzenpark-in-wagenberg-eindelijk-in-de-verkoop~ad806315/",
             "publishedDate": "14/11/2026 22:18",
@@ -383,60 +400,11 @@
             "title": "vv Heerde verliest de derby van SEH - Nieuwsblad Schaapskooi",
             "link": "https://www.nieuwsbladschaapskooi.nl/nieuws/sport/379244/vv-heerde-verliest-de-derby-van-seh",
             "publishedDate": "14/11/2026 21:58",
-            "source": "ad.nl, destentor.nl, nieuwsbladschaapskooi.nl, tubantia.nl",
+            "source": "nieuwsbladschaapskooi.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 9,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ...",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/oldenzaal/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
-                    "publishedDate": "14/11/2026 21:10"
-                },
-                {
-                    "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ... - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/heerde/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
-                    "publishedDate": "14/11/2026 20:48"
-                },
-                {
-                    "title": "SEH viert feest na zege in dorpsderby - Nieuwsblad Schaapskooi",
-                    "source": "nieuwsbladschaapskooi.nl",
-                    "link": "https://www.nieuwsbladschaapskooi.nl/nieuws/sport/379242/seh-viert-feest-na-zege-in-dorpsderby",
-                    "publishedDate": "14/11/2026 20:13"
-                },
-                {
-                    "title": "Broeksema beslist derby in voordeel SEH \u2022 Pouwels helpt HHC aan zege \u2022 Ex-prof zet ...",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-broeksema-beslist-derby-in-voordeel-seh-pouwels-helpt-hhc-aan-zege-ex-prof-zet-katwijk-naast-rohda~a66f0be3/",
-                    "publishedDate": "14/11/2026 16:47"
-                },
-                {
-                    "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Pouwels van schlemiel naar held binnen minuut",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-pouwels-van-schlemiel-naar-held-binnen-minuut-rohda-op-voorsprong-tegen-katwijk~a66f0be3/",
-                    "publishedDate": "14/11/2026 16:20"
-                },
-                {
-                    "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Riante voorsprong voor Sparta Nijkerk - Destentor",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-riante-voorsprong-voor-sparta-nijkerk-hhc-op-jacht-naar-treffer-tegen-tiental~a66f0be3/",
-                    "publishedDate": "14/11/2026 16:06"
-                },
-                {
-                    "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen schiet uit de ...",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-schiet-uit-de-startblokken~a66f0be3/",
-                    "publishedDate": "14/11/2026 15:08"
-                },
-                {
-                    "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen is in vorm",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-is-in-vorm~a66f0be3/",
-                    "publishedDate": "14/11/2026 14:56"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -495,12 +463,71 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ...",
+            "link": "https://www.tubantia.nl/oldenzaal/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
+            "publishedDate": "14/11/2026 21:10",
+            "source": "ad.nl, destentor.nl, tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 7,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ... - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/heerde/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
+                    "publishedDate": "14/11/2026 20:48"
+                },
+                {
+                    "title": "Broeksema beslist derby in voordeel SEH \u2022 Pouwels helpt HHC aan zege \u2022 Ex-prof zet ...",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/amateurvoetbal/live-broeksema-beslist-derby-in-voordeel-seh-pouwels-helpt-hhc-aan-zege-ex-prof-zet-katwijk-naast-rohda~a66f0be3/",
+                    "publishedDate": "14/11/2026 16:47"
+                },
+                {
+                    "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Pouwels van schlemiel naar held binnen minuut",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-pouwels-van-schlemiel-naar-held-binnen-minuut-rohda-op-voorsprong-tegen-katwijk~a66f0be3/",
+                    "publishedDate": "14/11/2026 16:20"
+                },
+                {
+                    "title": "LIVE | SEH aan de leiding in dorpsderby \u2022 Riante voorsprong voor Sparta Nijkerk - Destentor",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-aan-de-leiding-in-dorpsderby-riante-voorsprong-voor-sparta-nijkerk-hhc-op-jacht-naar-treffer-tegen-tiental~a66f0be3/",
+                    "publishedDate": "14/11/2026 16:06"
+                },
+                {
+                    "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen schiet uit de ...",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-schiet-uit-de-startblokken~a66f0be3/",
+                    "publishedDate": "14/11/2026 15:08"
+                },
+                {
+                    "title": "SEH dicht bij openingstreffer \u2022 HHC en Staphorst krijgen kansen \u2022 FC Zutphen is in vorm",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/amateurvoetbal/live-seh-dicht-bij-openingstreffer-hhc-en-staphorst-krijgen-kansen-fc-zutphen-is-in-vorm~a66f0be3/",
+                    "publishedDate": "14/11/2026 14:56"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "'Door aanhoudende jeuk heb ik toevallig ontdekt dat ik diabetes heb': een op de drie ... - De Morgen",
             "link": "https://www.demorgen.be/nieuws/door-aanhoudende-jeuk-heb-ik-toevallig-ontdekt-dat-ik-diabetes-heb-een-op-de-drie-diabetespatienten-weet-het-niet~bb0bd7c7/",
             "publishedDate": "14/11/2026 20:43",
             "source": "demorgen.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "SEH viert feest na zege in dorpsderby - Nieuwsblad Schaapskooi",
+            "link": "https://www.nieuwsbladschaapskooi.nl/nieuws/sport/379242/seh-viert-feest-na-zege-in-dorpsderby",
+            "publishedDate": "14/11/2026 20:13",
+            "source": "nieuwsbladschaapskooi.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -831,12 +858,19 @@
             "title": "Grote premieverschillen basiszorgverzekering: dit zijn de duurste en goedkoopste - AD",
             "link": "https://www.ad.nl/gezond/grote-premieverschillen-basiszorgverzekering-dit-zijn-de-duurste-en-goedkoopste~ae3cb2346/",
             "publishedDate": "14/11/2026 11:41",
-            "source": "ad.nl",
+            "source": "ad.nl, bd.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/gezond/grote-premieverschillen-tussen-de-basiszorgverzekeringen-tot-wel-650-euro-per-jaar~ae3cb2346/",
+                    "publishedDate": "14/11/2026 10:06"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Waarom zorgverzekeraar De Friesland dit jaar een greep uit eigen reserves doet",
@@ -856,17 +890,6 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
-            "link": "https://www.bd.nl/gezond/grote-premieverschillen-tussen-de-basiszorgverzekeringen-tot-wel-650-euro-per-jaar~ae3cb2346/",
-            "publishedDate": "14/11/2026 10:06",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1161,7 +1184,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Brief van Stichting Acute Zorq VPR in reactie op brief van VWS over \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
@@ -1180,20 +1203,15 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
                     "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
+                    "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
-            "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
-            "publishedDate": "13/11/2026 11:18",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1204,24 +1222,6 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Balans Thuiszorg in Oosterhout heeft Last onder dwangsom en aanwijzing met cli\u00ebntenstop",
-            "link": "https://www.zorgkrant.nl/management-en-beleid/21668-balans-thuiszorg-in-oosterhout-heeft-last-onder-dwangsom-en-aanwijzing-met-clientenstop",
-            "publishedDate": "13/11/2026 11:02",
-            "source": "igj.nl, zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
-                    "publishedDate": "12/11/2026 13:44"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
