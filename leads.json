@@ -48,18 +48,22 @@
             "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
             "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
             "publishedDate": "15/11/2026 14:09",
-            "source": "nunspeet.nieuws.nl, zorgkrant.nl",
+            "source": "nunspeet.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Balans Thuiszorg in Oosterhout heeft Last onder dwangsom en aanwijzing met cli\u00ebntenstop",
-                    "source": "zorgkrant.nl",
-                    "link": "https://www.zorgkrant.nl/management-en-beleid/21668-balans-thuiszorg-in-oosterhout-heeft-last-onder-dwangsom-en-aanwijzing-met-clientenstop",
-                    "publishedDate": "13/11/2026 11:02"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Yerseke trots en feestelijk: eindelijk weer een zorgeloze intocht van Sinterklaas - PZC",
+            "link": "https://www.pzc.nl/reimerswaal/yerseke-trots-en-feestelijk-eindelijk-weer-een-zorgeloze-intocht-van-sinterklaas~aab11035/",
+            "publishedDate": "15/11/2026 14:00",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -80,15 +84,8 @@
             "source": "deanderekrant.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Artsen laks over bijwerkingen - De Andere Krant",
-                    "source": "deanderekrant.nl",
-                    "link": "https://deanderekrant.nl/artsen-laks-over-bijwerkingen/",
-                    "publishedDate": "15/11/2026 09:39"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -237,6 +234,17 @@
             "source": "rtvparkstad.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Artsen laks over bijwerkingen - De Andere Krant",
+            "link": "https://deanderekrant.nl/artsen-laks-over-bijwerkingen/",
+            "publishedDate": "15/11/2026 09:39",
+            "source": "deanderekrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -589,7 +597,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Analyse: de gemeenteraad van Stadskanaal blijft vechten met de klok. `Niet afraffelen!` | Groningen",
@@ -989,7 +997,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -1055,16 +1063,28 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
                     "publishedDate": "13/11/2026 12:34"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
+                    "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
+                    "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "In gesprek met VWS over de impact van regeldruk op de eerstelijnszorg - KNMP",
@@ -1102,33 +1122,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Brief van Stichting Acute Zorq VPR in reactie op brief van VWS over \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
                     "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
-                    "publishedDate": "13/11/2026 11:18"
                 }
             ],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
+            "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
+            "publishedDate": "13/11/2026 11:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1140,6 +1153,24 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Balans Thuiszorg in Oosterhout heeft Last onder dwangsom en aanwijzing met cli\u00ebntenstop",
+            "link": "https://www.zorgkrant.nl/management-en-beleid/21668-balans-thuiszorg-in-oosterhout-heeft-last-onder-dwangsom-en-aanwijzing-met-clientenstop",
+            "publishedDate": "13/11/2026 11:02",
+            "source": "igj.nl, zorgkrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgaanbieder",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
+                    "publishedDate": "12/11/2026 13:44"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1164,7 +1195,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
@@ -1233,17 +1264,6 @@
                     "publishedDate": "10/11/2026 10:00"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Last onder dwangsom en aanwijzing met cli\u00ebntenstop voor Balans Thuiszorg in Oosterhout",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/12/last-onder-dwangsom-en-aanwijzing-met-clientenstop-voor-balans-thuiszorg-in-oosterhout",
-            "publishedDate": "12/11/2026 13:44",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
