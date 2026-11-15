@@ -1,6 +1,24 @@
 {
     "artikelen": [
         {
+            "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Twente en Salland",
+            "link": "https://www.tubantia.nl/hellendoorn/huisartsen-slaan-alarm-over-zorg-voor-oekraiense-vluchtelingen-in-twente-en-salland-levensgevaarlijk~a3bdb137/",
+            "publishedDate": "15/11/2026 19:09",
+            "source": "ad.nl, tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Twente en Salland - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/hellendoorn/huisartsen-slaan-alarm-over-zorg-voor-oekraiense-vluchtelingen-in-twente-en-salland-levensgevaarlijk~a3bdb137/",
+                    "publishedDate": "15/11/2026 19:08"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Schilderijen uit oud ziekenhuis vinden massaal nieuwe plek: 'Met pijn in het hart verkocht'",
             "link": "https://www.gld.nl/nieuws/8547482/schilderijen-uit-oud-ziekenhuis-vinden-massaal-nieuwe-plek-met-pijn-in-het-hart-verkocht",
             "publishedDate": "15/11/2026 18:43",
@@ -108,24 +126,11 @@
             "title": "Jeugdhulp MetMaya opnieuw duurder: regio Amersfoort trekt vier miljoen extra uit | Utrecht Stad",
             "link": "https://drimble.nl/regio/utrecht/utrecht/108607427/jeugdhulp-metmaya-opnieuw-duurder-regio-amersfoort-trekt-vier-miljoen-extra-uit.html",
             "publishedDate": "15/11/2026 16:22",
-            "source": "drimble.nl, nl.headtopics.com",
+            "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
-                    "publishedDate": "15/11/2026 15:46"
-                },
-                {
-                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan | Utrecht Stad",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/utrecht/utrecht/108606185/deze-week-failliet-na-faillietverklaring-kondigt-jeugdzorg-advocaat-hoger-beroep-aan.html",
-                    "publishedDate": "15/11/2026 12:22"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -137,6 +142,24 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
+            "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
+            "publishedDate": "15/11/2026 15:46",
+            "source": "drimble.nl, nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan | Utrecht Stad",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/utrecht/utrecht/108606185/deze-week-failliet-na-faillietverklaring-kondigt-jeugdzorg-advocaat-hoger-beroep-aan.html",
+                    "publishedDate": "15/11/2026 12:22"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -187,18 +210,11 @@
             "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
             "publishedDate": "15/11/2026 14:52",
-            "source": "cnv.nl, zorgwijzer.nl",
+            "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-                    "publishedDate": "13/11/2026 10:06"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -232,7 +248,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Minister Sterk brengt komende week werkbezoek aan Bonaire",
@@ -607,16 +623,22 @@
             "title": "Oud-huisarts bereidt massaclaim tegen Eternit voor: 'Bedragen die het leed echt vergoeden'",
             "link": "https://www.bndestem.nl/binnenland/mogelijk-massaclaim-tegen-voormalig-asbestfabriek-eternit-bedragen-die-het-leed-echt-vergoeden~a69cdd20/",
             "publishedDate": "15/11/2026 06:52",
-            "source": "bndestem.nl, drimble.nl",
+            "source": "bndestem.nl, destentor.nl, drimble.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Oud-huisarts bereidt massaclaim tegen Eternit voor: `Bedragen die het leed echt vergoeden`",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/binnenlands-nieuws/108602140/oud-huisarts-bereidt-massaclaim-tegen-eternit-voor-bedragen-die-het-leed-echt-vergoeden.html",
                     "publishedDate": "15/11/2026 05:06"
+                },
+                {
+                    "title": "Oud-huisarts uit Diepenheim bereidt massaclaim tegen Eternit voor | Regio | De Stentor.nl",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/hengelo/oud-huisarts-uit-diepenheim-bereidt-massaclaim-tegen-voormalig-asbestfabriek-in-goor-voor-het-had-allemaal-voorkomen-kunnen-worden~a69cdd20/",
+                    "publishedDate": "15/11/2026 04:45"
                 }
             ],
             "belangrijkheid": 0
@@ -661,17 +683,6 @@
             "source": "sciensano.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Oud-huisarts uit Diepenheim bereidt massaclaim tegen Eternit voor | Regio | De Stentor.nl",
-            "link": "https://www.destentor.nl/hengelo/oud-huisarts-uit-diepenheim-bereidt-massaclaim-tegen-voormalig-asbestfabriek-in-goor-voor-het-had-allemaal-voorkomen-kunnen-worden~a69cdd20/",
-            "publishedDate": "15/11/2026 04:45",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -735,18 +746,11 @@
             "title": "Deze artsen verwijderen de prostaat voortaan anders: einde aan erectieproblemen en urineverlies",
             "link": "https://www.ad.nl/gezond/deze-artsen-verwijderen-de-prostaat-voortaan-anders-einde-aan-erectieproblemen-en-urineverlies~a80a0b2f/",
             "publishedDate": "15/11/2026 00:23",
-            "source": "ad.nl, destentor.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Deze artsen verwijderen de prostaat voortaan anders: einde aan erectieproblemen en urineverlies",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/gezond/deze-artsen-verwijderen-de-prostaat-voortaan-anders-einde-aan-erectieproblemen-en-urineverlies~a80a0b2f/",
-                    "publishedDate": "14/11/2026 23:29"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -778,17 +782,6 @@
             "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Het gezicht van Best, Judith Postuma: 'Ik geloof in samen sterk' | Regio | BD.nl",
-            "link": "https://www.bd.nl/eindhoven/het-gezicht-van-best-judith-postuma-ik-geloof-in-samen-sterk~a7a6cfc8/",
-            "publishedDate": "14/11/2026 23:32",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1056,7 +1049,7 @@
             "feed_label": "Tuchtcollege voor de Gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
@@ -1139,7 +1132,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1168,7 +1161,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1192,7 +1185,18 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+            "publishedDate": "13/11/2026 10:06",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
