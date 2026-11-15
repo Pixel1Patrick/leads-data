@@ -629,22 +629,18 @@
             "title": "Zorginstelling in Diemen deels ontruimd na rook via ventilatiesysteem - 112 in Beeld",
             "link": "https://112inbeeld.nl/112-melding-aan-de-arent-krijtsstraat-in-diemen/",
             "publishedDate": "14/11/2026 14:50",
-            "source": "112inbeeld.nl",
+            "source": "112inbeeld.nl, hardnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorginstelling ontruimd na rookontwikkeling bij werkzaamheden op dak - Hardnieuws",
-            "link": "https://www.hardnieuws.nl/noord-holland/diemen/zorginstelling-ontruimd-na-rookontwikkeling-bij-werkzaamheden-op-dak-arent-krijtsstraat-diemen-76052.html",
-            "publishedDate": "14/11/2026 14:39",
-            "source": "hardnieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorginstelling ontruimd na rookontwikkeling bij werkzaamheden op dak - Hardnieuws",
+                    "source": "hardnieuws.nl",
+                    "link": "https://www.hardnieuws.nl/noord-holland/diemen/zorginstelling-ontruimd-na-rookontwikkeling-bij-werkzaamheden-op-dak-arent-krijtsstraat-diemen-76052.html",
+                    "publishedDate": "14/11/2026 14:39"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -757,11 +753,30 @@
             "title": "Grote premieverschillen basiszorgverzekering: dit zijn de duurste en goedkoopste - AD",
             "link": "https://www.ad.nl/gezond/grote-premieverschillen-basiszorgverzekering-dit-zijn-de-duurste-en-goedkoopste~ae3cb2346/",
             "publishedDate": "14/11/2026 11:41",
-            "source": "ad.nl",
+            "source": "ad.nl, bd.nl, cnv.nl, destentor.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/gezond/grote-premieverschillen-tussen-de-basiszorgverzekeringen-tot-wel-650-euro-per-jaar~ae3cb2346/",
+                    "publishedDate": "14/11/2026 10:06"
+                },
+                {
+                    "title": "Grootste stijging zorgpremie in jaren, maar de verschillen zijn groot | Nieuws | De Stentor.nl",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/economie/grootste-premiestijging-in-jaren-check-hier-jouw-verzekering~a7d268a1/",
+                    "publishedDate": "13/11/2026 15:55"
+                },
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -785,17 +800,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Grote premieverschillen tussen de basiszorgverzekeringen, tot wel 650 euro per jaar",
-            "link": "https://www.bd.nl/gezond/grote-premieverschillen-tussen-de-basiszorgverzekeringen-tot-wel-650-euro-per-jaar~ae3cb2346/",
-            "publishedDate": "14/11/2026 10:06",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "Financi\u00eble crisis HOH dreigt te verergeren in december - Amigoe Aruba",
@@ -1029,7 +1033,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Laat studenten kennismaken met mensen met een ernstige verstandelijke en meervoudige ...",
@@ -1076,17 +1080,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Grootste stijging zorgpremie in jaren, maar de verschillen zijn groot | Nieuws | De Stentor.nl",
-            "link": "https://www.destentor.nl/economie/grootste-premiestijging-in-jaren-check-hier-jouw-verzekering~a7d268a1/",
-            "publishedDate": "13/11/2026 15:55",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "[NU'91] Duurzame inzetbaarheid belangrijk thema tijdens cao-onderhandelingen ziekenhuizen",
@@ -1191,7 +1184,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1244,17 +1237,6 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
