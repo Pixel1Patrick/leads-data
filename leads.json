@@ -296,24 +296,11 @@
             "title": "Slachtoffer steekpartij Maastricht is 46-jarige man - L1 Nieuws",
             "link": "https://www.l1nieuws.nl/nieuws/3272307/slachtoffer-steekpartij-maastricht-is-46-jarige-man",
             "publishedDate": "14/11/2026 23:39",
-            "source": "l1nieuws.nl, limburger.nl, moordplekken.nl",
+            "source": "l1nieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Update steekpartij Vrijthof Maastricht: slachtoffer (46) en - Moordplekken.nl",
-                    "source": "moordplekken.nl",
-                    "link": "https://www.moordplekken.nl/nieuws/update-steekpartij-vrijthof-maastricht-slachtoffer-46-ziekenhuis-steekwapen",
-                    "publishedDate": "14/11/2026 22:30"
-                },
-                {
-                    "title": "Man gewond bij steekpartij in centrum van Maastricht - De Limburger",
-                    "source": "limburger.nl",
-                    "link": "https://www.limburger.nl/video-zebra/man-gewond-bij-steekpartij-in-centrum-van-maastricht/164548559.html",
-                    "publishedDate": "14/11/2026 13:19"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -388,6 +375,17 @@
             "publishedDate": "14/11/2026 22:47",
             "source": "dvhn.nl",
             "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Update steekpartij Vrijthof Maastricht: slachtoffer (46) en - Moordplekken.nl",
+            "link": "https://www.moordplekken.nl/nieuws/update-steekpartij-vrijthof-maastricht-slachtoffer-46-ziekenhuis-steekwapen",
+            "publishedDate": "14/11/2026 22:30",
+            "source": "moordplekken.nl",
+            "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -829,6 +827,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Man gewond bij steekpartij in centrum van Maastricht - De Limburger",
+            "link": "https://www.limburger.nl/video-zebra/man-gewond-bij-steekpartij-in-centrum-van-maastricht/164548559.html",
+            "publishedDate": "14/11/2026 13:19",
+            "source": "limburger.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Startende arts moet flink betalen - Reformatorisch Dagblad",
             "link": "https://www.rd.nl/artikel/startende-arts-moet-flink-betalen",
             "publishedDate": "14/11/2026 13:15",
@@ -916,18 +925,11 @@
             "title": "Waarom zorgverzekeraar De Friesland dit jaar een greep uit eigen reserves doet",
             "link": "https://www.lc.nl/economie/waarom-zorgverzekeraar-de-friesland-dit-jaar-een-greep-uit-eigen-reserves-doet-we-willen-de-premie-stabiel-houden/164500716.html",
             "publishedDate": "14/11/2026 11:21",
-            "source": "lc.nl, weblog.independer.nl",
+            "source": "lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zorgpremie De Friesland 2027 bekend: stijging van \u20ac 6 - Independer.nl",
-                    "source": "weblog.independer.nl",
-                    "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-friesland-2027-bekend-stijging-van-e-6/",
-                    "publishedDate": "14/11/2026 04:11"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -997,6 +999,17 @@
             "link": "https://drimble.nl/regio/utrecht/utrecht/108591320/stand-van-zaken-contracten-zorgverzekeraars-2027.html",
             "publishedDate": "14/11/2026 04:41",
             "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgpremie De Friesland 2027 bekend: stijging van \u20ac 6 - Independer.nl",
+            "link": "https://weblog.independer.nl/zorgverzekeringen/zorgpremie-de-friesland-2027-bekend-stijging-van-e-6/",
+            "publishedDate": "14/11/2026 04:11",
+            "source": "weblog.independer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
@@ -1289,7 +1302,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
