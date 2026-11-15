@@ -337,7 +337,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Opinie: 'Wat als het recept dat ik hier aan mijn pati\u00ebnten voorschrijf elders genocidaal ...",
@@ -477,7 +477,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Analyse: de gemeenteraad van Stadskanaal blijft vechten met de klok. `Niet afraffelen!` | Groningen",
@@ -615,22 +615,16 @@
             "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ...",
             "link": "https://www.tubantia.nl/oldenzaal/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
             "publishedDate": "14/11/2026 21:10",
-            "source": "ad.nl, nieuwsbladschaapskooi.nl, tubantia.nl",
+            "source": "ad.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Nieuwkomer Broeksema bezorgt SEH winst in derby tegen Heerde: 'Mooier kan je het zelfs ... - AD",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/heerde/nieuwkomer-broeksema-bezorgt-seh-winst-in-derby-tegen-heerde-mooier-kan-je-het-zelfs-niet-dromen~a99a223c2/",
                     "publishedDate": "14/11/2026 20:48"
-                },
-                {
-                    "title": "SEH viert feest na zege in dorpsderby - Nieuwsblad Schaapskooi",
-                    "source": "nieuwsbladschaapskooi.nl",
-                    "link": "https://www.nieuwsbladschaapskooi.nl/nieuws/sport/379242/seh-viert-feest-na-zege-in-dorpsderby",
-                    "publishedDate": "14/11/2026 20:13"
                 }
             ],
             "belangrijkheid": 0
@@ -642,6 +636,17 @@
             "source": "demorgen.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "SEH viert feest na zege in dorpsderby - Nieuwsblad Schaapskooi",
+            "link": "https://www.nieuwsbladschaapskooi.nl/nieuws/sport/379242/seh-viert-feest-na-zege-in-dorpsderby",
+            "publishedDate": "14/11/2026 20:13",
+            "source": "nieuwsbladschaapskooi.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -727,11 +732,18 @@
             "title": "'Het water spoot uit de stopcontacten': onderbuurman zwaar getroffen door flatbrand in Breda - PZC",
             "link": "https://www.pzc.nl/breda/het-water-spoot-uit-de-stopcontacten-onderbuurman-zwaar-getroffen-door-flatbrand-in-breda~a7729784/",
             "publishedDate": "14/11/2026 17:26",
-            "source": "pzc.nl",
+            "source": "bndestem.nl, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Brand jaagt bewoners Bredase flat hun huis uit: 'Ik zag ineens enorme vlammen onder me'",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/breda/brand-jaagt-bewoners-bredase-flat-hun-huis-uit-ik-zag-ineens-enorme-vlammen-onder-me~a7d5ede3/",
+                    "publishedDate": "14/11/2026 13:43"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -888,17 +900,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Brand jaagt bewoners Bredase flat hun huis uit: 'Ik zag ineens enorme vlammen onder me'",
-            "link": "https://www.bndestem.nl/breda/brand-jaagt-bewoners-bredase-flat-hun-huis-uit-ik-zag-ineens-enorme-vlammen-onder-me~a7d5ede3/",
-            "publishedDate": "14/11/2026 13:43",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Man gewond bij steekpartij in centrum van Maastricht - De Limburger",
             "link": "https://www.limburger.nl/video-zebra/man-gewond-bij-steekpartij-in-centrum-van-maastricht/164548559.html",
             "publishedDate": "14/11/2026 13:19",
@@ -1002,7 +1003,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Te veel papierwerk zet Belgisch zorgpersoneel onder druk - Artsenkrant",
@@ -1042,7 +1043,7 @@
                     "publishedDate": "13/11/2026 19:34"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
@@ -1053,7 +1054,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -1193,7 +1194,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1246,7 +1247,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
@@ -1257,7 +1258,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
