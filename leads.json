@@ -9,7 +9,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderen uit de jeugdzorg vertellen zelf hun verhaal in podcast van MAKZ uit Knokke-Heist",
@@ -18,6 +18,17 @@
             "source": "lokaalnieuws.online",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Weggelopen pati\u00ebnt uit Duits ziekenhuis bleek identiteit van Eindhovenaar te misbruiken",
+            "link": "https://www.bndestem.nl/brabant/weggelopen-patient-uit-duits-ziekenhuis-bleek-identiteit-van-eindhovenaar-te-misbruiken~ab1c58d1/",
+            "publishedDate": "16/11/2026 20:33",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -125,7 +136,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg | Nederlandse Zorgautoriteit",
@@ -143,7 +154,7 @@
                     "publishedDate": "16/11/2026 19:42"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
@@ -246,7 +257,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Dorpen en poliklinieken dreigen ge\u00efsoleerd te raken door droogte - Suriname Herald",
@@ -378,7 +389,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "ouderen willen zo lang mogelijk thuiswonen, maar wat als je valt en je ineens ... - De Gelderlander",
@@ -638,15 +649,19 @@
             "source": "radar.avrotros.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Reactie Inspectie Gezondheidszorg en Jeugd - Radar",
-                    "source": "radar.avrotros.nl",
-                    "link": "https://radar.avrotros.nl/artikel/reactie-inspectie-gezondheidszorg-en-jeugd-63190",
-                    "publishedDate": "16/11/2026 16:44"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Reactie Inspectie Gezondheidszorg en Jeugd - Radar",
+            "link": "https://radar.avrotros.nl/artikel/reactie-inspectie-gezondheidszorg-en-jeugd-63190",
+            "publishedDate": "16/11/2026 16:44",
+            "source": "radar.avrotros.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -987,17 +1002,6 @@
             "source": "rd.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ernstig zieke Djamilla (20) is opgenomen in ziekenhuis Arnhem - Omroep Zeeland",
-            "link": "https://www.omroepzeeland.nl/nieuws/18891384/ernstig-zieke-djamilla-20-is-opgenomen-in-ziekenhuis-arnhem",
-            "publishedDate": "16/11/2026 14:18",
-            "source": "omroepzeeland.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
