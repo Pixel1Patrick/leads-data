@@ -1,20 +1,9 @@
 {
     "artikelen": [
         {
-            "title": "Politiek Den Haag: houd elkaar vast",
-            "link": "https://nvz-ziekenhuizen.nl/actualiteit-en-opinie/politiek-den-haag-houd-elkaar-vast",
-            "publishedDate": "16/11/2026 12:20",
-            "source": "nvz-ziekenhuizen.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "NVZ Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
-            "link": "https://open.overheid.nl/details/oep-ob-203ccce89bfa35ea59175f34931f50ca1b1d63fe_659",
-            "publishedDate": "16/11/2026 12:03",
+            "link": "https://open.overheid.nl/details/oep-ob-203ccce89bfa35ea59175f34931f50ca1b1d63fe_663",
+            "publishedDate": "16/11/2026 12:23",
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
@@ -28,6 +17,17 @@
                 }
             ],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Politiek Den Haag: houd elkaar vast",
+            "link": "https://nvz-ziekenhuizen.nl/actualiteit-en-opinie/politiek-den-haag-houd-elkaar-vast",
+            "publishedDate": "16/11/2026 12:20",
+            "source": "nvz-ziekenhuizen.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "NVZ Nieuws",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Dashboard Doorlooptijden Geneesmiddelen vernieuwd",
@@ -49,7 +49,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Tumor van 10 kilo uit buik van Ronald verwijderd: 'Sta nog steeds versteld' - Omroep Tilburg",
@@ -115,30 +115,11 @@
             "title": "Van de goedkoopste naar de grootste stijger: deze zorgverzekering wordt 15% duurder",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/van-de-goedkoopste-naar-de-grootste-stijger-deze-zorgverzekering-wordt-15-procent-duurder",
             "publishedDate": "16/11/2026 11:27",
-            "source": "sittard-geleen.nieuws.nl, zorgwijzer.nl",
+            "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
-                    "source": "sittard-geleen.nieuws.nl",
-                    "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
-                    "publishedDate": "16/11/2026 06:56"
-                },
-                {
-                    "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
-                    "publishedDate": "15/11/2026 14:52"
-                },
-                {
-                    "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
-                    "publishedDate": "15/11/2026 12:39"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -360,6 +341,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
+            "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
+            "publishedDate": "16/11/2026 06:56",
+            "source": "cnv.nl, sittard-geleen.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Salland en Twente",
@@ -621,18 +620,11 @@
             "title": "Veel jonge mannen zijn somber, zo herken je de signalen en dit kun je doen - BN DeStem",
             "link": "https://www.bndestem.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
             "publishedDate": "15/11/2026 23:46",
-            "source": "bd.nl, bndestem.nl",
+            "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Jonge mannen overlijden twee keer zo vaak door zelfdoding: hoe komt dat en hoe herken je ...",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
-                    "publishedDate": "15/11/2026 16:21"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -662,7 +654,7 @@
                     "publishedDate": "15/11/2026 14:09"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws | BD.nl",
@@ -788,6 +780,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Jonge mannen overlijden twee keer zo vaak door zelfdoding: hoe komt dat en hoe herken je ...",
+            "link": "https://www.bd.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
+            "publishedDate": "15/11/2026 16:21",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
             "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
             "publishedDate": "15/11/2026 15:46",
@@ -835,6 +838,17 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
+            "publishedDate": "15/11/2026 14:52",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -911,6 +925,17 @@
             "source": "cafeweltschmerz.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
+            "publishedDate": "15/11/2026 12:39",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1003,7 +1028,7 @@
                     "publishedDate": "13/11/2026 16:34"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[NU'91] Duurzame inzetbaarheid belangrijk thema tijdens cao-onderhandelingen ziekenhuizen",
@@ -1043,7 +1068,7 @@
                     "publishedDate": "13/11/2026 12:34"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Handreiking Mobiliteitsplan Zorgsector",
@@ -1139,17 +1164,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/tweede-overleg-cao-ziekenhuizen",
             "publishedDate": "13/11/2026 08:40",
@@ -1211,6 +1225,17 @@
             "title": "Campagne-effectonderzoek Zorgverzekeringen",
             "link": "https://open.overheid.nl/details/991eebf2-7d3f-4126-9b05-0554ae1c8385",
             "publishedDate": "12/11/2026 09:30",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Campagne-effectonderzoek Stoppen met roken - PUUR: Goede voornemens",
+            "link": "https://open.overheid.nl/details/cd6fad86-f9a8-4374-8092-0acba9dd3c21",
+            "publishedDate": "12/11/2026 09:28",
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
