@@ -69,7 +69,7 @@
             "source": "ad.nl, destentor.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Twente en Salland",
@@ -82,12 +82,6 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/hellendoorn/huisartsen-slaan-alarm-over-zorg-voor-oekraiense-vluchtelingen-in-twente-en-salland-levensgevaarlijk~a3bdb137/",
                     "publishedDate": "15/11/2026 19:08"
-                },
-                {
-                    "title": "Oekra\u00efense vluchtelingen missen goede huisartsenzorg in Twente: 'Lopen rond met hartinfarct'",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/hellendoorn/oekraiense-vluchtelingen-missen-goede-huisartsenzorg-in-twente-lopen-rond-met-hartinfarct~a3bdb137/",
-                    "publishedDate": "15/11/2026 18:32"
                 }
             ],
             "belangrijkheid": 0
@@ -151,18 +145,11 @@
             "title": "95-jarige man in ziekenhuis opgenomen na woningbrand in Turnhout - GVA",
             "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/95-jarige-man-in-ziekenhuis-opgenomen-na-woningbrand-in-turnhout/164597970.html",
             "publishedDate": "15/11/2026 23:49",
-            "source": "gva.be, rtv.be",
+            "source": "gva.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Bejaarde bewoner in kritieke toestand na woningbrand in Turnhout | RTV",
-                    "source": "rtv.be",
-                    "link": "https://www.rtv.be/actualiteit-en-nieuws/bejaarde-bewoner-kritieke-toestand-na-woningbrand-turnhout",
-                    "publishedDate": "15/11/2026 21:59"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -203,7 +190,7 @@
                     "publishedDate": "15/11/2026 14:09"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Romy (38) beviel veel te vroeg van No\u00e9: 'Voor de zekerheid zat ik al naar kistjes te kijken'",
@@ -278,6 +265,17 @@
             "link": "https://www.waterkant.net/suriname/2026/11/15/man-die-partner-doodstak-ook-overleden-in-ziekenhuis-na-inname-verdelgingsmiddel/",
             "publishedDate": "15/11/2026 22:08",
             "source": "waterkant.net",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bejaarde bewoner in kritieke toestand na woningbrand in Turnhout | RTV",
+            "link": "https://www.rtv.be/actualiteit-en-nieuws/bejaarde-bewoner-kritieke-toestand-na-woningbrand-turnhout",
+            "publishedDate": "15/11/2026 21:59",
+            "source": "rtv.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
@@ -399,6 +397,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Oekra\u00efense vluchtelingen missen goede huisartsenzorg in Twente: 'Lopen rond met hartinfarct'",
+            "link": "https://www.destentor.nl/hellendoorn/oekraiense-vluchtelingen-missen-goede-huisartsenzorg-in-twente-lopen-rond-met-hartinfarct~a3bdb137/",
+            "publishedDate": "15/11/2026 18:32",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Afghaanse artsen mogen geen vrouwen meer behandelen | BNR Nieuwsradio",
             "link": "https://www.bnr.nl/nieuws/internationaal/10615696/afghaanse-artsen-mogen-geen-vrouwen-meer-behandelen",
             "publishedDate": "15/11/2026 18:31",
@@ -486,18 +495,11 @@
             "title": "Dokter komt met echo-apparaat aan huis - YouTube",
             "link": "https://www.youtube.com/watch?v=BHme4L63Vxg",
             "publishedDate": "15/11/2026 15:02",
-            "source": "omroepwest.nl, youtube.com",
+            "source": "youtube.com",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Met toestel ter grootte van scheerapparaat houdt huisarts ouderen mogelijk uit ziekenhuis",
-                    "source": "omroepwest.nl",
-                    "link": "https://www.omroepwest.nl/zorg/5172011/met-toestel-ter-grootte-van-scheerapparaat-houdt-huisarts-ouderen-mogelijk-uit-ziekenhuis",
-                    "publishedDate": "15/11/2026 12:55"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -520,7 +522,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Video: Spectaculaire takeloperatie nieuwe MRI-scanner bij Viasana - inMill.nl",
@@ -617,6 +619,17 @@
             "source": "rijnmond.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Met toestel ter grootte van scheerapparaat houdt huisarts ouderen mogelijk uit ziekenhuis",
+            "link": "https://www.omroepwest.nl/zorg/5172011/met-toestel-ter-grootte-van-scheerapparaat-houdt-huisarts-ouderen-mogelijk-uit-ziekenhuis",
+            "publishedDate": "15/11/2026 12:55",
+            "source": "omroepwest.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -883,7 +896,7 @@
                     "publishedDate": "13/11/2026 19:34"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
@@ -894,7 +907,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -1063,7 +1076,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
