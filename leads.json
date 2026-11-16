@@ -9,7 +9,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
@@ -27,7 +27,7 @@
                     "publishedDate": "16/11/2026 11:26"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuwe expositie Kunst in Zuid - Stedendriehoek",
@@ -325,7 +325,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kunstgewricht geen perfecte oplossing - Seniorenjournaal",
@@ -398,7 +398,7 @@
                     "publishedDate": "13/11/2026 10:06"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Salland en Twente",
@@ -671,28 +671,16 @@
             "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
             "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
             "publishedDate": "15/11/2026 23:34",
-            "source": "drimble.nl, nl.headtopics.com, nunspeet.nieuws.nl",
+            "source": "drimble.nl, nunspeet.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
                     "source": "nunspeet.nieuws.nl",
                     "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
                     "publishedDate": "15/11/2026 14:09"
-                },
-                {
-                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
-                    "publishedDate": "15/11/2026 15:46"
-                },
-                {
-                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan | Utrecht Stad",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/utrecht/utrecht/108606185/deze-week-failliet-na-faillietverklaring-kondigt-jeugdzorg-advocaat-hoger-beroep-aan.html",
-                    "publishedDate": "15/11/2026 12:22"
                 }
             ],
             "belangrijkheid": 0
@@ -832,6 +820,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
+            "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
+            "publishedDate": "15/11/2026 15:46",
+            "source": "drimble.nl, nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan | Utrecht Stad",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/utrecht/utrecht/108606185/deze-week-failliet-na-faillietverklaring-kondigt-jeugdzorg-advocaat-hoger-beroep-aan.html",
+                    "publishedDate": "15/11/2026 12:22"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Voorzitter VNO-NCW: kabinetsval zou dramatisch zijn - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/economie/voorzitter-vno-ncw-kabinetsval-zou-dramatisch-zijn",
             "publishedDate": "15/11/2026 15:04",
@@ -873,7 +879,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "SpaceX vangt ruimteschip weer gecontroleerd op na testvlucht - Welingelichte Kringen",
