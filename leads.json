@@ -69,7 +69,7 @@
             "source": "ad.nl, destentor.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Twente en Salland",
@@ -82,12 +82,6 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/hellendoorn/huisartsen-slaan-alarm-over-zorg-voor-oekraiense-vluchtelingen-in-twente-en-salland-levensgevaarlijk~a3bdb137/",
                     "publishedDate": "15/11/2026 19:08"
-                },
-                {
-                    "title": "Oekra\u00efense vluchtelingen missen goede huisartsenzorg in Twente: 'Lopen rond met hartinfarct'",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/hellendoorn/oekraiense-vluchtelingen-missen-goede-huisartsenzorg-in-twente-lopen-rond-met-hartinfarct~a3bdb137/",
-                    "publishedDate": "15/11/2026 18:32"
                 }
             ],
             "belangrijkheid": 0
@@ -187,19 +181,13 @@
             "source": "drimble.nl, nunspeet.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
                     "source": "nunspeet.nieuws.nl",
                     "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
                     "publishedDate": "15/11/2026 14:09"
-                },
-                {
-                    "title": "Jeugdhulp MetMaya opnieuw duurder: regio Amersfoort trekt vier miljoen extra uit | Utrecht Stad",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/utrecht/utrecht/108607427/jeugdhulp-metmaya-opnieuw-duurder-regio-amersfoort-trekt-vier-miljoen-extra-uit.html",
-                    "publishedDate": "15/11/2026 16:22"
                 }
             ],
             "belangrijkheid": 0
@@ -409,6 +397,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Oekra\u00efense vluchtelingen missen goede huisartsenzorg in Twente: 'Lopen rond met hartinfarct'",
+            "link": "https://www.destentor.nl/hellendoorn/oekraiense-vluchtelingen-missen-goede-huisartsenzorg-in-twente-lopen-rond-met-hartinfarct~a3bdb137/",
+            "publishedDate": "15/11/2026 18:32",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Afghaanse artsen mogen geen vrouwen meer behandelen | BNR Nieuwsradio",
             "link": "https://www.bnr.nl/nieuws/internationaal/10615696/afghaanse-artsen-mogen-geen-vrouwen-meer-behandelen",
             "publishedDate": "15/11/2026 18:31",
@@ -437,6 +436,17 @@
             "source": "mediacourant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdhulp MetMaya opnieuw duurder: regio Amersfoort trekt vier miljoen extra uit | Utrecht Stad",
+            "link": "https://drimble.nl/regio/utrecht/utrecht/108607427/jeugdhulp-metmaya-opnieuw-duurder-regio-amersfoort-trekt-vier-miljoen-extra-uit.html",
+            "publishedDate": "15/11/2026 16:22",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -507,25 +517,12 @@
             "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
             "publishedDate": "15/11/2026 14:52",
-            "source": "cnv.nl, zorgwijzer.nl",
+            "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
-                    "publishedDate": "15/11/2026 12:39"
-                },
-                {
-                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-                    "publishedDate": "13/11/2026 10:06"
-                }
-            ],
-            "belangrijkheid": 0
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Video: Spectaculaire takeloperatie nieuwe MRI-scanner bij Viasana - inMill.nl",
@@ -644,6 +641,17 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
+            "publishedDate": "15/11/2026 12:39",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -934,7 +942,7 @@
             "feed_label": "Alert eerstelijnszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[NU'91] Duurzame inzetbaarheid belangrijk thema tijdens cao-onderhandelingen ziekenhuizen",
@@ -945,7 +953,7 @@
             "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Doorhaling gz-psycholoog/ psychotherapeut vanwege grensoverschrijdend gedrag",
@@ -956,7 +964,7 @@
             "feed_label": "Tuchtcollege voor de Gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
@@ -1039,7 +1047,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1050,7 +1058,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Balans Thuiszorg in Oosterhout heeft Last onder dwangsom en aanwijzing met cli\u00ebntenstop",
@@ -1068,7 +1076,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1092,7 +1100,18 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+            "publishedDate": "13/11/2026 10:06",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
@@ -1110,7 +1129,7 @@
                     "publishedDate": "10/11/2026 10:49"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Mag een zorgorganisatie gezondheidsgegevens delen met een leverancier van zorgtechnologie?",
