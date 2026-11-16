@@ -805,8 +805,15 @@
             "source": "departementzorg.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorginspectie brengt kwaliteit van zorg in revalidatieziekenhuizen in beeld",
+                    "source": "departementzorg.be",
+                    "link": "https://www.departementzorg.be/nl/nieuws/zorginspectie-brengt-kwaliteit-van-zorg-revalidatieziekenhuizen-beeld",
+                    "publishedDate": "16/11/2026 10:57"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -852,17 +859,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Zorginspectie brengt kwaliteit van zorg in revalidatieziekenhuizen in beeld",
-            "link": "https://www.departementzorg.be/nl/nieuws/zorginspectie-brengt-kwaliteit-van-zorg-revalidatieziekenhuizen-beeld",
-            "publishedDate": "16/11/2026 10:57",
-            "source": "departementzorg.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "Voor meer dan een miljard dollar: Gentenaars nemen ontdekkers van peptiden over",
@@ -1153,7 +1149,7 @@
             "source": "drimble.nl, gelderlander.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg - Drimble",
@@ -1166,12 +1162,6 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/veenendaal/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden~a447b73e/",
                     "publishedDate": "15/11/2026 19:43"
-                },
-                {
-                    "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
-                    "publishedDate": "15/11/2026 23:34"
                 }
             ],
             "belangrijkheid": 0
@@ -1183,6 +1173,17 @@
             "source": "nieuws.marokko.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
+            "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
+            "publishedDate": "15/11/2026 23:34",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
