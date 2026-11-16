@@ -116,20 +116,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Toezegging vergelijking rechten van jongeren en ouderen op grond van voor hen geldende wetgeving",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/6cc90c50-876e-43dd-875f-7e13decd36e5",
                     "publishedDate": "16/11/2026 15:21"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/3b029135-4016-419d-ac19-88a9300ec44f",
-                    "publishedDate": "16/11/2026 14:58"
-                },
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
+            "link": "https://open.overheid.nl/details/3b029135-4016-419d-ac19-88a9300ec44f",
+            "publishedDate": "16/11/2026 14:58",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
                     "source": "open.overheid.nl",
@@ -476,7 +482,7 @@
                     "publishedDate": "16/11/2026 06:56"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Voor meer dan een miljard dollar: Gentenaars nemen ontdekkers van peptiden over",
@@ -597,7 +603,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kunstgewricht geen perfecte oplossing - Seniorenjournaal",
