@@ -53,7 +53,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
@@ -135,33 +135,48 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
                     "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-                    "publishedDate": "16/11/2026 16:33"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -179,18 +194,11 @@
             "title": "Deze artsen verwijderen de prostaat met een nieuwe techniek: einde aan erectieproblemen ...",
             "link": "https://www.parool.nl/nederland/deze-artsen-verwijderen-de-prostaat-met-een-nieuwe-techniek-einde-aan-erectieproblemen-en-urineverlies~b80a0b2f/",
             "publishedDate": "16/11/2026 16:26",
-            "source": "jeroenboschziekenhuis.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
-                    "source": "jeroenboschziekenhuis.nl",
-                    "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
-                    "publishedDate": "16/11/2026 15:51"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -300,6 +308,17 @@
             "source": "sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
+            "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
+            "publishedDate": "16/11/2026 15:51",
+            "source": "jeroenboschziekenhuis.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -770,8 +789,15 @@
             "source": "departementzorg.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorginspectie brengt kwaliteit van zorg in revalidatieziekenhuizen in beeld",
+                    "source": "departementzorg.be",
+                    "link": "https://www.departementzorg.be/nl/nieuws/zorginspectie-brengt-kwaliteit-van-zorg-revalidatieziekenhuizen-beeld",
+                    "publishedDate": "16/11/2026 10:57"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -837,17 +863,6 @@
             "belangrijkheid": 1
         },
         {
-            "title": "Zorginspectie brengt kwaliteit van zorg in revalidatieziekenhuizen in beeld",
-            "link": "https://www.departementzorg.be/nl/nieuws/zorginspectie-brengt-kwaliteit-van-zorg-revalidatieziekenhuizen-beeld",
-            "publishedDate": "16/11/2026 10:57",
-            "source": "departementzorg.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Voor meer dan een miljard dollar: Gentenaars nemen ontdekkers van peptiden over",
             "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/voor-meer-dan-een-miljard-dollar-gentenaars-nemen-ontdekkers-van-peptiden-over/164499017.html",
             "publishedDate": "16/11/2026 10:48",
@@ -900,7 +915,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Hoppen van bank naar bank of slapen bij vrienden: Oosterhout wil dakloze jongeren helpen",
