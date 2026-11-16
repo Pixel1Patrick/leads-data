@@ -338,11 +338,24 @@
             "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
             "publishedDate": "16/11/2026 16:58",
-            "source": "medischcontact.nl",
+            "source": "denederlandseggz.nl, ggznieuws.nl, medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
+                    "publishedDate": "16/11/2026 16:54"
+                },
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 14:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -354,24 +367,6 @@
             "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
-            "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
-            "publishedDate": "16/11/2026 16:54",
-            "source": "denederlandseggz.nl, ggznieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 14:19"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1108,7 +1103,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Voor meer dan een miljard dollar: Gentenaars nemen ontdekkers van peptiden over",
