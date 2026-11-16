@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
+            "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_84",
+            "publishedDate": "16/11/2026 10:00",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Hoofdredactie: zorgpot niet bodemloos, grenzen aan solidariteit onvermijdelijk",
             "link": "https://www.telegraaf.nl/opinie/hoofdredactie-zorgpot-niet-bodemloos-grenzen-aan-solidariteit-onvermijdelijk/164570859.html",
             "publishedDate": "16/11/2026 09:31",
@@ -9,18 +20,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
-            "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_83",
-            "publishedDate": "16/11/2026 09:17",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Hoppen van bank naar bank of slapen bij vrienden: Oosterhout wil dakloze jongeren helpen",
@@ -88,7 +88,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
@@ -182,11 +182,24 @@
             "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
             "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
             "publishedDate": "16/11/2026 06:56",
-            "source": "sittard-geleen.nieuws.nl",
+            "source": "cnv.nl, sittard-geleen.nieuws.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
+                    "publishedDate": "15/11/2026 14:52"
+                },
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -240,11 +253,18 @@
             "title": "Artsen slaan alarm: miljoenenproject voor hartpati\u00ebnten valt straks om omdat er geen geldpotjes zijn",
             "link": "https://www.destentor.nl/binnenland/artsen-slaan-alarm-miljoenenproject-voor-hartpatienten-valt-straks-om-omdat-er-geen-geldpotjes-zijn~afd6f1b4/",
             "publishedDate": "16/11/2026 06:35",
-            "source": "destentor.nl",
+            "source": "ad.nl, destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Succesvol project voor hartpati\u00ebnten dreigt te sneuvelen doordat regels in de weg zitten",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/binnenland/succesvol-project-voor-hartpatienten-dreigt-te-sneuvelen-doordat-regels-in-de-weg-zitten~afd6f1b4/",
+                    "publishedDate": "15/11/2026 19:40"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -497,7 +517,7 @@
                     "publishedDate": "15/11/2026 14:09"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Romy (38) beviel veel te vroeg van No\u00e9: 'Voor de zekerheid zat ik al naar kistjes te kijken'",
@@ -587,17 +607,6 @@
             "source": "vvd.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Succesvol project voor hartpati\u00ebnten dreigt te sneuvelen doordat regels in de weg zitten",
-            "link": "https://www.ad.nl/binnenland/succesvol-project-voor-hartpatienten-dreigt-te-sneuvelen-doordat-regels-in-de-weg-zitten~afd6f1b4/",
-            "publishedDate": "15/11/2026 19:40",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -718,17 +727,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
-            "publishedDate": "15/11/2026 14:52",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "SpaceX vangt ruimteschip weer gecontroleerd op na testvlucht - Welingelichte Kringen",
@@ -915,7 +913,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -1026,7 +1024,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1061,17 +1059,6 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1150,8 +1137,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Campagne-effectonderzoek Stoppen met roken - PUUR",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/b557aed9-aeb2-4f6c-92c0-45e06d1b4194",
+                    "publishedDate": "12/11/2026 09:27"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
