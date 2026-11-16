@@ -354,22 +354,24 @@
             "title": "Van de goedkoopste naar de grootste stijger: deze zorgverzekering wordt 15% duurder",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/van-de-goedkoopste-naar-de-grootste-stijger-deze-zorgverzekering-wordt-15-procent-duurder",
             "publishedDate": "16/11/2026 11:27",
-            "source": "zorgwijzer.nl",
+            "source": "sittard-geleen.nieuws.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
-            "publishedDate": "16/11/2026 11:05",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
+                    "publishedDate": "16/11/2026 11:05"
+                },
+                {
+                    "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
+                    "source": "sittard-geleen.nieuws.nl",
+                    "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
+                    "publishedDate": "16/11/2026 06:56"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -546,24 +548,6 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
-            "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
-            "publishedDate": "16/11/2026 06:56",
-            "source": "cnv.nl, sittard-geleen.nieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-                    "publishedDate": "13/11/2026 10:06"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -860,7 +844,7 @@
                     "publishedDate": "15/11/2026 14:09"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws | BD.nl",
@@ -1241,6 +1225,17 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+            "publishedDate": "13/11/2026 10:06",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
