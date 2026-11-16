@@ -7,13 +7,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_86",
                     "publishedDate": "16/11/2026 11:26"
+                },
+                {
+                    "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_108",
+                    "publishedDate": "16/11/2026 14:59"
                 }
             ],
             "belangrijkheid": 1
@@ -34,18 +40,7 @@
                     "publishedDate": "16/11/2026 15:21"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
-            "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_108",
-            "publishedDate": "16/11/2026 14:59",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
@@ -63,7 +58,7 @@
                     "publishedDate": "16/11/2026 14:58"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ernstig zieke Djamilla (20) is opgenomen in ziekenhuis Arnhem - Omroep Zeeland",
@@ -801,16 +796,28 @@
             "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
             "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
             "publishedDate": "15/11/2026 23:34",
-            "source": "drimble.nl, nunspeet.nieuws.nl",
+            "source": "drimble.nl, nl.headtopics.com, nunspeet.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
                     "source": "nunspeet.nieuws.nl",
                     "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
                     "publishedDate": "15/11/2026 14:09"
+                },
+                {
+                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
+                    "publishedDate": "15/11/2026 15:46"
+                },
+                {
+                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan | Utrecht Stad",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/utrecht/utrecht/108606185/deze-week-failliet-na-faillietverklaring-kondigt-jeugdzorg-advocaat-hoger-beroep-aan.html",
+                    "publishedDate": "15/11/2026 12:22"
                 }
             ],
             "belangrijkheid": 1
@@ -947,24 +954,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
-            "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
-            "publishedDate": "15/11/2026 15:46",
-            "source": "drimble.nl, nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan | Utrecht Stad",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/utrecht/utrecht/108606185/deze-week-failliet-na-faillietverklaring-kondigt-jeugdzorg-advocaat-hoger-beroep-aan.html",
-                    "publishedDate": "15/11/2026 12:22"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
