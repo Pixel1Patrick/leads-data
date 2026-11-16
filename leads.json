@@ -27,7 +27,7 @@
                     "publishedDate": "16/11/2026 14:58"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ernstig zieke Djamilla (20) is opgenomen in ziekenhuis Arnhem - Omroep Zeeland",
@@ -607,18 +607,11 @@
             "title": "Jeugdzorg in regio Amersfoort weer duurder, gemeente legt 4 miljoen bij - Nieuwsplein33",
             "link": "https://www.nieuwsplein33.nl/nieuws/4117834/jeugdzorg-in-regio-amersfoort-weer-duurder-gemeente-legt-4-miljoen-bij",
             "publishedDate": "16/11/2026 05:07",
-            "source": "drimble.nl, nieuwsplein33.nl",
+            "source": "nieuwsplein33.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Jeugdhulp MetMaya opnieuw duurder: regio Amersfoort trekt vier miljoen extra uit | Utrecht Stad",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/utrecht/utrecht/108607427/jeugdhulp-metmaya-opnieuw-duurder-regio-amersfoort-trekt-vier-miljoen-extra-uit.html",
-                    "publishedDate": "15/11/2026 16:22"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -691,10 +684,10 @@
             "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg - Drimble",
             "link": "https://drimble.nl/regio/gelderland/de-vallei/108610172/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden.html",
             "publishedDate": "16/11/2026 00:51",
-            "source": "ad.nl, drimble.nl, gelderlander.nl, nunspeet.nieuws.nl",
+            "source": "ad.nl, drimble.nl, gelderlander.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 7,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg - Drimble",
@@ -713,21 +706,9 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/veenendaal/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden~a447b73e/",
                     "publishedDate": "15/11/2026 19:43"
-                },
-                {
-                    "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
-                    "publishedDate": "15/11/2026 23:34"
-                },
-                {
-                    "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
-                    "source": "nunspeet.nieuws.nl",
-                    "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
-                    "publishedDate": "15/11/2026 14:09"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Na verlies van stilgeboren Senna hield Danique (29) hem nog \u00e9\u00e9n week bij zich",
@@ -783,6 +764,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
+            "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
+            "publishedDate": "15/11/2026 23:34",
+            "source": "drimble.nl, nunspeet.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
+                    "source": "nunspeet.nieuws.nl",
+                    "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
+                    "publishedDate": "15/11/2026 14:09"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws | BD.nl",
@@ -903,6 +902,17 @@
             "source": "mediacourant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdhulp MetMaya opnieuw duurder: regio Amersfoort trekt vier miljoen extra uit | Utrecht Stad",
+            "link": "https://drimble.nl/regio/utrecht/utrecht/108607427/jeugdhulp-metmaya-opnieuw-duurder-regio-amersfoort-trekt-vier-miljoen-extra-uit.html",
+            "publishedDate": "15/11/2026 16:22",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
