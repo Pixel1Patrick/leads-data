@@ -41,6 +41,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Auto botst tegen verkeersbord bij afrit, \u00e9\u00e9n persoon naar ziekenhuis - NoorderNieuws",
+            "link": "https://noordernieuws.nl/2026/11/auto-botst-tegen-verkeersbord-bij-afrit-n-persoon-naar-ziekenhuis/",
+            "publishedDate": "16/11/2026 18:11",
+            "source": "noordernieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Pati\u00ebnt na medisch huzarenstukje verlost van 10 kilo zware tumor - Nieuws en Verhalen",
             "link": "https://nieuws.umcg.nl/w/bijzondere-darmoperatie",
             "publishedDate": "16/11/2026 18:08",
@@ -154,35 +165,35 @@
             "title": "Zorgpremie stijgt flink - Joop - BNNVARA",
             "link": "https://www.bnnvara.nl/joop/artikelen/zorgpremie-stijgt-flink",
             "publishedDate": "16/11/2026 17:41",
-            "source": "bnnvara.nl",
+            "source": "bnnvara.nl, sittard-geleen.nieuws.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Van de goedkoopste naar de grootste stijger: deze zorgverzekering wordt 15% duurder",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/van-de-goedkoopste-naar-de-grootste-stijger-deze-zorgverzekering-wordt-15-procent-duurder",
+                    "publishedDate": "16/11/2026 11:27"
+                },
+                {
+                    "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
+                    "source": "sittard-geleen.nieuws.nl",
+                    "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
+                    "publishedDate": "16/11/2026 06:56"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
             "title": "Weggelopen pati\u00ebnt met infuusnaald misbruikt identiteit Eindhovenaar - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6034891/weggelopen-patient-met-infuusnaald-misbruikt-identiteit-eindhovenaar",
             "publishedDate": "16/11/2026 17:06",
-            "source": "ed.nl, omroepbrabant.nl",
+            "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Weggelopen pati\u00ebnt uit Duits ziekenhuis bleek identiteit van Eindhovenaar te misbruiken",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/eindhoven/weggelopen-patient-uit-duits-ziekenhuis-bleek-identiteit-van-eindhovenaar-te-misbruiken~ab1c58d1/",
-                    "publishedDate": "16/11/2026 11:51"
-                },
-                {
-                    "title": "Weggelopen pati\u00ebnt uit Duits ziekenhuis bleek identiteit van Eindhovenaar te misbruiken",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/eindhoven/weggelopen-patient-vertrok-uit-ziekenhuis-in-dusseldorf-bleek-identiteit-van-eindhovenaar-te-misbruiken~ab1c58d1/",
-                    "publishedDate": "16/11/2026 11:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -233,12 +244,25 @@
             "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
             "publishedDate": "16/11/2026 16:58",
-            "source": "medischcontact.nl",
+            "source": "denederlandseggz.nl, ggznieuws.nl, medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
+                    "publishedDate": "16/11/2026 16:54"
+                },
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 14:19"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Procesregisseur Polikliniek Zuidwester (Gehandicaptenzorg) in Middelharnis - ZeelandNet",
@@ -336,6 +360,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Karaoke-experiment kan de behandeling van psychische kwetsbaarheden veranderen -",
+            "link": "https://www.ggznieuws.nl/karaoke-experiment-kan-de-behandeling-van-psychische-kwetsbaarheden-veranderen/",
+            "publishedDate": "16/11/2026 16:39",
+            "source": "ggznieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "De Peiling: Zorgverzekeraar stopt vergoeding 'belachelijke' alternatieve geneeswijzen - NH Nieuws",
             "link": "https://www.nhnieuws.nl/nieuws/235878/nederland-wil-uitgeprocedeerde-asielzoekers-uitzetten-naar-rwanda",
             "publishedDate": "16/11/2026 16:39",
@@ -353,33 +388,48 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
                     "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-                    "publishedDate": "16/11/2026 16:33"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -400,7 +450,7 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -678,17 +728,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
-            "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-            "publishedDate": "16/11/2026 14:19",
-            "source": "denederlandseggz.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ernstig zieke Djamilla (20) is opgenomen in ziekenhuis Arnhem - Omroep Zeeland",
             "link": "https://www.omroepzeeland.nl/nieuws/18891384/ernstig-zieke-djamilla-20-is-opgenomen-in-ziekenhuis-arnhem",
             "publishedDate": "16/11/2026 14:18",
@@ -911,15 +950,8 @@
             "source": "rtvutrecht.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Politie houdt man en vrouw aan na dodelijk ongeluk Oudewater - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4119231/politie-houdt-man-en-vrouw-aan-na-dodelijk-ongeluk-oudewater",
-                    "publishedDate": "16/11/2026 11:55"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1033,17 +1065,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Van de goedkoopste naar de grootste stijger: deze zorgverzekering wordt 15% duurder",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/van-de-goedkoopste-naar-de-grootste-stijger-deze-zorgverzekering-wordt-15-procent-duurder",
-            "publishedDate": "16/11/2026 11:27",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Voor meer dan een miljard dollar: Gentenaars nemen ontdekkers van peptiden over",
             "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/voor-meer-dan-een-miljard-dollar-gentenaars-nemen-ontdekkers-van-peptiden-over/164499017.html",
             "publishedDate": "16/11/2026 10:48",
@@ -1085,7 +1106,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hoppen van bank naar bank of slapen bij vrienden: Oosterhout wil dakloze jongeren helpen",
@@ -1173,24 +1194,6 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
-            "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
-            "publishedDate": "16/11/2026 06:56",
-            "source": "cnv.nl, sittard-geleen.nieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-                    "publishedDate": "13/11/2026 10:06"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1319,7 +1322,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws | BD.nl",
@@ -1460,6 +1463,17 @@
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ambulancezorg/nieuws/extra-werk-cao-ambulancezorg-vervolg-2026-11-13/",
             "publishedDate": "13/11/2026 11:12",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+            "publishedDate": "13/11/2026 10:06",
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
