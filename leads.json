@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Hoppen van bank naar bank of slapen bij vrienden: Oosterhout wil dakloze jongeren helpen",
+            "link": "https://www.ad.nl/oosterhout/hoppen-van-bank-naar-bank-of-slapen-bij-vrienden-oosterhout-wil-dakloze-jongeren-helpen~a84b1511/",
+            "publishedDate": "16/11/2026 09:13",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Ziekenhuis in Groningen verlost man van 10 kilo zware tumor - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/gezondheid/ziekenhuis-in-groningen-verlost-man-van-10-kilo-zware-tumor",
             "publishedDate": "16/11/2026 08:48",
@@ -112,7 +123,7 @@
                     "publishedDate": "13/11/2026 10:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Salland en Twente",
@@ -315,6 +326,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Marloes (43) blikt terug op 18 jaar werken in de jeugdzorg: 'Ik voelde zoveel frustratie over ...",
+            "link": "https://www.rijnmond.nl/nieuws/2277265/marloes-43-blikt-terug-op-18-jaar-werken-in-de-jeugdzorg-ik-voelde-zoveel-frustratie-over-het-systeem",
+            "publishedDate": "16/11/2026 01:21",
+            "source": "rijnmond.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Bescherming van ziekenhuizen en gezondheidscentra met verdampt waterstofperoxide",
             "link": "https://www.reinraum.de/nl/news/bescherming-van-ziekenhuizen-en-gezondheidscentra-met-verdampt-waterstofperoxide.html",
             "publishedDate": "16/11/2026 01:05",
@@ -384,11 +406,18 @@
             "title": "Veel jonge mannen zijn somber, zo herken je de signalen en dit kun je doen - BN DeStem",
             "link": "https://www.bndestem.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
             "publishedDate": "15/11/2026 23:46",
-            "source": "bndestem.nl",
+            "source": "bd.nl, bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jonge mannen overlijden twee keer zo vaak door zelfdoding: hoe komt dat en hoe herken je ...",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
+                    "publishedDate": "15/11/2026 16:21"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -568,17 +597,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jonge mannen overlijden twee keer zo vaak door zelfdoding: hoe komt dat en hoe herken je ...",
-            "link": "https://www.bd.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
-            "publishedDate": "15/11/2026 16:21",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
             "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
             "publishedDate": "15/11/2026 15:46",
@@ -680,17 +698,6 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Marloes (43) blikt terug op 18 jaar werken in de jeugdzorg: 'Ik voelde zoveel frustratie over ...",
-            "link": "https://www.rijnmond.nl/nieuws/2277265/marloes-43-blikt-terug-op-18-jaar-werken-in-de-jeugdzorg-ik-voelde-zoveel-frustratie-over-het-systeem",
-            "publishedDate": "15/11/2026 13:14",
-            "source": "rijnmond.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -825,7 +832,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
@@ -836,7 +843,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij aanbiedingsbrief bij Nota nav Verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -982,7 +989,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
