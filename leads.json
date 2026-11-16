@@ -71,7 +71,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Een ziekenhuis koelen en verwarmen mei twee grote waterbronnen: het gebeurt in Heerenveen",
@@ -256,7 +256,7 @@
             "source": "sittard-geleen.nieuws.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 5,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
@@ -275,6 +275,12 @@
                     "source": "zorgwijzer.nl",
                     "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
                     "publishedDate": "15/11/2026 14:52"
+                },
+                {
+                    "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
+                    "publishedDate": "15/11/2026 12:39"
                 }
             ],
             "belangrijkheid": 0
@@ -288,7 +294,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Voor meer dan een miljard dollar: Gentenaars nemen ontdekkers van peptiden over",
@@ -1020,17 +1026,6 @@
             "source": "cafeweltschmerz.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
-            "publishedDate": "15/11/2026 12:39",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
