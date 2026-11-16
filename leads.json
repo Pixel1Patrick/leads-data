@@ -92,7 +92,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
@@ -354,24 +354,22 @@
             "title": "Van de goedkoopste naar de grootste stijger: deze zorgverzekering wordt 15% duurder",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/van-de-goedkoopste-naar-de-grootste-stijger-deze-zorgverzekering-wordt-15-procent-duurder",
             "publishedDate": "16/11/2026 11:27",
-            "source": "sittard-geleen.nieuws.nl, zorgwijzer.nl",
+            "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
-                    "publishedDate": "16/11/2026 11:05"
-                },
-                {
-                    "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
-                    "source": "sittard-geleen.nieuws.nl",
-                    "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
-                    "publishedDate": "16/11/2026 06:56"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
+            "publishedDate": "16/11/2026 11:05",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -551,6 +549,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
+            "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
+            "publishedDate": "16/11/2026 06:56",
+            "source": "cnv.nl, sittard-geleen.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Salland en Twente",
             "link": "https://www.destentor.nl/hellendoorn/huisartsen-slaan-alarm-over-zorg-voor-oekraiense-vluchtelingen-in-salland-en-twente-levensgevaarlijk~a3bdb137/",
             "publishedDate": "16/11/2026 06:37",
@@ -655,6 +671,17 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "'Een overwinning van het collectief' - Zorgvisie | Richard Janssen - LinkedIn",
+            "link": "https://nl.linkedin.com/posts/richard-janssen-b70994193_gelre-ziekenhuizen-vervroegd-uit-bijzonder-activity-7527778621873111040-O5t5",
+            "publishedDate": "16/11/2026 05:27",
+            "source": "nl.linkedin.com",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -774,6 +801,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Salaris IC-verpleegkundige 2026: \u20ac 3.626 tot \u20ac 5.845 bruto",
+            "link": "https://jecao.nl/salaris/ic-verpleegkundige",
+            "publishedDate": "16/11/2026 00:35",
+            "source": "jecao.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Na verlies van stilgeboren Senna hield Danique (29) hem nog \u00e9\u00e9n week bij zich",
             "link": "https://www.bndestem.nl/binnenland/van-knuffelen-op-de-bank-tot-de-crematie-danique-29-bleef-tot-het-hartbrekende-einde-bij-haar-stilgeboren-senna~a325f09f6/",
             "publishedDate": "16/11/2026 00:32",
@@ -882,6 +920,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Arresten - Raad van State",
+            "link": "https://www.raadvanstate.be/nl/zoeken/arresten?year=2015&language=fr&chambre=VI&category=MT0617",
+            "publishedDate": "15/11/2026 21:41",
+            "source": "raadvanstate.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Vrouw Moulay Rachid duikt op in nieuw psychiatrisch ziekenhuis (video) - Bladna.nl",
             "link": "https://www.bladna.nl/vrouw-moulay-rachid-duikt-nieuw-psychiatrisch-ziekenhuis-video,73991.html",
             "publishedDate": "15/11/2026 21:37",
@@ -953,17 +1002,6 @@
             "publishedDate": "15/11/2026 17:46",
             "source": "ad.nl",
             "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Suzan &amp; Freek gaan he-le-maal los: 'Ik voel me f*cking machteloos' - Mediacourant",
-            "link": "https://www.mediacourant.nl/2026/11/suzan-freek-gaan-he-le-maal-los-ik-voel-me-fcking-machteloos/",
-            "publishedDate": "15/11/2026 17:36",
-            "source": "mediacourant.nl",
-            "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1124,6 +1162,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Oog voor rakkers en stakkers - Reformatorisch Dagblad",
+            "link": "https://www.rd.nl/artikel/oog-voor-rakkers-en-stakkers",
+            "publishedDate": "15/11/2026 07:32",
+            "source": "rd.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "IGZ heeft huisarts te weinig in beeld - Reformatorisch Dagblad",
             "link": "https://www.rd.nl/artikel/igz-heeft-huisarts-te-weinig-in-beeld",
             "publishedDate": "15/11/2026 07:06",
@@ -1225,17 +1274,6 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
