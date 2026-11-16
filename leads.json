@@ -113,7 +113,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
@@ -126,30 +126,20 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
                     "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+                    "publishedDate": "16/11/2026 16:33"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -178,11 +168,30 @@
             "title": "Ziekenhuis in Groningen verlost man van 10 kilo zware tumor - De Specialist",
             "link": "https://www.despecialist.eu/nl/nieuws/ziekenhuis-in-groningen-verlost-man-van-10-kilo-zware-tumor-nbsp.html",
             "publishedDate": "16/11/2026 16:23",
-            "source": "despecialist.eu",
+            "source": "despecialist.eu, omroeptilburg.nl, powned.tv, telegraaf.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Ziekenhuis Groningen haalt complete darmen tijdelijk uit lichaam van man om tumor van 10 ...",
+                    "source": "telegraaf.nl",
+                    "link": "https://www.telegraaf.nl/lifestyle/gezondheid/ziekenhuis-groningen-haalt-complete-darmen-tijdelijk-uit-lichaam-van-man-om-tumor-van-10-kilo-te-verwijderen/164600533.html",
+                    "publishedDate": "16/11/2026 11:47"
+                },
+                {
+                    "title": "Tumor van 10 kilo uit buik van Ronald verwijderd: 'Sta nog steeds versteld' - Omroep Tilburg",
+                    "source": "omroeptilburg.nl",
+                    "link": "https://www.omroeptilburg.nl/regio/tilburg/tumor-van-10-kilo-uit-buik-van-ronald-verwijderd-sta-nog-steeds-versteld/",
+                    "publishedDate": "16/11/2026 11:35"
+                },
+                {
+                    "title": "Tumor van 10 kilo verwijderd bij man, ziekenhuis moest daarvoor tijdelijk zijn darmen weghalen",
+                    "source": "powned.tv",
+                    "link": "https://www.powned.tv/article/tumor-van-10-kilo-verwijderd-bij-man-ziekenhuis-moest-daarvoor-tijdelijk-zijn-darmen-weghalen~6994/",
+                    "publishedDate": "16/11/2026 11:34"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -231,7 +240,7 @@
                     "publishedDate": "16/11/2026 15:56"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuw psychiatrisch gebouw combineert huiselijke sfeer met hedendaags comfort",
@@ -456,7 +465,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ernstig zieke Djamilla (20) is opgenomen in ziekenhuis Arnhem - Omroep Zeeland",
@@ -777,30 +786,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ziekenhuis Groningen haalt complete darmen tijdelijk uit lichaam van man om tumor van 10 ...",
-            "link": "https://www.telegraaf.nl/lifestyle/gezondheid/ziekenhuis-groningen-haalt-complete-darmen-tijdelijk-uit-lichaam-van-man-om-tumor-van-10-kilo-te-verwijderen/164600533.html",
-            "publishedDate": "16/11/2026 11:47",
-            "source": "omroeptilburg.nl, powned.tv, telegraaf.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Tumor van 10 kilo uit buik van Ronald verwijderd: 'Sta nog steeds versteld' - Omroep Tilburg",
-                    "source": "omroeptilburg.nl",
-                    "link": "https://www.omroeptilburg.nl/regio/tilburg/tumor-van-10-kilo-uit-buik-van-ronald-verwijderd-sta-nog-steeds-versteld/",
-                    "publishedDate": "16/11/2026 11:35"
-                },
-                {
-                    "title": "Tumor van 10 kilo verwijderd bij man, ziekenhuis moest daarvoor tijdelijk zijn darmen weghalen",
-                    "source": "powned.tv",
-                    "link": "https://www.powned.tv/article/tumor-van-10-kilo-verwijderd-bij-man-ziekenhuis-moest-daarvoor-tijdelijk-zijn-darmen-weghalen~6994/",
-                    "publishedDate": "16/11/2026 11:34"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "5 vragen aan Vikram Patel: 'Om mijn mentale gezondheid te begrijpen, moet je mij ...",
             "link": "https://www.amsterdamumc.org/nl/vandaag/5-vragen-aan-vikram-patel-om-mijn-mentale-gezondheid-te-begrijpen-moet-je-mij-begrijpen",
             "publishedDate": "16/11/2026 11:43",
@@ -820,7 +805,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
@@ -1014,7 +999,7 @@
                     "publishedDate": "13/11/2026 10:06"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Salland en Twente",
