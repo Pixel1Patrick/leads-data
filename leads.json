@@ -38,7 +38,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "De Peiling: Zorgverzekeraar stopt vergoeding 'belachelijke' alternatieve geneeswijzen - NH Nieuws",
@@ -69,33 +69,48 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
                     "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-                    "publishedDate": "16/11/2026 16:33"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -124,30 +139,11 @@
             "title": "Ziekenhuis in Groningen verlost man van 10 kilo zware tumor - De Specialist",
             "link": "https://www.despecialist.eu/nl/nieuws/ziekenhuis-in-groningen-verlost-man-van-10-kilo-zware-tumor-nbsp.html",
             "publishedDate": "16/11/2026 16:23",
-            "source": "despecialist.eu, omroeptilburg.nl, powned.tv, telegraaf.nl",
+            "source": "despecialist.eu",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Ziekenhuis Groningen haalt complete darmen tijdelijk uit lichaam van man om tumor van 10 ...",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/lifestyle/gezondheid/ziekenhuis-groningen-haalt-complete-darmen-tijdelijk-uit-lichaam-van-man-om-tumor-van-10-kilo-te-verwijderen/164600533.html",
-                    "publishedDate": "16/11/2026 11:47"
-                },
-                {
-                    "title": "Tumor van 10 kilo uit buik van Ronald verwijderd: 'Sta nog steeds versteld' - Omroep Tilburg",
-                    "source": "omroeptilburg.nl",
-                    "link": "https://www.omroeptilburg.nl/regio/tilburg/tumor-van-10-kilo-uit-buik-van-ronald-verwijderd-sta-nog-steeds-versteld/",
-                    "publishedDate": "16/11/2026 11:35"
-                },
-                {
-                    "title": "Tumor van 10 kilo verwijderd bij man, ziekenhuis moest daarvoor tijdelijk zijn darmen weghalen",
-                    "source": "powned.tv",
-                    "link": "https://www.powned.tv/article/tumor-van-10-kilo-verwijderd-bij-man-ziekenhuis-moest-daarvoor-tijdelijk-zijn-darmen-weghalen~6994/",
-                    "publishedDate": "16/11/2026 11:34"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -292,25 +288,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Toezegging vergelijking rechten van jongeren en ouderen op grond van voor hen geldende wetgeving",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/6cc90c50-876e-43dd-875f-7e13decd36e5",
                     "publishedDate": "16/11/2026 15:21"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/3b029135-4016-419d-ac19-88a9300ec44f",
-                    "publishedDate": "16/11/2026 14:58"
-                },
-                {
-                    "title": "Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9a0939ee-ef98-4b34-bb92-5e761bc02541",
-                    "publishedDate": "16/11/2026 14:58"
                 }
             ],
             "belangrijkheid": 0
@@ -324,6 +308,24 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
+            "link": "https://open.overheid.nl/details/3b029135-4016-419d-ac19-88a9300ec44f",
+            "publishedDate": "16/11/2026 14:58",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9a0939ee-ef98-4b34-bb92-5e761bc02541",
+                    "publishedDate": "16/11/2026 14:58"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -609,7 +611,7 @@
                     "publishedDate": "16/11/2026 10:57"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Leusdense wijkggd'er Mets Julianus: 'Oog hebben voor elkaar voorkomt vaak dat situaties ...",
@@ -636,6 +638,30 @@
                     "source": "ed.nl",
                     "link": "https://www.ed.nl/eindhoven/weggelopen-patient-vertrok-uit-ziekenhuis-in-dusseldorf-bleek-identiteit-van-eindhovenaar-te-misbruiken~ab1c58d1/",
                     "publishedDate": "16/11/2026 11:50"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ziekenhuis Groningen haalt complete darmen tijdelijk uit lichaam van man om tumor van 10 ...",
+            "link": "https://www.telegraaf.nl/lifestyle/gezondheid/ziekenhuis-groningen-haalt-complete-darmen-tijdelijk-uit-lichaam-van-man-om-tumor-van-10-kilo-te-verwijderen/164600533.html",
+            "publishedDate": "16/11/2026 11:47",
+            "source": "omroeptilburg.nl, powned.tv, telegraaf.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Tumor van 10 kilo uit buik van Ronald verwijderd: 'Sta nog steeds versteld' - Omroep Tilburg",
+                    "source": "omroeptilburg.nl",
+                    "link": "https://www.omroeptilburg.nl/regio/tilburg/tumor-van-10-kilo-uit-buik-van-ronald-verwijderd-sta-nog-steeds-versteld/",
+                    "publishedDate": "16/11/2026 11:35"
+                },
+                {
+                    "title": "Tumor van 10 kilo verwijderd bij man, ziekenhuis moest daarvoor tijdelijk zijn darmen weghalen",
+                    "source": "powned.tv",
+                    "link": "https://www.powned.tv/article/tumor-van-10-kilo-verwijderd-bij-man-ziekenhuis-moest-daarvoor-tijdelijk-zijn-darmen-weghalen~6994/",
+                    "publishedDate": "16/11/2026 11:34"
                 }
             ],
             "belangrijkheid": 0
@@ -832,7 +858,7 @@
                     "publishedDate": "13/11/2026 10:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Salland en Twente",
@@ -984,10 +1010,10 @@
             "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg - Drimble",
             "link": "https://drimble.nl/regio/gelderland/de-vallei/108610172/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden.html",
             "publishedDate": "16/11/2026 00:51",
-            "source": "ad.nl, drimble.nl, gelderlander.nl, nl.headtopics.com",
+            "source": "ad.nl, drimble.nl, gelderlander.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg - Drimble",
@@ -1006,12 +1032,6 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/veenendaal/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden~a447b73e/",
                     "publishedDate": "15/11/2026 19:43"
-                },
-                {
-                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
-                    "publishedDate": "15/11/2026 15:46"
                 }
             ],
             "belangrijkheid": 0
@@ -1069,7 +1089,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws | BD.nl",
@@ -1179,6 +1199,17 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
+            "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
+            "publishedDate": "15/11/2026 15:46",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
