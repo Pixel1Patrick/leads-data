@@ -188,36 +188,22 @@
             "title": "Van de goedkoopste naar de grootste stijger: deze zorgverzekering wordt 15% duurder",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/van-de-goedkoopste-naar-de-grootste-stijger-deze-zorgverzekering-wordt-15-procent-duurder",
             "publishedDate": "16/11/2026 11:27",
-            "source": "sittard-geleen.nieuws.nl, zorgwijzer.nl",
+            "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
-                    "publishedDate": "16/11/2026 11:05"
-                },
-                {
-                    "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
-                    "source": "sittard-geleen.nieuws.nl",
-                    "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
-                    "publishedDate": "16/11/2026 06:56"
-                },
-                {
-                    "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
-                    "publishedDate": "15/11/2026 14:52"
-                },
-                {
-                    "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
-                    "publishedDate": "15/11/2026 12:39"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
+            "publishedDate": "16/11/2026 11:05",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -416,6 +402,24 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
+            "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
+            "publishedDate": "16/11/2026 06:56",
+            "source": "cnv.nl, sittard-geleen.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -700,19 +704,31 @@
             "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
             "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
             "publishedDate": "15/11/2026 23:34",
-            "source": "drimble.nl, nunspeet.nieuws.nl",
+            "source": "drimble.nl, nl.headtopics.com, nunspeet.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
                     "source": "nunspeet.nieuws.nl",
                     "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
                     "publishedDate": "15/11/2026 14:09"
+                },
+                {
+                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
+                    "publishedDate": "15/11/2026 15:46"
+                },
+                {
+                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan | Utrecht Stad",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/utrecht/utrecht/108606185/deze-week-failliet-na-faillietverklaring-kondigt-jeugdzorg-advocaat-hoger-beroep-aan.html",
+                    "publishedDate": "15/11/2026 12:22"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws | BD.nl",
@@ -849,24 +865,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
-            "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
-            "publishedDate": "15/11/2026 15:46",
-            "source": "drimble.nl, nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan | Utrecht Stad",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/utrecht/utrecht/108606185/deze-week-failliet-na-faillietverklaring-kondigt-jeugdzorg-advocaat-hoger-beroep-aan.html",
-                    "publishedDate": "15/11/2026 12:22"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Voorzitter VNO-NCW: kabinetsval zou dramatisch zijn - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/economie/voorzitter-vno-ncw-kabinetsval-zou-dramatisch-zijn",
             "publishedDate": "15/11/2026 15:04",
@@ -898,6 +896,17 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
+            "publishedDate": "15/11/2026 14:52",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "SpaceX vangt ruimteschip weer gecontroleerd op na testvlucht - Welingelichte Kringen",
@@ -972,6 +981,17 @@
             "source": "cafeweltschmerz.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
+            "publishedDate": "15/11/2026 12:39",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1186,17 +1206,6 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
