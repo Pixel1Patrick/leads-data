@@ -608,7 +608,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Video: Spectaculaire takeloperatie nieuwe MRI-scanner bij Viasana - inMill.nl",
@@ -842,6 +842,28 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ambulancezorg/nieuws/extra-werk-cao-ambulancezorg-vervolg-2026-11-13/",
+            "publishedDate": "13/11/2026 11:12",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+            "publishedDate": "13/11/2026 10:06",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/tweede-overleg-cao-ziekenhuizen",
             "publishedDate": "13/11/2026 08:40",
@@ -944,6 +966,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[CNV] Update onderhandelingen CAO Gehandicaptenzorg",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-gehandicaptenzorg/nieuws/nieuwe-update-onderhandelingen-cao-gehandicaptenzorg/",
+            "publishedDate": "11/11/2026 14:39",
+            "source": "cnv.nl, nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[NU'91] Update onderhandelingen cao kraamzorg",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/767-update-onderhandelingen-cao-kraamzorg",
+                    "publishedDate": "09/11/2026 10:57"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Subsidie SO-Z&W 2027 voor opleiden en ontwikkelen van medewerkers",
             "link": "https://www.lhv.nl/nieuws/subsidie-so-zw-2027-voor-opleiden-en-ontwikkelen-van-medewerkers/",
             "publishedDate": "11/11/2026 12:24",
@@ -977,6 +1017,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[CNV] Nieuwe cao-onderhandeling CIZ, wat wil jij?",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-centrum-indicatiestelling-zorg/nieuws/nieuwe-cao-onderhandeling-ciz-wat-wil-jij-2026-11-11/",
+            "publishedDate": "11/11/2026 11:41",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Duurzaamheid: gewoon beginnen, leren van anderen en ruimte geven",
             "link": "https://nvz-ziekenhuizen.nl/actualiteit-en-opinie/duurzaamheid-gewoon-beginnen-leren-van-anderen-en-ruimte-geven",
             "publishedDate": "11/11/2026 11:36",
@@ -1005,6 +1056,17 @@
             "source": "nza.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "NZa Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Actie in de GGZ",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/actie-in-de-ggz/",
+            "publishedDate": "10/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1186,17 +1248,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] Update onderhandelingen cao kraamzorg",
-            "link": "https://nu91.nl/nieuws/767-update-onderhandelingen-cao-kraamzorg",
-            "publishedDate": "09/11/2026 10:57",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[GGZ] Werkgevers blijven bij eindbod cao ggz",
             "link": "https://www.denederlandseggz.nl/nieuws/2026/werkgevers-blijven-bij-eindbod-cao-ggz",
             "publishedDate": "09/11/2026 10:52",
@@ -1219,15 +1270,33 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[FNV] GGZ-werknemers gaan vanaf december actievoeren: eerste acties deze eeuw",
-            "link": "https://www.fnv.nl/nieuwsbericht/algemeen-nieuws/2026/11/ggz-werknemers-gaan-vanaf-december-actievoeren-eer",
-            "publishedDate": "09/11/2026 10:36",
-            "source": "fnv.nl",
+            "title": "[CNV] Update onderhandelingen nieuwe cao Kraamzorg",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-kraamzorg/nieuws/update-onderhandelingen-nieuwe-cao-kraamzorg-2026-11-09/",
+            "publishedDate": "09/11/2026 10:46",
+            "source": "cnv.nl",
             "category": "Vakbonden",
-            "feed_label": "FNV zorg",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] GGZ-werknemers gaan vanaf december actievoeren: eerste acties deze eeuw",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/nieuws/ggz-werknemers-gaan-vanaf-december-actievoeren-eerste-acties-deze-eeuw/",
+            "publishedDate": "09/11/2026 10:46",
+            "source": "cnv.nl, fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[FNV] GGZ-werknemers gaan vanaf december actievoeren: eerste acties deze eeuw",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/algemeen-nieuws/2026/11/ggz-werknemers-gaan-vanaf-december-actievoeren-eer",
+                    "publishedDate": "09/11/2026 10:36"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Standaardisatie Jeugd",
@@ -1373,6 +1442,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[CNV] Onderhandelingsresultaat nieuwe cao fysiotherapie",
+            "link": "https://www.cnv.nl/nieuws/onderhandelingsresultaat-nieuwe-cao-fysiotherapie-2026-11-04/",
+            "publishedDate": "04/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[FNV] Apotheekmedewerkers: achterbanraadpleging pensioen PMA",
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/apotheekmedewerkers-achterbanraadpleging-pensioen",
             "publishedDate": "04/11/2026 10:36",
@@ -1457,6 +1537,28 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Wat vind jij belangrijk voor de nieuwe cao Ambulancezorg?",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ambulancezorg/nieuws/wat-vind-jij-belangrijk-voor-de-nieuwe-cao-ambulancezorg-2026-11-03/",
+            "publishedDate": "03/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Word CNV-vakbondsconsulent en sta naast je collega\u2019s bij Kalorama",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-verpleeg-verzorgingshuizen-en-thuiszorg/nieuws/word-cnv-vakbondsconsulent-en-sta-naast-je-collegas-bij-kalorama-2026-11-03/",
+            "publishedDate": "03/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1577,6 +1679,17 @@
             "source": "lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Ultimatum cao GGZ",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/cao-ggz-ultimatum-2026-11-02/",
+            "publishedDate": "02/11/2026 10:46",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
