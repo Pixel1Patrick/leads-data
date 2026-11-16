@@ -938,7 +938,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 10,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Nota n a v  verslag Wijziging van de Wet publieke gezondheid tot incorporatie van de Regeling andesvirus",
@@ -951,51 +951,9 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/3eab501e-e574-4874-a3d2-2190e1df0850",
                     "publishedDate": "13/11/2026 16:34"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/5c2dee92-703d-46b3-9983-8723fedd61b3",
-                    "publishedDate": "13/11/2026 12:34"
-                },
-                {
-                    "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
-                    "publishedDate": "13/11/2026 12:34"
-                },
-                {
-                    "title": "Brief van ministerie van VWS aan Stichting Acute Zorg VPR in reactie op brief \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "[WOO] Brief van Stichting Acute Zorq VPR in reactie op brief van VWS over \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
-                    "publishedDate": "13/11/2026 11:18"
-                },
-                {
-                    "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
-                    "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Huisartsen schakelen pati\u00ebnten in tegen afschaffing Impulseo - De Specialist",
@@ -1031,6 +989,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
+            "link": "https://open.overheid.nl/details/5c2dee92-703d-46b3-9983-8723fedd61b3",
+            "publishedDate": "13/11/2026 12:34",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/77ba3087-47fb-470d-a113-2a363e6864c2",
+                    "publishedDate": "13/11/2026 12:34"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "In gesprek met VWS over de impact van regeldruk op de eerstelijnszorg - KNMP",
             "link": "https://www.knmp.nl/actueel/nieuws/gesprek-met-vws-over-de-impact-van-regeldruk-op-de-eerstelijnszorg",
             "publishedDate": "13/11/2026 12:10",
@@ -1058,6 +1034,42 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Brief van ministerie van VWS aan Stichting Acute Zorg VPR in reactie op brief \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
+            "link": "https://open.overheid.nl/details/ccbedfae-4263-4cee-986d-bc6ffa4279dc",
+            "publishedDate": "13/11/2026 11:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "[WOO] Brief van Stichting Acute Zorq VPR in reactie op brief van VWS over \"Het acute zorglandschap in Nederland Staat onder zware druk\"",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c7b01907-1355-4c79-8899-abc11da28af2",
+                    "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/4cf8d220-0e50-4b67-a23a-d215d1db227b",
+                    "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "Kamerbrief over reactie op open brief van Stichting Acute Zorg VPR: het acute zorglandschap staat onder zware druk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/5cffc41d-fd08-4333-8c7c-3be5a8b93dc7",
+                    "publishedDate": "13/11/2026 11:18"
+                },
+                {
+                    "title": "Beantwoording burgerbrief \"Het Acute Zorg Landschap in Nederland Staat onder zware druk\"",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/055cfd4c-70e4-4f88-b95d-49c47fa37c20",
+                    "publishedDate": "13/11/2026 11:18"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
