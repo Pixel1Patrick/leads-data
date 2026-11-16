@@ -89,10 +89,10 @@
             "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws | BD.nl",
             "link": "https://www.bd.nl/wetenschap/wat-is-een-hitteberoerte-en-en-wat-moet-je-doen-als-je-het-hebt~af24c121/",
             "publishedDate": "15/11/2026 23:01",
-            "source": "bd.nl, destentor.nl, gelderlander.nl",
+            "source": "bd.nl, destentor.nl, gelderlander.nl, zorgwijzer.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 5,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws - De Gelderlander",
@@ -105,6 +105,12 @@
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/wetenschap/wat-is-een-hitteberoerte-en-en-wat-moet-je-doen-als-je-het-hebt~af24c121/",
                     "publishedDate": "15/11/2026 17:05"
+                },
+                {
+                    "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
+                    "publishedDate": "15/11/2026 12:39"
                 }
             ],
             "belangrijkheid": 0
@@ -179,11 +185,18 @@
             "title": "Artsen laks over bijwerkingen - De Andere Krant",
             "link": "https://deanderekrant.nl/artsen-laks-over-bijwerkingen/",
             "publishedDate": "15/11/2026 20:07",
-            "source": "deanderekrant.nl",
+            "source": "cafeweltschmerz.nl, deanderekrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
+                    "source": "cafeweltschmerz.nl",
+                    "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
+                    "publishedDate": "15/11/2026 12:40"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -549,28 +562,6 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
-            "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
-            "publishedDate": "15/11/2026 12:40",
-            "source": "cafeweltschmerz.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
-            "publishedDate": "15/11/2026 12:39",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
