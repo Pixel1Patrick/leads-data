@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Astmapati\u00ebnt Annemari belandde door RS-virus in ziekenhuis - De Telegraaf",
+            "link": "https://www.telegraaf.nl/lifestyle/gezondheid/astmapatient-annemari-belandde-door-rs-virus-in-ziekenhuis-ik-dacht-kom-ik-hier-nog-wel-levend-weg/163010830.html",
+            "publishedDate": "16/11/2026 05:47",
+            "source": "telegraaf.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Blacky treedt op in 50+ Ontmoetingspunt in Doetinchem | Regio | De Gelderlander.nl",
             "link": "https://www.gelderlander.nl/doetinchem/blacky-treedt-op-in-50-ontmoetingspunt-in-doetinchem~a5bd36ae/",
             "publishedDate": "16/11/2026 04:16",
@@ -297,24 +308,11 @@
             "title": "Artsen laks over bijwerkingen - De Andere Krant",
             "link": "https://deanderekrant.nl/artsen-laks-over-bijwerkingen/",
             "publishedDate": "15/11/2026 20:07",
-            "source": "cafeweltschmerz.nl, deanderekrant.nl",
+            "source": "deanderekrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
-                    "source": "deanderekrant.nl",
-                    "link": "https://deanderekrant.nl/artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
-                    "publishedDate": "15/11/2026 13:13"
-                },
-                {
-                    "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
-                    "source": "cafeweltschmerz.nl",
-                    "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
-                    "publishedDate": "15/11/2026 12:40"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -624,6 +622,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
+            "link": "https://deanderekrant.nl/artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
+            "publishedDate": "15/11/2026 13:13",
+            "source": "deanderekrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Met toestel ter grootte van scheerapparaat houdt huisarts ouderen mogelijk uit ziekenhuis",
             "link": "https://www.omroepwest.nl/zorg/5172011/met-toestel-ter-grootte-van-scheerapparaat-houdt-huisarts-ouderen-mogelijk-uit-ziekenhuis",
             "publishedDate": "15/11/2026 12:55",
@@ -641,6 +650,17 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
+            "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
+            "publishedDate": "15/11/2026 12:40",
+            "source": "cafeweltschmerz.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1047,7 +1067,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1076,7 +1096,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
