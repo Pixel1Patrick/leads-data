@@ -53,6 +53,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Bescherming van ziekenhuizen en gezondheidscentra met verdampt waterstofperoxide",
+            "link": "https://www.reinraum.de/nl/news/bescherming-van-ziekenhuizen-en-gezondheidscentra-met-verdampt-waterstofperoxide.html",
+            "publishedDate": "16/11/2026 01:05",
+            "source": "reinraum.de",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Na verlies van stilgeboren Senna hield Danique (29) hem nog \u00e9\u00e9n week bij zich",
             "link": "https://www.bndestem.nl/binnenland/van-knuffelen-op-de-bank-tot-de-crematie-danique-29-bleef-tot-het-hartbrekende-einde-bij-haar-stilgeboren-senna~a325f09f6/",
             "publishedDate": "16/11/2026 00:32",
@@ -118,18 +129,11 @@
             "title": "Veel jonge mannen zijn somber, zo herken je de signalen en dit kun je doen - BN DeStem",
             "link": "https://www.bndestem.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
             "publishedDate": "15/11/2026 23:46",
-            "source": "bd.nl, bndestem.nl",
+            "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Jonge mannen overlijden twee keer zo vaak door zelfdoding: hoe komt dat en hoe herken je ...",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
-                    "publishedDate": "15/11/2026 16:21"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -159,7 +163,7 @@
                     "publishedDate": "15/11/2026 14:09"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Man (32) loopt weg uit ziekenhuis in Eindhoven, mogelijk nog met infuusnaald in arm",
@@ -277,11 +281,24 @@
             "title": "Artsen laks over bijwerkingen - De Andere Krant",
             "link": "https://deanderekrant.nl/artsen-laks-over-bijwerkingen/",
             "publishedDate": "15/11/2026 20:07",
-            "source": "deanderekrant.nl",
+            "source": "cafeweltschmerz.nl, deanderekrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
+                    "source": "deanderekrant.nl",
+                    "link": "https://deanderekrant.nl/artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
+                    "publishedDate": "15/11/2026 13:13"
+                },
+                {
+                    "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
+                    "source": "cafeweltschmerz.nl",
+                    "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
+                    "publishedDate": "15/11/2026 12:40"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -419,6 +436,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Jonge mannen overlijden twee keer zo vaak door zelfdoding: hoe komt dat en hoe herken je ...",
+            "link": "https://www.bd.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
+            "publishedDate": "15/11/2026 16:21",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
             "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
             "publishedDate": "15/11/2026 15:46",
@@ -473,12 +501,19 @@
             "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
             "publishedDate": "15/11/2026 14:52",
-            "source": "zorgwijzer.nl",
+            "source": "cnv.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Video: Spectaculaire takeloperatie nieuwe MRI-scanner bij Viasana - inMill.nl",
@@ -580,17 +615,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
-            "link": "https://deanderekrant.nl/artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
-            "publishedDate": "15/11/2026 13:13",
-            "source": "deanderekrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Met toestel ter grootte van scheerapparaat houdt huisarts ouderen mogelijk uit ziekenhuis",
             "link": "https://www.omroepwest.nl/zorg/5172011/met-toestel-ter-grootte-van-scheerapparaat-houdt-huisarts-ouderen-mogelijk-uit-ziekenhuis",
             "publishedDate": "15/11/2026 12:55",
@@ -602,34 +626,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ziekenhuizen in Phuket sluiten overeenkomst om zorg voor kraamvrouwen en ...",
-            "link": "https://www.rawai.com/nl/ziekenhuizen-in-phuket-sluiten-overeenkomst-om-zorg-voor-kraamvrouwen-e-fc7aea11/",
-            "publishedDate": "15/11/2026 12:54",
-            "source": "rawai.com",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zelensky wijt Russische inslagen aan beperkingen Starshield - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/samenleving/zelensky-wijt-russische-inslagen-aan-beperkingen-starshield",
             "publishedDate": "15/11/2026 12:47",
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
-            "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
-            "publishedDate": "15/11/2026 12:40",
-            "source": "cafeweltschmerz.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1069,7 +1071,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1098,7 +1100,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1122,18 +1124,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
