@@ -53,7 +53,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
@@ -96,6 +96,28 @@
             "belangrijkheid": 0
         },
         {
+            "title": "WHO waarschuwt: medicijnresistentie kan 39 miljoen levens kosten - Starnieuws",
+            "link": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94894",
+            "publishedDate": "16/11/2026 16:47",
+            "source": "starnieuws.com",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Reactie Inspectie Gezondheidszorg en Jeugd - Radar",
+            "link": "https://radar.avrotros.nl/artikel/reactie-inspectie-gezondheidszorg-en-jeugd-63190",
+            "publishedDate": "16/11/2026 16:44",
+            "source": "radar.avrotros.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "De Peiling: Zorgverzekeraar stopt vergoeding 'belachelijke' alternatieve geneeswijzen - NH Nieuws",
             "link": "https://www.nhnieuws.nl/nieuws/235878/nederland-wil-uitgeprocedeerde-asielzoekers-uitzetten-naar-rwanda",
             "publishedDate": "16/11/2026 16:39",
@@ -113,33 +135,48 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
                     "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-                    "publishedDate": "16/11/2026 16:33"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -157,11 +194,18 @@
             "title": "Deze artsen verwijderen de prostaat met een nieuwe techniek: einde aan erectieproblemen ...",
             "link": "https://www.parool.nl/nederland/deze-artsen-verwijderen-de-prostaat-met-een-nieuwe-techniek-einde-aan-erectieproblemen-en-urineverlies~b80a0b2f/",
             "publishedDate": "16/11/2026 16:26",
-            "source": "parool.nl",
+            "source": "jeroenboschziekenhuis.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
+                    "source": "jeroenboschziekenhuis.nl",
+                    "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
+                    "publishedDate": "16/11/2026 15:51"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -271,17 +315,6 @@
             "source": "sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
-            "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
-            "publishedDate": "16/11/2026 15:51",
-            "source": "jeroenboschziekenhuis.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -465,7 +498,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ernstig zieke Djamilla (20) is opgenomen in ziekenhuis Arnhem - Omroep Zeeland",
@@ -752,8 +785,15 @@
             "source": "departementzorg.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zorginspectie brengt kwaliteit van zorg in revalidatieziekenhuizen in beeld",
+                    "source": "departementzorg.be",
+                    "link": "https://www.departementzorg.be/nl/nieuws/zorginspectie-brengt-kwaliteit-van-zorg-revalidatieziekenhuizen-beeld",
+                    "publishedDate": "16/11/2026 10:57"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -805,7 +845,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
@@ -817,17 +857,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Zorginspectie brengt kwaliteit van zorg in revalidatieziekenhuizen in beeld",
-            "link": "https://www.departementzorg.be/nl/nieuws/zorginspectie-brengt-kwaliteit-van-zorg-revalidatieziekenhuizen-beeld",
-            "publishedDate": "16/11/2026 10:57",
-            "source": "departementzorg.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "Voor meer dan een miljard dollar: Gentenaars nemen ontdekkers van peptiden over",
@@ -882,7 +911,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hoppen van bank naar bank of slapen bij vrienden: Oosterhout wil dakloze jongeren helpen",
@@ -999,7 +1028,7 @@
                     "publishedDate": "13/11/2026 10:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Salland en Twente",
@@ -1027,18 +1056,11 @@
             "title": "Ryan Giasi vertelt voor het eerst openlijk over zijn verleden in gesloten jeugdzorg in Wezep",
             "link": "https://vrmg.nl/ryan-giasi-vertelt-voor-het-eerst-openlijk-over-zijn-verleden-in-gesloten-jeugdzorg-in-wezep",
             "publishedDate": "16/11/2026 06:23",
-            "source": "drimble.nl, vrmg.nl",
+            "source": "vrmg.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
-                    "publishedDate": "15/11/2026 23:34"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1154,6 +1176,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
+            "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
+            "publishedDate": "15/11/2026 23:34",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws | BD.nl",
             "link": "https://www.bd.nl/wetenschap/wat-is-een-hitteberoerte-en-en-wat-moet-je-doen-als-je-het-hebt~af24c121/",
             "publishedDate": "15/11/2026 23:01",
@@ -1244,17 +1277,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "SpaceX vangt ruimteschip weer gecontroleerd op na testvlucht - Welingelichte Kringen",
-            "link": "https://www.welingelichtekringen.nl/samenleving/spacex-vangt-ruimteschip-weer-gecontroleerd-op-na-testvlucht",
-            "publishedDate": "15/11/2026 14:24",
-            "source": "welingelichtekringen.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Minister Sterk brengt komende week werkbezoek aan Bonaire",
             "link": "https://www.bonaire.nu/nieuws/politiek-bestuur/98455/minister-sterk-brengt-komende-week-werkbezoek-aan-bonaire",
             "publishedDate": "15/11/2026 14:05",
@@ -1272,28 +1294,6 @@
             "source": "newsmonkey.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Man gewond bij schietpartij in uitgaansgebied Alkmaar - Welingelichte Kringen",
-            "link": "https://www.welingelichtekringen.nl/samenleving/man-gewond-bij-schietpartij-in-uitgaansgebied-alkmaar",
-            "publishedDate": "15/11/2026 13:22",
-            "source": "welingelichtekringen.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zelensky wijt Russische inslagen aan beperkingen Starshield - Welingelichte Kringen",
-            "link": "https://www.welingelichtekringen.nl/samenleving/zelensky-wijt-russische-inslagen-aan-beperkingen-starshield",
-            "publishedDate": "15/11/2026 12:47",
-            "source": "welingelichtekringen.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
