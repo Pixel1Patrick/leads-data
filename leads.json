@@ -7,21 +7,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_84",
                     "publishedDate": "16/11/2026 10:00"
-                },
-                {
-                    "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_99",
-                    "publishedDate": "16/11/2026 10:29"
                 }
             ],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
+            "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_99",
+            "publishedDate": "16/11/2026 10:29",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -96,24 +101,11 @@
             "title": "Van de goedkoopste naar de grootste stijger: deze zorgverzekering wordt 15% duurder",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/van-de-goedkoopste-naar-de-grootste-stijger-deze-zorgverzekering-wordt-15-procent-duurder",
             "publishedDate": "16/11/2026 08:19",
-            "source": "sittard-geleen.nieuws.nl, zorgwijzer.nl",
+            "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
-                    "source": "sittard-geleen.nieuws.nl",
-                    "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
-                    "publishedDate": "16/11/2026 06:56"
-                },
-                {
-                    "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
-                    "publishedDate": "15/11/2026 14:52"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -203,6 +195,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
+            "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
+            "publishedDate": "16/11/2026 06:56",
+            "source": "cnv.nl, sittard-geleen.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Salland en Twente",
@@ -485,18 +495,11 @@
             "title": "Veel jonge mannen zijn somber, zo herken je de signalen en dit kun je doen - BN DeStem",
             "link": "https://www.bndestem.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
             "publishedDate": "15/11/2026 23:46",
-            "source": "bd.nl, bndestem.nl",
+            "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Jonge mannen overlijden twee keer zo vaak door zelfdoding: hoe komt dat en hoe herken je ...",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
-                    "publishedDate": "15/11/2026 16:21"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -514,34 +517,16 @@
             "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
             "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
             "publishedDate": "15/11/2026 23:34",
-            "source": "ad.nl, drimble.nl, gelderlander.nl, nunspeet.nieuws.nl",
+            "source": "drimble.nl, nunspeet.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 6,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
                     "source": "nunspeet.nieuws.nl",
                     "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
                     "publishedDate": "15/11/2026 14:09"
-                },
-                {
-                    "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/gelderland/de-vallei/108608346/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden.html",
-                    "publishedDate": "15/11/2026 19:58"
-                },
-                {
-                    "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/veenendaal/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden~a447b73e/",
-                    "publishedDate": "15/11/2026 19:43"
-                },
-                {
-                    "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/veenendaal/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden~a447b73e/",
-                    "publishedDate": "15/11/2026 19:43"
                 }
             ],
             "belangrijkheid": 0
@@ -601,6 +586,30 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg - Drimble",
+            "link": "https://drimble.nl/regio/gelderland/de-vallei/108608346/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden.html",
+            "publishedDate": "15/11/2026 19:58",
+            "source": "ad.nl, drimble.nl, gelderlander.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/veenendaal/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden~a447b73e/",
+                    "publishedDate": "15/11/2026 19:43"
+                },
+                {
+                    "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/veenendaal/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden~a447b73e/",
+                    "publishedDate": "15/11/2026 19:43"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -670,6 +679,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Jonge mannen overlijden twee keer zo vaak door zelfdoding: hoe komt dat en hoe herken je ...",
+            "link": "https://www.bd.nl/gezond/jonge-mannen-overlijden-twee-keer-zo-vaak-door-zelfdoding-hoe-komt-dat-en-hoe-herken-je-mentale-problemen~a0f60c66/",
+            "publishedDate": "15/11/2026 16:21",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Deze week failliet: Na faillietverklaring kondigt jeugdzorg-advocaat hoger beroep aan",
             "link": "https://nl.headtopics.com/news/deze-week-failliet-na-faillietverklaring-kondigt-89872510",
             "publishedDate": "15/11/2026 15:46",
@@ -719,6 +739,17 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
+            "publishedDate": "15/11/2026 14:52",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "SpaceX vangt ruimteschip weer gecontroleerd op na testvlucht - Welingelichte Kringen",
@@ -1005,7 +1036,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1040,17 +1071,6 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1891,17 +1911,6 @@
             "source": "lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Ultimatum cao GGZ",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/cao-ggz-ultimatum-2026-11-02/",
-            "publishedDate": "02/11/2026 10:46",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
