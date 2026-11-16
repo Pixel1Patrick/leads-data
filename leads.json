@@ -69,7 +69,7 @@
             "source": "ad.nl, destentor.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Huisartsen slaan alarm over zorg voor Oekra\u00efense vluchtelingen in Twente en Salland",
@@ -82,6 +82,12 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/hellendoorn/huisartsen-slaan-alarm-over-zorg-voor-oekraiense-vluchtelingen-in-twente-en-salland-levensgevaarlijk~a3bdb137/",
                     "publishedDate": "15/11/2026 19:08"
+                },
+                {
+                    "title": "Oekra\u00efense vluchtelingen missen goede huisartsenzorg in Twente: 'Lopen rond met hartinfarct'",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/hellendoorn/oekraiense-vluchtelingen-missen-goede-huisartsenzorg-in-twente-lopen-rond-met-hartinfarct~a3bdb137/",
+                    "publishedDate": "15/11/2026 18:32"
                 }
             ],
             "belangrijkheid": 0
@@ -297,24 +303,11 @@
             "title": "Artsen laks over bijwerkingen - De Andere Krant",
             "link": "https://deanderekrant.nl/artsen-laks-over-bijwerkingen/",
             "publishedDate": "15/11/2026 20:07",
-            "source": "cafeweltschmerz.nl, deanderekrant.nl",
+            "source": "deanderekrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
-                    "source": "deanderekrant.nl",
-                    "link": "https://deanderekrant.nl/artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
-                    "publishedDate": "15/11/2026 13:13"
-                },
-                {
-                    "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
-                    "source": "cafeweltschmerz.nl",
-                    "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
-                    "publishedDate": "15/11/2026 12:40"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -390,17 +383,6 @@
             "link": "https://www.pzc.nl/binnenland/marcel-ruilt-miljoenenbedrijf-in-voor-600-schapen-ik-ben-veel-gelukkiger~a4a2dac8/",
             "publishedDate": "15/11/2026 19:02",
             "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Oekra\u00efense vluchtelingen missen goede huisartsenzorg in Twente: 'Lopen rond met hartinfarct'",
-            "link": "https://www.destentor.nl/hellendoorn/oekraiense-vluchtelingen-missen-goede-huisartsenzorg-in-twente-lopen-rond-met-hartinfarct~a3bdb137/",
-            "publishedDate": "15/11/2026 18:32",
-            "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
@@ -517,12 +499,25 @@
             "title": "Zorgverzekering 2027: alle premies bekend (overzicht) - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/alle-premies-bekend-overzicht",
             "publishedDate": "15/11/2026 14:52",
-            "source": "zorgwijzer.nl",
+            "source": "cnv.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
+                    "publishedDate": "15/11/2026 12:39"
+                },
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Video: Spectaculaire takeloperatie nieuwe MRI-scanner bij Viasana - inMill.nl",
@@ -624,6 +619,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
+            "link": "https://deanderekrant.nl/artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
+            "publishedDate": "15/11/2026 13:13",
+            "source": "cafeweltschmerz.nl, deanderekrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "De Andere Tafel - Artsen verzaken hun wettelijke plicht ernstige bijwerkingen medicijnen te melden",
+                    "source": "cafeweltschmerz.nl",
+                    "link": "https://cafeweltschmerz.nl/videos/de-andere-tafel-artsen-verzaken-hun-wettelijke-plicht-ernstige-bijwerkingen-medicijnen-te-melden/",
+                    "publishedDate": "15/11/2026 12:40"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Met toestel ter grootte van scheerapparaat houdt huisarts ouderen mogelijk uit ziekenhuis",
             "link": "https://www.omroepwest.nl/zorg/5172011/met-toestel-ter-grootte-van-scheerapparaat-houdt-huisarts-ouderen-mogelijk-uit-ziekenhuis",
             "publishedDate": "15/11/2026 12:55",
@@ -641,17 +654,6 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Goedkoop of duur? Bij deze zorgverzekeraar scheelt het soms maar 20 cent - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkoop-of-duur-bij-deze-zorgverzekeraar-scheelt-het-soms-maar-20-cent",
-            "publishedDate": "15/11/2026 12:39",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -964,7 +966,7 @@
             "feed_label": "Tuchtcollege voor de Gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
@@ -1047,7 +1049,7 @@
                     "publishedDate": "13/11/2026 11:18"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
@@ -1076,7 +1078,7 @@
                     "publishedDate": "12/11/2026 13:44"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Toezichtrapport NZa - Uitvoering van de wettelijke taken door het CAK in 2025",
@@ -1100,18 +1102,7 @@
                     "publishedDate": "13/11/2026 10:54"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[FNV] Tweede overleg cao Ziekenhuizen",
