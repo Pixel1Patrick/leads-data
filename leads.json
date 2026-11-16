@@ -136,7 +136,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg | Nederlandse Zorgautoriteit",
@@ -189,41 +189,40 @@
             "title": "'Ouders onder druk gezet om kind uit huis te plaatsen' | Hart van Nederland",
             "link": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/ouders-onder-druk-vrijwillige-uithuisplaatsing",
             "publishedDate": "16/11/2026 19:29",
-            "source": "hartvannederland.nl, platform-investico.nl, trouw.nl",
+            "source": "hartvannederland.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
-                    "source": "platform-investico.nl",
-                    "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
-                    "publishedDate": "16/11/2026 16:16"
-                },
-                {
-                    "title": "Hulpverleners zetten ouders onder druk bij vrijwillige uithuisplaatsing - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/binnenland/hulpverleners-zetten-ouders-onder-druk-bij-vrijwillige-uithuisplaatsing~b086f193/",
-                    "publishedDate": "16/11/2026 16:02"
-                },
-                {
-                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
-                    "publishedDate": "16/11/2026 15:56"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Shaping Interfaces Between Science and the Public - Universiteit van Amsterdam",
+            "link": "https://www.uva.nl/onderzoek/overzicht-onderzoeksthemas/shaping-interfaces",
+            "publishedDate": "16/11/2026 19:29",
+            "source": "uva.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen ingehuldigd in Zellik - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/nieuws/eerste-7-tesla-mri-scanner-in-vlaanderen-ingehuldigd-in-zellik/164647884.html",
             "publishedDate": "16/11/2026 19:05",
-            "source": "nieuwsblad.be",
+            "source": "nieuwsblad.be, press.vub.ac.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
+                    "source": "press.vub.ac.be",
+                    "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
+                    "publishedDate": "16/11/2026 17:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -389,16 +388,16 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "ouderen willen zo lang mogelijk thuiswonen, maar wat als je valt en je ineens ... - De Gelderlander",
             "link": "https://www.gelderlander.nl/gezond/alle-ouderen-willen-zo-lang-mogelijk-thuiswonen-maar-wat-als-je-valt-en-je-ineens-moet-nadenken-over-later~a777b922/",
             "publishedDate": "16/11/2026 17:46",
-            "source": "ad.nl, bd.nl, destentor.nl, ed.nl, gelderlander.nl",
+            "source": "ad.nl, bd.nl, bndestem.nl, destentor.nl, ed.nl, gelderlander.nl, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 6,
+            "duplicate_count": 9,
             "extra_bronnen": [
                 {
                     "title": "Alle ouderen willen zo lang mogelijk thuiswonen, maar wat als je valt en je ineens moet ...",
@@ -423,19 +422,26 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/gezond/alle-ouderen-willen-zo-lang-mogelijk-thuiswonen-maar-wat-als-je-valt-en-je-ineens-moet-nadenken-over-later~a777b922/",
                     "publishedDate": "16/11/2026 14:46"
+                },
+                {
+                    "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ...",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
+                    "publishedDate": "16/11/2026 15:47"
+                },
+                {
+                    "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ... - PZC",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
+                    "publishedDate": "16/11/2026 14:21"
+                },
+                {
+                    "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ...",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
+                    "publishedDate": "16/11/2026 14:20"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
-            "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
-            "publishedDate": "16/11/2026 17:45",
-            "source": "press.vub.ac.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -453,30 +459,11 @@
             "title": "Zorgpremie stijgt flink - Joop - BNNVARA",
             "link": "https://www.bnnvara.nl/joop/artikelen/zorgpremie-stijgt-flink",
             "publishedDate": "16/11/2026 17:41",
-            "source": "bnnvara.nl, sittard-geleen.nieuws.nl, zorgwijzer.nl",
+            "source": "bnnvara.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
-                    "publishedDate": "16/11/2026 17:14"
-                },
-                {
-                    "title": "Van de goedkoopste naar de grootste stijger: deze zorgverzekering wordt 15% duurder",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/van-de-goedkoopste-naar-de-grootste-stijger-deze-zorgverzekering-wordt-15-procent-duurder",
-                    "publishedDate": "16/11/2026 11:27"
-                },
-                {
-                    "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
-                    "source": "sittard-geleen.nieuws.nl",
-                    "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
-                    "publishedDate": "16/11/2026 06:56"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -497,6 +484,17 @@
             "source": "progressiefnederland.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
+            "publishedDate": "16/11/2026 17:14",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -567,7 +565,7 @@
                     "publishedDate": "16/11/2026 14:19"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Apotheker scoort beter dan huisarts als vertrouwenspersoon voor ouderen - Medi-Sfeer",
@@ -760,6 +758,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
+            "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
+            "publishedDate": "16/11/2026 16:16",
+            "source": "platform-investico.nl, trouw.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Hulpverleners zetten ouders onder druk bij vrijwillige uithuisplaatsing - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/binnenland/hulpverleners-zetten-ouders-onder-druk-bij-vrijwillige-uithuisplaatsing~b086f193/",
+                    "publishedDate": "16/11/2026 16:02"
+                },
+                {
+                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
+                    "publishedDate": "16/11/2026 15:56"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Nieuw psychiatrisch gebouw combineert huiselijke sfeer met hedendaags comfort",
             "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/bierbeek/nieuw-psychiatrisch-gebouw-combineert-huiselijke-sfeer-met-hedendaags-comfort/164627580.html",
             "publishedDate": "16/11/2026 16:14",
@@ -823,30 +845,6 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ...",
-            "link": "https://www.bndestem.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
-            "publishedDate": "16/11/2026 15:47",
-            "source": "bndestem.nl, ed.nl, pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ... - PZC",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
-                    "publishedDate": "16/11/2026 14:21"
-                },
-                {
-                    "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ...",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
-                    "publishedDate": "16/11/2026 14:20"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1205,6 +1203,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Van de goedkoopste naar de grootste stijger: deze zorgverzekering wordt 15% duurder",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/van-de-goedkoopste-naar-de-grootste-stijger-deze-zorgverzekering-wordt-15-procent-duurder",
+            "publishedDate": "16/11/2026 11:27",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Voor meer dan een miljard dollar: Gentenaars nemen ontdekkers van peptiden over",
             "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/voor-meer-dan-een-miljard-dollar-gentenaars-nemen-ontdekkers-van-peptiden-over/164499017.html",
             "publishedDate": "16/11/2026 10:48",
@@ -1323,6 +1332,24 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
+            "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
+            "publishedDate": "16/11/2026 06:56",
+            "source": "cnv.nl, sittard-geleen.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1490,17 +1517,6 @@
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ambulancezorg/nieuws/extra-werk-cao-ambulancezorg-vervolg-2026-11-13/",
             "publishedDate": "13/11/2026 11:12",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
