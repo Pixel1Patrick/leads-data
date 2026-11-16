@@ -7,13 +7,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_86",
                     "publishedDate": "16/11/2026 11:26"
+                },
+                {
+                    "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_108",
+                    "publishedDate": "16/11/2026 14:59"
                 }
             ],
             "belangrijkheid": 1
@@ -37,17 +43,6 @@
             "belangrijkheid": 1
         },
         {
-            "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
-            "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_108",
-            "publishedDate": "16/11/2026 14:59",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
             "link": "https://open.overheid.nl/details/3b029135-4016-419d-ac19-88a9300ec44f",
             "publishedDate": "16/11/2026 14:58",
@@ -63,7 +58,7 @@
                     "publishedDate": "16/11/2026 14:58"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ernstig zieke Djamilla (20) is opgenomen in ziekenhuis Arnhem - Omroep Zeeland",
@@ -312,7 +307,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
@@ -378,7 +373,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hoppen van bank naar bank of slapen bij vrienden: Oosterhout wil dakloze jongeren helpen",
