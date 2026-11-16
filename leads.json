@@ -503,24 +503,11 @@
             "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
             "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
             "publishedDate": "16/11/2026 16:16",
-            "source": "platform-investico.nl, trouw.nl",
+            "source": "platform-investico.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Hulpverleners zetten ouders onder druk bij vrijwillige uithuisplaatsing - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/binnenland/hulpverleners-zetten-ouders-onder-druk-bij-vrijwillige-uithuisplaatsing~b086f193/",
-                    "publishedDate": "16/11/2026 16:02"
-                },
-                {
-                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
-                    "publishedDate": "16/11/2026 15:56"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -542,6 +529,28 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Hulpverleners zetten ouders onder druk bij vrijwillige uithuisplaatsing - Trouw",
+            "link": "https://www.trouw.nl/binnenland/hulpverleners-zetten-ouders-onder-druk-bij-vrijwillige-uithuisplaatsing~b086f193/",
+            "publishedDate": "16/11/2026 16:02",
+            "source": "trouw.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
+            "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
+            "publishedDate": "16/11/2026 15:56",
+            "source": "trouw.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1116,7 +1125,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hoppen van bank naar bank of slapen bij vrienden: Oosterhout wil dakloze jongeren helpen",
