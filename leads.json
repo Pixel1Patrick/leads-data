@@ -9,7 +9,29 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dorpen en poliklinieken dreigen ge\u00efsoleerd te raken door droogte - Suriname Herald",
+            "link": "https://www.srherald.com/suriname/2026/11/16/dorpen-en-poliklinieken-dreigen-geisoleerd-te-raken-door-droogte/",
+            "publishedDate": "16/11/2026 18:38",
+            "source": "srherald.com",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Groningse start-up haalt 2 miljoen op voor sensor die baby's aan het infuus moet beschermen",
+            "link": "https://www.oogtv.nl/2026/11/groningse-start-up-haalt-2-miljoen-op-voor-sensor-die-babys-aan-het-infuus-moet-beschermen/",
+            "publishedDate": "16/11/2026 18:37",
+            "source": "oogtv.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
@@ -31,7 +53,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Auto botst tegen verkeersbord bij afrit, \u00e9\u00e9n persoon naar ziekenhuis - NoorderNieuws",
@@ -204,7 +226,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgpremie stijgt flink - Joop - BNNVARA",
@@ -503,11 +525,24 @@
             "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
             "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
             "publishedDate": "16/11/2026 16:16",
-            "source": "platform-investico.nl",
+            "source": "platform-investico.nl, trouw.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Hulpverleners zetten ouders onder druk bij vrijwillige uithuisplaatsing - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/binnenland/hulpverleners-zetten-ouders-onder-druk-bij-vrijwillige-uithuisplaatsing~b086f193/",
+                    "publishedDate": "16/11/2026 16:02"
+                },
+                {
+                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
+                    "publishedDate": "16/11/2026 15:56"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -529,28 +564,6 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Hulpverleners zetten ouders onder druk bij vrijwillige uithuisplaatsing - Trouw",
-            "link": "https://www.trouw.nl/binnenland/hulpverleners-zetten-ouders-onder-druk-bij-vrijwillige-uithuisplaatsing~b086f193/",
-            "publishedDate": "16/11/2026 16:02",
-            "source": "trouw.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
-            "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
-            "publishedDate": "16/11/2026 15:56",
-            "source": "trouw.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -602,10 +615,10 @@
             "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ...",
             "link": "https://www.bndestem.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
             "publishedDate": "16/11/2026 15:47",
-            "source": "bndestem.nl, ed.nl, pzc.nl",
+            "source": "bndestem.nl, ed.nl, pzc.nl, vrmg.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ... - PZC",
@@ -618,6 +631,12 @@
                     "source": "ed.nl",
                     "link": "https://www.ed.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
                     "publishedDate": "16/11/2026 14:20"
+                },
+                {
+                    "title": "Ryan Giasi vertelt voor het eerst openlijk over zijn verleden in gesloten jeugdzorg in Wezep",
+                    "source": "vrmg.nl",
+                    "link": "https://vrmg.nl/ryan-giasi-vertelt-voor-het-eerst-openlijk-over-zijn-verleden-in-gesloten-jeugdzorg-in-wezep",
+                    "publishedDate": "16/11/2026 06:23"
                 }
             ],
             "belangrijkheid": 0
@@ -1216,17 +1235,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ryan Giasi vertelt voor het eerst openlijk over zijn verleden in gesloten jeugdzorg in Wezep",
-            "link": "https://vrmg.nl/ryan-giasi-vertelt-voor-het-eerst-openlijk-over-zijn-verleden-in-gesloten-jeugdzorg-in-wezep",
-            "publishedDate": "16/11/2026 06:23",
-            "source": "vrmg.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Judith: 'Ik was zo boos dat mijn lijf me in de steek liet' - Plus Magazine",
             "link": "https://www.plusonline.nl/schildklieraandoeningen/judith-ik-was-zo-boos-dat-mijn-lijf-me-in-de-steek-liet",
             "publishedDate": "16/11/2026 06:15",
@@ -1336,18 +1344,11 @@
             "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws | BD.nl",
             "link": "https://www.bd.nl/wetenschap/wat-is-een-hitteberoerte-en-en-wat-moet-je-doen-als-je-het-hebt~af24c121/",
             "publishedDate": "15/11/2026 23:01",
-            "source": "bd.nl, gelderlander.nl",
+            "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Wat is een hitteberoerte en en wat moet je doen als je het hebt? | Nieuws - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/wetenschap/wat-is-een-hitteberoerte-en-en-wat-moet-je-doen-als-je-het-hebt~af24c121/",
-                    "publishedDate": "15/11/2026 23:01"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1357,17 +1358,6 @@
             "source": "debelegger.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Waarom mensen van heinde en verre naar deze Bredase kluswinkel komen - PZC",
-            "link": "https://www.pzc.nl/breda/waarom-mensen-van-heinde-en-verre-naar-deze-bredase-kluswinkel-komen-harry-potter-achtige-magie~a55b05c1/",
-            "publishedDate": "15/11/2026 22:19",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
