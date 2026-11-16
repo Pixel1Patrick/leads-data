@@ -16,6 +16,17 @@
                     "publishedDate": "16/11/2026 11:26"
                 }
             ],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Nieuwe expositie Kunst in Zuid - Stedendriehoek",
+            "link": "https://www.stedendriehoek.nl/apeldoorn/algemeen/nieuwe-expositie-kunst-in-zuid-4/",
+            "publishedDate": "16/11/2026 13:02",
+            "source": "stedendriehoek.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -27,7 +38,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Politiek Den Haag: houd elkaar vast",
@@ -314,7 +325,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kunstgewricht geen perfecte oplossing - Seniorenjournaal",
@@ -423,7 +434,7 @@
                     "publishedDate": "15/11/2026 18:32"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Apple zoekt tot 200.000 proefpersonen voor onderzoek naar AI en gezondheid - AI Wereld",
@@ -575,10 +586,10 @@
             "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg - Drimble",
             "link": "https://drimble.nl/regio/gelderland/de-vallei/108610172/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden.html",
             "publishedDate": "16/11/2026 00:51",
-            "source": "ad.nl, drimble.nl, gelderlander.nl",
+            "source": "ad.nl, drimble.nl, gelderlander.nl, nunspeet.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 4,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "De gemeente Veenendaal gaat voorlopig door met aanbieder van omstreden jeugdzorg - Drimble",
@@ -597,9 +608,21 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/veenendaal/de-gemeente-veenendaal-gaat-voorlopig-door-met-aanbieder-van-omstreden-jeugdzorg-wisten-pas-in-de-zomer-van-misstanden~a447b73e/",
                     "publishedDate": "15/11/2026 19:43"
+                },
+                {
+                    "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
+                    "publishedDate": "15/11/2026 23:34"
+                },
+                {
+                    "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
+                    "source": "nunspeet.nieuws.nl",
+                    "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
+                    "publishedDate": "15/11/2026 14:09"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Na verlies van stilgeboren Senna hield Danique (29) hem nog \u00e9\u00e9n week bij zich",
@@ -654,24 +677,6 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp | Noord-Veluwe",
-            "link": "https://drimble.nl/regio/gelderland/noord-veluwe/108610181/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp.html",
-            "publishedDate": "15/11/2026 23:34",
-            "source": "drimble.nl, nunspeet.nieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Cli\u00ebntenstop voor Caterva in Nunspeet: IGJ eist verbetering jeugdhulp",
-                    "source": "nunspeet.nieuws.nl",
-                    "link": "https://nunspeet.nieuws.nl/nieuws/clientenstop-voor-caterva-in-nunspeet-igj-eist-verbetering-jeugdhulp",
-                    "publishedDate": "15/11/2026 14:09"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1046,7 +1051,7 @@
             "feed_label": "Tuchtcollege voor de Gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief met reactie op bericht 'Vernietiging dreigt voor dossiers van pati\u00ebnten met postcovid en Q-koorts'",
