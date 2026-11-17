@@ -691,11 +691,18 @@
             "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen ingehuldigd in Zellik - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/nieuws/eerste-7-tesla-mri-scanner-in-vlaanderen-ingehuldigd-in-zellik/164647884.html",
             "publishedDate": "16/11/2026 19:05",
-            "source": "nieuwsblad.be",
+            "source": "nieuwsblad.be, press.vub.ac.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
+                    "source": "press.vub.ac.be",
+                    "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
+                    "publishedDate": "16/11/2026 17:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -882,17 +889,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
-            "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
-            "publishedDate": "16/11/2026 17:45",
-            "source": "press.vub.ac.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Amsterdam bezuinigt 42 miljoen op jeugdzorg: kinderen met lichte hulpvraag niet meer ...",
             "link": "https://www.parool.nl/amsterdam/amsterdam-bezuinigt-42-miljoen-op-jeugdzorg-kinderen-met-lichte-hulpvraag-niet-meer-automatisch-doorverwezen~ba188a07/",
             "publishedDate": "16/11/2026 17:44",
@@ -945,7 +941,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Vol verwachting klopt ons hart bij Cello in Rosmalen! - De Bossche Omroep",
