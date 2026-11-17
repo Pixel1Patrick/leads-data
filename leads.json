@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Geef gepromoveerde verpleegkundigen de ruimte om de zorg te vernieuwen - UMC Utrecht",
+            "link": "https://www.umcutrecht.nl/nieuws/geef-gepromoveerde-verpleegkundigen-de-ruimte-om-de-zorg-te-vernieuwen",
+            "publishedDate": "17/11/2026 12:25",
+            "source": "umcutrecht.nl",
+            "category": "Zorgaanbieders",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Langdurige zorg] Zorgaanbieders en zorgkantoren bereiken overeenstemming over contractering 2027",
             "link": "https://www.zn.nl/actueel/zorgaanbieders-en-zorgkantoren-bereiken-overeenstemming-over-contractering-2027/",
             "publishedDate": "17/11/2026 12:12",
@@ -125,22 +136,16 @@
             "title": "Mysterie opgelost: daarom kleurt een afdeling van het Gelre Ziekenhuis paars | Regio - AD",
             "link": "https://www.ad.nl/apeldoorn/mysterie-opgelost-daarom-kleurt-een-afdeling-van-het-gelre-ziekenhuis-paars~ad7690be/",
             "publishedDate": "17/11/2026 10:05",
-            "source": "ad.nl, indebuurt.nl, tubantia.nl",
+            "source": "ad.nl, indebuurt.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Mysterie opgelost: daarom kleurt een afdeling van het Gelre Ziekenhuis paars - Indebuurt",
                     "source": "indebuurt.nl",
                     "link": "https://indebuurt.nl/apeldoorn/mysterie-opgelost-daarom-kleurt-een-afdeling-van-het-gelre-ziekenhuis-paars~ad7690be/",
                     "publishedDate": "17/11/2026 07:08"
-                },
-                {
-                    "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
-                    "publishedDate": "17/11/2026 10:04"
                 }
             ],
             "belangrijkheid": 0
@@ -152,6 +157,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
+            "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
+            "publishedDate": "17/11/2026 10:04",
+            "source": "tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -431,30 +447,11 @@
             "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
             "link": "https://huisartsvandaag.nl/het-verwijsrecht-jeugdhulp-wordt-voor-huisartsen-niet-ingeperkt/",
             "publishedDate": "17/11/2026 06:06",
-            "source": "denederlandseggz.nl, ggznieuws.nl, huisartsvandaag.nl, medischcontact.nl",
+            "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 7,
-            "extra_bronnen": [
-                {
-                    "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
-                    "source": "medischcontact.nl",
-                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
-                    "publishedDate": "16/11/2026 16:58"
-                },
-                {
-                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
-                    "source": "ggznieuws.nl",
-                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
-                    "publishedDate": "16/11/2026 16:54"
-                },
-                {
-                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 14:19"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -926,7 +923,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
@@ -937,7 +934,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "'Ouders onder druk gezet om kind uit huis te plaatsen' | Hart van Nederland",
@@ -1163,6 +1160,35 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
+            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
+            "publishedDate": "16/11/2026 16:58",
+            "source": "medischcontact.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
+            "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
+            "publishedDate": "16/11/2026 16:54",
+            "source": "denederlandseggz.nl, ggznieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 14:19"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Procesregisseur Polikliniek Zuidwester (Gehandicaptenzorg) in Middelharnis - ZeelandNet",
