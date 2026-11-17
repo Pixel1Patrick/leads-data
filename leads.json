@@ -92,24 +92,11 @@
             "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
             "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
             "publishedDate": "17/11/2026 15:03",
-            "source": "metronieuws.nl, overstappen.nl, persportaal.anp.nl",
+            "source": "metronieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
-                    "source": "overstappen.nl",
-                    "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
-                    "publishedDate": "17/11/2026 13:04"
-                },
-                {
-                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - ANP Persportaal",
-                    "source": "persportaal.anp.nl",
-                    "link": "https://persportaal.anp.nl/artikel/5b98fb0e-9625-446a-a727-151d7cdc0a96/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2000-per-jaar",
-                    "publishedDate": "16/11/2026 23:27"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -236,10 +223,10 @@
             "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
             "link": "https://www.amsterdam.nl/bestuur-organisatie/college/wethouder/esmah-lahlah/persberichten-nieuws-esmah-lahlah/jeugdhulp-amsterdam-thuis-school-buurt/",
             "publishedDate": "17/11/2026 14:20",
-            "source": "amsterdam.nl, amsterdamsdagblad.nl",
+            "source": "amsterdam.nl, amsterdamsdagblad.nl, at5.nl, nhnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
@@ -252,6 +239,18 @@
                     "source": "amsterdam.nl",
                     "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
                     "publishedDate": "16/11/2026 16:24"
+                },
+                {
+                    "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
+                    "source": "at5.nl",
+                    "link": "https://www.at5.nl/artikelen/241075/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
+                    "publishedDate": "16/11/2026 18:36"
+                },
+                {
+                    "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
+                    "source": "nhnieuws.nl",
+                    "link": "https://www.nhnieuws.nl/nieuws/365515/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
+                    "publishedDate": "16/11/2026 18:34"
                 }
             ],
             "belangrijkheid": 0
@@ -322,18 +321,11 @@
             "title": "Huisarts (50) veroordeeld nadat hij na middag wodka drinken woning binnenrijdt, rechter is ...",
             "link": "https://kw.be/nieuws/criminaliteit/rechtbank/huisarts-50-veroordeeld-nadat-hij-na-middag-wodka-drinken-woning-binnenrijdt-rechter-is-misnoegd-ronduit-schandalig/",
             "publishedDate": "17/11/2026 13:44",
-            "source": "kw.be, nieuwsblad.be",
+            "source": "kw.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Huisarts (50) rijdt na middag wodka drinken woning binnen, rechter reageert misnoegd",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/binnenland/huisarts-50-rijdt-na-middag-wodka-drinken-woning-binnen-rechter-reageert-misnoegd-ronduit-schandalig/164599618.html",
-                    "publishedDate": "17/11/2026 10:21"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -395,11 +387,24 @@
             "title": "Deze 5 zorgverzekeraars stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-5-zorgverzekeraars-stijgen-het-meest-in-prijs-per-1-januari-2027",
             "publishedDate": "17/11/2026 13:16",
-            "source": "zorgwijzer.nl",
+            "source": "overstappen.nl, persportaal.anp.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
+                    "source": "overstappen.nl",
+                    "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
+                    "publishedDate": "17/11/2026 13:04"
+                },
+                {
+                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - ANP Persportaal",
+                    "source": "persportaal.anp.nl",
+                    "link": "https://persportaal.anp.nl/artikel/5b98fb0e-9625-446a-a727-151d7cdc0a96/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2000-per-jaar",
+                    "publishedDate": "16/11/2026 23:27"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -538,7 +543,7 @@
             "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
             "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
             "publishedDate": "17/11/2026 12:30",
-            "source": "open.overheid.nl",
+            "source": "open.overheid.nl, platform-investico.nl, trouw.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 4,
@@ -550,11 +555,29 @@
                     "publishedDate": "17/11/2026 12:30"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-                    "publishedDate": "17/11/2026 12:29"
+                    "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
+                    "source": "platform-investico.nl",
+                    "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
+                    "publishedDate": "16/11/2026 16:16"
                 },
+                {
+                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
+                    "publishedDate": "16/11/2026 15:56"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
+            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+            "publishedDate": "17/11/2026 12:29",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
                 {
                     "title": "antwoorden op de vragen van het lid Moinat PVV over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
                     "source": "open.overheid.nl",
@@ -899,6 +922,17 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Huisarts (50) rijdt na middag wodka drinken woning binnen, rechter reageert misnoegd",
+            "link": "https://www.nieuwsblad.be/binnenland/huisarts-50-rijdt-na-middag-wodka-drinken-woning-binnen-rechter-reageert-misnoegd-ronduit-schandalig/164599618.html",
+            "publishedDate": "17/11/2026 10:21",
+            "source": "nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1444,24 +1478,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
-            "link": "https://www.at5.nl/artikelen/241075/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
-            "publishedDate": "16/11/2026 18:36",
-            "source": "at5.nl, nhnieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
-                    "source": "nhnieuws.nl",
-                    "link": "https://www.nhnieuws.nl/nieuws/365515/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
-                    "publishedDate": "16/11/2026 18:34"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Hoe goed je bedoelingen ook waren, die rekening zul je betalen - NRC",
             "link": "https://www.nrc.nl/nieuws/2026/11/16/hoe-goed-je-bedoelingen-ook-waren-die-rekening-zul-je-betalen-a4941496",
             "publishedDate": "16/11/2026 18:31",
@@ -1686,24 +1702,6 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
-            "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
-            "publishedDate": "16/11/2026 16:16",
-            "source": "platform-investico.nl, trouw.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
-                    "publishedDate": "16/11/2026 15:56"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
