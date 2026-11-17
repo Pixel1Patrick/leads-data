@@ -584,7 +584,7 @@
             "source": "drimble.nl, nrc.nl, nza.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 6,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Nederlandse Zorgautoriteit ziet zorgwekkende ontwikkeling in 'verdringing' van zware ... - NRC",
@@ -597,12 +597,6 @@
                     "source": "nza.nl",
                     "link": "https://www.nza.nl/actueel/nieuws/2026/11/16/nza-beter-inzicht-nodig-in-beschikbaarheid-van-jeugdzorg",
                     "publishedDate": "16/11/2026 19:46"
-                },
-                {
-                    "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
-                    "source": "nza.nl",
-                    "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
-                    "publishedDate": "16/11/2026 19:42"
                 }
             ],
             "belangrijkheid": 1
@@ -935,6 +929,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
+            "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
+            "publishedDate": "16/11/2026 19:42",
+            "source": "nza.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "'Ouders onder druk gezet om kind uit huis te plaatsen' | Hart van Nederland",
