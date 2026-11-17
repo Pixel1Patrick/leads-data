@@ -401,11 +401,18 @@
             "title": "Zo maakt het Jeroen Bosch Ziekenhuis nachtwerk gezonder en veiliger | Arboportaal",
             "link": "https://www.arboportaal.nl/actueel/nieuws/2026/11/17/zo-maakt-het-jeroen-bosch-ziekenhuis-nachtwerk-gezonder-en-veiliger",
             "publishedDate": "17/11/2026 15:34",
-            "source": "arboportaal.nl",
+            "source": "arboportaal.nl, starnieuws.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "WHO waarschuwt: medicijnresistentie kan 39 miljoen levens kosten - Starnieuws",
+                    "source": "starnieuws.com",
+                    "link": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94894",
+                    "publishedDate": "16/11/2026 23:44"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1043,7 +1050,7 @@
                     "publishedDate": "16/11/2026 13:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "KIK-V-analyses brengen knelpunten bij zorgaanbieders in beeld - ICT&amp;health",
@@ -1390,17 +1397,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "WHO waarschuwt: medicijnresistentie kan 39 miljoen levens kosten - Starnieuws",
-            "link": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94894",
-            "publishedDate": "16/11/2026 23:44",
-            "source": "starnieuws.com",
-            "category": "Overig",
-            "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Deze zorgverzekeraar is het goedkoopst (maar klanten zijn het minst tevreden) - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeraar-is-het-goedkoopst-maar-klanten-zijn-het-minst-tevreden",
             "publishedDate": "16/11/2026 22:51",
@@ -1603,7 +1599,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
