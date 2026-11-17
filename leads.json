@@ -77,24 +77,17 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Huisarts (50) veroordeeld nadat hij na middag wodka drinken woning binnenrijdt, rechter is ...",
             "link": "https://kw.be/nieuws/criminaliteit/rechtbank/huisarts-50-veroordeeld-nadat-hij-na-middag-wodka-drinken-woning-binnenrijdt-rechter-is-misnoegd-ronduit-schandalig/",
             "publishedDate": "17/11/2026 13:44",
-            "source": "kw.be, nieuwsblad.be",
+            "source": "kw.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Huisarts (50) rijdt na middag wodka drinken woning binnen, rechter reageert misnoegd",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/binnenland/huisarts-50-rijdt-na-middag-wodka-drinken-woning-binnen-rechter-reageert-misnoegd-ronduit-schandalig/164599618.html",
-                    "publishedDate": "17/11/2026 10:21"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -371,7 +364,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Geef gepromoveerde verpleegkundigen de ruimte om de zorg te vernieuwen - UMC Utrecht",
@@ -603,6 +596,17 @@
                     "publishedDate": "16/11/2026 13:16"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Huisarts (50) rijdt na middag wodka drinken woning binnen, rechter reageert misnoegd",
+            "link": "https://www.nieuwsblad.be/binnenland/huisarts-50-rijdt-na-middag-wodka-drinken-woning-binnen-rechter-reageert-misnoegd-ronduit-schandalig/164599618.html",
+            "publishedDate": "17/11/2026 10:21",
+            "source": "nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1149,18 +1153,11 @@
             "title": "VVI: Verkeersslachtoffers aan hun lot overgelaten; fonds dringend nodig - Starnieuws",
             "link": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94893",
             "publishedDate": "16/11/2026 21:29",
-            "source": "starnieuws.com, sun.sr",
+            "source": "starnieuws.com",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "VVI pleit voor slachtofferfonds na 89 verkeersdoden in 2026 - Sun News Suriname",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/vvi-pleit-voor-slachtofferfonds-na-89-verkeersdoden-in-2026?id=46171",
-                    "publishedDate": "16/11/2026 15:52"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1554,6 +1551,17 @@
             "source": "rivm.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "VVI pleit voor slachtofferfonds na 89 verkeersdoden in 2026 - Sun News Suriname",
+            "link": "https://sun.sr/nieuws/lokaal/vvi-pleit-voor-slachtofferfonds-na-89-verkeersdoden-in-2026?id=46171",
+            "publishedDate": "16/11/2026 15:52",
+            "source": "sun.sr",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
