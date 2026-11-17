@@ -413,7 +413,7 @@
                     "publishedDate": "16/11/2026 23:27"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Meer begrip voor het sterfbed | medischcontact",
@@ -683,16 +683,34 @@
             "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
             "publishedDate": "17/11/2026 12:20",
-            "source": "medischcontact.nl",
+            "source": "denederlandseggz.nl, ggznieuws.nl, huisartsvandaag.nl, medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
                     "source": "medischcontact.nl",
                     "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
                     "publishedDate": "16/11/2026 16:58"
+                },
+                {
+                    "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
+                    "source": "huisartsvandaag.nl",
+                    "link": "https://huisartsvandaag.nl/het-verwijsrecht-jeugdhulp-wordt-voor-huisartsen-niet-ingeperkt/",
+                    "publishedDate": "17/11/2026 06:06"
+                },
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
+                    "publishedDate": "16/11/2026 16:54"
+                },
+                {
+                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 13:54"
                 }
             ],
             "belangrijkheid": 1
@@ -912,18 +930,11 @@
             "title": "Mysterie opgelost: daarom kleurt een afdeling van het Gelre Ziekenhuis paars | Regio - AD",
             "link": "https://www.ad.nl/apeldoorn/mysterie-opgelost-daarom-kleurt-een-afdeling-van-het-gelre-ziekenhuis-paars~ad7690be/",
             "publishedDate": "17/11/2026 10:05",
-            "source": "ad.nl, tubantia.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
-                    "publishedDate": "17/11/2026 10:04"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -933,6 +944,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
+            "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
+            "publishedDate": "17/11/2026 10:04",
+            "source": "tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -986,7 +1008,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgdirecteur eerder in opspraak, nu miljoen rijker - RTV Oost",
@@ -1130,17 +1152,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
-            "link": "https://huisartsvandaag.nl/het-verwijsrecht-jeugdhulp-wordt-voor-huisartsen-niet-ingeperkt/",
-            "publishedDate": "17/11/2026 06:06",
-            "source": "huisartsvandaag.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Gemeentelijke uitgaven aan jeugdzorg - Nederlandse Zorgautoriteit",
@@ -1485,15 +1496,8 @@
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-fokus/nieuws/update-onderhandelingen-fokus-zorgvuldige-uitwerking-kost-meer-tijd-2026-11-16/",
-                    "publishedDate": "16/11/2026 16:52"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1574,30 +1578,23 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
-            "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
-            "publishedDate": "16/11/2026 16:54",
-            "source": "denederlandseggz.nl, ggznieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 13:54"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Procesregisseur Polikliniek Zuidwester (Gehandicaptenzorg) in Middelharnis - ZeelandNet",
             "link": "https://www.zeelandnet.nl/vacaturebank/zorg-en-welzijn/procesregisseur-polikliniek-zuidwester-gehandicaptenzorg",
             "publishedDate": "16/11/2026 16:53",
             "source": "zeelandnet.nl",
             "category": "Overig",
             "feed_label": "Alert Gehandicaptenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-fokus/nieuws/update-onderhandelingen-fokus-zorgvuldige-uitwerking-kost-meer-tijd-2026-11-16/",
+            "publishedDate": "16/11/2026 16:52",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
