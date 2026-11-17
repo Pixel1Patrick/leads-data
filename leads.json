@@ -133,10 +133,10 @@
             "title": "Artsen halen darmen uit lichaam om tumor van 10 kilo te verwijderen | Overige - Drimble",
             "link": "https://drimble.nl/dossiers/overige/108621380/artsen-halen-darmen-uit-lichaam-om-tumor-van-10-kilo-te-verwijderen.html",
             "publishedDate": "17/11/2026 05:48",
-            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, nos.nl, omroepbrabant.nl, rtl.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
+            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, omroepbrabant.nl, rtl.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 16,
+            "duplicate_count": 15,
             "extra_bronnen": [
                 {
                     "title": "Hoe een tumor van ruim 10 kilo succesvol is verwijderd: 'Dit is grensverleggend'",
@@ -199,12 +199,6 @@
                     "publishedDate": "16/11/2026 17:17"
                 },
                 {
-                    "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
-                    "publishedDate": "16/11/2026 17:35"
-                },
-                {
                     "title": "Primeur: Groningse chirurgen verwijderen tumor van 10 kilo, darmen urenlang buiten lichaam - BNR",
                     "source": "bnr.nl",
                     "link": "https://www.bnr.nl/nieuws/lifestyle/10615724/primeur-groningse-chirurgen-verwijderen-tumor-van-10-kilo-darmen-urenlang-buiten-lichaam",
@@ -217,7 +211,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ... - AD",
@@ -652,16 +646,20 @@
             "source": "nza.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
-                    "source": "nza.nl",
-                    "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
-                    "publishedDate": "16/11/2026 19:42"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
+            "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
+            "publishedDate": "16/11/2026 19:42",
+            "source": "nza.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Man verdient 2000 euro minder dan collega's die zelfde werk doen, krijgt gelijk na klacht",
@@ -719,18 +717,11 @@
             "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen ingehuldigd in Zellik - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/nieuws/eerste-7-tesla-mri-scanner-in-vlaanderen-ingehuldigd-in-zellik/164647884.html",
             "publishedDate": "16/11/2026 19:05",
-            "source": "nieuwsblad.be, press.vub.ac.be",
+            "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
-                    "source": "press.vub.ac.be",
-                    "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
-                    "publishedDate": "16/11/2026 17:45"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -759,11 +750,18 @@
             "title": "Minder tijd in ziekenhuis, meer nood aan steun: \u201cAlegria wil mensen met kanker en hun ...",
             "link": "https://www.nieuwsblad.be/regio/antwerpen/kempen/turnhout/minder-tijd-in-ziekenhuis-meer-nood-aan-steun-alegria-wil-mensen-met-kanker-en-hun-naasten-veerkracht-geven/163613902.html",
             "publishedDate": "16/11/2026 18:51",
-            "source": "nieuwsblad.be",
+            "source": "gva.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
+                    "publishedDate": "16/11/2026 13:16"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -917,6 +915,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
+            "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
+            "publishedDate": "16/11/2026 17:45",
+            "source": "press.vub.ac.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Amsterdam bezuinigt 42 miljoen op jeugdzorg: kinderen met lichte hulpvraag niet meer ...",
             "link": "https://www.parool.nl/amsterdam/amsterdam-bezuinigt-42-miljoen-op-jeugdzorg-kinderen-met-lichte-hulpvraag-niet-meer-automatisch-doorverwezen~ba188a07/",
             "publishedDate": "16/11/2026 17:44",
@@ -950,6 +959,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
+            "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
+            "publishedDate": "16/11/2026 17:35",
+            "source": "nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
             "publishedDate": "16/11/2026 17:14",
@@ -969,7 +989,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Vol verwachting klopt ons hart bij Cello in Rosmalen! - De Bossche Omroep",
@@ -1292,17 +1312,6 @@
             "source": "icthealth.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
-            "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
-            "publishedDate": "16/11/2026 13:16",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2262,17 +2271,6 @@
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Langdurige zorg] Nieuwe versie van de Handreiking Inzicht in kwaliteit gepubliceerd",
-            "link": "https://www.zn.nl/actueel/nieuwe-versie-van-de-handreiking-inzicht-in-kwaliteit-gepubliceerd/",
-            "publishedDate": "03/11/2026 10:39",
-            "source": "zn.nl",
-            "category": "Overig",
-            "feed_label": "ZN",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
