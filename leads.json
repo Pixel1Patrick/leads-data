@@ -484,7 +484,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
@@ -899,26 +899,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Beantwoording Kamervragen van het lid Van Meetelen (PVV) over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
                     "publishedDate": "17/11/2026 12:30"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
-            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-            "publishedDate": "17/11/2026 12:29",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+                    "publishedDate": "17/11/2026 12:29"
+                },
                 {
                     "title": "antwoorden op de vragen van het lid Moinat PVV over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
                     "source": "open.overheid.nl",
@@ -1015,7 +1009,7 @@
                     "publishedDate": "16/11/2026 13:54"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "KIK-V-analyses brengen knelpunten bij zorgaanbieders in beeld - ICT&amp;health",
@@ -1359,7 +1353,7 @@
                     "publishedDate": "16/11/2026 21:04"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Bijzondere donatie van familie Kassing ter ere van 100-jarig jubileum - Bunniks Nieuws",
@@ -1613,17 +1607,6 @@
             "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Vlaamse pater (78) aangehouden op verdenking van rol bij Rwandese genocide - Trouw",
-            "link": "https://www.trouw.nl/religie-filosofie/vlaamse-pater-78-aangehouden-op-verdenking-van-rol-bij-rwandese-genocide~b94708f8/",
-            "publishedDate": "16/11/2026 17:52",
-            "source": "trouw.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
