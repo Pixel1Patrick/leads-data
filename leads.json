@@ -266,28 +266,16 @@
             "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
             "link": "https://www.vgn.nl/nieuws/rivm-nederland-schiet-tekort-bevorderen-gelijke-kansen-voor-mensen-met-een-beperking",
             "publishedDate": "17/11/2026 14:45",
-            "source": "open.overheid.nl, rivm.nl, vgn.nl",
+            "source": "rivm.nl, vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
                     "source": "rivm.nl",
                     "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
                     "publishedDate": "16/11/2026 16:09"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake de opzet en vraagstelling van de periodieke rapportage gehandicaptenzorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/cdab6ad5-0b72-4606-9762-4cd0664b547b",
-                    "publishedDate": "17/11/2026 12:28"
-                },
-                {
-                    "title": "Kamerbrief inzake de opzet en vraagstelling van de periodieke rapportage gehandicaptenzorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/70a3657a-5e7f-42d2-b935-5e20eed10069",
-                    "publishedDate": "17/11/2026 12:28"
                 }
             ],
             "belangrijkheid": 0
@@ -448,24 +436,11 @@
             "title": "Meerdere poliklinieken MST Oldenzaal gesloten door wateroverlast | Regio | Tubantia.nl",
             "link": "https://www.tubantia.nl/oldenzaal/meerdere-poliklinieken-mst-oldenzaal-gesloten-door-wateroverlast~a03e3d1e/",
             "publishedDate": "17/11/2026 13:29",
-            "source": "ad.nl, tubantia.nl",
+            "source": "tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Mysterie opgelost: daarom kleurt een afdeling van het Gelre Ziekenhuis paars | Regio - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/apeldoorn/mysterie-opgelost-daarom-kleurt-een-afdeling-van-het-gelre-ziekenhuis-paars~ad7690be/",
-                    "publishedDate": "17/11/2026 10:05"
-                },
-                {
-                    "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
-                    "publishedDate": "17/11/2026 10:04"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -688,6 +663,24 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/e4f6aea4-2ac2-497e-b365-46c582bbba49",
                     "publishedDate": "17/11/2026 12:29"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake de opzet en vraagstelling van de periodieke rapportage gehandicaptenzorg",
+            "link": "https://open.overheid.nl/details/cdab6ad5-0b72-4606-9762-4cd0664b547b",
+            "publishedDate": "17/11/2026 12:28",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake de opzet en vraagstelling van de periodieke rapportage gehandicaptenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/70a3657a-5e7f-42d2-b935-5e20eed10069",
+                    "publishedDate": "17/11/2026 12:28"
                 }
             ],
             "belangrijkheid": 0
@@ -1043,6 +1036,24 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Mysterie opgelost: daarom kleurt een afdeling van het Gelre Ziekenhuis paars | Regio - AD",
+            "link": "https://www.ad.nl/apeldoorn/mysterie-opgelost-daarom-kleurt-een-afdeling-van-het-gelre-ziekenhuis-paars~ad7690be/",
+            "publishedDate": "17/11/2026 10:05",
+            "source": "ad.nl, tubantia.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
+                    "publishedDate": "17/11/2026 10:04"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1478,7 +1489,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Shaping Interfaces Between Science and the Public - Universiteit van Amsterdam",
