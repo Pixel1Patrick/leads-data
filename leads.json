@@ -67,10 +67,10 @@
             "title": "Hoe een tumor van ruim 10 kilo succesvol is verwijderd: 'Dit is grensverleggend'",
             "link": "https://www.volkskrant.nl/binnenland/hoe-een-tumor-van-ruim-10-kilo-succesvol-is-verwijderd-dit-is-grensverleggend~b346df73/",
             "publishedDate": "17/11/2026 03:01",
-            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, nos.nl, omroepbrabant.nl, rtl.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
+            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, omroepbrabant.nl, rtl.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 15,
+            "duplicate_count": 14,
             "extra_bronnen": [
                 {
                     "title": "Ziekenhuis in Groningen verlost man van 10 kilo zware tumor - Nieuws.nl",
@@ -125,12 +125,6 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/binnenland/artsen-in-groningen-verwijderen-in-tien-uur-tumor-van-10-kilo-en-halen-daarvoor-darmen-van-man-uit-het-lichaam~ae7954b3/",
                     "publishedDate": "16/11/2026 17:17"
-                },
-                {
-                    "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
-                    "publishedDate": "16/11/2026 17:35"
                 },
                 {
                     "title": "Primeur: Groningse chirurgen verwijderen tumor van 10 kilo, darmen urenlang buiten lichaam - BNR",
@@ -272,8 +266,14 @@
             "source": "persportaal.anp.nl, sittard-geleen.nieuws.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 5,
+            "duplicate_count": 6,
             "extra_bronnen": [
+                {
+                    "title": "Deze zorgverzekeraar is het goedkoopst (maar klanten zijn het minst tevreden) - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeraar-is-het-goedkoopst-maar-klanten-zijn-het-minst-tevreden",
+                    "publishedDate": "16/11/2026 22:51"
+                },
                 {
                     "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
                     "source": "zorgwijzer.nl",
@@ -314,17 +314,6 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Deze zorgverzekeraar is het goedkoopst (maar klanten zijn het minst tevreden) - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeraar-is-het-goedkoopst-maar-klanten-zijn-het-minst-tevreden",
-            "publishedDate": "16/11/2026 22:51",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -673,18 +662,11 @@
             "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen ingehuldigd in Zellik - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/nieuws/eerste-7-tesla-mri-scanner-in-vlaanderen-ingehuldigd-in-zellik/164647884.html",
             "publishedDate": "16/11/2026 19:05",
-            "source": "nieuwsblad.be, press.vub.ac.be",
+            "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
-                    "source": "press.vub.ac.be",
-                    "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
-                    "publishedDate": "16/11/2026 17:45"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -878,6 +860,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
+            "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
+            "publishedDate": "16/11/2026 17:45",
+            "source": "press.vub.ac.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Amsterdam bezuinigt 42 miljoen op jeugdzorg: kinderen met lichte hulpvraag niet meer ...",
             "link": "https://www.parool.nl/amsterdam/amsterdam-bezuinigt-42-miljoen-op-jeugdzorg-kinderen-met-lichte-hulpvraag-niet-meer-automatisch-doorverwezen~ba188a07/",
             "publishedDate": "16/11/2026 17:44",
@@ -909,6 +902,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
+            "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
+            "publishedDate": "16/11/2026 17:35",
+            "source": "nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Een jaar celstraf voor huisarts vanwege ontucht met pati\u00ebnt in instelling - Medisch Contact",
