@@ -66,30 +66,11 @@
             "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
             "link": "https://nieuws.feelgoodradio.nl/4-en-65-jaar-cel-voor-uitvoerders-van-drugsapotheek/",
             "publishedDate": "17/11/2026 17:22",
-            "source": "ad.nl, nieuws.feelgoodradio.nl, nos.nl, omroepbrabant.nl",
+            "source": "nieuws.feelgoodradio.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
-                    "publishedDate": "17/11/2026 16:02"
-                },
-                {
-                    "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
-                    "publishedDate": "17/11/2026 15:47"
-                },
-                {
-                    "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
-                    "publishedDate": "17/11/2026 15:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -214,6 +195,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
+            "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
+            "publishedDate": "17/11/2026 16:02",
+            "source": "nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Wall Street investeerde $10 mrd in Indiase ziekenhuizen, maar wie betaalt de rekening?",
             "link": "https://fd.nl/bedrijfsleven/1619781/wall-street-investeerde-10-mrd-in-indiase-ziekenhuizen-maar-wie-betaalt-de-rekening",
             "publishedDate": "17/11/2026 15:59",
@@ -277,6 +269,17 @@
             "source": "pal.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
+            "publishedDate": "17/11/2026 15:47",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -373,11 +376,24 @@
             "title": "Top 5 goedkoopste zorgverzekeringen van 2027 op een rij - Energie vergelijken",
             "link": "https://www.keuze.nl/nieuws/goedkoopste-zorgverzekeringen-2027",
             "publishedDate": "17/11/2026 15:13",
-            "source": "keuze.nl",
+            "source": "keuze.nl, linda.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
+                    "source": "linda.nl",
+                    "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
+                    "publishedDate": "17/11/2026 14:58"
+                },
+                {
+                    "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
+                    "publishedDate": "16/11/2026 17:14"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -414,6 +430,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
+            "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
+            "publishedDate": "17/11/2026 15:03",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
             "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
             "publishedDate": "17/11/2026 15:03",
@@ -435,7 +462,7 @@
                     "publishedDate": "16/11/2026 23:27"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorginstelling die vastgoed wil verkopen waar ouderen wonen, vindt rechter op de weg - Drimble",
@@ -475,18 +502,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
-            "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
-            "publishedDate": "17/11/2026 14:58",
-            "source": "linda.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
@@ -548,7 +564,7 @@
                     "publishedDate": "16/11/2026 16:09"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Je wilt als flierefluiter niet naar een Europees land komen waar je de kans loopt om in Afrika ...",
@@ -576,11 +592,24 @@
             "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
             "link": "https://www.amsterdam.nl/bestuur-organisatie/college/wethouder/esmah-lahlah/persberichten-nieuws-esmah-lahlah/jeugdhulp-amsterdam-thuis-school-buurt/",
             "publishedDate": "17/11/2026 14:20",
-            "source": "amsterdam.nl",
+            "source": "amsterdam.nl, at5.nl, nhnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
+                    "source": "at5.nl",
+                    "link": "https://www.at5.nl/artikelen/241075/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
+                    "publishedDate": "16/11/2026 18:36"
+                },
+                {
+                    "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
+                    "source": "nhnieuws.nl",
+                    "link": "https://www.nhnieuws.nl/nieuws/365515/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
+                    "publishedDate": "16/11/2026 18:34"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -598,11 +627,18 @@
             "title": "Sensor van bedrijf uit Groningen moet infuusproblemen bij kleine pati\u00ebntjes sneller signaleren",
             "link": "https://www.dvhn.nl/regio/groningen/sensor-van-bedrijf-uit-groningen-moet-infuusproblemen-bij-kleine-patientjes-sneller-signaleren/164624406.html",
             "publishedDate": "17/11/2026 14:12",
-            "source": "dvhn.nl",
+            "source": "dvhn.nl, oogtv.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Groningse start-up haalt 2 miljoen op voor sensor die baby's aan het infuus moet beschermen",
+                    "source": "oogtv.nl",
+                    "link": "https://www.oogtv.nl/2026/11/groningse-start-up-haalt-2-miljoen-op-voor-sensor-die-babys-aan-het-infuus-moet-beschermen/",
+                    "publishedDate": "16/11/2026 18:37"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -768,7 +804,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Besluit van de Inspecteur-Generaal van de Inspectie Gezondheidszorg en Jeugd van 5 november 2026, kenmerk DT26-030, houdende de verlening van ondermandaat en ondervolmacht aan functionarissen van de Inspectie Gezondheidszorg en Jeugd",
@@ -1012,7 +1048,7 @@
                     "publishedDate": "16/11/2026 13:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "KIK-V-analyses brengen knelpunten bij zorgaanbieders in beeld - ICT&amp;health",
@@ -1378,7 +1414,7 @@
                     "publishedDate": "16/11/2026 21:04"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bijzondere donatie van familie Kassing ter ere van 100-jarig jubileum - Bunniks Nieuws",
@@ -1586,35 +1622,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Groningse start-up haalt 2 miljoen op voor sensor die baby's aan het infuus moet beschermen",
-            "link": "https://www.oogtv.nl/2026/11/groningse-start-up-haalt-2-miljoen-op-voor-sensor-die-babys-aan-het-infuus-moet-beschermen/",
-            "publishedDate": "16/11/2026 18:37",
-            "source": "oogtv.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
-            "link": "https://www.at5.nl/artikelen/241075/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
-            "publishedDate": "16/11/2026 18:36",
-            "source": "at5.nl, nhnieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
-                    "source": "nhnieuws.nl",
-                    "link": "https://www.nhnieuws.nl/nieuws/365515/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
-                    "publishedDate": "16/11/2026 18:34"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Hoe goed je bedoelingen ook waren, die rekening zul je betalen - NRC",
             "link": "https://www.nrc.nl/nieuws/2026/11/16/hoe-goed-je-bedoelingen-ook-waren-die-rekening-zul-je-betalen-a4941496",
             "publishedDate": "16/11/2026 18:31",
@@ -1681,17 +1688,6 @@
             "belangrijkheid": 1
         },
         {
-            "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
-            "publishedDate": "16/11/2026 17:14",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Apotheker scoort beter dan huisarts als vertrouwenspersoon voor ouderen - Medi-Sfeer",
             "link": "https://www.medi-sfeer.be/nl/nieuws/apotheker-scoort-beter-dan-huisarts-als-vertrouwenspersoon-voor-ouderen.html",
             "publishedDate": "16/11/2026 16:58",
@@ -1731,48 +1727,33 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
                     "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+                    "publishedDate": "16/11/2026 16:33"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
