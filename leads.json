@@ -31,7 +31,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
@@ -64,6 +64,17 @@
             "belangrijkheid": 1
         },
         {
+            "title": "Ziekenhuizen - Nationale Zorggids",
+            "link": "https://www.nationalezorggids.nl/ziekenhuizen/pagina/2352/",
+            "publishedDate": "17/11/2026 05:50",
+            "source": "nationalezorggids.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ... - AD",
             "link": "https://www.ad.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
             "publishedDate": "17/11/2026 03:47",
@@ -85,10 +96,10 @@
             "title": "Hoe een tumor van ruim 10 kilo succesvol is verwijderd: 'Dit is grensverleggend'",
             "link": "https://www.volkskrant.nl/binnenland/hoe-een-tumor-van-ruim-10-kilo-succesvol-is-verwijderd-dit-is-grensverleggend~b346df73/",
             "publishedDate": "17/11/2026 03:01",
-            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, nos.nl, omroepbrabant.nl, rtl.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
+            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, omroepbrabant.nl, rtl.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 15,
+            "duplicate_count": 14,
             "extra_bronnen": [
                 {
                     "title": "Ziekenhuis in Groningen verlost man van 10 kilo zware tumor - Nieuws.nl",
@@ -145,12 +156,6 @@
                     "publishedDate": "16/11/2026 17:17"
                 },
                 {
-                    "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
-                    "publishedDate": "16/11/2026 17:35"
-                },
-                {
                     "title": "Primeur: Groningse chirurgen verwijderen tumor van 10 kilo, darmen urenlang buiten lichaam - BNR",
                     "source": "bnr.nl",
                     "link": "https://www.bnr.nl/nieuws/lifestyle/10615724/primeur-groningse-chirurgen-verwijderen-tumor-van-10-kilo-darmen-urenlang-buiten-lichaam",
@@ -163,7 +168,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nationale Zorgautoriteit ziet zorgwekkende ontwikkeling in \u00b4verdringing\u00b4 van zware ... - Drimble",
@@ -582,20 +587,16 @@
             "source": "nza.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
-            "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
-            "publishedDate": "16/11/2026 19:42",
-            "source": "nza.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
+                    "source": "nza.nl",
+                    "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
+                    "publishedDate": "16/11/2026 19:42"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Man verdient 2000 euro minder dan collega's die zelfde werk doen, krijgt gelijk na klacht",
@@ -636,7 +637,7 @@
                     "publishedDate": "16/11/2026 15:56"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Shaping Interfaces Between Science and the Public - Universiteit van Amsterdam",
@@ -888,6 +889,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
+            "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
+            "publishedDate": "16/11/2026 17:35",
+            "source": "nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
             "publishedDate": "16/11/2026 17:14",
@@ -1133,17 +1145,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
-            "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
-            "publishedDate": "16/11/2026 15:51",
-            "source": "jeroenboschziekenhuis.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Programmamanager Jeugd regio Midden-Limburg - Binnenlands Bestuur",
             "link": "https://www.binnenlandsbestuur.nl/vacatures/programmamanager-jeugd-regio-midden-limburg-wv",
             "publishedDate": "16/11/2026 15:43",
@@ -1384,7 +1385,7 @@
             "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1419,7 +1420,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hoppen van bank naar bank of slapen bij vrienden: Oosterhout wil dakloze jongeren helpen",
@@ -1477,17 +1478,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Lopend Vuur: De kerstboom komt pas na Sinterklaas in huis - RTV Noord",
-            "link": "https://www.rtvnoord.nl/meningen/1452765/lopend-vuur-de-kerstboom-komt-pas-na-sinterklaas-in-huis",
-            "publishedDate": "16/11/2026 07:15",
-            "source": "rtvnoord.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Miljoenen pati\u00ebnten zijn getroffen: wetenschappers verklaren eindelijk deze bijwerking van statines",
             "link": "https://www.futura-sciences.com/nl/miljoenen-patienten-zijn-getroffen-wetenschappers-verklaren-eindelijk-deze-bijwerking-van-statines_30723/",
             "publishedDate": "16/11/2026 06:58",
@@ -1496,24 +1486,6 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
-            "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
-            "publishedDate": "16/11/2026 06:56",
-            "source": "cnv.nl, sittard-geleen.nieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-                    "publishedDate": "13/11/2026 10:06"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1626,6 +1598,17 @@
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ambulancezorg/nieuws/extra-werk-cao-ambulancezorg-vervolg-2026-11-13/",
             "publishedDate": "13/11/2026 11:12",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+            "publishedDate": "13/11/2026 10:06",
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
