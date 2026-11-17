@@ -20,7 +20,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Oud-huisarts Pieter Schook geeft lezing in Alblasserdam over bijzondere, eetbare ...",
@@ -29,6 +29,17 @@
             "source": "alblasserdamsnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Onderzoek | Invloed van de leefomgeving op gokgedrag minderjarigen - GGZ",
+            "link": "https://ggz.nl/actualiteiten/2026/leefomgeving-beinvloedt-gokgedrag-minderjarigen/",
+            "publishedDate": "17/11/2026 08:19",
+            "source": "ggz.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -144,10 +155,10 @@
             "title": "Artsen halen darmen uit lichaam om tumor van 10 kilo te verwijderen | Overige - Drimble",
             "link": "https://drimble.nl/dossiers/overige/108621380/artsen-halen-darmen-uit-lichaam-om-tumor-van-10-kilo-te-verwijderen.html",
             "publishedDate": "17/11/2026 05:48",
-            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, nos.nl, omroepbrabant.nl, rtl.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
+            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, omroepbrabant.nl, rtl.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 16,
+            "duplicate_count": 15,
             "extra_bronnen": [
                 {
                     "title": "Hoe een tumor van ruim 10 kilo succesvol is verwijderd: 'Dit is grensverleggend'",
@@ -210,12 +221,6 @@
                     "publishedDate": "16/11/2026 17:17"
                 },
                 {
-                    "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
-                    "publishedDate": "16/11/2026 17:35"
-                },
-                {
                     "title": "Primeur: Groningse chirurgen verwijderen tumor van 10 kilo, darmen urenlang buiten lichaam - BNR",
                     "source": "bnr.nl",
                     "link": "https://www.bnr.nl/nieuws/lifestyle/10615724/primeur-groningse-chirurgen-verwijderen-tumor-van-10-kilo-darmen-urenlang-buiten-lichaam",
@@ -228,7 +233,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ... - AD",
@@ -663,15 +668,19 @@
             "source": "nza.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
-                    "source": "nza.nl",
-                    "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
-                    "publishedDate": "16/11/2026 19:42"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
+            "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
+            "publishedDate": "16/11/2026 19:42",
+            "source": "nza.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -713,7 +722,7 @@
                     "publishedDate": "16/11/2026 15:56"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Shaping Interfaces Between Science and the Public - Universiteit van Amsterdam",
@@ -935,11 +944,24 @@
             "title": "Amsterdam bezuinigt 42 miljoen op jeugdzorg: kinderen met lichte hulpvraag niet meer ...",
             "link": "https://www.parool.nl/amsterdam/amsterdam-bezuinigt-42-miljoen-op-jeugdzorg-kinderen-met-lichte-hulpvraag-niet-meer-automatisch-doorverwezen~ba188a07/",
             "publishedDate": "16/11/2026 17:44",
-            "source": "parool.nl",
+            "source": "amsterdam.nl, amsterdamsdagblad.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
+                    "source": "amsterdamsdagblad.nl",
+                    "link": "https://www.amsterdamsdagblad.nl/gemeente/jeugdhulp-in-amsterdam-meer-thuis-op-school-en-in-de-buurt",
+                    "publishedDate": "16/11/2026 16:48"
+                },
+                {
+                    "title": "Jeugdhulp in Amsterdam verandert: meer thuis, op school en in de buurt",
+                    "source": "amsterdam.nl",
+                    "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
+                    "publishedDate": "16/11/2026 16:24"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -965,6 +987,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
+            "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
+            "publishedDate": "16/11/2026 17:35",
+            "source": "nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
             "publishedDate": "16/11/2026 17:14",
@@ -984,7 +1017,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Vol verwachting klopt ons hart bij Cello in Rosmalen! - De Bossche Omroep",
@@ -1017,24 +1050,6 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
-            "link": "https://www.amsterdamsdagblad.nl/gemeente/jeugdhulp-in-amsterdam-meer-thuis-op-school-en-in-de-buurt",
-            "publishedDate": "16/11/2026 16:48",
-            "source": "amsterdam.nl, amsterdamsdagblad.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Jeugdhulp in Amsterdam verandert: meer thuis, op school en in de buurt",
-                    "source": "amsterdam.nl",
-                    "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
-                    "publishedDate": "16/11/2026 16:24"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
