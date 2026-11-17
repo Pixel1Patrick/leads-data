@@ -244,18 +244,11 @@
             "title": "Lang wachten op een operatie: bij veel ziekenhuizen langer dan de norm van zeven weken",
             "link": "https://persportaal.anp.nl/artikel/bc86d264-c7f4-4862-b579-502ae63ee7b1/lang-wachten-op-een-operatie-bij-veel-ziekenhuizen-langer-dan-de-norm-van-zeven-weken",
             "publishedDate": "17/11/2026 08:37",
-            "source": "nationalezorggids.nl, persportaal.anp.nl",
+            "source": "persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Ziekenhuizen - Nationale Zorggids",
-                    "source": "nationalezorggids.nl",
-                    "link": "https://www.nationalezorggids.nl/ziekenhuizen/pagina/2352/",
-                    "publishedDate": "17/11/2026 05:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -465,6 +458,17 @@
             "belangrijkheid": 1
         },
         {
+            "title": "Ziekenhuizen - Nationale Zorggids",
+            "link": "https://www.nationalezorggids.nl/ziekenhuizen/pagina/2352/",
+            "publishedDate": "17/11/2026 05:50",
+            "source": "nationalezorggids.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Artsen halen darmen uit lichaam om tumor van 10 kilo te verwijderen | Overige - Drimble",
             "link": "https://drimble.nl/dossiers/overige/108621380/artsen-halen-darmen-uit-lichaam-om-tumor-van-10-kilo-te-verwijderen.html",
             "publishedDate": "17/11/2026 05:48",
@@ -552,16 +556,40 @@
             "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ... - AD",
             "link": "https://www.ad.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
             "publishedDate": "17/11/2026 03:47",
-            "source": "ad.nl, bndestem.nl",
+            "source": "ad.nl, bndestem.nl, hartvannederland.nl, platform-investico.nl, trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ...",
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
                     "publishedDate": "16/11/2026 15:47"
+                },
+                {
+                    "title": "'Ouders onder druk gezet om kind uit huis te plaatsen' | Hart van Nederland",
+                    "source": "hartvannederland.nl",
+                    "link": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/ouders-onder-druk-vrijwillige-uithuisplaatsing",
+                    "publishedDate": "16/11/2026 19:29"
+                },
+                {
+                    "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
+                    "source": "platform-investico.nl",
+                    "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
+                    "publishedDate": "16/11/2026 16:16"
+                },
+                {
+                    "title": "Hulpverleners zetten ouders onder druk bij vrijwillige uithuisplaatsing - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/binnenland/hulpverleners-zetten-ouders-onder-druk-bij-vrijwillige-uithuisplaatsing~b086f193/",
+                    "publishedDate": "16/11/2026 16:02"
+                },
+                {
+                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
+                    "publishedDate": "16/11/2026 15:56"
                 }
             ],
             "belangrijkheid": 0
@@ -943,36 +971,6 @@
             "belangrijkheid": 1
         },
         {
-            "title": "'Ouders onder druk gezet om kind uit huis te plaatsen' | Hart van Nederland",
-            "link": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/ouders-onder-druk-vrijwillige-uithuisplaatsing",
-            "publishedDate": "16/11/2026 19:29",
-            "source": "hartvannederland.nl, platform-investico.nl, trouw.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
-                    "source": "platform-investico.nl",
-                    "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
-                    "publishedDate": "16/11/2026 16:16"
-                },
-                {
-                    "title": "Hulpverleners zetten ouders onder druk bij vrijwillige uithuisplaatsing - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/binnenland/hulpverleners-zetten-ouders-onder-druk-bij-vrijwillige-uithuisplaatsing~b086f193/",
-                    "publishedDate": "16/11/2026 16:02"
-                },
-                {
-                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
-                    "publishedDate": "16/11/2026 15:56"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Shaping Interfaces Between Science and the Public - Universiteit van Amsterdam",
             "link": "https://www.uva.nl/onderzoek/overzicht-onderzoeksthemas/shaping-interfaces",
             "publishedDate": "16/11/2026 19:29",
@@ -1121,7 +1119,7 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Rinda den Besten - PRO - Progressief Nederland",
