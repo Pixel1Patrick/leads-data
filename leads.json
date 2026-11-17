@@ -48,10 +48,10 @@
             "title": "Ziekenhuis in Groningen verlost man van 10 kilo zware tumor - Nieuws.nl",
             "link": "https://nieuws.nl/gezond/ziekenhuis-in-groningen-verlost-man-van-10-kilo-zware-tumor-qzuZ9N",
             "publishedDate": "16/11/2026 23:51",
-            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, omroepbrabant.nl, rtl.nl, telegraaf.nl, welingelichtekringen.nl",
+            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, omroepbrabant.nl, rtl.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 12,
+            "duplicate_count": 13,
             "extra_bronnen": [
                 {
                     "title": "Ziekenhuis in Groningen verlost man van 10 kilo zware tumor - Welingelichte Kringen",
@@ -81,6 +81,12 @@
                     "title": "Pati\u00ebnt na medisch huzarenstukje verlost van 10 kilo zware tumor - Nieuws en Verhalen",
                     "source": "nieuws.umcg.nl",
                     "link": "https://nieuws.umcg.nl/w/bijzondere-darmoperatie",
+                    "publishedDate": "16/11/2026 18:08"
+                },
+                {
+                    "title": "Hoe een tumor van ruim 10 kilo succesvol is verwijderd: 'Dit is grensverleggend'",
+                    "source": "volkskrant.nl",
+                    "link": "https://www.volkskrant.nl/binnenland/hoe-een-tumor-van-ruim-10-kilo-succesvol-is-verwijderd-dit-is-grensverleggend~b346df73/",
                     "publishedDate": "16/11/2026 18:08"
                 },
                 {
@@ -540,11 +546,18 @@
             "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen ingehuldigd in Zellik - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/nieuws/eerste-7-tesla-mri-scanner-in-vlaanderen-ingehuldigd-in-zellik/164647884.html",
             "publishedDate": "16/11/2026 19:05",
-            "source": "nieuwsblad.be",
+            "source": "nieuwsblad.be, press.vub.ac.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
+                    "source": "press.vub.ac.be",
+                    "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
+                    "publishedDate": "16/11/2026 17:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -698,17 +711,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Hoe een tumor van ruim 10 kilo succesvol is verwijderd: 'Dit is grensverleggend'",
-            "link": "https://www.volkskrant.nl/binnenland/hoe-een-tumor-van-ruim-10-kilo-succesvol-is-verwijderd-dit-is-grensverleggend~b346df73/",
-            "publishedDate": "16/11/2026 18:08",
-            "source": "volkskrant.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Den Haag wil omstreden asielopvang definitief stopzetten: 'Uitwerking van belofte aan stad'",
             "link": "https://www.omroepwest.nl/politiek/5173606/den-haag-wil-omstreden-asielopvang-definitief-stopzetten-uitwerking-van-belofte-aan-stad",
             "publishedDate": "16/11/2026 17:55",
@@ -737,17 +739,6 @@
             "source": "ggz.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
-            "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
-            "publishedDate": "16/11/2026 17:45",
-            "source": "press.vub.ac.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
