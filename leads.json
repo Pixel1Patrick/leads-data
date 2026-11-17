@@ -103,11 +103,18 @@
             "title": "Minder tijd in ziekenhuis, meer nood aan steun: \u201cAlegria wil mensen met kanker en hun ...",
             "link": "https://www.nieuwsblad.be/regio/antwerpen/kempen/turnhout/minder-tijd-in-ziekenhuis-meer-nood-aan-steun-alegria-wil-mensen-met-kanker-en-hun-naasten-veerkracht-geven/163613902.html",
             "publishedDate": "17/11/2026 10:24",
-            "source": "nieuwsblad.be",
+            "source": "gva.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
+                    "publishedDate": "16/11/2026 13:16"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -442,30 +449,11 @@
             "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
             "link": "https://huisartsvandaag.nl/het-verwijsrecht-jeugdhulp-wordt-voor-huisartsen-niet-ingeperkt/",
             "publishedDate": "17/11/2026 06:06",
-            "source": "denederlandseggz.nl, ggznieuws.nl, huisartsvandaag.nl, medischcontact.nl",
+            "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 7,
-            "extra_bronnen": [
-                {
-                    "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
-                    "source": "medischcontact.nl",
-                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
-                    "publishedDate": "16/11/2026 16:58"
-                },
-                {
-                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
-                    "source": "ggznieuws.nl",
-                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
-                    "publishedDate": "16/11/2026 16:54"
-                },
-                {
-                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 14:19"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -567,16 +555,40 @@
             "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ... - AD",
             "link": "https://www.ad.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
             "publishedDate": "17/11/2026 03:47",
-            "source": "ad.nl, bndestem.nl",
+            "source": "ad.nl, bndestem.nl, hartvannederland.nl, platform-investico.nl, trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ...",
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/binnenland/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos-wordt~acc86e91/",
                     "publishedDate": "16/11/2026 15:47"
+                },
+                {
+                    "title": "'Ouders onder druk gezet om kind uit huis te plaatsen' | Hart van Nederland",
+                    "source": "hartvannederland.nl",
+                    "link": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/ouders-onder-druk-vrijwillige-uithuisplaatsing",
+                    "publishedDate": "16/11/2026 19:29"
+                },
+                {
+                    "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
+                    "source": "platform-investico.nl",
+                    "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
+                    "publishedDate": "16/11/2026 16:16"
+                },
+                {
+                    "title": "Hulpverleners zetten ouders onder druk bij vrijwillige uithuisplaatsing - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/binnenland/hulpverleners-zetten-ouders-onder-druk-bij-vrijwillige-uithuisplaatsing~b086f193/",
+                    "publishedDate": "16/11/2026 16:02"
+                },
+                {
+                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
+                    "publishedDate": "16/11/2026 15:56"
                 }
             ],
             "belangrijkheid": 0
@@ -608,7 +620,7 @@
                     "publishedDate": "16/11/2026 21:04"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bijzondere donatie van familie Kassing ter ere van 100-jarig jubileum - Bunniks Nieuws",
@@ -707,7 +719,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "VIDEO. 95-jarige man in ziekenhuis opgenomen na woningbrand in Turnhout | Nieuwsblad",
@@ -948,36 +960,6 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "'Ouders onder druk gezet om kind uit huis te plaatsen' | Hart van Nederland",
-            "link": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/ouders-onder-druk-vrijwillige-uithuisplaatsing",
-            "publishedDate": "16/11/2026 19:29",
-            "source": "hartvannederland.nl, platform-investico.nl, trouw.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
-                    "source": "platform-investico.nl",
-                    "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
-                    "publishedDate": "16/11/2026 16:16"
-                },
-                {
-                    "title": "Hulpverleners zetten ouders onder druk bij vrijwillige uithuisplaatsing - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/binnenland/hulpverleners-zetten-ouders-onder-druk-bij-vrijwillige-uithuisplaatsing~b086f193/",
-                    "publishedDate": "16/11/2026 16:02"
-                },
-                {
-                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
-                    "publishedDate": "16/11/2026 15:56"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1028,22 +1010,16 @@
             "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
             "link": "https://www.at5.nl/artikelen/241075/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
             "publishedDate": "16/11/2026 18:36",
-            "source": "amsterdam.nl, amsterdamsdagblad.nl, at5.nl, nhnieuws.nl, parool.nl",
+            "source": "amsterdam.nl, amsterdamsdagblad.nl, at5.nl, nhnieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 7,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
                     "source": "nhnieuws.nl",
                     "link": "https://www.nhnieuws.nl/nieuws/365515/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
                     "publishedDate": "16/11/2026 18:34"
-                },
-                {
-                    "title": "Amsterdam bezuinigt 42 miljoen op jeugdzorg: kinderen met lichte hulpvraag niet meer ...",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/amsterdam/amsterdam-bezuinigt-42-miljoen-op-jeugdzorg-kinderen-met-lichte-hulpvraag-niet-meer-automatisch-doorverwezen~ba188a07/",
-                    "publishedDate": "16/11/2026 17:44"
                 },
                 {
                     "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
@@ -1127,6 +1103,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Amsterdam bezuinigt 42 miljoen op jeugdzorg: kinderen met lichte hulpvraag niet meer ...",
+            "link": "https://www.parool.nl/amsterdam/amsterdam-bezuinigt-42-miljoen-op-jeugdzorg-kinderen-met-lichte-hulpvraag-niet-meer-automatisch-doorverwezen~ba188a07/",
+            "publishedDate": "16/11/2026 17:44",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Zorgpremie stijgt flink - Joop - BNNVARA",
             "link": "https://www.bnnvara.nl/joop/artikelen/zorgpremie-stijgt-flink",
             "publishedDate": "16/11/2026 17:41",
@@ -1168,6 +1155,30 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
+            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
+            "publishedDate": "16/11/2026 16:58",
+            "source": "denederlandseggz.nl, ggznieuws.nl, medischcontact.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
+                    "publishedDate": "16/11/2026 16:54"
+                },
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 14:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1232,48 +1243,33 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
                     "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+                    "publishedDate": "16/11/2026 16:33"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1440,17 +1436,6 @@
             "source": "icthealth.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
-            "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
-            "publishedDate": "16/11/2026 13:16",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
