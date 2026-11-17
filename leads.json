@@ -163,7 +163,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nationale Zorgautoriteit ziet zorgwekkende ontwikkeling in \u00b4verdringing\u00b4 van zware ... - Drimble",
@@ -582,19 +582,15 @@
             "source": "nza.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
-            "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
-            "publishedDate": "16/11/2026 19:42",
-            "source": "nza.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
+                    "source": "nza.nl",
+                    "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
+                    "publishedDate": "16/11/2026 19:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
