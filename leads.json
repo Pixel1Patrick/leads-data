@@ -137,7 +137,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "WHO waarschuwt: medicijnresistentie kan 39 miljoen levens kosten - Starnieuws",
@@ -467,15 +467,19 @@
             "source": "nza.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
-                    "source": "nza.nl",
-                    "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
-                    "publishedDate": "16/11/2026 19:42"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
+            "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
+            "publishedDate": "16/11/2026 19:42",
+            "source": "nza.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -608,7 +612,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Minister Frank Vandenbroucke (Vooruit) bezoekt Neonatale Intensieve Zorg van AZ Sint-Jan Brugge",
@@ -1022,18 +1026,11 @@
             "title": "Deze artsen verwijderen de prostaat met een nieuwe techniek: einde aan erectieproblemen ...",
             "link": "https://www.parool.nl/nederland/deze-artsen-verwijderen-de-prostaat-met-een-nieuwe-techniek-einde-aan-erectieproblemen-en-urineverlies~b80a0b2f/",
             "publishedDate": "16/11/2026 16:26",
-            "source": "jeroenboschziekenhuis.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
-                    "source": "jeroenboschziekenhuis.nl",
-                    "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
-                    "publishedDate": "16/11/2026 15:51"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1054,6 +1051,17 @@
             "source": "sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
+            "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
+            "publishedDate": "16/11/2026 15:51",
+            "source": "jeroenboschziekenhuis.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
