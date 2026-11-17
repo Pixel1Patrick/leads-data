@@ -757,11 +757,18 @@
             "title": "Minder tijd in ziekenhuis, meer nood aan steun: \u201cAlegria wil mensen met kanker en hun ...",
             "link": "https://www.nieuwsblad.be/regio/antwerpen/kempen/turnhout/minder-tijd-in-ziekenhuis-meer-nood-aan-steun-alegria-wil-mensen-met-kanker-en-hun-naasten-veerkracht-geven/163613902.html",
             "publishedDate": "16/11/2026 18:51",
-            "source": "nieuwsblad.be",
+            "source": "gva.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
+                    "publishedDate": "16/11/2026 13:16"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -801,28 +808,16 @@
             "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
             "link": "https://www.at5.nl/artikelen/241075/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
             "publishedDate": "16/11/2026 18:36",
-            "source": "amsterdam.nl, amsterdamsdagblad.nl, at5.nl, nhnieuws.nl",
+            "source": "at5.nl, nhnieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
                     "source": "nhnieuws.nl",
                     "link": "https://www.nhnieuws.nl/nieuws/365515/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
                     "publishedDate": "16/11/2026 18:34"
-                },
-                {
-                    "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
-                    "source": "amsterdamsdagblad.nl",
-                    "link": "https://www.amsterdamsdagblad.nl/gemeente/jeugdhulp-in-amsterdam-meer-thuis-op-school-en-in-de-buurt",
-                    "publishedDate": "16/11/2026 16:48"
-                },
-                {
-                    "title": "Jeugdhulp in Amsterdam verandert: meer thuis, op school en in de buurt",
-                    "source": "amsterdam.nl",
-                    "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
-                    "publishedDate": "16/11/2026 16:24"
                 }
             ],
             "belangrijkheid": 0
@@ -990,7 +985,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Vol verwachting klopt ons hart bij Cello in Rosmalen! - De Bossche Omroep",
@@ -1023,6 +1018,24 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
+            "link": "https://www.amsterdamsdagblad.nl/gemeente/jeugdhulp-in-amsterdam-meer-thuis-op-school-en-in-de-buurt",
+            "publishedDate": "16/11/2026 16:48",
+            "source": "amsterdam.nl, amsterdamsdagblad.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Jeugdhulp in Amsterdam verandert: meer thuis, op school en in de buurt",
+                    "source": "amsterdam.nl",
+                    "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
+                    "publishedDate": "16/11/2026 16:24"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1295,17 +1308,6 @@
             "source": "icthealth.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
-            "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
-            "publishedDate": "16/11/2026 13:16",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
