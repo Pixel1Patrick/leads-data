@@ -820,7 +820,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Besluit van de Inspecteur-Generaal van de Inspectie Gezondheidszorg en Jeugd van 5 november 2026, kenmerk DT26-030, houdende de verlening van ondermandaat en ondervolmacht aan functionarissen van de Inspectie Gezondheidszorg en Jeugd",
@@ -829,8 +829,81 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 13,
+            "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
+                    "publishedDate": "17/11/2026 12:30"
+                },
+                {
+                    "title": "Beantwoording Kamervragen van het lid Van Meetelen (PVV) over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
+                    "publishedDate": "17/11/2026 12:30"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+                    "publishedDate": "17/11/2026 12:29"
+                },
+                {
+                    "title": "antwoorden op de vragen van het lid Moinat PVV over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e4f6aea4-2ac2-497e-b365-46c582bbba49",
+                    "publishedDate": "17/11/2026 12:29"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake de opzet en vraagstelling van de periodieke rapportage gehandicaptenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/cdab6ad5-0b72-4606-9762-4cd0664b547b",
+                    "publishedDate": "17/11/2026 12:28"
+                },
+                {
+                    "title": "Kamerbrief inzake de opzet en vraagstelling van de periodieke rapportage gehandicaptenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/70a3657a-5e7f-42d2-b935-5e20eed10069",
+                    "publishedDate": "17/11/2026 12:28"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e84ea5ed-aff9-4525-8856-dd2e79dd5359",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Toezegging vergelijking rechten van jongeren en ouderen op grond van voor hen geldende wetgeving",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/a2453ac0-1f02-4d9c-a1ae-f2c87fbaaac1",
+                    "publishedDate": "16/11/2026 15:21"
+                },
+                {
+                    "title": "Kamerbrief over Toezegging vergelijking rechten van jongeren en ouderen op grond van voor hen geldende wetgeving",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/6cc90c50-876e-43dd-875f-7e13decd36e5",
+                    "publishedDate": "16/11/2026 15:21"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/3b029135-4016-419d-ac19-88a9300ec44f",
+                    "publishedDate": "16/11/2026 14:58"
+                },
+                {
+                    "title": "Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9a0939ee-ef98-4b34-bb92-5e761bc02541",
+                    "publishedDate": "16/11/2026 14:58"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -886,60 +959,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
-            "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
-            "publishedDate": "17/11/2026 12:30",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beantwoording Kamervragen van het lid Van Meetelen (PVV) over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
-                    "publishedDate": "17/11/2026 12:30"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
-            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-            "publishedDate": "17/11/2026 12:29",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "antwoorden op de vragen van het lid Moinat PVV over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/e4f6aea4-2ac2-497e-b365-46c582bbba49",
-                    "publishedDate": "17/11/2026 12:29"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake de opzet en vraagstelling van de periodieke rapportage gehandicaptenzorg",
-            "link": "https://open.overheid.nl/details/cdab6ad5-0b72-4606-9762-4cd0664b547b",
-            "publishedDate": "17/11/2026 12:28",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief inzake de opzet en vraagstelling van de periodieke rapportage gehandicaptenzorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/70a3657a-5e7f-42d2-b935-5e20eed10069",
-                    "publishedDate": "17/11/2026 12:28"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1344,7 +1363,7 @@
                     "publishedDate": "16/11/2026 21:04"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Bijzondere donatie van familie Kassing ter ere van 100-jarig jubileum - Bunniks Nieuws",
@@ -1636,24 +1655,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
-            "link": "https://open.overheid.nl/details/e84ea5ed-aff9-4525-8856-dd2e79dd5359",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
-                    "publishedDate": "16/11/2026 16:33"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
             "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
             "publishedDate": "16/11/2026 16:33",
@@ -1720,24 +1721,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Toezegging vergelijking rechten van jongeren en ouderen op grond van voor hen geldende wetgeving",
-            "link": "https://open.overheid.nl/details/a2453ac0-1f02-4d9c-a1ae-f2c87fbaaac1",
-            "publishedDate": "16/11/2026 15:21",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over Toezegging vergelijking rechten van jongeren en ouderen op grond van voor hen geldende wetgeving",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/6cc90c50-876e-43dd-875f-7e13decd36e5",
-                    "publishedDate": "16/11/2026 15:21"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Bijnierschorsscan: onderzoek bijnierschors met een radioactieve stof - umcg.nl",
             "link": "https://www.umcg.nl/-/bijnierschorsscan",
             "publishedDate": "16/11/2026 15:18",
@@ -1746,24 +1729,6 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
-            "link": "https://open.overheid.nl/details/3b029135-4016-419d-ac19-88a9300ec44f",
-            "publishedDate": "16/11/2026 14:58",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9a0939ee-ef98-4b34-bb92-5e761bc02541",
-                    "publishedDate": "16/11/2026 14:58"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
