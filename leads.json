@@ -1,28 +1,6 @@
 {
     "artikelen": [
         {
-            "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
-            "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_94",
-            "publishedDate": "17/11/2026 09:23",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
-            "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_127",
-            "publishedDate": "17/11/2026 09:23",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Oud-huisarts Pieter Schook geeft lezing in Alblasserdam over bijzondere, eetbare ...",
             "link": "https://www.alblasserdamsnieuws.nl/2026/11/17/oud-huisarts-pieter-schook-geeft-lezing-in-alblasserdam-over-bijzondere-eetbare-geneeskrachtige-planten-uit-biesbosch/",
             "publishedDate": "17/11/2026 08:21",
@@ -155,10 +133,10 @@
             "title": "Artsen halen darmen uit lichaam om tumor van 10 kilo te verwijderen | Overige - Drimble",
             "link": "https://drimble.nl/dossiers/overige/108621380/artsen-halen-darmen-uit-lichaam-om-tumor-van-10-kilo-te-verwijderen.html",
             "publishedDate": "17/11/2026 05:48",
-            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, omroepbrabant.nl, rtl.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
+            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, nos.nl, omroepbrabant.nl, rtl.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 15,
+            "duplicate_count": 16,
             "extra_bronnen": [
                 {
                     "title": "Hoe een tumor van ruim 10 kilo succesvol is verwijderd: 'Dit is grensverleggend'",
@@ -221,6 +199,12 @@
                     "publishedDate": "16/11/2026 17:17"
                 },
                 {
+                    "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
+                    "publishedDate": "16/11/2026 17:35"
+                },
+                {
                     "title": "Primeur: Groningse chirurgen verwijderen tumor van 10 kilo, darmen urenlang buiten lichaam - BNR",
                     "source": "bnr.nl",
                     "link": "https://www.bnr.nl/nieuws/lifestyle/10615724/primeur-groningse-chirurgen-verwijderen-tumor-van-10-kilo-darmen-urenlang-buiten-lichaam",
@@ -233,7 +217,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ... - AD",
@@ -668,20 +652,16 @@
             "source": "nza.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
-            "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
-            "publishedDate": "16/11/2026 19:42",
-            "source": "nza.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
+                    "source": "nza.nl",
+                    "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
+                    "publishedDate": "16/11/2026 19:42"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Man verdient 2000 euro minder dan collega's die zelfde werk doen, krijgt gelijk na klacht",
@@ -722,7 +702,7 @@
                     "publishedDate": "16/11/2026 15:56"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Shaping Interfaces Between Science and the Public - Universiteit van Amsterdam",
@@ -739,11 +719,18 @@
             "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen ingehuldigd in Zellik - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/nieuws/eerste-7-tesla-mri-scanner-in-vlaanderen-ingehuldigd-in-zellik/164647884.html",
             "publishedDate": "16/11/2026 19:05",
-            "source": "nieuwsblad.be",
+            "source": "nieuwsblad.be, press.vub.ac.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
+                    "source": "press.vub.ac.be",
+                    "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
+                    "publishedDate": "16/11/2026 17:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -930,38 +917,14 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
-            "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
-            "publishedDate": "16/11/2026 17:45",
-            "source": "press.vub.ac.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Amsterdam bezuinigt 42 miljoen op jeugdzorg: kinderen met lichte hulpvraag niet meer ...",
             "link": "https://www.parool.nl/amsterdam/amsterdam-bezuinigt-42-miljoen-op-jeugdzorg-kinderen-met-lichte-hulpvraag-niet-meer-automatisch-doorverwezen~ba188a07/",
             "publishedDate": "16/11/2026 17:44",
-            "source": "amsterdam.nl, amsterdamsdagblad.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
-                    "source": "amsterdamsdagblad.nl",
-                    "link": "https://www.amsterdamsdagblad.nl/gemeente/jeugdhulp-in-amsterdam-meer-thuis-op-school-en-in-de-buurt",
-                    "publishedDate": "16/11/2026 16:48"
-                },
-                {
-                    "title": "Jeugdhulp in Amsterdam verandert: meer thuis, op school en in de buurt",
-                    "source": "amsterdam.nl",
-                    "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
-                    "publishedDate": "16/11/2026 16:24"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -987,17 +950,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
-            "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
-            "publishedDate": "16/11/2026 17:35",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Dit zijn de 5 goedkoopste zorgverzekeringen voor 2027 - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-5-goedkoopste-zorgverzekeringen-voor-2027",
             "publishedDate": "16/11/2026 17:14",
@@ -1017,7 +969,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Vol verwachting klopt ons hart bij Cello in Rosmalen! - De Bossche Omroep",
@@ -1050,6 +1002,24 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
+            "link": "https://www.amsterdamsdagblad.nl/gemeente/jeugdhulp-in-amsterdam-meer-thuis-op-school-en-in-de-buurt",
+            "publishedDate": "16/11/2026 16:48",
+            "source": "amsterdam.nl, amsterdamsdagblad.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Jeugdhulp in Amsterdam verandert: meer thuis, op school en in de buurt",
+                    "source": "amsterdam.nl",
+                    "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
+                    "publishedDate": "16/11/2026 16:24"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -2303,17 +2273,6 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[FNV] Praat jij mee over nieuwe normfuncties voor de cao UMC?",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/praat-jij-mee-over-nieuwe-normfuncties-cao-umc",
-            "publishedDate": "03/11/2026 10:36",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
