@@ -559,11 +559,18 @@
             "title": "Meerdere poliklinieken MST vandaag gesloten om wateroverlast - RTV Oost",
             "link": "https://www.oost.nl/nieuws/3720282/meerdere-poliklinieken-mst-vandaag-gesloten-om-wateroverlast",
             "publishedDate": "17/11/2026 08:32",
-            "source": "oost.nl",
+            "source": "huisartsvandaag.nl, oost.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Eigen huisartsenspoedpost in Haaksbergen tijdens weekenden gaat verdwijnen",
+                    "source": "huisartsvandaag.nl",
+                    "link": "https://huisartsvandaag.nl/eigen-huisartsenspoedpost-in-haaksbergen-tijdens-weekenden-gaat-verdwijnen/",
+                    "publishedDate": "16/11/2026 12:24"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1222,7 +1229,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgpremie stijgt flink - Joop - BNNVARA",
@@ -1266,7 +1273,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
@@ -1284,7 +1291,7 @@
                     "publishedDate": "16/11/2026 14:19"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Procesregisseur Polikliniek Zuidwester (Gehandicaptenzorg) in Middelharnis - ZeelandNet",
@@ -1622,17 +1629,6 @@
             "source": "doq.nl",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Eigen huisartsenspoedpost in Haaksbergen tijdens weekenden gaat verdwijnen",
-            "link": "https://huisartsvandaag.nl/eigen-huisartsenspoedpost-in-haaksbergen-tijdens-weekenden-gaat-verdwijnen/",
-            "publishedDate": "16/11/2026 12:24",
-            "source": "huisartsvandaag.nl",
-            "category": "Overig",
-            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
