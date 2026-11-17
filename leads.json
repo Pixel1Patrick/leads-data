@@ -401,18 +401,11 @@
             "title": "Zo maakt het Jeroen Bosch Ziekenhuis nachtwerk gezonder en veiliger | Arboportaal",
             "link": "https://www.arboportaal.nl/actueel/nieuws/2026/11/17/zo-maakt-het-jeroen-bosch-ziekenhuis-nachtwerk-gezonder-en-veiliger",
             "publishedDate": "17/11/2026 15:34",
-            "source": "arboportaal.nl, starnieuws.com",
+            "source": "arboportaal.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "WHO waarschuwt: medicijnresistentie kan 39 miljoen levens kosten - Starnieuws",
-                    "source": "starnieuws.com",
-                    "link": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94894",
-                    "publishedDate": "16/11/2026 23:44"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -430,11 +423,18 @@
             "title": "KWF investeert in doorontwikkeling van veelbelovend onderzoek.",
             "link": "https://www.kwf.nl/nieuws/kwf-geeft-negen-veelbelovende-kankeronderzoeken-een-boost",
             "publishedDate": "17/11/2026 15:30",
-            "source": "kwf.nl",
+            "source": "kwf.nl, telegraaf.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Supergala vol belofte: 'We zijn dichter bij genezing van diabetes type 1 dan ooit!'",
+                    "source": "telegraaf.nl",
+                    "link": "https://www.telegraaf.nl/nieuws/supergala-vol-belofte-we-zijn-dichter-bij-genezing-van-diabetes-type-1-dan-ooit/164591112.html",
+                    "publishedDate": "16/11/2026 22:04"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1397,6 +1397,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "WHO waarschuwt: medicijnresistentie kan 39 miljoen levens kosten - Starnieuws",
+            "link": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94894",
+            "publishedDate": "16/11/2026 23:44",
+            "source": "starnieuws.com",
+            "category": "Overig",
+            "feed_label": "Alert eerstelijnszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Deze zorgverzekeraar is het goedkoopst (maar klanten zijn het minst tevreden) - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeraar-is-het-goedkoopst-maar-klanten-zijn-het-minst-tevreden",
             "publishedDate": "16/11/2026 22:51",
@@ -1445,17 +1456,6 @@
                     "publishedDate": "16/11/2026 22:04"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Supergala vol belofte: 'We zijn dichter bij genezing van diabetes type 1 dan ooit!'",
-            "link": "https://www.telegraaf.nl/nieuws/supergala-vol-belofte-we-zijn-dichter-bij-genezing-van-diabetes-type-1-dan-ooit/164591112.html",
-            "publishedDate": "16/11/2026 22:04",
-            "source": "telegraaf.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1599,7 +1599,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
