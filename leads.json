@@ -628,22 +628,16 @@
             "title": "Mysterie opgelost: daarom kleurt een afdeling van het Gelre Ziekenhuis paars | Regio - AD",
             "link": "https://www.ad.nl/apeldoorn/mysterie-opgelost-daarom-kleurt-een-afdeling-van-het-gelre-ziekenhuis-paars~ad7690be/",
             "publishedDate": "17/11/2026 10:05",
-            "source": "ad.nl, indebuurt.nl, tubantia.nl",
+            "source": "ad.nl, indebuurt.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Mysterie opgelost: daarom kleurt een afdeling van het Gelre Ziekenhuis paars - Indebuurt",
                     "source": "indebuurt.nl",
                     "link": "https://indebuurt.nl/apeldoorn/mysterie-opgelost-daarom-kleurt-een-afdeling-van-het-gelre-ziekenhuis-paars~ad7690be/",
                     "publishedDate": "17/11/2026 07:08"
-                },
-                {
-                    "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
-                    "publishedDate": "17/11/2026 10:04"
                 }
             ],
             "belangrijkheid": 0
@@ -655,6 +649,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
+            "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
+            "publishedDate": "17/11/2026 10:04",
+            "source": "tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1512,18 +1517,11 @@
             "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
             "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
             "publishedDate": "16/11/2026 16:16",
-            "source": "platform-investico.nl, trouw.nl",
+            "source": "platform-investico.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
-                    "publishedDate": "16/11/2026 15:56"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1544,6 +1542,17 @@
             "source": "rivm.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
+            "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
+            "publishedDate": "16/11/2026 15:56",
+            "source": "trouw.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
