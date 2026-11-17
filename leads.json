@@ -66,7 +66,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Amerikaanse bezuinigingen op hiv-zorg treffen lhbtiq+-personen in Indonesi\u00eb hard - Winq",
@@ -171,28 +171,16 @@
             "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
             "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
             "publishedDate": "17/11/2026 12:30",
-            "source": "open.overheid.nl, platform-investico.nl, trouw.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Beantwoording Kamervragen van het lid Van Meetelen (PVV) over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
                     "publishedDate": "17/11/2026 12:30"
-                },
-                {
-                    "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
-                    "source": "platform-investico.nl",
-                    "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
-                    "publishedDate": "16/11/2026 16:16"
-                },
-                {
-                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
-                    "publishedDate": "16/11/2026 15:56"
                 }
             ],
             "belangrijkheid": 0
@@ -922,10 +910,10 @@
             "title": "Ziekenhuis in Groningen verlost man van 10 kilo zware tumor - Nieuws.nl",
             "link": "https://nieuws.nl/gezond/ziekenhuis-in-groningen-verlost-man-van-10-kilo-zware-tumor-qzuZ9N",
             "publishedDate": "16/11/2026 23:51",
-            "source": "ad.nl, bd.nl, bnr.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, telegraaf.nl, welingelichtekringen.nl",
+            "source": "ad.nl, bd.nl, bnr.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, nos.nl, telegraaf.nl, welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 8,
+            "duplicate_count": 9,
             "extra_bronnen": [
                 {
                     "title": "Ziekenhuis in Groningen verlost man van 10 kilo zware tumor - Welingelichte Kringen",
@@ -958,6 +946,12 @@
                     "publishedDate": "16/11/2026 17:17"
                 },
                 {
+                    "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
+                    "publishedDate": "16/11/2026 17:35"
+                },
+                {
                     "title": "Primeur: Groningse chirurgen verwijderen tumor van 10 kilo, darmen urenlang buiten lichaam - BNR",
                     "source": "bnr.nl",
                     "link": "https://www.bnr.nl/nieuws/lifestyle/10615724/primeur-groningse-chirurgen-verwijderen-tumor-van-10-kilo-darmen-urenlang-buiten-lichaam",
@@ -970,7 +964,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "WHO waarschuwt: medicijnresistentie kan 39 miljoen levens kosten - Starnieuws",
@@ -1210,11 +1204,24 @@
             "title": "'Ouders onder druk gezet om kind uit huis te plaatsen' | Hart van Nederland",
             "link": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/ouders-onder-druk-vrijwillige-uithuisplaatsing",
             "publishedDate": "16/11/2026 19:29",
-            "source": "hartvannederland.nl",
+            "source": "hartvannederland.nl, platform-investico.nl, trouw.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Ouders met regelmaat onder druk gezet voor 'vrijwillige' uithuisplaatsing - Investico",
+                    "source": "platform-investico.nl",
+                    "link": "https://www.platform-investico.nl/onderzoeken/ouders-met-regelmaat-onder-druk-gezet-voor-vrijwillige-uithuisplaatsing",
+                    "publishedDate": "16/11/2026 16:16"
+                },
+                {
+                    "title": "Juist bij een 'vrijwillige' uithuisplaatsing staan ouders vaak machteloos - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/verdieping/juist-bij-een-vrijwillige-uithuisplaatsing-staan-ouders-vaak-machteloos~b4ab2cf9/",
+                    "publishedDate": "16/11/2026 15:56"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1364,17 +1371,6 @@
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
-            "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
-            "publishedDate": "16/11/2026 17:35",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
         },
