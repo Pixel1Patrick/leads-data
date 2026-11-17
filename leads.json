@@ -230,18 +230,11 @@
             "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - ANP Persportaal",
             "link": "https://persportaal.anp.nl/artikel/5b98fb0e-9625-446a-a727-151d7cdc0a96/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2000-per-jaar",
             "publishedDate": "16/11/2026 23:27",
-            "source": "persportaal.anp.nl, sittard-geleen.nieuws.nl",
+            "source": "persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
-                    "source": "sittard-geleen.nieuws.nl",
-                    "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
-                    "publishedDate": "16/11/2026 06:56"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -398,18 +391,11 @@
             "title": "VVI: Verkeersslachtoffers aan hun lot overgelaten; fonds dringend nodig - Starnieuws",
             "link": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94893",
             "publishedDate": "16/11/2026 21:29",
-            "source": "starnieuws.com, sun.sr",
+            "source": "starnieuws.com",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "VVI pleit voor slachtofferfonds na 89 verkeersdoden in 2026 - Sun News Suriname",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/vvi-pleit-voor-slachtofferfonds-na-89-verkeersdoden-in-2026?id=46171",
-                    "publishedDate": "16/11/2026 15:52"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -662,18 +648,11 @@
             "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen ingehuldigd in Zellik - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/nieuws/eerste-7-tesla-mri-scanner-in-vlaanderen-ingehuldigd-in-zellik/164647884.html",
             "publishedDate": "16/11/2026 19:05",
-            "source": "nieuwsblad.be, press.vub.ac.be",
+            "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
-                    "source": "press.vub.ac.be",
-                    "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
-                    "publishedDate": "16/11/2026 17:45"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -707,6 +686,24 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Minder tijd in ziekenhuis, meer nood aan steun: \u201cAlegria wil mensen met kanker en hun ...",
+            "link": "https://www.nieuwsblad.be/regio/antwerpen/kempen/turnhout/minder-tijd-in-ziekenhuis-meer-nood-aan-steun-alegria-wil-mensen-met-kanker-en-hun-naasten-veerkracht-geven/163613902.html",
+            "publishedDate": "16/11/2026 18:51",
+            "source": "gva.be, nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
+                    "publishedDate": "16/11/2026 13:16"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -855,6 +852,17 @@
             "source": "ggz.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
+            "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
+            "publishedDate": "16/11/2026 17:45",
+            "source": "press.vub.ac.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1116,6 +1124,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "VVI pleit voor slachtofferfonds na 89 verkeersdoden in 2026 - Sun News Suriname",
+            "link": "https://sun.sr/nieuws/lokaal/vvi-pleit-voor-slachtofferfonds-na-89-verkeersdoden-in-2026?id=46171",
+            "publishedDate": "16/11/2026 15:52",
+            "source": "sun.sr",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
             "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
             "publishedDate": "16/11/2026 15:51",
@@ -1235,17 +1254,6 @@
             "source": "icthealth.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
-            "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
-            "publishedDate": "16/11/2026 13:16",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1482,6 +1490,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
+            "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
+            "publishedDate": "16/11/2026 06:56",
+            "source": "cnv.nl, sittard-geleen.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Judith: 'Ik was zo boos dat mijn lijf me in de steek liet' - Plus Magazine",
             "link": "https://www.plusonline.nl/schildklieraandoeningen/judith-ik-was-zo-boos-dat-mijn-lijf-me-in-de-steek-liet",
             "publishedDate": "16/11/2026 06:15",
@@ -1602,17 +1628,6 @@
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ambulancezorg/nieuws/extra-werk-cao-ambulancezorg-vervolg-2026-11-13/",
             "publishedDate": "13/11/2026 11:12",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
