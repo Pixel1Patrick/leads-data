@@ -73,26 +73,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Beantwoording Kamervragen van het lid Van Meetelen (PVV) over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
                     "publishedDate": "17/11/2026 12:30"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
-            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-            "publishedDate": "17/11/2026 12:29",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+                    "publishedDate": "17/11/2026 12:29"
+                },
                 {
                     "title": "antwoorden op de vragen van het lid Moinat PVV over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
                     "source": "open.overheid.nl",
@@ -573,41 +567,28 @@
             "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
             "link": "https://huisartsvandaag.nl/het-verwijsrecht-jeugdhulp-wordt-voor-huisartsen-niet-ingeperkt/",
             "publishedDate": "17/11/2026 06:06",
-            "source": "denederlandseggz.nl, ggznieuws.nl, huisartsvandaag.nl, medischcontact.nl",
+            "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 7,
-            "extra_bronnen": [
-                {
-                    "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
-                    "source": "medischcontact.nl",
-                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
-                    "publishedDate": "16/11/2026 16:58"
-                },
-                {
-                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
-                    "source": "ggznieuws.nl",
-                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
-                    "publishedDate": "16/11/2026 16:54"
-                },
-                {
-                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 14:19"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Artsen halen darmen uit lichaam om tumor van 10 kilo te verwijderen | Overige - Drimble",
             "link": "https://drimble.nl/dossiers/overige/108621380/artsen-halen-darmen-uit-lichaam-om-tumor-van-10-kilo-te-verwijderen.html",
             "publishedDate": "17/11/2026 05:48",
-            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, nos.nl, omroepbrabant.nl, telegraaf.nl, welingelichtekringen.nl",
+            "source": "ad.nl, bd.nl, bnr.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, nos.nl, omroepbrabant.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 12,
+            "duplicate_count": 14,
             "extra_bronnen": [
+                {
+                    "title": "Hoe een tumor van ruim 10 kilo succesvol is verwijderd: 'Dit is grensverleggend'",
+                    "source": "volkskrant.nl",
+                    "link": "https://www.volkskrant.nl/binnenland/hoe-een-tumor-van-ruim-10-kilo-succesvol-is-verwijderd-dit-is-grensverleggend~b346df73/",
+                    "publishedDate": "17/11/2026 03:01"
+                },
                 {
                     "title": "Ziekenhuis in Groningen verlost man van 10 kilo zware tumor - Nieuws.nl",
                     "source": "nieuws.nl",
@@ -685,17 +666,6 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Hoe een tumor van ruim 10 kilo succesvol is verwijderd: 'Dit is grensverleggend'",
-            "link": "https://www.volkskrant.nl/binnenland/hoe-een-tumor-van-ruim-10-kilo-succesvol-is-verwijderd-dit-is-grensverleggend~b346df73/",
-            "publishedDate": "17/11/2026 03:01",
-            "source": "volkskrant.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1118,28 +1088,16 @@
             "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
             "link": "https://www.at5.nl/artikelen/241075/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
             "publishedDate": "16/11/2026 18:36",
-            "source": "amsterdam.nl, amsterdamsdagblad.nl, at5.nl, nhnieuws.nl",
+            "source": "at5.nl, nhnieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
                     "source": "nhnieuws.nl",
                     "link": "https://www.nhnieuws.nl/nieuws/365515/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
                     "publishedDate": "16/11/2026 18:34"
-                },
-                {
-                    "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
-                    "source": "amsterdamsdagblad.nl",
-                    "link": "https://www.amsterdamsdagblad.nl/gemeente/jeugdhulp-in-amsterdam-meer-thuis-op-school-en-in-de-buurt",
-                    "publishedDate": "16/11/2026 16:48"
-                },
-                {
-                    "title": "Jeugdhulp in Amsterdam verandert: meer thuis, op school en in de buurt",
-                    "source": "amsterdam.nl",
-                    "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
-                    "publishedDate": "16/11/2026 16:24"
                 }
             ],
             "belangrijkheid": 0
@@ -1255,6 +1213,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
+            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
+            "publishedDate": "16/11/2026 16:58",
+            "source": "denederlandseggz.nl, ggznieuws.nl, medischcontact.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
+                    "publishedDate": "16/11/2026 16:54"
+                },
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 14:19"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Procesregisseur Polikliniek Zuidwester (Gehandicaptenzorg) in Middelharnis - ZeelandNet",
             "link": "https://www.zeelandnet.nl/vacaturebank/zorg-en-welzijn/procesregisseur-polikliniek-zuidwester-gehandicaptenzorg",
             "publishedDate": "16/11/2026 16:53",
@@ -1274,6 +1256,24 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
+            "link": "https://www.amsterdamsdagblad.nl/gemeente/jeugdhulp-in-amsterdam-meer-thuis-op-school-en-in-de-buurt",
+            "publishedDate": "16/11/2026 16:48",
+            "source": "amsterdam.nl, amsterdamsdagblad.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jeugdhulp in Amsterdam verandert: meer thuis, op school en in de buurt",
+                    "source": "amsterdam.nl",
+                    "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
+                    "publishedDate": "16/11/2026 16:24"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
