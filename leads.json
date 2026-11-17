@@ -38,7 +38,7 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Leefgroepbegeleider Line (49) maakt eigen podcast over kinderen en bijzondere jeugdzorg",
@@ -49,6 +49,24 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
+            "link": "https://www.vgn.nl/nieuws/rivm-nederland-schiet-tekort-bevorderen-gelijke-kansen-voor-mensen-met-een-beperking",
+            "publishedDate": "17/11/2026 14:45",
+            "source": "rivm.nl, vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
+                    "publishedDate": "16/11/2026 16:09"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -117,24 +135,17 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Huisarts (50) veroordeeld nadat hij na middag wodka drinken woning binnenrijdt, rechter is ...",
             "link": "https://kw.be/nieuws/criminaliteit/rechtbank/huisarts-50-veroordeeld-nadat-hij-na-middag-wodka-drinken-woning-binnenrijdt-rechter-is-misnoegd-ronduit-schandalig/",
             "publishedDate": "17/11/2026 13:44",
-            "source": "kw.be, nieuwsblad.be",
+            "source": "kw.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Huisarts (50) rijdt na middag wodka drinken woning binnen, rechter reageert misnoegd",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/binnenland/huisarts-50-rijdt-na-middag-wodka-drinken-woning-binnen-rechter-reageert-misnoegd-ronduit-schandalig/164599618.html",
-                    "publishedDate": "17/11/2026 10:21"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -190,7 +201,7 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Isra\u00eblische ziekenhuizen niet voorbereid op een nieuwe oorlog met Iran, 'We hebben geen ...",
@@ -349,16 +360,22 @@
             "title": "Artsen halen tumor van 10,3 kilo uit buik van Ronald (68): 'Voelde mij even een proefkonijn'",
             "link": "https://www.destentor.nl/gezond/artsen-halen-tumor-van-10-3-kilo-uit-buik-van-ronald-68-voelde-mij-even-een-proefkonijn~a9fbc3ee/",
             "publishedDate": "17/11/2026 12:26",
-            "source": "ad.nl, bd.nl, bnr.nl, destentor.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, omroepbrabant.nl, telegraaf.nl, welingelichtekringen.nl",
+            "source": "ad.nl, bd.nl, bnr.nl, destentor.nl, drimble.nl, nieuws.nl, nieuws.umcg.nl, nieuwsblad.be, nos.nl, omroepbrabant.nl, telegraaf.nl, volkskrant.nl, welingelichtekringen.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 12,
+            "duplicate_count": 15,
             "extra_bronnen": [
                 {
                     "title": "Artsen halen darmen uit lichaam om tumor van 10 kilo te verwijderen | Overige - Drimble",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/dossiers/overige/108621380/artsen-halen-darmen-uit-lichaam-om-tumor-van-10-kilo-te-verwijderen.html",
                     "publishedDate": "17/11/2026 05:48"
+                },
+                {
+                    "title": "Hoe een tumor van ruim 10 kilo succesvol is verwijderd: 'Dit is grensverleggend'",
+                    "source": "volkskrant.nl",
+                    "link": "https://www.volkskrant.nl/binnenland/hoe-een-tumor-van-ruim-10-kilo-succesvol-is-verwijderd-dit-is-grensverleggend~b346df73/",
+                    "publishedDate": "17/11/2026 03:01"
                 },
                 {
                     "title": "Ziekenhuis in Groningen verlost man van 10 kilo zware tumor - Nieuws.nl",
@@ -409,6 +426,12 @@
                     "publishedDate": "16/11/2026 17:17"
                 },
                 {
+                    "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
+                    "publishedDate": "16/11/2026 17:35"
+                },
+                {
                     "title": "Primeur: Groningse chirurgen verwijderen tumor van 10 kilo, darmen urenlang buiten lichaam - BNR",
                     "source": "bnr.nl",
                     "link": "https://www.bnr.nl/nieuws/lifestyle/10615724/primeur-groningse-chirurgen-verwijderen-tumor-van-10-kilo-darmen-urenlang-buiten-lichaam",
@@ -438,34 +461,16 @@
             "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
             "publishedDate": "17/11/2026 12:20",
-            "source": "denederlandseggz.nl, ggznieuws.nl, huisartsvandaag.nl, medischcontact.nl",
+            "source": "medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 7,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
                     "source": "medischcontact.nl",
                     "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
                     "publishedDate": "16/11/2026 16:58"
-                },
-                {
-                    "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
-                    "source": "huisartsvandaag.nl",
-                    "link": "https://huisartsvandaag.nl/het-verwijsrecht-jeugdhulp-wordt-voor-huisartsen-niet-ingeperkt/",
-                    "publishedDate": "17/11/2026 06:06"
-                },
-                {
-                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
-                    "source": "ggznieuws.nl",
-                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
-                    "publishedDate": "16/11/2026 16:54"
-                },
-                {
-                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 13:54"
                 }
             ],
             "belangrijkheid": 1
@@ -656,6 +661,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Huisarts (50) rijdt na middag wodka drinken woning binnen, rechter reageert misnoegd",
+            "link": "https://www.nieuwsblad.be/binnenland/huisarts-50-rijdt-na-middag-wodka-drinken-woning-binnen-rechter-reageert-misnoegd-ronduit-schandalig/164599618.html",
+            "publishedDate": "17/11/2026 10:21",
+            "source": "nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Wielklemmen voor personeel Amphia ziekenhuis: de teller staat op \u00e9\u00e9n - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035027/wielklemmen-voor-personeel-amphia-ziekenhuis-de-teller-staat-op-een",
             "publishedDate": "17/11/2026 10:21",
@@ -670,16 +686,22 @@
             "title": "Mysterie opgelost: daarom kleurt een afdeling van het Gelre Ziekenhuis paars | Regio - AD",
             "link": "https://www.ad.nl/apeldoorn/mysterie-opgelost-daarom-kleurt-een-afdeling-van-het-gelre-ziekenhuis-paars~ad7690be/",
             "publishedDate": "17/11/2026 10:05",
-            "source": "ad.nl, indebuurt.nl",
+            "source": "ad.nl, indebuurt.nl, tubantia.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Mysterie opgelost: daarom kleurt een afdeling van het Gelre Ziekenhuis paars - Indebuurt",
                     "source": "indebuurt.nl",
                     "link": "https://indebuurt.nl/apeldoorn/mysterie-opgelost-daarom-kleurt-een-afdeling-van-het-gelre-ziekenhuis-paars~ad7690be/",
                     "publishedDate": "17/11/2026 07:08"
+                },
+                {
+                    "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
+                    "publishedDate": "17/11/2026 10:04"
                 }
             ],
             "belangrijkheid": 0
@@ -691,17 +713,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
-            "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
-            "publishedDate": "17/11/2026 10:04",
-            "source": "tubantia.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -960,6 +971,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
+            "link": "https://huisartsvandaag.nl/het-verwijsrecht-jeugdhulp-wordt-voor-huisartsen-niet-ingeperkt/",
+            "publishedDate": "17/11/2026 06:06",
+            "source": "huisartsvandaag.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Gemeentelijke uitgaven aan jeugdzorg - Nederlandse Zorgautoriteit",
             "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026/gebruik-en-financien/kosten-van-de-jeugdzorg/gemeentelijke-uitgaven-aan-jeugdzorg",
             "publishedDate": "17/11/2026 05:05",
@@ -978,17 +1000,6 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Hoe een tumor van ruim 10 kilo succesvol is verwijderd: 'Dit is grensverleggend'",
-            "link": "https://www.volkskrant.nl/binnenland/hoe-een-tumor-van-ruim-10-kilo-succesvol-is-verwijderd-dit-is-grensverleggend~b346df73/",
-            "publishedDate": "17/11/2026 03:01",
-            "source": "volkskrant.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1019,7 +1030,7 @@
                     "publishedDate": "16/11/2026 21:04"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bijzondere donatie van familie Kassing ter ere van 100-jarig jubileum - Bunniks Nieuws",
@@ -1107,7 +1118,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "VIDEO. 95-jarige man in ziekenhuis opgenomen na woningbrand in Turnhout | Nieuwsblad",
@@ -1414,17 +1425,6 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man - NOS",
-            "link": "https://nos.nl/artikel/2639668-nederlandse-chirurgen-halen-tumor-van-ruim-10-kilo-uit-buik-van-man",
-            "publishedDate": "16/11/2026 17:35",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1436,7 +1436,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Vol verwachting klopt ons hart bij Cello in Rosmalen! - De Bossche Omroep",
@@ -1448,6 +1448,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
+            "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
+            "publishedDate": "16/11/2026 16:54",
+            "source": "denederlandseggz.nl, ggznieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 13:54"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Procesregisseur Polikliniek Zuidwester (Gehandicaptenzorg) in Middelharnis - ZeelandNet",
@@ -1602,17 +1620,6 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
-            "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
-            "publishedDate": "16/11/2026 16:09",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
