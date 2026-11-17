@@ -9,7 +9,18 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "UMC Utrecht en Emiel Kwekkeboom winnen landelijke SBB-prijzen - MBO-today",
+            "link": "https://mbo-today.nl/umc-utrecht-en-emiel-kwekkeboom-winnen-landelijke-sbb-prijzen/",
+            "publishedDate": "17/11/2026 07:58",
+            "source": "mbo-today.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
@@ -20,7 +31,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
@@ -152,7 +163,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Nationale Zorgautoriteit ziet zorgwekkende ontwikkeling in \u00b4verdringing\u00b4 van zware ... - Drimble",
@@ -264,24 +275,11 @@
             "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - ANP Persportaal",
             "link": "https://persportaal.anp.nl/artikel/5b98fb0e-9625-446a-a727-151d7cdc0a96/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2000-per-jaar",
             "publishedDate": "16/11/2026 23:27",
-            "source": "persportaal.anp.nl, sittard-geleen.nieuws.nl, zorgwijzer.nl",
+            "source": "persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Van de goedkoopste naar de grootste stijger: deze zorgverzekering wordt 15% duurder",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/van-de-goedkoopste-naar-de-grootste-stijger-deze-zorgverzekering-wordt-15-procent-duurder",
-                    "publishedDate": "16/11/2026 11:27"
-                },
-                {
-                    "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
-                    "source": "sittard-geleen.nieuws.nl",
-                    "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
-                    "publishedDate": "16/11/2026 06:56"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -584,16 +582,20 @@
             "source": "nza.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
-                    "source": "nza.nl",
-                    "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
-                    "publishedDate": "16/11/2026 19:42"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Stand van de jeugdzorg 2026 - Nederlandse Zorgautoriteit",
+            "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026",
+            "publishedDate": "16/11/2026 19:42",
+            "source": "nza.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Man verdient 2000 euro minder dan collega's die zelfde werk doen, krijgt gelijk na klacht",
@@ -634,7 +636,7 @@
                     "publishedDate": "16/11/2026 15:56"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Shaping Interfaces Between Science and the Public - Universiteit van Amsterdam",
@@ -651,11 +653,18 @@
             "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen ingehuldigd in Zellik - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/nieuws/eerste-7-tesla-mri-scanner-in-vlaanderen-ingehuldigd-in-zellik/164647884.html",
             "publishedDate": "16/11/2026 19:05",
-            "source": "nieuwsblad.be",
+            "source": "nieuwsblad.be, press.vub.ac.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
+                    "source": "press.vub.ac.be",
+                    "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
+                    "publishedDate": "16/11/2026 17:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -684,11 +693,18 @@
             "title": "Minder tijd in ziekenhuis, meer nood aan steun: \u201cAlegria wil mensen met kanker en hun ...",
             "link": "https://www.nieuwsblad.be/regio/antwerpen/kempen/turnhout/minder-tijd-in-ziekenhuis-meer-nood-aan-steun-alegria-wil-mensen-met-kanker-en-hun-naasten-veerkracht-geven/163613902.html",
             "publishedDate": "16/11/2026 18:51",
-            "source": "nieuwsblad.be",
+            "source": "gva.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
+                    "publishedDate": "16/11/2026 13:16"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -837,17 +853,6 @@
             "source": "ggz.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Eerste 7 Tesla MRI-scanner in Vlaanderen opent nieuwe mogelijkheden voor medisch onderzoek",
-            "link": "https://press.vub.ac.be/eerste-7-tesla-mri-scanner-in-vlaanderen-opent-nieuwe-mogelijkheden-voor-medisch-onderzoek",
-            "publishedDate": "16/11/2026 17:45",
-            "source": "press.vub.ac.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1255,17 +1260,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
-            "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
-            "publishedDate": "16/11/2026 13:16",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nieuwe expositie Kunst in Zuid - Stedendriehoek",
             "link": "https://www.stedendriehoek.nl/apeldoorn/algemeen/nieuwe-expositie-kunst-in-zuid-4/",
             "publishedDate": "16/11/2026 13:02",
@@ -1376,6 +1370,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Van de goedkoopste naar de grootste stijger: deze zorgverzekering wordt 15% duurder",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/van-de-goedkoopste-naar-de-grootste-stijger-deze-zorgverzekering-wordt-15-procent-duurder",
+            "publishedDate": "16/11/2026 11:27",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Voor meer dan een miljard dollar: Gentenaars nemen ontdekkers van peptiden over",
             "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/voor-meer-dan-een-miljard-dollar-gentenaars-nemen-ontdekkers-van-peptiden-over/164499017.html",
             "publishedDate": "16/11/2026 10:48",
@@ -1406,7 +1411,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Hoppen van bank naar bank of slapen bij vrienden: Oosterhout wil dakloze jongeren helpen",
@@ -1483,6 +1488,24 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Grote zorgverzekeraars hebben premies voor 2027 bekend gemaakt - Sittard-Geleen.nieuws.nl",
+            "link": "https://sittard-geleen.nieuws.nl/gezondheid/grote-zorgverzekeraars-hebben-premies-voor-2027-bekend-gemaakt",
+            "publishedDate": "16/11/2026 06:56",
+            "source": "cnv.nl, sittard-geleen.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
+                    "publishedDate": "13/11/2026 10:06"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1595,17 +1618,6 @@
             "title": "[CNV] Extra werk cao Ambulancezorg: vervolg",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ambulancezorg/nieuws/extra-werk-cao-ambulancezorg-vervolg-2026-11-13/",
             "publishedDate": "13/11/2026 11:12",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Zorgpremies voor 2027 bekend: zorgverzekering wordt duurder",
-            "link": "https://www.cnv.nl/nieuws/zorgpremies-voor-2027-bekend-zorgverzekering-wordt-duurder/",
-            "publishedDate": "13/11/2026 10:06",
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
