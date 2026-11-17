@@ -20,7 +20,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
@@ -783,7 +783,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Nexperia-eigenaar verzet zich tegen uitspraak Ondernemingskamer Amsterdam - BNR",
@@ -1100,18 +1100,11 @@
             "title": "Deze artsen verwijderen de prostaat met een nieuwe techniek: einde aan erectieproblemen ...",
             "link": "https://www.parool.nl/nederland/deze-artsen-verwijderen-de-prostaat-met-een-nieuwe-techniek-einde-aan-erectieproblemen-en-urineverlies~b80a0b2f/",
             "publishedDate": "16/11/2026 16:26",
-            "source": "jeroenboschziekenhuis.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
-                    "source": "jeroenboschziekenhuis.nl",
-                    "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
-                    "publishedDate": "16/11/2026 15:51"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1143,6 +1136,17 @@
             "source": "sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
+            "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
+            "publishedDate": "16/11/2026 15:51",
+            "source": "jeroenboschziekenhuis.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
