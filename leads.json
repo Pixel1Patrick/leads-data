@@ -77,17 +77,24 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Huisarts (50) veroordeeld nadat hij na middag wodka drinken woning binnenrijdt, rechter is ...",
             "link": "https://kw.be/nieuws/criminaliteit/rechtbank/huisarts-50-veroordeeld-nadat-hij-na-middag-wodka-drinken-woning-binnenrijdt-rechter-is-misnoegd-ronduit-schandalig/",
             "publishedDate": "17/11/2026 13:44",
-            "source": "kw.be",
+            "source": "kw.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Huisarts (50) rijdt na middag wodka drinken woning binnen, rechter reageert misnoegd",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/binnenland/huisarts-50-rijdt-na-middag-wodka-drinken-woning-binnen-rechter-reageert-misnoegd-ronduit-schandalig/164599618.html",
+                    "publishedDate": "17/11/2026 10:21"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -364,7 +371,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Geef gepromoveerde verpleegkundigen de ruimte om de zorg te vernieuwen - UMC Utrecht",
@@ -381,19 +388,37 @@
             "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
             "publishedDate": "17/11/2026 12:20",
-            "source": "medischcontact.nl",
+            "source": "denederlandseggz.nl, ggznieuws.nl, huisartsvandaag.nl, medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
                     "source": "medischcontact.nl",
                     "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
                     "publishedDate": "16/11/2026 16:58"
+                },
+                {
+                    "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
+                    "source": "huisartsvandaag.nl",
+                    "link": "https://huisartsvandaag.nl/het-verwijsrecht-jeugdhulp-wordt-voor-huisartsen-niet-ingeperkt/",
+                    "publishedDate": "17/11/2026 06:06"
+                },
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
+                    "publishedDate": "16/11/2026 16:54"
+                },
+                {
+                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 13:54"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "KIK-V-analyses brengen knelpunten bij zorgaanbieders in beeld - ICT&amp;health",
@@ -566,22 +591,18 @@
             "title": "Minder tijd in ziekenhuis, meer nood aan steun: \u201cAlegria wil mensen met kanker en hun ...",
             "link": "https://www.nieuwsblad.be/regio/antwerpen/kempen/turnhout/minder-tijd-in-ziekenhuis-meer-nood-aan-steun-alegria-wil-mensen-met-kanker-en-hun-naasten-veerkracht-geven/163613902.html",
             "publishedDate": "17/11/2026 10:24",
-            "source": "nieuwsblad.be",
+            "source": "gva.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Huisarts (50) rijdt na middag wodka drinken woning binnen, rechter reageert misnoegd",
-            "link": "https://www.nieuwsblad.be/binnenland/huisarts-50-rijdt-na-middag-wodka-drinken-woning-binnen-rechter-reageert-misnoegd-ronduit-schandalig/164599618.html",
-            "publishedDate": "17/11/2026 10:21",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
+                    "publishedDate": "16/11/2026 13:16"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -884,17 +905,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
-            "link": "https://huisartsvandaag.nl/het-verwijsrecht-jeugdhulp-wordt-voor-huisartsen-niet-ingeperkt/",
-            "publishedDate": "17/11/2026 06:06",
-            "source": "huisartsvandaag.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Gemeentelijke uitgaven aan jeugdzorg - Nederlandse Zorgautoriteit",
             "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026/gebruik-en-financien/kosten-van-de-jeugdzorg/gemeentelijke-uitgaven-aan-jeugdzorg",
             "publishedDate": "17/11/2026 05:05",
@@ -1139,11 +1149,18 @@
             "title": "VVI: Verkeersslachtoffers aan hun lot overgelaten; fonds dringend nodig - Starnieuws",
             "link": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94893",
             "publishedDate": "16/11/2026 21:29",
-            "source": "starnieuws.com",
+            "source": "starnieuws.com, sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "VVI pleit voor slachtofferfonds na 89 verkeersdoden in 2026 - Sun News Suriname",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/vvi-pleit-voor-slachtofferfonds-na-89-verkeersdoden-in-2026?id=46171",
+                    "publishedDate": "16/11/2026 15:52"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1374,24 +1391,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
-            "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
-            "publishedDate": "16/11/2026 16:54",
-            "source": "denederlandseggz.nl, ggznieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 13:54"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Procesregisseur Polikliniek Zuidwester (Gehandicaptenzorg) in Middelharnis - ZeelandNet",
             "link": "https://www.zeelandnet.nl/vacaturebank/zorg-en-welzijn/procesregisseur-polikliniek-zuidwester-gehandicaptenzorg",
             "publishedDate": "16/11/2026 16:53",
@@ -1560,17 +1559,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "VVI pleit voor slachtofferfonds na 89 verkeersdoden in 2026 - Sun News Suriname",
-            "link": "https://sun.sr/nieuws/lokaal/vvi-pleit-voor-slachtofferfonds-na-89-verkeersdoden-in-2026?id=46171",
-            "publishedDate": "16/11/2026 15:52",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ikazia zet VR-bril in om kinderen af te leiden op de SEH | ICT&amp;health",
             "link": "https://www.icthealth.nl/nieuws/ikazia-zet-vr-bril-in-om-kinderen-af-te-leiden-op-de-seh",
             "publishedDate": "16/11/2026 15:47",
@@ -1679,17 +1667,6 @@
             "source": "icthealth.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "\u201cAlegria wil mensen met kanker en hun naasten veerkrachtiger maken\u201d | GVA",
-            "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/alegria-wil-mensen-met-kanker-en-hun-naasten-veerkrachtiger-maken/163520523.html",
-            "publishedDate": "16/11/2026 13:16",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
