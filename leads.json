@@ -332,22 +332,17 @@
             "title": "Auto tegen boom op N65 bij Haaren - Oisterwijk Nieuws",
             "link": "https://www.oisterwijknieuws.nl/2026/11/auto-tegen-boom-op-n65-bij-haaren-oisterwijk/",
             "publishedDate": "17/11/2026 14:47",
-            "source": "oisterwijknieuws.nl",
+            "source": "oisterwijknieuws.nl, rivm.nl, vgn.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
-            "link": "https://www.vgn.nl/nieuws/rivm-nederland-schiet-tekort-bevorderen-gelijke-kansen-voor-mensen-met-een-beperking",
-            "publishedDate": "17/11/2026 14:45",
-            "source": "rivm.nl, vgn.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "VGN Nieuws",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
+                    "source": "vgn.nl",
+                    "link": "https://www.vgn.nl/nieuws/rivm-nederland-schiet-tekort-bevorderen-gelijke-kansen-voor-mensen-met-een-beperking",
+                    "publishedDate": "17/11/2026 14:45"
+                },
                 {
                     "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
                     "source": "rivm.nl",
@@ -383,10 +378,10 @@
             "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
             "link": "https://www.amsterdam.nl/bestuur-organisatie/college/wethouder/esmah-lahlah/persberichten-nieuws-esmah-lahlah/jeugdhulp-amsterdam-thuis-school-buurt/",
             "publishedDate": "17/11/2026 14:20",
-            "source": "amsterdam.nl, amsterdamsdagblad.nl",
+            "source": "amsterdam.nl, amsterdamsdagblad.nl, at5.nl, nhnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
@@ -399,6 +394,18 @@
                     "source": "amsterdam.nl",
                     "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
                     "publishedDate": "16/11/2026 16:24"
+                },
+                {
+                    "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
+                    "source": "at5.nl",
+                    "link": "https://www.at5.nl/artikelen/241075/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
+                    "publishedDate": "16/11/2026 18:36"
+                },
+                {
+                    "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
+                    "source": "nhnieuws.nl",
+                    "link": "https://www.nhnieuws.nl/nieuws/365515/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
+                    "publishedDate": "16/11/2026 18:34"
                 }
             ],
             "belangrijkheid": 0
@@ -743,26 +750,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Beantwoording Kamervragen van het lid Van Meetelen (PVV) over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
                     "publishedDate": "17/11/2026 12:30"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
-            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-            "publishedDate": "17/11/2026 12:29",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+                    "publishedDate": "17/11/2026 12:29"
+                },
                 {
                     "title": "antwoorden op de vragen van het lid Moinat PVV over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
                     "source": "open.overheid.nl",
@@ -1574,24 +1575,6 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
-            "link": "https://www.at5.nl/artikelen/241075/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
-            "publishedDate": "16/11/2026 18:36",
-            "source": "at5.nl, nhnieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
-                    "source": "nhnieuws.nl",
-                    "link": "https://www.nhnieuws.nl/nieuws/365515/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
-                    "publishedDate": "16/11/2026 18:34"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
