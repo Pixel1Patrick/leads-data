@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "[Langdurige zorg] Zorgaanbieders en zorgkantoren bereiken overeenstemming over contractering 2027",
+            "link": "https://www.zn.nl/actueel/zorgaanbieders-en-zorgkantoren-bereiken-overeenstemming-over-contractering-2027/",
+            "publishedDate": "17/11/2026 12:12",
+            "source": "zn.nl",
+            "category": "Overig",
+            "feed_label": "ZN",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Besluit van de Inspecteur-Generaal van de Inspectie Gezondheidszorg en Jeugd van 5 november 2026, kenmerk DT26-030, houdende de verlening van ondermandaat en ondervolmacht aan functionarissen van de Inspectie Gezondheidszorg en Jeugd",
             "link": "https://open.overheid.nl/details/oep-ob-2c18ae84531cf61cebf8ad6a47d7a1417562d525_189",
             "publishedDate": "17/11/2026 11:31",
@@ -20,7 +31,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Parkeren bij ziekenhuizen zou gratis moeten zijn | Nieuws | De Gelderlander.nl",
@@ -75,7 +86,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "LUMC-coassistent Berkan Yildiz: 'Preventie is het opbouwen van bewustzijn over gezondheid'",
@@ -125,22 +136,16 @@
             "title": "Mysterie opgelost: daarom kleurt een afdeling van het Gelre Ziekenhuis paars | Regio - AD",
             "link": "https://www.ad.nl/apeldoorn/mysterie-opgelost-daarom-kleurt-een-afdeling-van-het-gelre-ziekenhuis-paars~ad7690be/",
             "publishedDate": "17/11/2026 10:05",
-            "source": "ad.nl, indebuurt.nl, tubantia.nl",
+            "source": "ad.nl, indebuurt.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Mysterie opgelost: daarom kleurt een afdeling van het Gelre Ziekenhuis paars - Indebuurt",
                     "source": "indebuurt.nl",
                     "link": "https://indebuurt.nl/apeldoorn/mysterie-opgelost-daarom-kleurt-een-afdeling-van-het-gelre-ziekenhuis-paars~ad7690be/",
                     "publishedDate": "17/11/2026 07:08"
-                },
-                {
-                    "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
-                    "publishedDate": "17/11/2026 10:04"
                 }
             ],
             "belangrijkheid": 0
@@ -152,6 +157,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Mysterie opgelost: daarom kleurt het MST Enschede vandaag paars | Regio | Tubantia.nl",
+            "link": "https://www.tubantia.nl/enschede/mysterie-opgelost-daarom-kleurt-het-mst-enschede-vandaag-paars~a6984164/",
+            "publishedDate": "17/11/2026 10:04",
+            "source": "tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -431,12 +447,31 @@
             "title": "Het verwijsrecht jeugdhulp wordt voor huisartsen niet ingeperkt - Huisartsvandaag.nl",
             "link": "https://huisartsvandaag.nl/het-verwijsrecht-jeugdhulp-wordt-voor-huisartsen-niet-ingeperkt/",
             "publishedDate": "17/11/2026 06:06",
-            "source": "huisartsvandaag.nl",
+            "source": "denederlandseggz.nl, ggznieuws.nl, huisartsvandaag.nl, medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 7,
+            "extra_bronnen": [
+                {
+                    "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
+                    "source": "medischcontact.nl",
+                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
+                    "publishedDate": "16/11/2026 16:58"
+                },
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
+                    "publishedDate": "16/11/2026 16:54"
+                },
+                {
+                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 14:19"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Ziekenhuizen - Nationale Zorggids",
@@ -998,28 +1033,16 @@
             "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
             "link": "https://www.at5.nl/artikelen/241075/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
             "publishedDate": "16/11/2026 18:36",
-            "source": "amsterdam.nl, amsterdamsdagblad.nl, at5.nl, nhnieuws.nl",
+            "source": "at5.nl, nhnieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Met jeugdhulp dichter bij huis wil college dure specialistische zorgtrajecten verminderen",
                     "source": "nhnieuws.nl",
                     "link": "https://www.nhnieuws.nl/nieuws/365515/met-jeugdhulp-dichter-bij-huis-wil-college-dure-specialistische-zorgtrajecten-verminderen",
                     "publishedDate": "16/11/2026 18:34"
-                },
-                {
-                    "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
-                    "source": "amsterdamsdagblad.nl",
-                    "link": "https://www.amsterdamsdagblad.nl/gemeente/jeugdhulp-in-amsterdam-meer-thuis-op-school-en-in-de-buurt",
-                    "publishedDate": "16/11/2026 16:48"
-                },
-                {
-                    "title": "Jeugdhulp in Amsterdam verandert: meer thuis, op school en in de buurt",
-                    "source": "amsterdam.nl",
-                    "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
-                    "publishedDate": "16/11/2026 16:24"
                 }
             ],
             "belangrijkheid": 0
@@ -1146,30 +1169,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Toch geen inperking van verwijsrecht naar jeugdhulp door artsen | medischcontact",
-            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-naar-jeugdhulp-door-artsen",
-            "publishedDate": "16/11/2026 16:58",
-            "source": "denederlandseggz.nl, ggznieuws.nl, medischcontact.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - - GGZ Nieuws",
-                    "source": "ggznieuws.nl",
-                    "link": "https://www.ggznieuws.nl/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
-                    "publishedDate": "16/11/2026 16:54"
-                },
-                {
-                    "title": "Medische verwijsroute naar jeugdhulp blijft behouden - De Nederlandse GGZ",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 14:19"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Procesregisseur Polikliniek Zuidwester (Gehandicaptenzorg) in Middelharnis - ZeelandNet",
             "link": "https://www.zeelandnet.nl/vacaturebank/zorg-en-welzijn/procesregisseur-polikliniek-zuidwester-gehandicaptenzorg",
             "publishedDate": "16/11/2026 16:53",
@@ -1189,6 +1188,24 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
+            "link": "https://www.amsterdamsdagblad.nl/gemeente/jeugdhulp-in-amsterdam-meer-thuis-op-school-en-in-de-buurt",
+            "publishedDate": "16/11/2026 16:48",
+            "source": "amsterdam.nl, amsterdamsdagblad.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Jeugdhulp in Amsterdam verandert: meer thuis, op school en in de buurt",
+                    "source": "amsterdam.nl",
+                    "link": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/jeugdhulp-amsterdam-verandert/",
+                    "publishedDate": "16/11/2026 16:24"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1231,48 +1248,33 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
                     "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+                    "publishedDate": "16/11/2026 16:33"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
