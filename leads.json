@@ -115,7 +115,7 @@
                     "publishedDate": "16/11/2026 09:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "WHO waarschuwt: medicijnresistentie kan 39 miljoen levens kosten - Starnieuws",
@@ -348,7 +348,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Outlook-storing stuurt vier hotelgasten naar ziekenhuis - TechPulse",
@@ -467,63 +467,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 10,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Wet van 4 november 2026 tot wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Miljoenennota)",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/oep-4e3b7ae6a3078b907ad95fea4e5aae9d6c28e5a9_87",
                     "publishedDate": "16/11/2026 17:50"
-                },
-                {
-                    "title": "Besluit van de Inspecteur-Generaal van de Inspectie Gezondheidszorg en Jeugd van 5 november 2026, kenmerk DT26-030, houdende de verlening van ondermandaat en ondervolmacht aan functionarissen van de Inspectie Gezondheidszorg en Jeugd",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/oep-ob-2c18ae84531cf61cebf8ad6a47d7a1417562d525_35",
-                    "publishedDate": "16/11/2026 19:35"
-                },
-                {
-                    "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_111",
-                    "publishedDate": "16/11/2026 18:53"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/e84ea5ed-aff9-4525-8856-dd2e79dd5359",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Toezegging vergelijking rechten van jongeren en ouderen op grond van voor hen geldende wetgeving",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/a2453ac0-1f02-4d9c-a1ae-f2c87fbaaac1",
-                    "publishedDate": "16/11/2026 15:21"
-                },
-                {
-                    "title": "Kamerbrief over Toezegging vergelijking rechten van jongeren en ouderen op grond van voor hen geldende wetgeving",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/6cc90c50-876e-43dd-875f-7e13decd36e5",
-                    "publishedDate": "16/11/2026 15:21"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/3b029135-4016-419d-ac19-88a9300ec44f",
-                    "publishedDate": "16/11/2026 14:58"
-                },
-                {
-                    "title": "Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9a0939ee-ef98-4b34-bb92-5e761bc02541",
-                    "publishedDate": "16/11/2026 14:58"
                 }
             ],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Besluit van de Inspecteur-Generaal van de Inspectie Gezondheidszorg en Jeugd van 5 november 2026, kenmerk DT26-030, houdende de verlening van ondermandaat en ondervolmacht aan functionarissen van de Inspectie Gezondheidszorg en Jeugd",
+            "link": "https://open.overheid.nl/details/oep-ob-2c18ae84531cf61cebf8ad6a47d7a1417562d525_35",
+            "publishedDate": "16/11/2026 19:35",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -610,6 +573,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Besluit van 10 november 2026, houdende vaststelling van het tijdstip van inwerkingtreding van het Besluit van 29 september 2026, houdende wijziging van een aantal algemene maatregelen van bestuur op het gebied van de Wet op de beroepen in de individuele gezondheidszorg (Verzamelbesluit Wet BIG) (Stb. 2026, 302)",
+            "link": "https://open.overheid.nl/details/oep-69bcba14d02b08398df6e9c2b833cec8fb60461d_111",
+            "publishedDate": "16/11/2026 18:53",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Minister Frank Vandenbroucke (Vooruit) bezoekt Neonatale Intensieve Zorg van AZ Sint-Jan Brugge",
@@ -792,7 +766,7 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Nardo van der Meer - PRO - Progressief Nederland",
@@ -969,36 +943,39 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
+            "link": "https://open.overheid.nl/details/e84ea5ed-aff9-4525-8856-dd2e79dd5359",
             "publishedDate": "16/11/2026 16:33",
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-            "publishedDate": "16/11/2026 16:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+                    "publishedDate": "16/11/2026 16:33"
+                },
+                {
+                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+                    "publishedDate": "16/11/2026 16:33"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1016,11 +993,18 @@
             "title": "Deze artsen verwijderen de prostaat met een nieuwe techniek: einde aan erectieproblemen ...",
             "link": "https://www.parool.nl/nederland/deze-artsen-verwijderen-de-prostaat-met-een-nieuwe-techniek-einde-aan-erectieproblemen-en-urineverlies~b80a0b2f/",
             "publishedDate": "16/11/2026 16:26",
-            "source": "parool.nl",
+            "source": "jeroenboschziekenhuis.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
+                    "source": "jeroenboschziekenhuis.nl",
+                    "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
+                    "publishedDate": "16/11/2026 15:51"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1041,17 +1025,6 @@
             "source": "sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "EMBRAZE-ziekenhuizen zetten nieuwe operatietechniek in bij prostaatkanker",
-            "link": "https://www.jeroenboschziekenhuis.nl/nieuws/embraze-ziekenhuizen-zetten-nieuwe-operatietechniek-in-bij-prostaatkanker",
-            "publishedDate": "16/11/2026 15:51",
-            "source": "jeroenboschziekenhuis.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1133,6 +1106,42 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Toezegging vergelijking rechten van jongeren en ouderen op grond van voor hen geldende wetgeving",
+            "link": "https://open.overheid.nl/details/a2453ac0-1f02-4d9c-a1ae-f2c87fbaaac1",
+            "publishedDate": "16/11/2026 15:21",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Toezegging vergelijking rechten van jongeren en ouderen op grond van voor hen geldende wetgeving",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/6cc90c50-876e-43dd-875f-7e13decd36e5",
+                    "publishedDate": "16/11/2026 15:21"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
+            "link": "https://open.overheid.nl/details/3b029135-4016-419d-ac19-88a9300ec44f",
+            "publishedDate": "16/11/2026 14:58",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Voorhangbrief inzake aanpassingen ten behoeve van de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen in 2023 en 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9a0939ee-ef98-4b34-bb92-5e761bc02541",
+                    "publishedDate": "16/11/2026 14:58"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1386,7 +1395,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kunstgewricht geen perfecte oplossing - Seniorenjournaal",
