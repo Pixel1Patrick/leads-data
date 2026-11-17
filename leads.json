@@ -66,18 +66,11 @@
             "title": "Zes bedrijven in Limburg failliet waaronder een reparatiebedrijf, een beachclub en ... - De Limburger",
             "link": "https://www.limburger.nl/economie/zes-bedrijven-in-limburg-failliet-waaronder-een-reparatiebedrijf-een-beachclub-en-een-zorgaanbieder/164684158.html",
             "publishedDate": "17/11/2026 21:37",
-            "source": "l1nieuws.nl, limburger.nl",
+            "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
-                    "source": "l1nieuws.nl",
-                    "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
-                    "publishedDate": "17/11/2026 14:49"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -86,8 +79,8 @@
             "publishedDate": "17/11/2026 21:16",
             "source": "artsenkrant.pmg.be",
             "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -100,6 +93,24 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Europees project moet pati\u00ebntenzorg bij cyberaanvallen veiligstellen - Healthcare Executive",
+            "link": "https://www.healthcare-executive.be/nl/nieuws/europees-project-moet-patientenzorg-bij-cyberaanvallen-veiligstellen.html",
+            "publishedDate": "17/11/2026 20:54",
+            "source": "despecialist.eu, healthcare-executive.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Europees project moet pati\u00ebntenzorg bij cyberaanvallen veiligstellen - De Specialist",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/europees-project-moet-patientenzorg-bij-cyberaanvallen-veiligstellen.html",
+                    "publishedDate": "17/11/2026 19:49"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -138,17 +149,6 @@
             "source": "volkskrant.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Europees project moet pati\u00ebntenzorg bij cyberaanvallen veiligstellen - De Specialist",
-            "link": "https://www.despecialist.eu/nl/nieuws/europees-project-moet-patientenzorg-bij-cyberaanvallen-veiligstellen.html",
-            "publishedDate": "17/11/2026 19:49",
-            "source": "despecialist.eu",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -555,17 +555,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "VVB brengt Zwartboek uit: golf taalklachten tegen Brusselse ziekenhuizen - PAL",
-            "link": "https://pal.be/2026/11/vvb-brengt-zwartboek-uit-golf-taalklachten-tegen-brusselse-ziekenhuizen/",
-            "publishedDate": "17/11/2026 15:50",
-            "source": "pal.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
             "publishedDate": "17/11/2026 15:47",
@@ -755,6 +744,17 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
+            "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
+            "publishedDate": "17/11/2026 14:49",
+            "source": "l1nieuws.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1286,7 +1286,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgdirecteur eerder in opspraak, nu miljoen rijker - RTV Oost",
