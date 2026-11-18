@@ -479,11 +479,30 @@
             "title": "Jessa Ziekenhuis waarschuwt in Hasselt voor COPD | TVL",
             "link": "https://www.tvl.be/nieuws/jessa-ziekenhuis-waarschuwt-heel-wat-limburgers-hebben-longziekte-copd-zonder-dat-ze-het-weten-184311",
             "publishedDate": "18/11/2026 16:13",
-            "source": "tvl.be",
+            "source": "gezondheidenwetenschap.be, nieuwsblad.be, rtv.be, tvl.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Het is wereld COPD-dag: activiteiten in Kempense en Mechelse ziekenhuizen brengen ... - RTV",
+                    "source": "rtv.be",
+                    "link": "https://www.rtv.be/actualiteit-actualiteit-en-nieuws/het-wereld-copd-dag-activiteiten-kempense-en-mechelse",
+                    "publishedDate": "18/11/2026 16:06"
+                },
+                {
+                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
+                    "publishedDate": "18/11/2026 14:29"
+                },
+                {
+                    "title": "Puffers bij COPD worden te vaak verkeerd gebruikt - Gezondheid en wetenschap",
+                    "source": "gezondheidenwetenschap.be",
+                    "link": "https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/puffers-bij-copd-worden-te-vaak-verkeerd-gebruikt",
+                    "publishedDate": "17/11/2026 19:34"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -504,17 +523,6 @@
             "source": "destadamersfoort.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Het is wereld COPD-dag: activiteiten in Kempense en Mechelse ziekenhuizen brengen ... - RTV",
-            "link": "https://www.rtv.be/actualiteit-actualiteit-en-nieuws/het-wereld-copd-dag-activiteiten-kempense-en-mechelse",
-            "publishedDate": "18/11/2026 16:06",
-            "source": "rtv.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -739,17 +747,6 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
-            "publishedDate": "18/11/2026 14:29",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1061,7 +1058,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
@@ -1184,16 +1181,34 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "noordhollandsdagblad.nl, stadindex.nl",
+            "source": "drimble.nl, noordhollandsdagblad.nl, omroepbrabant.nl, stadindex.nl, westlanders.nu",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
                     "source": "stadindex.nl",
                     "link": "https://www.stadindex.nl/alkmaar/3631250-grote-partij-illegale-afslankmiddelen-in-beslag-genomen-drie-verdachten-opgepakt",
                     "publishedDate": "18/11/2026 09:19"
+                },
+                {
+                    "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
+                    "source": "westlanders.nu",
+                    "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
+                    "publishedDate": "18/11/2026 08:01"
+                },
+                {
+                    "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
+                    "publishedDate": "18/11/2026 02:08"
+                },
+                {
+                    "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
+                    "publishedDate": "17/11/2026 19:32"
                 }
             ],
             "belangrijkheid": 0
@@ -1265,17 +1280,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
-            "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
-            "publishedDate": "18/11/2026 08:01",
-            "source": "westlanders.nu",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "NZa pleit voor meer standaardisatie bij inkoop jeugdzorg - InkopersCafe.nl",
             "link": "https://www.inkoperscafe.nl/nza-pleit-voor-meer-standaardisatie-bij-inkoop-jeugdzorg",
             "publishedDate": "18/11/2026 06:05",
@@ -1326,17 +1330,6 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
-            "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
-            "publishedDate": "18/11/2026 02:08",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1496,34 +1489,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Puffers bij COPD worden te vaak verkeerd gebruikt - Gezondheid en wetenschap",
-            "link": "https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/puffers-bij-copd-worden-te-vaak-verkeerd-gebruikt",
-            "publishedDate": "17/11/2026 19:34",
-            "source": "gezondheidenwetenschap.be",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gemeente trekt drie miljoen euro uit voor Ouder- en Kindteams - WeesperNieuws",
             "link": "https://www.weespernieuws.nl/zorg-gezondheid/zorg-gezondheid/382992/gemeente-trekt-drie-miljoen-euro-uit-voor-ouder-en-kindteams",
             "publishedDate": "17/11/2026 19:32",
             "source": "weespernieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
-            "publishedDate": "17/11/2026 19:32",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
