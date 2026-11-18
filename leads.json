@@ -48,40 +48,16 @@
             "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
             "publishedDate": "17/11/2026 22:18",
-            "source": "keuze.nl, linda.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
+            "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 7,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Deze 5 zorgverzekeraars stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
                     "source": "zorgwijzer.nl",
                     "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-5-zorgverzekeraars-stijgen-het-meest-in-prijs-per-1-januari-2027",
                     "publishedDate": "17/11/2026 13:16"
-                },
-                {
-                    "title": "Top 5 goedkoopste zorgverzekeringen van 2027 op een rij - Energie vergelijken",
-                    "source": "keuze.nl",
-                    "link": "https://www.keuze.nl/nieuws/goedkoopste-zorgverzekeringen-2027",
-                    "publishedDate": "17/11/2026 15:13"
-                },
-                {
-                    "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
-                    "publishedDate": "17/11/2026 15:03"
-                },
-                {
-                    "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
-                    "source": "linda.nl",
-                    "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
-                    "publishedDate": "17/11/2026 14:58"
-                },
-                {
-                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
-                    "source": "overstappen.nl",
-                    "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
-                    "publishedDate": "17/11/2026 13:04"
                 }
             ],
             "belangrijkheid": 1
@@ -112,18 +88,11 @@
             "title": "Zes bedrijven in Limburg failliet waaronder een reparatiebedrijf, een beachclub en ... - De Limburger",
             "link": "https://www.limburger.nl/economie/zes-bedrijven-in-limburg-failliet-waaronder-een-reparatiebedrijf-een-beachclub-en-een-zorgaanbieder/164684158.html",
             "publishedDate": "17/11/2026 21:37",
-            "source": "l1nieuws.nl, limburger.nl",
+            "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
-                    "source": "l1nieuws.nl",
-                    "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
-                    "publishedDate": "17/11/2026 14:49"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -699,12 +668,34 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Top 5 goedkoopste zorgverzekeringen van 2027 op een rij - Energie vergelijken",
+            "link": "https://www.keuze.nl/nieuws/goedkoopste-zorgverzekeringen-2027",
+            "publishedDate": "17/11/2026 15:13",
+            "source": "keuze.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Starter van de week: Marleen start groepspraktijk in Stokkem - Made in",
             "link": "https://www.made-in.be/limburg/starter-van-de-week-marleen-start-groepspraktijk-in-stokkem/",
             "publishedDate": "17/11/2026 15:12",
             "source": "made-in.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
+            "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
+            "publishedDate": "17/11/2026 15:03",
+            "source": "metronieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -728,6 +719,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
+            "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
+            "publishedDate": "17/11/2026 14:58",
+            "source": "linda.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
             "publishedDate": "17/11/2026 14:53",
@@ -745,6 +747,17 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
+            "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
+            "publishedDate": "17/11/2026 14:49",
+            "source": "l1nieuws.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -900,6 +913,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
+            "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
+            "publishedDate": "17/11/2026 13:04",
+            "source": "overstappen.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Meer begrip voor het sterfbed | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/boeken-en-films/media-en-cultuur/meer-begrip-voor-het-sterfbed",
             "publishedDate": "17/11/2026 13:04",
@@ -919,7 +943,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Besluit van de Inspecteur-Generaal van de Inspectie Gezondheidszorg en Jeugd van 5 november 2026, kenmerk DT26-030, houdende de verlening van ondermandaat en ondervolmacht aan functionarissen van de Inspectie Gezondheidszorg en Jeugd",
@@ -1092,7 +1116,7 @@
                     "publishedDate": "16/11/2026 13:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "KIK-V-analyses brengen knelpunten bij zorgaanbieders in beeld - ICT&amp;health",
@@ -1390,28 +1414,6 @@
             "source": "bunniksnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "WHO: Toekomstbestendige zorg vraagt om betere samenwerking - ICT&amp;health",
-            "link": "https://www.icthealth.nl/nieuws/who-toekomstbestendige-zorg-vraagt-om-betere-samenwerking",
-            "publishedDate": "17/11/2026 00:18",
-            "source": "icthealth.nl",
-            "category": "Overig",
-            "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "WHO waarschuwt: medicijnresistentie kan 39 miljoen levens kosten - Starnieuws",
-            "link": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94894",
-            "publishedDate": "16/11/2026 23:44",
-            "source": "starnieuws.com",
-            "category": "Overig",
-            "feed_label": "Alert eerstelijnszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
