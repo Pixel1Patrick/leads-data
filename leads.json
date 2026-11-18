@@ -18,41 +18,25 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
-            "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
-            "publishedDate": "18/11/2026 19:08",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
+            "title": "Verzekerden Zilveren Kruis kunnen volgend jaar pas terecht bij Alrijne ziekenhuis",
+            "link": "https://fd.nl/samenleving/1620004/verzekerden-zilveren-kruis-kunnen-volgend-jaar-pas-terecht-bij-alrijne-ziekenhuis",
+            "publishedDate": "18/11/2026 19:17",
+            "source": "ad.nl, bndestem.nl, fd.nl, gooieneemlander.nl, leidschdagblad.nl, nieuws.nl, noordhollandsdagblad.nl, reddit.com, rtlboulevard.nl, rtlz.nl",
+            "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
-            "link": "https://www.bndestem.nl/zeeland/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
-            "publishedDate": "18/11/2026 19:03",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
-            "link": "http://www.rtlz.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
-            "publishedDate": "18/11/2026 18:45",
-            "source": "ad.nl, bndestem.nl, gooieneemlander.nl, leidschdagblad.nl, nieuws.nl, noordhollandsdagblad.nl, reddit.com, rtlboulevard.nl, rtlz.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 15,
+            "duplicate_count": 16,
             "extra_bronnen": [
+                {
+                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+                    "source": "rtlz.nl",
+                    "link": "http://www.rtlz.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
+                    "publishedDate": "18/11/2026 18:45"
+                },
                 {
                     "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
                     "source": "rtlboulevard.nl",
@@ -123,6 +107,63 @@
             "belangrijkheid": 1
         },
         {
+            "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
+            "publishedDate": "18/11/2026 19:08",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
+            "link": "https://www.bndestem.nl/zeeland/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
+            "publishedDate": "18/11/2026 19:03",
+            "source": "bndestem.nl, hvzeeland.nl, omroepzeeland.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Stoomvorming in ziekenhuis Goes, ADRZ gedeeltelijk ontruimd - HVZeeland",
+                    "source": "hvzeeland.nl",
+                    "link": "https://www.hvzeeland.nl/nieuws/70935-stoomvorming-in-ziekenhuis-goes-adrz-gedeeltelijk-ontruimd/",
+                    "publishedDate": "18/11/2026 17:46"
+                },
+                {
+                    "title": "Klein deel van ziekenhuis Goes ontruimd nadat brandalarmen afgingen - Omroep Zeeland",
+                    "source": "omroepzeeland.nl",
+                    "link": "https://www.omroepzeeland.nl/nieuws/18960105/klein-deel-van-ziekenhuis-goes-ontruimd-nadat-brandalarmen-afgingen",
+                    "publishedDate": "18/11/2026 17:19"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Vrouw en vier kinderen gewond bij ernstig ongeluk Landgraaf, slachtoffers naar het ziekenhuis",
+            "link": "https://www.limburger.nl/regio/landgraaf/vrouw-en-vier-kinderen-gewond-bij-ernstig-ongeluk-landgraaf-slachtoffers-naar-het-ziekenhuis/164733243.html",
+            "publishedDate": "18/11/2026 18:59",
+            "source": "limburger.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
+            "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
+            "publishedDate": "18/11/2026 18:35",
+            "source": "nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Iris Kranenburg: 'Twee nieuwe bouillons zetten Eindhoven op scherp' - Entree Magazine",
             "link": "https://www.entreemagazine.nl/columns/iris-kranenburg-twee-nieuwe-bouillons-zetten-eindhoven-op-scherp",
             "publishedDate": "18/11/2026 18:34",
@@ -181,16 +222,22 @@
             "title": "Sterilisatie in Overijssel: huisarts goedkoopst, ziekenhuis duurst - De Stadskoerier",
             "link": "https://www.destadskoerier.nl/nieuws/nieuws/379506/sterilisatie-in-overijssel-huisarts-goedkoopst-ziekenhuis-duurst-qvc189",
             "publishedDate": "18/11/2026 18:10",
-            "source": "dekopvan.nl, destadskoerier.nl",
+            "source": "dekopvan.nl, destadskoerier.nl, salland1.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Sterilisatie in Overijssel: huisarts goedkoopst, ziekenhuis duurst - Nieuwsbode De Kop",
                     "source": "dekopvan.nl",
                     "link": "https://www.dekopvan.nl/nieuws/nieuws/379507/sterilisatie-in-overijssel-huisarts-goedkoopst-ziekenhuis-duurst-zx2a92",
                     "publishedDate": "18/11/2026 12:16"
+                },
+                {
+                    "title": "Kosten sterilisatie bij mannen verschilt flink per zorgverlener - Salland1",
+                    "source": "salland1.nl",
+                    "link": "https://www.salland1.nl/kosten-sterilisatie-bij-mannen-verschilt-flink-per-zorgverlener/",
+                    "publishedDate": "18/11/2026 12:24"
                 }
             ],
             "belangrijkheid": 0
@@ -229,6 +276,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Nederlander (65) rijdt voetganger aan in Polen en vlucht | De Telegraaf",
+            "link": "https://www.telegraaf.nl/binnenland/nederlander-65-rijdt-voetganger-aan-in-polen-en-gaat-ervandoor-slachtoffer-ernstig-gewond-in-ziekenhuis/164711174.html",
+            "publishedDate": "18/11/2026 17:57",
+            "source": "telegraaf.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Wethouder Molema vraagt Rijk om hulp bij aanpak crackverslaving | OOG Groningen",
             "link": "https://www.oogtv.nl/2026/11/wethouder-molema-vraagt-rijk-om-hulp-bij-aanpak-crackverslaving/",
             "publishedDate": "18/11/2026 17:46",
@@ -254,24 +312,11 @@
             "title": "Aantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk - BNR",
             "link": "https://www.bnr.nl/nieuws/internationaal/10615829/aantal-dodelijke-medicijnresistente-infecties-in-europese-ziekenhuizen-stijgt-sterk",
             "publishedDate": "18/11/2026 17:42",
-            "source": "bnr.nl, metronieuws.nl, rivm.nl",
+            "source": "bnr.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
-                    "publishedDate": "18/11/2026 13:31"
-                },
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -303,17 +348,6 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Klein deel van ziekenhuis Goes ontruimd nadat brandalarmen afgingen - Omroep Zeeland",
-            "link": "https://www.omroepzeeland.nl/nieuws/18960105/klein-deel-van-ziekenhuis-goes-ontruimd-nadat-brandalarmen-afgingen",
-            "publishedDate": "18/11/2026 17:19",
-            "source": "omroepzeeland.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -491,6 +525,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zorgen om tante koning Felipe houden aan: Infanta Margarita nog steeds in ziekenhuis",
+            "link": "https://www.weekend-online.nl/buitenland/zorgen-om-tante-koning-felipe-houden-aan-infanta-margarita-nog-steeds-in-ziekenhuis/",
+            "publishedDate": "18/11/2026 16:21",
+            "source": "weekend-online.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Vrouw neergeschoten docent richt zich tot Erasmusschutter: 'Je kon geen arts worden ...",
             "link": "https://www.ad.nl/rotterdam/vrouw-neergeschoten-docent-richt-zich-tot-erasmusschutter-je-kon-geen-arts-worden-daarvoor-heb-jij-bewijs-geleverd~a8e10e39/",
             "publishedDate": "18/11/2026 16:16",
@@ -535,17 +580,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jessa Ziekenhuis waarschuwt in Hasselt voor COPD | TVL",
-            "link": "https://www.tvl.be/nieuws/jessa-ziekenhuis-waarschuwt-heel-wat-limburgers-hebben-longziekte-copd-zonder-dat-ze-het-weten-184311",
-            "publishedDate": "18/11/2026 16:13",
-            "source": "tvl.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zes zorgorganisaties bundelen opleidingen ouderenzorg | Amstelveen - Drimble",
             "link": "https://drimble.nl/regio/noord-holland/amstelveen/108631432/zes-zorgorganisaties-bundelen-opleidingen-ouderenzorg.html",
             "publishedDate": "18/11/2026 16:12",
@@ -579,17 +613,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Dankzij Westlandse Ride rustiger MRI-onderzoek in ziekenhuis - WOS",
-            "link": "https://wos.nl/nieuws/artikel/dankzij-westlandse-ride-rustiger-mri-onderzoek-in-ziekenhuis",
-            "publishedDate": "18/11/2026 16:02",
-            "source": "wos.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "'Ik ben mijn maatje en grote liefde verloren': weduwe spreekt Erasmusschutter toe",
             "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5665788/weduwe-erasmusschutter-100-procent-verantwoordelijk",
             "publishedDate": "18/11/2026 15:54",
@@ -606,18 +629,7 @@
             "publishedDate": "18/11/2026 15:53",
             "source": "debunschoter-online.nl",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Vrijdag alweer op de bank? Vincent Kompany staat voor terugkeer in thuiswedstrijd van ...",
-            "link": "https://sporza.be/nl/2026/10/25/vrijdag-alweer-op-de-bank-vincent-kompany-staat-voor-terugkeer-in-thuiswedstrijd-van-bayern-tegen-fc-keulen~1792954619695/",
-            "publishedDate": "18/11/2026 15:49",
-            "source": "sporza.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
+            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -626,11 +638,18 @@
             "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
             "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
             "publishedDate": "18/11/2026 15:41",
-            "source": "nos.nl",
+            "source": "actueel365.nl, nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
+                    "source": "actueel365.nl",
+                    "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
+                    "publishedDate": "18/11/2026 14:48"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -735,17 +754,6 @@
             "source": "thuisarts.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
-            "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
-            "publishedDate": "18/11/2026 14:48",
-            "source": "actueel365.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -930,6 +938,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
+            "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
+            "publishedDate": "18/11/2026 13:31",
+            "source": "metronieuws.nl, rivm.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+                    "publishedDate": "17/11/2026 10:57"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Principes - NIW",
             "link": "https://niw.nl/principes/",
             "publishedDate": "18/11/2026 13:18",
@@ -999,17 +1025,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Kosten sterilisatie bij mannen verschilt flink per zorgverlener - Salland1",
-            "link": "https://www.salland1.nl/kosten-sterilisatie-bij-mannen-verschilt-flink-per-zorgverlener/",
-            "publishedDate": "18/11/2026 12:24",
-            "source": "salland1.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zorgverzekeraars verhogen korting bij jaarbetaling - VerzekeringsNieuws",
             "link": "https://www.verzekeringsnieuws.nl/artikel/130545-zorgverzekeraars-verhogen-korting-bij-jaarbetaling",
             "publishedDate": "18/11/2026 12:23",
@@ -1049,9 +1064,9 @@
             "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Brochure Dementie in taal en beeld",
@@ -1091,7 +1106,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
@@ -1285,6 +1300,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "&quot;De familie is stikjaloers, maar ze keken nooit om naar haar&quot;: buurman (42) erft 4 miljoen ...",
+            "link": "https://www.pzc.nl/gent/de-familie-is-stikjaloers-maar-ze-keken-nooit-om-naar-haar-buurman-42-erft-4-miljoen-euro-van-vrouw-met-dementie-maar-staat-nu-voor-rechter~a47e880d/",
+            "publishedDate": "18/11/2026 09:08",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zo houd je je gebit gezond, mondhygi\u00ebnist geeft tips: 'Voorzichtig poetsen, stevig rageren'",
             "link": "https://www.ad.nl/gezond/zo-houd-je-je-gebit-gezond-mondhygienist-geeft-tips-voorzichtig-poetsen-stevig-rageren~a8be2aad/",
             "publishedDate": "18/11/2026 08:48",
@@ -1395,17 +1421,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "kosten het eten, drinken en parkeren echt zoveel? En waarom? - De Gelderlander",
-            "link": "https://www.gelderlander.nl/gezond/oh-oh-wat-is-een-ziekenhuisbezoek-toch-duur-kosten-het-eten-drinken-en-parkeren-echt-zoveel-en-waarom~a74f707f/",
-            "publishedDate": "18/11/2026 00:01",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Bijzondere donatie van familie Kassing ter ere van 100-jarig jubileum - Wijks Nieuws",
             "link": "https://www.wijksnieuws.nl/lokaal/maatschappelijk/1328448/bijzondere-donatie-van-familie-kassing-ter-ere-van-100-jarig-",
             "publishedDate": "17/11/2026 22:46",
@@ -1461,17 +1476,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Na hyperbare zuurstoftherapie:\u201cMijn klachten zijn niet terug gekomen\u201d",
-            "link": "https://www.halsterse-zuidwestkrant.nl/nieuws/algemeen/35410/na-hyperbare-zuurstoftherapie-mijn-klachten-zijn-niet-terug-g",
-            "publishedDate": "17/11/2026 21:34",
-            "source": "halsterse-zuidwestkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gennez: minder vrijheidsbeperkende maatregelen in psychiatrie blijft doel - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2647E02/EAKbe2647S26_00",
             "publishedDate": "17/11/2026 21:16",
@@ -1490,17 +1494,6 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 3,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Doktersassistent bij Huisartsenpraktijk Marsdijk in Assen - NVDA",
-            "link": "https://www.nvda.nl/vacatures/huisartsenpraktijk-marsdijk-assen-parttime-doktersassistent-bij-huisartsenpraktijk-marsdijk-in-assen/",
-            "publishedDate": "17/11/2026 20:54",
-            "source": "nvda.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1560,17 +1553,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "De onthulling van Radar was geen onthulling voor iedereen met twee goed werkende ogen en oren",
-            "link": "https://www.ed.nl/binnenland/de-onthulling-van-radar-was-geen-onthulling-voor-iedereen-met-twee-goed-werkende-ogen-en-oren~a2534468/",
-            "publishedDate": "17/11/2026 19:06",
-            "source": "ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
             "link": "https://www.vgn.nl/nieuws/rivm-nederland-schiet-tekort-bevorderen-gelijke-kansen-voor-mensen-met-een-beperking",
             "publishedDate": "17/11/2026 14:45",
@@ -1609,17 +1591,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Ronnie (17) is verslaafd en houdt hoofd boven water door jeugdzorg, maar zodra hij 18 ... - Drimble",
-            "link": "https://drimble.nl/binnenlands-nieuws/108619000/ronnie-17-is-verslaafd-en-houdt-hoofd-boven-water-door-jeugdzorg-maar-zodra-hij-18-wordt-stopt-alles-angst-dat-hij-dakloos.html",
-            "publishedDate": "17/11/2026 11:13",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
@@ -1718,7 +1689,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
