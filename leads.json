@@ -22,7 +22,7 @@
                     "publishedDate": "16/11/2026 13:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "NZa pleit voor meer standaardisatie bij inkoop jeugdzorg - InkopersCafe.nl",
@@ -156,12 +156,37 @@
             "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
             "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
             "publishedDate": "18/11/2026 00:19",
-            "source": "huisartsvandaag.nl",
+            "source": "huisartsvandaag.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
+                    "publishedDate": "17/11/2026 22:18"
+                },
+                {
+                    "title": "Deze 5 zorgverzekeraars stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-5-zorgverzekeraars-stijgen-het-meest-in-prijs-per-1-januari-2027",
+                    "publishedDate": "17/11/2026 13:16"
+                },
+                {
+                    "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
+                    "publishedDate": "17/11/2026 15:03"
+                },
+                {
+                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
+                    "source": "overstappen.nl",
+                    "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
+                    "publishedDate": "17/11/2026 13:04"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "kosten het eten, drinken en parkeren echt zoveel? En waarom? - De Gelderlander",
@@ -170,15 +195,8 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Lezers betalen 'schandalig hoge prijs' voor parkeren en broodje bij ziekenhuis - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/binnenland/lezers-betalen-schandalig-hoge-prijs-voor-parkeren-en-broodje-bij-ziekenhuis-ziek-zijn-is-al-duur-genoeg~afb4e393/",
-                    "publishedDate": "17/11/2026 18:34"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -212,24 +230,6 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
-            "publishedDate": "17/11/2026 22:18",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Deze 5 zorgverzekeraars stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-5-zorgverzekeraars-stijgen-het-meest-in-prijs-per-1-januari-2027",
-                    "publishedDate": "17/11/2026 13:16"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -269,18 +269,11 @@
             "title": "Zes bedrijven in Limburg failliet waaronder een reparatiebedrijf, een beachclub en ... - De Limburger",
             "link": "https://www.limburger.nl/economie/zes-bedrijven-in-limburg-failliet-waaronder-een-reparatiebedrijf-een-beachclub-en-een-zorgaanbieder/164684158.html",
             "publishedDate": "17/11/2026 21:37",
-            "source": "l1nieuws.nl, limburger.nl",
+            "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
-                    "source": "l1nieuws.nl",
-                    "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
-                    "publishedDate": "17/11/2026 14:49"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -487,6 +480,17 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Lezers betalen 'schandalig hoge prijs' voor parkeren en broodje bij ziekenhuis - De Gelderlander",
+            "link": "https://www.gelderlander.nl/binnenland/lezers-betalen-schandalig-hoge-prijs-voor-parkeren-en-broodje-bij-ziekenhuis-ziek-zijn-is-al-duur-genoeg~afb4e393/",
+            "publishedDate": "17/11/2026 18:34",
+            "source": "gelderlander.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -835,17 +839,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
-            "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
-            "publishedDate": "17/11/2026 15:03",
-            "source": "metronieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zorginstelling die vastgoed wil verkopen waar ouderen wonen, vindt rechter op de weg - Drimble",
             "link": "https://drimble.nl/binnenlands-nieuws/108626483/zorginstelling-die-vastgoed-wil-verkopen-waar-ouderen-wonen-vindt-rechter-op-de-weg-notaris-mag-statuten-niet-wijzigen.html",
             "publishedDate": "17/11/2026 15:02",
@@ -892,6 +885,17 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
+            "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
+            "publishedDate": "17/11/2026 14:49",
+            "source": "l1nieuws.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1031,17 +1035,6 @@
             "source": "medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
-            "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
-            "publishedDate": "17/11/2026 13:04",
-            "source": "overstappen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1376,7 +1369,7 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgdirecteur eerder in opspraak, nu miljoen rijker - RTV Oost",
@@ -1519,7 +1512,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
