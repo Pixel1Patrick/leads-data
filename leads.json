@@ -33,12 +33,19 @@
             "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
             "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
             "publishedDate": "18/11/2026 12:33",
-            "source": "redactie24.be",
+            "source": "pvda.be, redactie24.be",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
+                    "source": "pvda.be",
+                    "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
+                    "publishedDate": "18/11/2026 06:19"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
@@ -47,20 +54,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
                     "publishedDate": "18/11/2026 12:30"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-                    "publishedDate": "18/11/2026 12:26"
-                },
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
+            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+            "publishedDate": "18/11/2026 12:26",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
                     "source": "open.overheid.nl",
@@ -174,7 +187,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[NU'91] Hulpartikel - Elk uur telt: zo dienen jouw overuren vergoed te worden",
@@ -202,24 +215,11 @@
             "title": "Afscheid in mineur: Jasper De Buyst loopt sleutelbeenbreuk en inwendige bloeding op bij ...",
             "link": "https://www.demorgen.be/sport/afscheid-in-mineur-jasper-de-buyst-loopt-sleutelbeenbreuk-en-inwendige-bloeding-op-bij-val-op-openingsdag-zesdaagse-van-gent~b1d9b701/",
             "publishedDate": "18/11/2026 11:34",
-            "source": "demorgen.be, sporza.be, wielerflits.be",
+            "source": "demorgen.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Zesdaagse van Gent opgeschrikt door zware val Jasper De Buyst en Jules Hesters - Wielerflits",
-                    "source": "wielerflits.be",
-                    "link": "https://www.wielerflits.be/nieuws/zesdaagse-van-gent-opgeschrikt-door-zware-val-jasper-de-buyst-en-jules-hesters-openingsavond-vroegtijdig-stilgelegd/",
-                    "publishedDate": "18/11/2026 08:56"
-                },
-                {
-                    "title": "afscheidnemende De Buyst afgevoerd na zware val in ploegkoers - Sporza",
-                    "source": "sporza.be",
-                    "link": "https://sporza.be/nl/2026/11/13/openingsavond-zesdaagse-gent-vroegtijdig-stopgezet-afscheidnemende-de-buyst-afgevoerd-na-zware-val-in-ploegkoers~1794560094233/",
-                    "publishedDate": "18/11/2026 08:45"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -343,10 +343,10 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "ad.nl, drimble.nl, nieuws.feelgoodradio.nl, noordhollandsdagblad.nl, nos.nl, omroepbrabant.nl, stadindex.nl",
+            "source": "nieuws.feelgoodradio.nl, noordhollandsdagblad.nl, omroepbrabant.nl, stadindex.nl, westlanders.nu",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 8,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
@@ -355,16 +355,10 @@
                     "publishedDate": "18/11/2026 09:19"
                 },
                 {
-                    "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
-                    "publishedDate": "18/11/2026 02:08"
-                },
-                {
-                    "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
-                    "publishedDate": "17/11/2026 19:32"
+                    "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
+                    "source": "westlanders.nu",
+                    "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
+                    "publishedDate": "18/11/2026 08:01"
                 },
                 {
                     "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
@@ -373,22 +367,10 @@
                     "publishedDate": "17/11/2026 17:22"
                 },
                 {
-                    "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
-                    "publishedDate": "17/11/2026 16:02"
-                },
-                {
                     "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
                     "source": "omroepbrabant.nl",
                     "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
                     "publishedDate": "17/11/2026 15:47"
-                },
-                {
-                    "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
-                    "publishedDate": "17/11/2026 15:03"
                 }
             ],
             "belangrijkheid": 0
@@ -446,6 +428,24 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zesdaagse van Gent opgeschrikt door zware val Jasper De Buyst en Jules Hesters - Wielerflits",
+            "link": "https://www.wielerflits.be/nieuws/zesdaagse-van-gent-opgeschrikt-door-zware-val-jasper-de-buyst-en-jules-hesters-openingsavond-vroegtijdig-stilgelegd/",
+            "publishedDate": "18/11/2026 08:56",
+            "source": "sporza.be, wielerflits.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "afscheidnemende De Buyst afgevoerd na zware val in ploegkoers - Sporza",
+                    "source": "sporza.be",
+                    "link": "https://sporza.be/nl/2026/11/13/openingsavond-zesdaagse-gent-vroegtijdig-stopgezet-afscheidnemende-de-buyst-afgevoerd-na-zware-val-in-ploegkoers~1794560094233/",
+                    "publishedDate": "18/11/2026 08:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -526,17 +526,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
-            "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
-            "publishedDate": "18/11/2026 08:01",
-            "source": "westlanders.nu",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Succesvolle 'schrapdag' was leerzaam en verrassend voor aios | MedNet",
             "link": "https://www.mednet.nl/nieuws/succesvolle-schrapdag-was-leerzaam-en-verrassend-voor-aios-2/",
             "publishedDate": "18/11/2026 07:50",
@@ -555,17 +544,6 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
-            "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
-            "publishedDate": "18/11/2026 06:19",
-            "source": "pvda.be",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -644,6 +622,36 @@
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
+            "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
+            "publishedDate": "18/11/2026 02:08",
+            "source": "ad.nl, drimble.nl, nos.nl, omroepbrabant.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
+                    "publishedDate": "17/11/2026 19:32"
+                },
+                {
+                    "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
+                    "publishedDate": "17/11/2026 16:02"
+                },
+                {
+                    "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
+                    "publishedDate": "17/11/2026 15:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
