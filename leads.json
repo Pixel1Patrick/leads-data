@@ -179,7 +179,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "kosten het eten, drinken en parkeren echt zoveel? En waarom? - De Gelderlander",
@@ -188,15 +188,8 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Lezers betalen 'schandalig hoge prijs' voor parkeren en broodje bij ziekenhuis - De Gelderlander",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/binnenland/lezers-betalen-schandalig-hoge-prijs-voor-parkeren-en-broodje-bij-ziekenhuis-ziek-zijn-is-al-duur-genoeg~afb4e393/",
-                    "publishedDate": "17/11/2026 18:34"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -248,7 +241,7 @@
                     "publishedDate": "17/11/2026 13:16"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Man valt in sloot in Schiedam, is door ambulance naar ziekenhuis gebracht",
@@ -287,18 +280,11 @@
             "title": "Zes bedrijven in Limburg failliet waaronder een reparatiebedrijf, een beachclub en ... - De Limburger",
             "link": "https://www.limburger.nl/economie/zes-bedrijven-in-limburg-failliet-waaronder-een-reparatiebedrijf-een-beachclub-en-een-zorgaanbieder/164684158.html",
             "publishedDate": "17/11/2026 21:37",
-            "source": "l1nieuws.nl, limburger.nl",
+            "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
-                    "source": "l1nieuws.nl",
-                    "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
-                    "publishedDate": "17/11/2026 14:49"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -425,36 +411,11 @@
             "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
             "publishedDate": "17/11/2026 19:32",
-            "source": "ad.nl, nieuws.feelgoodradio.nl, nos.nl, omroepbrabant.nl",
+            "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
-                    "source": "nieuws.feelgoodradio.nl",
-                    "link": "https://nieuws.feelgoodradio.nl/4-en-65-jaar-cel-voor-uitvoerders-van-drugsapotheek/",
-                    "publishedDate": "17/11/2026 17:22"
-                },
-                {
-                    "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
-                    "publishedDate": "17/11/2026 16:02"
-                },
-                {
-                    "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
-                    "publishedDate": "17/11/2026 15:47"
-                },
-                {
-                    "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
-                    "publishedDate": "17/11/2026 15:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -505,6 +466,17 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Lezers betalen 'schandalig hoge prijs' voor parkeren en broodje bij ziekenhuis - De Gelderlander",
+            "link": "https://www.gelderlander.nl/binnenland/lezers-betalen-schandalig-hoge-prijs-voor-parkeren-en-broodje-bij-ziekenhuis-ziek-zijn-is-al-duur-genoeg~afb4e393/",
+            "publishedDate": "17/11/2026 18:34",
+            "source": "gelderlander.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -577,6 +549,17 @@
             "source": "rd.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
+            "link": "https://nieuws.feelgoodradio.nl/4-en-65-jaar-cel-voor-uitvoerders-van-drugsapotheek/",
+            "publishedDate": "17/11/2026 17:22",
+            "source": "nieuws.feelgoodradio.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -703,6 +686,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
+            "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
+            "publishedDate": "17/11/2026 16:02",
+            "source": "ad.nl, nos.nl, omroepbrabant.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
+                    "publishedDate": "17/11/2026 15:47"
+                },
+                {
+                    "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
+                    "publishedDate": "17/11/2026 15:03"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Campagne 'Gezondheid kan niet wachten' - DalfsenNet",
             "link": "https://www.dalfsennet.nl/nieuws/556782/campagne-gezondheid-kan-niet-wachten.html",
             "publishedDate": "17/11/2026 15:58",
@@ -768,18 +775,11 @@
             "title": "Raadsgesprekken 18 november 2026 - Gemeente Amstelveen",
             "link": "https://www.amstelveen.nl/raadsgesprekken-18-november-2026",
             "publishedDate": "17/11/2026 15:38",
-            "source": "ad.nl, amstelveen.nl",
+            "source": "amstelveen.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gemeenteraad Amstelveen bespreekt sekswerk, jeugdhulp en woningbouw | Regio | AD.nl",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/amstelveen/gemeenteraad-amstelveen-bespreekt-sekswerk-jeugdhulp-en-woningbouw~ac265ee7/",
-                    "publishedDate": "17/11/2026 14:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -868,7 +868,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorginstelling die vastgoed wil verkopen waar ouderen wonen, vindt rechter op de weg - Drimble",
@@ -917,6 +917,17 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
+            "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
+            "publishedDate": "17/11/2026 14:49",
+            "source": "l1nieuws.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1006,6 +1017,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Gemeenteraad Amstelveen bespreekt sekswerk, jeugdhulp en woningbouw | Regio | AD.nl",
+            "link": "https://www.ad.nl/amstelveen/gemeenteraad-amstelveen-bespreekt-sekswerk-jeugdhulp-en-woningbouw~ac265ee7/",
+            "publishedDate": "17/11/2026 14:07",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zorgverzekeraars lopen achter met contracteren ziekenhuizen - Consumentenbond",
             "link": "https://www.consumentenbond.nl/acties-claims/nieuws/2026/zorgverzekeraars-lopen-achter-met-contracteren-ziekenhuizen",
             "publishedDate": "17/11/2026 13:58",
@@ -1058,7 +1080,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Meer begrip voor het sterfbed | medischcontact",
@@ -1522,7 +1544,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
@@ -1542,33 +1564,48 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
                     "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-                    "publishedDate": "16/11/2026 16:33"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
