@@ -62,18 +62,11 @@
             "title": "Sterilisatie in Overijssel: huisarts goedkoopst, ziekenhuis duurst - Brugnieuws",
             "link": "https://www.brugnieuws.nl/nieuws/nieuws/379504/sterilisatie-in-overijssel-huisarts-goedkoopst-ziekenhuis-duurst",
             "publishedDate": "18/11/2026 15:40",
-            "source": "brugnieuws.nl, omroeplekstroom.nl",
+            "source": "brugnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Voor een prikkie onder het mes: sterilisatie in Nieuwegein \u00e9\u00e9n van goedkoopste opties in Utrecht",
-                    "source": "omroeplekstroom.nl",
-                    "link": "https://omroeplekstroom.nl/voor-een-prikkie-onder-het-mes-sterilisatie-in-nieuwegein-een-van-goedkoopste-opties-in-utrecht/",
-                    "publishedDate": "18/11/2026 08:05"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -374,24 +367,11 @@
             "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
             "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
             "publishedDate": "18/11/2026 12:19",
-            "source": "huisartsvandaag.nl, zorgwijzer.nl, zzp-nederland.nl",
+            "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Zorgpremies 2027 bekend: vergelijk en bespaar als zzp'er",
-                    "source": "zzp-nederland.nl",
-                    "link": "https://www.zzp-nederland.nl/nieuws/zorgpremies-2027-bekend-vergelijk-en-bespaar-als-zzper",
-                    "publishedDate": "18/11/2026 10:59"
-                },
-                {
-                    "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
-                    "publishedDate": "17/11/2026 22:18"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -485,6 +465,17 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgpremies 2027 bekend: vergelijk en bespaar als zzp'er",
+            "link": "https://www.zzp-nederland.nl/nieuws/zorgpremies-2027-bekend-vergelijk-en-bespaar-als-zzper",
+            "publishedDate": "18/11/2026 10:59",
+            "source": "zzp-nederland.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -682,6 +673,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Voor een prikkie onder het mes: sterilisatie in Nieuwegein \u00e9\u00e9n van goedkoopste opties in Utrecht",
+            "link": "https://omroeplekstroom.nl/voor-een-prikkie-onder-het-mes-sterilisatie-in-nieuwegein-een-van-goedkoopste-opties-in-utrecht/",
+            "publishedDate": "18/11/2026 08:05",
+            "source": "omroeplekstroom.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
             "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
             "publishedDate": "18/11/2026 08:01",
@@ -864,6 +866,17 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
+            "publishedDate": "17/11/2026 22:18",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
