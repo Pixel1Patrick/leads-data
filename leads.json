@@ -40,7 +40,7 @@
             "source": "huisartsvandaag.nl, keuze.nl, linda.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 8,
+            "duplicate_count": 9,
             "extra_bronnen": [
                 {
                     "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
@@ -71,6 +71,12 @@
                     "source": "linda.nl",
                     "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
                     "publishedDate": "17/11/2026 14:58"
+                },
+                {
+                    "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
+                    "publishedDate": "17/11/2026 14:53"
                 },
                 {
                     "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
@@ -236,7 +242,7 @@
                     "publishedDate": "17/11/2026 18:27"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Meldpunt Actueel: meer alcoholgerelateerde zorg, minder geld voor preventie",
@@ -334,7 +340,7 @@
                     "publishedDate": "17/11/2026 15:03"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Artsen keren zich tegen strafbaar stellen van vluchtelingen die terugkeer 'frustreren'",
@@ -345,7 +351,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De onthulling van Radar was geen onthulling voor iedereen met twee goed werkende ogen en oren",
@@ -746,18 +752,7 @@
                     "publishedDate": "17/11/2026 14:29"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
-            "publishedDate": "17/11/2026 14:53",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Leefgroepbegeleider Line (49) maakt eigen podcast over kinderen en bijzondere jeugdzorg",
@@ -797,7 +792,7 @@
                     "publishedDate": "16/11/2026 16:09"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Je wilt als flierefluiter niet naar een Europees land komen waar je de kans loopt om in Afrika ...",
@@ -885,7 +880,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Huisarts (50) veroordeeld nadat hij na middag wodka drinken woning binnenrijdt, rechter is ...",
@@ -1077,18 +1072,11 @@
             "title": "Artsen halen tumor van 10,3 kilo uit buik van Ronald (68): 'Voelde mij even een proefkonijn'",
             "link": "https://www.destentor.nl/gezond/artsen-halen-tumor-van-10-3-kilo-uit-buik-van-ronald-68-voelde-mij-even-een-proefkonijn~a9fbc3ee/",
             "publishedDate": "17/11/2026 12:26",
-            "source": "destentor.nl, drimble.nl",
+            "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Artsen halen darmen uit lichaam om tumor van 10 kilo te verwijderen | Overige - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/dossiers/overige/108621380/artsen-halen-darmen-uit-lichaam-om-tumor-van-10-kilo-te-verwijderen.html",
-                    "publishedDate": "17/11/2026 05:48"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1124,7 +1112,7 @@
                     "publishedDate": "16/11/2026 13:54"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "KIK-V-analyses brengen knelpunten bij zorgaanbieders in beeld - ICT&amp;health",
@@ -1398,6 +1386,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Artsen halen darmen uit lichaam om tumor van 10 kilo te verwijderen | Overige - Drimble",
+            "link": "https://drimble.nl/dossiers/overige/108621380/artsen-halen-darmen-uit-lichaam-om-tumor-van-10-kilo-te-verwijderen.html",
+            "publishedDate": "17/11/2026 05:48",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Gemeentelijke uitgaven aan jeugdzorg - Nederlandse Zorgautoriteit",
             "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026/gebruik-en-financien/kosten-van-de-jeugdzorg/gemeentelijke-uitgaven-aan-jeugdzorg",
             "publishedDate": "17/11/2026 05:05",
@@ -1450,7 +1449,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
@@ -1470,33 +1469,48 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Advies deskundigenberaad-zo\u00f6nosen HPAI",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
                     "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-                    "publishedDate": "16/11/2026 16:33"
-                },
-                {
-                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-                    "publishedDate": "16/11/2026 16:33"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Deelnemerslijst Deskundigenberaad Zoonose - Hoog pathogene aviare influenza in melkvee 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+            "publishedDate": "16/11/2026 16:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
