@@ -615,18 +615,11 @@
             "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
             "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
             "publishedDate": "18/11/2026 15:41",
-            "source": "actueel365.nl, nos.nl",
+            "source": "nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
-                    "source": "actueel365.nl",
-                    "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
-                    "publishedDate": "18/11/2026 14:48"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -736,6 +729,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
+            "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
+            "publishedDate": "18/11/2026 14:48",
+            "source": "actueel365.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Finnley (12) uit Wervershoof moet iedere tien dagen aan het infuus: zonder donoren geen ...",
             "link": "https://www.rodi.nl/opmeer/nieuws/512970/finnley-12-uit-wervershoof-moet-iedere-tien-dagen-aan-het-infuus-zonder-donoren-geen-medicijnen",
             "publishedDate": "18/11/2026 14:47",
@@ -823,19 +827,25 @@
             "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
             "link": "https://www.pvda.be/nieuws/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
             "publishedDate": "18/11/2026 14:08",
-            "source": "pvda.be",
+            "source": "pvda.be, redactie24.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 4,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
                     "source": "pvda.be",
                     "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
                     "publishedDate": "18/11/2026 06:19"
+                },
+                {
+                    "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
+                    "source": "redactie24.be",
+                    "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
+                    "publishedDate": "18/11/2026 12:33"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "In 2027 meer keuze bij gemeentelijke zorgverzekering | Capelle aan den IJssel",
@@ -918,18 +928,11 @@
             "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
             "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
             "publishedDate": "18/11/2026 13:31",
-            "source": "metronieuws.nl, rivm.nl",
+            "source": "metronieuws.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -953,17 +956,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
-            "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
-            "publishedDate": "18/11/2026 12:33",
-            "source": "redactie24.be",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Kosten sterilisatie bij mannen verschilt flink per zorgverlener - Salland1",
@@ -1018,7 +1010,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Brochure Dementie in taal en beeld",
@@ -1420,7 +1412,7 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Klimaatweek brengt inwoners in Aalsmeer en Kudelstaart samen",
@@ -1606,6 +1598,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+            "publishedDate": "17/11/2026 10:57",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/voorstel-zwarte-lijst-is-puur-paniekvoetbal",
             "publishedDate": "17/11/2026 10:00",
@@ -1702,7 +1705,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
