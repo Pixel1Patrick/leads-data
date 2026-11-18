@@ -188,7 +188,7 @@
                     "publishedDate": "17/11/2026 13:16"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Man valt in sloot in Schiedam, is door ambulance naar ziekenhuis gebracht",
@@ -361,7 +361,7 @@
             "source": "ad.nl, nieuws.feelgoodradio.nl, nos.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
@@ -374,6 +374,12 @@
                     "source": "nos.nl",
                     "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
                     "publishedDate": "17/11/2026 16:02"
+                },
+                {
+                    "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
+                    "publishedDate": "17/11/2026 15:47"
                 },
                 {
                     "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
@@ -685,17 +691,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
-            "publishedDate": "17/11/2026 15:47",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zes zorgorganisaties maken samen de stap naar de ouderenzorg makkelijker",
             "link": "https://www.haarlemmermeerdagblad.nl/regio/zes-zorgorganisaties-maken-samen-de-stap-naar-de-ouderenzorg-makkelijker",
             "publishedDate": "17/11/2026 15:45",
@@ -803,7 +798,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorginstelling die vastgoed wil verkopen waar ouderen wonen, vindt rechter op de weg - Drimble",
@@ -1026,7 +1021,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Meer begrip voor het sterfbed | medischcontact",
@@ -1197,11 +1192,18 @@
             "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
             "publishedDate": "17/11/2026 12:20",
-            "source": "medischcontact.nl",
+            "source": "denederlandseggz.nl, medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 13:54"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1637,17 +1639,6 @@
                     "publishedDate": "16/11/2026 14:58"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
-            "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-            "publishedDate": "16/11/2026 13:54",
-            "source": "denederlandseggz.nl",
-            "category": "Overig",
-            "feed_label": "Nederlandse ggz",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
