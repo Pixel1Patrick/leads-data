@@ -155,8 +155,15 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Lezers betalen 'schandalig hoge prijs' voor parkeren en broodje bij ziekenhuis - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/binnenland/lezers-betalen-schandalig-hoge-prijs-voor-parkeren-en-broodje-bij-ziekenhuis-ziek-zijn-is-al-duur-genoeg~afb4e393/",
+                    "publishedDate": "17/11/2026 18:34"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -251,16 +258,34 @@
             "title": "Onze reactie op de Stand van de Jeugdzorg 2026",
             "link": "https://www.jeugdzorgnederland.nl/actueel/onze-reactie-op-de-stand-van-de-jeugdzorg-2026/",
             "publishedDate": "17/11/2026 21:06",
-            "source": "jeugdzorgnederland.nl, nza.nl",
+            "source": "jeugdzorgnederland.nl, open.overheid.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
-                    "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg",
-                    "source": "nza.nl",
-                    "link": "https://www.nza.nl/actueel/nieuws/2026/11/16/nza-beter-inzicht-nodig-in-beschikbaarheid-van-jeugdzorg",
-                    "publishedDate": "16/11/2026 19:45"
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
+                    "publishedDate": "17/11/2026 12:30"
+                },
+                {
+                    "title": "Beantwoording Kamervragen van het lid Van Meetelen (PVV) over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
+                    "publishedDate": "17/11/2026 12:30"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+                    "publishedDate": "17/11/2026 12:29"
+                },
+                {
+                    "title": "antwoorden op de vragen van het lid Moinat PVV over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e4f6aea4-2ac2-497e-b365-46c582bbba49",
+                    "publishedDate": "17/11/2026 12:29"
                 }
             ],
             "belangrijkheid": 0
@@ -367,11 +392,36 @@
             "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
             "publishedDate": "17/11/2026 19:32",
-            "source": "omroepbrabant.nl",
+            "source": "ad.nl, nieuws.feelgoodradio.nl, nos.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
+                    "source": "nieuws.feelgoodradio.nl",
+                    "link": "https://nieuws.feelgoodradio.nl/4-en-65-jaar-cel-voor-uitvoerders-van-drugsapotheek/",
+                    "publishedDate": "17/11/2026 17:22"
+                },
+                {
+                    "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
+                    "publishedDate": "17/11/2026 16:02"
+                },
+                {
+                    "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
+                    "publishedDate": "17/11/2026 15:47"
+                },
+                {
+                    "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
+                    "publishedDate": "17/11/2026 15:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -422,17 +472,6 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Lezers betalen 'schandalig hoge prijs' voor parkeren en broodje bij ziekenhuis - De Gelderlander",
-            "link": "https://www.gelderlander.nl/binnenland/lezers-betalen-schandalig-hoge-prijs-voor-parkeren-en-broodje-bij-ziekenhuis-ziek-zijn-is-al-duur-genoeg~afb4e393/",
-            "publishedDate": "17/11/2026 18:34",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -505,17 +544,6 @@
             "source": "rd.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
-            "link": "https://nieuws.feelgoodradio.nl/4-en-65-jaar-cel-voor-uitvoerders-van-drugsapotheek/",
-            "publishedDate": "17/11/2026 17:22",
-            "source": "nieuws.feelgoodradio.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -642,17 +670,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
-            "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
-            "publishedDate": "17/11/2026 16:02",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Campagne 'Gezondheid kan niet wachten' - DalfsenNet",
             "link": "https://www.dalfsennet.nl/nieuws/556782/campagne-gezondheid-kan-niet-wachten.html",
             "publishedDate": "17/11/2026 15:58",
@@ -678,11 +695,18 @@
             "title": "Huisarts (50) met 2,25 promille richtte ravage aan in Brugge, rechter spelt hem de les - PZC",
             "link": "https://www.pzc.nl/brugge/huisarts-50-met-2-25-promille-richtte-ravage-aan-in-brugge-rechter-spelt-hem-de-les-je-zat-s-middags-al-aan-de-wodka-hoe-kan-dat~a223ad91/",
             "publishedDate": "17/11/2026 15:53",
-            "source": "pzc.nl",
+            "source": "kw.be, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Huisarts (50) veroordeeld nadat hij na middag wodka drinken woning binnenrijdt, rechter is ...",
+                    "source": "kw.be",
+                    "link": "https://kw.be/nieuws/criminaliteit/rechtbank/huisarts-50-veroordeeld-nadat-hij-na-middag-wodka-drinken-woning-binnenrijdt-rechter-is-misnoegd-ronduit-schandalig/",
+                    "publishedDate": "17/11/2026 13:44"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -692,17 +716,6 @@
             "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
-            "publishedDate": "17/11/2026 15:47",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -802,17 +815,6 @@
             "source": "made-in.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
-            "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
-            "publishedDate": "17/11/2026 15:03",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -972,17 +974,6 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Huisarts (50) veroordeeld nadat hij na middag wodka drinken woning binnenrijdt, rechter is ...",
-            "link": "https://kw.be/nieuws/criminaliteit/rechtbank/huisarts-50-veroordeeld-nadat-hij-na-middag-wodka-drinken-woning-binnenrijdt-rechter-is-misnoegd-ronduit-schandalig/",
-            "publishedDate": "17/11/2026 13:44",
-            "source": "kw.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1104,42 +1095,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
-            "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
-            "publishedDate": "17/11/2026 12:30",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beantwoording Kamervragen van het lid Van Meetelen (PVV) over het bericht \u2018Jeugdzorg hield opnieuw kinderen vast op een geheime locatie zonder toestemming van ouders of rechter\u2019",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
-                    "publishedDate": "17/11/2026 12:30"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
-            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-            "publishedDate": "17/11/2026 12:29",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "antwoorden op de vragen van het lid Moinat PVV over het bericht Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming van de rechter",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/e4f6aea4-2ac2-497e-b365-46c582bbba49",
-                    "publishedDate": "17/11/2026 12:29"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1496,6 +1451,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg",
+            "link": "https://www.nza.nl/actueel/nieuws/2026/11/16/nza-beter-inzicht-nodig-in-beschikbaarheid-van-jeugdzorg",
+            "publishedDate": "16/11/2026 19:45",
+            "source": "nza.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "NZa Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Agressie tegen huisartsen en assistenten: Medicamus spreekt pati\u00ebnten aan op ...",
             "link": "https://lokaleomroepzeewolde.nl/zeewolde-nieuws/regionieuws-uit-flevoland/agressie-tegen-huisartsen-en-assistenten-medicamus-spreekt-patienten-aan-op-grensoverschrijdend-gedrag",
             "publishedDate": "16/11/2026 19:02",
@@ -1515,7 +1481,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
