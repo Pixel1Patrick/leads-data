@@ -160,11 +160,18 @@
             "title": "Ziekenhuis Geel trapt op Wereld COPD-Dag voor meer bewustwording",
             "link": "https://antwerpspersbureau.be/ziekenhuis-geel-trapt-op-wereld-copd-dag-voor-meer-bewustwording/",
             "publishedDate": "18/11/2026 11:06",
-            "source": "antwerpspersbureau.be",
+            "source": "antwerpspersbureau.be, tvl.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jessa Ziekenhuis in Hasselt vraagt aandacht voor COPD | TVL",
+                    "source": "tvl.be",
+                    "link": "https://www.tvl.be/nieuws/jessa-ziekenhuis-vraagt-aandacht-voor-longziekte-copd-vroege-diagnose-maakt-verschil-voor-levenskwaliteit-184311",
+                    "publishedDate": "18/11/2026 08:46"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -255,28 +262,16 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "ad.nl, drimble.nl, igj.nl, nieuws.feelgoodradio.nl, noordhollandsdagblad.nl, nos.nl, omroepbrabant.nl, stadindex.nl, westlanders.nu",
+            "source": "ad.nl, igj.nl, nieuws.feelgoodradio.nl, noordhollandsdagblad.nl, nos.nl, omroepbrabant.nl, stadindex.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 10,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
                     "source": "stadindex.nl",
                     "link": "https://www.stadindex.nl/alkmaar/3631250-grote-partij-illegale-afslankmiddelen-in-beslag-genomen-drie-verdachten-opgepakt",
                     "publishedDate": "18/11/2026 09:19"
-                },
-                {
-                    "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
-                    "source": "westlanders.nu",
-                    "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
-                    "publishedDate": "18/11/2026 08:01"
-                },
-                {
-                    "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
-                    "publishedDate": "18/11/2026 02:08"
                 },
                 {
                     "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
@@ -406,17 +401,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jessa Ziekenhuis in Hasselt vraagt aandacht voor COPD | TVL",
-            "link": "https://www.tvl.be/nieuws/jessa-ziekenhuis-vraagt-aandacht-voor-longziekte-copd-vroege-diagnose-maakt-verschil-voor-levenskwaliteit-184311",
-            "publishedDate": "18/11/2026 08:46",
-            "source": "tvl.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Bellen Met Ellen: boek SinterMichiel! | Nieuws - KINK",
             "link": "https://kink.nl/nieuws/bellen-met-ellen-boek-sintermichiel",
             "publishedDate": "18/11/2026 08:36",
@@ -442,17 +426,11 @@
             "title": "Jeugdhulp blijft de medische verwijsroute behouden - Zorgkrant",
             "link": "https://www.zorgkrant.nl/jeugdzorg/21683-jeugdhulp-blijft-de-medische-verwijsroute-behouden",
             "publishedDate": "18/11/2026 08:06",
-            "source": "denederlandseggz.nl, medischcontact.nl, zorgkrant.nl",
+            "source": "denederlandseggz.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
-                {
-                    "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
-                    "source": "medischcontact.nl",
-                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
-                    "publishedDate": "17/11/2026 12:20"
-                },
                 {
                     "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
                     "source": "denederlandseggz.nl",
@@ -470,6 +448,17 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
+            "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
+            "publishedDate": "18/11/2026 08:01",
+            "source": "westlanders.nu",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -573,6 +562,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
+            "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
+            "publishedDate": "18/11/2026 02:08",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "GSK krijgt FDA-goedkeuring voor longkankerbehandeling Nelkarmi - Investing.com",
             "link": "https://nl.investing.com/news/stock-market-news/gsk-krijgt-fdagoedkeuring-voor-longkankerbehandeling-nelkarmi-978229",
             "publishedDate": "18/11/2026 01:52",
@@ -609,10 +609,10 @@
             "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
             "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
             "publishedDate": "18/11/2026 00:19",
-            "source": "huisartsvandaag.nl, keuze.nl, linda.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
+            "source": "huisartsvandaag.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 9,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
@@ -627,28 +627,10 @@
                     "publishedDate": "17/11/2026 13:16"
                 },
                 {
-                    "title": "Top 5 goedkoopste zorgverzekeringen van 2027 op een rij - Energie vergelijken",
-                    "source": "keuze.nl",
-                    "link": "https://www.keuze.nl/nieuws/goedkoopste-zorgverzekeringen-2027",
-                    "publishedDate": "17/11/2026 15:13"
-                },
-                {
                     "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
                     "source": "metronieuws.nl",
                     "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
                     "publishedDate": "17/11/2026 15:03"
-                },
-                {
-                    "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
-                    "source": "linda.nl",
-                    "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
-                    "publishedDate": "17/11/2026 14:58"
-                },
-                {
-                    "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
-                    "publishedDate": "17/11/2026 14:53"
                 },
                 {
                     "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
@@ -1176,6 +1158,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Top 5 goedkoopste zorgverzekeringen van 2027 op een rij - Energie vergelijken",
+            "link": "https://www.keuze.nl/nieuws/goedkoopste-zorgverzekeringen-2027",
+            "publishedDate": "17/11/2026 15:13",
+            "source": "keuze.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Starter van de week: Marleen start groepspraktijk in Stokkem - Made in",
             "link": "https://www.made-in.be/limburg/starter-van-de-week-marleen-start-groepspraktijk-in-stokkem/",
             "publishedDate": "17/11/2026 15:12",
@@ -1202,6 +1195,28 @@
                     "publishedDate": "17/11/2026 14:29"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
+            "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
+            "publishedDate": "17/11/2026 14:58",
+            "source": "linda.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
+            "publishedDate": "17/11/2026 14:53",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1449,6 +1464,17 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
+            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
+            "publishedDate": "17/11/2026 12:20",
+            "source": "medischcontact.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
