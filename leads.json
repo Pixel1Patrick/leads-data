@@ -88,18 +88,11 @@
             "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
             "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
             "publishedDate": "18/11/2026 12:33",
-            "source": "pvda.be, redactie24.be",
+            "source": "redactie24.be",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
-                    "source": "pvda.be",
-                    "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
-                    "publishedDate": "18/11/2026 06:19"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -197,11 +190,18 @@
             "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
             "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
             "publishedDate": "18/11/2026 12:19",
-            "source": "huisartsvandaag.nl",
+            "source": "huisartsvandaag.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
+                    "publishedDate": "17/11/2026 22:18"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -611,6 +611,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
+            "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
+            "publishedDate": "18/11/2026 06:19",
+            "source": "pvda.be",
+            "category": "Overig",
+            "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "NZa pleit voor meer standaardisatie bij inkoop jeugdzorg - InkopersCafe.nl",
             "link": "https://www.inkoperscafe.nl/nza-pleit-voor-meer-standaardisatie-bij-inkoop-jeugdzorg",
             "publishedDate": "18/11/2026 06:05",
@@ -691,10 +702,10 @@
             "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
             "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
             "publishedDate": "18/11/2026 02:08",
-            "source": "drimble.nl, nieuws.feelgoodradio.nl, nos.nl, omroepbrabant.nl",
+            "source": "drimble.nl, nieuws.feelgoodradio.nl, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
@@ -707,12 +718,6 @@
                     "source": "nieuws.feelgoodradio.nl",
                     "link": "https://nieuws.feelgoodradio.nl/4-en-65-jaar-cel-voor-uitvoerders-van-drugsapotheek/",
                     "publishedDate": "17/11/2026 17:22"
-                },
-                {
-                    "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
-                    "publishedDate": "17/11/2026 16:02"
                 },
                 {
                     "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
@@ -799,17 +804,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
-            "publishedDate": "17/11/2026 22:18",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Kinesitherapeut met specialisatie in ambulante neurologische revalidatie (20u) Elsene",
@@ -1156,6 +1150,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
+            "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
+            "publishedDate": "17/11/2026 16:02",
+            "source": "nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Campagne 'Gezondheid kan niet wachten' - DalfsenNet",
             "link": "https://www.dalfsennet.nl/nieuws/556782/campagne-gezondheid-kan-niet-wachten.html",
             "publishedDate": "17/11/2026 15:58",
@@ -1292,7 +1297,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
