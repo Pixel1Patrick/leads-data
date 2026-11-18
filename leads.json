@@ -308,17 +308,24 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Strafste verpleegkundigen van Vlaanderen bekroond op finale Challenge Verpleegkunde van ZAS",
             "link": "https://nnieuws.be/artikel/strafste-verpleegkundigen-van-vlaanderen-bekroond-op-finale-challenge-verpleegkunde-van-zas",
             "publishedDate": "18/11/2026 08:48",
-            "source": "nnieuws.be",
+            "source": "made-in.be, nnieuws.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Antwerpse verpleegkundige en studente uit Lier bij strafste van Vlaanderen - Made in",
+                    "source": "made-in.be",
+                    "link": "https://www.made-in.be/antwerpen/antwerpse-verpleegkundige-en-studente-uit-lier-bij-strafste-van-vlaanderen-zonder-verpleegkundigen-geen-ziekenhuis/",
+                    "publishedDate": "18/11/2026 02:24"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -380,11 +387,17 @@
             "title": "Jeugdhulp blijft de medische verwijsroute behouden - Zorgkrant",
             "link": "https://www.zorgkrant.nl/jeugdzorg/21683-jeugdhulp-blijft-de-medische-verwijsroute-behouden",
             "publishedDate": "18/11/2026 08:06",
-            "source": "denederlandseggz.nl, zorgkrant.nl",
+            "source": "denederlandseggz.nl, medischcontact.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
+                    "source": "medischcontact.nl",
+                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
+                    "publishedDate": "17/11/2026 12:20"
+                },
                 {
                     "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
                     "source": "denederlandseggz.nl",
@@ -549,17 +562,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Antwerpse verpleegkundige en studente uit Lier bij strafste van Vlaanderen - Made in",
-            "link": "https://www.made-in.be/antwerpen/antwerpse-verpleegkundige-en-studente-uit-lier-bij-strafste-van-vlaanderen-zonder-verpleegkundigen-geen-ziekenhuis/",
-            "publishedDate": "18/11/2026 02:24",
-            "source": "made-in.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "GSK krijgt FDA-goedkeuring voor longkankerbehandeling Nelkarmi - Investing.com",
             "link": "https://nl.investing.com/news/stock-market-news/gsk-krijgt-fdagoedkeuring-voor-longkankerbehandeling-nelkarmi-978229",
             "publishedDate": "18/11/2026 01:52",
@@ -618,10 +620,10 @@
             "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
             "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
             "publishedDate": "18/11/2026 00:19",
-            "source": "huisartsvandaag.nl, linda.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
+            "source": "huisartsvandaag.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 8,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
@@ -640,18 +642,6 @@
                     "source": "metronieuws.nl",
                     "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
                     "publishedDate": "17/11/2026 15:03"
-                },
-                {
-                    "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
-                    "source": "linda.nl",
-                    "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
-                    "publishedDate": "17/11/2026 14:58"
-                },
-                {
-                    "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
-                    "publishedDate": "17/11/2026 14:53"
                 },
                 {
                     "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
@@ -1219,6 +1209,28 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
+            "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
+            "publishedDate": "17/11/2026 14:58",
+            "source": "linda.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
+            "publishedDate": "17/11/2026 14:53",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Leefgroepbegeleider Line (49) maakt eigen podcast over kinderen en bijzondere jeugdzorg",
             "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/knokke-heist/leefgroepbegeleider-line-49-maakt-eigen-podcast-over-kinderen-en-bijzondere-jeugdzorg-het-is-vaak-geen-grote-stap/164662340.html",
             "publishedDate": "17/11/2026 14:52",
@@ -1474,17 +1486,6 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
-            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
-            "publishedDate": "17/11/2026 12:20",
-            "source": "medischcontact.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
