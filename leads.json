@@ -69,7 +69,7 @@
             "source": "ad.nl, nieuws.feelgoodradio.nl, noordhollandsdagblad.nl, nos.nl, omroepbrabant.nl, stadindex.nl, westlanders.nu",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 7,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
@@ -82,6 +82,12 @@
                     "source": "westlanders.nu",
                     "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
                     "publishedDate": "18/11/2026 08:01"
+                },
+                {
+                    "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
+                    "publishedDate": "17/11/2026 19:32"
                 },
                 {
                     "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
@@ -720,17 +726,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
-            "publishedDate": "17/11/2026 19:32",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Artsen keren zich tegen strafbaar stellen van vluchtelingen die terugkeer 'frustreren'",
             "link": "https://www.medischcontact.nl/arts-in-spe/nieuws/ais-artikel/artsen-keren-zich-tegen-strafbaar-stellen-van-vluchtelingen-die-terugkeer-frustreren",
             "publishedDate": "17/11/2026 19:20",
@@ -1076,7 +1071,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorginstelling die vastgoed wil verkopen waar ouderen wonen, vindt rechter op de weg - Drimble",
@@ -1554,17 +1549,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Veel geneesmiddelen zijn langer houdbaar dan gedacht | medischcontact",
-            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/veel-geneesmiddelen-zijn-langer-houdbaar-dan-gedacht",
-            "publishedDate": "17/11/2026 10:46",
-            "source": "medischcontact.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Mantelzorgers.nl wordt gelanceerd: gratis hulp in de buurt, in heel Nederland -",
             "link": "https://www.ggznieuws.nl/mantelzorgers-nl-wordt-gelanceerd-gratis-hulp-in-de-buurt-in-heel-nederland/",
             "publishedDate": "17/11/2026 10:43",
@@ -1651,6 +1635,17 @@
         {
             "title": "Maak structureel werk van bevlogenheid",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/maak-structureel-werk-van-bevlogenheid",
+            "publishedDate": "17/11/2026 08:00",
+            "source": "medischcontact.nl",
+            "category": "Overig",
+            "feed_label": "Medisch Contact",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Veel geneesmiddelen zijn langer houdbaar dan gedacht",
+            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/veel-geneesmiddelen-zijn-langer-houdbaar-dan-gedacht",
             "publishedDate": "17/11/2026 08:00",
             "source": "medischcontact.nl",
             "category": "Overig",
