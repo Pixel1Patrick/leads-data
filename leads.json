@@ -366,18 +366,11 @@
             "title": "GSK krijgt FDA-goedkeuring voor longkankerbehandeling Nelkarmi - Investing.com",
             "link": "https://nl.investing.com/news/stock-market-news/gsk-krijgt-fdagoedkeuring-voor-longkankerbehandeling-nelkarmi-978229",
             "publishedDate": "18/11/2026 01:52",
-            "source": "nl.investing.com, spanjevandaag.com",
+            "source": "nl.investing.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nolotil in Spanje: studie koppelt negen doden aan populaire pijnstiller - SpanjeVandaag",
-                    "source": "spanjevandaag.com",
-                    "link": "https://spanjevandaag.com/17/11/2026/nolotil-doden-britten-studie-gandia/",
-                    "publishedDate": "17/11/2026 17:41"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -428,11 +421,36 @@
             "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
             "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
             "publishedDate": "18/11/2026 00:19",
-            "source": "huisartsvandaag.nl",
+            "source": "huisartsvandaag.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
+                    "publishedDate": "17/11/2026 22:18"
+                },
+                {
+                    "title": "Deze 5 zorgverzekeraars stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-5-zorgverzekeraars-stijgen-het-meest-in-prijs-per-1-januari-2027",
+                    "publishedDate": "17/11/2026 13:16"
+                },
+                {
+                    "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
+                    "publishedDate": "17/11/2026 15:03"
+                },
+                {
+                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
+                    "source": "overstappen.nl",
+                    "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
+                    "publishedDate": "17/11/2026 13:04"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -477,36 +495,6 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
-            "publishedDate": "17/11/2026 22:18",
-            "source": "metronieuws.nl, overstappen.nl, zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Deze 5 zorgverzekeraars stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-5-zorgverzekeraars-stijgen-het-meest-in-prijs-per-1-januari-2027",
-                    "publishedDate": "17/11/2026 13:16"
-                },
-                {
-                    "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
-                    "publishedDate": "17/11/2026 15:03"
-                },
-                {
-                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
-                    "source": "overstappen.nl",
-                    "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
-                    "publishedDate": "17/11/2026 13:04"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -795,6 +783,17 @@
                     "publishedDate": "17/11/2026 14:59"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nolotil in Spanje: studie koppelt negen doden aan populaire pijnstiller - SpanjeVandaag",
+            "link": "https://spanjevandaag.com/17/11/2026/nolotil-doden-britten-studie-gandia/",
+            "publishedDate": "17/11/2026 17:41",
+            "source": "spanjevandaag.com",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1408,18 +1407,11 @@
             "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
             "publishedDate": "17/11/2026 12:20",
-            "source": "denederlandseggz.nl, medischcontact.nl",
+            "source": "medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 13:54"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1702,7 +1694,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
@@ -1784,6 +1776,17 @@
             "source": "umcg.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
+            "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+            "publishedDate": "16/11/2026 13:54",
+            "source": "denederlandseggz.nl",
+            "category": "Overig",
+            "feed_label": "Nederlandse ggz",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
