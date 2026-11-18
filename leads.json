@@ -34,6 +34,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Bestuurskosten directeur-generaal Isabel Arends van het RIVM, oktober 2026",
+            "link": "https://open.overheid.nl/details/6d669f73-cd20-4f65-b237-a68f0678548a",
+            "publishedDate": "18/11/2026 10:30",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "NZa: CAK voert wettelijke taken rechtmatig uit en verbetert dienstverlening",
             "link": "https://www.nza.nl/actueel/nieuws/2026/11/18/nza-cak-voert-wettelijke-taken-rechtmatig-uit-en-verbetert-dienstverlening",
             "publishedDate": "18/11/2026 10:17",
@@ -42,6 +53,24 @@
             "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bestuurskosten minister Sophie Hermans van het ministerie van VWS, oktober 2026",
+            "link": "https://open.overheid.nl/details/7314f878-5ea1-418e-9d6d-0ecc49e90d9f",
+            "publishedDate": "18/11/2026 10:16",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Bestuurskosten minister Mirjam Sterk van het ministerie van VWS, oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/dc13f6c4-3f59-4cb7-8c8e-0f6669ae7a0b",
+                    "publishedDate": "18/11/2026 10:12"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -91,15 +120,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over beschikbaarheid bijdrage (medische) vervolgopleidingen 2023 en 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9a0939ee-ef98-4b34-bb92-5e761bc02541",
-                    "publishedDate": "18/11/2026 09:01"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -344,11 +366,18 @@
             "title": "GSK krijgt FDA-goedkeuring voor longkankerbehandeling Nelkarmi - Investing.com",
             "link": "https://nl.investing.com/news/stock-market-news/gsk-krijgt-fdagoedkeuring-voor-longkankerbehandeling-nelkarmi-978229",
             "publishedDate": "18/11/2026 01:52",
-            "source": "nl.investing.com",
+            "source": "nl.investing.com, spanjevandaag.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nolotil in Spanje: studie koppelt negen doden aan populaire pijnstiller - SpanjeVandaag",
+                    "source": "spanjevandaag.com",
+                    "link": "https://spanjevandaag.com/17/11/2026/nolotil-doden-britten-studie-gandia/",
+                    "publishedDate": "17/11/2026 17:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -454,19 +483,31 @@
             "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
             "publishedDate": "17/11/2026 22:18",
-            "source": "zorgwijzer.nl",
+            "source": "metronieuws.nl, overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Deze 5 zorgverzekeraars stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
                     "source": "zorgwijzer.nl",
                     "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-5-zorgverzekeraars-stijgen-het-meest-in-prijs-per-1-januari-2027",
                     "publishedDate": "17/11/2026 13:16"
+                },
+                {
+                    "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
+                    "publishedDate": "17/11/2026 15:03"
+                },
+                {
+                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
+                    "source": "overstappen.nl",
+                    "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
+                    "publishedDate": "17/11/2026 13:04"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Man valt in sloot in Schiedam, is door ambulance naar ziekenhuis gebracht",
@@ -640,11 +681,36 @@
             "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
             "publishedDate": "17/11/2026 19:32",
-            "source": "omroepbrabant.nl",
+            "source": "ad.nl, nieuws.feelgoodradio.nl, nos.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
+                    "source": "nieuws.feelgoodradio.nl",
+                    "link": "https://nieuws.feelgoodradio.nl/4-en-65-jaar-cel-voor-uitvoerders-van-drugsapotheek/",
+                    "publishedDate": "17/11/2026 17:22"
+                },
+                {
+                    "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
+                    "publishedDate": "17/11/2026 16:02"
+                },
+                {
+                    "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
+                    "publishedDate": "17/11/2026 15:47"
+                },
+                {
+                    "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
+                    "publishedDate": "17/11/2026 15:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -729,28 +795,6 @@
                     "publishedDate": "17/11/2026 14:59"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nolotil in Spanje: studie koppelt negen doden aan populaire pijnstiller - SpanjeVandaag",
-            "link": "https://spanjevandaag.com/17/11/2026/nolotil-doden-britten-studie-gandia/",
-            "publishedDate": "17/11/2026 17:41",
-            "source": "spanjevandaag.com",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
-            "link": "https://nieuws.feelgoodradio.nl/4-en-65-jaar-cel-voor-uitvoerders-van-drugsapotheek/",
-            "publishedDate": "17/11/2026 17:22",
-            "source": "nieuws.feelgoodradio.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -850,30 +894,6 @@
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
-            "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
-            "publishedDate": "17/11/2026 16:02",
-            "source": "ad.nl, nos.nl, omroepbrabant.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
-                    "publishedDate": "17/11/2026 15:47"
-                },
-                {
-                    "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
-                    "publishedDate": "17/11/2026 15:03"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1018,17 +1038,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
-            "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
-            "publishedDate": "17/11/2026 15:03",
-            "source": "metronieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Zorginstelling die vastgoed wil verkopen waar ouderen wonen, vindt rechter op de weg - Drimble",
@@ -1243,17 +1252,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
-            "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
-            "publishedDate": "17/11/2026 13:04",
-            "source": "overstappen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Meer begrip voor het sterfbed | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/boeken-en-films/media-en-cultuur/meer-begrip-voor-het-sterfbed",
             "publishedDate": "17/11/2026 13:04",
@@ -1410,11 +1408,18 @@
             "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
             "publishedDate": "17/11/2026 12:20",
-            "source": "medischcontact.nl",
+            "source": "denederlandseggz.nl, medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 13:54"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1697,7 +1702,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
@@ -1779,17 +1784,6 @@
             "source": "umcg.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
-            "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-            "publishedDate": "16/11/2026 13:54",
-            "source": "denederlandseggz.nl",
-            "category": "Overig",
-            "feed_label": "Nederlandse ggz",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
