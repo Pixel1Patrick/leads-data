@@ -88,11 +88,36 @@
             "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
             "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
             "publishedDate": "18/11/2026 00:19",
-            "source": "huisartsvandaag.nl",
+            "source": "huisartsvandaag.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
+                    "publishedDate": "17/11/2026 22:18"
+                },
+                {
+                    "title": "Deze 5 zorgverzekeraars stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-5-zorgverzekeraars-stijgen-het-meest-in-prijs-per-1-januari-2027",
+                    "publishedDate": "17/11/2026 13:16"
+                },
+                {
+                    "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
+                    "publishedDate": "17/11/2026 15:03"
+                },
+                {
+                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
+                    "source": "overstappen.nl",
+                    "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
+                    "publishedDate": "17/11/2026 13:04"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -138,24 +163,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
-            "publishedDate": "17/11/2026 22:18",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Deze 5 zorgverzekeraars stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-5-zorgverzekeraars-stijgen-het-meest-in-prijs-per-1-januari-2027",
-                    "publishedDate": "17/11/2026 13:16"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Man valt in sloot in Schiedam, is door ambulance naar ziekenhuis gebracht",
@@ -620,24 +627,11 @@
             "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
             "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
             "publishedDate": "17/11/2026 16:02",
-            "source": "ad.nl, nos.nl, omroepbrabant.nl",
+            "source": "nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
-                    "publishedDate": "17/11/2026 15:47"
-                },
-                {
-                    "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
-                    "publishedDate": "17/11/2026 15:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -669,6 +663,17 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
+            "publishedDate": "17/11/2026 15:47",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -773,15 +778,15 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
-            "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
+            "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
+            "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
             "publishedDate": "17/11/2026 15:03",
-            "source": "metronieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorginstelling die vastgoed wil verkopen waar ouderen wonen, vindt rechter op de weg - Drimble",
@@ -949,7 +954,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Huisarts (50) veroordeeld nadat hij na middag wodka drinken woning binnenrijdt, rechter is ...",
@@ -994,17 +999,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
-            "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
-            "publishedDate": "17/11/2026 13:04",
-            "source": "overstappen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Meer begrip voor het sterfbed | medischcontact",
