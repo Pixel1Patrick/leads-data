@@ -188,12 +188,25 @@
             "title": "Aantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk - BNR",
             "link": "https://www.bnr.nl/nieuws/internationaal/10615829/aantal-dodelijke-medicijnresistente-infecties-in-europese-ziekenhuizen-stijgt-sterk",
             "publishedDate": "18/11/2026 17:42",
-            "source": "bnr.nl",
+            "source": "bnr.nl, metronieuws.nl, rivm.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk - RIVM",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+                    "publishedDate": "18/11/2026 16:33"
+                },
+                {
+                    "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
+                    "publishedDate": "18/11/2026 13:31"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "NPV overhandigt ruim 79.000 handtekeningen aan Tweede Kamer tegen late abortussen",
@@ -390,17 +403,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk - RIVM",
-            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-            "publishedDate": "18/11/2026 16:33",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Marieke Elsinga opnieuw naar ziekenhuis na voetbreuk: 'Nog altijd pijn' - RTL Nieuws",
             "link": "https://www.rtl.nl/boulevard/artikel/5665846/marieke-elsinga-heeft-nog-altijd-pijn-aan-gebroken-voet",
             "publishedDate": "18/11/2026 16:31",
@@ -576,11 +578,18 @@
             "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
             "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
             "publishedDate": "18/11/2026 15:41",
-            "source": "nos.nl",
+            "source": "actueel365.nl, nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
+                    "source": "actueel365.nl",
+                    "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
+                    "publishedDate": "18/11/2026 14:48"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -707,17 +716,6 @@
             "source": "thuisarts.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
-            "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
-            "publishedDate": "18/11/2026 14:48",
-            "source": "actueel365.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -897,17 +895,6 @@
             "source": "mandelnieuws.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
-            "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
-            "publishedDate": "18/11/2026 13:31",
-            "source": "metronieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1429,7 +1416,7 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Klimaatweek brengt inwoners in Aalsmeer en Kudelstaart samen",
