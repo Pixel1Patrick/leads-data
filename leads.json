@@ -102,26 +102,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
                     "publishedDate": "18/11/2026 12:30"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
-            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-            "publishedDate": "18/11/2026 12:26",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+                    "publishedDate": "18/11/2026 12:26"
+                },
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
                     "source": "open.overheid.nl",
@@ -149,59 +143,38 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Deelnemerslijst Deskundigenberaad Zo\u00f6nosen 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
-            "publishedDate": "18/11/2026 12:20",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
-            "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
-            "publishedDate": "18/11/2026 12:20",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
-            "publishedDate": "18/11/2026 12:20",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Deelnemerslijst Deskundigenberaad Zo\u00f6nosen 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
+                    "publishedDate": "18/11/2026 12:20"
+                },
+                {
+                    "title": "Scenarios voor spillover van hoog pathogene aviaire influenza (HPAI) naar melkvee in Nederland",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9389f0e4-3a90-4227-9ea5-1b753afef4bb",
+                    "publishedDate": "18/11/2026 12:20"
+                },
+                {
+                    "title": "Advies naar aanleiding van DB-Z HPAI van 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/1897b45b-4178-48b1-ae42-81840db2c43d",
+                    "publishedDate": "18/11/2026 12:20"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
             "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
             "publishedDate": "18/11/2026 12:19",
-            "source": "huisartsvandaag.nl, zorgwijzer.nl",
+            "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
-                    "publishedDate": "17/11/2026 22:18"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -281,11 +254,24 @@
             "title": "Afscheid in mineur: Jasper De Buyst loopt sleutelbeenbreuk en inwendige bloeding op bij ...",
             "link": "https://www.demorgen.be/sport/afscheid-in-mineur-jasper-de-buyst-loopt-sleutelbeenbreuk-en-inwendige-bloeding-op-bij-val-op-openingsdag-zesdaagse-van-gent~b1d9b701/",
             "publishedDate": "18/11/2026 11:34",
-            "source": "demorgen.be",
+            "source": "demorgen.be, sporza.be, wielerflits.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Zesdaagse van Gent opgeschrikt door zware val Jasper De Buyst en Jules Hesters - Wielerflits",
+                    "source": "wielerflits.be",
+                    "link": "https://www.wielerflits.be/nieuws/zesdaagse-van-gent-opgeschrikt-door-zware-val-jasper-de-buyst-en-jules-hesters-openingsavond-vroegtijdig-stilgelegd/",
+                    "publishedDate": "18/11/2026 08:56"
+                },
+                {
+                    "title": "afscheidnemende De Buyst afgevoerd na zware val in ploegkoers - Sporza",
+                    "source": "sporza.be",
+                    "link": "https://sporza.be/nl/2026/11/13/openingsavond-zesdaagse-gent-vroegtijdig-stopgezet-afscheidnemende-de-buyst-afgevoerd-na-zware-val-in-ploegkoers~1794560094233/",
+                    "publishedDate": "18/11/2026 08:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -479,17 +465,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zesdaagse van Gent opgeschrikt door zware val Jasper De Buyst en Jules Hesters - Wielerflits",
-            "link": "https://www.wielerflits.be/nieuws/zesdaagse-van-gent-opgeschrikt-door-zware-val-jasper-de-buyst-en-jules-hesters-openingsavond-vroegtijdig-stilgelegd/",
-            "publishedDate": "18/11/2026 08:56",
-            "source": "wielerflits.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Strafste verpleegkundigen van Vlaanderen bekroond op finale Challenge Verpleegkunde van ZAS",
             "link": "https://nnieuws.be/artikel/strafste-verpleegkundigen-van-vlaanderen-bekroond-op-finale-challenge-verpleegkunde-van-zas",
             "publishedDate": "18/11/2026 08:48",
@@ -516,17 +491,6 @@
             "link": "https://www.tvl.be/nieuws/jessa-ziekenhuis-vraagt-aandacht-voor-longziekte-copd-vroege-diagnose-maakt-verschil-voor-levenskwaliteit-184311",
             "publishedDate": "18/11/2026 08:46",
             "source": "tvl.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "afscheidnemende De Buyst afgevoerd na zware val in ploegkoers - Sporza",
-            "link": "https://sporza.be/nl/2026/11/13/openingsavond-zesdaagse-gent-vroegtijdig-stopgezet-afscheidnemende-de-buyst-afgevoerd-na-zware-val-in-ploegkoers~1794560094233/",
-            "publishedDate": "18/11/2026 08:45",
-            "source": "sporza.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
@@ -702,10 +666,10 @@
             "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
             "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
             "publishedDate": "18/11/2026 02:08",
-            "source": "drimble.nl, nieuws.feelgoodradio.nl, omroepbrabant.nl",
+            "source": "drimble.nl, nieuws.feelgoodradio.nl, nos.nl, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
@@ -718,6 +682,12 @@
                     "source": "nieuws.feelgoodradio.nl",
                     "link": "https://nieuws.feelgoodradio.nl/4-en-65-jaar-cel-voor-uitvoerders-van-drugsapotheek/",
                     "publishedDate": "17/11/2026 17:22"
+                },
+                {
+                    "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
+                    "publishedDate": "17/11/2026 16:02"
                 },
                 {
                     "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
@@ -806,6 +776,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
+            "publishedDate": "17/11/2026 22:18",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Kinesitherapeut met specialisatie in ambulante neurologische revalidatie (20u) Elsene",
             "link": "https://www.zorgjobs.be/vacature/kinesitherapeut-met-specialisatie-in-ambulante-neurologische-revalidatie-20u-elsene-iris-ziekenhuizen-zuid-elsene-510096",
             "publishedDate": "17/11/2026 22:14",
@@ -831,11 +812,18 @@
             "title": "Zes bedrijven in Limburg failliet waaronder een reparatiebedrijf, een beachclub en ... - De Limburger",
             "link": "https://www.limburger.nl/economie/zes-bedrijven-in-limburg-failliet-waaronder-een-reparatiebedrijf-een-beachclub-en-een-zorgaanbieder/164684158.html",
             "publishedDate": "17/11/2026 21:37",
-            "source": "limburger.nl",
+            "source": "l1nieuws.nl, limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
+                    "publishedDate": "17/11/2026 14:49"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1150,17 +1138,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
-            "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
-            "publishedDate": "17/11/2026 16:02",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Campagne 'Gezondheid kan niet wachten' - DalfsenNet",
             "link": "https://www.dalfsennet.nl/nieuws/556782/campagne-gezondheid-kan-niet-wachten.html",
             "publishedDate": "17/11/2026 15:58",
@@ -1233,17 +1210,6 @@
             "source": "made-in.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
-            "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
-            "publishedDate": "17/11/2026 14:49",
-            "source": "l1nieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1473,7 +1439,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
