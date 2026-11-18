@@ -7,24 +7,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bestuurskosten secretaris-generaal van het ministerie van VWS, oktober 2026",
-            "link": "https://open.overheid.nl/details/38cfba92-4bb6-4fb9-8411-3d606290c172",
-            "publishedDate": "18/11/2026 10:57",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "Bestuurskosten secretaris-generaal van het ministerie van VWS, oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/38cfba92-4bb6-4fb9-8411-3d606290c172",
+                    "publishedDate": "18/11/2026 10:57"
+                },
                 {
                     "title": "Bestuurskosten minister Mirjam Sterk van het ministerie van VWS, oktober 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/dc13f6c4-3f59-4cb7-8c8e-0f6669ae7a0b",
                     "publishedDate": "18/11/2026 10:12"
+                },
+                {
+                    "title": "Bestuurskosten minister Sophie Hermans van het ministerie van VWS, oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/7314f878-5ea1-418e-9d6d-0ecc49e90d9f",
+                    "publishedDate": "18/11/2026 10:16"
                 }
             ],
             "belangrijkheid": 0
@@ -69,17 +70,6 @@
             "source": "nza.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "NZa Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bestuurskosten minister Sophie Hermans van het ministerie van VWS, oktober 2026",
-            "link": "https://open.overheid.nl/details/7314f878-5ea1-418e-9d6d-0ecc49e90d9f",
-            "publishedDate": "18/11/2026 10:16",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -219,7 +209,7 @@
                     "publishedDate": "16/11/2026 13:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Voor een prikkie onder het mes: sterilisatie in Nieuwegein \u00e9\u00e9n van goedkoopste opties in Utrecht",
@@ -485,28 +475,16 @@
             "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
             "publishedDate": "17/11/2026 22:18",
-            "source": "metronieuws.nl, overstappen.nl, zorgwijzer.nl",
+            "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Deze 5 zorgverzekeraars stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
                     "source": "zorgwijzer.nl",
                     "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-5-zorgverzekeraars-stijgen-het-meest-in-prijs-per-1-januari-2027",
                     "publishedDate": "17/11/2026 13:16"
-                },
-                {
-                    "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
-                    "publishedDate": "17/11/2026 15:03"
-                },
-                {
-                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
-                    "source": "overstappen.nl",
-                    "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
-                    "publishedDate": "17/11/2026 13:04"
                 }
             ],
             "belangrijkheid": 1
@@ -686,7 +664,7 @@
             "source": "ad.nl, nieuws.feelgoodradio.nl, nos.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
@@ -699,6 +677,12 @@
                     "source": "nos.nl",
                     "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
                     "publishedDate": "17/11/2026 16:02"
+                },
+                {
+                    "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
+                    "publishedDate": "17/11/2026 15:47"
                 },
                 {
                     "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
@@ -948,17 +932,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
-            "publishedDate": "17/11/2026 15:47",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zes zorgorganisaties maken samen de stap naar de ouderenzorg makkelijker",
             "link": "https://www.haarlemmermeerdagblad.nl/regio/zes-zorgorganisaties-maken-samen-de-stap-naar-de-ouderenzorg-makkelijker",
             "publishedDate": "17/11/2026 15:45",
@@ -1056,6 +1029,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
+            "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
+            "publishedDate": "17/11/2026 15:03",
+            "source": "metronieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Zorginstelling die vastgoed wil verkopen waar ouderen wonen, vindt rechter op de weg - Drimble",
@@ -1268,6 +1252,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
+            "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
+            "publishedDate": "17/11/2026 13:04",
+            "source": "overstappen.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Meer begrip voor het sterfbed | medischcontact",
