@@ -102,7 +102,7 @@
             "source": "ad.nl, drimble.nl, nieuws.feelgoodradio.nl, noordhollandsdagblad.nl, nos.nl, omroepbrabant.nl, stadindex.nl, westlanders.nu",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 9,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
@@ -121,12 +121,6 @@
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
                     "publishedDate": "18/11/2026 02:08"
-                },
-                {
-                    "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
-                    "publishedDate": "17/11/2026 19:32"
                 },
                 {
                     "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
@@ -287,17 +281,11 @@
             "title": "Jeugdhulp blijft de medische verwijsroute behouden - Zorgkrant",
             "link": "https://www.zorgkrant.nl/jeugdzorg/21683-jeugdhulp-blijft-de-medische-verwijsroute-behouden",
             "publishedDate": "18/11/2026 08:06",
-            "source": "denederlandseggz.nl, medischcontact.nl, zorgkrant.nl",
+            "source": "denederlandseggz.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
-                {
-                    "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
-                    "source": "medischcontact.nl",
-                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
-                    "publishedDate": "17/11/2026 12:20"
-                },
                 {
                     "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
                     "source": "denederlandseggz.nl",
@@ -534,7 +522,7 @@
             "source": "huisartsvandaag.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 7,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
@@ -553,12 +541,6 @@
                     "source": "metronieuws.nl",
                     "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
                     "publishedDate": "17/11/2026 15:03"
-                },
-                {
-                    "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
-                    "publishedDate": "17/11/2026 14:53"
                 },
                 {
                     "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
@@ -745,11 +727,18 @@
             "title": "Puffers bij COPD worden te vaak verkeerd gebruikt - Gezondheid en wetenschap",
             "link": "https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/puffers-bij-copd-worden-te-vaak-verkeerd-gebruikt",
             "publishedDate": "17/11/2026 19:34",
-            "source": "gezondheidenwetenschap.be",
+            "source": "despecialist.eu, gezondheidenwetenschap.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "HART, QUEST en MCH willen COPD-zorg bij huisartsen verbeteren - De Specialist",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/hart-quest-en-mch-willen-copd-zorg-bij-huisartsen-verbeteren.html",
+                    "publishedDate": "17/11/2026 18:32"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -768,6 +757,17 @@
                     "publishedDate": "17/11/2026 13:32"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
+            "publishedDate": "17/11/2026 19:32",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -810,17 +810,6 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "HART, QUEST en MCH willen COPD-zorg bij huisartsen verbeteren - De Specialist",
-            "link": "https://www.despecialist.eu/nl/nieuws/hart-quest-en-mch-willen-copd-zorg-bij-huisartsen-verbeteren.html",
-            "publishedDate": "17/11/2026 18:32",
-            "source": "despecialist.eu",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1137,6 +1126,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
+            "publishedDate": "17/11/2026 14:53",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Leefgroepbegeleider Line (49) maakt eigen podcast over kinderen en bijzondere jeugdzorg",
             "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/knokke-heist/leefgroepbegeleider-line-49-maakt-eigen-podcast-over-kinderen-en-bijzondere-jeugdzorg-het-is-vaak-geen-grote-stap/164662340.html",
             "publishedDate": "17/11/2026 14:52",
@@ -1446,6 +1446,17 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
+            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
+            "publishedDate": "17/11/2026 12:20",
+            "source": "medischcontact.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
