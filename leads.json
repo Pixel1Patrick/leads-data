@@ -1,14 +1,38 @@
 {
     "artikelen": [
         {
+            "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
+            "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
+            "publishedDate": "19/11/2026 00:03",
+            "source": "news.thomasmore.be",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Datacenters goed voor 5 procent van Nederlandse stroomverbruik - ICT/Magazine",
             "link": "https://www.ictmagazine.nl/nieuws/datacenters-goed-voor-5-procent-van-nederlandse-stroomverbruik/",
             "publishedDate": "18/11/2026 23:20",
-            "source": "ictmagazine.nl",
+            "source": "bouwenuitvoering.nl, dutchitleaders.nl, ictmagazine.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwbouw onder druk: datacenters vragen 5 procent van elektriciteit - Bouw en Uitvoering",
+                    "source": "bouwenuitvoering.nl",
+                    "link": "https://bouwenuitvoering.nl/actueel/datacenters-meer-elektriciteit/",
+                    "publishedDate": "18/11/2026 20:03"
+                },
+                {
+                    "title": "CBS: datacenters verbruiken vijf procent van de stroom in Nederland - Dutch IT Leaders",
+                    "source": "dutchitleaders.nl",
+                    "link": "https://www.dutchitleaders.nl/news/765334/cbs-datacenters-goed-voor-vijf-procent-het-nederlandse-stroomverbruik",
+                    "publishedDate": "18/11/2026 17:46"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -59,11 +83,18 @@
             "title": "Eindhovense zangeres Kovacs (36) ligt zeker een maand in ziekenhuis door problemen ...",
             "link": "https://www.ed.nl/eindhoven/eindhovense-zangeres-kovacs-36-ligt-zeker-een-maand-in-ziekenhuis-door-problemen-tijdens-zwangerschap~a9f32244/",
             "publishedDate": "18/11/2026 22:19",
-            "source": "ed.nl",
+            "source": "ed.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
+                    "publishedDate": "18/11/2026 19:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -103,24 +134,11 @@
             "title": "Meer kwetsbare ouderen in Eemland krijgen acute zorg op spoedbed in ziekenhuis",
             "link": "https://www.debunschoter-online.nl/algemeen/26774/meer-kwetsbare-ouderen-in-eemland-krijgen-acute-zorg-op-spoedbed-in-ziekenhuis",
             "publishedDate": "18/11/2026 21:53",
-            "source": "ad.nl, debunschoter-online.nl, destadamersfoort.nl",
+            "source": "debunschoter-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Steeds meer kwetsbare ouderen geholpen via speciale spoedbedden in Meander Medisch Centrum",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/bunschoten-spakenburg/steeds-meer-kwetsbare-ouderen-geholpen-via-speciale-spoedbedden-in-meander-medisch-centrum~afc3b5a3/",
-                    "publishedDate": "18/11/2026 19:47"
-                },
-                {
-                    "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
-                    "source": "destadamersfoort.nl",
-                    "link": "https://www.destadamersfoort.nl/extern-nieuws/gezondheid-meandermc/1328909/steeds-vaker-onbegrepen-gedrag-op-de-spoedeisende-hulp-meande",
-                    "publishedDate": "18/11/2026 12:07"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -138,10 +156,10 @@
             "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
             "link": "https://www.rtl.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
             "publishedDate": "18/11/2026 21:45",
-            "source": "ad.nl, fd.nl, gooieneemlander.nl, nieuwsinalphen.nl, noordhollandsdagblad.nl, reddit.com, rtl.nl, rtlboulevard.nl, rtlz.nl, threads.com",
+            "source": "ad.nl, fd.nl, gooieneemlander.nl, noordhollandsdagblad.nl, reddit.com, rtl.nl, rtlboulevard.nl, rtlz.nl, threads.com",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 13,
+            "duplicate_count": 12,
             "extra_bronnen": [
                 {
                     "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
@@ -160,12 +178,6 @@
                     "source": "rtlz.nl",
                     "link": "http://www.rtlz.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
                     "publishedDate": "18/11/2026 18:45"
-                },
-                {
-                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-                    "source": "nieuwsinalphen.nl",
-                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
-                    "publishedDate": "18/11/2026 20:07"
                 },
                 {
                     "title": "Verzekerden Zilveren Kruis kunnen volgend jaar pas terecht bij Alrijne ziekenhuis",
@@ -215,7 +227,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Aalsmeer werkt plannen voor 2027 uit in college-uitvoeringsprogramma",
@@ -277,22 +289,34 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Aantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk - BNR",
             "link": "https://www.bnr.nl/nieuws/internationaal/10615829/aantal-dodelijke-medicijnresistente-infecties-in-europese-ziekenhuizen-st4a:o1000,ijgt-sterk",
             "publishedDate": "18/11/2026 20:47",
-            "source": "bnr.nl",
+            "source": "bnr.nl, metronieuws.nl, rivm.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Aantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk - BNR",
                     "source": "bnr.nl",
                     "link": "https://www.bnr.nl/nieuws/internationaal/10615829/aantal-dodelijke-medicijnresistente-infecties-in-europese-ziekenhuizen-stijgt-sterk",
                     "publishedDate": "18/11/2026 17:42"
+                },
+                {
+                    "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
+                    "publishedDate": "18/11/2026 13:31"
+                },
+                {
+                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+                    "publishedDate": "17/11/2026 10:57"
                 }
             ],
             "belangrijkheid": 0
@@ -320,12 +344,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwbouw onder druk: datacenters vragen 5 procent van elektriciteit - Bouw en Uitvoering",
-            "link": "https://bouwenuitvoering.nl/actueel/datacenters-meer-elektriciteit/",
-            "publishedDate": "18/11/2026 20:03",
-            "source": "bouwenuitvoering.nl",
+            "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
+            "publishedDate": "18/11/2026 20:07",
+            "source": "nieuwsinalphen.nl",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -359,6 +383,17 @@
             "source": "mednet.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Steeds meer kwetsbare ouderen geholpen via speciale spoedbedden in Meander Medisch Centrum",
+            "link": "https://www.ad.nl/bunschoten-spakenburg/steeds-meer-kwetsbare-ouderen-geholpen-via-speciale-spoedbedden-in-meander-medisch-centrum~afc3b5a3/",
+            "publishedDate": "18/11/2026 19:47",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -431,17 +466,6 @@
             "publishedDate": "18/11/2026 19:24",
             "source": "politie.nl",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
-            "publishedDate": "18/11/2026 19:08",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -599,39 +623,15 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Wethouder Molema vraagt Rijk om hulp bij aanpak crackverslaving | OOG Groningen",
             "link": "https://www.oogtv.nl/2026/11/wethouder-molema-vraagt-rijk-om-hulp-bij-aanpak-crackverslaving/",
             "publishedDate": "18/11/2026 17:46",
-            "source": "actueel365.nl, nos.nl, oogtv.nl",
+            "source": "oogtv.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
-                    "publishedDate": "18/11/2026 15:41"
-                },
-                {
-                    "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
-                    "source": "actueel365.nl",
-                    "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
-                    "publishedDate": "18/11/2026 14:48"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "CBS: datacenters verbruiken vijf procent van de stroom in Nederland - Dutch IT Leaders",
-            "link": "https://www.dutchitleaders.nl/news/765334/cbs-datacenters-goed-voor-vijf-procent-het-nederlandse-stroomverbruik",
-            "publishedDate": "18/11/2026 17:46",
-            "source": "dutchitleaders.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -853,6 +853,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
+            "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
+            "publishedDate": "18/11/2026 15:41",
+            "source": "actueel365.nl, nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
+                    "source": "actueel365.nl",
+                    "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
+                    "publishedDate": "18/11/2026 14:48"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Starke Zorg &amp; Welzijn: 'Goede zorg begint bij \u00e9cht zien wat iemand nodig heeft'",
             "link": "https://www.brugnieuws.nl/nieuws/zakelijk-nieuws-lokaal/379567/starke-zorg-welzijn-goede-zorg-begint-bij-echt-zien-wat-iemand-nodig-heeft",
             "publishedDate": "18/11/2026 15:40",
@@ -1028,22 +1046,16 @@
             "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
             "link": "https://www.pvda.be/nieuws/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
             "publishedDate": "18/11/2026 14:08",
-            "source": "pvda.be, redactie24.be",
+            "source": "pvda.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 6,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
                     "source": "pvda.be",
                     "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
                     "publishedDate": "18/11/2026 06:19"
-                },
-                {
-                    "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
-                    "source": "redactie24.be",
-                    "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
-                    "publishedDate": "18/11/2026 12:33"
                 }
             ],
             "belangrijkheid": 0
@@ -1126,17 +1138,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
-            "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
-            "publishedDate": "18/11/2026 13:31",
-            "source": "metronieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Principes - NIW",
             "link": "https://niw.nl/principes/",
             "publishedDate": "18/11/2026 13:18",
@@ -1155,6 +1156,17 @@
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
+            "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
+            "publishedDate": "18/11/2026 12:33",
+            "source": "redactie24.be",
+            "category": "Overig",
+            "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1290,6 +1302,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
+            "link": "https://www.destadamersfoort.nl/extern-nieuws/gezondheid-meandermc/1328909/steeds-vaker-onbegrepen-gedrag-op-de-spoedeisende-hulp-meande",
+            "publishedDate": "18/11/2026 12:07",
+            "source": "destadamersfoort.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[NU'91] Hulpartikel - Elk uur telt: zo dienen jouw overuren vergoed te worden",
             "link": "https://nu91.nl/nieuws/766-hulpartikel-elk-uur-telt-zo-dienen-jouw-overuren-vergoed-te-worden",
             "publishedDate": "18/11/2026 12:03",
@@ -1410,28 +1433,16 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "drimble.nl, noordhollandsdagblad.nl, stadindex.nl, westlanders.nu",
+            "source": "noordhollandsdagblad.nl, stadindex.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
                     "source": "stadindex.nl",
                     "link": "https://www.stadindex.nl/alkmaar/3631250-grote-partij-illegale-afslankmiddelen-in-beslag-genomen-drie-verdachten-opgepakt",
                     "publishedDate": "18/11/2026 09:19"
-                },
-                {
-                    "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
-                    "source": "westlanders.nu",
-                    "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
-                    "publishedDate": "18/11/2026 08:01"
-                },
-                {
-                    "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
-                    "publishedDate": "18/11/2026 02:08"
                 }
             ],
             "belangrijkheid": 0
@@ -1492,6 +1503,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
+            "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
+            "publishedDate": "18/11/2026 08:01",
+            "source": "westlanders.nu",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "NZa pleit voor meer standaardisatie bij inkoop jeugdzorg - InkopersCafe.nl",
             "link": "https://www.inkoperscafe.nl/nza-pleit-voor-meer-standaardisatie-bij-inkoop-jeugdzorg",
             "publishedDate": "18/11/2026 06:05",
@@ -1542,6 +1564,17 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
+            "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
+            "publishedDate": "18/11/2026 02:08",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1629,17 +1662,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-            "publishedDate": "17/11/2026 10:57",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
