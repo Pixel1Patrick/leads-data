@@ -219,11 +219,24 @@
             "title": "Zes Limburgse bedrijven failliet, onder meer beachclub, zorggroep en reparatiebedrijf",
             "link": "https://www.faillissementsdossier.nl/nieuws/34096/zes-limburgse-bedrijven-failliet-onder-meer-beachclub-zorggroep-en-reparatiebedrijf",
             "publishedDate": "18/11/2026 16:31",
-            "source": "faillissementsdossier.nl",
+            "source": "faillissementsdossier.nl, l1nieuws.nl, limburger.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Zes bedrijven in Limburg failliet waaronder een reparatiebedrijf, een beachclub en ... - De Limburger",
+                    "source": "limburger.nl",
+                    "link": "https://www.limburger.nl/economie/zes-bedrijven-in-limburg-failliet-waaronder-een-reparatiebedrijf-een-beachclub-en-een-zorgaanbieder/164684158.html",
+                    "publishedDate": "17/11/2026 21:37"
+                },
+                {
+                    "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
+                    "publishedDate": "17/11/2026 14:49"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -373,11 +386,18 @@
             "title": "Zorgministers Koninkrijk komen op Aruba bijeen, ook ziekenhuiszorg voor BES-eilanden op agenda",
             "link": "https://www.aruba.nu/nieuws/politiek-bestuur/98639/zorgministers-koninkrijk-komen-op-aruba-bijeen-ook-ziekenhuiszorg-voor-bes-eilanden-op-agenda",
             "publishedDate": "18/11/2026 15:43",
-            "source": "aruba.nu",
+            "source": "aruba.nu, rijksoverheid.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Minister Sterk naar Aruba voor Bestuurlijk Vierlandenoverleg Volksgezondheid",
+                    "source": "rijksoverheid.nl",
+                    "link": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/17/minister-sterk-naar-aruba-voor-bestuurlijk-vierlandenoverleg-volksgezondheid",
+                    "publishedDate": "17/11/2026 20:30"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -764,26 +784,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
                     "publishedDate": "18/11/2026 12:30"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
-            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-            "publishedDate": "18/11/2026 12:26",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+                    "publishedDate": "18/11/2026 12:26"
+                },
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
                     "source": "open.overheid.nl",
@@ -882,7 +896,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
@@ -1243,17 +1257,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zes bedrijven in Limburg failliet waaronder een reparatiebedrijf, een beachclub en ... - De Limburger",
-            "link": "https://www.limburger.nl/economie/zes-bedrijven-in-limburg-failliet-waaronder-een-reparatiebedrijf-een-beachclub-en-een-zorgaanbieder/164684158.html",
-            "publishedDate": "17/11/2026 21:37",
-            "source": "limburger.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Na hyperbare zuurstoftherapie:\u201cMijn klachten zijn niet terug gekomen\u201d",
             "link": "https://www.halsterse-zuidwestkrant.nl/nieuws/algemeen/35410/na-hyperbare-zuurstoftherapie-mijn-klachten-zijn-niet-terug-g",
             "publishedDate": "17/11/2026 21:34",
@@ -1293,17 +1296,6 @@
             "source": "nvda.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Minister Sterk naar Aruba voor Bestuurlijk Vierlandenoverleg Volksgezondheid",
-            "link": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/17/minister-sterk-naar-aruba-voor-bestuurlijk-vierlandenoverleg-volksgezondheid",
-            "publishedDate": "17/11/2026 20:30",
-            "source": "rijksoverheid.nl",
-            "category": "Overig",
-            "feed_label": "VWS Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1447,17 +1439,6 @@
             "source": "ntvt.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
-            "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
-            "publishedDate": "17/11/2026 14:49",
-            "source": "l1nieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
