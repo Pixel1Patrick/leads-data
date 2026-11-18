@@ -7,22 +7,16 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Geannoteerde agenda formele EU Gezondheidsraad 8 december 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/a82e0fb3-4c72-4eb9-bded-727969f24a81",
                     "publishedDate": "18/11/2026 14:25"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief reactie op advies Deskundigenberaad Zo\u00f6nosen vogelgriep 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/e84ea5ed-aff9-4525-8856-dd2e79dd5359",
-                    "publishedDate": "18/11/2026 12:20"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Dit zijn de goedkoopste zorgverzekeringen met tandarts 2027 - Energie vergelijken",
@@ -51,43 +45,43 @@
                     "publishedDate": "18/11/2026 06:19"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
             "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
             "publishedDate": "18/11/2026 12:30",
-            "source": "jeugdzorgnederland.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 7,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
                     "publishedDate": "18/11/2026 12:30"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-                    "publishedDate": "18/11/2026 12:26"
-                },
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
+            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+            "publishedDate": "18/11/2026 12:26",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/e4f6aea4-2ac2-497e-b365-46c582bbba49",
                     "publishedDate": "18/11/2026 12:26"
-                },
-                {
-                    "title": "Onze reactie op de Stand van de Jeugdzorg 2026",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/onze-reactie-op-de-stand-van-de-jeugdzorg-2026/",
-                    "publishedDate": "17/11/2026 21:06"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgverzekeraars verhogen korting bij jaarbetaling - VerzekeringsNieuws",
@@ -96,6 +90,17 @@
             "source": "verzekeringsnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief reactie op advies Deskundigenberaad Zo\u00f6nosen vogelgriep 5 oktober 2026",
+            "link": "https://open.overheid.nl/details/e84ea5ed-aff9-4525-8856-dd2e79dd5359",
+            "publishedDate": "18/11/2026 12:20",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -137,24 +142,11 @@
             "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
             "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
             "publishedDate": "18/11/2026 12:19",
-            "source": "huisartsvandaag.nl, metronieuws.nl, overstappen.nl",
+            "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
-                    "publishedDate": "17/11/2026 15:03"
-                },
-                {
-                    "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
-                    "source": "overstappen.nl",
-                    "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
-                    "publishedDate": "17/11/2026 13:04"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -184,24 +176,17 @@
                     "publishedDate": "18/11/2026 12:17"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgverzekeraar Anderzorg gaat in 2027 volledig op in Menzis - Huisartsvandaag.nl",
             "link": "https://huisartsvandaag.nl/zorgverzekeraar-anderzorg-gaat-in-2027-volledig-op-in-menzis/",
             "publishedDate": "18/11/2026 12:08",
-            "source": "huisartsvandaag.nl, nza.nl",
+            "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "NZa: CAK voert wettelijke taken rechtmatig uit en verbetert dienstverlening",
-                    "source": "nza.nl",
-                    "link": "https://www.nza.nl/actueel/nieuws/2026/11/18/nza-cak-voert-wettelijke-taken-rechtmatig-uit-en-verbetert-dienstverlening",
-                    "publishedDate": "18/11/2026 10:17"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -230,24 +215,11 @@
             "title": "Afscheid in mineur: Jasper De Buyst loopt sleutelbeenbreuk en inwendige bloeding op bij ...",
             "link": "https://www.demorgen.be/sport/afscheid-in-mineur-jasper-de-buyst-loopt-sleutelbeenbreuk-en-inwendige-bloeding-op-bij-val-op-openingsdag-zesdaagse-van-gent~b1d9b701/",
             "publishedDate": "18/11/2026 11:34",
-            "source": "demorgen.be, sporza.be, wielerflits.be",
+            "source": "demorgen.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Zesdaagse van Gent opgeschrikt door zware val Jasper De Buyst en Jules Hesters - Wielerflits",
-                    "source": "wielerflits.be",
-                    "link": "https://www.wielerflits.be/nieuws/zesdaagse-van-gent-opgeschrikt-door-zware-val-jasper-de-buyst-en-jules-hesters-openingsavond-vroegtijdig-stilgelegd/",
-                    "publishedDate": "18/11/2026 08:56"
-                },
-                {
-                    "title": "afscheidnemende De Buyst afgevoerd na zware val in ploegkoers - Sporza",
-                    "source": "sporza.be",
-                    "link": "https://sporza.be/nl/2026/11/13/openingsavond-zesdaagse-gent-vroegtijdig-stopgezet-afscheidnemende-de-buyst-afgevoerd-na-zware-val-in-ploegkoers~1794560094233/",
-                    "publishedDate": "18/11/2026 08:45"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -265,24 +237,11 @@
             "title": "Ziekenhuis Geel trapt op Wereld COPD-Dag voor meer bewustwording",
             "link": "https://antwerpspersbureau.be/ziekenhuis-geel-trapt-op-wereld-copd-dag-voor-meer-bewustwording/",
             "publishedDate": "18/11/2026 11:06",
-            "source": "antwerpspersbureau.be, despecialist.eu, tvl.be",
+            "source": "antwerpspersbureau.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Jessa Ziekenhuis in Hasselt vraagt aandacht voor COPD | TVL",
-                    "source": "tvl.be",
-                    "link": "https://www.tvl.be/nieuws/jessa-ziekenhuis-vraagt-aandacht-voor-longziekte-copd-vroege-diagnose-maakt-verschil-voor-levenskwaliteit-184311",
-                    "publishedDate": "18/11/2026 08:46"
-                },
-                {
-                    "title": "HART, QUEST en MCH willen COPD-zorg bij huisartsen verbeteren - De Specialist",
-                    "source": "despecialist.eu",
-                    "link": "https://www.despecialist.eu/nl/nieuws/hart-quest-en-mch-willen-copd-zorg-bij-huisartsen-verbeteren.html",
-                    "publishedDate": "17/11/2026 18:32"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -292,27 +251,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Bestuurskosten secretaris-generaal van het ministerie van VWS, oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/38cfba92-4bb6-4fb9-8411-3d606290c172",
-                    "publishedDate": "18/11/2026 10:57"
-                },
-                {
-                    "title": "Bestuurskosten minister Mirjam Sterk van het ministerie van VWS, oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/dc13f6c4-3f59-4cb7-8c8e-0f6669ae7a0b",
-                    "publishedDate": "18/11/2026 10:12"
-                },
-                {
-                    "title": "Bestuurskosten minister Sophie Hermans van het ministerie van VWS, oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/7314f878-5ea1-418e-9d6d-0ecc49e90d9f",
-                    "publishedDate": "18/11/2026 10:16"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -327,21 +267,32 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Bestuurskosten secretaris-generaal van het ministerie van VWS, oktober 2026",
+            "link": "https://open.overheid.nl/details/38cfba92-4bb6-4fb9-8411-3d606290c172",
+            "publishedDate": "18/11/2026 10:57",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Bestuurskosten minister Mirjam Sterk van het ministerie van VWS, oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/dc13f6c4-3f59-4cb7-8c8e-0f6669ae7a0b",
+                    "publishedDate": "18/11/2026 10:12"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Nascholing \u2018Starten als apotheekhoudend huisarts\u2019 met enthousiasme ontvangen",
             "link": "https://www.lhv.nl/nieuws/nascholing-starten-als-apotheekhoudend-huisarts-met-enthousiasme-ontvangen/",
             "publishedDate": "18/11/2026 10:43",
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Ontwikkelen visie apotheekhoudende huisartsen(zorg)",
-                    "source": "lhv.nl",
-                    "link": "https://www.lhv.nl/nieuws/ontwikkelen-visie-apotheekhoudende-huisartsenzorg/",
-                    "publishedDate": "18/11/2026 10:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -351,6 +302,17 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ontwikkelen visie apotheekhoudende huisartsen(zorg)",
+            "link": "https://www.lhv.nl/nieuws/ontwikkelen-visie-apotheekhoudende-huisartsenzorg/",
+            "publishedDate": "18/11/2026 10:36",
+            "source": "lhv.nl",
+            "category": "Overig",
+            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -441,6 +403,28 @@
                     "publishedDate": "17/11/2026 13:00"
                 }
             ],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "NZa: CAK voert wettelijke taken rechtmatig uit en verbetert dienstverlening",
+            "link": "https://www.nza.nl/actueel/nieuws/2026/11/18/nza-cak-voert-wettelijke-taken-rechtmatig-uit-en-verbetert-dienstverlening",
+            "publishedDate": "18/11/2026 10:17",
+            "source": "nza.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "NZa Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bestuurskosten minister Sophie Hermans van het ministerie van VWS, oktober 2026",
+            "link": "https://open.overheid.nl/details/7314f878-5ea1-418e-9d6d-0ecc49e90d9f",
+            "publishedDate": "18/11/2026 10:16",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -474,7 +458,25 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zesdaagse van Gent opgeschrikt door zware val Jasper De Buyst en Jules Hesters - Wielerflits",
+            "link": "https://www.wielerflits.be/nieuws/zesdaagse-van-gent-opgeschrikt-door-zware-val-jasper-de-buyst-en-jules-hesters-openingsavond-vroegtijdig-stilgelegd/",
+            "publishedDate": "18/11/2026 08:56",
+            "source": "sporza.be, wielerflits.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "afscheidnemende De Buyst afgevoerd na zware val in ploegkoers - Sporza",
+                    "source": "sporza.be",
+                    "link": "https://sporza.be/nl/2026/11/13/openingsavond-zesdaagse-gent-vroegtijdig-stopgezet-afscheidnemende-de-buyst-afgevoerd-na-zware-val-in-ploegkoers~1794560094233/",
+                    "publishedDate": "18/11/2026 08:45"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Strafste verpleegkundigen van Vlaanderen bekroond op finale Challenge Verpleegkunde van ZAS",
@@ -494,6 +496,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jessa Ziekenhuis in Hasselt vraagt aandacht voor COPD | TVL",
+            "link": "https://www.tvl.be/nieuws/jessa-ziekenhuis-vraagt-aandacht-voor-longziekte-copd-vroege-diagnose-maakt-verschil-voor-levenskwaliteit-184311",
+            "publishedDate": "18/11/2026 08:46",
+            "source": "tvl.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -524,19 +537,12 @@
             "title": "Jeugdhulp blijft de medische verwijsroute behouden - Zorgkrant",
             "link": "https://www.zorgkrant.nl/jeugdzorg/21683-jeugdhulp-blijft-de-medische-verwijsroute-behouden",
             "publishedDate": "18/11/2026 08:06",
-            "source": "denederlandseggz.nl, zorgkrant.nl",
+            "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 13:54"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Voor een prikkie onder het mes: sterilisatie in Nieuwegein \u00e9\u00e9n van goedkoopste opties in Utrecht",
@@ -769,18 +775,11 @@
             "title": "Zes bedrijven in Limburg failliet waaronder een reparatiebedrijf, een beachclub en ... - De Limburger",
             "link": "https://www.limburger.nl/economie/zes-bedrijven-in-limburg-failliet-waaronder-een-reparatiebedrijf-een-beachclub-en-een-zorgaanbieder/164684158.html",
             "publishedDate": "17/11/2026 21:37",
-            "source": "l1nieuws.nl, limburger.nl",
+            "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
-                    "source": "l1nieuws.nl",
-                    "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
-                    "publishedDate": "17/11/2026 14:49"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -802,6 +801,17 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Onze reactie op de Stand van de Jeugdzorg 2026",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/onze-reactie-op-de-stand-van-de-jeugdzorg-2026/",
+            "publishedDate": "17/11/2026 21:06",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 3,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -832,7 +842,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Meldpunt Actueel: meer alcoholgerelateerde zorg, minder geld voor preventie",
@@ -929,6 +939,17 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "HART, QUEST en MCH willen COPD-zorg bij huisartsen verbeteren - De Specialist",
+            "link": "https://www.despecialist.eu/nl/nieuws/hart-quest-en-mch-willen-copd-zorg-bij-huisartsen-verbeteren.html",
+            "publishedDate": "17/11/2026 18:32",
+            "source": "despecialist.eu",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1197,24 +1218,11 @@
             "title": "Top 5 goedkoopste zorgverzekeringen van 2027 op een rij - Energie vergelijken",
             "link": "https://www.keuze.nl/nieuws/goedkoopste-zorgverzekeringen-2027",
             "publishedDate": "17/11/2026 15:13",
-            "source": "keuze.nl, linda.nl, zorgwijzer.nl",
+            "source": "keuze.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
-                    "source": "linda.nl",
-                    "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
-                    "publishedDate": "17/11/2026 14:58"
-                },
-                {
-                    "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
-                    "publishedDate": "17/11/2026 14:53"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1224,6 +1232,17 @@
             "source": "made-in.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
+            "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
+            "publishedDate": "17/11/2026 15:03",
+            "source": "metronieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1247,12 +1266,45 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
+            "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
+            "publishedDate": "17/11/2026 14:58",
+            "source": "linda.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
+            "publishedDate": "17/11/2026 14:53",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Leefgroepbegeleider Line (49) maakt eigen podcast over kinderen en bijzondere jeugdzorg",
             "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/knokke-heist/leefgroepbegeleider-line-49-maakt-eigen-podcast-over-kinderen-en-bijzondere-jeugdzorg-het-is-vaak-geen-grote-stap/164662340.html",
             "publishedDate": "17/11/2026 14:52",
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
+            "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
+            "publishedDate": "17/11/2026 14:49",
+            "source": "l1nieuws.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1353,6 +1405,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
+            "link": "https://www.overstappen.nl/nieuws/twee-op-de-drie-zorgpolissen-kosten-in-2027-meer-dan-2-000-euro-per-jaar/",
+            "publishedDate": "17/11/2026 13:04",
+            "source": "overstappen.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Pesten blijft probleem voor jong &amp; oud - Streekomroep Walcheren",
             "link": "https://wfm96.nl/pesten-blijft-probleem-voor-jong-oud/",
             "publishedDate": "17/11/2026 12:53",
@@ -1436,28 +1499,16 @@
             "source": "nza.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Invoering nieuwe bekostiging stoppen met roken uitgesteld",
                     "source": "nza.nl",
                     "link": "https://www.nza.nl/actueel/nieuws/2026/11/11/invoering-nieuwe-bekostiging-stoppen-met-roken-uitgesteld",
                     "publishedDate": "11/11/2026 12:06"
-                },
-                {
-                    "title": "Gemeentelijke uitgaven aan jeugdzorg - Nederlandse Zorgautoriteit",
-                    "source": "nza.nl",
-                    "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026/gebruik-en-financien/kosten-van-de-jeugdzorg/gemeentelijke-uitgaven-aan-jeugdzorg",
-                    "publishedDate": "17/11/2026 05:05"
-                },
-                {
-                    "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg",
-                    "source": "nza.nl",
-                    "link": "https://www.nza.nl/actueel/nieuws/2026/11/16/nza-beter-inzicht-nodig-in-beschikbaarheid-van-jeugdzorg",
-                    "publishedDate": "16/11/2026 19:45"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Als wel of niet reanimeren tot discussie leidt",
@@ -1515,12 +1566,34 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Gemeentelijke uitgaven aan jeugdzorg - Nederlandse Zorgautoriteit",
+            "link": "https://www.nza.nl/onderwerpen/s/stand-van-de-jeugdzorg-2026/gebruik-en-financien/kosten-van-de-jeugdzorg/gemeentelijke-uitgaven-aan-jeugdzorg",
+            "publishedDate": "17/11/2026 05:05",
+            "source": "nza.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Santander Go Short Duration Dollar SEH | Fonds | EUR - Morningstar",
             "link": "https://global.morningstar.com/nl/beleggingen/fondsen/0P0001X1RD/quote",
             "publishedDate": "16/11/2026 20:48",
             "source": "global.morningstar.com",
             "category": "Overig",
             "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg",
+            "link": "https://www.nza.nl/actueel/nieuws/2026/11/16/nza-beter-inzicht-nodig-in-beschikbaarheid-van-jeugdzorg",
+            "publishedDate": "16/11/2026 19:45",
+            "source": "nza.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1565,6 +1638,17 @@
             "source": "vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
+            "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+            "publishedDate": "16/11/2026 13:54",
+            "source": "denederlandseggz.nl",
+            "category": "Overig",
+            "feed_label": "Nederlandse ggz",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2265,6 +2349,13 @@
             "tijd": "12:00\n12:00",
             "soort": "\ud83d\udd12 Besloten inbreng schriftelijk overleg",
             "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07921"
+        },
+        {
+            "titel": "Overhandiging Motie Villa Expert Care",
+            "datum_kort": "24-11-2026",
+            "tijd": "13:45\n14:00",
+            "soort": "Petitie",
+            "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08458"
         },
         {
             "titel": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
