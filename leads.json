@@ -22,17 +22,11 @@
             "title": "Jeugdhulp blijft de medische verwijsroute behouden - Zorgkrant",
             "link": "https://www.zorgkrant.nl/jeugdzorg/21683-jeugdhulp-blijft-de-medische-verwijsroute-behouden",
             "publishedDate": "18/11/2026 08:06",
-            "source": "denederlandseggz.nl, medischcontact.nl, zorgkrant.nl",
+            "source": "denederlandseggz.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
-                {
-                    "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
-                    "source": "medischcontact.nl",
-                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
-                    "publishedDate": "17/11/2026 12:20"
-                },
                 {
                     "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
                     "source": "denederlandseggz.nl",
@@ -40,7 +34,7 @@
                     "publishedDate": "16/11/2026 13:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "NZa pleit voor meer standaardisatie bij inkoop jeugdzorg - InkopersCafe.nl",
@@ -1249,6 +1243,17 @@
             "source": "umcutrecht.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
+            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
+            "publishedDate": "17/11/2026 12:20",
+            "source": "medischcontact.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
