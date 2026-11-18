@@ -662,30 +662,11 @@
             "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
             "publishedDate": "17/11/2026 19:32",
-            "source": "ad.nl, nieuws.feelgoodradio.nl, nos.nl, omroepbrabant.nl",
+            "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
-                    "source": "nieuws.feelgoodradio.nl",
-                    "link": "https://nieuws.feelgoodradio.nl/4-en-65-jaar-cel-voor-uitvoerders-van-drugsapotheek/",
-                    "publishedDate": "17/11/2026 17:22"
-                },
-                {
-                    "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
-                    "publishedDate": "17/11/2026 16:02"
-                },
-                {
-                    "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
-                    "publishedDate": "17/11/2026 15:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -777,6 +758,17 @@
             "link": "https://spanjevandaag.com/17/11/2026/nolotil-doden-britten-studie-gandia/",
             "publishedDate": "17/11/2026 17:41",
             "source": "spanjevandaag.com",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
+            "link": "https://nieuws.feelgoodradio.nl/4-en-65-jaar-cel-voor-uitvoerders-van-drugsapotheek/",
+            "publishedDate": "17/11/2026 17:22",
+            "source": "nieuws.feelgoodradio.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
@@ -883,6 +875,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zeven en vier jaar cel voor medewerkers illegale medicijnensite - NOS",
+            "link": "https://nos.nl/artikel/2639885-zeven-en-vier-jaar-cel-voor-medewerkers-illegale-medicijnensite",
+            "publishedDate": "17/11/2026 16:02",
+            "source": "ad.nl, nos.nl, omroepbrabant.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
+                    "publishedDate": "17/11/2026 15:47"
+                },
+                {
+                    "title": "Medicijnenhandel vanuit rijtjeshuis levert miljoenen euro's op, maar ook jarenlange celstraffen | - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/leidschendam-voorburg/medicijnenhandel-vanuit-rijtjeshuis-levert-miljoenen-euros-op-maar-ook-jarenlange-celstraffen~a02c0e5e/",
+                    "publishedDate": "17/11/2026 15:03"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Campagne 'Gezondheid kan niet wachten' - DalfsenNet",
             "link": "https://www.dalfsennet.nl/nieuws/556782/campagne-gezondheid-kan-niet-wachten.html",
             "publishedDate": "17/11/2026 15:58",
@@ -922,17 +938,6 @@
             "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bredase 'apothekers' de cel in voor handel in gevaarlijke namaakpillen - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035009/bredase-apothekers-de-cel-in-voor-handel-in-gevaarlijke-namaakpillen",
-            "publishedDate": "17/11/2026 15:47",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1432,7 +1437,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "KIK-V-analyses brengen knelpunten bij zorgaanbieders in beeld - ICT&amp;health",
@@ -1703,7 +1708,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
@@ -1798,7 +1803,7 @@
             "feed_label": "Nederlandse ggz",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Eigen huisartsenspoedpost in Haaksbergen tijdens weekenden gaat verdwijnen",
