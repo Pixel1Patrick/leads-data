@@ -1,6 +1,24 @@
 {
     "artikelen": [
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Geannoteerde agenda formele EU Gezondheidsraad 8 december 2026",
+            "link": "https://open.overheid.nl/details/9f093d34-945d-4583-89c8-2eddd2363961",
+            "publishedDate": "18/11/2026 14:25",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Geannoteerde agenda formele EU Gezondheidsraad 8 december 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/a82e0fb3-4c72-4eb9-bded-727969f24a81",
+                    "publishedDate": "18/11/2026 14:25"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Dit zijn de goedkoopste zorgverzekeringen met tandarts 2027 - Energie vergelijken",
             "link": "https://www.keuze.nl/nieuws/goedkoopste-zorgverzekering-tandarts-2027",
             "publishedDate": "18/11/2026 13:07",
@@ -27,7 +45,7 @@
                     "publishedDate": "18/11/2026 06:19"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
@@ -36,20 +54,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
                     "publishedDate": "18/11/2026 12:30"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-                    "publishedDate": "18/11/2026 12:26"
-                },
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
+            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+            "publishedDate": "18/11/2026 12:26",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
                     "source": "open.overheid.nl",
@@ -77,15 +101,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief reactie op advies Deskundigenberaad Zo\u00f6nosen vogelgriep 5 oktober 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c6852b2c-24fb-445b-9d8a-dd825f654cdc",
-                    "publishedDate": "18/11/2026 12:20"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -130,7 +147,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Brochure Dementie in taal en beeld",
@@ -380,7 +397,7 @@
                     "publishedDate": "17/11/2026 15:03"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "NZa: CAK voert wettelijke taken rechtmatig uit en verbetert dienstverlening",
@@ -438,25 +455,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over vergelijking  jeugdwet en ouderen geldende wetgeving",
-            "link": "https://open.overheid.nl/details/a2453ac0-1f02-4d9c-a1ae-f2c87fbaaac1",
-            "publishedDate": "18/11/2026 09:13",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zesdaagse van Gent opgeschrikt door zware val Jasper De Buyst en Jules Hesters - Wielerflits",
             "link": "https://www.wielerflits.be/nieuws/zesdaagse-van-gent-opgeschrikt-door-zware-val-jasper-de-buyst-en-jules-hesters-openingsavond-vroegtijdig-stilgelegd/",
             "publishedDate": "18/11/2026 08:56",
-            "source": "wielerflits.be",
+            "source": "sporza.be, wielerflits.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "afscheidnemende De Buyst afgevoerd na zware val in ploegkoers - Sporza",
+                    "source": "sporza.be",
+                    "link": "https://sporza.be/nl/2026/11/13/openingsavond-zesdaagse-gent-vroegtijdig-stopgezet-afscheidnemende-de-buyst-afgevoerd-na-zware-val-in-ploegkoers~1794560094233/",
+                    "publishedDate": "18/11/2026 08:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -493,17 +506,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "afscheidnemende De Buyst afgevoerd na zware val in ploegkoers - Sporza",
-            "link": "https://sporza.be/nl/2026/11/13/openingsavond-zesdaagse-gent-vroegtijdig-stopgezet-afscheidnemende-de-buyst-afgevoerd-na-zware-val-in-ploegkoers~1794560094233/",
-            "publishedDate": "18/11/2026 08:45",
-            "source": "sporza.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Bellen Met Ellen: boek SinterMichiel! | Nieuws - KINK",
             "link": "https://kink.nl/nieuws/bellen-met-ellen-boek-sintermichiel",
             "publishedDate": "18/11/2026 08:36",
@@ -529,24 +531,11 @@
             "title": "Jeugdhulp blijft de medische verwijsroute behouden - Zorgkrant",
             "link": "https://www.zorgkrant.nl/jeugdzorg/21683-jeugdhulp-blijft-de-medische-verwijsroute-behouden",
             "publishedDate": "18/11/2026 08:06",
-            "source": "denederlandseggz.nl, medischcontact.nl, zorgkrant.nl",
+            "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Toch geen inperking van verwijsrecht artsen naar jeugdhulp | medischcontact",
-                    "source": "medischcontact.nl",
-                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/toch-geen-inperking-van-verwijsrecht-artsen-naar-jeugdhulp",
-                    "publishedDate": "17/11/2026 12:20"
-                },
-                {
-                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 13:54"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -655,8 +644,15 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Extra uren en de 12% overwerktoeslag: hoe zit het ook alweer?",
+                    "source": "lhv.nl",
+                    "link": "https://www.lhv.nl/nieuws/extra-uren-en-de-12-overwerktoeslag-hoe-zit-het-ook-alweer/",
+                    "publishedDate": "16/11/2026 02:16"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -780,11 +776,18 @@
             "title": "Zes bedrijven in Limburg failliet waaronder een reparatiebedrijf, een beachclub en ... - De Limburger",
             "link": "https://www.limburger.nl/economie/zes-bedrijven-in-limburg-failliet-waaronder-een-reparatiebedrijf-een-beachclub-en-een-zorgaanbieder/164684158.html",
             "publishedDate": "17/11/2026 21:37",
-            "source": "limburger.nl",
+            "source": "l1nieuws.nl, limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
+                    "publishedDate": "17/11/2026 14:49"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -900,15 +903,8 @@
             "source": "weespernieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gemeente trekt drie miljoen euro uit voor Ouder- en Kindteams - WeesperNieuws",
-                    "source": "weespernieuws.nl",
-                    "link": "https://www.weespernieuws.nl/algemeen/algemeen/382992/gemeente-trekt-drie-miljoen-euro-uit-voor-ouder-en-kindteams",
-                    "publishedDate": "17/11/2026 13:32"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1311,17 +1307,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Beachclub, zorgorganisatie en vier andere bedrijven failliet in Limburg - L1 Nieuws",
-            "link": "https://www.l1nieuws.nl/nieuws/3273688/beachclub-zorgorganisatie-en-vier-andere-bedrijven-failliet-in-limburg",
-            "publishedDate": "17/11/2026 14:49",
-            "source": "l1nieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
             "link": "https://www.vgn.nl/nieuws/rivm-nederland-schiet-tekort-bevorderen-gelijke-kansen-voor-mensen-met-een-beperking",
             "publishedDate": "17/11/2026 14:45",
@@ -1373,17 +1358,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jeugdhulp in Amsterdam meer thuis, op school en in de buurt",
-            "link": "https://www.amsterdam.nl/bestuur-organisatie/college/wethouder/esmah-lahlah/persberichten-nieuws-esmah-lahlah/jeugdhulp-amsterdam-thuis-school-buurt/",
-            "publishedDate": "17/11/2026 14:20",
-            "source": "amsterdam.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Waar vind je actueel zorgnieuws en ontwikkelingen in de zorg?",
             "link": "https://www.nationalezorggids.nl/onze-zorgblogs/actueel-zorgnieuws-nederland/",
             "publishedDate": "17/11/2026 14:17",
@@ -1401,17 +1375,6 @@
             "source": "dvhn.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gemeenteraad Amstelveen bespreekt sekswerk, jeugdhulp en woningbouw | Regio | AD.nl",
-            "link": "https://www.ad.nl/amstelveen/gemeenteraad-amstelveen-bespreekt-sekswerk-jeugdhulp-en-woningbouw~ac265ee7/",
-            "publishedDate": "17/11/2026 14:07",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1472,17 +1435,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Mensen willen niet als probleem gedefinieerd worden, maar hoop en perspectief hebben",
-            "link": "https://rtvparkstad.nl/nieuws/jop-positieve-jeugdzorg-mensen-willen-niet-als-probleem-gedefinieerd-worden-maar-hoop-en-perspectief-hebben/",
-            "publishedDate": "17/11/2026 12:51",
-            "source": "rtvparkstad.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Langdurige zorg] Zorgaanbieders en zorgkantoren bereiken overeenstemming over contractering 2027",
             "link": "https://www.zn.nl/actueel/zorgaanbieders-en-zorgkantoren-bereiken-overeenstemming-over-contractering-2027/",
             "publishedDate": "17/11/2026 12:12",
@@ -1527,34 +1479,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Veilig Thuis roept op kindermishandeling sneller aan te geven, maar kan het meer ...",
-            "link": "https://eenvandaag.avrotros.nl/artikelen/veilig-thuis-roept-op-kindermishandeling-sneller-aan-te-geven-maar-kan-het-meer-meldingen-wel-verwerken-165402",
-            "publishedDate": "17/11/2026 11:08",
-            "source": "eenvandaag.avrotros.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
             "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
             "publishedDate": "17/11/2026 10:57",
             "source": "rivm.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "RIVM Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Mantelzorgers.nl wordt gelanceerd: gratis hulp in de buurt, in heel Nederland -",
-            "link": "https://www.ggznieuws.nl/mantelzorgers-nl-wordt-gelanceerd-gratis-hulp-in-de-buurt-in-heel-nederland/",
-            "publishedDate": "17/11/2026 10:43",
-            "source": "ggznieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1586,17 +1516,6 @@
                     "publishedDate": "11/11/2026 12:06"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Met @dventuur verbindend en creatief aan de slag - Persinfo.org",
-            "link": "https://www.persinfo.org/nl/nieuws/artikel/met-dventuur-verbindend-en-creatief-aan-de-slag/67336",
-            "publishedDate": "17/11/2026 08:47",
-            "source": "persinfo.org",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1732,6 +1651,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
+            "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+            "publishedDate": "16/11/2026 13:54",
+            "source": "denederlandseggz.nl",
+            "category": "Overig",
+            "feed_label": "Nederlandse ggz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Eigen huisartsenspoedpost in Haaksbergen tijdens weekenden gaat verdwijnen",
             "link": "https://huisartsvandaag.nl/eigen-huisartsenspoedpost-in-haaksbergen-tijdens-weekenden-gaat-verdwijnen/",
             "publishedDate": "16/11/2026 12:24",
@@ -1760,17 +1690,6 @@
             "source": "cibg.nl",
             "category": "Overig",
             "feed_label": "CIBG",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Extra uren en de 12% overwerktoeslag: hoe zit het ook alweer?",
-            "link": "https://www.lhv.nl/nieuws/extra-uren-en-de-12-overwerktoeslag-hoe-zit-het-ook-alweer/",
-            "publishedDate": "16/11/2026 02:16",
-            "source": "lhv.nl",
-            "category": "Overig",
-            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
