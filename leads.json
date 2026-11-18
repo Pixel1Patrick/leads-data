@@ -25,20 +25,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
                     "publishedDate": "18/11/2026 12:30"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-                    "publishedDate": "18/11/2026 12:26"
-                },
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
+            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+            "publishedDate": "18/11/2026 12:26",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
                     "source": "open.overheid.nl",
@@ -280,10 +286,10 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "ad.nl, drimble.nl, nieuws.feelgoodradio.nl, noordhollandsdagblad.nl, nos.nl, omroepbrabant.nl, stadindex.nl, westlanders.nu",
+            "source": "ad.nl, nieuws.feelgoodradio.nl, noordhollandsdagblad.nl, nos.nl, omroepbrabant.nl, stadindex.nl, westlanders.nu",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 9,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
@@ -296,12 +302,6 @@
                     "source": "westlanders.nu",
                     "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
                     "publishedDate": "18/11/2026 08:01"
-                },
-                {
-                    "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
-                    "publishedDate": "18/11/2026 02:08"
                 },
                 {
                     "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
@@ -334,7 +334,7 @@
                     "publishedDate": "17/11/2026 15:03"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "NZa: CAK voert wettelijke taken rechtmatig uit en verbetert dienstverlening",
@@ -581,6 +581,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
+            "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
+            "publishedDate": "18/11/2026 02:08",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "GSK krijgt FDA-goedkeuring voor longkankerbehandeling Nelkarmi - Investing.com",
             "link": "https://nl.investing.com/news/stock-market-news/gsk-krijgt-fdagoedkeuring-voor-longkankerbehandeling-nelkarmi-978229",
             "publishedDate": "18/11/2026 01:52",
@@ -617,10 +628,10 @@
             "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
             "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
             "publishedDate": "18/11/2026 00:19",
-            "source": "huisartsvandaag.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
+            "source": "huisartsvandaag.nl, keuze.nl, linda.nl, metronieuws.nl, overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 6,
+            "duplicate_count": 9,
             "extra_bronnen": [
                 {
                     "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
@@ -635,10 +646,28 @@
                     "publishedDate": "17/11/2026 13:16"
                 },
                 {
+                    "title": "Top 5 goedkoopste zorgverzekeringen van 2027 op een rij - Energie vergelijken",
+                    "source": "keuze.nl",
+                    "link": "https://www.keuze.nl/nieuws/goedkoopste-zorgverzekeringen-2027",
+                    "publishedDate": "17/11/2026 15:13"
+                },
+                {
                     "title": "Zorgexpert: 42 zorgverzekeringen kosten in 2027 meer dan 2000 euro, maar verschil loopt ...",
                     "source": "metronieuws.nl",
                     "link": "https://www.metronieuws.nl/geld-carriere/2026/11/zorgverzekering-2027-twee-op-drie-polissen-duurder-2000-euro-br/",
                     "publishedDate": "17/11/2026 15:03"
+                },
+                {
+                    "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
+                    "source": "linda.nl",
+                    "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
+                    "publishedDate": "17/11/2026 14:58"
+                },
+                {
+                    "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
+                    "publishedDate": "17/11/2026 14:53"
                 },
                 {
                     "title": "Twee op de drie zorgpolissen kosten in 2027 meer dan \u20ac 2.000,- per jaar - Overstappen.nl",
@@ -825,18 +854,11 @@
             "title": "Puffers bij COPD worden te vaak verkeerd gebruikt - Gezondheid en wetenschap",
             "link": "https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/puffers-bij-copd-worden-te-vaak-verkeerd-gebruikt",
             "publishedDate": "17/11/2026 19:34",
-            "source": "despecialist.eu, gezondheidenwetenschap.be",
+            "source": "gezondheidenwetenschap.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "HART, QUEST en MCH willen COPD-zorg bij huisartsen verbeteren - De Specialist",
-                    "source": "despecialist.eu",
-                    "link": "https://www.despecialist.eu/nl/nieuws/hart-quest-en-mch-willen-copd-zorg-bij-huisartsen-verbeteren.html",
-                    "publishedDate": "17/11/2026 18:32"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -897,6 +919,17 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "HART, QUEST en MCH willen COPD-zorg bij huisartsen verbeteren - De Specialist",
+            "link": "https://www.despecialist.eu/nl/nieuws/hart-quest-en-mch-willen-copd-zorg-bij-huisartsen-verbeteren.html",
+            "publishedDate": "17/11/2026 18:32",
+            "source": "despecialist.eu",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1169,17 +1202,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Top 5 goedkoopste zorgverzekeringen van 2027 op een rij - Energie vergelijken",
-            "link": "https://www.keuze.nl/nieuws/goedkoopste-zorgverzekeringen-2027",
-            "publishedDate": "17/11/2026 15:13",
-            "source": "keuze.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Starter van de week: Marleen start groepspraktijk in Stokkem - Made in",
             "link": "https://www.made-in.be/limburg/starter-van-de-week-marleen-start-groepspraktijk-in-stokkem/",
             "publishedDate": "17/11/2026 15:12",
@@ -1206,28 +1228,6 @@
                     "publishedDate": "17/11/2026 14:29"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Goedkoopste zorgverzekering scheelt bijna 650 euro per jaar: dit zijn de drie voordeligste",
-            "link": "https://www.linda.nl/geld-en-carriere/goedkoopste-zorgverzekering-overstappen-2027~e3bdb83",
-            "publishedDate": "17/11/2026 14:58",
-            "source": "linda.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Goedkope basis, dure aanvulling: bij deze verzekeraar stijgen de pakketten het hardst",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/goedkope-basis-dure-aanvulling-bij-deze-verzekeraar-stijgen-de-pakketten-het-hardst",
-            "publishedDate": "17/11/2026 14:53",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1356,7 +1356,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Federatie: lange stroomuitval groot probleem voor veel pati\u00ebnten - Welingelichte Kringen",
