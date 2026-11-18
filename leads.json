@@ -1,6 +1,24 @@
 {
     "artikelen": [
         {
+            "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
+            "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
+            "publishedDate": "18/11/2026 21:00",
+            "source": "gva.be, nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
+                    "publishedDate": "18/11/2026 18:35"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Aantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk - BNR",
             "link": "https://www.bnr.nl/nieuws/internationaal/10615829/aantal-dodelijke-medicijnresistente-infecties-in-europese-ziekenhuizen-st4a:o1000,ijgt-sterk",
             "publishedDate": "18/11/2026 20:47",
@@ -16,22 +34,57 @@
                     "publishedDate": "18/11/2026 17:42"
                 }
             ],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Een collega helpen, een regio sterker maken! - Zuyderland",
+            "link": "https://zuyderland.nl/nieuws/een-collega-helpen-een-regio-sterker-maken/",
+            "publishedDate": "18/11/2026 20:24",
+            "source": "zuyderland.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
             "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
             "publishedDate": "18/11/2026 20:07",
-            "source": "ad.nl, bndestem.nl, fd.nl, gooieneemlander.nl, leidschdagblad.nl, nieuwsinalphen.nl, noordhollandsdagblad.nl",
+            "source": "ad.nl, fd.nl, gooieneemlander.nl, leidschdagblad.nl, nieuwsinalphen.nl, noordhollandsdagblad.nl, reddit.com, rtlboulevard.nl, rtlz.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 9,
+            "duplicate_count": 14,
             "extra_bronnen": [
                 {
                     "title": "Verzekerden Zilveren Kruis kunnen volgend jaar pas terecht bij Alrijne ziekenhuis",
                     "source": "fd.nl",
                     "link": "https://fd.nl/samenleving/1620004/verzekerden-zilveren-kruis-kunnen-volgend-jaar-pas-terecht-bij-alrijne-ziekenhuis",
                     "publishedDate": "18/11/2026 19:17"
+                },
+                {
+                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+                    "source": "rtlz.nl",
+                    "link": "http://www.rtlz.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
+                    "publishedDate": "18/11/2026 18:45"
+                },
+                {
+                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+                    "source": "rtlboulevard.nl",
+                    "link": "https://www.rtlboulevard.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
+                    "publishedDate": "18/11/2026 18:45"
+                },
+                {
+                    "title": "Meerdere ziekenhuizen weigeren klanten van Zilveren Kruis, FBTO en Interpolis - Reddit",
+                    "source": "reddit.com",
+                    "link": "https://www.reddit.com/r/thenetherlands/comments/1xzjtfx/meerdere_ziekenhuizen_weigeren_klanten_van/",
+                    "publishedDate": "18/11/2026 18:01"
+                },
+                {
+                    "title": "Meerdere ziekenhuizen weigeren klanten van Zilveren Kruis, FBTO en Interpolis - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/binnenland/meerdere-ziekenhuizen-weigeren-klanten-van-zilveren-kruis-fbto-en-interpolis-verzekeraars-betalen-niet-genoeg~ae3ecf24/",
+                    "publishedDate": "18/11/2026 17:04"
                 },
                 {
                     "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - De Gooi- en Eemlander",
@@ -68,12 +121,6 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/binnenland/patientenstop-bij-aantal-ziekenhuizen-voor-klanten-zilveren-kruis-fbto-en-interpolis-verzekeraar-betaalt-niet-genoeg~ae3ecf24/",
                     "publishedDate": "18/11/2026 16:34"
-                },
-                {
-                    "title": "Pati\u00ebntenstop bij aantal ziekenhuizen voor klanten Zilveren Kruis, FBTO en Interpolis",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/binnenland/patientenstop-bij-aantal-ziekenhuizen-voor-klanten-zilveren-kruis-fbto-en-interpolis-verzekeraar-betaalt-niet-genoeg~ae3ecf24/",
-                    "publishedDate": "18/11/2026 16:31"
                 }
             ],
             "belangrijkheid": 1
@@ -112,25 +159,20 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
-            "publishedDate": "18/11/2026 19:08",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
-            "link": "https://www.bndestem.nl/zeeland/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
-            "publishedDate": "18/11/2026 19:03",
-            "source": "bndestem.nl, hvzeeland.nl, omroepzeeland.nl",
+            "link": "https://www.pzc.nl/goes/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
+            "publishedDate": "18/11/2026 19:28",
+            "source": "bndestem.nl, hvzeeland.nl, omroepzeeland.nl, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/zeeland/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
+                    "publishedDate": "18/11/2026 19:03"
+                },
                 {
                     "title": "Stoomvorming in ziekenhuis Goes, ADRZ gedeeltelijk ontruimd - HVZeeland",
                     "source": "hvzeeland.nl",
@@ -147,10 +189,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Vrouw en vier kinderen gewond bij ernstig ongeluk Landgraaf, slachtoffers naar het ziekenhuis",
-            "link": "https://www.limburger.nl/regio/landgraaf/vrouw-en-vier-kinderen-gewond-bij-ernstig-ongeluk-landgraaf-slachtoffers-naar-het-ziekenhuis/164733243.html",
-            "publishedDate": "18/11/2026 18:59",
-            "source": "limburger.nl",
+            "title": "Man gezocht na mishandeling vrouw in centrum Haarlem - Politie.nl",
+            "link": "https://www.politie.nl/gezocht/opsporingsbericht/2026/november/04-man-gezocht-na-mishandeling-vrouw-in-centrum-haarlem",
+            "publishedDate": "18/11/2026 19:24",
+            "source": "politie.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
+            "publishedDate": "18/11/2026 19:08",
+            "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
@@ -158,22 +211,22 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
-            "link": "http://www.rtlz.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
-            "publishedDate": "18/11/2026 18:45",
-            "source": "rtlboulevard.nl, rtlz.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
+            "title": "Vrouw en vier kinderen gewond bij ernstig ongeluk Landgraaf, slachtoffers naar het ziekenhuis",
+            "link": "https://www.limburger.nl/regio/landgraaf/vrouw-en-vier-kinderen-gewond-bij-ernstig-ongeluk-landgraaf-slachtoffers-naar-het-ziekenhuis/164733243.html",
+            "publishedDate": "18/11/2026 18:59",
+            "source": "ijmuidercourant.nl, limburger.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
-                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
-                    "source": "rtlboulevard.nl",
-                    "link": "https://www.rtlboulevard.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
-                    "publishedDate": "18/11/2026 18:45"
+                    "title": "Slachtoffer met spoed naar ziekenhuis na steekpartij op Kerkplein in Beverwijk, verdachte ...",
+                    "source": "ijmuidercourant.nl",
+                    "link": "https://www.ijmuidercourant.nl/regio/ijmond/slachtoffer-met-spoed-naar-ziekenhuis-na-steekpartij-op-kerkplein-in-beverwijk-verdachte-aangehouden-update/164752262.html",
+                    "publishedDate": "18/11/2026 17:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Marit van Egmond per direct benoemd tot CEO van Royal A-ware - bio journaal",
@@ -182,17 +235,6 @@
             "source": "biojournaal.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
-            "publishedDate": "18/11/2026 18:35",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -282,24 +324,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Meerdere ziekenhuizen weigeren klanten van Zilveren Kruis, FBTO en Interpolis - Reddit",
-            "link": "https://www.reddit.com/r/thenetherlands/comments/1xzjtfx/meerdere_ziekenhuizen_weigeren_klanten_van/",
-            "publishedDate": "18/11/2026 18:01",
-            "source": "ad.nl, reddit.com",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Meerdere ziekenhuizen weigeren klanten van Zilveren Kruis, FBTO en Interpolis - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/binnenland/meerdere-ziekenhuizen-weigeren-klanten-van-zilveren-kruis-fbto-en-interpolis-verzekeraars-betalen-niet-genoeg~ae3ecf24/",
-                    "publishedDate": "18/11/2026 17:04"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Boeren in deel Groene Hart moeten kiezen: bedrijfsvoering aanpassen of vertrekken ...",
             "link": "https://www.bndestem.nl/binnenland/boeren-in-deel-groene-hart-moeten-kiezen-bedrijfsvoering-aanpassen-of-vertrekken-desnoods-onder-dwang~ac02e889/",
             "publishedDate": "18/11/2026 18:00",
@@ -314,11 +338,18 @@
             "title": "Man moet voet en onderbeen laten amputeren na pedicurebezoek - NOS",
             "link": "https://nos.nl/artikel/2640055-man-moet-voet-en-onderbeen-laten-amputeren-na-pedicurebezoek",
             "publishedDate": "18/11/2026 17:59",
-            "source": "nos.nl",
+            "source": "drimble.nl, nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
+                    "publishedDate": "18/11/2026 02:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -494,17 +525,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Slachtoffer met spoed naar ziekenhuis na steekpartij op Kerkplein in Beverwijk, verdachte ...",
-            "link": "https://www.ijmuidercourant.nl/regio/ijmond/slachtoffer-met-spoed-naar-ziekenhuis-na-steekpartij-op-kerkplein-in-beverwijk-verdachte-aangehouden-update/164752262.html",
-            "publishedDate": "18/11/2026 17:01",
-            "source": "ijmuidercourant.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nieuwe zorgaanbieder neemt locaties in Noordkop, West-Friesland en Beemster over",
             "link": "https://www.noordhollandsdagblad.nl/regio/noordkop/noordkop-schagen/nieuwe-zorgaanbieder-neemt-locaties-in-noordkop-west-friesland-en-beemster-over/164664850.html",
             "publishedDate": "18/11/2026 16:53",
@@ -538,34 +558,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Marieke Elsinga opnieuw naar ziekenhuis na voetbreuk: 'Nog altijd pijn' - RTL Nieuws",
-            "link": "https://www.rtl.nl/boulevard/artikel/5665846/marieke-elsinga-heeft-nog-altijd-pijn-aan-gebroken-voet",
-            "publishedDate": "18/11/2026 16:31",
-            "source": "rtl.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zes Limburgse bedrijven failliet, onder meer beachclub, zorggroep en reparatiebedrijf",
             "link": "https://www.faillissementsdossier.nl/nieuws/34096/zes-limburgse-bedrijven-failliet-onder-meer-beachclub-zorggroep-en-reparatiebedrijf",
             "publishedDate": "18/11/2026 16:31",
             "source": "faillissementsdossier.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgen om tante koning Felipe houden aan: Infanta Margarita nog steeds in ziekenhuis",
-            "link": "https://www.weekend-online.nl/buitenland/zorgen-om-tante-koning-felipe-houden-aan-infanta-margarita-nog-steeds-in-ziekenhuis/",
-            "publishedDate": "18/11/2026 16:21",
-            "source": "weekend-online.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -856,17 +854,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Een collega helpen, een regio sterker maken! - Zuyderland",
-            "link": "https://zuyderland.nl/nieuws/een-collega-helpen-een-regio-sterker-maken/",
-            "publishedDate": "18/11/2026 14:24",
-            "source": "zuyderland.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Rou\u00e9 Verveer neemt bij Omroep MAX Zorg Uit Handen | NPO Radio 5",
             "link": "https://www.nporadio5.nl/fragmenten/lunch-lekker/01a1ee8f-bd28-72f8-a878-e2345817ada9/2026-11-18-roue-verveer-neemt-bij-omroep-max-zorg-uit-handen",
             "publishedDate": "18/11/2026 14:14",
@@ -988,7 +975,7 @@
                     "publishedDate": "17/11/2026 10:57"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Principes - NIW",
@@ -1107,19 +1094,12 @@
             "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
             "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
             "publishedDate": "18/11/2026 12:19",
-            "source": "huisartsvandaag.nl, zorgwijzer.nl",
+            "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
-                    "publishedDate": "17/11/2026 22:18"
-                }
-            ],
-            "belangrijkheid": 0
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Brochure Dementie in taal en beeld",
@@ -1225,7 +1205,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bestuurskosten secretaris-generaal van het ministerie van VWS, oktober 2026",
@@ -1282,16 +1262,22 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "noordhollandsdagblad.nl, stadindex.nl",
+            "source": "noordhollandsdagblad.nl, stadindex.nl, westlanders.nu",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
                     "source": "stadindex.nl",
                     "link": "https://www.stadindex.nl/alkmaar/3631250-grote-partij-illegale-afslankmiddelen-in-beslag-genomen-drie-verdachten-opgepakt",
                     "publishedDate": "18/11/2026 09:19"
+                },
+                {
+                    "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
+                    "source": "westlanders.nu",
+                    "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
+                    "publishedDate": "18/11/2026 08:01"
                 }
             ],
             "belangrijkheid": 0
@@ -1374,17 +1360,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
-            "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
-            "publishedDate": "18/11/2026 08:01",
-            "source": "westlanders.nu",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "NZa pleit voor meer standaardisatie bij inkoop jeugdzorg - InkopersCafe.nl",
             "link": "https://www.inkoperscafe.nl/nza-pleit-voor-meer-standaardisatie-bij-inkoop-jeugdzorg",
             "publishedDate": "18/11/2026 06:05",
@@ -1440,17 +1415,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
-            "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
-            "publishedDate": "18/11/2026 02:08",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "GSK krijgt FDA-goedkeuring voor longkankerbehandeling Nelkarmi - Investing.com",
             "link": "https://nl.investing.com/news/stock-market-news/gsk-krijgt-fdagoedkeuring-voor-longkankerbehandeling-nelkarmi-978229",
             "publishedDate": "18/11/2026 01:52",
@@ -1468,17 +1432,6 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "De huisarts met een echo op zak: minder ouderen naar het ziekenhuis | NPO Radio 5",
-            "link": "https://www.nporadio5.nl/fragmenten/de-avond-van-5/01a1e3e5-b122-7157-9d23-b3c8ee533a51/2026-11-17-de-huisarts-met-een-echo-op-zak-minder-ouderen-naar-het-ziekenhuis",
-            "publishedDate": "18/11/2026 00:44",
-            "source": "nporadio5.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1504,6 +1457,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Deze zorgverzekeringen stijgen het meest in prijs (per 1 januari 2027) - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/deze-zorgverzekeringen-stijgen-het-meest-in-prijs-per-1-januari-2027",
+            "publishedDate": "17/11/2026 22:18",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Klimaatweek brengt inwoners in Aalsmeer en Kudelstaart samen",
@@ -1730,7 +1694,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
