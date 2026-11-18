@@ -346,7 +346,7 @@
             "source": "ad.nl, drimble.nl, nieuws.feelgoodradio.nl, noordhollandsdagblad.nl, nos.nl, omroepbrabant.nl, stadindex.nl, westlanders.nu",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 8,
+            "duplicate_count": 9,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
@@ -365,6 +365,12 @@
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
                     "publishedDate": "18/11/2026 02:08"
+                },
+                {
+                    "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
+                    "publishedDate": "17/11/2026 19:32"
                 },
                 {
                     "title": "4 en 6,5 jaar cel voor uitvoerders van 'drugsapotheek' - Feel Good Nieuws",
@@ -452,11 +458,18 @@
             "title": "Zesdaagse van Gent opgeschrikt door zware val Jasper De Buyst en Jules Hesters - Wielerflits",
             "link": "https://www.wielerflits.be/nieuws/zesdaagse-van-gent-opgeschrikt-door-zware-val-jasper-de-buyst-en-jules-hesters-openingsavond-vroegtijdig-stilgelegd/",
             "publishedDate": "18/11/2026 08:56",
-            "source": "wielerflits.be",
+            "source": "sporza.be, wielerflits.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "afscheidnemende De Buyst afgevoerd na zware val in ploegkoers - Sporza",
+                    "source": "sporza.be",
+                    "link": "https://sporza.be/nl/2026/11/13/openingsavond-zesdaagse-gent-vroegtijdig-stopgezet-afscheidnemende-de-buyst-afgevoerd-na-zware-val-in-ploegkoers~1794560094233/",
+                    "publishedDate": "18/11/2026 08:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -486,17 +499,6 @@
             "link": "https://www.tvl.be/nieuws/jessa-ziekenhuis-vraagt-aandacht-voor-longziekte-copd-vroege-diagnose-maakt-verschil-voor-levenskwaliteit-184311",
             "publishedDate": "18/11/2026 08:46",
             "source": "tvl.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "afscheidnemende De Buyst afgevoerd na zware val in ploegkoers - Sporza",
-            "link": "https://sporza.be/nl/2026/11/13/openingsavond-zesdaagse-gent-vroegtijdig-stopgezet-afscheidnemende-de-buyst-afgevoerd-na-zware-val-in-ploegkoers~1794560094233/",
-            "publishedDate": "18/11/2026 08:45",
-            "source": "sporza.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
@@ -887,17 +889,6 @@
             "source": "weespernieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Leon runde vanuit zijn moeders huis een illegale pillenhandel: jaren cel - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035009/leon-runde-vanuit-zijn-moeders-huis-een-illegale-pillenhandel-jaren-cel",
-            "publishedDate": "17/11/2026 19:32",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
