@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Nieuwe cijfers geven beter zicht op zorgvoorzieningen in Vlaanderen - Departement Zorg",
+            "link": "https://www.departementzorg.be/nl/nieuws/nieuwe-cijfers-geven-beter-zicht-op-zorgvoorzieningen-vlaanderen",
+            "publishedDate": "19/11/2026 22:51",
+            "source": "departementzorg.be",
+            "category": "Overig",
+            "feed_label": "Alert eerstelijnszorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Niet scrollen maar hollen: hoe zorgen we ervoor dat kinderen meer bewegen? -",
             "link": "https://www.ggznieuws.nl/niet-scrollen-maar-hollen-hoe-zorgen-we-ervoor-dat-kinderen-meer-bewegen/",
             "publishedDate": "19/11/2026 22:28",
@@ -15,12 +26,37 @@
             "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
             "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
             "publishedDate": "19/11/2026 22:07",
-            "source": "metronieuws.nl",
+            "source": "centraalplus.nl, metronieuws.nl, nieuwsinalphen.nl, omroepwest.nl, telegraaf.nl",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 3,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 9,
+            "extra_bronnen": [
+                {
+                    "title": "Pati\u00ebnten van Zilveren Kruis, FBTO en andere Achmea-merken moeten uitwijken ... - De Telegraaf",
+                    "source": "telegraaf.nl",
+                    "link": "https://www.telegraaf.nl/financieel/patienten-van-zilveren-kruis-fbto-en-andere-achmea-merken-moeten-uitwijken-naar-andere-ziekenhuizen-zorgbudget-is-op/164775536.html",
+                    "publishedDate": "19/11/2026 15:47"
+                },
+                {
+                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
+                    "source": "omroepwest.nl",
+                    "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
+                    "publishedDate": "19/11/2026 12:17"
+                },
+                {
+                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
+                    "source": "centraalplus.nl",
+                    "link": "https://centraalplus.nl/2026/11/19/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar/",
+                    "publishedDate": "19/11/2026 10:09"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
+                    "publishedDate": "18/11/2026 19:22"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Korte quiz: wat weet jij over gordelroos? - TVV",
@@ -242,11 +278,18 @@
             "title": "Meander ziet meer pati\u00ebnten met onbegrepen gedrag op SEH | De Vallei - Drimble",
             "link": "https://drimble.nl/regio/gelderland/de-vallei/108651198/meander-ziet-meer-patienten-met-onbegrepen-gedrag-op-seh.html",
             "publishedDate": "19/11/2026 19:49",
-            "source": "drimble.nl",
+            "source": "drimble.nl, nijkerkerveen.org",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
+                    "source": "nijkerkerveen.org",
+                    "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
+                    "publishedDate": "19/11/2026 16:31"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -258,7 +301,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
@@ -429,11 +472,18 @@
             "title": "Routekaart Naastenparticipatie in ziekenhuizen - Vilans",
             "link": "https://www.vilans.nl/kennis/routekaart-naastenparticipatie-ziekenhuizen",
             "publishedDate": "19/11/2026 17:48",
-            "source": "vilans.nl",
+            "source": "nvz-ziekenhuizen.nl, vilans.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe routekaart helpt ziekenhuizen naastenparticipatie duurzaam te verankeren",
+                    "source": "nvz-ziekenhuizen.nl",
+                    "link": "https://nvz-ziekenhuizen.nl/actualiteit-en-opinie/nieuwe-routekaart-helpt-ziekenhuizen-naastenparticipatie-duurzaam-te",
+                    "publishedDate": "19/11/2026 09:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -568,17 +618,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwe cijfers geven beter zicht op zorgvoorzieningen in Vlaanderen - Departement Zorg",
-            "link": "https://www.departementzorg.be/nl/nieuws/nieuwe-cijfers-geven-beter-zicht-op-zorgvoorzieningen-vlaanderen",
-            "publishedDate": "19/11/2026 16:51",
-            "source": "departementzorg.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Voorrangsregeling huurwoningen voor zorgpersoneel Lelystad verlengd - Nieuws",
             "link": "https://www.omroepflevoland.nl/nieuws/531988/voorrangsregeling-huurwoningen-voor-zorgpersoneel-lelystad-verlengd",
             "publishedDate": "19/11/2026 16:41",
@@ -618,17 +657,6 @@
             "source": "nrc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
-            "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
-            "publishedDate": "19/11/2026 16:31",
-            "source": "nijkerkerveen.org",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -684,19 +712,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-            "publishedDate": "19/11/2026 16:12",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+                    "publishedDate": "19/11/2026 16:12"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -706,17 +730,6 @@
             "source": "aiwereld.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Pati\u00ebnten van Zilveren Kruis, FBTO en andere Achmea-merken moeten uitwijken ... - De Telegraaf",
-            "link": "https://www.telegraaf.nl/financieel/patienten-van-zilveren-kruis-fbto-en-andere-achmea-merken-moeten-uitwijken-naar-andere-ziekenhuizen-zorgbudget-is-op/164775536.html",
-            "publishedDate": "19/11/2026 15:47",
-            "source": "telegraaf.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -868,11 +881,18 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 14:17",
-            "source": "open.overheid.nl",
+            "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+                    "publishedDate": "19/11/2026 13:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -882,25 +902,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
                     "publishedDate": "19/11/2026 14:17"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
-                    "publishedDate": "19/11/2026 13:29"
-                },
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
-                    "publishedDate": "19/11/2026 13:29"
                 }
             ],
             "belangrijkheid": 0
@@ -983,14 +991,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-            "publishedDate": "19/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
+            "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
+            "publishedDate": "19/11/2026 13:29",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
+                    "publishedDate": "19/11/2026 13:29"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1047,24 +1062,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
-            "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
-            "publishedDate": "19/11/2026 12:17",
-            "source": "centraalplus.nl, omroepwest.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
-                    "source": "centraalplus.nl",
-                    "link": "https://centraalplus.nl/2026/11/19/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar/",
-                    "publishedDate": "19/11/2026 10:09"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Koninklijke onderscheiding in UMC - De Vierklank - Al het nieuws uit de gemeente De Bilt",
@@ -1456,17 +1453,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwe routekaart helpt ziekenhuizen naastenparticipatie duurzaam te verankeren",
-            "link": "https://nvz-ziekenhuizen.nl/actualiteit-en-opinie/nieuwe-routekaart-helpt-ziekenhuizen-naastenparticipatie-duurzaam-te",
-            "publishedDate": "19/11/2026 09:00",
-            "source": "nvz-ziekenhuizen.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "NVZ Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief seksuele gezondheid en aanpak onbedoelde en of ongewenste zwangerschap",
             "link": "https://open.overheid.nl/details/ae9c2274-d6af-4911-89a2-df98485d51ee",
             "publishedDate": "19/11/2026 08:36",
@@ -1624,17 +1610,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
-            "publishedDate": "18/11/2026 19:22",
-            "source": "nieuwsinalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Wat kunnen we leren van waardige dementiezorg \u00e0 la 'humanitude' in Frans-Japanse film ...",
             "link": "https://www.maxmeldpunt.nl/gezondheid/wat-kunnen-we-leren-van-waardige-dementiezorg-a-la-humanitude-in-frans-japanse-film-niet-de-ziekte-centraal-maar-de-mens/",
             "publishedDate": "18/11/2026 18:11",
@@ -1652,28 +1627,6 @@
             "source": "cbg-meb.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Portretten van 100 zorgprofessionals vormen het slot van jubileumviering Museum De Dorpsdokter",
-            "link": "https://www.ed.nl/tilburg/portretten-van-100-zorgprofessionals-vormen-het-slot-van-jubileumviering-museum-de-dorpsdokter~a73cdb61/",
-            "publishedDate": "18/11/2026 15:11",
-            "source": "ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
-            "link": "https://www.pvda.be/nieuws/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
-            "publishedDate": "18/11/2026 14:08",
-            "source": "pvda.be",
-            "category": "Overig",
-            "feed_label": "Alert eerstelijnszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1815,7 +1768,7 @@
             "feed_label": "ZN",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
