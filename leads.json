@@ -1,9 +1,9 @@
 {
     "artikelen": [
         {
-            "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 12 november 2026, kenmerk 2026-3215100/IT2114243, houdende de verlenging van de verleende vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Di-Adreson-F Aquosum 25 mg, poeder voor injectievloeistof (RVG 00093)",
-            "link": "https://open.overheid.nl/details/oep-ob-9bb360f3ab87e8d0d6a8566eff0a32718d263c5d_15",
-            "publishedDate": "19/11/2026 13:34",
+            "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 12 november 2026, kenmerk 2026-3215201/IT2112878, houdende de verlenging van de verleende vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Rifadin capsules 150 mg (RVG 05764), Rifampicine Sandoz capsules 150 mg (RVG 05761), Rifadin capsules 300 mg (RVG 05765) en Rifampicine Sandoz capsules 300 mg (RVG 06090)",
+            "link": "https://open.overheid.nl/details/oep-ob-437f1c10a0d74a9cb03bac3435290fb2501239ed_19",
+            "publishedDate": "19/11/2026 13:58",
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
@@ -365,19 +365,12 @@
             "title": "Zorgminister Hermans noemt stijging hiv-diagnoses een 'zorgelijke ontwikkeling'",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/zorgminister-hermans-noemt-stijging-hiv-diagnoses-een-zorgelijke-ontwikkeling/",
             "publishedDate": "19/11/2026 10:47",
-            "source": "nationalezorggids.nl, trouw.nl",
+            "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
-                    "publishedDate": "18/11/2026 22:19"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Noordenveld scoort hoog op inzet ervaringsdeskundigen: tweede plaats in Drenthe - Dit is Roden",
@@ -419,21 +412,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-                    "publishedDate": "19/11/2026 10:18"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
-                    "publishedDate": "19/11/2026 10:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -443,6 +423,17 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+            "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+            "publishedDate": "19/11/2026 10:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -506,16 +497,22 @@
             "title": "Waarschuwing door ActiZ voor verder uitstel nieuwe vorm Wlz-zorg thuis - Zorgkrant",
             "link": "https://www.zorgkrant.nl/ouderenzorg/21689-waarschuwing-door-actiz-voor-verder-uitstel-nieuwe-vorm-wlz-zorg-thuis",
             "publishedDate": "19/11/2026 10:04",
-            "source": "actiz.nl, zorgkrant.nl",
+            "source": "actiz.nl, tweedekamer.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "ActiZ waarschuwt voor verder uitstel nieuwe vorm Wlz-zorg thuis",
                     "source": "actiz.nl",
                     "link": "https://www.actiz.nl/actueel/actiz-waarschuwt-voor-verder-uitstel-nieuwe-vorm-wlz-zorg-thuis",
                     "publishedDate": "18/11/2026 20:49"
+                },
+                {
+                    "title": "na twee jaar gaan de eerste locaties dicht omdat daar niets te verdienen valt - Tweede Kamer",
+                    "source": "tweedekamer.nl",
+                    "link": "https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z25441&did=2026D58947",
+                    "publishedDate": "18/11/2026 14:29"
                 }
             ],
             "belangrijkheid": 0
@@ -527,6 +524,17 @@
             "source": "derestaurantkrant.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
+            "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
+            "publishedDate": "19/11/2026 10:03",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -645,12 +653,25 @@
             "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
             "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
             "publishedDate": "19/11/2026 09:04",
-            "source": "zorgkrant.nl",
+            "source": "cbg-meb.nl, rivm.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
+                    "source": "cbg-meb.nl",
+                    "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
+                    "publishedDate": "18/11/2026 15:30"
+                },
+                {
+                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+                    "publishedDate": "17/11/2026 10:57"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
@@ -809,19 +830,12 @@
             "title": "Vierde poging mislukt: veroordeelde Haagse huisarts blijft uit artsenregister - Waterkant",
             "link": "https://www.waterkant.net/suriname/2026/11/19/vierde-poging-mislukt-veroordeelde-haagse-huisarts-blijft-uit-artsenregister/",
             "publishedDate": "19/11/2026 07:32",
-            "source": "ad.nl, waterkant.net",
+            "source": "waterkant.net",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
-                    "publishedDate": "18/11/2026 21:36"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
@@ -1076,6 +1090,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
+            "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
+            "publishedDate": "18/11/2026 22:19",
+            "source": "trouw.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Eindhovense zangeres Kovacs (36) ligt zeker een maand in ziekenhuis door problemen ...",
             "link": "https://www.ed.nl/eindhoven/eindhovense-zangeres-kovacs-36-ligt-zeker-een-maand-in-ziekenhuis-door-problemen-tijdens-zwangerschap~a9f32244/",
             "publishedDate": "18/11/2026 22:19",
@@ -1106,7 +1131,7 @@
             "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuwe zorgaanbieder neemt locaties in Noordkop, West-Friesland en Beemster over",
@@ -1137,6 +1162,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
+            "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
+            "publishedDate": "18/11/2026 21:36",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1185,18 +1221,11 @@
             "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
             "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
             "publishedDate": "18/11/2026 20:29",
-            "source": "nieuwsblad.be, robtv.be",
+            "source": "robtv.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
-                    "publishedDate": "18/11/2026 14:29"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1360,8 +1389,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[WOO] Antwoorden op Kamervragen over misdiagnose tussen posttraumatische stressstoornis (PTSS) en psychotische stoornissen",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/2e2f3777-3347-4fc3-b0de-1391d8767e90",
+                    "publishedDate": "18/11/2026 17:18"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1475,17 +1511,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
-            "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
-            "publishedDate": "18/11/2026 15:30",
-            "source": "cbg-meb.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "College ter Beoordeling van Geneesmiddelen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Portretten van 100 zorgprofessionals vormen het slot van jubileumviering Museum De Dorpsdokter",
             "link": "https://www.ed.nl/tilburg/portretten-van-100-zorgprofessionals-vormen-het-slot-van-jubileumviering-museum-de-dorpsdokter~a73cdb61/",
             "publishedDate": "18/11/2026 15:11",
@@ -1541,12 +1566,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "na twee jaar gaan de eerste locaties dicht omdat daar niets te verdienen valt - Tweede Kamer",
-            "link": "https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z25441&did=2026D58947",
+            "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
+            "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
             "publishedDate": "18/11/2026 14:29",
-            "source": "tweedekamer.nl",
+            "source": "nieuwsblad.be",
             "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
+            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1766,17 +1791,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-            "publishedDate": "17/11/2026 10:57",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
