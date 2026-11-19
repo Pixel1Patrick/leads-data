@@ -91,14 +91,8 @@
             "source": "antoniusziekenhuis.nl, nos.nl, prostaatkankerstichting.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
-                {
-                    "title": "Cijfers en feiten over prostaatverwijdering bij prostaatkanker in het St. Antonius Ziekenhuis",
-                    "source": "antoniusziekenhuis.nl",
-                    "link": "https://www.antoniusziekenhuis.nl/media/nieuwe-infographic-ralp",
-                    "publishedDate": "19/11/2026 12:15"
-                },
                 {
                     "title": "Veel minder mannen incontinent na prostaatkankeroperatie - Prostaatkankerstichting",
                     "source": "prostaatkankerstichting.nl",
@@ -208,7 +202,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgverzekering overstappen 2027: 5 fouten die je geld kosten - Welingelichte Kringen",
@@ -324,28 +318,11 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 14:17",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
-            "link": "https://open.overheid.nl/details/5bd6700b-265b-46de-b30b-2bd6d5c98b56",
-            "publishedDate": "19/11/2026 14:17",
             "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
-                    "publishedDate": "19/11/2026 14:17"
-                },
                 {
                     "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
                     "source": "igj.nl",
@@ -353,7 +330,25 @@
                     "publishedDate": "19/11/2026 13:00"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
+            "link": "https://open.overheid.nl/details/5bd6700b-265b-46de-b30b-2bd6d5c98b56",
+            "publishedDate": "19/11/2026 14:17",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
+                    "publishedDate": "19/11/2026 14:17"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Aruba waarschuwt voor antibioticaresistentie: infecties steeds moeilijker te behandelen",
@@ -461,25 +456,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
                     "publishedDate": "19/11/2026 13:29"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/8e4317a8-9674-457d-8bde-d7d841126167",
-                    "publishedDate": "19/11/2026 09:02"
-                },
-                {
-                    "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
-                    "publishedDate": "19/11/2026 09:02"
                 }
             ],
             "belangrijkheid": 0
@@ -646,6 +629,17 @@
                     "publishedDate": "18/11/2026 19:22"
                 }
             ],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Cijfers en feiten over prostaatverwijdering bij prostaatkanker in het St. Antonius Ziekenhuis",
+            "link": "https://www.antoniusziekenhuis.nl/media/nieuwe-infographic-ralp",
+            "publishedDate": "19/11/2026 12:15",
+            "source": "antoniusziekenhuis.nl",
+            "category": "Zorgaanbieders",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1015,18 +1009,11 @@
             "title": "Arts krijgt waarschuwing voor onzorgvuldig gebruik OpenAI | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/arts-krijgt-waarschuwing-voor-onzorgvuldig-gebruik-openai",
             "publishedDate": "19/11/2026 09:59",
-            "source": "artsenkrant.pmg.be, medischcontact.nl",
+            "source": "medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
-                    "source": "artsenkrant.pmg.be",
-                    "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
-                    "publishedDate": "18/11/2026 21:10"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1107,6 +1094,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
+            "link": "https://open.overheid.nl/details/8e4317a8-9674-457d-8bde-d7d841126167",
+            "publishedDate": "19/11/2026 09:02",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
+                    "publishedDate": "19/11/2026 09:02"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Behandeling hoge bloeddruk met zenuwonderbreking niet vergoed",
             "link": "https://www.zorginstituutnederland.nl/actueel/nieuws/2026/11/19/renale-denervatie-geen-vergoede-zorg",
             "publishedDate": "19/11/2026 09:01",
@@ -1132,24 +1137,29 @@
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief seksuele gezondheid en aanpak onbedoelde en of ongewenste zwangerschap",
             "link": "https://open.overheid.nl/details/ae9c2274-d6af-4911-89a2-df98485d51ee",
             "publishedDate": "19/11/2026 08:36",
-            "source": "ad.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief seksuele gezondheid en aanpak onbedoelde en/of ongewenste zwangerschap",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/7fa96b5a-a988-4ab1-b17a-bb4fb80df4f4",
                     "publishedDate": "19/11/2026 08:36"
-                },
-                {
-                    "title": "Renee wilde geen arts als partner en geen kinderen, tot ze Jesse ontmoette | Nieuws | AD.nl",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/mezza/renee-wilde-geen-arts-als-partner-en-geen-kinderen-tot-ze-jesse-ontmoette~a2420f6e/",
-                    "publishedDate": "19/11/2026 08:25"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Renee wilde geen arts als partner en geen kinderen, tot ze Jesse ontmoette | Nieuws | AD.nl",
+            "link": "https://www.ad.nl/mezza/renee-wilde-geen-arts-als-partner-en-geen-kinderen-tot-ze-jesse-ontmoette~a2420f6e/",
+            "publishedDate": "19/11/2026 08:25",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1185,59 +1195,40 @@
             "title": "Vierde poging mislukt: veroordeelde Haagse huisarts blijft uit artsenregister - Waterkant",
             "link": "https://www.waterkant.net/suriname/2026/11/19/vierde-poging-mislukt-veroordeelde-haagse-huisarts-blijft-uit-artsenregister/",
             "publishedDate": "19/11/2026 07:32",
-            "source": "waterkant.net",
+            "source": "ad.nl, waterkant.net",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
+                    "publishedDate": "18/11/2026 21:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/binnenland/kinderrechtencommissaris-klaagt-regels-en-procedures-in-de-jeugdzorg-aan-kinderen-leven-niet-in-hokjes/164772569.html",
             "publishedDate": "19/11/2026 07:26",
-            "source": "jeugdzorgnederland.nl, nieuwsblad.be, nza.nl, tijd.be",
+            "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Kinderrechtencommissariaat: 'Hoe complexer de noden, hoe moeilijker een kind soms ...",
-                    "source": "tijd.be",
-                    "link": "https://www.tijd.be/politiek-economie/belgie/vlaanderen/kinderrechtencommissariaat-hoe-complexer-de-noden-hoe-moeilijker-een-kind-soms-ergens-binnenraakt/10706015.html",
-                    "publishedDate": "19/11/2026 06:31"
-                },
-                {
-                    "title": "[Nieuws] Onze reactie op de Stand van de Jeugdzorg 2026",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/onze-reactie-op-de-stand-van-de-jeugdzorg-2026/",
-                    "publishedDate": "17/11/2026 07:00"
-                },
-                {
-                    "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg",
-                    "source": "nza.nl",
-                    "link": "https://www.nza.nl/actueel/nieuws/2026/11/16/nza-beter-inzicht-nodig-in-beschikbaarheid-van-jeugdzorg",
-                    "publishedDate": "16/11/2026 19:45"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Aandeel mannen in opleiding Verpleegkunde bij Thomas More stijgt naar hoogste niveau in tien jaar",
             "link": "https://www.rtv.be/actualiteit-en-nieuws/aandeel-mannen-opleiding-verpleegkunde-bij-thomas-more-stijgt-naar-hoogste",
             "publishedDate": "19/11/2026 07:20",
-            "source": "gva.be, rtv.be",
+            "source": "rtv.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
-                    "source": "gva.be",
-                    "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
-                    "publishedDate": "19/11/2026 03:18"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1258,6 +1249,17 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Kinderrechtencommissariaat: 'Hoe complexer de noden, hoe moeilijker een kind soms ...",
+            "link": "https://www.tijd.be/politiek-economie/belgie/vlaanderen/kinderrechtencommissariaat-hoe-complexer-de-noden-hoe-moeilijker-een-kind-soms-ergens-binnenraakt/10706015.html",
+            "publishedDate": "19/11/2026 06:31",
+            "source": "tijd.be",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1292,6 +1294,17 @@
             "category": "Overig",
             "feed_label": "Alert apotheker",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
+            "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
+            "publishedDate": "19/11/2026 03:18",
+            "source": "gva.be",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1398,28 +1411,10 @@
             "title": "Meer kwetsbare ouderen in Eemland krijgen acute zorg op spoedbed in ziekenhuis",
             "link": "https://www.debunschoter-online.nl/algemeen/26774/meer-kwetsbare-ouderen-in-eemland-krijgen-acute-zorg-op-spoedbed-in-ziekenhuis",
             "publishedDate": "18/11/2026 21:53",
-            "source": "ad.nl, debunschoter-online.nl",
+            "source": "debunschoter-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Steeds meer kwetsbare ouderen geholpen via speciale spoedbedden in Meander Medisch Centrum",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/bunschoten-spakenburg/steeds-meer-kwetsbare-ouderen-geholpen-via-speciale-spoedbedden-in-meander-medisch-centrum~afc3b5a3/",
-                    "publishedDate": "18/11/2026 19:47"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
-            "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
-            "publishedDate": "18/11/2026 21:36",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1430,6 +1425,17 @@
             "source": "radioaalsmeer.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
+            "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
+            "publishedDate": "18/11/2026 21:10",
+            "source": "artsenkrant.pmg.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1449,18 +1455,11 @@
             "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
             "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
             "publishedDate": "18/11/2026 20:29",
-            "source": "nieuwsblad.be, robtv.be",
+            "source": "robtv.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
-                    "publishedDate": "18/11/2026 14:29"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1514,6 +1513,17 @@
             "source": "mednet.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Steeds meer kwetsbare ouderen geholpen via speciale spoedbedden in Meander Medisch Centrum",
+            "link": "https://www.ad.nl/bunschoten-spakenburg/steeds-meer-kwetsbare-ouderen-geholpen-via-speciale-spoedbedden-in-meander-medisch-centrum~afc3b5a3/",
+            "publishedDate": "18/11/2026 19:47",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1706,6 +1716,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
+            "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
+            "publishedDate": "18/11/2026 14:29",
+            "source": "nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "na twee jaar gaan de eerste locaties dicht omdat daar niets te verdienen valt - Tweede Kamer",
             "link": "https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z25441&did=2026D58947",
             "publishedDate": "18/11/2026 14:29",
@@ -1720,24 +1741,11 @@
             "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
             "link": "https://www.pvda.be/nieuws/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
             "publishedDate": "18/11/2026 14:08",
-            "source": "pvda.be, rivm.nl, vgn.nl",
+            "source": "pvda.be",
             "category": "Overig",
             "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
-                    "source": "vgn.nl",
-                    "link": "https://www.vgn.nl/nieuws/rivm-nederland-schiet-tekort-bevorderen-gelijke-kansen-voor-mensen-met-een-beperking",
-                    "publishedDate": "17/11/2026 14:45"
-                },
-                {
-                    "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
-                    "publishedDate": "16/11/2026 16:09"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1851,6 +1859,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
+            "link": "https://www.vgn.nl/nieuws/rivm-nederland-schiet-tekort-bevorderen-gelijke-kansen-voor-mensen-met-een-beperking",
+            "publishedDate": "17/11/2026 14:45",
+            "source": "rivm.nl, vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
+                    "publishedDate": "16/11/2026 16:09"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
             "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
             "publishedDate": "17/11/2026 13:00",
@@ -1946,6 +1972,28 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Onze reactie op de Stand van de Jeugdzorg 2026",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/onze-reactie-op-de-stand-van-de-jeugdzorg-2026/",
+            "publishedDate": "17/11/2026 07:00",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Jeugdzorg Nederland",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg",
+            "link": "https://www.nza.nl/actueel/nieuws/2026/11/16/nza-beter-inzicht-nodig-in-beschikbaarheid-van-jeugdzorg",
+            "publishedDate": "16/11/2026 19:45",
+            "source": "nza.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "NZa Nieuws",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
