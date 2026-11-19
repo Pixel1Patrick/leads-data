@@ -132,18 +132,11 @@
             "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
             "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
             "publishedDate": "19/11/2026 03:18",
-            "source": "gva.be, news.thomasmore.be",
+            "source": "gva.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
-                    "source": "news.thomasmore.be",
-                    "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
-                    "publishedDate": "19/11/2026 00:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -213,11 +206,18 @@
             "title": "NZa ziet mismatch tussen vraag en aanbod in de jeugdzorg - Huisartsvandaag.nl",
             "link": "https://huisartsvandaag.nl/nza-ziet-mismatch-tussen-vraag-en-aanbod-in-de-jeugdzorg/",
             "publishedDate": "19/11/2026 00:42",
-            "source": "huisartsvandaag.nl",
+            "source": "huisartsvandaag.nl, nza.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg",
+                    "source": "nza.nl",
+                    "link": "https://www.nza.nl/actueel/nieuws/2026/11/16/nza-beter-inzicht-nodig-in-beschikbaarheid-van-jeugdzorg",
+                    "publishedDate": "16/11/2026 19:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -227,6 +227,17 @@
             "source": "dutchitchannel.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
+            "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
+            "publishedDate": "19/11/2026 00:03",
+            "source": "news.thomasmore.be",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -534,17 +545,23 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Aantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk - BNR",
             "link": "https://www.bnr.nl/nieuws/internationaal/10615829/aantal-dodelijke-medicijnresistente-infecties-in-europese-ziekenhuizen-st4a:o1000,ijgt-sterk",
             "publishedDate": "18/11/2026 20:47",
-            "source": "bnr.nl, metronieuws.nl, rivm.nl",
+            "source": "bnr.nl, cbg-meb.nl, metronieuws.nl, rivm.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
+                    "source": "cbg-meb.nl",
+                    "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
+                    "publishedDate": "18/11/2026 15:30"
+                },
                 {
                     "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
                     "source": "metronieuws.nl",
@@ -648,18 +665,11 @@
             "title": "Steeds meer kwetsbare ouderen geholpen via speciale spoedbedden in Meander Medisch Centrum",
             "link": "https://www.ad.nl/bunschoten-spakenburg/steeds-meer-kwetsbare-ouderen-geholpen-via-speciale-spoedbedden-in-meander-medisch-centrum~afc3b5a3/",
             "publishedDate": "18/11/2026 19:47",
-            "source": "ad.nl, destadamersfoort.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
-                    "source": "destadamersfoort.nl",
-                    "link": "https://www.destadamersfoort.nl/extern-nieuws/gezondheid-meandermc/1328909/steeds-vaker-onbegrepen-gedrag-op-de-spoedeisende-hulp-meande",
-                    "publishedDate": "18/11/2026 12:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1084,17 +1094,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
-            "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
-            "publishedDate": "18/11/2026 15:30",
-            "source": "cbg-meb.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "College ter Beoordeling van Geneesmiddelen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Portretten van 100 zorgprofessionals vormen het slot van jubileumviering Museum De Dorpsdokter",
             "link": "https://www.ed.nl/tilburg/portretten-van-100-zorgprofessionals-vormen-het-slot-van-jubileumviering-museum-de-dorpsdokter~a73cdb61/",
             "publishedDate": "18/11/2026 15:11",
@@ -1405,6 +1404,17 @@
             "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
+            "link": "https://www.destadamersfoort.nl/extern-nieuws/gezondheid-meandermc/1328909/steeds-vaker-onbegrepen-gedrag-op-de-spoedeisende-hulp-meande",
+            "publishedDate": "18/11/2026 12:07",
+            "source": "destadamersfoort.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1726,17 +1736,6 @@
             "source": "jeugdzorgnederland.nl",
             "category": "Overig",
             "feed_label": "Jeugdzorg Nederland",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg",
-            "link": "https://www.nza.nl/actueel/nieuws/2026/11/16/nza-beter-inzicht-nodig-in-beschikbaarheid-van-jeugdzorg",
-            "publishedDate": "16/11/2026 19:45",
-            "source": "nza.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
