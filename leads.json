@@ -30,6 +30,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Ambulance met normale urgentie naar Lijnbaan, Den Haag op 18 november 2026 - Drimble",
+            "link": "https://drimble.nl/112/den-haag/17846308/ambulance-met-normale-urgentie-naar-lijnbaan-den-haag.html",
+            "publishedDate": "19/11/2026 02:32",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Bouw nieuwe Bernardus dichterbij na presentatie definitief ontwerp - De Teyding",
             "link": "https://www.deteyding.nl/bouw-nieuwe-bernardus-dichterbij-na-presentatie-definitief-ontwerp/",
             "publishedDate": "19/11/2026 00:42",
@@ -372,7 +383,7 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Aantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk - BNR",
@@ -389,11 +400,18 @@
             "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
             "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
             "publishedDate": "18/11/2026 20:29",
-            "source": "robtv.be",
+            "source": "nieuwsblad.be, robtv.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
+                    "publishedDate": "18/11/2026 14:29"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -462,11 +480,18 @@
             "title": "Steeds meer kwetsbare ouderen geholpen via speciale spoedbedden in Meander Medisch Centrum",
             "link": "https://www.ad.nl/bunschoten-spakenburg/steeds-meer-kwetsbare-ouderen-geholpen-via-speciale-spoedbedden-in-meander-medisch-centrum~afc3b5a3/",
             "publishedDate": "18/11/2026 19:47",
-            "source": "ad.nl",
+            "source": "ad.nl, destadamersfoort.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
+                    "source": "destadamersfoort.nl",
+                    "link": "https://www.destadamersfoort.nl/extern-nieuws/gezondheid-meandermc/1328909/steeds-vaker-onbegrepen-gedrag-op-de-spoedeisende-hulp-meande",
+                    "publishedDate": "18/11/2026 12:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -517,16 +542,22 @@
             "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
             "link": "https://www.pzc.nl/goes/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
             "publishedDate": "18/11/2026 19:28",
-            "source": "bndestem.nl, pzc.nl",
+            "source": "bndestem.nl, omroepbrabant.nl, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/zeeland/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
                     "publishedDate": "18/11/2026 19:03"
+                },
+                {
+                    "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
+                    "publishedDate": "18/11/2026 19:08"
                 }
             ],
             "belangrijkheid": 0
@@ -537,17 +568,6 @@
             "publishedDate": "18/11/2026 19:24",
             "source": "politie.nl",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
-            "publishedDate": "18/11/2026 19:08",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -678,11 +698,24 @@
             "title": "Wethouder Molema vraagt Rijk om hulp bij aanpak crackverslaving | OOG Groningen",
             "link": "https://www.oogtv.nl/2026/11/wethouder-molema-vraagt-rijk-om-hulp-bij-aanpak-crackverslaving/",
             "publishedDate": "18/11/2026 17:46",
-            "source": "oogtv.nl",
+            "source": "actueel365.nl, nos.nl, oogtv.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
+                    "publishedDate": "18/11/2026 15:41"
+                },
+                {
+                    "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
+                    "source": "actueel365.nl",
+                    "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
+                    "publishedDate": "18/11/2026 14:48"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -714,37 +747,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 6,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over misdiagnose tussen posttraumatische stressstoornis (PTSS) en psychotische stoornissen",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/2e2f3777-3347-4fc3-b0de-1391d8767e90",
                     "publishedDate": "18/11/2026 17:18"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
-                    "publishedDate": "18/11/2026 12:30"
-                },
-                {
-                    "title": "[WOO] Antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
-                    "publishedDate": "18/11/2026 12:30"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-                    "publishedDate": "18/11/2026 12:26"
-                },
-                {
-                    "title": "[WOO] Antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/e4f6aea4-2ac2-497e-b365-46c582bbba49",
-                    "publishedDate": "18/11/2026 12:26"
                 }
             ],
             "belangrijkheid": 0
@@ -915,24 +924,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
-            "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
-            "publishedDate": "18/11/2026 15:41",
-            "source": "actueel365.nl, nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
-                    "source": "actueel365.nl",
-                    "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
-                    "publishedDate": "18/11/2026 14:48"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Starke Zorg &amp; Welzijn: 'Goede zorg begint bij \u00e9cht zien wat iemand nodig heeft'",
             "link": "https://www.brugnieuws.nl/nieuws/zakelijk-nieuws-lokaal/379567/starke-zorg-welzijn-goede-zorg-begint-bij-echt-zien-wat-iemand-nodig-heeft",
             "publishedDate": "18/11/2026 15:40",
@@ -1050,17 +1041,6 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
-            "publishedDate": "18/11/2026 14:29",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1244,6 +1224,42 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
+            "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
+            "publishedDate": "18/11/2026 12:30",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[WOO] Antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
+                    "publishedDate": "18/11/2026 12:30"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
+            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+            "publishedDate": "18/11/2026 12:26",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[WOO] Antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e4f6aea4-2ac2-497e-b365-46c582bbba49",
+                    "publishedDate": "18/11/2026 12:26"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Kosten sterilisatie bij mannen verschilt flink per zorgverlener - Salland1",
             "link": "https://www.salland1.nl/kosten-sterilisatie-bij-mannen-verschilt-flink-per-zorgverlener/",
             "publishedDate": "18/11/2026 12:24",
@@ -1296,7 +1312,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Brochure Dementie in taal en beeld",
@@ -1336,18 +1352,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
-            "link": "https://www.destadamersfoort.nl/extern-nieuws/gezondheid-meandermc/1328909/steeds-vaker-onbegrepen-gedrag-op-de-spoedeisende-hulp-meande",
-            "publishedDate": "18/11/2026 12:07",
-            "source": "destadamersfoort.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[NU'91] Hulpartikel - Elk uur telt: zo dienen jouw overuren vergoed te worden",
@@ -1470,16 +1475,28 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "noordhollandsdagblad.nl, stadindex.nl",
+            "source": "drimble.nl, noordhollandsdagblad.nl, stadindex.nl, westlanders.nu",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
                     "source": "stadindex.nl",
                     "link": "https://www.stadindex.nl/alkmaar/3631250-grote-partij-illegale-afslankmiddelen-in-beslag-genomen-drie-verdachten-opgepakt",
                     "publishedDate": "18/11/2026 09:19"
+                },
+                {
+                    "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
+                    "source": "westlanders.nu",
+                    "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
+                    "publishedDate": "18/11/2026 08:01"
+                },
+                {
+                    "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
+                    "publishedDate": "18/11/2026 02:08"
                 }
             ],
             "belangrijkheid": 0
@@ -1540,17 +1557,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
-            "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
-            "publishedDate": "18/11/2026 08:01",
-            "source": "westlanders.nu",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "NZa pleit voor meer standaardisatie bij inkoop jeugdzorg - InkopersCafe.nl",
             "link": "https://www.inkoperscafe.nl/nza-pleit-voor-meer-standaardisatie-bij-inkoop-jeugdzorg",
             "publishedDate": "18/11/2026 06:05",
@@ -1606,17 +1612,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
-            "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
-            "publishedDate": "18/11/2026 02:08",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "GSK krijgt FDA-goedkeuring voor longkankerbehandeling Nelkarmi - Investing.com",
             "link": "https://nl.investing.com/news/stock-market-news/gsk-krijgt-fdagoedkeuring-voor-longkankerbehandeling-nelkarmi-978229",
             "publishedDate": "18/11/2026 01:52",
@@ -1645,13 +1640,19 @@
             "source": "rivm.nl, vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
                     "source": "rivm.nl",
                     "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
                     "publishedDate": "16/11/2026 16:09"
+                },
+                {
+                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+                    "publishedDate": "17/11/2026 10:57"
                 }
             ],
             "belangrijkheid": 0
@@ -1677,17 +1678,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-            "publishedDate": "17/11/2026 10:57",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
