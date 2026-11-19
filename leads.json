@@ -49,7 +49,7 @@
                     "publishedDate": "19/11/2026 14:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Let op met declareren 2026: dit is afgesproken met zorgverzekeraars - KNOV",
@@ -111,7 +111,7 @@
                     "publishedDate": "19/11/2026 13:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
@@ -120,25 +120,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
                     "publishedDate": "19/11/2026 14:17"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
-                    "publishedDate": "19/11/2026 13:29"
-                },
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
-                    "publishedDate": "19/11/2026 13:29"
                 }
             ],
             "belangrijkheid": 0
@@ -175,6 +163,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
+            "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
+            "publishedDate": "19/11/2026 13:29",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
+                    "publishedDate": "19/11/2026 13:29"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Gentse ziekenhuizen pleiten voor minder antibiotica bij urineweginfecties - De Specialist",
@@ -237,29 +243,11 @@
             "title": "Deel klanten Zilveren Kruis niet welkom bij ziekenhuis - LINDA.",
             "link": "https://www.linda.nl/nieuws/zilveren-kruis-ziekenhuizen-patientenstop~1b1fc67",
             "publishedDate": "19/11/2026 12:28",
-            "source": "ad.nl, centraalplus.nl, gooieneemlander.nl, linda.nl, metronieuws.nl, noordhollandsdagblad.nl, omroepwest.nl, rtl.nl, rtlboulevard.nl",
+            "source": "ad.nl, gooieneemlander.nl, linda.nl, noordhollandsdagblad.nl, rtl.nl, rtlboulevard.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 14,
+            "duplicate_count": 7,
             "extra_bronnen": [
-                {
-                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
-                    "source": "omroepwest.nl",
-                    "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
-                    "publishedDate": "19/11/2026 12:17"
-                },
-                {
-                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
-                    "source": "centraalplus.nl",
-                    "link": "https://centraalplus.nl/2026/11/19/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar/",
-                    "publishedDate": "19/11/2026 10:09"
-                },
-                {
-                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
-                    "publishedDate": "19/11/2026 10:10"
-                },
                 {
                     "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
                     "source": "rtl.nl",
@@ -297,7 +285,7 @@
                     "publishedDate": "18/11/2026 16:34"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Medicom-koppeling brengt Digizorg naar meer huisartsen | ICT&amp;health",
@@ -330,6 +318,42 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
+            "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
+            "publishedDate": "19/11/2026 12:17",
+            "source": "centraalplus.nl, metronieuws.nl, nieuwsinalphen.nl, omroepwest.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 9,
+            "extra_bronnen": [
+                {
+                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
+                    "source": "centraalplus.nl",
+                    "link": "https://centraalplus.nl/2026/11/19/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar/",
+                    "publishedDate": "19/11/2026 10:09"
+                },
+                {
+                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
+                    "publishedDate": "19/11/2026 10:10"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
+                    "publishedDate": "18/11/2026 20:07"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
+                    "publishedDate": "18/11/2026 19:22"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -530,11 +554,18 @@
             "title": "Zorgminister Hermans noemt stijging hiv-diagnoses een 'zorgelijke ontwikkeling'",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/zorgminister-hermans-noemt-stijging-hiv-diagnoses-een-zorgelijke-ontwikkeling/",
             "publishedDate": "19/11/2026 10:47",
-            "source": "nationalezorggids.nl",
+            "source": "nationalezorggids.nl, trouw.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
+                    "publishedDate": "18/11/2026 22:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -603,7 +634,7 @@
                     "publishedDate": "19/11/2026 10:03"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Vervolg en afronding MESO-project - ZonMw",
@@ -687,7 +718,7 @@
                     "publishedDate": "18/11/2026 20:49"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Emiel Kwekkeboom van Restaurant Joann is Beste Praktijkopleider 2026",
@@ -803,11 +834,18 @@
             "title": "Schiedam ontvangt 1,2 miljoen euro voor begeleiding kwetsbare jongeren op school - AD",
             "link": "https://www.ad.nl/schiedam/schiedam-ontvangt-1-2-miljoen-euro-voor-begeleiding-kwetsbare-jongeren-op-school~a009b525/",
             "publishedDate": "19/11/2026 09:33",
-            "source": "ad.nl",
+            "source": "ad.nl, schiedam.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gemeente Schiedam krijgt 1,2 miljoen euro voor project Yets Foundation",
+                    "source": "schiedam.nl",
+                    "link": "https://www.schiedam.nl/nieuws/gemeente-schiedam-krijgt-12-miljoen-euro-voor-project-yets-foundation",
+                    "publishedDate": "18/11/2026 18:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -837,7 +875,7 @@
                     "publishedDate": "19/11/2026 09:02"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Behandeling hoge bloeddruk met zenuwonderbreking niet vergoed",
@@ -888,7 +926,7 @@
                     "publishedDate": "19/11/2026 08:36"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Renee wilde geen arts als partner en geen kinderen, tot ze Jesse ontmoette | Nieuws | AD.nl",
@@ -1171,17 +1209,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
-            "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
-            "publishedDate": "18/11/2026 22:19",
-            "source": "trouw.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Eindhovense zangeres Kovacs (36) ligt zeker een maand in ziekenhuis door problemen ...",
             "link": "https://www.ed.nl/eindhoven/eindhovense-zangeres-kovacs-36-ligt-zeker-een-maand-in-ziekenhuis-door-problemen-tijdens-zwangerschap~a9f32244/",
             "publishedDate": "18/11/2026 22:19",
@@ -1339,24 +1366,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
-            "publishedDate": "18/11/2026 20:07",
-            "source": "nieuwsinalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-                    "source": "nieuwsinalphen.nl",
-                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
-                    "publishedDate": "18/11/2026 19:22"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Actief Zorg vecht breuk met gemeente Heusden aan: 'Niet mee eens' - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035291/actief-zorg-vecht-breuk-met-gemeente-heusden-aan-niet-mee-eens",
             "publishedDate": "18/11/2026 20:02",
@@ -1429,17 +1438,6 @@
             "source": "nieuwsbladdekaap.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gemeente Schiedam krijgt 1,2 miljoen euro voor project Yets Foundation",
-            "link": "https://www.schiedam.nl/nieuws/gemeente-schiedam-krijgt-12-miljoen-euro-voor-project-yets-foundation",
-            "publishedDate": "18/11/2026 18:19",
-            "source": "schiedam.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1662,7 +1660,7 @@
             "feed_label": "Alert eerstelijnszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "In 2027 meer keuze bij gemeentelijke zorgverzekering | Capelle aan den IJssel",
@@ -1805,7 +1803,7 @@
             "feed_label": "VWS Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
