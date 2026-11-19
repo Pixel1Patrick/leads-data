@@ -110,25 +110,30 @@
             "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
             "link": "https://open.overheid.nl/details/a16e7867-7ab4-4205-a6cc-4a1fe2e61896",
             "publishedDate": "19/11/2026 17:05",
-            "source": "gelderlander.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/81c56b29-de29-4faf-b87b-1294a519cb85",
                     "publishedDate": "19/11/2026 17:05"
-                },
-                {
-                    "title": "Omwonenden van ziekenhuis Rijnstate zijn parkeerdruk in hun wijk beu: wat is de oplossing? | Regio",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/arnhem/omwonenden-van-ziekenhuis-rijnstate-zijn-parkeerdruk-in-hun-wijk-beu-wat-is-de-oplossing~adc67c4c/",
-                    "publishedDate": "19/11/2026 17:05"
                 }
             ],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Omwonenden van ziekenhuis Rijnstate zijn parkeerdruk in hun wijk beu: wat is de oplossing? | Regio",
+            "link": "https://www.gelderlander.nl/arnhem/omwonenden-van-ziekenhuis-rijnstate-zijn-parkeerdruk-in-hun-wijk-beu-wat-is-de-oplossing~adc67c4c/",
+            "publishedDate": "19/11/2026 17:05",
+            "source": "gelderlander.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Corona is weer terug, net nu de laatste vaccinaties worden gegeven - de Stentor",
@@ -207,18 +212,11 @@
             "title": "Man (21) overleden na steekpartij op Kerkplein Beverwijk, verdachte opgepakt - NH Nieuws",
             "link": "https://www.nhnieuws.nl/nieuws/365627/man-21-overleden-na-steekpartij-op-kerkplein-beverwijk-verdachte-opgepakt",
             "publishedDate": "19/11/2026 16:44",
-            "source": "nhnieuws.nl, streekstadcentraal.nl",
+            "source": "nhnieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Castricums slachtoffer van steekincident in Beverwijk overleden in ziekenhuis",
-                    "source": "streekstadcentraal.nl",
-                    "link": "https://streekstadcentraal.nl/60240370-castricums-slachtoffer-van-steekincident-in-beverwijk-overleden-in-ziekenhuis",
-                    "publishedDate": "19/11/2026 16:13"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -336,6 +334,17 @@
                     "publishedDate": "19/11/2026 16:09"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Castricums slachtoffer van steekincident in Beverwijk overleden in ziekenhuis",
+            "link": "https://streekstadcentraal.nl/60240370-castricums-slachtoffer-van-steekincident-in-beverwijk-overleden-in-ziekenhuis",
+            "publishedDate": "19/11/2026 16:13",
+            "source": "streekstadcentraal.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1358,11 +1367,18 @@
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/binnenland/kinderrechtencommissaris-klaagt-regels-en-procedures-in-de-jeugdzorg-aan-kinderen-leven-niet-in-hokjes/164772569.html",
             "publishedDate": "19/11/2026 07:26",
-            "source": "nieuwsblad.be",
+            "source": "nieuwsblad.be, tijd.be",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Kinderrechtencommissariaat: 'Hoe complexer de noden, hoe moeilijker een kind soms ...",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/politiek-economie/belgie/vlaanderen/kinderrechtencommissariaat-hoe-complexer-de-noden-hoe-moeilijker-een-kind-soms-ergens-binnenraakt/10706015.html",
+                    "publishedDate": "19/11/2026 06:31"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1394,17 +1410,6 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kinderrechtencommissariaat: 'Hoe complexer de noden, hoe moeilijker een kind soms ...",
-            "link": "https://www.tijd.be/politiek-economie/belgie/vlaanderen/kinderrechtencommissariaat-hoe-complexer-de-noden-hoe-moeilijker-een-kind-soms-ergens-binnenraakt/10706015.html",
-            "publishedDate": "19/11/2026 06:31",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
