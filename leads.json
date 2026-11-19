@@ -113,25 +113,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/81c56b29-de29-4faf-b87b-1294a519cb85",
                     "publishedDate": "19/11/2026 17:05"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/8e4317a8-9674-457d-8bde-d7d841126167",
-                    "publishedDate": "19/11/2026 09:02"
-                },
-                {
-                    "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
-                    "publishedDate": "19/11/2026 09:02"
                 }
             ],
             "belangrijkheid": 0
@@ -224,18 +212,11 @@
             "title": "Man (21) overleden na steekpartij op Kerkplein Beverwijk, verdachte opgepakt - NH Nieuws",
             "link": "https://www.nhnieuws.nl/nieuws/365627/man-21-overleden-na-steekpartij-op-kerkplein-beverwijk-verdachte-opgepakt",
             "publishedDate": "19/11/2026 16:44",
-            "source": "nhnieuws.nl, streekstadcentraal.nl",
+            "source": "nhnieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Castricums slachtoffer van steekincident in Beverwijk overleden in ziekenhuis",
-                    "source": "streekstadcentraal.nl",
-                    "link": "https://streekstadcentraal.nl/60240370-castricums-slachtoffer-van-steekincident-in-beverwijk-overleden-in-ziekenhuis",
-                    "publishedDate": "19/11/2026 16:13"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -245,6 +226,17 @@
             "source": "omroepflevoland.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Helmplicht voor kinderen in een bakfiets is uitstekend idee | Home | De Gelderlander.nl",
+            "link": "https://www.gelderlander.nl/home/helmplicht-voor-kinderen-in-een-bakfiets-is-uitstekend-idee~a9de9ebd/",
+            "publishedDate": "19/11/2026 16:36",
+            "source": "gelderlander.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -330,16 +322,22 @@
             "title": "Rode Kruis Ziekenhuis in Beverwijk zet landelijk netwerk op om 'vleesetende bacterie' beter ...",
             "link": "https://www.noordhollandsdagblad.nl/regio/ijmond/rode-kruis-ziekenhuis-in-beverwijk-zet-landelijk-netwerk-op-om-vleesetende-bacterie-beter-te-herkennen-en-behandelen/164788995.html",
             "publishedDate": "19/11/2026 16:16",
-            "source": "haarlemsdagblad.nl, noordhollandsdagblad.nl",
+            "source": "haarlemsdagblad.nl, noordhollandsdagblad.nl, streekstadcentraal.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Rode Kruis Ziekenhuis in Beverwijk zet landelijk netwerk op om 'vleesetende bacterie' beter ...",
                     "source": "haarlemsdagblad.nl",
                     "link": "https://www.haarlemsdagblad.nl/regio/ijmond/rode-kruis-ziekenhuis-zet-landelijk-netwerk-op-om-vleesetende-bacterie-beter-te-herkennen-en-behandelen/164809049.html",
                     "publishedDate": "19/11/2026 16:09"
+                },
+                {
+                    "title": "Castricums slachtoffer van steekincident in Beverwijk overleden in ziekenhuis",
+                    "source": "streekstadcentraal.nl",
+                    "link": "https://streekstadcentraal.nl/60240370-castricums-slachtoffer-van-steekincident-in-beverwijk-overleden-in-ziekenhuis",
+                    "publishedDate": "19/11/2026 16:13"
                 }
             ],
             "belangrijkheid": 0
@@ -411,6 +409,17 @@
             "link": "https://www.werkenbijgelre.nl/vacaturebeschrijving/duale-leerling-mbrt-medische-beeldvorming-en-radiotherapeutische-technieken-2",
             "publishedDate": "19/11/2026 15:44",
             "source": "werkenbijgelre.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Hoe zou het zijn met Eric Struelens, die ooit nog tegen Michael Jordan speelde? \u201cIn Spanje ...",
+            "link": "https://www.nieuwsblad.be/sport/zaalsporten/basketbal/hoe-zou-het-zijn-met-eric-struelens-die-ooit-nog-tegen-michael-jordan-speelde-in-spanje-heeft-men-meer-waardering-voor-sporthelden-dan-hier/164596031.html",
+            "publishedDate": "19/11/2026 15:36",
+            "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
@@ -633,17 +642,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jurre Geluk slaat alarm over stijgend aantal hiv-diagnoses - Nationale Zorggids",
-            "link": "https://www.nationalezorggids.nl/ziekenhuizen/jurre-geluk-slaat-alarm-over-stijgend-aantal-hiv-diagnoses/",
-            "publishedDate": "19/11/2026 14:17",
-            "source": "nationalezorggids.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1022,15 +1020,19 @@
             "source": "kijk.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Medisch Centrum West: Stevens moet werken aan een betere versie van zichzelf - KIJK",
-                    "source": "kijk.nl",
-                    "link": "https://www.kijk.nl/programmas/medisch-centrum-west/RIqlRMOAegMZMt",
-                    "publishedDate": "19/11/2026 10:58"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Medisch Centrum West: Stevens moet werken aan een betere versie van zichzelf - KIJK",
+            "link": "https://www.kijk.nl/programmas/medisch-centrum-west/RIqlRMOAegMZMt",
+            "publishedDate": "19/11/2026 10:58",
+            "source": "kijk.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1062,21 +1064,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-                    "publishedDate": "19/11/2026 10:18"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
-                    "publishedDate": "19/11/2026 10:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1086,6 +1075,17 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+            "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+            "publishedDate": "19/11/2026 10:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1148,6 +1148,17 @@
             "source": "derestaurantkrant.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
+            "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
+            "publishedDate": "19/11/2026 10:03",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1232,6 +1243,28 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
+            "link": "https://open.overheid.nl/details/8e4317a8-9674-457d-8bde-d7d841126167",
+            "publishedDate": "19/11/2026 09:02",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
+            "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
+            "publishedDate": "19/11/2026 09:02",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1490,7 +1523,7 @@
             "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Nieuwe zorgaanbieder neemt locaties in Noordkop, West-Friesland en Beemster over",
