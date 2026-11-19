@@ -365,18 +365,11 @@
             "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
             "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
             "publishedDate": "19/11/2026 09:04",
-            "source": "rivm.nl, zorgkrant.nl",
+            "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -642,7 +635,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "AWS breidde Amazon Connect Health uit met AI voor pati\u00ebnttoegang - NeoTeo",
@@ -670,22 +663,16 @@
             "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - Drimble",
             "link": "https://drimble.nl/binnenlands-nieuws/108644669/amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt.html",
             "publishedDate": "19/11/2026 02:38",
-            "source": "actueel365.nl, drimble.nl, nos.nl, oogtv.nl",
+            "source": "actueel365.nl, drimble.nl, nos.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
                     "source": "nos.nl",
                     "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
                     "publishedDate": "18/11/2026 15:41"
-                },
-                {
-                    "title": "Wethouder Molema vraagt Rijk om hulp bij aanpak crackverslaving | OOG Groningen",
-                    "source": "oogtv.nl",
-                    "link": "https://www.oogtv.nl/2026/11/wethouder-molema-vraagt-rijk-om-hulp-bij-aanpak-crackverslaving/",
-                    "publishedDate": "18/11/2026 17:46"
                 },
                 {
                     "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
@@ -1106,6 +1093,17 @@
             "source": "persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Wethouder Molema vraagt Rijk om hulp bij aanpak crackverslaving | OOG Groningen",
+            "link": "https://www.oogtv.nl/2026/11/wethouder-molema-vraagt-rijk-om-hulp-bij-aanpak-crackverslaving/",
+            "publishedDate": "18/11/2026 17:46",
+            "source": "oogtv.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1728,6 +1726,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+            "publishedDate": "17/11/2026 10:57",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
