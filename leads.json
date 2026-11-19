@@ -765,10 +765,10 @@
             "title": "Willem (81) bleef aarzelen over de coronaprik, maar toen zei zijn huisarts dit - De Gelderlander",
             "link": "https://www.gelderlander.nl/wijchen/willem-81-bleef-aarzelen-over-de-coronaprik-maar-toen-zei-zijn-huisarts-dit~aa71a554/",
             "publishedDate": "19/11/2026 12:59",
-            "source": "artsenkrant.pmg.be, bd.nl, destentor.nl, gelderlander.nl, medischcontact.nl",
+            "source": "bd.nl, destentor.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Willem (81) bleef aarzelen over de coronaprik, maar toen zei zijn huisarts dit | Regio | BD.nl",
@@ -781,18 +781,6 @@
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/nijmegen/willem-81-bleef-aarzelen-over-de-coronaprik-maar-toen-zei-zijn-huisarts-dit~aa71a554/",
                     "publishedDate": "19/11/2026 11:34"
-                },
-                {
-                    "title": "Arts krijgt waarschuwing voor onzorgvuldig gebruik OpenAI | medischcontact",
-                    "source": "medischcontact.nl",
-                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/arts-krijgt-waarschuwing-voor-onzorgvuldig-gebruik-openai",
-                    "publishedDate": "19/11/2026 09:59"
-                },
-                {
-                    "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
-                    "source": "artsenkrant.pmg.be",
-                    "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
-                    "publishedDate": "18/11/2026 21:10"
                 }
             ],
             "belangrijkheid": 0
@@ -1050,21 +1038,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-                    "publishedDate": "19/11/2026 10:18"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
-                    "publishedDate": "19/11/2026 10:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1074,6 +1049,17 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+            "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+            "publishedDate": "19/11/2026 10:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1138,6 +1124,35 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
+            "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
+            "publishedDate": "19/11/2026 10:03",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Arts krijgt waarschuwing voor onzorgvuldig gebruik OpenAI | medischcontact",
+            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/arts-krijgt-waarschuwing-voor-onzorgvuldig-gebruik-openai",
+            "publishedDate": "19/11/2026 09:59",
+            "source": "artsenkrant.pmg.be, medischcontact.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
+                    "publishedDate": "18/11/2026 21:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1411,24 +1426,11 @@
             "title": "NZa ziet mismatch tussen vraag en aanbod in de jeugdzorg - Huisartsvandaag.nl",
             "link": "https://huisartsvandaag.nl/nza-ziet-mismatch-tussen-vraag-en-aanbod-in-de-jeugdzorg/",
             "publishedDate": "19/11/2026 00:42",
-            "source": "huisartsvandaag.nl, jeugdzorgnederland.nl, nza.nl",
+            "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[Nieuws] Onze reactie op de Stand van de Jeugdzorg 2026",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/onze-reactie-op-de-stand-van-de-jeugdzorg-2026/",
-                    "publishedDate": "17/11/2026 07:00"
-                },
-                {
-                    "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg",
-                    "source": "nza.nl",
-                    "link": "https://www.nza.nl/actueel/nieuws/2026/11/16/nza-beter-inzicht-nodig-in-beschikbaarheid-van-jeugdzorg",
-                    "publishedDate": "16/11/2026 19:45"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1926,6 +1928,28 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Onze reactie op de Stand van de Jeugdzorg 2026",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/onze-reactie-op-de-stand-van-de-jeugdzorg-2026/",
+            "publishedDate": "17/11/2026 07:00",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Jeugdzorg Nederland",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg",
+            "link": "https://www.nza.nl/actueel/nieuws/2026/11/16/nza-beter-inzicht-nodig-in-beschikbaarheid-van-jeugdzorg",
+            "publishedDate": "16/11/2026 19:45",
+            "source": "nza.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "NZa Nieuws",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
