@@ -114,16 +114,22 @@
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
             "link": "https://open.overheid.nl/details/5bd6700b-265b-46de-b30b-2bd6d5c98b56",
             "publishedDate": "19/11/2026 14:17",
-            "source": "open.overheid.nl",
+            "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
                     "publishedDate": "19/11/2026 14:17"
+                },
+                {
+                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+                    "publishedDate": "19/11/2026 13:00"
                 }
             ],
             "belangrijkheid": 0
@@ -202,17 +208,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-            "publishedDate": "19/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Willem (81) bleef aarzelen over de coronaprik, maar toen zei zijn huisarts dit - De Gelderlander",
             "link": "https://www.gelderlander.nl/wijchen/willem-81-bleef-aarzelen-over-de-coronaprik-maar-toen-zei-zijn-huisarts-dit~aa71a554/",
             "publishedDate": "19/11/2026 12:59",
@@ -262,23 +257,11 @@
             "title": "Deel klanten Zilveren Kruis niet welkom bij ziekenhuis - LINDA.",
             "link": "https://www.linda.nl/nieuws/zilveren-kruis-ziekenhuizen-patientenstop~1b1fc67",
             "publishedDate": "19/11/2026 12:28",
-            "source": "ad.nl, centraalplus.nl, gooieneemlander.nl, linda.nl, metronieuws.nl, noordhollandsdagblad.nl, omroepwest.nl, rtl.nl, rtlboulevard.nl",
+            "source": "ad.nl, gooieneemlander.nl, linda.nl, metronieuws.nl, noordhollandsdagblad.nl, rtl.nl, rtlboulevard.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 14,
+            "duplicate_count": 8,
             "extra_bronnen": [
-                {
-                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
-                    "source": "omroepwest.nl",
-                    "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
-                    "publishedDate": "19/11/2026 12:17"
-                },
-                {
-                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
-                    "source": "centraalplus.nl",
-                    "link": "https://centraalplus.nl/2026/11/19/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar/",
-                    "publishedDate": "19/11/2026 10:09"
-                },
                 {
                     "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
                     "source": "metronieuws.nl",
@@ -356,6 +339,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
+            "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
+            "publishedDate": "19/11/2026 12:17",
+            "source": "centraalplus.nl, omroepwest.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
+                    "source": "centraalplus.nl",
+                    "link": "https://centraalplus.nl/2026/11/19/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar/",
+                    "publishedDate": "19/11/2026 10:09"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "We krijgen nu de rekening voor het verwaarlozen van software - Trouw",
@@ -555,18 +556,11 @@
             "title": "Zorgminister Hermans noemt stijging hiv-diagnoses een 'zorgelijke ontwikkeling'",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/zorgminister-hermans-noemt-stijging-hiv-diagnoses-een-zorgelijke-ontwikkeling/",
             "publishedDate": "19/11/2026 10:47",
-            "source": "nationalezorggids.nl, trouw.nl",
+            "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
-                    "publishedDate": "18/11/2026 22:19"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -846,24 +840,11 @@
             "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
             "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
             "publishedDate": "19/11/2026 09:04",
-            "source": "cbg-meb.nl, rivm.nl, zorgkrant.nl",
+            "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
-                    "source": "cbg-meb.nl",
-                    "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
-                    "publishedDate": "18/11/2026 15:30"
-                },
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -979,11 +960,18 @@
             "title": "Vierde poging mislukt: veroordeelde Haagse huisarts blijft uit artsenregister - Waterkant",
             "link": "https://www.waterkant.net/suriname/2026/11/19/vierde-poging-mislukt-veroordeelde-haagse-huisarts-blijft-uit-artsenregister/",
             "publishedDate": "19/11/2026 07:32",
-            "source": "waterkant.net",
+            "source": "ad.nl, waterkant.net",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
+                    "publishedDate": "18/11/2026 21:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1218,6 +1206,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
+            "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
+            "publishedDate": "18/11/2026 22:19",
+            "source": "trouw.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Eindhovense zangeres Kovacs (36) ligt zeker een maand in ziekenhuis door problemen ...",
             "link": "https://www.ed.nl/eindhoven/eindhovense-zangeres-kovacs-36-ligt-zeker-een-maand-in-ziekenhuis-door-problemen-tijdens-zwangerschap~a9f32244/",
             "publishedDate": "18/11/2026 22:19",
@@ -1279,17 +1278,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
-            "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
-            "publishedDate": "18/11/2026 21:36",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1628,6 +1616,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
+            "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
+            "publishedDate": "18/11/2026 15:30",
+            "source": "cbg-meb.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "College ter Beoordeling van Geneesmiddelen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Portretten van 100 zorgprofessionals vormen het slot van jubileumviering Museum De Dorpsdokter",
             "link": "https://www.ed.nl/tilburg/portretten-van-100-zorgprofessionals-vormen-het-slot-van-jubileumviering-museum-de-dorpsdokter~a73cdb61/",
             "publishedDate": "18/11/2026 15:11",
@@ -1864,6 +1863,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+            "publishedDate": "17/11/2026 10:57",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
