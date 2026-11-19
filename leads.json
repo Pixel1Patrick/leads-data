@@ -51,22 +51,18 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 13:00",
-            "source": "open.overheid.nl",
+            "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-            "publishedDate": "19/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+                    "publishedDate": "19/11/2026 13:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -106,10 +102,10 @@
             "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
             "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
             "publishedDate": "19/11/2026 12:17",
-            "source": "ad.nl, centraalplus.nl, gooieneemlander.nl, metronieuws.nl, noordhollandsdagblad.nl, omroepwest.nl, reddit.com, rtl.nl, rtlboulevard.nl",
+            "source": "ad.nl, centraalplus.nl, gooieneemlander.nl, metronieuws.nl, nieuwsinalphen.nl, noordhollandsdagblad.nl, omroepwest.nl, reddit.com, rtl.nl, rtlboulevard.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 12,
+            "duplicate_count": 14,
             "extra_bronnen": [
                 {
                     "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
@@ -140,6 +136,18 @@
                     "source": "rtlboulevard.nl",
                     "link": "https://www.rtlboulevard.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
                     "publishedDate": "18/11/2026 18:45"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
+                    "publishedDate": "18/11/2026 20:07"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
+                    "publishedDate": "18/11/2026 19:22"
                 },
                 {
                     "title": "Pati\u00ebntenstop bij aantal ziekenhuizen voor klanten Zilveren Kruis: verzekeraar betaalt niet genoeg",
@@ -340,22 +348,36 @@
             "title": "Eindhovense zangeres Kovacs in ziekenhuis door zwangerschapscomplicaties - Nieuws.nl",
             "link": "https://nieuws.nl/entertainment/zangeres-kovacs-36-uit-eindhoven-minstens-maand-in-ziekenhuis-door-zwangerschapscomplicaties",
             "publishedDate": "19/11/2026 10:58",
-            "source": "nieuws.nl",
+            "source": "ed.nl, nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Eindhovense zangeres Kovacs (36) ligt zeker een maand in ziekenhuis door problemen ...",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/eindhoven/eindhovense-zangeres-kovacs-36-ligt-zeker-een-maand-in-ziekenhuis-door-problemen-tijdens-zwangerschap~a9f32244/",
+                    "publishedDate": "18/11/2026 22:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Zorgminister Hermans noemt stijging hiv-diagnoses een 'zorgelijke ontwikkeling'",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/zorgminister-hermans-noemt-stijging-hiv-diagnoses-een-zorgelijke-ontwikkeling/",
             "publishedDate": "19/11/2026 10:47",
-            "source": "nationalezorggids.nl",
+            "source": "nationalezorggids.nl, trouw.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
+                    "publishedDate": "18/11/2026 22:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -497,7 +519,7 @@
                     "publishedDate": "18/11/2026 20:49"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Emiel Kwekkeboom van Restaurant Joann is Beste Praktijkopleider 2026",
@@ -624,11 +646,17 @@
             "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
             "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
             "publishedDate": "19/11/2026 09:04",
-            "source": "rivm.nl, zorgkrant.nl",
+            "source": "cbg-meb.nl, rivm.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
+                    "source": "cbg-meb.nl",
+                    "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
+                    "publishedDate": "18/11/2026 15:30"
+                },
                 {
                     "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
                     "source": "rivm.nl",
@@ -636,7 +664,7 @@
                     "publishedDate": "17/11/2026 10:57"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
@@ -795,11 +823,18 @@
             "title": "Vierde poging mislukt: veroordeelde Haagse huisarts blijft uit artsenregister - Waterkant",
             "link": "https://www.waterkant.net/suriname/2026/11/19/vierde-poging-mislukt-veroordeelde-haagse-huisarts-blijft-uit-artsenregister/",
             "publishedDate": "19/11/2026 07:32",
-            "source": "waterkant.net",
+            "source": "ad.nl, waterkant.net",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
+                    "publishedDate": "18/11/2026 21:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -817,11 +852,24 @@
             "title": "Aandeel mannen in opleiding Verpleegkunde bij Thomas More stijgt naar hoogste niveau in tien jaar",
             "link": "https://www.rtv.be/actualiteit-en-nieuws/aandeel-mannen-opleiding-verpleegkunde-bij-thomas-more-stijgt-naar-hoogste",
             "publishedDate": "19/11/2026 07:20",
-            "source": "rtv.be",
+            "source": "gva.be, news.thomasmore.be, rtv.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
+                    "publishedDate": "19/11/2026 03:18"
+                },
+                {
+                    "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
+                    "source": "news.thomasmore.be",
+                    "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
+                    "publishedDate": "19/11/2026 00:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -894,22 +942,24 @@
             "title": "AWS breidde Amazon Connect Health uit met AI voor pati\u00ebnttoegang - NeoTeo",
             "link": "https://www.neoteo.com/nl/aws-breidde-amazon-connect-health-uit-met-ai-voor-patienttoegang",
             "publishedDate": "19/11/2026 04:55",
-            "source": "neoteo.com",
+            "source": "gva.be, neoteo.com, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
-            "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
-            "publishedDate": "19/11/2026 03:18",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
+                    "publishedDate": "18/11/2026 21:00"
+                },
+                {
+                    "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
+                    "publishedDate": "18/11/2026 18:35"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -998,17 +1048,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
-            "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
-            "publishedDate": "19/11/2026 00:03",
-            "source": "news.thomasmore.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "'Denk aan Oostenrijk, Zwitserland, Frankrijk', Bo van Wijk vertelt over de tweedehands ski's ...",
             "link": "https://www.bndestem.nl/videos/productie/denk-aan-oostenrijk-zwitserland-frankrijk-bo-van-wijk-verteld-over-de-tweedehands-skis-in-de-winkel-15073911",
             "publishedDate": "19/11/2026 00:00",
@@ -1058,28 +1097,6 @@
             "publishedDate": "18/11/2026 22:20",
             "source": "sporza.be",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
-            "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
-            "publishedDate": "18/11/2026 22:19",
-            "source": "trouw.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Eindhovense zangeres Kovacs (36) ligt zeker een maand in ziekenhuis door problemen ...",
-            "link": "https://www.ed.nl/eindhoven/eindhovense-zangeres-kovacs-36-ligt-zeker-een-maand-in-ziekenhuis-door-problemen-tijdens-zwangerschap~a9f32244/",
-            "publishedDate": "18/11/2026 22:19",
-            "source": "ed.nl",
-            "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1141,17 +1158,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
-            "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
-            "publishedDate": "18/11/2026 21:36",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Aalsmeer werkt plannen voor 2027 uit in college-uitvoeringsprogramma",
             "link": "https://radioaalsmeer.nl/2026/11/aalsmeer-werkt-plannen-voor-2027-uit-in-college-uitvoeringsprogramma/",
             "publishedDate": "18/11/2026 21:22",
@@ -1171,24 +1177,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
-            "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
-            "publishedDate": "18/11/2026 21:00",
-            "source": "gva.be, nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
-                    "publishedDate": "18/11/2026 18:35"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1222,24 +1210,6 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
-            "publishedDate": "18/11/2026 20:07",
-            "source": "nieuwsinalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-                    "source": "nieuwsinalphen.nl",
-                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
-                    "publishedDate": "18/11/2026 19:22"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1502,17 +1472,6 @@
             "source": "puttencity.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
-            "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
-            "publishedDate": "18/11/2026 15:30",
-            "source": "cbg-meb.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "College ter Beoordeling van Geneesmiddelen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
