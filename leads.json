@@ -73,13 +73,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
                     "publishedDate": "19/11/2026 14:17"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
+                    "publishedDate": "19/11/2026 13:29"
+                },
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
+                    "publishedDate": "19/11/2026 13:29"
                 }
             ],
             "belangrijkheid": 0
@@ -118,24 +130,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
-            "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
-            "publishedDate": "19/11/2026 13:29",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
-                    "publishedDate": "19/11/2026 13:29"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
             "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
             "publishedDate": "19/11/2026 13:00",
@@ -168,17 +162,6 @@
                     "publishedDate": "19/11/2026 11:34"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Roddelblogger Perez Hilton verlaat zorginstelling en vervolgt behandeling thuis - NU",
-            "link": "https://www.nu.nl/achterklap/6417087/roddelblogger-perez-hilton-verlaat-zorginstelling-en-vervolgt-behandeling-thuis.html",
-            "publishedDate": "19/11/2026 12:58",
-            "source": "nu.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -240,10 +223,10 @@
             "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
             "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
             "publishedDate": "19/11/2026 12:17",
-            "source": "centraalplus.nl, metronieuws.nl, nieuwsinalphen.nl, omroepwest.nl",
+            "source": "ad.nl, centraalplus.nl, gooieneemlander.nl, metronieuws.nl, nieuwsinalphen.nl, noordhollandsdagblad.nl, omroepwest.nl, reddit.com, rtl.nl, rtlboulevard.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 9,
+            "duplicate_count": 16,
             "extra_bronnen": [
                 {
                     "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
@@ -258,6 +241,24 @@
                     "publishedDate": "19/11/2026 10:10"
                 },
                 {
+                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+                    "source": "reddit.com",
+                    "link": "https://www.reddit.com/r/Nederland/comments/1y00uxk/klanten_zilveren_kruis_niet_welkom_bij_aantal/",
+                    "publishedDate": "19/11/2026 07:17"
+                },
+                {
+                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+                    "source": "rtl.nl",
+                    "link": "https://www.rtl.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
+                    "publishedDate": "18/11/2026 21:45"
+                },
+                {
+                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+                    "source": "rtlboulevard.nl",
+                    "link": "https://www.rtlboulevard.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
+                    "publishedDate": "18/11/2026 18:45"
+                },
+                {
                     "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
                     "source": "nieuwsinalphen.nl",
                     "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
@@ -268,6 +269,30 @@
                     "source": "nieuwsinalphen.nl",
                     "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
                     "publishedDate": "18/11/2026 19:22"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij aantal ziekenhuizen voor klanten Zilveren Kruis: verzekeraar betaalt niet genoeg",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/binnenland/patientenstop-bij-aantal-ziekenhuizen-voor-klanten-zilveren-kruis-verzekeraar-betaalt-niet-genoeg~ae3ecf24/",
+                    "publishedDate": "18/11/2026 16:50"
+                },
+                {
+                    "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - De Gooi- en Eemlander",
+                    "source": "gooieneemlander.nl",
+                    "link": "https://www.gooieneemlander.nl/uitgelicht/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164753562.html",
+                    "publishedDate": "18/11/2026 16:47"
+                },
+                {
+                    "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - Noordhollands Dagblad",
+                    "source": "noordhollandsdagblad.nl",
+                    "link": "https://www.noordhollandsdagblad.nl/binnenland/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164752131.html",
+                    "publishedDate": "18/11/2026 16:46"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij aantal ziekenhuizen voor klanten Zilveren Kruis, FBTO en Interpolis - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/binnenland/patientenstop-bij-aantal-ziekenhuizen-voor-klanten-zilveren-kruis-fbto-en-interpolis-verzekeraar-betaalt-niet-genoeg~ae3ecf24/",
+                    "publishedDate": "18/11/2026 16:34"
                 }
             ],
             "belangrijkheid": 1
@@ -475,7 +500,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Noordenveld scoort hoog op inzet ervaringsdeskundigen: tweede plaats in Drenthe - Dit is Roden",
@@ -528,21 +553,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-                    "publishedDate": "19/11/2026 10:18"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
-                    "publishedDate": "19/11/2026 10:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -552,6 +564,17 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+            "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+            "publishedDate": "19/11/2026 10:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -627,7 +650,7 @@
                     "publishedDate": "18/11/2026 20:49"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Emiel Kwekkeboom van Restaurant Joann is Beste Praktijkopleider 2026",
@@ -636,6 +659,17 @@
             "source": "derestaurantkrant.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
+            "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
+            "publishedDate": "19/11/2026 10:03",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -946,54 +980,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
-            "link": "https://www.reddit.com/r/Nederland/comments/1y00uxk/klanten_zilveren_kruis_niet_welkom_bij_aantal/",
-            "publishedDate": "19/11/2026 07:17",
-            "source": "ad.nl, gooieneemlander.nl, noordhollandsdagblad.nl, reddit.com, rtl.nl, rtlboulevard.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 7,
-            "extra_bronnen": [
-                {
-                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
-                    "source": "rtl.nl",
-                    "link": "https://www.rtl.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
-                    "publishedDate": "18/11/2026 21:45"
-                },
-                {
-                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
-                    "source": "rtlboulevard.nl",
-                    "link": "https://www.rtlboulevard.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
-                    "publishedDate": "18/11/2026 18:45"
-                },
-                {
-                    "title": "Pati\u00ebntenstop bij aantal ziekenhuizen voor klanten Zilveren Kruis: verzekeraar betaalt niet genoeg",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/binnenland/patientenstop-bij-aantal-ziekenhuizen-voor-klanten-zilveren-kruis-verzekeraar-betaalt-niet-genoeg~ae3ecf24/",
-                    "publishedDate": "18/11/2026 16:50"
-                },
-                {
-                    "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - De Gooi- en Eemlander",
-                    "source": "gooieneemlander.nl",
-                    "link": "https://www.gooieneemlander.nl/uitgelicht/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164753562.html",
-                    "publishedDate": "18/11/2026 16:47"
-                },
-                {
-                    "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - Noordhollands Dagblad",
-                    "source": "noordhollandsdagblad.nl",
-                    "link": "https://www.noordhollandsdagblad.nl/binnenland/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164752131.html",
-                    "publishedDate": "18/11/2026 16:46"
-                },
-                {
-                    "title": "Pati\u00ebntenstop bij aantal ziekenhuizen voor klanten Zilveren Kruis, FBTO en Interpolis - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/binnenland/patientenstop-bij-aantal-ziekenhuizen-voor-klanten-zilveren-kruis-fbto-en-interpolis-verzekeraar-betaalt-niet-genoeg~ae3ecf24/",
-                    "publishedDate": "18/11/2026 16:34"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Moordverdachte Maxime A. voelt zich veiliger in gevangenis dan thuis - Omroep West",
