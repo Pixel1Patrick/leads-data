@@ -122,16 +122,16 @@
                     "publishedDate": "19/11/2026 17:05"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/5bd6700b-265b-46de-b30b-2bd6d5c98b56",
-                    "publishedDate": "19/11/2026 14:17"
+                    "link": "https://open.overheid.nl/details/8e4317a8-9674-457d-8bde-d7d841126167",
+                    "publishedDate": "19/11/2026 09:02"
                 },
                 {
-                    "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
+                    "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
-                    "publishedDate": "19/11/2026 14:17"
+                    "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
+                    "publishedDate": "19/11/2026 09:02"
                 }
             ],
             "belangrijkheid": 1
@@ -224,18 +224,11 @@
             "title": "Man (21) overleden na steekpartij op Kerkplein Beverwijk, verdachte opgepakt - NH Nieuws",
             "link": "https://www.nhnieuws.nl/nieuws/365627/man-21-overleden-na-steekpartij-op-kerkplein-beverwijk-verdachte-opgepakt",
             "publishedDate": "19/11/2026 16:44",
-            "source": "nhnieuws.nl, streekstadcentraal.nl",
+            "source": "nhnieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Castricums slachtoffer van steekincident in Beverwijk overleden in ziekenhuis",
-                    "source": "streekstadcentraal.nl",
-                    "link": "https://streekstadcentraal.nl/60240370-castricums-slachtoffer-van-steekincident-in-beverwijk-overleden-in-ziekenhuis",
-                    "publishedDate": "19/11/2026 16:13"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -341,16 +334,22 @@
             "title": "Rode Kruis Ziekenhuis in Beverwijk zet landelijk netwerk op om 'vleesetende bacterie' beter ...",
             "link": "https://www.noordhollandsdagblad.nl/regio/ijmond/rode-kruis-ziekenhuis-in-beverwijk-zet-landelijk-netwerk-op-om-vleesetende-bacterie-beter-te-herkennen-en-behandelen/164788995.html",
             "publishedDate": "19/11/2026 16:16",
-            "source": "haarlemsdagblad.nl, noordhollandsdagblad.nl",
+            "source": "haarlemsdagblad.nl, noordhollandsdagblad.nl, streekstadcentraal.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Rode Kruis Ziekenhuis in Beverwijk zet landelijk netwerk op om 'vleesetende bacterie' beter ...",
                     "source": "haarlemsdagblad.nl",
                     "link": "https://www.haarlemsdagblad.nl/regio/ijmond/rode-kruis-ziekenhuis-zet-landelijk-netwerk-op-om-vleesetende-bacterie-beter-te-herkennen-en-behandelen/164809049.html",
                     "publishedDate": "19/11/2026 16:09"
+                },
+                {
+                    "title": "Castricums slachtoffer van steekincident in Beverwijk overleden in ziekenhuis",
+                    "source": "streekstadcentraal.nl",
+                    "link": "https://streekstadcentraal.nl/60240370-castricums-slachtoffer-van-steekincident-in-beverwijk-overleden-in-ziekenhuis",
+                    "publishedDate": "19/11/2026 16:13"
                 }
             ],
             "belangrijkheid": 0
@@ -362,19 +361,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-            "publishedDate": "19/11/2026 16:12",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+                    "publishedDate": "19/11/2026 16:12"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -419,7 +414,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Duale leerling MBRT Medische beeldvorming en Radiotherapeutische Technieken",
@@ -675,6 +670,36 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
+            "link": "https://open.overheid.nl/details/5bd6700b-265b-46de-b30b-2bd6d5c98b56",
+            "publishedDate": "19/11/2026 14:17",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
+                    "publishedDate": "19/11/2026 14:17"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
+                    "publishedDate": "19/11/2026 13:29"
+                },
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
+                    "publishedDate": "19/11/2026 13:29"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Aruba waarschuwt voor antibioticaresistentie: infecties steeds moeilijker te behandelen",
             "link": "https://www.aruba.nu/nieuws/gezondheidszorg/98690/aruba-waarschuwt-voor-antibioticaresistentie-infecties-steeds-moeilijker-te-behandelen",
             "publishedDate": "19/11/2026 14:17",
@@ -774,7 +799,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderbescherming op papier: waarom kwetsbare kinderen tussen wal en schip vallen",
@@ -785,24 +810,6 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
-            "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
-            "publishedDate": "19/11/2026 13:29",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
-                    "publishedDate": "19/11/2026 13:29"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -911,7 +918,7 @@
                     "publishedDate": "19/11/2026 10:09"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Proactieve zorgbemiddeling: soms een nieuwe verwijzing nodig",
@@ -1140,7 +1147,7 @@
                     "publishedDate": "18/11/2026 20:49"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Emiel Kwekkeboom van Restaurant Joann is Beste Praktijkopleider 2026",
@@ -1238,24 +1245,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
-            "link": "https://open.overheid.nl/details/8e4317a8-9674-457d-8bde-d7d841126167",
-            "publishedDate": "19/11/2026 09:02",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
-                    "publishedDate": "19/11/2026 09:02"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Behandeling hoge bloeddruk met zenuwonderbreking niet vergoed",
             "link": "https://www.zorginstituutnederland.nl/actueel/nieuws/2026/11/19/renale-denervatie-geen-vergoede-zorg",
             "publishedDate": "19/11/2026 09:01",
@@ -1339,11 +1328,18 @@
             "title": "Vierde poging mislukt: veroordeelde Haagse huisarts blijft uit artsenregister - Waterkant",
             "link": "https://www.waterkant.net/suriname/2026/11/19/vierde-poging-mislukt-veroordeelde-haagse-huisarts-blijft-uit-artsenregister/",
             "publishedDate": "19/11/2026 07:32",
-            "source": "waterkant.net",
+            "source": "ad.nl, waterkant.net",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
+                    "publishedDate": "18/11/2026 21:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1509,7 +1505,7 @@
             "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuwe zorgaanbieder neemt locaties in Noordkop, West-Friesland en Beemster over",
@@ -1529,17 +1525,6 @@
             "source": "debunschoter-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
-            "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
-            "publishedDate": "18/11/2026 21:36",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1604,7 +1589,7 @@
                     "publishedDate": "18/11/2026 19:22"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Actief Zorg vecht breuk met gemeente Heusden aan: 'Niet mee eens' - Omroep Brabant",
@@ -1669,17 +1654,6 @@
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Tarieven, vervolgzorg en digitaal werken: wat moet je weten voor 2027? - LHV",
-            "link": "https://www.lhv.nl/nieuws/tarieven-vervolgzorg-en-digitaal-werken-wat-moet-je-weten-voor-2027/",
-            "publishedDate": "18/11/2026 19:28",
-            "source": "lhv.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1823,6 +1797,17 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Tarieven, vervolgzorg en digitaal werken: wat moet je weten voor 2027?",
+            "link": "https://www.lhv.nl/nieuws/tarieven-vervolgzorg-en-digitaal-werken-wat-moet-je-weten-voor-2027/",
+            "publishedDate": "18/11/2026 02:26",
+            "source": "lhv.nl",
+            "category": "Overig",
+            "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
