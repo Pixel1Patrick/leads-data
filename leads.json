@@ -207,11 +207,18 @@
             "title": "Man (21) overleden na steekpartij op Kerkplein Beverwijk, verdachte opgepakt - NH Nieuws",
             "link": "https://www.nhnieuws.nl/nieuws/365627/man-21-overleden-na-steekpartij-op-kerkplein-beverwijk-verdachte-opgepakt",
             "publishedDate": "19/11/2026 16:44",
-            "source": "nhnieuws.nl",
+            "source": "nhnieuws.nl, streekstadcentraal.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Castricums slachtoffer van steekincident in Beverwijk overleden in ziekenhuis",
+                    "source": "streekstadcentraal.nl",
+                    "link": "https://streekstadcentraal.nl/60240370-castricums-slachtoffer-van-steekincident-in-beverwijk-overleden-in-ziekenhuis",
+                    "publishedDate": "19/11/2026 16:13"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -317,22 +324,16 @@
             "title": "Rode Kruis Ziekenhuis in Beverwijk zet landelijk netwerk op om 'vleesetende bacterie' beter ...",
             "link": "https://www.noordhollandsdagblad.nl/regio/ijmond/rode-kruis-ziekenhuis-in-beverwijk-zet-landelijk-netwerk-op-om-vleesetende-bacterie-beter-te-herkennen-en-behandelen/164788995.html",
             "publishedDate": "19/11/2026 16:16",
-            "source": "haarlemsdagblad.nl, noordhollandsdagblad.nl, streekstadcentraal.nl",
+            "source": "haarlemsdagblad.nl, noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Rode Kruis Ziekenhuis in Beverwijk zet landelijk netwerk op om 'vleesetende bacterie' beter ...",
                     "source": "haarlemsdagblad.nl",
                     "link": "https://www.haarlemsdagblad.nl/regio/ijmond/rode-kruis-ziekenhuis-zet-landelijk-netwerk-op-om-vleesetende-bacterie-beter-te-herkennen-en-behandelen/164809049.html",
                     "publishedDate": "19/11/2026 16:09"
-                },
-                {
-                    "title": "Castricums slachtoffer van steekincident in Beverwijk overleden in ziekenhuis",
-                    "source": "streekstadcentraal.nl",
-                    "link": "https://streekstadcentraal.nl/60240370-castricums-slachtoffer-van-steekincident-in-beverwijk-overleden-in-ziekenhuis",
-                    "publishedDate": "19/11/2026 16:13"
                 }
             ],
             "belangrijkheid": 0
@@ -344,15 +345,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-                    "publishedDate": "19/11/2026 16:12"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+            "publishedDate": "19/11/2026 16:12",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -645,18 +650,11 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 14:17",
-            "source": "igj.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-                    "publishedDate": "19/11/2026 13:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -736,11 +734,36 @@
             "title": "Bewoners Kraaijbeek willen nu doorpakken: 'Gemeenteraad moet college op het matje roepen'",
             "link": "https://www.nieuwsbladdekaap.nl/lokaal/politiek/1329256/bewoners-kraaijbeek-willen-nu-doorpakken-gemeenteraad-moet-co",
             "publishedDate": "19/11/2026 14:00",
-            "source": "nieuwsbladdekaap.nl",
+            "source": "nieuwsbladdekaap.nl, nl.headtopics.com, rtvutrecht.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Verkoop van wooncomplex Kraaijbeek in Driebergen wordt lastiger, rechter fluit eigenaar terug",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/verkoop-van-wooncomplex-kraaijbeek-in-driebergen-wordt-89994199",
+                    "publishedDate": "19/11/2026 12:03"
+                },
+                {
+                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
+                    "source": "rtvutrecht.nl",
+                    "link": "https://www.rtvutrecht.nl/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
+                    "publishedDate": "19/11/2026 11:09"
+                },
+                {
+                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
+                    "source": "rtvutrecht.nl",
+                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
+                    "publishedDate": "19/11/2026 11:07"
+                },
+                {
+                    "title": "Oudere bewoners Kraaijbeek halen hoop uit uitspraak van rechter - RTV Utrecht",
+                    "source": "rtvutrecht.nl",
+                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/oudere-bewoners-kraaijbeek-halen-hoop-uit-uitspraak-van-rechter-geef-kraaijbeek-terug",
+                    "publishedDate": "19/11/2026 09:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -781,6 +804,17 @@
                     "publishedDate": "19/11/2026 13:29"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+            "publishedDate": "19/11/2026 13:00",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -879,30 +913,6 @@
                 }
             ],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Verkoop van wooncomplex Kraaijbeek in Driebergen wordt lastiger, rechter fluit eigenaar terug",
-            "link": "https://nl.headtopics.com/news/verkoop-van-wooncomplex-kraaijbeek-in-driebergen-wordt-89994199",
-            "publishedDate": "19/11/2026 12:03",
-            "source": "nl.headtopics.com, rtvutrecht.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
-                    "publishedDate": "19/11/2026 11:09"
-                },
-                {
-                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
-                    "publishedDate": "19/11/2026 11:07"
-                }
-            ],
-            "belangrijkheid": 0
         },
         {
             "title": "Proactieve zorgbemiddeling: soms een nieuwe verwijzing nodig",
@@ -1148,11 +1158,18 @@
             "title": "Arts krijgt waarschuwing voor onzorgvuldig gebruik OpenAI | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/arts-krijgt-waarschuwing-voor-onzorgvuldig-gebruik-openai",
             "publishedDate": "19/11/2026 09:59",
-            "source": "medischcontact.nl",
+            "source": "artsenkrant.pmg.be, medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
+                    "publishedDate": "18/11/2026 21:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1195,17 +1212,6 @@
             "source": "ggznieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Oudere bewoners Kraaijbeek halen hoop uit uitspraak van rechter - RTV Utrecht",
-            "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/oudere-bewoners-kraaijbeek-halen-hoop-uit-uitspraak-van-rechter-geef-kraaijbeek-terug",
-            "publishedDate": "19/11/2026 09:42",
-            "source": "rtvutrecht.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1542,17 +1548,6 @@
             "source": "radioaalsmeer.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
-            "publishedDate": "18/11/2026 21:10",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
