@@ -81,16 +81,46 @@
             "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
             "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
             "publishedDate": "19/11/2026 10:58",
-            "source": "ad.nl, gooieneemlander.nl, metronieuws.nl, noordhollandsdagblad.nl, omroepwest.nl",
+            "source": "ad.nl, gooieneemlander.nl, metronieuws.nl, nieuwsinalphen.nl, noordhollandsdagblad.nl, omroepwest.nl, reddit.com, rtl.nl, rtlboulevard.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 7,
+            "duplicate_count": 12,
             "extra_bronnen": [
                 {
                     "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
                     "source": "metronieuws.nl",
                     "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
                     "publishedDate": "19/11/2026 10:10"
+                },
+                {
+                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+                    "source": "reddit.com",
+                    "link": "https://www.reddit.com/r/Nederland/comments/1y00uxk/klanten_zilveren_kruis_niet_welkom_bij_aantal/",
+                    "publishedDate": "19/11/2026 07:17"
+                },
+                {
+                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+                    "source": "rtl.nl",
+                    "link": "https://www.rtl.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
+                    "publishedDate": "18/11/2026 21:45"
+                },
+                {
+                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+                    "source": "rtlboulevard.nl",
+                    "link": "https://www.rtlboulevard.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
+                    "publishedDate": "18/11/2026 18:45"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
+                    "publishedDate": "18/11/2026 20:07"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
+                    "publishedDate": "18/11/2026 19:22"
                 },
                 {
                     "title": "Pati\u00ebntenstop bij aantal ziekenhuizen voor klanten Zilveren Kruis: verzekeraar betaalt niet genoeg",
@@ -177,21 +207,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-                    "publishedDate": "19/11/2026 10:18"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
-                    "publishedDate": "19/11/2026 10:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+            "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+            "publishedDate": "19/11/2026 10:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -228,14 +256,32 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
+            "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
+            "publishedDate": "19/11/2026 10:03",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Arts krijgt waarschuwing voor onzorgvuldig gebruik OpenAI | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/arts-krijgt-waarschuwing-voor-onzorgvuldig-gebruik-openai",
             "publishedDate": "19/11/2026 09:59",
-            "source": "medischcontact.nl",
+            "source": "artsenkrant.pmg.be, medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
+                    "publishedDate": "18/11/2026 21:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -319,11 +365,18 @@
             "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
             "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
             "publishedDate": "19/11/2026 09:04",
-            "source": "zorgkrant.nl",
+            "source": "rivm.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+                    "publishedDate": "17/11/2026 10:57"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -353,7 +406,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Monitor Borstkankerzorg - Borstkankervereniging Nederland",
@@ -526,30 +579,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
-            "link": "https://www.reddit.com/r/Nederland/comments/1y00uxk/klanten_zilveren_kruis_niet_welkom_bij_aantal/",
-            "publishedDate": "19/11/2026 07:17",
-            "source": "reddit.com, rtl.nl, rtlboulevard.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
-                    "source": "rtl.nl",
-                    "link": "https://www.rtl.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
-                    "publishedDate": "18/11/2026 21:45"
-                },
-                {
-                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
-                    "source": "rtlboulevard.nl",
-                    "link": "https://www.rtlboulevard.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
-                    "publishedDate": "18/11/2026 18:45"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Moordverdachte Maxime A. voelt zich veiliger in gevangenis dan thuis - Omroep West",
             "link": "https://www.omroepwest.nl/misdaad/5174358/moordverdachte-maxime-a-voelt-zich-veiliger-in-gevangenis-dan-thuis",
             "publishedDate": "19/11/2026 07:12",
@@ -613,7 +642,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "AWS breidde Amazon Connect Health uit met AI voor pati\u00ebnttoegang - NeoTeo",
@@ -641,16 +670,22 @@
             "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - Drimble",
             "link": "https://drimble.nl/binnenlands-nieuws/108644669/amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt.html",
             "publishedDate": "19/11/2026 02:38",
-            "source": "actueel365.nl, drimble.nl, nos.nl",
+            "source": "actueel365.nl, drimble.nl, nos.nl, oogtv.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
                     "source": "nos.nl",
                     "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
                     "publishedDate": "18/11/2026 15:41"
+                },
+                {
+                    "title": "Wethouder Molema vraagt Rijk om hulp bij aanpak crackverslaving | OOG Groningen",
+                    "source": "oogtv.nl",
+                    "link": "https://www.oogtv.nl/2026/11/wethouder-molema-vraagt-rijk-om-hulp-bij-aanpak-crackverslaving/",
+                    "publishedDate": "18/11/2026 17:46"
                 },
                 {
                     "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
@@ -687,24 +722,11 @@
             "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
             "link": "https://www.pvda.be/nieuws/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
             "publishedDate": "19/11/2026 01:52",
-            "source": "pvda.be, redactie24.be",
+            "source": "pvda.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
-                    "source": "pvda.be",
-                    "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
-                    "publishedDate": "18/11/2026 06:19"
-                },
-                {
-                    "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
-                    "source": "redactie24.be",
-                    "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
-                    "publishedDate": "18/11/2026 12:33"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -826,7 +848,7 @@
             "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuwe zorgaanbieder neemt locaties in Noordkop, West-Friesland en Beemster over",
@@ -879,17 +901,6 @@
             "source": "radioaalsmeer.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
-            "publishedDate": "18/11/2026 21:10",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -954,24 +965,6 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
-            "publishedDate": "18/11/2026 20:07",
-            "source": "nieuwsinalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-                    "source": "nieuwsinalphen.nl",
-                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
-                    "publishedDate": "18/11/2026 19:22"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1113,17 +1106,6 @@
             "source": "persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Wethouder Molema vraagt Rijk om hulp bij aanpak crackverslaving | OOG Groningen",
-            "link": "https://www.oogtv.nl/2026/11/wethouder-molema-vraagt-rijk-om-hulp-bij-aanpak-crackverslaving/",
-            "publishedDate": "18/11/2026 17:46",
-            "source": "oogtv.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1543,6 +1525,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
+            "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
+            "publishedDate": "18/11/2026 12:33",
+            "source": "redactie24.be",
+            "category": "Overig",
+            "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zorgverzekeraars verhogen korting bij jaarbetaling - VerzekeringsNieuws",
             "link": "https://www.verzekeringsnieuws.nl/artikel/130545-zorgverzekeraars-verhogen-korting-bij-jaarbetaling",
             "publishedDate": "18/11/2026 12:23",
@@ -1686,17 +1679,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jeugdhulp blijft de medische verwijsroute behouden - Zorgkrant",
-            "link": "https://www.zorgkrant.nl/jeugdzorg/21683-jeugdhulp-blijft-de-medische-verwijsroute-behouden",
-            "publishedDate": "18/11/2026 08:06",
-            "source": "zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Minister Sterk naar Aruba voor Bestuurlijk Vierlandenoverleg Volksgezondheid",
             "link": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/17/minister-sterk-naar-aruba-voor-bestuurlijk-vierlandenoverleg-volksgezondheid",
             "publishedDate": "17/11/2026 20:30",
@@ -1746,17 +1728,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-            "publishedDate": "17/11/2026 10:57",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
