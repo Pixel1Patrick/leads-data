@@ -216,19 +216,12 @@
             "title": "Zorgminister Hermans noemt stijging hiv-diagnoses een 'zorgelijke ontwikkeling'",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/zorgminister-hermans-noemt-stijging-hiv-diagnoses-een-zorgelijke-ontwikkeling/",
             "publishedDate": "19/11/2026 10:47",
-            "source": "nationalezorggids.nl, trouw.nl",
+            "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
-                    "publishedDate": "18/11/2026 22:19"
-                }
-            ],
-            "belangrijkheid": 0
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Dit zijn de beste zorgverzekeringen voor 50-plussers in 2027 - Zorgwijzer",
@@ -347,7 +340,7 @@
                     "publishedDate": "18/11/2026 20:49"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Emiel Kwekkeboom van Restaurant Joann is Beste Praktijkopleider 2026",
@@ -464,7 +457,7 @@
                     "publishedDate": "17/11/2026 10:57"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
@@ -493,7 +486,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Monitor Borstkankerzorg - Borstkankervereniging Nederland",
@@ -645,18 +638,11 @@
             "title": "Aandeel mannen in opleiding Verpleegkunde bij Thomas More stijgt naar hoogste niveau in tien jaar",
             "link": "https://www.rtv.be/actualiteit-en-nieuws/aandeel-mannen-opleiding-verpleegkunde-bij-thomas-more-stijgt-naar-hoogste",
             "publishedDate": "19/11/2026 07:20",
-            "source": "news.thomasmore.be, rtv.be",
+            "source": "rtv.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
-                    "source": "news.thomasmore.be",
-                    "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
-                    "publishedDate": "19/11/2026 00:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -808,19 +794,12 @@
             "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
             "link": "https://www.pvda.be/nieuws/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
             "publishedDate": "19/11/2026 01:52",
-            "source": "pvda.be, redactie24.be",
+            "source": "pvda.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
-                    "source": "redactie24.be",
-                    "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
-                    "publishedDate": "18/11/2026 12:33"
-                }
-            ],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Bouw nieuwe Bernardus dichterbij na presentatie definitief ontwerp - De Teyding",
@@ -840,6 +819,17 @@
             "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
+            "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
+            "publishedDate": "19/11/2026 00:03",
+            "source": "news.thomasmore.be",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -898,6 +888,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
+            "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
+            "publishedDate": "18/11/2026 22:19",
+            "source": "trouw.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Eindhovense zangeres Kovacs (36) ligt zeker een maand in ziekenhuis door problemen ...",
@@ -974,7 +975,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Aalsmeer werkt plannen voor 2027 uit in college-uitvoeringsprogramma",
@@ -1543,6 +1544,17 @@
             "source": "keuze.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
+            "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
+            "publishedDate": "18/11/2026 12:33",
+            "source": "redactie24.be",
+            "category": "Overig",
+            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
