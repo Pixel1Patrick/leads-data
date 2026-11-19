@@ -529,24 +529,11 @@
             "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
             "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
             "publishedDate": "18/11/2026 22:19",
-            "source": "metronieuws.nl, rivm.nl, trouw.nl",
+            "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
-                    "publishedDate": "18/11/2026 13:31"
-                },
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -663,24 +650,29 @@
             "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
             "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
             "publishedDate": "18/11/2026 21:00",
-            "source": "gelrenieuws.nl, gva.be, nieuwsblad.be",
+            "source": "gva.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
                     "source": "nieuwsblad.be",
                     "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
                     "publishedDate": "18/11/2026 18:35"
-                },
-                {
-                    "title": "Scooterrijder naar ziekenhuis na uitwijkactie voor bestelbusje - GelreNieuws",
-                    "source": "gelrenieuws.nl",
-                    "link": "https://www.gelrenieuws.nl/2026/11/video/scooterrijder-naar-ziekenhuis-na-uitwijkactie-voor-bestelbusje.html",
-                    "publishedDate": "18/11/2026 20:55"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Scooterrijder naar ziekenhuis na uitwijkactie voor bestelbusje - GelreNieuws",
+            "link": "https://www.gelrenieuws.nl/2026/11/video/scooterrijder-naar-ziekenhuis-na-uitwijkactie-voor-bestelbusje.html",
+            "publishedDate": "18/11/2026 20:55",
+            "source": "gelrenieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -698,11 +690,24 @@
             "title": "Aantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk - BNR",
             "link": "https://www.bnr.nl/nieuws/internationaal/10615829/aantal-dodelijke-medicijnresistente-infecties-in-europese-ziekenhuizen-st4a:o1000,ijgt-sterk",
             "publishedDate": "18/11/2026 20:47",
-            "source": "bnr.nl",
+            "source": "bnr.nl, metronieuws.nl, rivm.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
+                    "publishedDate": "18/11/2026 13:31"
+                },
+                {
+                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+                    "publishedDate": "17/11/2026 10:57"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1437,7 +1442,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Brochure Dementie in taal en beeld",
