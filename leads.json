@@ -704,22 +704,17 @@
             "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
             "publishedDate": "18/11/2026 21:10",
-            "source": "artsenkrant.pmg.be",
+            "source": "artsenkrant.pmg.be, gva.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
-            "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
-            "publishedDate": "18/11/2026 21:00",
-            "source": "gva.be, nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
+                    "publishedDate": "18/11/2026 21:00"
+                },
                 {
                     "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
                     "source": "nieuwsblad.be",
@@ -766,11 +761,18 @@
             "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
             "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
             "publishedDate": "18/11/2026 20:29",
-            "source": "robtv.be",
+            "source": "nieuwsblad.be, robtv.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
+                    "publishedDate": "18/11/2026 14:29"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -865,16 +867,34 @@
             "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
             "link": "https://www.pzc.nl/goes/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
             "publishedDate": "18/11/2026 19:28",
-            "source": "bndestem.nl, pzc.nl",
+            "source": "bndestem.nl, pvda.be, pzc.nl, redactie24.be",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/zeeland/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
                     "publishedDate": "18/11/2026 19:03"
+                },
+                {
+                    "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
+                    "source": "pvda.be",
+                    "link": "https://www.pvda.be/nieuws/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
+                    "publishedDate": "18/11/2026 14:08"
+                },
+                {
+                    "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
+                    "source": "pvda.be",
+                    "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
+                    "publishedDate": "18/11/2026 06:19"
+                },
+                {
+                    "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
+                    "source": "redactie24.be",
+                    "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
+                    "publishedDate": "18/11/2026 12:33"
                 }
             ],
             "belangrijkheid": 0
@@ -894,11 +914,30 @@
             "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
             "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
             "publishedDate": "18/11/2026 19:08",
-            "source": "omroepbrabant.nl",
+            "source": "ad.nl, nationalezorggids.nl, omroepbrabant.nl, rtl.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Vrouw neergeschoten docent richt zich tot Erasmusschutter: 'Je kon geen arts worden ...",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/rotterdam/vrouw-neergeschoten-docent-richt-zich-tot-erasmusschutter-je-kon-geen-arts-worden-daarvoor-heb-jij-bewijs-geleverd~a8e10e39/",
+                    "publishedDate": "18/11/2026 16:16"
+                },
+                {
+                    "title": "'Ik ben mijn maatje en grote liefde verloren': weduwe spreekt Erasmusschutter toe",
+                    "source": "rtl.nl",
+                    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5665788/weduwe-erasmusschutter-100-procent-verantwoordelijk",
+                    "publishedDate": "18/11/2026 15:54"
+                },
+                {
+                    "title": "Erasmusschutter reageert weer op slachtofferverklaringen: 'Jurgen Damen nauwelijks gekend'",
+                    "source": "nationalezorggids.nl",
+                    "link": "https://www.nationalezorggids.nl/zorgpersoneel/erasmusschutter-reageert-weer-op-slachtofferverklaringen-jurgen-damen-nauwelijks-gekend/",
+                    "publishedDate": "18/11/2026 14:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1118,17 +1157,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Vrouw neergeschoten docent richt zich tot Erasmusschutter: 'Je kon geen arts worden ...",
-            "link": "https://www.ad.nl/rotterdam/vrouw-neergeschoten-docent-richt-zich-tot-erasmusschutter-je-kon-geen-arts-worden-daarvoor-heb-jij-bewijs-geleverd~a8e10e39/",
-            "publishedDate": "18/11/2026 16:16",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gemeenteraad krijgt kijkje achter de schermen bij Incluzio Hollands Kroon | Noordkop",
             "link": "https://drimble.nl/regio/noord-holland/noordkop/108638111/gemeenteraad-krijgt-kijkje-achter-de-schermen-bij-incluzio-hollands-kroon.html",
             "publishedDate": "18/11/2026 16:15",
@@ -1189,17 +1217,6 @@
             "publishedDate": "18/11/2026 16:03",
             "source": "welingelichtekringen.nl",
             "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "'Ik ben mijn maatje en grote liefde verloren': weduwe spreekt Erasmusschutter toe",
-            "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5665788/weduwe-erasmusschutter-100-procent-verantwoordelijk",
-            "publishedDate": "18/11/2026 15:54",
-            "source": "rtl.nl",
-            "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1327,17 +1344,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
-            "publishedDate": "18/11/2026 14:29",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "na twee jaar gaan de eerste locaties dicht omdat daar niets te verdienen valt - Tweede Kamer",
             "link": "https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z25441&did=2026D58947",
             "publishedDate": "18/11/2026 14:29",
@@ -1367,41 +1373,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
-            "link": "https://www.pvda.be/nieuws/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
-            "publishedDate": "18/11/2026 14:08",
-            "source": "pvda.be",
-            "category": "Overig",
-            "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
-                    "source": "pvda.be",
-                    "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
-                    "publishedDate": "18/11/2026 06:19"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "In 2027 meer keuze bij gemeentelijke zorgverzekering | Capelle aan den IJssel",
             "link": "https://www.capelleaandenijssel.nl/in-2027-meer-keuze-bij-gemeentelijke-zorgverzekering",
             "publishedDate": "18/11/2026 14:08",
             "source": "capelleaandenijssel.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Erasmusschutter reageert weer op slachtofferverklaringen: 'Jurgen Damen nauwelijks gekend'",
-            "link": "https://www.nationalezorggids.nl/zorgpersoneel/erasmusschutter-reageert-weer-op-slachtofferverklaringen-jurgen-damen-nauwelijks-gekend/",
-            "publishedDate": "18/11/2026 14:05",
-            "source": "nationalezorggids.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1446,17 +1423,6 @@
             "source": "keuze.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
-            "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
-            "publishedDate": "18/11/2026 12:33",
-            "source": "redactie24.be",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1666,13 +1632,19 @@
             "source": "rivm.nl, vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
                     "source": "rivm.nl",
                     "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
                     "publishedDate": "16/11/2026 16:09"
+                },
+                {
+                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+                    "publishedDate": "17/11/2026 10:57"
                 }
             ],
             "belangrijkheid": 0
@@ -1698,17 +1670,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-            "publishedDate": "17/11/2026 10:57",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
