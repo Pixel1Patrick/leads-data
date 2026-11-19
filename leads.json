@@ -70,10 +70,10 @@
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
             "link": "https://open.overheid.nl/details/5bd6700b-265b-46de-b30b-2bd6d5c98b56",
             "publishedDate": "19/11/2026 14:17",
-            "source": "open.overheid.nl",
+            "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
@@ -82,16 +82,10 @@
                     "publishedDate": "19/11/2026 14:17"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
-                    "publishedDate": "19/11/2026 13:29"
-                },
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
-                    "publishedDate": "19/11/2026 13:29"
+                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+                    "publishedDate": "19/11/2026 13:00"
                 }
             ],
             "belangrijkheid": 0
@@ -100,12 +94,31 @@
             "title": "Aruba waarschuwt voor antibioticaresistentie: infecties steeds moeilijker te behandelen",
             "link": "https://www.aruba.nu/nieuws/gezondheidszorg/98690/aruba-waarschuwt-voor-antibioticaresistentie-infecties-steeds-moeilijker-te-behandelen",
             "publishedDate": "19/11/2026 14:17",
-            "source": "aruba.nu",
+            "source": "aruba.nu, cbg-meb.nl, rivm.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
+                    "source": "zorgkrant.nl",
+                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
+                    "publishedDate": "19/11/2026 09:04"
+                },
+                {
+                    "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
+                    "source": "cbg-meb.nl",
+                    "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
+                    "publishedDate": "18/11/2026 15:30"
+                },
+                {
+                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+                    "publishedDate": "17/11/2026 10:57"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "De jeugdzorg: doen we het wel samen? - Binnenlands Bestuur",
@@ -130,14 +143,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-            "publishedDate": "19/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
+            "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
+            "publishedDate": "19/11/2026 13:29",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
+                    "publishedDate": "19/11/2026 13:29"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -422,7 +442,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bij deze zorgverzekeraar stijgt je premie het minst in 2027 - Zorgwijzer",
@@ -488,7 +508,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Noordenveld scoort hoog op inzet ervaringsdeskundigen: tweede plaats in Drenthe - Dit is Roden",
@@ -541,8 +561,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+                    "publishedDate": "19/11/2026 10:18"
+                },
+                {
+                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
+                    "publishedDate": "19/11/2026 10:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -552,17 +585,6 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-            "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-            "publishedDate": "19/11/2026 10:18",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -638,7 +660,7 @@
                     "publishedDate": "18/11/2026 20:49"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Emiel Kwekkeboom van Restaurant Joann is Beste Praktijkopleider 2026",
@@ -647,17 +669,6 @@
             "source": "derestaurantkrant.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
-            "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
-            "publishedDate": "19/11/2026 10:03",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -773,17 +784,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
-            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
-            "publishedDate": "19/11/2026 09:04",
-            "source": "zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
             "link": "https://open.overheid.nl/details/8e4317a8-9674-457d-8bde-d7d841126167",
             "publishedDate": "19/11/2026 09:02",
@@ -810,7 +810,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Monitor Borstkankerzorg - Borstkankervereniging Nederland",
@@ -951,11 +951,18 @@
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/binnenland/kinderrechtencommissaris-klaagt-regels-en-procedures-in-de-jeugdzorg-aan-kinderen-leven-niet-in-hokjes/164772569.html",
             "publishedDate": "19/11/2026 07:26",
-            "source": "nieuwsblad.be",
+            "source": "nieuwsblad.be, tijd.be",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Kinderrechtencommissariaat: 'Hoe complexer de noden, hoe moeilijker een kind soms ...",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/politiek-economie/belgie/vlaanderen/kinderrechtencommissariaat-hoe-complexer-de-noden-hoe-moeilijker-een-kind-soms-ergens-binnenraakt/10706015.html",
+                    "publishedDate": "19/11/2026 06:31"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1003,17 +1010,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Kinderrechtencommissariaat: 'Hoe complexer de noden, hoe moeilijker een kind soms ...",
-            "link": "https://www.tijd.be/politiek-economie/belgie/vlaanderen/kinderrechtencommissariaat-hoe-complexer-de-noden-hoe-moeilijker-een-kind-soms-ergens-binnenraakt/10706015.html",
-            "publishedDate": "19/11/2026 06:31",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Cao GGZ: verschillen tussen werkgevers en vakbonden - FNV",
             "link": "https://www.fnv.nl/cao-sector/zorg-welzijn/geestelijke-gezondheidszorg/samen-voor-een-nieuwe-cao-ggz/verschillen",
             "publishedDate": "19/11/2026 06:10",
@@ -1050,11 +1046,18 @@
             "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
             "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
             "publishedDate": "19/11/2026 03:18",
-            "source": "gva.be",
+            "source": "gva.be, news.thomasmore.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
+                    "source": "news.thomasmore.be",
+                    "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
+                    "publishedDate": "19/11/2026 00:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1126,17 +1129,6 @@
             "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
-            "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
-            "publishedDate": "19/11/2026 00:03",
-            "source": "news.thomasmore.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1238,7 +1230,7 @@
             "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Nieuwe zorgaanbieder neemt locaties in Noordkop, West-Friesland en Beemster over",
@@ -1328,11 +1320,18 @@
             "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
             "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
             "publishedDate": "18/11/2026 20:29",
-            "source": "robtv.be",
+            "source": "nieuwsblad.be, robtv.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
+                    "publishedDate": "18/11/2026 14:29"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1618,17 +1617,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
-            "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
-            "publishedDate": "18/11/2026 15:30",
-            "source": "cbg-meb.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "College ter Beoordeling van Geneesmiddelen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Portretten van 100 zorgprofessionals vormen het slot van jubileumviering Museum De Dorpsdokter",
             "link": "https://www.ed.nl/tilburg/portretten-van-100-zorgprofessionals-vormen-het-slot-van-jubileumviering-museum-de-dorpsdokter~a73cdb61/",
             "publishedDate": "18/11/2026 15:11",
@@ -1668,17 +1656,6 @@
             "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Gehandicaptenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
-            "publishedDate": "18/11/2026 14:29",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1909,17 +1886,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-            "publishedDate": "17/11/2026 10:57",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
