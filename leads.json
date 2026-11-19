@@ -44,7 +44,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "AZ Mol telt 59 schoonmaakmedewerkers: \u201cZonder onze ploeg kan een ziekenhuis niet draaien\u201d",
@@ -146,18 +146,11 @@
             "title": "Datacenters goed voor 5 procent van Nederlandse stroomverbruik - ICT/Magazine",
             "link": "https://www.ictmagazine.nl/nieuws/datacenters-goed-voor-5-procent-van-nederlandse-stroomverbruik/",
             "publishedDate": "18/11/2026 23:20",
-            "source": "bouwenuitvoering.nl, ictmagazine.nl",
+            "source": "ictmagazine.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwbouw onder druk: datacenters vragen 5 procent van elektriciteit - Bouw en Uitvoering",
-                    "source": "bouwenuitvoering.nl",
-                    "link": "https://bouwenuitvoering.nl/actueel/datacenters-meer-elektriciteit/",
-                    "publishedDate": "18/11/2026 20:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -226,18 +219,11 @@
             "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
             "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
             "publishedDate": "18/11/2026 22:19",
-            "source": "metronieuws.nl, trouw.nl",
+            "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
-                    "publishedDate": "18/11/2026 13:31"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -488,18 +474,35 @@
             "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
             "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
             "publishedDate": "18/11/2026 20:07",
-            "source": "nieuwsinalphen.nl",
+            "source": "ad.nl, nieuwsinalphen.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
                     "source": "nieuwsinalphen.nl",
                     "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
                     "publishedDate": "18/11/2026 19:22"
+                },
+                {
+                    "title": "Steeds meer kwetsbare ouderen geholpen via speciale spoedbedden in Meander Medisch Centrum",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/bunschoten-spakenburg/steeds-meer-kwetsbare-ouderen-geholpen-via-speciale-spoedbedden-in-meander-medisch-centrum~afc3b5a3/",
+                    "publishedDate": "18/11/2026 19:47"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nieuwbouw onder druk: datacenters vragen 5 procent van elektriciteit - Bouw en Uitvoering",
+            "link": "https://bouwenuitvoering.nl/actueel/datacenters-meer-elektriciteit/",
+            "publishedDate": "18/11/2026 20:03",
+            "source": "bouwenuitvoering.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -533,24 +536,6 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Steeds meer kwetsbare ouderen geholpen via speciale spoedbedden in Meander Medisch Centrum",
-            "link": "https://www.ad.nl/bunschoten-spakenburg/steeds-meer-kwetsbare-ouderen-geholpen-via-speciale-spoedbedden-in-meander-medisch-centrum~afc3b5a3/",
-            "publishedDate": "18/11/2026 19:47",
-            "source": "ad.nl, gelderlander.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kankerpati\u00ebnten in regio Eemland krijgen met nieuwe samenwerking betere nazorg",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/amersfoort/kankerpatienten-in-regio-eemland-krijgen-met-nieuwe-samenwerking-betere-nazorg~af8c318b/",
-                    "publishedDate": "18/11/2026 15:11"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -590,16 +575,22 @@
             "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
             "link": "https://www.pzc.nl/goes/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
             "publishedDate": "18/11/2026 19:28",
-            "source": "bndestem.nl, pzc.nl",
+            "source": "bndestem.nl, omroepbrabant.nl, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/zeeland/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
                     "publishedDate": "18/11/2026 19:03"
+                },
+                {
+                    "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
+                    "publishedDate": "18/11/2026 19:08"
                 }
             ],
             "belangrijkheid": 0
@@ -610,17 +601,6 @@
             "publishedDate": "18/11/2026 19:24",
             "source": "politie.nl",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
-            "publishedDate": "18/11/2026 19:08",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -846,24 +826,11 @@
             "title": "Weduwe: Erasmusschutter 100 procent verantwoordelijk - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/samenleving/weduwe-erasmusschutter-100-procent-verantwoordelijk",
             "publishedDate": "18/11/2026 16:44",
-            "source": "nationalezorggids.nl, rtl.nl, welingelichtekringen.nl",
+            "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "'Ik ben mijn maatje en grote liefde verloren': weduwe spreekt Erasmusschutter toe",
-                    "source": "rtl.nl",
-                    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5665788/weduwe-erasmusschutter-100-procent-verantwoordelijk",
-                    "publishedDate": "18/11/2026 15:54"
-                },
-                {
-                    "title": "Erasmusschutter reageert weer op slachtofferverklaringen: 'Jurgen Damen nauwelijks gekend'",
-                    "source": "nationalezorggids.nl",
-                    "link": "https://www.nationalezorggids.nl/zorgpersoneel/erasmusschutter-reageert-weer-op-slachtofferverklaringen-jurgen-damen-nauwelijks-gekend/",
-                    "publishedDate": "18/11/2026 14:05"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -955,6 +922,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "'Ik ben mijn maatje en grote liefde verloren': weduwe spreekt Erasmusschutter toe",
+            "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5665788/weduwe-erasmusschutter-100-procent-verantwoordelijk",
+            "publishedDate": "18/11/2026 15:54",
+            "source": "rtl.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Starke Zorg &amp; Welzijn: 'Goede zorg begint bij \u00e9cht zien wat iemand nodig heeft'",
             "link": "https://www.brugnieuws.nl/nieuws/zakelijk-nieuws-lokaal/379567/starke-zorg-welzijn-goede-zorg-begint-bij-echt-zien-wat-iemand-nodig-heeft",
             "publishedDate": "18/11/2026 15:40",
@@ -980,18 +958,11 @@
             "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
             "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
             "publishedDate": "18/11/2026 15:30",
-            "source": "cbg-meb.nl, rivm.nl",
+            "source": "cbg-meb.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1001,6 +972,17 @@
             "source": "ed.nl",
             "category": "Regionale Media",
             "feed_label": "Alert eerstelijnszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Kankerpati\u00ebnten in regio Eemland krijgen met nieuwe samenwerking betere nazorg",
+            "link": "https://www.gelderlander.nl/amersfoort/kankerpatienten-in-regio-eemland-krijgen-met-nieuwe-samenwerking-betere-nazorg~af8c318b/",
+            "publishedDate": "18/11/2026 15:11",
+            "source": "gelderlander.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1141,6 +1123,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Erasmusschutter reageert weer op slachtofferverklaringen: 'Jurgen Damen nauwelijks gekend'",
+            "link": "https://www.nationalezorggids.nl/zorgpersoneel/erasmusschutter-reageert-weer-op-slachtofferverklaringen-jurgen-damen-nauwelijks-gekend/",
+            "publishedDate": "18/11/2026 14:05",
+            "source": "nationalezorggids.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "De 5 goedkoopste zorgverzekeringen met fysiotherapie in 2027 - Independer Weblog",
             "link": "https://weblog.independer.nl/zorgverzekeringen/de-5-goedkoopste-zorgverzekeringen-met-fysiotherapie-in-2027/",
             "publishedDate": "18/11/2026 14:01",
@@ -1169,6 +1162,17 @@
             "source": "gelrenieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
+            "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
+            "publishedDate": "18/11/2026 13:31",
+            "source": "metronieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1324,7 +1328,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Brochure Dementie in taal en beeld",
@@ -1364,7 +1368,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
@@ -1487,16 +1491,34 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "noordhollandsdagblad.nl, stadindex.nl",
+            "source": "drimble.nl, igj.nl, noordhollandsdagblad.nl, stadindex.nl, westlanders.nu",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
                     "source": "stadindex.nl",
                     "link": "https://www.stadindex.nl/alkmaar/3631250-grote-partij-illegale-afslankmiddelen-in-beslag-genomen-drie-verdachten-opgepakt",
                     "publishedDate": "18/11/2026 09:19"
+                },
+                {
+                    "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
+                    "source": "westlanders.nu",
+                    "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
+                    "publishedDate": "18/11/2026 08:01"
+                },
+                {
+                    "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
+                    "publishedDate": "18/11/2026 02:08"
+                },
+                {
+                    "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
+                    "publishedDate": "17/11/2026 13:00"
                 }
             ],
             "belangrijkheid": 0
@@ -1538,22 +1560,18 @@
             "title": "Jeugdhulp blijft de medische verwijsroute behouden - Zorgkrant",
             "link": "https://www.zorgkrant.nl/jeugdzorg/21683-jeugdhulp-blijft-de-medische-verwijsroute-behouden",
             "publishedDate": "18/11/2026 08:06",
-            "source": "zorgkrant.nl",
+            "source": "denederlandseggz.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
-            "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
-            "publishedDate": "18/11/2026 08:01",
-            "source": "westlanders.nu",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 13:54"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1574,17 +1592,6 @@
             "source": "fondswervingonline.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
-            "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
-            "publishedDate": "18/11/2026 02:08",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1619,17 +1626,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
-            "publishedDate": "17/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Langdurige zorg] Zorgaanbieders en zorgkantoren bereiken overeenstemming over contractering 2027",
             "link": "https://www.zn.nl/actueel/zorgaanbieders-en-zorgkantoren-bereiken-overeenstemming-over-contractering-2027/",
             "publishedDate": "17/11/2026 12:12",
@@ -1639,6 +1635,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+            "publishedDate": "17/11/2026 10:57",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
@@ -1768,17 +1775,6 @@
             "source": "vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
-            "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-            "publishedDate": "16/11/2026 13:54",
-            "source": "denederlandseggz.nl",
-            "category": "Overig",
-            "feed_label": "Nederlandse ggz",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
