@@ -170,7 +170,7 @@
             "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuwe zorgaanbieder neemt locaties in Noordkop, West-Friesland en Beemster over",
@@ -347,7 +347,7 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Aantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk - BNR",
@@ -532,22 +532,18 @@
             "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
             "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
             "publishedDate": "18/11/2026 19:08",
-            "source": "omroepbrabant.nl",
+            "source": "limburger.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Vrouw en vier kinderen gewond bij ernstig ongeluk Landgraaf, slachtoffers naar het ziekenhuis",
-            "link": "https://www.limburger.nl/regio/landgraaf/vrouw-en-vier-kinderen-gewond-bij-ernstig-ongeluk-landgraaf-slachtoffers-naar-het-ziekenhuis/164733243.html",
-            "publishedDate": "18/11/2026 18:59",
-            "source": "limburger.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Vrouw en vier kinderen gewond bij ernstig ongeluk Landgraaf, slachtoffers naar het ziekenhuis",
+                    "source": "limburger.nl",
+                    "link": "https://www.limburger.nl/regio/landgraaf/vrouw-en-vier-kinderen-gewond-bij-ernstig-ongeluk-landgraaf-slachtoffers-naar-het-ziekenhuis/164733243.html",
+                    "publishedDate": "18/11/2026 18:59"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -891,11 +887,18 @@
             "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
             "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
             "publishedDate": "18/11/2026 15:41",
-            "source": "nos.nl",
+            "source": "actueel365.nl, nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
+                    "source": "actueel365.nl",
+                    "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
+                    "publishedDate": "18/11/2026 14:48"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -993,17 +996,6 @@
             "source": "thuisarts.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
-            "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
-            "publishedDate": "18/11/2026 14:48",
-            "source": "actueel365.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1227,20 +1219,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
                     "publishedDate": "18/11/2026 12:30"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-                    "publishedDate": "18/11/2026 12:26"
-                },
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
+            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+            "publishedDate": "18/11/2026 12:26",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
                     "source": "open.overheid.nl",
@@ -1477,16 +1475,28 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "noordhollandsdagblad.nl, stadindex.nl",
+            "source": "drimble.nl, noordhollandsdagblad.nl, stadindex.nl, westlanders.nu",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
                     "source": "stadindex.nl",
                     "link": "https://www.stadindex.nl/alkmaar/3631250-grote-partij-illegale-afslankmiddelen-in-beslag-genomen-drie-verdachten-opgepakt",
                     "publishedDate": "18/11/2026 09:19"
+                },
+                {
+                    "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
+                    "source": "westlanders.nu",
+                    "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
+                    "publishedDate": "18/11/2026 08:01"
+                },
+                {
+                    "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
+                    "publishedDate": "18/11/2026 02:08"
                 }
             ],
             "belangrijkheid": 0
@@ -1539,22 +1549,18 @@
             "title": "Jeugdhulp blijft de medische verwijsroute behouden - Zorgkrant",
             "link": "https://www.zorgkrant.nl/jeugdzorg/21683-jeugdhulp-blijft-de-medische-verwijsroute-behouden",
             "publishedDate": "18/11/2026 08:06",
-            "source": "zorgkrant.nl",
+            "source": "denederlandseggz.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
-            "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
-            "publishedDate": "18/11/2026 08:01",
-            "source": "westlanders.nu",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
+                    "source": "denederlandseggz.nl",
+                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+                    "publishedDate": "16/11/2026 13:54"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1613,34 +1619,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
-            "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
-            "publishedDate": "18/11/2026 02:08",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "GSK krijgt FDA-goedkeuring voor longkankerbehandeling Nelkarmi - Investing.com",
             "link": "https://nl.investing.com/news/stock-market-news/gsk-krijgt-fdagoedkeuring-voor-longkankerbehandeling-nelkarmi-978229",
             "publishedDate": "18/11/2026 01:52",
             "source": "nl.investing.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Mysterie opgelost: hierom kleurt Ziekenhuis Gelderse Vallei vandaag paars - De Gelderlander",
-            "link": "https://www.gelderlander.nl/ede/mysterie-opgelost-hierom-kleurt-ziekenhuis-gelderse-vallei-vandaag-paars~a3f9d595/",
-            "publishedDate": "18/11/2026 00:56",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1835,17 +1819,6 @@
             "source": "vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
-            "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-            "publishedDate": "16/11/2026 13:54",
-            "source": "denederlandseggz.nl",
-            "category": "Overig",
-            "feed_label": "Nederlandse ggz",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
