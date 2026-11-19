@@ -226,19 +226,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/81c56b29-de29-4faf-b87b-1294a519cb85",
                     "publishedDate": "19/11/2026 17:05"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Vliegenthart, Westerveld en Kathmann (allen PRO) over alarmknoppen en medische hulpmiddelen",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/995c082e-5309-4ab3-8cc5-30ffb16315b5",
-                    "publishedDate": "19/11/2026 10:29"
                 }
             ],
             "belangrijkheid": 0
@@ -526,7 +520,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Duale leerling MBRT Medische beeldvorming en Radiotherapeutische Technieken",
@@ -625,7 +619,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Financi\u00eble gezondheid van gemeenten in beeld gebracht - PONT | Zorg &amp; Sociaal",
@@ -803,36 +797,11 @@
             "title": "Bewoners Kraaijbeek willen nu doorpakken: 'Gemeenteraad moet college op het matje roepen'",
             "link": "https://www.nieuwsbladdekaap.nl/lokaal/politiek/1329256/bewoners-kraaijbeek-willen-nu-doorpakken-gemeenteraad-moet-co",
             "publishedDate": "19/11/2026 14:00",
-            "source": "nieuwsbladdekaap.nl, nl.headtopics.com, rtvutrecht.nl",
+            "source": "nieuwsbladdekaap.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Verkoop van wooncomplex Kraaijbeek in Driebergen wordt lastiger, rechter fluit eigenaar terug",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/verkoop-van-wooncomplex-kraaijbeek-in-driebergen-wordt-89994199",
-                    "publishedDate": "19/11/2026 12:03"
-                },
-                {
-                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
-                    "publishedDate": "19/11/2026 11:09"
-                },
-                {
-                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
-                    "publishedDate": "19/11/2026 11:07"
-                },
-                {
-                    "title": "Oudere bewoners Kraaijbeek halen hoop uit uitspraak van rechter - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/oudere-bewoners-kraaijbeek-halen-hoop-uit-uitspraak-van-rechter-geef-kraaijbeek-terug",
-                    "publishedDate": "19/11/2026 09:42"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -984,6 +953,30 @@
             "belangrijkheid": 1
         },
         {
+            "title": "Verkoop van wooncomplex Kraaijbeek in Driebergen wordt lastiger, rechter fluit eigenaar terug",
+            "link": "https://nl.headtopics.com/news/verkoop-van-wooncomplex-kraaijbeek-in-driebergen-wordt-89994199",
+            "publishedDate": "19/11/2026 12:03",
+            "source": "nl.headtopics.com, rtvutrecht.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
+                    "source": "rtvutrecht.nl",
+                    "link": "https://www.rtvutrecht.nl/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
+                    "publishedDate": "19/11/2026 11:09"
+                },
+                {
+                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
+                    "source": "rtvutrecht.nl",
+                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
+                    "publishedDate": "19/11/2026 11:07"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Proactieve zorgbemiddeling: soms een nieuwe verwijzing nodig",
             "link": "https://www.lhv.nl/nieuws/proactieve-zorgbemiddeling-soms-een-nieuwe-verwijzing-nodig/",
             "publishedDate": "19/11/2026 11:55",
@@ -1127,6 +1120,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Uitstelbrief op Kamervragen van de leden Vliegenthart, Westerveld en Kathmann (allen PRO) over alarmknoppen en medische hulpmiddelen",
+            "link": "https://open.overheid.nl/details/995c082e-5309-4ab3-8cc5-30ffb16315b5",
+            "publishedDate": "19/11/2026 10:29",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+                    "publishedDate": "19/11/2026 10:18"
+                },
+                {
+                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
+                    "publishedDate": "19/11/2026 10:03"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Vervolg en afronding MESO-project - ZonMw",
             "link": "https://www.zonmw.nl/nl/artikel/vervolg-en-afronding-meso-project",
             "publishedDate": "19/11/2026 10:26",
@@ -1135,24 +1152,6 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-            "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-            "publishedDate": "19/11/2026 10:18",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
-                    "publishedDate": "19/11/2026 10:03"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1268,6 +1267,17 @@
             "source": "ggznieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Oudere bewoners Kraaijbeek halen hoop uit uitspraak van rechter - RTV Utrecht",
+            "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/oudere-bewoners-kraaijbeek-halen-hoop-uit-uitspraak-van-rechter-geef-kraaijbeek-terug",
+            "publishedDate": "19/11/2026 09:42",
+            "source": "rtvutrecht.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1624,24 +1634,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
-            "publishedDate": "18/11/2026 20:07",
-            "source": "nieuwsinalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-                    "source": "nieuwsinalphen.nl",
-                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
-                    "publishedDate": "18/11/2026 19:22"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Actief Zorg vecht breuk met gemeente Heusden aan: 'Niet mee eens' - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035291/actief-zorg-vecht-breuk-met-gemeente-heusden-aan-niet-mee-eens",
             "publishedDate": "18/11/2026 20:02",
@@ -1690,6 +1682,17 @@
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/bij-deze-zorgverzekeraar-stijgt-je-premie-het-minst-in-2027",
             "publishedDate": "18/11/2026 19:28",
             "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
+            "publishedDate": "18/11/2026 19:22",
+            "source": "nieuwsinalphen.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
