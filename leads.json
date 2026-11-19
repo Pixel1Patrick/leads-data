@@ -655,28 +655,16 @@
             "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
             "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
             "publishedDate": "18/11/2026 21:00",
-            "source": "gva.be, nieuwsblad.be, robtv.be",
+            "source": "gva.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
                     "source": "nieuwsblad.be",
                     "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
                     "publishedDate": "18/11/2026 18:35"
-                },
-                {
-                    "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
-                    "source": "robtv.be",
-                    "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
-                    "publishedDate": "18/11/2026 20:29"
-                },
-                {
-                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
-                    "publishedDate": "18/11/2026 14:29"
                 }
             ],
             "belangrijkheid": 0
@@ -726,6 +714,24 @@
                 }
             ],
             "belangrijkheid": 1
+        },
+        {
+            "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
+            "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
+            "publishedDate": "18/11/2026 20:29",
+            "source": "nieuwsblad.be, robtv.be",
+            "category": "Overig",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
+                    "publishedDate": "18/11/2026 14:29"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Een collega helpen, een regio sterker maken! - Zuyderland",
@@ -804,18 +810,11 @@
             "title": "Steeds meer kwetsbare ouderen geholpen via speciale spoedbedden in Meander Medisch Centrum",
             "link": "https://www.ad.nl/bunschoten-spakenburg/steeds-meer-kwetsbare-ouderen-geholpen-via-speciale-spoedbedden-in-meander-medisch-centrum~afc3b5a3/",
             "publishedDate": "18/11/2026 19:47",
-            "source": "ad.nl, gelderlander.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kankerpati\u00ebnten in regio Eemland krijgen met nieuwe samenwerking betere nazorg",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/amersfoort/kankerpatienten-in-regio-eemland-krijgen-met-nieuwe-samenwerking-betere-nazorg~af8c318b/",
-                    "publishedDate": "18/11/2026 15:11"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1251,6 +1250,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Kankerpati\u00ebnten in regio Eemland krijgen met nieuwe samenwerking betere nazorg",
+            "link": "https://www.gelderlander.nl/amersfoort/kankerpatienten-in-regio-eemland-krijgen-met-nieuwe-samenwerking-betere-nazorg~af8c318b/",
+            "publishedDate": "18/11/2026 15:11",
+            "source": "gelderlander.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Jeugdzorginstelling werkt tekort weg, Nijkerk hoeft nog niet bij te springen | Regio - AD",
             "link": "https://www.ad.nl/nijkerk/jeugdzorginstelling-werkt-tekort-weg-nijkerk-hoeft-nog-niet-bij-te-springen~a6a1587d/",
             "publishedDate": "18/11/2026 15:07",
@@ -1349,22 +1359,16 @@
             "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
             "link": "https://www.pvda.be/nieuws/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
             "publishedDate": "18/11/2026 14:08",
-            "source": "pvda.be, redactie24.be",
+            "source": "pvda.be",
             "category": "Overig",
             "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
                     "source": "pvda.be",
                     "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
                     "publishedDate": "18/11/2026 06:19"
-                },
-                {
-                    "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
-                    "source": "redactie24.be",
-                    "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
-                    "publishedDate": "18/11/2026 12:33"
                 }
             ],
             "belangrijkheid": 0
@@ -1431,6 +1435,17 @@
             "source": "keuze.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
+            "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
+            "publishedDate": "18/11/2026 12:33",
+            "source": "redactie24.be",
+            "category": "Overig",
+            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1593,22 +1608,16 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "igj.nl, noordhollandsdagblad.nl, stadindex.nl",
+            "source": "noordhollandsdagblad.nl, stadindex.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
                     "source": "stadindex.nl",
                     "link": "https://www.stadindex.nl/alkmaar/3631250-grote-partij-illegale-afslankmiddelen-in-beslag-genomen-drie-verdachten-opgepakt",
                     "publishedDate": "18/11/2026 09:19"
-                },
-                {
-                    "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
-                    "publishedDate": "17/11/2026 13:00"
                 }
             ],
             "belangrijkheid": 0
@@ -1673,6 +1682,17 @@
                     "publishedDate": "16/11/2026 16:09"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
+            "publishedDate": "17/11/2026 13:00",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
