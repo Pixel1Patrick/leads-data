@@ -83,30 +83,11 @@
             "title": "Aruba waarschuwt voor antibioticaresistentie: infecties steeds moeilijker te behandelen",
             "link": "https://www.aruba.nu/nieuws/gezondheidszorg/98690/aruba-waarschuwt-voor-antibioticaresistentie-infecties-steeds-moeilijker-te-behandelen",
             "publishedDate": "19/11/2026 14:17",
-            "source": "aruba.nu, cbg-meb.nl, rivm.nl, zorgkrant.nl",
+            "source": "aruba.nu",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
-                    "source": "zorgkrant.nl",
-                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
-                    "publishedDate": "19/11/2026 09:04"
-                },
-                {
-                    "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
-                    "source": "cbg-meb.nl",
-                    "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
-                    "publishedDate": "18/11/2026 15:30"
-                },
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -656,11 +637,18 @@
             "title": "Arts krijgt waarschuwing voor onzorgvuldig gebruik OpenAI | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/arts-krijgt-waarschuwing-voor-onzorgvuldig-gebruik-openai",
             "publishedDate": "19/11/2026 09:59",
-            "source": "medischcontact.nl",
+            "source": "artsenkrant.pmg.be, medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
+                    "publishedDate": "18/11/2026 21:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -760,6 +748,24 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
+            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
+            "publishedDate": "19/11/2026 09:04",
+            "source": "rivm.nl, zorgkrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+                    "publishedDate": "17/11/2026 10:57"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1218,10 +1224,10 @@
             "duplicate_count": 2,
             "extra_bronnen": [
                 {
-                    "title": "[CNV] Massale steun voor een betere cao: Sanquin",
+                    "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
                     "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/massale-steun-voor-een-betere-cao-sanquin-2026-11-16/",
-                    "publishedDate": "16/11/2026 18:29"
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-fokus/nieuws/update-onderhandelingen-fokus-zorgvuldige-uitwerking-kost-meer-tijd-2026-11-16/",
+                    "publishedDate": "16/11/2026 16:52"
                 }
             ],
             "belangrijkheid": 0
@@ -1282,43 +1288,33 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
-            "publishedDate": "18/11/2026 21:10",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
             "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
             "publishedDate": "18/11/2026 21:00",
-            "source": "gva.be, nieuwsblad.be",
+            "source": "gva.be, nieuwsblad.be, robtv.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
                     "source": "nieuwsblad.be",
                     "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
                     "publishedDate": "18/11/2026 18:35"
+                },
+                {
+                    "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
+                    "source": "robtv.be",
+                    "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
+                    "publishedDate": "18/11/2026 20:29"
+                },
+                {
+                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
+                    "publishedDate": "18/11/2026 14:29"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
-            "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
-            "publishedDate": "18/11/2026 20:29",
-            "source": "robtv.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1586,6 +1582,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
+            "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
+            "publishedDate": "18/11/2026 15:30",
+            "source": "cbg-meb.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "College ter Beoordeling van Geneesmiddelen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Portretten van 100 zorgprofessionals vormen het slot van jubileumviering Museum De Dorpsdokter",
             "link": "https://www.ed.nl/tilburg/portretten-van-100-zorgprofessionals-vormen-het-slot-van-jubileumviering-museum-de-dorpsdokter~a73cdb61/",
             "publishedDate": "18/11/2026 15:11",
@@ -1625,17 +1632,6 @@
             "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Gehandicaptenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
-            "publishedDate": "18/11/2026 14:29",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1967,9 +1963,9 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[CNV] Update onderhandelingen Fokus: zorgvuldige uitwerking kost meer tijd",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-fokus/nieuws/update-onderhandelingen-fokus-zorgvuldige-uitwerking-kost-meer-tijd-2026-11-16/",
-            "publishedDate": "16/11/2026 16:52",
+            "title": "[CNV] Massale steun voor een betere cao: Sanquin",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/massale-steun-voor-een-betere-cao-sanquin-2026-11-16/",
+            "publishedDate": "16/11/2026 18:29",
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
