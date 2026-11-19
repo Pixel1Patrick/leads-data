@@ -301,40 +301,27 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 14:17",
-            "source": "igj.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-                    "publishedDate": "19/11/2026 13:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
             "link": "https://open.overheid.nl/details/5bd6700b-265b-46de-b30b-2bd6d5c98b56",
             "publishedDate": "19/11/2026 14:17",
-            "source": "binnenlandsbestuur.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
                     "publishedDate": "19/11/2026 14:17"
-                },
-                {
-                    "title": "De jeugdzorg: doen we het wel samen? - Binnenlands Bestuur",
-                    "source": "binnenlandsbestuur.nl",
-                    "link": "https://www.binnenlandsbestuur.nl/sociaal/de-jeugdzorg-doen-we-het-wel-samen",
-                    "publishedDate": "19/11/2026 14:04"
                 }
             ],
             "belangrijkheid": 0
@@ -357,6 +344,17 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "De jeugdzorg: doen we het wel samen? - Binnenlands Bestuur",
+            "link": "https://www.binnenlandsbestuur.nl/sociaal/de-jeugdzorg-doen-we-het-wel-samen",
+            "publishedDate": "19/11/2026 14:04",
+            "source": "binnenlandsbestuur.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -434,31 +432,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
                     "publishedDate": "19/11/2026 13:29"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Vliegenthart, Westerveld en Kathmann (allen PRO) over alarmknoppen en medische hulpmiddelen",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/995c082e-5309-4ab3-8cc5-30ffb16315b5",
-                    "publishedDate": "19/11/2026 10:29"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-                    "publishedDate": "19/11/2026 10:18"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
-                    "publishedDate": "19/11/2026 10:03"
                 }
             ],
             "belangrijkheid": 0
@@ -510,13 +490,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+            "publishedDate": "19/11/2026 13:00",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Willem (81) bleef aarzelen over de coronaprik, maar toen zei zijn huisarts dit - De Gelderlander",
             "link": "https://www.gelderlander.nl/wijchen/willem-81-bleef-aarzelen-over-de-coronaprik-maar-toen-zei-zijn-huisarts-dit~aa71a554/",
             "publishedDate": "19/11/2026 12:59",
-            "source": "bd.nl, destentor.nl, gelderlander.nl, nos.nl, prostaatkankerstichting.nl",
+            "source": "bd.nl, destentor.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Willem (81) bleef aarzelen over de coronaprik, maar toen zei zijn huisarts dit | Regio | BD.nl",
@@ -529,18 +520,6 @@
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/nijmegen/willem-81-bleef-aarzelen-over-de-coronaprik-maar-toen-zei-zijn-huisarts-dit~aa71a554/",
                     "publishedDate": "19/11/2026 11:34"
-                },
-                {
-                    "title": "Veel minder mannen incontinent na prostaatkankeroperatie - Prostaatkankerstichting",
-                    "source": "prostaatkankerstichting.nl",
-                    "link": "https://prostaatkankerstichting.nl/veel-minder-mannen-incontinent-na-prostaatkankeroperatie/",
-                    "publishedDate": "19/11/2026 11:27"
-                },
-                {
-                    "title": "Veel minder mannen incontinent na prostaatoperatie vanwege tumor - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2640098-veel-minder-mannen-incontinent-na-prostaatoperatie-vanwege-tumor",
-                    "publishedDate": "19/11/2026 10:09"
                 }
             ],
             "belangrijkheid": 0
@@ -790,6 +769,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Veel minder mannen incontinent na prostaatkankeroperatie - Prostaatkankerstichting",
+            "link": "https://prostaatkankerstichting.nl/veel-minder-mannen-incontinent-na-prostaatkankeroperatie/",
+            "publishedDate": "19/11/2026 11:27",
+            "source": "nos.nl, prostaatkankerstichting.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Veel minder mannen incontinent na prostaatoperatie vanwege tumor - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2640098-veel-minder-mannen-incontinent-na-prostaatoperatie-vanwege-tumor",
+                    "publishedDate": "19/11/2026 10:09"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Bij deze zorgverzekeraar stijgt je premie het minst in 2027 - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/bij-deze-zorgverzekeraar-stijgt-je-premie-het-minst-in-2027",
             "publishedDate": "19/11/2026 11:11",
@@ -886,6 +883,30 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van de leden Vliegenthart, Westerveld en Kathmann (allen PRO) over alarmknoppen en medische hulpmiddelen",
+            "link": "https://open.overheid.nl/details/995c082e-5309-4ab3-8cc5-30ffb16315b5",
+            "publishedDate": "19/11/2026 10:29",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+                    "publishedDate": "19/11/2026 10:18"
+                },
+                {
+                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
+                    "publishedDate": "19/11/2026 10:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1151,18 +1172,11 @@
             "title": "Vierde poging mislukt: veroordeelde Haagse huisarts blijft uit artsenregister - Waterkant",
             "link": "https://www.waterkant.net/suriname/2026/11/19/vierde-poging-mislukt-veroordeelde-haagse-huisarts-blijft-uit-artsenregister/",
             "publishedDate": "19/11/2026 07:32",
-            "source": "ad.nl, waterkant.net",
+            "source": "waterkant.net",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
-                    "publishedDate": "18/11/2026 21:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1349,6 +1363,17 @@
             "category": "Overig",
             "feed_label": "Alert Vvt",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Vals alibi, seksueel misbruik en misleiding: tuchtcollege houdt veroordeelde huisarts uit het vak - AD",
+            "link": "https://www.ad.nl/den-haag/vals-alibi-seksueel-misbruik-en-misleiding-tuchtcollege-houdt-veroordeelde-huisarts-uit-het-vak~a0658487/",
+            "publishedDate": "18/11/2026 21:36",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
