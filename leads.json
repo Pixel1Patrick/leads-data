@@ -9,7 +9,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Welzijn op recept helpt, vraag het maar aan Sandra - De Krant",
@@ -113,31 +113,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/81c56b29-de29-4faf-b87b-1294a519cb85",
                     "publishedDate": "19/11/2026 17:05"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Vliegenthart, Westerveld en Kathmann (allen PRO) over alarmknoppen en medische hulpmiddelen",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/995c082e-5309-4ab3-8cc5-30ffb16315b5",
-                    "publishedDate": "19/11/2026 10:29"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-                    "publishedDate": "19/11/2026 10:18"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
-                    "publishedDate": "19/11/2026 10:03"
                 }
             ],
             "belangrijkheid": 0
@@ -274,24 +256,11 @@
             "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
             "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
             "publishedDate": "19/11/2026 16:31",
-            "source": "ad.nl, destadamersfoort.nl, nijkerkerveen.org",
+            "source": "nijkerkerveen.org",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Steeds meer kwetsbare ouderen krijgen passende acute zorg - De Stad Amersfoort",
-                    "source": "destadamersfoort.nl",
-                    "link": "https://www.destadamersfoort.nl/extern-nieuws/gezondheid-meandermc/1329292/steeds-meer-kwetsbare-ouderen-krijgen-passende-acute-zorg",
-                    "publishedDate": "19/11/2026 16:22"
-                },
-                {
-                    "title": "Steeds meer kwetsbare ouderen geholpen via speciale spoedbedden in Meander Medisch Centrum",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/bunschoten-spakenburg/steeds-meer-kwetsbare-ouderen-geholpen-via-speciale-spoedbedden-in-meander-medisch-centrum~afc3b5a3/",
-                    "publishedDate": "18/11/2026 19:47"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -323,6 +292,17 @@
             "source": "strandweer.nu",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Steeds meer kwetsbare ouderen krijgen passende acute zorg - De Stad Amersfoort",
+            "link": "https://www.destadamersfoort.nl/extern-nieuws/gezondheid-meandermc/1329292/steeds-meer-kwetsbare-ouderen-krijgen-passende-acute-zorg",
+            "publishedDate": "19/11/2026 16:22",
+            "source": "destadamersfoort.nl",
+            "category": "Overig",
+            "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -510,7 +490,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Per direct stoppen?! | medischcontact",
@@ -659,18 +639,11 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 14:17",
-            "source": "igj.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-                    "publishedDate": "19/11/2026 13:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -680,28 +653,16 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
                     "publishedDate": "19/11/2026 14:17"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
-                    "publishedDate": "19/11/2026 13:29"
-                },
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
-                    "publishedDate": "19/11/2026 13:29"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Aruba waarschuwt voor antibioticaresistentie: infecties steeds moeilijker te behandelen",
@@ -798,37 +759,12 @@
             "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
             "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
             "publishedDate": "19/11/2026 13:51",
-            "source": "centraalplus.nl, metronieuws.nl, nieuwsinalphen.nl, omroepwest.nl",
+            "source": "metronieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 7,
-            "extra_bronnen": [
-                {
-                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
-                    "source": "omroepwest.nl",
-                    "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
-                    "publishedDate": "19/11/2026 12:17"
-                },
-                {
-                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
-                    "source": "centraalplus.nl",
-                    "link": "https://centraalplus.nl/2026/11/19/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar/",
-                    "publishedDate": "19/11/2026 10:09"
-                },
-                {
-                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-                    "source": "nieuwsinalphen.nl",
-                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
-                    "publishedDate": "18/11/2026 20:07"
-                },
-                {
-                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-                    "source": "nieuwsinalphen.nl",
-                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
-                    "publishedDate": "18/11/2026 19:22"
-                }
-            ],
-            "belangrijkheid": 0
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderbescherming op papier: waarom kwetsbare kinderen tussen wal en schip vallen",
@@ -837,6 +773,35 @@
             "source": "starnieuws.com",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
+            "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
+            "publishedDate": "19/11/2026 13:29",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
+                    "publishedDate": "19/11/2026 13:29"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+            "publishedDate": "19/11/2026 13:00",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -919,6 +884,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
+            "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
+            "publishedDate": "19/11/2026 12:17",
+            "source": "centraalplus.nl, omroepwest.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
+                    "source": "centraalplus.nl",
+                    "link": "https://centraalplus.nl/2026/11/19/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar/",
+                    "publishedDate": "19/11/2026 10:09"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Proactieve zorgbemiddeling: soms een nieuwe verwijzing nodig",
@@ -1006,7 +989,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Hartstichting steunt oproep voor structurele financiering van NVVC Connect",
@@ -1061,7 +1044,18 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van de leden Vliegenthart, Westerveld en Kathmann (allen PRO) over alarmknoppen en medische hulpmiddelen",
+            "link": "https://open.overheid.nl/details/995c082e-5309-4ab3-8cc5-30ffb16315b5",
+            "publishedDate": "19/11/2026 10:29",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Vervolg en afronding MESO-project - ZonMw",
@@ -1070,6 +1064,17 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+            "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+            "publishedDate": "19/11/2026 10:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1132,6 +1137,17 @@
             "source": "derestaurantkrant.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
+            "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
+            "publishedDate": "19/11/2026 10:03",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1264,22 +1280,16 @@
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief seksuele gezondheid en aanpak onbedoelde en of ongewenste zwangerschap",
             "link": "https://open.overheid.nl/details/ae9c2274-d6af-4911-89a2-df98485d51ee",
             "publishedDate": "19/11/2026 08:36",
-            "source": "open.overheid.nl, waterkant.net",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief seksuele gezondheid en aanpak onbedoelde en/of ongewenste zwangerschap",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/7fa96b5a-a988-4ab1-b17a-bb4fb80df4f4",
                     "publishedDate": "19/11/2026 08:36"
-                },
-                {
-                    "title": "Vierde poging mislukt: veroordeelde Haagse huisarts blijft uit artsenregister - Waterkant",
-                    "source": "waterkant.net",
-                    "link": "https://www.waterkant.net/suriname/2026/11/19/vierde-poging-mislukt-veroordeelde-haagse-huisarts-blijft-uit-artsenregister/",
-                    "publishedDate": "19/11/2026 07:32"
                 }
             ],
             "belangrijkheid": 0
@@ -1320,6 +1330,17 @@
             "source": "tvvisie.be",
             "category": "Overig",
             "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Vierde poging mislukt: veroordeelde Haagse huisarts blijft uit artsenregister - Waterkant",
+            "link": "https://www.waterkant.net/suriname/2026/11/19/vierde-poging-mislukt-veroordeelde-haagse-huisarts-blijft-uit-artsenregister/",
+            "publishedDate": "19/11/2026 07:32",
+            "source": "waterkant.net",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1567,6 +1588,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
+            "publishedDate": "18/11/2026 20:07",
+            "source": "nieuwsinalphen.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
+                    "publishedDate": "18/11/2026 19:22"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Actief Zorg vecht breuk met gemeente Heusden aan: 'Niet mee eens' - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035291/actief-zorg-vecht-breuk-met-gemeente-heusden-aan-niet-mee-eens",
             "publishedDate": "18/11/2026 20:02",
@@ -1595,6 +1634,17 @@
             "source": "mednet.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Steeds meer kwetsbare ouderen geholpen via speciale spoedbedden in Meander Medisch Centrum",
+            "link": "https://www.ad.nl/bunschoten-spakenburg/steeds-meer-kwetsbare-ouderen-geholpen-via-speciale-spoedbedden-in-meander-medisch-centrum~afc3b5a3/",
+            "publishedDate": "18/11/2026 19:47",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1727,15 +1777,8 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Ontwikkelen visie apotheekhoudende huisartsen(zorg)",
-                    "source": "lhv.nl",
-                    "link": "https://www.lhv.nl/nieuws/ontwikkelen-visie-apotheekhoudende-huisartsenzorg/",
-                    "publishedDate": "18/11/2026 10:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1750,6 +1793,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Ontwikkelen visie apotheekhoudende huisartsen(zorg)",
+            "link": "https://www.lhv.nl/nieuws/ontwikkelen-visie-apotheekhoudende-huisartsenzorg/",
+            "publishedDate": "18/11/2026 10:36",
+            "source": "lhv.nl",
+            "category": "Overig",
+            "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "NZa: CAK voert wettelijke taken rechtmatig uit en verbetert dienstverlening",
             "link": "https://www.nza.nl/actueel/nieuws/2026/11/18/nza-cak-voert-wettelijke-taken-rechtmatig-uit-en-verbetert-dienstverlening",
             "publishedDate": "18/11/2026 10:17",
@@ -1758,7 +1812,7 @@
             "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ontregelen vanuit vertrouwen: samen naar 20% zinnige administratie en meer werkplezier",
@@ -1780,7 +1834,7 @@
             "feed_label": "VWS Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
@@ -1798,7 +1852,7 @@
                     "publishedDate": "16/11/2026 16:09"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
@@ -1908,7 +1962,7 @@
             "feed_label": "Jeugdzorg Nederland",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "NZa: beter inzicht nodig in beschikbaarheid van jeugdzorg",
@@ -1919,7 +1973,7 @@
             "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Agressie tegen huisartsen en assistenten: Medicamus spreekt pati\u00ebnten aan op ...",
