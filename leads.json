@@ -51,18 +51,22 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 13:00",
-            "source": "igj.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-                    "publishedDate": "19/11/2026 13:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+            "publishedDate": "19/11/2026 13:00",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -493,7 +497,7 @@
                     "publishedDate": "18/11/2026 20:49"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Emiel Kwekkeboom van Restaurant Joann is Beste Praktijkopleider 2026",
@@ -1166,16 +1170,22 @@
             "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
             "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
             "publishedDate": "18/11/2026 21:00",
-            "source": "gva.be, nieuwsblad.be",
+            "source": "gva.be, lhv.nl, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
                     "source": "nieuwsblad.be",
                     "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
                     "publishedDate": "18/11/2026 18:35"
+                },
+                {
+                    "title": "Nascholing \u2018Starten als apotheekhoudend huisarts\u2019 met enthousiasme ontvangen",
+                    "source": "lhv.nl",
+                    "link": "https://www.lhv.nl/nieuws/nascholing-starten-als-apotheekhoudend-huisarts-met-enthousiasme-ontvangen/",
+                    "publishedDate": "18/11/2026 10:43"
                 }
             ],
             "belangrijkheid": 0
@@ -1691,7 +1701,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
@@ -1760,17 +1770,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nascholing \u2018Starten als apotheekhoudend huisarts\u2019 met enthousiasme ontvangen",
-            "link": "https://www.lhv.nl/nieuws/nascholing-starten-als-apotheekhoudend-huisarts-met-enthousiasme-ontvangen/",
-            "publishedDate": "18/11/2026 10:43",
-            "source": "lhv.nl",
-            "category": "Overig",
-            "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Paper] Van afspraken naar uitvoering: aan alleen woorden heeft de zorg niks",
             "link": "https://www.actiz.nl/actueel/van-afspraken-naar-uitvoering-aan-alleen-woorden-heeft-de-zorg-niks",
             "publishedDate": "18/11/2026 10:37",
@@ -1832,19 +1831,13 @@
             "source": "rivm.nl, vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
                     "source": "rivm.nl",
                     "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
                     "publishedDate": "16/11/2026 16:09"
-                },
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
                 }
             ],
             "belangrijkheid": 0
@@ -1870,6 +1863,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+            "publishedDate": "17/11/2026 10:57",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
