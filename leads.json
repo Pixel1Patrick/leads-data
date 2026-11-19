@@ -51,22 +51,18 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 13:00",
-            "source": "open.overheid.nl",
+            "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-            "publishedDate": "19/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+                    "publishedDate": "19/11/2026 13:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -106,10 +102,10 @@
             "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
             "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
             "publishedDate": "19/11/2026 12:17",
-            "source": "ad.nl, centraalplus.nl, gooieneemlander.nl, metronieuws.nl, noordhollandsdagblad.nl, omroepwest.nl, reddit.com, rtl.nl, rtlboulevard.nl",
+            "source": "ad.nl, centraalplus.nl, gooieneemlander.nl, metronieuws.nl, nieuwsinalphen.nl, noordhollandsdagblad.nl, omroepwest.nl, reddit.com, rtl.nl, rtlboulevard.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 12,
+            "duplicate_count": 14,
             "extra_bronnen": [
                 {
                     "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
@@ -140,6 +136,18 @@
                     "source": "rtlboulevard.nl",
                     "link": "https://www.rtlboulevard.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
                     "publishedDate": "18/11/2026 18:45"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
+                    "publishedDate": "18/11/2026 20:07"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
+                    "publishedDate": "18/11/2026 19:22"
                 },
                 {
                     "title": "Pati\u00ebntenstop bij aantal ziekenhuizen voor klanten Zilveren Kruis: verzekeraar betaalt niet genoeg",
@@ -351,12 +359,19 @@
             "title": "Zorgminister Hermans noemt stijging hiv-diagnoses een 'zorgelijke ontwikkeling'",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/zorgminister-hermans-noemt-stijging-hiv-diagnoses-een-zorgelijke-ontwikkeling/",
             "publishedDate": "19/11/2026 10:47",
-            "source": "nationalezorggids.nl",
+            "source": "nationalezorggids.nl, trouw.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
+                    "publishedDate": "18/11/2026 22:19"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Noordenveld scoort hoog op inzet ervaringsdeskundigen: tweede plaats in Drenthe - Dit is Roden",
@@ -497,7 +512,7 @@
                     "publishedDate": "18/11/2026 20:49"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Emiel Kwekkeboom van Restaurant Joann is Beste Praktijkopleider 2026",
@@ -624,12 +639,19 @@
             "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
             "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
             "publishedDate": "19/11/2026 09:04",
-            "source": "zorgkrant.nl",
+            "source": "rivm.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+                    "publishedDate": "17/11/2026 10:57"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
@@ -1057,17 +1079,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
-            "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
-            "publishedDate": "18/11/2026 22:19",
-            "source": "trouw.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Eindhovense zangeres Kovacs (36) ligt zeker een maand in ziekenhuis door problemen ...",
             "link": "https://www.ed.nl/eindhoven/eindhovense-zangeres-kovacs-36-ligt-zeker-een-maand-in-ziekenhuis-door-problemen-tijdens-zwangerschap~a9f32244/",
             "publishedDate": "18/11/2026 22:19",
@@ -1170,22 +1181,16 @@
             "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
             "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
             "publishedDate": "18/11/2026 21:00",
-            "source": "gva.be, lhv.nl, nieuwsblad.be",
+            "source": "gva.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
                     "source": "nieuwsblad.be",
                     "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
                     "publishedDate": "18/11/2026 18:35"
-                },
-                {
-                    "title": "Nascholing \u2018Starten als apotheekhoudend huisarts\u2019 met enthousiasme ontvangen",
-                    "source": "lhv.nl",
-                    "link": "https://www.lhv.nl/nieuws/nascholing-starten-als-apotheekhoudend-huisarts-met-enthousiasme-ontvangen/",
-                    "publishedDate": "18/11/2026 10:43"
                 }
             ],
             "belangrijkheid": 0
@@ -1221,24 +1226,6 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
-            "publishedDate": "18/11/2026 20:07",
-            "source": "nieuwsinalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-                    "source": "nieuwsinalphen.nl",
-                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
-                    "publishedDate": "18/11/2026 19:22"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1660,50 +1647,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Dit zijn de goedkoopste zorgverzekeringen met tandarts 2027 - Energie vergelijken",
-            "link": "https://www.keuze.nl/nieuws/goedkoopste-zorgverzekering-tandarts-2027",
-            "publishedDate": "18/11/2026 13:07",
-            "source": "keuze.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgverzekeraars verhogen korting bij jaarbetaling - VerzekeringsNieuws",
-            "link": "https://www.verzekeringsnieuws.nl/artikel/130545-zorgverzekeraars-verhogen-korting-bij-jaarbetaling",
-            "publishedDate": "18/11/2026 12:23",
-            "source": "verzekeringsnieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Flinke stijging zorgpremies en grote verschillen tussen zorgverzekeraars | HuisartsVandaag",
-            "link": "https://huisartsvandaag.nl/flinke-stijging-zorgpremies-en-grote-verschillen-tussen-zorgverzekeraars/",
-            "publishedDate": "18/11/2026 12:19",
-            "source": "huisartsvandaag.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgverzekeraar Anderzorg gaat in 2027 volledig op in Menzis - Huisartsvandaag.nl",
-            "link": "https://huisartsvandaag.nl/zorgverzekeraar-anderzorg-gaat-in-2027-volledig-op-in-menzis/",
-            "publishedDate": "18/11/2026 12:08",
-            "source": "huisartsvandaag.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Steeds vaker onbegrepen gedrag op de spoedeisende hulp: Meander versterkt regionale ...",
             "link": "https://www.destadamersfoort.nl/extern-nieuws/gezondheid-meandermc/1328909/steeds-vaker-onbegrepen-gedrag-op-de-spoedeisende-hulp-meande",
             "publishedDate": "18/11/2026 12:07",
@@ -1748,23 +1691,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zeewoldenaren met laag inkomen kunnen korting krijgen op zorgverzekering - Veluwe FM",
-            "link": "https://veluwefm.nl/zeewoldenaren-met-laag-inkomen-kunnen-korting-krijgen-op-zorgverzekering/",
-            "publishedDate": "18/11/2026 11:11",
-            "source": "veluwefm.nl",
+            "title": "Nascholing \u2018Starten als apotheekhoudend huisarts\u2019 met enthousiasme ontvangen",
+            "link": "https://www.lhv.nl/nieuws/nascholing-starten-als-apotheekhoudend-huisarts-met-enthousiasme-ontvangen/",
+            "publishedDate": "18/11/2026 10:43",
+            "source": "lhv.nl",
             "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgpremies 2027 bekend: vergelijk en bespaar als zzp'er",
-            "link": "https://www.zzp-nederland.nl/nieuws/zorgpremies-2027-bekend-vergelijk-en-bespaar-als-zzper",
-            "publishedDate": "18/11/2026 10:59",
-            "source": "zzp-nederland.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
+            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1863,17 +1795,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-            "publishedDate": "17/11/2026 10:57",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
