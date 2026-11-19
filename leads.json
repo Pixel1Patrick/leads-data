@@ -497,22 +497,16 @@
             "title": "Waarschuwing door ActiZ voor verder uitstel nieuwe vorm Wlz-zorg thuis - Zorgkrant",
             "link": "https://www.zorgkrant.nl/ouderenzorg/21689-waarschuwing-door-actiz-voor-verder-uitstel-nieuwe-vorm-wlz-zorg-thuis",
             "publishedDate": "19/11/2026 10:04",
-            "source": "actiz.nl, tweedekamer.nl, zorgkrant.nl",
+            "source": "actiz.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "ActiZ waarschuwt voor verder uitstel nieuwe vorm Wlz-zorg thuis",
                     "source": "actiz.nl",
                     "link": "https://www.actiz.nl/actueel/actiz-waarschuwt-voor-verder-uitstel-nieuwe-vorm-wlz-zorg-thuis",
                     "publishedDate": "18/11/2026 20:49"
-                },
-                {
-                    "title": "na twee jaar gaan de eerste locaties dicht omdat daar niets te verdienen valt - Tweede Kamer",
-                    "source": "tweedekamer.nl",
-                    "link": "https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z25441&did=2026D58947",
-                    "publishedDate": "18/11/2026 14:29"
                 }
             ],
             "belangrijkheid": 0
@@ -680,15 +674,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
-                    "publishedDate": "19/11/2026 09:02"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
+            "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
+            "publishedDate": "19/11/2026 09:02",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -852,24 +850,11 @@
             "title": "Aandeel mannen in opleiding Verpleegkunde bij Thomas More stijgt naar hoogste niveau in tien jaar",
             "link": "https://www.rtv.be/actualiteit-en-nieuws/aandeel-mannen-opleiding-verpleegkunde-bij-thomas-more-stijgt-naar-hoogste",
             "publishedDate": "19/11/2026 07:20",
-            "source": "gva.be, news.thomasmore.be, rtv.be",
+            "source": "rtv.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
-                    "source": "gva.be",
-                    "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
-                    "publishedDate": "19/11/2026 03:18"
-                },
-                {
-                    "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
-                    "source": "news.thomasmore.be",
-                    "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
-                    "publishedDate": "19/11/2026 00:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -946,6 +931,17 @@
             "category": "Overig",
             "feed_label": "Alert apotheker",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
+            "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
+            "publishedDate": "19/11/2026 03:18",
+            "source": "gva.be",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1030,6 +1026,17 @@
             "source": "huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
+            "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
+            "publishedDate": "19/11/2026 00:03",
+            "source": "news.thomasmore.be",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1572,6 +1579,17 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "na twee jaar gaan de eerste locaties dicht omdat daar niets te verdienen valt - Tweede Kamer",
+            "link": "https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z25441&did=2026D58947",
+            "publishedDate": "18/11/2026 14:29",
+            "source": "tweedekamer.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
