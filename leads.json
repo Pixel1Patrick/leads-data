@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Bouw nieuwe Bernardus dichterbij na presentatie definitief ontwerp - De Teyding",
+            "link": "https://www.deteyding.nl/bouw-nieuwe-bernardus-dichterbij-na-presentatie-definitief-ontwerp/",
+            "publishedDate": "19/11/2026 00:42",
+            "source": "deteyding.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgorganisatie",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "NZa ziet mismatch tussen vraag en aanbod in de jeugdzorg - Huisartsvandaag.nl",
             "link": "https://huisartsvandaag.nl/nza-ziet-mismatch-tussen-vraag-en-aanbod-in-de-jeugdzorg/",
             "publishedDate": "19/11/2026 00:42",
@@ -48,11 +59,18 @@
             "title": "Datacenters goed voor 5 procent van Nederlandse stroomverbruik - ICT/Magazine",
             "link": "https://www.ictmagazine.nl/nieuws/datacenters-goed-voor-5-procent-van-nederlandse-stroomverbruik/",
             "publishedDate": "18/11/2026 23:20",
-            "source": "ictmagazine.nl",
+            "source": "bouwenuitvoering.nl, ictmagazine.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwbouw onder druk: datacenters vragen 5 procent van elektriciteit - Bouw en Uitvoering",
+                    "source": "bouwenuitvoering.nl",
+                    "link": "https://bouwenuitvoering.nl/actueel/datacenters-meer-elektriciteit/",
+                    "publishedDate": "18/11/2026 20:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -396,17 +414,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwbouw onder druk: datacenters vragen 5 procent van elektriciteit - Bouw en Uitvoering",
-            "link": "https://bouwenuitvoering.nl/actueel/datacenters-meer-elektriciteit/",
-            "publishedDate": "18/11/2026 20:03",
-            "source": "bouwenuitvoering.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Actief Zorg vecht breuk met gemeente Heusden aan: 'Niet mee eens' - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035291/actief-zorg-vecht-breuk-met-gemeente-heusden-aan-niet-mee-eens",
             "publishedDate": "18/11/2026 20:02",
@@ -498,16 +505,22 @@
             "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
             "link": "https://www.pzc.nl/goes/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
             "publishedDate": "18/11/2026 19:28",
-            "source": "bndestem.nl, pzc.nl",
+            "source": "bndestem.nl, gelderlander.nl, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Ziekenhuis Adrz in Goes denkt rook te zien, maar na test met noodstroom blijkt het om iets ...",
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/zeeland/ziekenhuis-adrz-in-goes-denkt-rook-te-zien-maar-na-test-met-noodstroom-blijkt-het-om-iets-anders-te-gaan~a144a6b30/",
                     "publishedDate": "18/11/2026 19:03"
+                },
+                {
+                    "title": "Mysterie opgelost: hierom kleurt Ziekenhuis Gelderse Vallei vandaag paars - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/ede/mysterie-opgelost-hierom-kleurt-ziekenhuis-gelderse-vallei-vandaag-paars~a3f9d595/",
+                    "publishedDate": "18/11/2026 00:56"
                 }
             ],
             "belangrijkheid": 0
@@ -527,11 +540,36 @@
             "title": "Zangeres Sharon Kovacs opgenomen in ziekenhuis om complicaties zwangerschap",
             "link": "https://www.omroepbrabant.nl/nieuws/6035308/zangeres-sharon-kovacs-opgenomen-in-ziekenhuis-om-complicaties-zwangerschap",
             "publishedDate": "18/11/2026 19:08",
-            "source": "omroepbrabant.nl",
+            "source": "ad.nl, nationalezorggids.nl, omroepbrabant.nl, rtl.nl, welingelichtekringen.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Vrouw neergeschoten docent richt zich tot Erasmusschutter: 'Je kon geen arts worden ...",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/rotterdam/vrouw-neergeschoten-docent-richt-zich-tot-erasmusschutter-je-kon-geen-arts-worden-daarvoor-heb-jij-bewijs-geleverd~a8e10e39/",
+                    "publishedDate": "18/11/2026 16:16"
+                },
+                {
+                    "title": "Erasmus MC: gewone dag draaide uit op een nachtmerrie - Welingelichte Kringen",
+                    "source": "welingelichtekringen.nl",
+                    "link": "https://www.welingelichtekringen.nl/samenleving/erasmus-mc-gewone-dag-draaide-uit-op-een-nachtmerrie",
+                    "publishedDate": "18/11/2026 16:03"
+                },
+                {
+                    "title": "'Ik ben mijn maatje en grote liefde verloren': weduwe spreekt Erasmusschutter toe",
+                    "source": "rtl.nl",
+                    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5665788/weduwe-erasmusschutter-100-procent-verantwoordelijk",
+                    "publishedDate": "18/11/2026 15:54"
+                },
+                {
+                    "title": "Erasmusschutter reageert weer op slachtofferverklaringen: 'Jurgen Damen nauwelijks gekend'",
+                    "source": "nationalezorggids.nl",
+                    "link": "https://www.nationalezorggids.nl/zorgpersoneel/erasmusschutter-reageert-weer-op-slachtofferverklaringen-jurgen-damen-nauwelijks-gekend/",
+                    "publishedDate": "18/11/2026 14:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -648,11 +686,18 @@
             "title": "Sterilisatie in Overijssel: huisarts goedkoopst, ziekenhuis duurst - De Stadskoerier",
             "link": "https://www.destadskoerier.nl/nieuws/nieuws/379506/sterilisatie-in-overijssel-huisarts-goedkoopst-ziekenhuis-duurst-qvc189",
             "publishedDate": "18/11/2026 18:10",
-            "source": "destadskoerier.nl",
+            "source": "destadskoerier.nl, salland1.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kosten sterilisatie bij mannen verschilt flink per zorgverlener - Salland1",
+                    "source": "salland1.nl",
+                    "link": "https://www.salland1.nl/kosten-sterilisatie-bij-mannen-verschilt-flink-per-zorgverlener/",
+                    "publishedDate": "18/11/2026 12:24"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -670,11 +715,24 @@
             "title": "Wethouder Molema vraagt Rijk om hulp bij aanpak crackverslaving | OOG Groningen",
             "link": "https://www.oogtv.nl/2026/11/wethouder-molema-vraagt-rijk-om-hulp-bij-aanpak-crackverslaving/",
             "publishedDate": "18/11/2026 17:46",
-            "source": "oogtv.nl",
+            "source": "actueel365.nl, nos.nl, oogtv.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
+                    "publishedDate": "18/11/2026 15:41"
+                },
+                {
+                    "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
+                    "source": "actueel365.nl",
+                    "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
+                    "publishedDate": "18/11/2026 14:48"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -703,16 +761,22 @@
             "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over misdiagnose tussen posttraumatische stressstoornis (PTSS) en psychotische stoornissen",
             "link": "https://open.overheid.nl/details/49484395-f3ab-41ef-9e0d-9ea2c14c454e",
             "publishedDate": "18/11/2026 17:18",
-            "source": "open.overheid.nl",
+            "source": "open.overheid.nl, thuisarts.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over misdiagnose tussen posttraumatische stressstoornis (PTSS) en psychotische stoornissen",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/2e2f3777-3347-4fc3-b0de-1391d8767e90",
                     "publishedDate": "18/11/2026 17:18"
+                },
+                {
+                    "title": "PTSS (post-traumatische stress-stoornis) - Thuisarts",
+                    "source": "thuisarts.nl",
+                    "link": "https://www.thuisarts.nl/ptss",
+                    "publishedDate": "18/11/2026 14:59"
                 }
             ],
             "belangrijkheid": 0
@@ -795,17 +859,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Vrouw neergeschoten docent richt zich tot Erasmusschutter: 'Je kon geen arts worden ...",
-            "link": "https://www.ad.nl/rotterdam/vrouw-neergeschoten-docent-richt-zich-tot-erasmusschutter-je-kon-geen-arts-worden-daarvoor-heb-jij-bewijs-geleverd~a8e10e39/",
-            "publishedDate": "18/11/2026 16:16",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gemeenteraad krijgt kijkje achter de schermen bij Incluzio Hollands Kroon | Noordkop",
             "link": "https://drimble.nl/regio/noord-holland/noordkop/108638111/gemeenteraad-krijgt-kijkje-achter-de-schermen-bij-incluzio-hollands-kroon.html",
             "publishedDate": "18/11/2026 16:15",
@@ -853,44 +906,18 @@
             "title": "Zorgpartners Eemland bundelen krachten voor betere ondersteuning voor mensen met kanker",
             "link": "https://www.destadamersfoort.nl/lokaal/zorg/1328967/zorgpartners-eemland-bundelen-krachten-voor-betere-ondersteun",
             "publishedDate": "18/11/2026 16:09",
-            "source": "destadamersfoort.nl",
+            "source": "destadamersfoort.nl, gelderlander.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Erasmus MC: gewone dag draaide uit op een nachtmerrie - Welingelichte Kringen",
-            "link": "https://www.welingelichtekringen.nl/samenleving/erasmus-mc-gewone-dag-draaide-uit-op-een-nachtmerrie",
-            "publishedDate": "18/11/2026 16:03",
-            "source": "welingelichtekringen.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "'Ik ben mijn maatje en grote liefde verloren': weduwe spreekt Erasmusschutter toe",
-            "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5665788/weduwe-erasmusschutter-100-procent-verantwoordelijk",
-            "publishedDate": "18/11/2026 15:54",
-            "source": "rtl.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
-            "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
-            "publishedDate": "18/11/2026 15:41",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kankerpati\u00ebnten in regio Eemland krijgen met nieuwe samenwerking betere nazorg",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/amersfoort/kankerpatienten-in-regio-eemland-krijgen-met-nieuwe-samenwerking-betere-nazorg~af8c318b/",
+                    "publishedDate": "18/11/2026 15:11"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -938,17 +965,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Kankerpati\u00ebnten in regio Eemland krijgen met nieuwe samenwerking betere nazorg",
-            "link": "https://www.gelderlander.nl/amersfoort/kankerpatienten-in-regio-eemland-krijgen-met-nieuwe-samenwerking-betere-nazorg~af8c318b/",
-            "publishedDate": "18/11/2026 15:11",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Jeugdzorginstelling werkt tekort weg, Nijkerk hoeft nog niet bij te springen | Regio - AD",
             "link": "https://www.ad.nl/nijkerk/jeugdzorginstelling-werkt-tekort-weg-nijkerk-hoeft-nog-niet-bij-te-springen~a6a1587d/",
             "publishedDate": "18/11/2026 15:07",
@@ -977,28 +993,6 @@
             "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Gehandicaptenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "PTSS (post-traumatische stress-stoornis) - Thuisarts",
-            "link": "https://www.thuisarts.nl/ptss",
-            "publishedDate": "18/11/2026 14:59",
-            "source": "thuisarts.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
-            "link": "https://actueel365.nl/amsterdam-medicijnen-crackverslaving-kabinet-onderzoek",
-            "publishedDate": "18/11/2026 14:48",
-            "source": "actueel365.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1080,16 +1074,22 @@
             "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
             "link": "https://www.pvda.be/nieuws/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
             "publishedDate": "18/11/2026 14:08",
-            "source": "pvda.be",
+            "source": "pvda.be, redactie24.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 4,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
                     "source": "pvda.be",
                     "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
                     "publishedDate": "18/11/2026 06:19"
+                },
+                {
+                    "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
+                    "source": "redactie24.be",
+                    "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
+                    "publishedDate": "18/11/2026 12:33"
                 }
             ],
             "belangrijkheid": 0
@@ -1101,17 +1101,6 @@
             "source": "capelleaandenijssel.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Erasmusschutter reageert weer op slachtofferverklaringen: 'Jurgen Damen nauwelijks gekend'",
-            "link": "https://www.nationalezorggids.nl/zorgpersoneel/erasmusschutter-reageert-weer-op-slachtofferverklaringen-jurgen-damen-nauwelijks-gekend/",
-            "publishedDate": "18/11/2026 14:05",
-            "source": "nationalezorggids.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1205,17 +1194,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
-            "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
-            "publishedDate": "18/11/2026 12:33",
-            "source": "redactie24.be",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
             "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
             "publishedDate": "18/11/2026 12:30",
@@ -1249,17 +1227,6 @@
                     "publishedDate": "18/11/2026 12:26"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kosten sterilisatie bij mannen verschilt flink per zorgverlener - Salland1",
-            "link": "https://www.salland1.nl/kosten-sterilisatie-bij-mannen-verschilt-flink-per-zorgverlener/",
-            "publishedDate": "18/11/2026 12:24",
-            "source": "salland1.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1304,7 +1271,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Brochure Dementie in taal en beeld",
@@ -1478,16 +1445,34 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "noordhollandsdagblad.nl, stadindex.nl",
+            "source": "drimble.nl, igj.nl, noordhollandsdagblad.nl, stadindex.nl, westlanders.nu",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
                     "source": "stadindex.nl",
                     "link": "https://www.stadindex.nl/alkmaar/3631250-grote-partij-illegale-afslankmiddelen-in-beslag-genomen-drie-verdachten-opgepakt",
                     "publishedDate": "18/11/2026 09:19"
+                },
+                {
+                    "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
+                    "source": "westlanders.nu",
+                    "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
+                    "publishedDate": "18/11/2026 08:01"
+                },
+                {
+                    "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
+                    "publishedDate": "18/11/2026 02:08"
+                },
+                {
+                    "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
+                    "publishedDate": "17/11/2026 13:00"
                 }
             ],
             "belangrijkheid": 0
@@ -1548,17 +1533,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
-            "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
-            "publishedDate": "18/11/2026 08:01",
-            "source": "westlanders.nu",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "NZa pleit voor meer standaardisatie bij inkoop jeugdzorg - InkopersCafe.nl",
             "link": "https://www.inkoperscafe.nl/nza-pleit-voor-meer-standaardisatie-bij-inkoop-jeugdzorg",
             "publishedDate": "18/11/2026 06:05",
@@ -1614,34 +1588,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
-            "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
-            "publishedDate": "18/11/2026 02:08",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "GSK krijgt FDA-goedkeuring voor longkankerbehandeling Nelkarmi - Investing.com",
             "link": "https://nl.investing.com/news/stock-market-news/gsk-krijgt-fdagoedkeuring-voor-longkankerbehandeling-nelkarmi-978229",
             "publishedDate": "18/11/2026 01:52",
             "source": "nl.investing.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Mysterie opgelost: hierom kleurt Ziekenhuis Gelderse Vallei vandaag paars - De Gelderlander",
-            "link": "https://www.gelderlander.nl/ede/mysterie-opgelost-hierom-kleurt-ziekenhuis-gelderse-vallei-vandaag-paars~a3f9d595/",
-            "publishedDate": "18/11/2026 00:56",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1684,17 +1636,6 @@
                     "publishedDate": "16/11/2026 16:09"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
-            "publishedDate": "17/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
