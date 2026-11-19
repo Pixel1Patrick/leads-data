@@ -77,10 +77,10 @@
             "title": "Pati\u00ebnten van Zilveren Kruis, FBTO en andere Achmea-merken moeten uitwijken ... - De Telegraaf",
             "link": "https://www.telegraaf.nl/financieel/patienten-van-zilveren-kruis-fbto-en-andere-achmea-merken-moeten-uitwijken-naar-andere-ziekenhuizen-zorgbudget-is-op/164775536.html",
             "publishedDate": "19/11/2026 15:54",
-            "source": "ad.nl, centraalplus.nl, gooieneemlander.nl, linda.nl, metronieuws.nl, omroepwest.nl, telegraaf.nl",
+            "source": "ad.nl, centraalplus.nl, gooieneemlander.nl, linda.nl, metronieuws.nl, omroepwest.nl, rtlboulevard.nl, telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 13,
+            "duplicate_count": 14,
             "extra_bronnen": [
                 {
                     "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
@@ -105,6 +105,12 @@
                     "source": "centraalplus.nl",
                     "link": "https://centraalplus.nl/2026/11/19/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar/",
                     "publishedDate": "19/11/2026 10:09"
+                },
+                {
+                    "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
+                    "source": "rtlboulevard.nl",
+                    "link": "https://www.rtlboulevard.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
+                    "publishedDate": "18/11/2026 18:45"
                 },
                 {
                     "title": "Pati\u00ebntenstop bij aantal ziekenhuizen voor klanten Zilveren Kruis: verzekeraar betaalt niet genoeg",
@@ -1423,18 +1429,11 @@
             "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
             "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
             "publishedDate": "18/11/2026 20:29",
-            "source": "nieuwsblad.be, robtv.be",
+            "source": "robtv.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
-                    "publishedDate": "18/11/2026 14:29"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1540,17 +1539,6 @@
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
-            "link": "https://www.rtlboulevard.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
-            "publishedDate": "18/11/2026 18:45",
-            "source": "rtlboulevard.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1759,6 +1747,17 @@
             "source": "mooisonenbreugel.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
+            "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
+            "publishedDate": "18/11/2026 14:29",
+            "source": "nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
