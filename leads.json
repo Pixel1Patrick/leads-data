@@ -89,7 +89,7 @@
                     "publishedDate": "19/11/2026 08:36"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Veel minder mannen incontinent na prostaatoperatie vanwege tumor - NOS",
@@ -172,21 +172,34 @@
             "title": "Aandeel mannen in opleiding Verpleegkunde bij Thomas More stijgt naar hoogste niveau in tien jaar",
             "link": "https://www.rtv.be/actualiteit-en-nieuws/aandeel-mannen-opleiding-verpleegkunde-bij-thomas-more-stijgt-naar-hoogste",
             "publishedDate": "19/11/2026 07:20",
-            "source": "rtv.be",
+            "source": "gva.be, news.thomasmore.be, rtv.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
+                    "publishedDate": "19/11/2026 03:18"
+                },
+                {
+                    "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
+                    "source": "news.thomasmore.be",
+                    "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
+                    "publishedDate": "19/11/2026 00:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
             "link": "https://www.reddit.com/r/Nederland/comments/1y00uxk/klanten_zilveren_kruis_niet_welkom_bij_aantal/",
             "publishedDate": "19/11/2026 07:17",
-            "source": "ad.nl, fd.nl, reddit.com, rtl.nl, rtlboulevard.nl, threads.com",
+            "source": "ad.nl, fd.nl, gooieneemlander.nl, nieuwsinalphen.nl, noordhollandsdagblad.nl, reddit.com, rtl.nl, rtlboulevard.nl, threads.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 8,
+            "duplicate_count": 12,
             "extra_bronnen": [
                 {
                     "title": "Klanten Zilveren Kruis niet welkom bij aantal ziekenhuizen door tekort aan zorgbudget",
@@ -207,6 +220,18 @@
                     "publishedDate": "18/11/2026 18:45"
                 },
                 {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
+                    "publishedDate": "18/11/2026 20:07"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
+                    "source": "nieuwsinalphen.nl",
+                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
+                    "publishedDate": "18/11/2026 19:22"
+                },
+                {
                     "title": "Verzekerden Zilveren Kruis kunnen volgend jaar pas terecht bij Alrijne ziekenhuis",
                     "source": "fd.nl",
                     "link": "https://fd.nl/samenleving/1620004/verzekerden-zilveren-kruis-kunnen-volgend-jaar-pas-terecht-bij-alrijne-ziekenhuis",
@@ -217,6 +242,18 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/binnenland/patientenstop-bij-aantal-ziekenhuizen-voor-klanten-zilveren-kruis-verzekeraar-betaalt-niet-genoeg~ae3ecf24/",
                     "publishedDate": "18/11/2026 16:50"
+                },
+                {
+                    "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - De Gooi- en Eemlander",
+                    "source": "gooieneemlander.nl",
+                    "link": "https://www.gooieneemlander.nl/uitgelicht/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164753562.html",
+                    "publishedDate": "18/11/2026 16:47"
+                },
+                {
+                    "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - Noordhollands Dagblad",
+                    "source": "noordhollandsdagblad.nl",
+                    "link": "https://www.noordhollandsdagblad.nl/binnenland/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164752131.html",
+                    "publishedDate": "18/11/2026 16:46"
                 },
                 {
                     "title": "Pati\u00ebntenstop bij aantal ziekenhuizen voor klanten Zilveren Kruis, FBTO en Interpolis - AD",
@@ -280,7 +317,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "AWS breidde Amazon Connect Health uit met AI voor pati\u00ebnttoegang - NeoTeo",
@@ -291,24 +328,6 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
-            "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
-            "publishedDate": "19/11/2026 03:18",
-            "source": "gva.be, news.thomasmore.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
-                    "source": "news.thomasmore.be",
-                    "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
-                    "publishedDate": "19/11/2026 00:03"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -326,16 +345,22 @@
             "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - Drimble",
             "link": "https://drimble.nl/binnenlands-nieuws/108644669/amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt.html",
             "publishedDate": "19/11/2026 02:38",
-            "source": "actueel365.nl, drimble.nl, nos.nl",
+            "source": "actueel365.nl, drimble.nl, nos.nl, oogtv.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Amsterdam wil dat kabinet snelle aanpak crack met medicijnen mogelijk maakt - NOS",
                     "source": "nos.nl",
                     "link": "https://nos.nl/artikel/2640016-amsterdam-wil-dat-kabinet-snelle-aanpak-crack-met-medicijnen-mogelijk-maakt",
                     "publishedDate": "18/11/2026 15:41"
+                },
+                {
+                    "title": "Wethouder Molema vraagt Rijk om hulp bij aanpak crackverslaving | OOG Groningen",
+                    "source": "oogtv.nl",
+                    "link": "https://www.oogtv.nl/2026/11/wethouder-molema-vraagt-rijk-om-hulp-bij-aanpak-crackverslaving/",
+                    "publishedDate": "18/11/2026 17:46"
                 },
                 {
                     "title": "Amsterdam wil snelle inzet medicijnen tegen crackverslaving - Actueel365",
@@ -405,11 +430,18 @@
             "title": "Datacenters goed voor 5 procent van Nederlandse stroomverbruik - ICT/Magazine",
             "link": "https://www.ictmagazine.nl/nieuws/datacenters-goed-voor-5-procent-van-nederlandse-stroomverbruik/",
             "publishedDate": "18/11/2026 23:20",
-            "source": "ictmagazine.nl",
+            "source": "bouwenuitvoering.nl, ictmagazine.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwbouw onder druk: datacenters vragen 5 procent van elektriciteit - Bouw en Uitvoering",
+                    "source": "bouwenuitvoering.nl",
+                    "link": "https://bouwenuitvoering.nl/actueel/datacenters-meer-elektriciteit/",
+                    "publishedDate": "18/11/2026 20:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -588,22 +620,39 @@
             "title": "Nederlandse arts krijgt tuchtsanctie wegens onzorgvuldig gebruik van AI - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2647E03/EAKbe2647S33_00",
             "publishedDate": "18/11/2026 21:10",
-            "source": "artsenkrant.pmg.be, gva.be, nieuwsblad.be",
+            "source": "artsenkrant.pmg.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
+            "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
+            "publishedDate": "18/11/2026 21:00",
+            "source": "gva.be, nieuwsblad.be, robtv.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 4,
             "extra_bronnen": [
-                {
-                    "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
-                    "source": "gva.be",
-                    "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
-                    "publishedDate": "18/11/2026 21:00"
-                },
                 {
                     "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
                     "source": "nieuwsblad.be",
                     "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
                     "publishedDate": "18/11/2026 18:35"
+                },
+                {
+                    "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
+                    "source": "robtv.be",
+                    "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
+                    "publishedDate": "18/11/2026 20:29"
+                },
+                {
+                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
+                    "publishedDate": "18/11/2026 14:29"
                 }
             ],
             "belangrijkheid": 0
@@ -634,11 +683,17 @@
             "title": "Aantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk - BNR",
             "link": "https://www.bnr.nl/nieuws/internationaal/10615829/aantal-dodelijke-medicijnresistente-infecties-in-europese-ziekenhuizen-st4a:o1000,ijgt-sterk",
             "publishedDate": "18/11/2026 20:47",
-            "source": "bnr.nl, metronieuws.nl, rivm.nl",
+            "source": "bnr.nl, cbg-meb.nl, metronieuws.nl, rivm.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
+                    "source": "cbg-meb.nl",
+                    "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
+                    "publishedDate": "18/11/2026 15:30"
+                },
                 {
                     "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
                     "source": "metronieuws.nl",
@@ -655,24 +710,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
-            "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
-            "publishedDate": "18/11/2026 20:29",
-            "source": "nieuwsblad.be, robtv.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
-                    "publishedDate": "18/11/2026 14:29"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Een collega helpen, een regio sterker maken! - Zuyderland",
             "link": "https://zuyderland.nl/nieuws/een-collega-helpen-een-regio-sterker-maken/",
             "publishedDate": "18/11/2026 20:24",
@@ -680,35 +717,6 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken",
-            "publishedDate": "18/11/2026 20:07",
-            "source": "nieuwsinalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Pati\u00ebntenstop bij Alrijne treft verzekerden van vijf zorgverzekeringsmerken - Regio-Nieuws",
-                    "source": "nieuwsinalphen.nl",
-                    "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5350074/patientenstop-bij-alrijne-treft-verzekerden-van-vijf-zorgverzekeringsmerken/",
-                    "publishedDate": "18/11/2026 19:22"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nieuwbouw onder druk: datacenters vragen 5 procent van elektriciteit - Bouw en Uitvoering",
-            "link": "https://bouwenuitvoering.nl/actueel/datacenters-meer-elektriciteit/",
-            "publishedDate": "18/11/2026 20:03",
-            "source": "bouwenuitvoering.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -929,17 +937,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Wethouder Molema vraagt Rijk om hulp bij aanpak crackverslaving | OOG Groningen",
-            "link": "https://www.oogtv.nl/2026/11/wethouder-molema-vraagt-rijk-om-hulp-bij-aanpak-crackverslaving/",
-            "publishedDate": "18/11/2026 17:46",
-            "source": "oogtv.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "NPV overhandigt ruim 79.000 handtekeningen aan Tweede Kamer tegen late abortussen",
             "link": "https://cvandaag.nl/112584-npv-overhandigt-ruim-79000-handtekeningen-aan-tweede-kamer-tegen-late-abortussen",
             "publishedDate": "18/11/2026 17:39",
@@ -1032,24 +1029,6 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - De Gooi- en Eemlander",
-            "link": "https://www.gooieneemlander.nl/uitgelicht/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164753562.html",
-            "publishedDate": "18/11/2026 16:47",
-            "source": "gooieneemlander.nl, noordhollandsdagblad.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - Noordhollands Dagblad",
-                    "source": "noordhollandsdagblad.nl",
-                    "link": "https://www.noordhollandsdagblad.nl/binnenland/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164752131.html",
-                    "publishedDate": "18/11/2026 16:46"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1185,17 +1164,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
-            "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
-            "publishedDate": "18/11/2026 15:30",
-            "source": "cbg-meb.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "College ter Beoordeling van Geneesmiddelen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Portretten van 100 zorgprofessionals vormen het slot van jubileumviering Museum De Dorpsdokter",
             "link": "https://www.ed.nl/tilburg/portretten-van-100-zorgprofessionals-vormen-het-slot-van-jubileumviering-museum-de-dorpsdokter~a73cdb61/",
             "publishedDate": "18/11/2026 15:11",
@@ -1316,16 +1284,22 @@
             "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
             "link": "https://www.pvda.be/nieuws/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
             "publishedDate": "18/11/2026 14:08",
-            "source": "pvda.be",
+            "source": "pvda.be, redactie24.be",
             "category": "Overig",
             "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Minister Gennez (Vooruit) breekt belofte voor zorg en welzijn: 265,5 miljoen euro aan ... - PVDA",
                     "source": "pvda.be",
                     "link": "https://www.pvda.be/pers/minister-gennez-vooruit-breekt-belofte-voor-zorg-en-welzijn-2655-miljoen-euro-aan",
                     "publishedDate": "18/11/2026 06:19"
+                },
+                {
+                    "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
+                    "source": "redactie24.be",
+                    "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
+                    "publishedDate": "18/11/2026 12:33"
                 }
             ],
             "belangrijkheid": 0
@@ -1392,17 +1366,6 @@
             "source": "keuze.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Caroline Gennez schrapt 265,5 miljoen aan investeringen: deze sectoren worden zwaar getroffen",
-            "link": "https://www.redactie24.be/binnenland/caroline-gennez-schrapt-2655-miljoen-aan-investeringen-deze-sectoren-worden-zwaar-getroffen-195210",
-            "publishedDate": "18/11/2026 12:33",
-            "source": "redactie24.be",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1627,24 +1590,29 @@
             "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
             "link": "https://www.vgn.nl/nieuws/rivm-nederland-schiet-tekort-bevorderen-gelijke-kansen-voor-mensen-met-een-beperking",
             "publishedDate": "17/11/2026 14:45",
-            "source": "igj.nl, rivm.nl, vgn.nl",
+            "source": "rivm.nl, vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
                     "source": "rivm.nl",
                     "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
                     "publishedDate": "16/11/2026 16:09"
-                },
-                {
-                    "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
-                    "publishedDate": "17/11/2026 13:00"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
+            "publishedDate": "17/11/2026 13:00",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
