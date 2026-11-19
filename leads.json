@@ -1,6 +1,24 @@
 {
     "artikelen": [
         {
+            "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
+            "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
+            "publishedDate": "19/11/2026 03:18",
+            "source": "gva.be, news.thomasmore.be",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
+                    "source": "news.thomasmore.be",
+                    "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
+                    "publishedDate": "19/11/2026 00:03"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "AZ Mol telt 59 schoonmaakmedewerkers: \u201cZonder onze ploeg kan een ziekenhuis niet draaien\u201d",
             "link": "https://www.made-in.be/kempen/az-mol-telt-59-schoonmaakmedewerkers-zonder-onze-ploeg-kan-een-ziekenhuis-niet-draaien/",
             "publishedDate": "19/11/2026 02:44",
@@ -40,17 +58,6 @@
             "source": "dutchitchannel.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
-            "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
-            "publishedDate": "19/11/2026 00:03",
-            "source": "news.thomasmore.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -150,24 +157,11 @@
             "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
             "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
             "publishedDate": "18/11/2026 22:19",
-            "source": "metronieuws.nl, rivm.nl, trouw.nl",
+            "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
-                    "publishedDate": "18/11/2026 13:31"
-                },
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -720,13 +714,37 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over misdiagnose tussen posttraumatische stressstoornis (PTSS) en psychotische stoornissen",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/2e2f3777-3347-4fc3-b0de-1391d8767e90",
                     "publishedDate": "18/11/2026 17:18"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
+                    "publishedDate": "18/11/2026 12:30"
+                },
+                {
+                    "title": "[WOO] Antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
+                    "publishedDate": "18/11/2026 12:30"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
+                    "publishedDate": "18/11/2026 12:26"
+                },
+                {
+                    "title": "[WOO] Antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e4f6aea4-2ac2-497e-b365-46c582bbba49",
+                    "publishedDate": "18/11/2026 12:26"
                 }
             ],
             "belangrijkheid": 0
@@ -1182,6 +1200,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
+            "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
+            "publishedDate": "18/11/2026 13:31",
+            "source": "metronieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Principes - NIW",
             "link": "https://niw.nl/principes/",
             "publishedDate": "18/11/2026 13:18",
@@ -1212,42 +1241,6 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
-            "link": "https://open.overheid.nl/details/be95b93e-f48d-4cc0-b1c0-bc57c427b43a",
-            "publishedDate": "18/11/2026 12:30",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[WOO] Antwoorden op Kamervragen over 'Jeugdzorg hield kinderen vast op een geheime locatie zonder toestemming'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c60b202e-7c66-4cd8-9f25-ef6ee79f79ef",
-                    "publishedDate": "18/11/2026 12:30"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
-            "link": "https://open.overheid.nl/details/2cc80cfb-25f7-4748-b3dd-aa716e6ec5a6",
-            "publishedDate": "18/11/2026 12:26",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[WOO] Antwoorden op Kamervragen over bericht 'Veilig Thuis verbergt kinderen voor hun ouders zonder toestemming'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/e4f6aea4-2ac2-497e-b365-46c582bbba49",
-                    "publishedDate": "18/11/2026 12:26"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1477,34 +1470,16 @@
             "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
             "link": "https://www.noordhollandsdagblad.nl/regio/alkmaar/meer-dan-8000-illegale-medicijnen-aangetroffen-in-pand-alkmaar-drie-verdachten-aangehouden/164716604.html",
             "publishedDate": "18/11/2026 10:20",
-            "source": "drimble.nl, igj.nl, noordhollandsdagblad.nl, stadindex.nl, westlanders.nu",
+            "source": "noordhollandsdagblad.nl, stadindex.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Meer dan 8000 illegale medicijnen aangetroffen in pand Alkmaar, drie verdachten aangehouden",
                     "source": "stadindex.nl",
                     "link": "https://www.stadindex.nl/alkmaar/3631250-grote-partij-illegale-afslankmiddelen-in-beslag-genomen-drie-verdachten-opgepakt",
                     "publishedDate": "18/11/2026 09:19"
-                },
-                {
-                    "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
-                    "source": "westlanders.nu",
-                    "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
-                    "publishedDate": "18/11/2026 08:01"
-                },
-                {
-                    "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
-                    "publishedDate": "18/11/2026 02:08"
-                },
-                {
-                    "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
-                    "publishedDate": "17/11/2026 13:00"
                 }
             ],
             "belangrijkheid": 0
@@ -1565,6 +1540,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Tot 7 jaar voor handel in illegale medicijnen en drugs - Westlanders.nu",
+            "link": "https://westlanders.nu/nieuws/tot-7-jaar-voor-handel-in-illegale-medicijnen-en-drugs/",
+            "publishedDate": "18/11/2026 08:01",
+            "source": "westlanders.nu",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "NZa pleit voor meer standaardisatie bij inkoop jeugdzorg - InkopersCafe.nl",
             "link": "https://www.inkoperscafe.nl/nza-pleit-voor-meer-standaardisatie-bij-inkoop-jeugdzorg",
             "publishedDate": "18/11/2026 06:05",
@@ -1620,6 +1606,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Jarenlange celstraffen voor miljoenenhandel in medicijnen via Slaappillen.net | Breda",
+            "link": "https://drimble.nl/regio/noord-brabant/breda/108626095/jarenlange-celstraffen-voor-miljoenenhandel-in-medicijnen-via-slaappillennet.html",
+            "publishedDate": "18/11/2026 02:08",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "GSK krijgt FDA-goedkeuring voor longkankerbehandeling Nelkarmi - Investing.com",
             "link": "https://nl.investing.com/news/stock-market-news/gsk-krijgt-fdagoedkeuring-voor-longkankerbehandeling-nelkarmi-978229",
             "publishedDate": "18/11/2026 01:52",
@@ -1660,6 +1657,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
+            "publishedDate": "17/11/2026 13:00",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Langdurige zorg] Zorgaanbieders en zorgkantoren bereiken overeenstemming over contractering 2027",
             "link": "https://www.zn.nl/actueel/zorgaanbieders-en-zorgkantoren-bereiken-overeenstemming-over-contractering-2027/",
             "publishedDate": "17/11/2026 12:12",
@@ -1669,6 +1677,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+            "publishedDate": "17/11/2026 10:57",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
