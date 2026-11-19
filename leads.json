@@ -4,11 +4,18 @@
             "title": "Meer mannen kiezen voor opleiding verpleegkunde: \u201cHet stigma van meisjesberoep ... - GVA",
             "link": "https://www.gva.be/regio/antwerpen/kempen/turnhout/meer-mannen-kiezen-voor-opleiding-verpleegkunde-het-stigma-van-meisjesberoep-verdwijnt-stilaan/164748521.html",
             "publishedDate": "19/11/2026 03:18",
-            "source": "gva.be",
+            "source": "gva.be, news.thomasmore.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
+                    "source": "news.thomasmore.be",
+                    "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
+                    "publishedDate": "19/11/2026 00:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -92,17 +99,6 @@
             "source": "dutchitchannel.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Meer mannen kiezen voor verpleegkunde: \u00e9\u00e9n op de vijf bij Thomas More",
-            "link": "https://news.thomasmore.be/meer-mannen-kiezen-voor-verpleegkunde-een-op-de-vijf-bij-thomas-more",
-            "publishedDate": "19/11/2026 00:03",
-            "source": "news.thomasmore.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -202,24 +198,11 @@
             "title": "Aantal hiv-infecties stijgt, roep om prep-pil groeit | Trouw",
             "link": "https://www.trouw.nl/zorg/aantal-hiv-infecties-stijgt-roep-om-prep-pil-groeit~bc44d242/",
             "publishedDate": "18/11/2026 22:19",
-            "source": "metronieuws.nl, rivm.nl, trouw.nl",
+            "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
-                    "publishedDate": "18/11/2026 13:31"
-                },
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -466,11 +449,18 @@
             "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
             "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
             "publishedDate": "18/11/2026 20:29",
-            "source": "robtv.be",
+            "source": "nieuwsblad.be, robtv.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
+                    "publishedDate": "18/11/2026 14:29"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -510,18 +500,11 @@
             "title": "Succesvolle 'schrapdag' was leerzaam en verrassend voor aios | MedNet",
             "link": "https://www.mednet.nl/nieuws/succesvolle-schrapdag-was-leerzaam-en-verrassend-voor-aios-2/",
             "publishedDate": "18/11/2026 19:50",
-            "source": "medischcontact.nl, mednet.nl",
+            "source": "mednet.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Maak structureel werk van bevlogenheid",
-                    "source": "medischcontact.nl",
-                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/maak-structureel-werk-van-bevlogenheid",
-                    "publishedDate": "17/11/2026 08:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -758,7 +741,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 6,
+            "duplicate_count": 9,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over misdiagnose tussen posttraumatische stressstoornis (PTSS) en psychotische stoornissen",
@@ -789,6 +772,24 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/e4f6aea4-2ac2-497e-b365-46c582bbba49",
                     "publishedDate": "18/11/2026 12:26"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief reactie op advies Deskundigenberaad Zo\u00f6nosen vogelgriep 5 oktober 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e84ea5ed-aff9-4525-8856-dd2e79dd5359",
+                    "publishedDate": "18/11/2026 12:20"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij antwoorden op vragen over opzet en vraagstelling periodieke rapportage gehandicaptenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/cdab6ad5-0b72-4606-9762-4cd0664b547b",
+                    "publishedDate": "18/11/2026 12:17"
+                },
+                {
+                    "title": "[WOO] Antwoorden op vragen over opzet en vraagstelling periodieke rapportage gehandicaptenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/70a3657a-5e7f-42d2-b935-5e20eed10069",
+                    "publishedDate": "18/11/2026 12:17"
                 }
             ],
             "belangrijkheid": 0
@@ -874,24 +875,11 @@
             "title": "Vrouw neergeschoten docent richt zich tot Erasmusschutter: 'Je kon geen arts worden ...",
             "link": "https://www.ad.nl/rotterdam/vrouw-neergeschoten-docent-richt-zich-tot-erasmusschutter-je-kon-geen-arts-worden-daarvoor-heb-jij-bewijs-geleverd~a8e10e39/",
             "publishedDate": "18/11/2026 16:16",
-            "source": "ad.nl, nationalezorggids.nl, rtl.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "'Ik ben mijn maatje en grote liefde verloren': weduwe spreekt Erasmusschutter toe",
-                    "source": "rtl.nl",
-                    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5665788/weduwe-erasmusschutter-100-procent-verantwoordelijk",
-                    "publishedDate": "18/11/2026 15:54"
-                },
-                {
-                    "title": "Erasmusschutter reageert weer op slachtofferverklaringen: 'Jurgen Damen nauwelijks gekend'",
-                    "source": "nationalezorggids.nl",
-                    "link": "https://www.nationalezorggids.nl/zorgpersoneel/erasmusschutter-reageert-weer-op-slachtofferverklaringen-jurgen-damen-nauwelijks-gekend/",
-                    "publishedDate": "18/11/2026 14:05"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -955,6 +943,17 @@
             "publishedDate": "18/11/2026 16:03",
             "source": "welingelichtekringen.nl",
             "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "'Ik ben mijn maatje en grote liefde verloren': weduwe spreekt Erasmusschutter toe",
+            "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5665788/weduwe-erasmusschutter-100-procent-verantwoordelijk",
+            "publishedDate": "18/11/2026 15:54",
+            "source": "rtl.nl",
+            "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1082,17 +1081,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tienen/respira-wil-copd-zorg-in-tienen-en-diest-een-nieuwe-adem-geven/164715244.html",
-            "publishedDate": "18/11/2026 14:29",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "na twee jaar gaan de eerste locaties dicht omdat daar niets te verdienen valt - Tweede Kamer",
             "link": "https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z25441&did=2026D58947",
             "publishedDate": "18/11/2026 14:29",
@@ -1162,6 +1150,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Erasmusschutter reageert weer op slachtofferverklaringen: 'Jurgen Damen nauwelijks gekend'",
+            "link": "https://www.nationalezorggids.nl/zorgpersoneel/erasmusschutter-reageert-weer-op-slachtofferverklaringen-jurgen-damen-nauwelijks-gekend/",
+            "publishedDate": "18/11/2026 14:05",
+            "source": "nationalezorggids.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "De 5 goedkoopste zorgverzekeringen met fysiotherapie in 2027 - Independer Weblog",
             "link": "https://weblog.independer.nl/zorgverzekeringen/de-5-goedkoopste-zorgverzekeringen-met-fysiotherapie-in-2027/",
             "publishedDate": "18/11/2026 14:01",
@@ -1212,6 +1211,17 @@
             "source": "mandelnieuws.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "RIVM waarschuwt: antibiotica werken steeds minder goed, artsen grijpen vaker naar laatste ...",
+            "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/rivm-waarschuwt-antibiotica-werken-steeds-minder-goed-artsen-grijpen-vaker-naar-laatste-redmiddel/",
+            "publishedDate": "18/11/2026 13:31",
+            "source": "metronieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1272,17 +1282,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief reactie op advies Deskundigenberaad Zo\u00f6nosen vogelgriep 5 oktober 2026",
-            "link": "https://open.overheid.nl/details/e84ea5ed-aff9-4525-8856-dd2e79dd5359",
-            "publishedDate": "18/11/2026 12:20",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Deelnemerslijst Deskundigenberaad Zo\u00f6nosen 5 oktober 2026",
             "link": "https://open.overheid.nl/details/d3dd5c24-beb3-4285-be77-7f9745d3ee40",
             "publishedDate": "18/11/2026 12:20",
@@ -1313,24 +1312,6 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij antwoorden op vragen over opzet en vraagstelling periodieke rapportage gehandicaptenzorg",
-            "link": "https://open.overheid.nl/details/cdab6ad5-0b72-4606-9762-4cd0664b547b",
-            "publishedDate": "18/11/2026 12:17",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[WOO] Antwoorden op vragen over opzet en vraagstelling periodieke rapportage gehandicaptenzorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/70a3657a-5e7f-42d2-b935-5e20eed10069",
-                    "publishedDate": "18/11/2026 12:17"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1663,6 +1644,17 @@
             "belangrijkheid": 1
         },
         {
+            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+            "publishedDate": "17/11/2026 10:57",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/voorstel-zwarte-lijst-is-puur-paniekvoetbal",
             "publishedDate": "17/11/2026 10:00",
@@ -1687,6 +1679,17 @@
         {
             "title": "Het echte gevaar van AI is deskilling",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/het-echte-gevaar-van-ai-is-deskilling",
+            "publishedDate": "17/11/2026 08:00",
+            "source": "medischcontact.nl",
+            "category": "Overig",
+            "feed_label": "Medisch Contact",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Maak structureel werk van bevlogenheid",
+            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/maak-structureel-werk-van-bevlogenheid",
             "publishedDate": "17/11/2026 08:00",
             "source": "medischcontact.nl",
             "category": "Overig",
