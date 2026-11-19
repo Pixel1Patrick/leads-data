@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Verbinding: h\u00e9t sleutelwoord tijdens tweede editie Festival van de Bevlogenheid",
+            "link": "https://www.lad.nl/verbinding-het-sleutelwoord-tijdens-tweede-editie-festival-van-de-bevlogenheid/",
+            "publishedDate": "19/11/2026 15:33",
+            "source": "lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Anders opleiden voor wendbare zorgteams",
             "link": "https://nvz-ziekenhuizen.nl/actualiteit-en-opinie/anders-opleiden-voor-wendbare-zorgteams",
             "publishedDate": "19/11/2026 15:23",
@@ -38,7 +49,7 @@
                     "publishedDate": "19/11/2026 14:38"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Let op met declareren 2026: dit is afgesproken met zorgverzekeraars - KNOV",
@@ -88,11 +99,18 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 14:17",
-            "source": "open.overheid.nl",
+            "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+                    "publishedDate": "19/11/2026 13:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -123,42 +141,17 @@
                     "publishedDate": "19/11/2026 13:29"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Aruba waarschuwt voor antibioticaresistentie: infecties steeds moeilijker te behandelen",
             "link": "https://www.aruba.nu/nieuws/gezondheidszorg/98690/aruba-waarschuwt-voor-antibioticaresistentie-infecties-steeds-moeilijker-te-behandelen",
             "publishedDate": "19/11/2026 14:17",
-            "source": "aruba.nu, cbg-meb.nl, despecialist.eu, rivm.nl, zorgkrant.nl",
+            "source": "aruba.nu",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Gentse ziekenhuizen pleiten voor minder antibiotica bij urineweginfecties - De Specialist",
-                    "source": "despecialist.eu",
-                    "link": "https://www.despecialist.eu/nl/nieuws/gentse-ziekenhuizen-pleiten-voor-minder-antibiotica-bij-urineweginfecties.html",
-                    "publishedDate": "19/11/2026 13:26"
-                },
-                {
-                    "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
-                    "source": "zorgkrant.nl",
-                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
-                    "publishedDate": "19/11/2026 09:04"
-                },
-                {
-                    "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
-                    "source": "cbg-meb.nl",
-                    "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
-                    "publishedDate": "18/11/2026 15:30"
-                },
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -184,12 +177,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-            "publishedDate": "19/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
+            "title": "Gentse ziekenhuizen pleiten voor minder antibiotica bij urineweginfecties - De Specialist",
+            "link": "https://www.despecialist.eu/nl/nieuws/gentse-ziekenhuizen-pleiten-voor-minder-antibiotica-bij-urineweginfecties.html",
+            "publishedDate": "19/11/2026 13:26",
+            "source": "despecialist.eu",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -244,11 +237,23 @@
             "title": "Deel klanten Zilveren Kruis niet welkom bij ziekenhuis - LINDA.",
             "link": "https://www.linda.nl/nieuws/zilveren-kruis-ziekenhuizen-patientenstop~1b1fc67",
             "publishedDate": "19/11/2026 12:28",
-            "source": "ad.nl, linda.nl, metronieuws.nl, rtl.nl, rtlboulevard.nl",
+            "source": "ad.nl, centraalplus.nl, gooieneemlander.nl, linda.nl, metronieuws.nl, noordhollandsdagblad.nl, omroepwest.nl, rtl.nl, rtlboulevard.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 6,
+            "duplicate_count": 14,
             "extra_bronnen": [
+                {
+                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
+                    "source": "omroepwest.nl",
+                    "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
+                    "publishedDate": "19/11/2026 12:17"
+                },
+                {
+                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
+                    "source": "centraalplus.nl",
+                    "link": "https://centraalplus.nl/2026/11/19/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar/",
+                    "publishedDate": "19/11/2026 10:09"
+                },
                 {
                     "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
                     "source": "metronieuws.nl",
@@ -272,6 +277,18 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/binnenland/patientenstop-bij-aantal-ziekenhuizen-voor-klanten-zilveren-kruis-verzekeraar-betaalt-niet-genoeg~ae3ecf24/",
                     "publishedDate": "18/11/2026 16:50"
+                },
+                {
+                    "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - De Gooi- en Eemlander",
+                    "source": "gooieneemlander.nl",
+                    "link": "https://www.gooieneemlander.nl/uitgelicht/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164753562.html",
+                    "publishedDate": "18/11/2026 16:47"
+                },
+                {
+                    "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - Noordhollands Dagblad",
+                    "source": "noordhollandsdagblad.nl",
+                    "link": "https://www.noordhollandsdagblad.nl/binnenland/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164752131.html",
+                    "publishedDate": "18/11/2026 16:46"
                 },
                 {
                     "title": "Pati\u00ebntenstop bij aantal ziekenhuizen voor klanten Zilveren Kruis, FBTO en Interpolis - AD",
@@ -313,24 +330,6 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
-            "link": "https://www.omroepwest.nl/zorg/5174427/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar",
-            "publishedDate": "19/11/2026 12:17",
-            "source": "centraalplus.nl, omroepwest.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Centraal+",
-                    "source": "centraalplus.nl",
-                    "link": "https://centraalplus.nl/2026/11/19/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar/",
-                    "publishedDate": "19/11/2026 10:09"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -509,18 +508,11 @@
             "title": "Eindhovense zangeres Kovacs in ziekenhuis door zwangerschapscomplicaties - Nieuws.nl",
             "link": "https://nieuws.nl/entertainment/zangeres-kovacs-36-uit-eindhoven-minstens-maand-in-ziekenhuis-door-zwangerschapscomplicaties",
             "publishedDate": "19/11/2026 10:58",
-            "source": "ed.nl, nieuws.nl",
+            "source": "nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Eindhovense zangeres Kovacs (36) ligt zeker een maand in ziekenhuis door problemen ...",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/eindhoven/eindhovense-zangeres-kovacs-36-ligt-zeker-een-maand-in-ziekenhuis-door-problemen-tijdens-zwangerschap~a9f32244/",
-                    "publishedDate": "18/11/2026 22:19"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -543,7 +535,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Noordenveld scoort hoog op inzet ervaringsdeskundigen: tweede plaats in Drenthe - Dit is Roden",
@@ -695,7 +687,7 @@
                     "publishedDate": "18/11/2026 20:49"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Emiel Kwekkeboom van Restaurant Joann is Beste Praktijkopleider 2026",
@@ -814,6 +806,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bacteri\u00ebn ook in Nederland vaker ongevoelig voor antibiotica - Zorgkrant",
+            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21688-bacterien-ook-in-nederland-vaker-ongevoelig-voor-antibiotica",
+            "publishedDate": "19/11/2026 09:04",
+            "source": "zorgkrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1176,7 +1179,18 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Eindhovense zangeres Kovacs (36) ligt zeker een maand in ziekenhuis door problemen ...",
+            "link": "https://www.ed.nl/eindhoven/eindhovense-zangeres-kovacs-36-ligt-zeker-een-maand-in-ziekenhuis-door-problemen-tijdens-zwangerschap~a9f32244/",
+            "publishedDate": "18/11/2026 22:19",
+            "source": "ed.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Fysiotherapie verzekeren in 2027? Dit zijn de goedkoopste pakketten - Zorgwijzer",
@@ -1198,7 +1212,7 @@
             "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Nieuwe zorgaanbieder neemt locaties in Noordkop, West-Friesland en Beemster over",
@@ -1270,23 +1284,29 @@
             "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - GVA",
             "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164725975.html",
             "publishedDate": "18/11/2026 21:00",
-            "source": "gva.be, nieuwsblad.be, robtv.be",
+            "source": "gva.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Dankzij deze Antwerpse start-up kunnen huisartsen diabetes opsporen met AI - Nieuwsblad",
                     "source": "nieuwsblad.be",
                     "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/dankzij-deze-antwerpse-start-up-kunnen-huisartsen-diabetes-opsporen-met-ai-belangrijke-signalen-zitten-verstopt-in-oude-verslagen/164762092.html",
                     "publishedDate": "18/11/2026 18:35"
-                },
-                {
-                    "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
-                    "source": "robtv.be",
-                    "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
-                    "publishedDate": "18/11/2026 20:29"
-                },
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "30 apotheken in Diest en Tienen gaan COPD-pati\u00ebnten beter begeleiden - ROBtv",
+            "link": "https://www.robtv.be/nieuws/30-apotheken-in-diest-en-tienen-gaan-copd-patienten-beter-begeleiden-belangrijk-om-medicatie-goed-op-te-volgen-215915",
+            "publishedDate": "18/11/2026 20:29",
+            "source": "nieuwsblad.be, robtv.be",
+            "category": "Overig",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 2,
+            "extra_bronnen": [
                 {
                     "title": "Respira! wil COPD-zorg in Tienen en Diest een nieuwe adem geven - Nieuwsblad",
                     "source": "nieuwsblad.be",
@@ -1524,24 +1544,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - De Gooi- en Eemlander",
-            "link": "https://www.gooieneemlander.nl/uitgelicht/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164753562.html",
-            "publishedDate": "18/11/2026 16:47",
-            "source": "gooieneemlander.nl, noordhollandsdagblad.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Ziekenhuizen nemen deel klanten Zilveren Kruis tijdelijk niet op - Noordhollands Dagblad",
-                    "source": "noordhollandsdagblad.nl",
-                    "link": "https://www.noordhollandsdagblad.nl/binnenland/ziekenhuizen-nemen-deel-klanten-zilveren-kruis-tijdelijk-niet-op/164752131.html",
-                    "publishedDate": "18/11/2026 16:46"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zes Limburgse bedrijven failliet, onder meer beachclub, zorggroep en reparatiebedrijf",
             "link": "https://www.faillissementsdossier.nl/nieuws/34096/zes-limburgse-bedrijven-failliet-onder-meer-beachclub-zorggroep-en-reparatiebedrijf",
             "publishedDate": "18/11/2026 16:31",
@@ -1592,6 +1594,17 @@
             "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
+            "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
+            "publishedDate": "18/11/2026 15:30",
+            "source": "cbg-meb.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "College ter Beoordeling van Geneesmiddelen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1833,6 +1846,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+            "publishedDate": "17/11/2026 10:57",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
