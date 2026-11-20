@@ -135,25 +135,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief Verslag Schriftelijk Overleg inzake Inbreng Reactie motie Maeijer over Voxzogo Kamerstuk 29 689 nr 1357",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/e8d0d987-5485-43d8-aecd-1920baedc719",
                     "publishedDate": "20/11/2026 14:31"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Motie Coenradie in relatie tot externe inhuur VWS",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c5e76fb0-bd02-41a1-bde5-c9c28b16d078",
-                    "publishedDate": "20/11/2026 14:25"
-                },
-                {
-                    "title": "Kamerbrief over Motie Coenradie in relatie tot externe inhuur VWS",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/546686e6-4091-493a-8578-12c4cc18047c",
-                    "publishedDate": "20/11/2026 14:25"
                 }
             ],
             "belangrijkheid": 0
@@ -167,6 +155,24 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Motie Coenradie in relatie tot externe inhuur VWS",
+            "link": "https://open.overheid.nl/details/c5e76fb0-bd02-41a1-bde5-c9c28b16d078",
+            "publishedDate": "20/11/2026 14:25",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Motie Coenradie in relatie tot externe inhuur VWS",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/546686e6-4091-493a-8578-12c4cc18047c",
+                    "publishedDate": "20/11/2026 14:25"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -301,11 +307,18 @@
             "title": "Jeugdstem: kinderen in jeugdzorg kennen hun rechten niet altijd - Advocatie",
             "link": "https://www.advocatie.nl/nieuws/jeugdstem-kinderen-in-jeugdzorg-kennen-hun-rechten-niet-altijd/",
             "publishedDate": "20/11/2026 12:38",
-            "source": "advocatie.nl",
+            "source": "advocatie.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jeugdstem: Kinderen hebben recht om gehoord te worden maar kennen hun rechten niet altijd",
+                    "source": "persportaal.anp.nl",
+                    "link": "https://persportaal.anp.nl/artikel/7a3d9ba8-b2a6-494f-affb-38dfc3b9444f/jeugdstem-kinderen-hebben-recht-om-gehoord-te-worden-maar-kennen-hun-rechten-niet-altijd",
+                    "publishedDate": "20/11/2026 10:35"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -485,17 +498,6 @@
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jeugdstem: Kinderen hebben recht om gehoord te worden maar kennen hun rechten niet altijd",
-            "link": "https://persportaal.anp.nl/artikel/7a3d9ba8-b2a6-494f-affb-38dfc3b9444f/jeugdstem-kinderen-hebben-recht-om-gehoord-te-worden-maar-kennen-hun-rechten-niet-altijd",
-            "publishedDate": "20/11/2026 10:35",
-            "source": "persportaal.anp.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1047,7 +1049,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Niet scrollen maar hollen: hoe zorgen we ervoor dat kinderen meer bewegen? -",
