@@ -196,7 +196,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Verslag van een schriftelijk overleg over reactie op verzoek commissie om een stand-van zaken brief over Villa ExpertCare",
@@ -214,7 +214,7 @@
                     "publishedDate": "20/11/2026 09:46"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Najaarsrapportage: Haarlemmermeer verwacht tekort van 9,4 miljoen euro in 2026 - AD",
@@ -326,10 +326,10 @@
             "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
             "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
             "publishedDate": "20/11/2026 05:09",
-            "source": "ad.nl, bndestem.nl, centraalplus.nl, gelderlander.nl, metronieuws.nl, omroepwest.nl, pzc.nl, telegraaf.nl, tubantia.nl, verzekeringsnieuws.nl",
+            "source": "ad.nl, centraalplus.nl, gelderlander.nl, metronieuws.nl, omroepwest.nl, telegraaf.nl, verzekeringsnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 12,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten' | De Gelderlander.nl",
@@ -342,30 +342,6 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/economie/boosheid-over-patientenstops-schuif-met-budgetten-en-niet-met-consumenten~a14a75b3/",
                     "publishedDate": "20/11/2026 05:03"
-                },
-                {
-                    "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten - PZC",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/gezond/pancreaskanker-is-een-van-de-moeilijkst-te-behandelen-kankersoorten-symptomen-zijn-lastig-te-herkennen~a6243f28/",
-                    "publishedDate": "20/11/2026 00:02"
-                },
-                {
-                    "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/gezond/pancreaskanker-is-een-van-de-moeilijkst-te-behandelen-kankersoorten-symptomen-zijn-lastig-te-herkennen~a6243f28/",
-                    "publishedDate": "19/11/2026 23:46"
-                },
-                {
-                    "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten - BN DeStem",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/gezond/pancreaskanker-is-een-van-de-moeilijkst-te-behandelen-kankersoorten-symptomen-zijn-lastig-te-herkennen~a6243f28/",
-                    "publishedDate": "19/11/2026 20:47"
-                },
-                {
-                    "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten - Tubantia",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/gezond/pancreaskanker-is-een-van-de-moeilijkst-te-behandelen-kankersoorten-symptomen-zijn-lastig-te-herkennen~a6243f28/",
-                    "publishedDate": "19/11/2026 19:35"
                 },
                 {
                     "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
@@ -591,6 +567,36 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten - PZC",
+            "link": "https://www.pzc.nl/gezond/pancreaskanker-is-een-van-de-moeilijkst-te-behandelen-kankersoorten-symptomen-zijn-lastig-te-herkennen~a6243f28/",
+            "publishedDate": "20/11/2026 00:02",
+            "source": "ad.nl, bndestem.nl, pzc.nl, tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/gezond/pancreaskanker-is-een-van-de-moeilijkst-te-behandelen-kankersoorten-symptomen-zijn-lastig-te-herkennen~a6243f28/",
+                    "publishedDate": "19/11/2026 23:46"
+                },
+                {
+                    "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten - BN DeStem",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/gezond/pancreaskanker-is-een-van-de-moeilijkst-te-behandelen-kankersoorten-symptomen-zijn-lastig-te-herkennen~a6243f28/",
+                    "publishedDate": "19/11/2026 20:47"
+                },
+                {
+                    "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten - Tubantia",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/gezond/pancreaskanker-is-een-van-de-moeilijkst-te-behandelen-kankersoorten-symptomen-zijn-lastig-te-herkennen~a6243f28/",
+                    "publishedDate": "19/11/2026 19:35"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Leuvens Solidariteitscomit\u00e9 met Cuba roept met meer dan 1.000 handtekeningen ...",
             "link": "https://www.dewereldmorgen.be/artikel/2026/11/19/leuvens-solidariteitscomite-met-cuba-roept-met-meer-dan-1000-handtekeningen-gemeenteraad-op-voor",
             "publishedDate": "19/11/2026 23:40",
@@ -727,7 +733,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "SBC Medical Group meldt cybersecurity-incidenten in Japan - Business Wire",
@@ -1779,7 +1785,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
