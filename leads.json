@@ -62,7 +62,7 @@
             "source": "nhnieuws.nl, nos.nl, rtl.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Jason Bhugwandass (28) overleden, boegbeeld van strijd tegen misstanden in jeugdzorg",
@@ -318,72 +318,36 @@
             "title": "15 jaar cel en tbs voor man die vriendin 'op beestachtige wijze' doodschopte in Vlijmen",
             "link": "https://nos.nl/artikel/2640311-15-jaar-cel-en-tbs-voor-man-die-vriendin-op-beestachtige-wijze-doodschopte-in-vlijmen",
             "publishedDate": "20/11/2026 17:28",
-            "source": "nos.nl",
+            "source": "nos.nl, omroepbrabant.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Rechter noemt doodslag op Jessica 'beestachtig': 15 jaar cel en tbs - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035573/rechter-noemt-doodslag-op-jessica-beestachtig-15-jaar-cel-en-tbs",
+                    "publishedDate": "20/11/2026 16:20"
+                },
+                {
+                    "title": "Coen K. stampte zijn vriendin Jessica (38) dood en krijgt 15 jaar \u00e9n tbs - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035573/coen-k-stampte-zijn-vriendin-jessica-38-dood-en-krijgt-15-jaar-en-tbs",
+                    "publishedDate": "20/11/2026 14:30"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
             "link": "https://www.bndestem.nl/economie/geen-behandeling-of-opname-door-patientenstops-consumenten-weten-niet-waar-ze-aan-toe-zijn~a14a75b3/",
             "publishedDate": "20/11/2026 17:25",
-            "source": "bndestem.nl, ditjesendatjes.nl, metronieuws.nl, nl.headtopics.com, omroepzeeland.nl, studioalphen.nl, trouw.nl, verzekeringsnieuws.nl, zoetermeersdagblad.nl",
+            "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 11,
-            "extra_bronnen": [
-                {
-                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
-                    "source": "studioalphen.nl",
-                    "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
-                    "publishedDate": "20/11/2026 16:35"
-                },
-                {
-                    "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
-                    "publishedDate": "20/11/2026 15:55"
-                },
-                {
-                    "title": "Pati\u00ebntenstop bij Zeeuwse Gronden, maar niet bij Zeeuwse ziekenhuizen - Omroep Zeeland",
-                    "source": "omroepzeeland.nl",
-                    "link": "https://www.omroepzeeland.nl/nieuws/18964047/patientenstop-bij-zeeuwse-gronden-maar-niet-bij-zeeuwse-ziekenhuizen",
-                    "publishedDate": "20/11/2026 15:14"
-                },
-                {
-                    "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
-                    "publishedDate": "20/11/2026 14:13"
-                },
-                {
-                    "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Zoetermeers Dagblad",
-                    "source": "zoetermeersdagblad.nl",
-                    "link": "https://zoetermeersdagblad.nl/Landelijk/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
-                    "publishedDate": "20/11/2026 13:54"
-                },
-                {
-                    "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Ditjes en Datjes",
-                    "source": "ditjesendatjes.nl",
-                    "link": "https://www.ditjesendatjes.nl/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
-                    "publishedDate": "20/11/2026 13:04"
-                },
-                {
-                    "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
-                    "source": "verzekeringsnieuws.nl",
-                    "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
-                    "publishedDate": "20/11/2026 05:09"
-                },
-                {
-                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
-                    "publishedDate": "19/11/2026 22:07"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Man die zorgpersoneel terroriseerde krijgt straf opgelegd - Omroep Gelderland",
@@ -421,6 +385,24 @@
                     "source": "umcutrecht.nl",
                     "link": "https://www.umcutrecht.nl/nieuws/utrecht-vraagt-aandacht-voor-ernstige-allergische-reacties",
                     "publishedDate": "20/11/2026 15:27"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Pati\u00ebnten met psychische problemen lopen soms al vast v\u00f3\u00f3r zij op een ggz-wachtlijst komen",
+            "link": "https://www.universiteitleiden.nl/nieuws/2026/11/patienten-met-psychische-problemen-lopen-soms-al-vast-voor-zij-op-een-ggz-wachtlijst-komen",
+            "publishedDate": "20/11/2026 16:59",
+            "source": "lumc.nl, universiteitleiden.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Pati\u00ebnten met psychische problemen lopen soms al vast v\u00f3\u00f3r zij op een ggz-wachtlijst komen",
+                    "source": "lumc.nl",
+                    "link": "https://www.lumc.nl/actueel/2026/patienten-met-psychische-problemen-lopen-soms-al-vast-voor-zij-op-een-ggz-wachtlijst-komen/",
+                    "publishedDate": "20/11/2026 10:33"
                 }
             ],
             "belangrijkheid": 0
@@ -484,6 +466,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
+            "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
+            "publishedDate": "20/11/2026 16:35",
+            "source": "studioalphen.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Oudere fietser met spoed naar ziekenhuis, traumahelikopter landt - NoorderNieuws",
             "link": "https://noordernieuws.nl/2026/11/oudere-fietser-met-spoed-naar-ziekenhuis-traumahelikopter-landt/",
             "publishedDate": "20/11/2026 16:33",
@@ -519,41 +512,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Pati\u00ebnten met psychische problemen lopen soms al vast v\u00f3\u00f3r zij op een ggz-wachtlijst komen",
-            "link": "https://www.universiteitleiden.nl/nieuws/2026/11/patienten-met-psychische-problemen-lopen-soms-al-vast-voor-zij-op-een-ggz-wachtlijst-komen",
-            "publishedDate": "20/11/2026 16:25",
-            "source": "lumc.nl, universiteitleiden.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Pati\u00ebnten met psychische problemen lopen soms al vast v\u00f3\u00f3r zij op een ggz-wachtlijst komen",
-                    "source": "lumc.nl",
-                    "link": "https://www.lumc.nl/actueel/2026/patienten-met-psychische-problemen-lopen-soms-al-vast-voor-zij-op-een-ggz-wachtlijst-komen/",
-                    "publishedDate": "20/11/2026 10:33"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Bijeenkomst in West-Brabant: uitleg over pleegzorg door ervaringsdeskundige | Regio - AD",
             "link": "https://www.ad.nl/bergen-op-zoom/bijeenkomst-in-west-brabant-uitleg-over-pleegzorg-door-ervaringsdeskundige~a21574b6/",
             "publishedDate": "20/11/2026 16:21",
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Rechter noemt doodslag op Jessica 'beestachtig': 15 jaar cel en tbs - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035573/rechter-noemt-doodslag-op-jessica-beestachtig-15-jaar-cel-en-tbs",
-            "publishedDate": "20/11/2026 16:20",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -628,19 +592,43 @@
             "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat - Leeuwarder Courant",
             "link": "https://www.lc.nl/regio/friesland/terschelling/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734688.html",
             "publishedDate": "20/11/2026 15:55",
-            "source": "dvhn.nl, lc.nl",
+            "source": "despecialist.eu, dvhn.nl, lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat | Dagblad van het Noorden - DVHN",
                     "source": "dvhn.nl",
                     "link": "https://www.dvhn.nl/regio/groningen/wadden/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734691.html",
                     "publishedDate": "20/11/2026 15:54"
+                },
+                {
+                    "title": "Fit Note: Vandenbroucke kondigt invoering bij huisartsen aan - De Specialist",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/retour-au-travail-les-medecins-generalistes-disposeront-da-la-fit-note-a-partir-de-septembre.html",
+                    "publishedDate": "20/11/2026 15:09"
                 }
             ],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
+            "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
+            "publishedDate": "20/11/2026 15:55",
+            "source": "metronieuws.nl, trouw.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
+                    "publishedDate": "19/11/2026 22:07"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Goodbye Theo van Diemen | Deventer Ziekenhuis",
@@ -731,23 +719,23 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Pati\u00ebntenstop bij Zeeuwse Gronden, maar niet bij Zeeuwse ziekenhuizen - Omroep Zeeland",
+            "link": "https://www.omroepzeeland.nl/nieuws/18964047/patientenstop-bij-zeeuwse-gronden-maar-niet-bij-zeeuwse-ziekenhuizen",
+            "publishedDate": "20/11/2026 15:14",
+            "source": "omroepzeeland.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Droomhuis Dedemsvaart loopt vertraging op door terugtrekken Vechtdal Wonen",
             "link": "https://www.detoren.net/nieuws/hardenberg/115530/droomhuis-dedemsvaart-loopt-vertraging-op-door-terugtrekken-v",
             "publishedDate": "20/11/2026 15:10",
             "source": "detoren.net",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Fit Note: Vandenbroucke kondigt invoering bij huisartsen aan - De Specialist",
-            "link": "https://www.despecialist.eu/nl/nieuws/retour-au-travail-les-medecins-generalistes-disposeront-da-la-fit-note-a-partir-de-septembre.html",
-            "publishedDate": "20/11/2026 15:09",
-            "source": "despecialist.eu",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -793,17 +781,6 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Coen K. stampte zijn vriendin Jessica (38) dood en krijgt 15 jaar \u00e9n tbs - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035573/coen-k-stampte-zijn-vriendin-jessica-38-dood-en-krijgt-15-jaar-en-tbs",
-            "publishedDate": "20/11/2026 14:30",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -881,6 +858,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
+            "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
+            "publishedDate": "20/11/2026 14:13",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Warande voorlopig nog niet van Driebergse seniorenwoningen af - PropertyNL",
             "link": "https://propertynl.com/Nieuws/Warande-voorlopig-nog-niet-van-Driebergse-seniorenwoningen-af/a55b9248-3876-4190-915a-b3516c64d38b",
             "publishedDate": "20/11/2026 14:13",
@@ -922,6 +910,24 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Zoetermeers Dagblad",
+            "link": "https://zoetermeersdagblad.nl/Landelijk/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
+            "publishedDate": "20/11/2026 13:54",
+            "source": "ditjesendatjes.nl, zoetermeersdagblad.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Ditjes en Datjes",
+                    "source": "ditjesendatjes.nl",
+                    "link": "https://www.ditjesendatjes.nl/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
+                    "publishedDate": "20/11/2026 13:04"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -972,18 +978,11 @@
             "title": "Actiepagina voor Cao GGZ gelanceerd",
             "link": "https://www.lad.nl/actiepagina-voor-cao-ggz-gelanceerd/",
             "publishedDate": "20/11/2026 13:24",
-            "source": "fbz.nl, lad.nl",
+            "source": "lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Actiepagina voor Cao GGZ gelanceerd \u2014 FBZ \u2014 Vakbond voor zorgprofessionals",
-                    "source": "fbz.nl",
-                    "link": "https://www.fbz.nl/nieuws/2026/actiepagina-voor-cao-ggz-gelanceerd/",
-                    "publishedDate": "20/11/2026 12:48"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1004,6 +1003,17 @@
             "source": "helden.media",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Actiepagina voor Cao GGZ gelanceerd \u2014 FBZ \u2014 Vakbond voor zorgprofessionals",
+            "link": "https://www.fbz.nl/nieuws/2026/actiepagina-voor-cao-ggz-gelanceerd/",
+            "publishedDate": "20/11/2026 12:48",
+            "source": "fbz.nl",
+            "category": "Vakbonden",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1241,7 +1251,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgaanbieder na negatieve Bibob-toets niet automatisch geweerd - De Toren Hardenberg",
@@ -1261,6 +1271,17 @@
             "source": "aiwereld.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
+            "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
+            "publishedDate": "20/11/2026 05:09",
+            "source": "verzekeringsnieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1507,17 +1528,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Subsidie tot \u20ac 914.000 voor onderzoek euthanasie bij psychisch lijden",
-            "link": "https://www.fondswervingonline.nl/regelingen/subsidie-tot-eu-914000-voor-onderzoek-euthanasie-bij-psychisch-lijden",
-            "publishedDate": "19/11/2026 19:51",
-            "source": "fondswervingonline.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ede telt 33 aanbieders voor dagbesteding, maar is er genoeg te kiezen?",
             "link": "https://www.edestad.nl/lokaal/politiek/1329177/ede-telt-33-aanbieders-voor-dagbesteding-maar-is-er-genoeg-te",
             "publishedDate": "19/11/2026 19:16",
@@ -1705,7 +1715,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
