@@ -779,10 +779,10 @@
             "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten - PZC",
             "link": "https://www.pzc.nl/gezond/pancreaskanker-is-een-van-de-moeilijkst-te-behandelen-kankersoorten-symptomen-zijn-lastig-te-herkennen~a6243f28/",
             "publishedDate": "20/11/2026 00:02",
-            "source": "ad.nl, bndestem.nl, destadgorinchem.nl, pzc.nl, tubantia.nl",
+            "source": "ad.nl, bndestem.nl, pzc.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten - AD",
@@ -801,12 +801,6 @@
                     "source": "tubantia.nl",
                     "link": "https://www.tubantia.nl/gezond/pancreaskanker-is-een-van-de-moeilijkst-te-behandelen-kankersoorten-symptomen-zijn-lastig-te-herkennen~a6243f28/",
                     "publishedDate": "19/11/2026 19:35"
-                },
-                {
-                    "title": "Gorinchemse helpt vrouwen de strijd met eten en overgewicht te stoppen - De Stad Gorinchem",
-                    "source": "destadgorinchem.nl",
-                    "link": "https://www.destadgorinchem.nl/lokaal/zakelijk/1329115/gorinchemse-helpt-vrouwen-de-strijd-met-eten-en-overgewicht-t",
-                    "publishedDate": "19/11/2026 16:28"
                 }
             ],
             "belangrijkheid": 0
@@ -1255,6 +1249,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Gorinchemse helpt vrouwen de strijd met eten en overgewicht te stoppen - De Stad Gorinchem",
+            "link": "https://www.destadgorinchem.nl/lokaal/zakelijk/1329115/gorinchemse-helpt-vrouwen-de-strijd-met-eten-en-overgewicht-t",
+            "publishedDate": "19/11/2026 16:28",
+            "source": "destadgorinchem.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Oproep Fonds Duurzaam Materialen- en Energiebeheer 2026-2027 - Departement Zorg",
             "link": "https://www.departementzorg.be/nl/nieuws/oproep-fonds-duurzaam-materialen-en-energiebeheer-2026-2027",
             "publishedDate": "19/11/2026 16:27",
@@ -1294,19 +1299,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-            "publishedDate": "19/11/2026 16:12",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+                    "publishedDate": "19/11/2026 16:12"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1373,7 +1374,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Financi\u00eble gezondheid van gemeenten in beeld gebracht - PONT | Zorg &amp; Sociaal",
@@ -1434,11 +1435,18 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 14:17",
-            "source": "open.overheid.nl",
+            "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+                    "publishedDate": "19/11/2026 13:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1532,17 +1540,6 @@
                     "publishedDate": "19/11/2026 13:29"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-            "publishedDate": "19/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
