@@ -163,7 +163,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Veganistisch eten kan ouderen spiermassa kosten | Nieuws | De Gelderlander.nl",
@@ -456,7 +456,7 @@
                     "publishedDate": "20/11/2026 09:46"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Najaarsrapportage: Haarlemmermeer verwacht tekort van 9,4 miljoen euro in 2026 - AD",
@@ -700,16 +700,22 @@
             "title": "Meander ziet meer pati\u00ebnten met onbegrepen gedrag op SEH - Nijkerk Nieuws",
             "link": "https://nijkerk.nieuws.nl/gezondheidspagina/meander-ziet-meer-patienten-met-onbegrepen-gedrag-op-seh",
             "publishedDate": "20/11/2026 00:38",
-            "source": "drimble.nl, nijkerk.nieuws.nl",
+            "source": "drimble.nl, nijkerk.nieuws.nl, nijkerkerveen.org",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Meander ziet meer pati\u00ebnten met onbegrepen gedrag op SEH | De Vallei - Drimble",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/regio/gelderland/de-vallei/108651198/meander-ziet-meer-patienten-met-onbegrepen-gedrag-op-seh.html",
                     "publishedDate": "19/11/2026 19:49"
+                },
+                {
+                    "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
+                    "source": "nijkerkerveen.org",
+                    "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
+                    "publishedDate": "19/11/2026 16:31"
                 }
             ],
             "belangrijkheid": 0
@@ -729,18 +735,11 @@
             "title": "Man springt voor bezorgbus aan Puntenburgerlaan en wordt met taser overmeesterd",
             "link": "https://112amersfoort.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
             "publishedDate": "20/11/2026 00:20",
-            "source": "112amersfoort.nl, 112inbeeld.nl",
+            "source": "112amersfoort.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
-                    "source": "112inbeeld.nl",
-                    "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
-                    "publishedDate": "19/11/2026 19:28"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1052,6 +1051,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
+            "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
+            "publishedDate": "19/11/2026 19:28",
+            "source": "112inbeeld.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Jeugdzorg steeds duurder dan begroot, toch wil Vlaardingen de stijging afremmen - Twee",
             "link": "https://ditistwee.nl/nieuws/26704/jeugdzorg-steeds-duurder-dan-begroot-toch-wil-vlaardingen-de-stijging-afremmen",
             "publishedDate": "19/11/2026 19:17",
@@ -1256,17 +1266,6 @@
             "source": "nrc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
-            "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
-            "publishedDate": "19/11/2026 16:31",
-            "source": "nijkerkerveen.org",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
