@@ -223,18 +223,11 @@
             "title": "Fietser aangereden pal voor ziekenhuis in Tilburg, slachtoffer snel naar eerste hulp | Regio",
             "link": "https://www.bd.nl/112-nieuws-tilburg/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-slachtoffer-snel-naar-eerste-hulp~a9afd65d/",
             "publishedDate": "20/11/2026 15:45",
-            "source": "bd.nl, ed.nl",
+            "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Fietser aangereden pal voor ziekenhuis in Tilburg - Eindhovens Dagblad",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/videos/productie/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-15094001",
-                    "publishedDate": "20/11/2026 15:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -367,6 +360,17 @@
             "source": "denieuwsbode.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Fietser aangereden pal voor ziekenhuis in Tilburg - Eindhovens Dagblad",
+            "link": "https://www.ed.nl/videos/productie/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-15094001",
+            "publishedDate": "20/11/2026 15:00",
+            "source": "ed.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -895,28 +899,16 @@
             "title": "Esther K. (36) achtervolgde met messen in auto een medewerker van Jeugdzorg | Apeldoorn",
             "link": "https://drimble.nl/regio/gelderland/apeldoorn/108657382/esther-k-36-achtervolgde-met-messen-in-auto-een-medewerker-van-jeugdzorg.html",
             "publishedDate": "20/11/2026 09:59",
-            "source": "112amersfoort.nl, 112inbeeld.nl, destentor.nl, drimble.nl",
+            "source": "destentor.nl, drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Esther K. (36) achtervolgde met messen in auto een medewerker van Jeugdzorg | Regio",
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/apeldoorn/esther-k-36-achtervolgde-met-messen-in-auto-een-medewerker-van-jeugdzorg~a77deeca/",
                     "publishedDate": "20/11/2026 09:58"
-                },
-                {
-                    "title": "Man springt voor bezorgbus aan Puntenburgerlaan en wordt met taser overmeesterd",
-                    "source": "112amersfoort.nl",
-                    "link": "https://112amersfoort.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
-                    "publishedDate": "20/11/2026 00:20"
-                },
-                {
-                    "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
-                    "source": "112inbeeld.nl",
-                    "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
-                    "publishedDate": "19/11/2026 19:28"
                 }
             ],
             "belangrijkheid": 0
@@ -1100,6 +1092,17 @@
             "source": "icthealth.nl",
             "category": "Overig",
             "feed_label": "Alert eerstelijnszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Man springt voor bezorgbus aan Puntenburgerlaan en wordt met taser overmeesterd",
+            "link": "https://112amersfoort.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
+            "publishedDate": "20/11/2026 00:20",
+            "source": "112amersfoort.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1301,6 +1304,17 @@
             "source": "fondswervingonline.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
+            "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
+            "publishedDate": "19/11/2026 19:28",
+            "source": "112inbeeld.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
