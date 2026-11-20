@@ -22,10 +22,10 @@
             "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
             "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
             "publishedDate": "20/11/2026 16:35",
-            "source": "huisartsvandaag.nl, metronieuws.nl, studioalphen.nl, trouw.nl, verzekeringsnieuws.nl",
+            "source": "huisartsvandaag.nl, metronieuws.nl, studioalphen.nl, trouw.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 7,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
@@ -40,12 +40,6 @@
                     "publishedDate": "20/11/2026 12:15"
                 },
                 {
-                    "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
-                    "source": "verzekeringsnieuws.nl",
-                    "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
-                    "publishedDate": "20/11/2026 05:09"
-                },
-                {
                     "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
                     "source": "metronieuws.nl",
                     "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
@@ -58,30 +52,22 @@
             "title": "Oudere fietser met spoed naar ziekenhuis, traumahelikopter landt - NoorderNieuws",
             "link": "https://noordernieuws.nl/2026/11/oudere-fietser-met-spoed-naar-ziekenhuis-traumahelikopter-landt/",
             "publishedDate": "20/11/2026 16:33",
-            "source": "bd.nl, ed.nl, noordernieuws.nl, omroepbrabant.nl",
+            "source": "noordernieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Fietser aangereden vlak bij spoedeisende hulp ziekenhuis - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035588/fietser-aangereden-vlak-bij-spoedeisende-hulp-ziekenhuis",
-                    "publishedDate": "20/11/2026 16:32"
-                },
-                {
-                    "title": "Fietser aangereden pal voor ziekenhuis in Tilburg, slachtoffer snel naar eerste hulp | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/112-nieuws-tilburg/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-slachtoffer-snel-naar-eerste-hulp~a9afd65d/",
-                    "publishedDate": "20/11/2026 15:45"
-                },
-                {
-                    "title": "Fietser aangereden pal voor ziekenhuis in Tilburg - Eindhovens Dagblad",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/videos/productie/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-15094001",
-                    "publishedDate": "20/11/2026 15:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Fietser aangereden vlak bij spoedeisende hulp ziekenhuis - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035588/fietser-aangereden-vlak-bij-spoedeisende-hulp-ziekenhuis",
+            "publishedDate": "20/11/2026 16:32",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -203,6 +189,17 @@
             "publishedDate": "20/11/2026 15:50",
             "source": "ad.nl",
             "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Fietser aangereden pal voor ziekenhuis in Tilburg, slachtoffer snel naar eerste hulp | Regio",
+            "link": "https://www.bd.nl/112-nieuws-tilburg/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-slachtoffer-snel-naar-eerste-hulp~a9afd65d/",
+            "publishedDate": "20/11/2026 15:45",
+            "source": "bd.nl",
+            "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -338,6 +335,17 @@
             "source": "denieuwsbode.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Fietser aangereden pal voor ziekenhuis in Tilburg - Eindhovens Dagblad",
+            "link": "https://www.ed.nl/videos/productie/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-15094001",
+            "publishedDate": "20/11/2026 15:00",
+            "source": "ed.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -998,6 +1006,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
+            "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
+            "publishedDate": "20/11/2026 05:09",
+            "source": "verzekeringsnieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Digiteam van De Zorgcirkel helpt ouderen langer zelfstandig thuis te wonen - Nieuw-Volendam",
             "link": "https://www.nieuw-volendam.nl/digiteam-van-de-zorgcirkel-helpt-ouderen-langer-zelfstandig-thuis-te-wonen/",
             "publishedDate": "20/11/2026 05:01",
@@ -1542,11 +1561,18 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 14:17",
-            "source": "open.overheid.nl",
+            "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+                    "publishedDate": "19/11/2026 13:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1583,17 +1609,6 @@
                     "publishedDate": "19/11/2026 13:29"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-            "publishedDate": "19/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
