@@ -336,7 +336,7 @@
                     "publishedDate": "20/11/2026 14:30"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
@@ -364,11 +364,36 @@
             "title": "Huisartsen worden verplicht om bij het ziektebriefje een Fit Note te geven: wat je nog w\u00e9l kan",
             "link": "https://p-magazine.com/nl/articles/huisartsen-worden-verplicht-om-bij-het-ziektebriefje-een-fit-note-te-geven-wat-je-nog-wel-kan",
             "publishedDate": "20/11/2026 17:04",
-            "source": "p-magazine.com",
+            "source": "artsenkrant.pmg.be, despecialist.eu, gva.be, p-magazine.com, tijd.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "'Fit note' komt eraan voor langdurig zieken: wat verandert er voor jou, je arts en je baas?",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/economie/fit-note-komt-eraan-voor-langdurig-zieken-wat-verandert-er-voor-jou-je-arts-en-je-baas/164870311.html",
+                    "publishedDate": "20/11/2026 16:36"
+                },
+                {
+                    "title": "Huisartsen krijgen vanaf september 2027 Fit Note ter beschikking - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2647S53_00",
+                    "publishedDate": "20/11/2026 16:19"
+                },
+                {
+                    "title": "Attest voor ziekenfonds krijgt extra vakjes: huisarts kan fitnote voorschrijven | De Tijd",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/politiek-economie/belgie/algemeen/attest-voor-ziekenfonds-krijgt-extra-vakjes-huisarts-kan-fitnote-voorschrijven/10706349.html",
+                    "publishedDate": "20/11/2026 15:40"
+                },
+                {
+                    "title": "Fit Note: Vandenbroucke kondigt invoering bij huisartsen aan - De Specialist",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/retour-au-travail-les-medecins-generalistes-disposeront-da-la-fit-note-a-partir-de-septembre.html",
+                    "publishedDate": "20/11/2026 15:09"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -455,26 +480,28 @@
             "belangrijkheid": 0
         },
         {
-            "title": "'Fit note' komt eraan voor langdurig zieken: wat verandert er voor jou, je arts en je baas?",
-            "link": "https://www.gva.be/economie/fit-note-komt-eraan-voor-langdurig-zieken-wat-verandert-er-voor-jou-je-arts-en-je-baas/164870311.html",
-            "publishedDate": "20/11/2026 16:36",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
             "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
             "publishedDate": "20/11/2026 16:35",
-            "source": "studioalphen.nl",
+            "source": "metronieuws.nl, studioalphen.nl, trouw.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
+                    "publishedDate": "20/11/2026 15:55"
+                },
+                {
+                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
+                    "publishedDate": "19/11/2026 22:07"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Oudere fietser met spoed naar ziekenhuis, traumahelikopter landt - NoorderNieuws",
@@ -518,17 +545,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Huisartsen krijgen vanaf september 2027 Fit Note ter beschikking - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2647S53_00",
-            "publishedDate": "20/11/2026 16:19",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -592,43 +608,19 @@
             "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat - Leeuwarder Courant",
             "link": "https://www.lc.nl/regio/friesland/terschelling/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734688.html",
             "publishedDate": "20/11/2026 15:55",
-            "source": "despecialist.eu, dvhn.nl, lc.nl",
+            "source": "dvhn.nl, lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat | Dagblad van het Noorden - DVHN",
                     "source": "dvhn.nl",
                     "link": "https://www.dvhn.nl/regio/groningen/wadden/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734691.html",
                     "publishedDate": "20/11/2026 15:54"
-                },
-                {
-                    "title": "Fit Note: Vandenbroucke kondigt invoering bij huisartsen aan - De Specialist",
-                    "source": "despecialist.eu",
-                    "link": "https://www.despecialist.eu/nl/nieuws/retour-au-travail-les-medecins-generalistes-disposeront-da-la-fit-note-a-partir-de-septembre.html",
-                    "publishedDate": "20/11/2026 15:09"
                 }
             ],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
-            "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
-            "publishedDate": "20/11/2026 15:55",
-            "source": "metronieuws.nl, trouw.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
-                    "publishedDate": "19/11/2026 22:07"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Goodbye Theo van Diemen | Deventer Ziekenhuis",
@@ -659,17 +651,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Attest voor ziekenfonds krijgt extra vakjes: huisarts kan fitnote voorschrijven | De Tijd",
-            "link": "https://www.tijd.be/politiek-economie/belgie/algemeen/attest-voor-ziekenfonds-krijgt-extra-vakjes-huisarts-kan-fitnote-voorschrijven/10706349.html",
-            "publishedDate": "20/11/2026 15:40",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -978,11 +959,18 @@
             "title": "Actiepagina voor Cao GGZ gelanceerd",
             "link": "https://www.lad.nl/actiepagina-voor-cao-ggz-gelanceerd/",
             "publishedDate": "20/11/2026 13:24",
-            "source": "lad.nl",
+            "source": "fbz.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Actiepagina voor Cao GGZ gelanceerd \u2014 FBZ \u2014 Vakbond voor zorgprofessionals",
+                    "source": "fbz.nl",
+                    "link": "https://www.fbz.nl/nieuws/2026/actiepagina-voor-cao-ggz-gelanceerd/",
+                    "publishedDate": "20/11/2026 12:48"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -994,7 +982,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Bas van de Goor loopt ruim 100 kilometer voor diabetes: 'Wil voor anderen hetzelfde ...",
@@ -1003,17 +991,6 @@
             "source": "helden.media",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Actiepagina voor Cao GGZ gelanceerd \u2014 FBZ \u2014 Vakbond voor zorgprofessionals",
-            "link": "https://www.fbz.nl/nieuws/2026/actiepagina-voor-cao-ggz-gelanceerd/",
-            "publishedDate": "20/11/2026 12:48",
-            "source": "fbz.nl",
-            "category": "Vakbonden",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1715,7 +1692,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
