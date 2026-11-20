@@ -196,7 +196,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Verslag van een schriftelijk overleg over reactie op verzoek commissie om een stand-van zaken brief over Villa ExpertCare",
@@ -214,7 +214,7 @@
                     "publishedDate": "20/11/2026 09:46"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Najaarsrapportage: Haarlemmermeer verwacht tekort van 9,4 miljoen euro in 2026 - AD",
@@ -1408,11 +1408,36 @@
             "title": "Bewoners Kraaijbeek willen nu doorpakken: 'Gemeenteraad moet college op het matje roepen'",
             "link": "https://www.nieuwsbladdekaap.nl/lokaal/politiek/1329256/bewoners-kraaijbeek-willen-nu-doorpakken-gemeenteraad-moet-co",
             "publishedDate": "19/11/2026 14:00",
-            "source": "nieuwsbladdekaap.nl",
+            "source": "nieuwsbladdekaap.nl, nl.headtopics.com, rtvutrecht.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Verkoop van wooncomplex Kraaijbeek in Driebergen wordt lastiger, rechter fluit eigenaar terug",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/verkoop-van-wooncomplex-kraaijbeek-in-driebergen-wordt-89994199",
+                    "publishedDate": "19/11/2026 12:03"
+                },
+                {
+                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
+                    "source": "rtvutrecht.nl",
+                    "link": "https://www.rtvutrecht.nl/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
+                    "publishedDate": "19/11/2026 11:09"
+                },
+                {
+                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
+                    "source": "rtvutrecht.nl",
+                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
+                    "publishedDate": "19/11/2026 11:07"
+                },
+                {
+                    "title": "Oudere bewoners Kraaijbeek halen hoop uit uitspraak van rechter - RTV Utrecht",
+                    "source": "rtvutrecht.nl",
+                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/oudere-bewoners-kraaijbeek-halen-hoop-uit-uitspraak-van-rechter-geef-kraaijbeek-terug",
+                    "publishedDate": "19/11/2026 09:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1537,36 +1562,6 @@
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Verkoop van wooncomplex Kraaijbeek in Driebergen wordt lastiger, rechter fluit eigenaar terug",
-            "link": "https://nl.headtopics.com/news/verkoop-van-wooncomplex-kraaijbeek-in-driebergen-wordt-89994199",
-            "publishedDate": "19/11/2026 12:03",
-            "source": "nl.headtopics.com, rtvutrecht.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
-                    "publishedDate": "19/11/2026 11:09"
-                },
-                {
-                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
-                    "publishedDate": "19/11/2026 11:07"
-                },
-                {
-                    "title": "Oudere bewoners Kraaijbeek halen hoop uit uitspraak van rechter - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/oudere-bewoners-kraaijbeek-halen-hoop-uit-uitspraak-van-rechter-geef-kraaijbeek-terug",
-                    "publishedDate": "19/11/2026 09:42"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
