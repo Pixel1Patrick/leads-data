@@ -7,13 +7,54 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over motie over Voxzogo ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/e8d0d987-5485-43d8-aecd-1920baedc719",
                     "publishedDate": "20/11/2026 16:41"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/a16e7867-7ab4-4205-a6cc-4a1fe2e61896",
+                    "publishedDate": "20/11/2026 10:07"
+                },
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/81c56b29-de29-4faf-b87b-1294a519cb85",
+                    "publishedDate": "19/11/2026 17:05"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
+            "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
+            "publishedDate": "20/11/2026 16:35",
+            "source": "studioalphen.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Oudere fietser met spoed naar ziekenhuis, traumahelikopter landt - NoorderNieuws",
+            "link": "https://noordernieuws.nl/2026/11/oudere-fietser-met-spoed-naar-ziekenhuis-traumahelikopter-landt/",
+            "publishedDate": "20/11/2026 16:33",
+            "source": "noordernieuws.nl, omroepbrabant.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Fietser aangereden vlak bij spoedeisende hulp ziekenhuis - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035588/fietser-aangereden-vlak-bij-spoedeisende-hulp-ziekenhuis",
+                    "publishedDate": "20/11/2026 16:32"
                 }
             ],
             "belangrijkheid": 0
@@ -22,9 +63,33 @@
             "title": "Rechter noemt doodslag op Jessica 'beestachtig': 15 jaar cel en tbs - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035573/rechter-noemt-doodslag-op-jessica-beestachtig-15-jaar-cel-en-tbs",
             "publishedDate": "20/11/2026 16:20",
-            "source": "omroepbrabant.nl",
+            "source": "bd.nl, ed.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Fietser aangereden pal voor ziekenhuis in Tilburg, slachtoffer snel naar eerste hulp | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/112-nieuws-tilburg/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-slachtoffer-snel-naar-eerste-hulp~a9afd65d/",
+                    "publishedDate": "20/11/2026 15:45"
+                },
+                {
+                    "title": "Fietser aangereden pal voor ziekenhuis in Tilburg - Eindhovens Dagblad",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/videos/productie/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-15094001",
+                    "publishedDate": "20/11/2026 15:00"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Staking bussen en wegwerkzaamheden op maandag 23 en dinsdag 24 november",
+            "link": "https://www.catharinaziekenhuis.nl/staking-bussen-en-wegwerkzaamheden-op-maandag-23-en-dinsdag-24-november-houd-rekening-met-extra-reistijd/",
+            "publishedDate": "20/11/2026 16:10",
+            "source": "catharinaziekenhuis.nl",
+            "category": "Zorgaanbieders",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -44,11 +109,48 @@
             "title": "Sandra Molenaar: we moeten voorkomen dat pati\u00ebnten zonder hun medicijnen komen te zitten",
             "link": "https://www.telegraaf.nl/financieel/sandra-molenaar-we-moeten-voorkomen-dat-patienten-zonder-hun-medicijnen-komen-te-zitten/164842392.html",
             "publishedDate": "20/11/2026 16:07",
-            "source": "telegraaf.nl",
+            "source": "bnr.nl, destadgorinchem.nl, foodinspiration.com, medischdossier.org, nl.marketscreener.com, pw.nl, telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 7,
+            "extra_bronnen": [
+                {
+                    "title": "Leefstijlapotheker biedt gebruikers van afslankmedicatie begeleiding op maat",
+                    "source": "pw.nl",
+                    "link": "https://www.pw.nl/nieuws/achtergrondartikel/2026-11/leefstijlapotheker-biedt-gebruikers-van-afslankmedicatie",
+                    "publishedDate": "20/11/2026 14:00"
+                },
+                {
+                    "title": "De apotheker GLP-1 - Medisch Dossier",
+                    "source": "medischdossier.org",
+                    "link": "https://medischdossier.org/archief/de-apotheker-glp-1/",
+                    "publishedDate": "20/11/2026 13:42"
+                },
+                {
+                    "title": "GLP-1-medicijnen gekoppeld aan verbeteringen van het hart bij pati\u00ebnten met obesitas en hartfalen",
+                    "source": "nl.marketscreener.com",
+                    "link": "https://nl.marketscreener.com/beursnieuws/health-rounds-glp-1-medicijnen-gekoppeld-aan-verbeteringen-van-het-hart-bij-patienten-met-obesitas-ce785ed3d88cf326",
+                    "publishedDate": "20/11/2026 13:26"
+                },
+                {
+                    "title": "Minder trek, toch uit eten: wat betekent afslankmedicatie voor de horeca? - Food Inspiration",
+                    "source": "foodinspiration.com",
+                    "link": "https://www.foodinspiration.com/nl/minder-trek-toch-uit-eten-wat-betekent-afslankmedicatie-voor-de-horeca",
+                    "publishedDate": "20/11/2026 11:51"
+                },
+                {
+                    "title": "Gebruik 'afslankmiddelen' in bijna 1 op de 10 Britse huishoudens | BNR Nieuwsradio",
+                    "source": "bnr.nl",
+                    "link": "https://www.bnr.nl/nieuws/lifestyle/10615954/gebruik-afslankmiddelen-in-bijna-1-op-de-10-britse-huishoudens",
+                    "publishedDate": "19/11/2026 17:34"
+                },
+                {
+                    "title": "Gorinchemse helpt vrouwen de strijd met eten en overgewicht te stoppen - De Stad Gorinchem",
+                    "source": "destadgorinchem.nl",
+                    "link": "https://www.destadgorinchem.nl/lokaal/zakelijk/1329115/gorinchemse-helpt-vrouwen-de-strijd-met-eten-en-overgewicht-t",
+                    "publishedDate": "19/11/2026 16:28"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -63,12 +165,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
-            "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
-            "publishedDate": "20/11/2026 15:57",
-            "source": "studioalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
+            "title": "Astrid Holleeder heeft openhartoperatie ondergaan: 'Zal nu wat aan moeten sterken'",
+            "link": "https://www.rtl.nl/boulevard/artikel/5666186/astrid-holleeder-heeft-openhartoperatie-ondergaan",
+            "publishedDate": "20/11/2026 16:00",
+            "source": "rtl.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -77,19 +179,36 @@
             "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat - Leeuwarder Courant",
             "link": "https://www.lc.nl/regio/friesland/terschelling/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734688.html",
             "publishedDate": "20/11/2026 15:55",
-            "source": "dvhn.nl, lc.nl",
+            "source": "artsencollectief.nl, dvhn.nl, lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat | Dagblad van het Noorden - DVHN",
                     "source": "dvhn.nl",
                     "link": "https://www.dvhn.nl/regio/groningen/wadden/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734691.html",
                     "publishedDate": "20/11/2026 15:54"
+                },
+                {
+                    "title": "Oud-huisarts Michael Smulders: waarom artsen geen ernstige bijwerkingen melden",
+                    "source": "artsencollectief.nl",
+                    "link": "https://artsencollectief.nl/oud-huisarts-michael-smulders-waarom-artsen-geen-ernstige-bijwerkingen-melden/",
+                    "publishedDate": "20/11/2026 12:42"
                 }
             ],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
+            "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
+            "publishedDate": "20/11/2026 15:55",
+            "source": "trouw.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Extra aandacht voor zorg voor daklozen - Omroep Horst aan de Maas",
@@ -98,6 +217,17 @@
             "source": "omroephorstaandemaas.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "'HMC maakt zich schuldig aan discriminatie': jonge artsen kregen maandelijkse bonus van ... - AD",
+            "link": "https://www.ad.nl/den-haag/hmc-maakt-zich-schuldig-aan-discriminatie-jonge-artsen-kregen-maandelijkse-bonus-van-2000-euro-niet~a66471e5/",
+            "publishedDate": "20/11/2026 15:50",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -147,6 +277,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Wilhelmina Ziekenhuis Assen schrapt tientallen operaties wegens 'niet-hygi\u00ebnische' instrumenten",
+            "link": "https://www.dvhn.nl/regio/drenthe/assen/wilhelmina-ziekenhuis-assen-schrapt-tientallen-operaties-wegens-niet-hygienische-instrumenten/164836671.html",
+            "publishedDate": "20/11/2026 15:18",
+            "source": "dvhn.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Pati\u00ebnten nemen antwoorden van AI-chatbots steeds vaker mee naar de spreekkamer",
             "link": "https://www.l1nieuws.nl/nieuws/3274378/patienten-nemen-antwoorden-van-ai-chatbots-steeds-vaker-mee-naar-de-spreekkamer",
             "publishedDate": "20/11/2026 15:17",
@@ -161,11 +302,24 @@
             "title": "Pati\u00ebntenstop bij Zeeuwse Gronden, maar niet bij Zeeuwse ziekenhuizen - Omroep Zeeland",
             "link": "https://www.omroepzeeland.nl/nieuws/18964047/patientenstop-bij-zeeuwse-gronden-maar-niet-bij-zeeuwse-ziekenhuizen",
             "publishedDate": "20/11/2026 15:14",
-            "source": "omroepzeeland.nl",
+            "source": "nl.headtopics.com, omroepzeeland.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
+                    "publishedDate": "20/11/2026 14:13"
+                },
+                {
+                    "title": "Geen pati\u00ebntenstop bij Zeeuwse ziekenhuizen, wel bij GGZ-instelling Zeeuwse Gronden",
+                    "source": "omroepzeeland.nl",
+                    "link": "https://www.omroepzeeland.nl/nieuws/18964047/geen-patientenstop-bij-zeeuwse-ziekenhuizen-wel-bij-ggz-instelling-zeeuwse-gronden",
+                    "publishedDate": "20/11/2026 14:12"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -202,6 +356,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Astrid Holleeder heeft openhartoperatie ondergaan: 'Tijdje van de radar' | Achterklap - NU",
+            "link": "https://www.nu.nl/achterklap/6417188/astrid-holleeder-heeft-openhartoperatie-ondergaan-tijdje-van-de-radar.html",
+            "publishedDate": "20/11/2026 15:00",
+            "source": "nu.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Column door Bert Heikens, huisarts te Haren (november 2026)",
             "link": "https://www.harendekrant.nl/column/column-door-bert-heikens-huisarts-te-haren-november-2026/",
             "publishedDate": "20/11/2026 14:54",
@@ -220,6 +385,17 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Auto over de kop in Heerhugowaard, bestuurder naar ziekenhuis \u2022 Telefoons getapt en netwerk ...",
+            "link": "https://www.nhnieuws.nl/nieuws/365637/auto-over-de-kop-in-heerhugowaard-bestuurder-naar-ziekenhuis-telefoons-getapt-en-netwerk-gehackt-in-onderzoek-naar-tata-steel",
+            "publishedDate": "20/11/2026 14:31",
+            "source": "nhnieuws.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -251,17 +427,6 @@
                 }
             ],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
-            "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
-            "publishedDate": "20/11/2026 14:24",
-            "source": "trouw.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Welzijn op Recept helpt inwoners bij stress, somberheid en eenzaamheid - DVHN",
@@ -297,17 +462,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
-            "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
-            "publishedDate": "20/11/2026 14:13",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Warande voorlopig nog niet van Driebergse seniorenwoningen af - PropertyNL",
             "link": "https://propertynl.com/Nieuws/Warande-voorlopig-nog-niet-van-Driebergse-seniorenwoningen-af/a55b9248-3876-4190-915a-b3516c64d38b",
             "publishedDate": "20/11/2026 14:13",
@@ -319,12 +473,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Leefstijlapotheker biedt gebruikers van afslankmedicatie begeleiding op maat",
-            "link": "https://www.pw.nl/nieuws/achtergrondartikel/2026-11/leefstijlapotheker-biedt-gebruikers-van-afslankmedicatie",
-            "publishedDate": "20/11/2026 14:00",
-            "source": "pw.nl",
+            "title": "Vrouw (64) die met auto in Herengracht was beland is overleden - YouTube",
+            "link": "https://www.youtube.com/shorts/vdFV4L2CEFc",
+            "publishedDate": "20/11/2026 14:08",
+            "source": "youtube.com",
             "category": "Overig",
-            "feed_label": "Alert apotheker",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -341,12 +495,23 @@
             "belangrijkheid": 0
         },
         {
-            "title": "De apotheker GLP-1 - Medisch Dossier",
-            "link": "https://medischdossier.org/archief/de-apotheker-glp-1/",
-            "publishedDate": "20/11/2026 13:42",
-            "source": "medischdossier.org",
+            "title": "Ziekenhuis Cura\u00e7ao dreigt vast te lopen: nauwelijks nog bedden beschikbaar | nu.CW",
+            "link": "https://nu.cw/2026/11/20/ziekenhuis-curacao-dreigt-vast-te-lopen-nauwelijks-nog-bedden-beschikbaar/",
+            "publishedDate": "20/11/2026 13:39",
+            "source": "nu.cw",
             "category": "Overig",
-            "feed_label": "Alert apotheker",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Niet alleen Kiev onder vuur, ook Russische aanvallen op andere Oekra\u00efense steden - De Telegraaf",
+            "link": "https://www.telegraaf.nl/buitenland/live-niet-alleen-kiev-onder-vuur-ook-russische-aanvallen-op-andere-oekraense-steden-ziekenhuis-getroffen-door-drone/164831676.html",
+            "publishedDate": "20/11/2026 13:37",
+            "source": "telegraaf.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -358,17 +523,6 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "GLP-1-medicijnen gekoppeld aan verbeteringen van het hart bij pati\u00ebnten met obesitas en hartfalen",
-            "link": "https://nl.marketscreener.com/beursnieuws/health-rounds-glp-1-medicijnen-gekoppeld-aan-verbeteringen-van-het-hart-bij-patienten-met-obesitas-ce785ed3d88cf326",
-            "publishedDate": "20/11/2026 13:26",
-            "source": "nl.marketscreener.com",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -400,7 +554,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Veganistisch eten kan ouderen spiermassa kosten | Nieuws | De Gelderlander.nl",
@@ -414,25 +568,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Oud-huisarts Michael Smulders: waarom artsen geen ernstige bijwerkingen melden",
-            "link": "https://artsencollectief.nl/oud-huisarts-michael-smulders-waarom-artsen-geen-ernstige-bijwerkingen-melden/",
-            "publishedDate": "20/11/2026 12:42",
-            "source": "artsencollectief.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Jeugdstem: kinderen in jeugdzorg kennen hun rechten niet altijd - Advocatie",
             "link": "https://www.advocatie.nl/nieuws/jeugdstem-kinderen-in-jeugdzorg-kennen-hun-rechten-niet-altijd/",
             "publishedDate": "20/11/2026 12:38",
-            "source": "advocatie.nl",
+            "source": "advocatie.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jeugdstem: Kinderen hebben recht om gehoord te worden maar kennen hun rechten niet altijd",
+                    "source": "persportaal.anp.nl",
+                    "link": "https://persportaal.anp.nl/artikel/7a3d9ba8-b2a6-494f-affb-38dfc3b9444f/jeugdstem-kinderen-hebben-recht-om-gehoord-te-worden-maar-kennen-hun-rechten-niet-altijd",
+                    "publishedDate": "20/11/2026 10:35"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -520,17 +670,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Minder trek, toch uit eten: wat betekent afslankmedicatie voor de horeca? - Food Inspiration",
-            "link": "https://www.foodinspiration.com/nl/minder-trek-toch-uit-eten-wat-betekent-afslankmedicatie-voor-de-horeca",
-            "publishedDate": "20/11/2026 11:51",
-            "source": "foodinspiration.com",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Sanofi zou tientallen miljarden veil hebben voor Amerikaanse sectorgenoot Insmed ... - De Belegger",
             "link": "https://belegger.tijd.be/follow-up/parijs/sanofi-zou-tientallen-miljarden-veil-hebben-voor-amerikaanse-sectorgenoot-insmed-een-goede-zaak/10706284.html",
             "publishedDate": "20/11/2026 11:41",
@@ -610,18 +749,7 @@
             "publishedDate": "20/11/2026 10:36",
             "source": "umcutrecht.nl",
             "category": "Zorgaanbieders",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jeugdstem: Kinderen hebben recht om gehoord te worden maar kennen hun rechten niet altijd",
-            "link": "https://persportaal.anp.nl/artikel/7a3d9ba8-b2a6-494f-affb-38dfc3b9444f/jeugdstem-kinderen-hebben-recht-om-gehoord-te-worden-maar-kennen-hun-rechten-niet-altijd",
-            "publishedDate": "20/11/2026 10:35",
-            "source": "persportaal.anp.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -660,24 +788,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
-            "link": "https://open.overheid.nl/details/a16e7867-7ab4-4205-a6cc-4a1fe2e61896",
-            "publishedDate": "20/11/2026 10:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/81c56b29-de29-4faf-b87b-1294a519cb85",
-                    "publishedDate": "19/11/2026 17:05"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Huisartsen en sociaal domein vinden elkaar - Gemeente Meerssen",
             "link": "https://www.meerssen.nl/nieuws/nieuwsbericht/huisartsen-en-sociaal-domein-vinden-elkaar",
             "publishedDate": "20/11/2026 10:06",
@@ -689,24 +799,13 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Grootschalige Russische raket- en droneaanval op Oekra\u00efne, minstens acht doden - NOS",
-            "link": "https://nos.nl/artikel/2640241-grootschalige-russische-raket-en-droneaanval-op-oekraine-minstens-acht-doden",
-            "publishedDate": "20/11/2026 10:06",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "MedZO in de praktijk: Thuismonitoring draait al en wat moet je weten om ermee door te gaan?",
             "link": "https://nvz-ziekenhuizen.nl/actualiteit-en-opinie/medzo-de-praktijk-thuismonitoring-draait-al-en-wat-moet-je-weten-om-ermee",
             "publishedDate": "20/11/2026 10:01",
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -714,16 +813,22 @@
             "title": "Esther K. (36) achtervolgde met messen in auto een medewerker van Jeugdzorg | Apeldoorn",
             "link": "https://drimble.nl/regio/gelderland/apeldoorn/108657382/esther-k-36-achtervolgde-met-messen-in-auto-een-medewerker-van-jeugdzorg.html",
             "publishedDate": "20/11/2026 09:59",
-            "source": "destentor.nl, drimble.nl",
+            "source": "ad.nl, destentor.nl, drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Esther K. (36) achtervolgde met messen in auto een medewerker van Jeugdzorg | Regio",
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/apeldoorn/esther-k-36-achtervolgde-met-messen-in-auto-een-medewerker-van-jeugdzorg~a77deeca/",
                     "publishedDate": "20/11/2026 09:58"
+                },
+                {
+                    "title": "K. zwijgt over seksuele band met pati\u00ebnt in zorginstelling: 'Heb ik spijt? Nee, maar sommige ...",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/zeist/k-zwijgt-over-seksuele-band-met-patient-in-zorginstelling-heb-ik-spijt-nee-maar-sommige-dingen-moet-je-afhouden~a454de27/",
+                    "publishedDate": "20/11/2026 00:45"
                 }
             ],
             "belangrijkheid": 0
@@ -791,28 +896,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Leidse vrouw (64) overleden nadat auto te water raakt in Amsterdam - Sleutelstad",
-            "link": "https://sleutelstad.nl/2026/11/20/leidse-vrouw-64-overleden-nadat-auto-te-water-raakt-in-amsterdam/",
-            "publishedDate": "20/11/2026 09:12",
-            "source": "sleutelstad.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Op de vruchtbaarheid lijkt erfelijk hoog cholesterol weinig invloed te hebben - Zorgkrant",
-            "link": "https://www.zorgkrant.nl/ziekenhuis/21693-op-de-vruchtbaarheid-lijkt-erfelijk-hoog-cholesterol-weinig-invloed-te-hebben",
-            "publishedDate": "20/11/2026 09:10",
-            "source": "zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Artsen in Portugal ontvangen vergoedingen van meer dan 30.000 euro",
             "link": "https://www.theportugalnews.com/nl/nieuws/2026-11-20/artsen-in-portugal-ontvangen-vergoedingen-van-meer-dan-30000-euro/1119108",
             "publishedDate": "20/11/2026 09:01",
@@ -835,17 +918,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Vrouw (64) overleden na auto te water Herengracht - Politie.nl",
-            "link": "https://www.politie.nl/nieuws/2026/november/20/05-vrouw-64-overleden-na-auto-te-water-herengracht.html",
-            "publishedDate": "20/11/2026 08:54",
-            "source": "politie.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ziekenhuizen - Google Maps",
             "link": "https://www.google.com/maps/search/Ziekenhuizen/@39.48639,-0.325833,11z/?hl=nl",
             "publishedDate": "20/11/2026 08:49",
@@ -863,28 +935,6 @@
             "source": "detoren.net",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Max Verstappen verrast F1-fan die seizoenkaart wint - Brabants Dagblad",
-            "link": "https://www.bd.nl/video/productie/max-verstappen-verrast-f1-fan-die-seizoenkaart-wint-15087687",
-            "publishedDate": "20/11/2026 07:38",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Sterilisatie zonder narcose: vrouwen herstellen net zo goed en snel, minder tijd op operatiekamer",
-            "link": "https://www.catharinaziekenhuis.nl/sterilisatie-zonder-narcose-vrouwen-herstellen-net-zo-goed-en-snel-minder-tijd-op-operatiekamer/",
-            "publishedDate": "20/11/2026 07:00",
-            "source": "catharinaziekenhuis.nl",
-            "category": "Zorgaanbieders",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -945,17 +995,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "AI in het ziekenhuis: zo zorgt Inetum dat AZ Delta controle houdt over de data - Trends.be",
-            "link": "https://trends.knack.be/partners/ai-in-het-ziekenhuis-zo-zorgt-inetum-dat-az-delta-controle-houdt-over-de-data/",
-            "publishedDate": "20/11/2026 03:25",
-            "source": "trends.knack.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ruimere blik, betere zorg! Over equity als fundament van goede zorg - Domus Medica",
             "link": "https://www.domusmedica.be/vorming/agenda/ruimere-blik-betere-zorg-over-equity-als-fundament-van-goede-zorg",
             "publishedDate": "20/11/2026 01:59",
@@ -967,36 +1006,19 @@
             "belangrijkheid": 0
         },
         {
-            "title": "K. zwijgt over seksuele band met pati\u00ebnt in zorginstelling: 'Heb ik spijt? Nee, maar sommige ...",
-            "link": "https://www.ad.nl/zeist/k-zwijgt-over-seksuele-band-met-patient-in-zorginstelling-heb-ik-spijt-nee-maar-sommige-dingen-moet-je-afhouden~a454de27/",
-            "publishedDate": "20/11/2026 00:45",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Meander ziet meer pati\u00ebnten met onbegrepen gedrag op SEH - Nijkerk Nieuws",
             "link": "https://nijkerk.nieuws.nl/gezondheidspagina/meander-ziet-meer-patienten-met-onbegrepen-gedrag-op-seh",
             "publishedDate": "20/11/2026 00:38",
-            "source": "drimble.nl, nijkerk.nieuws.nl, nijkerkerveen.org",
+            "source": "drimble.nl, nijkerk.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Meander ziet meer pati\u00ebnten met onbegrepen gedrag op SEH | De Vallei - Drimble",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/regio/gelderland/de-vallei/108651198/meander-ziet-meer-patienten-met-onbegrepen-gedrag-op-seh.html",
                     "publishedDate": "19/11/2026 19:49"
-                },
-                {
-                    "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
-                    "source": "nijkerkerveen.org",
-                    "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
-                    "publishedDate": "19/11/2026 16:31"
                 }
             ],
             "belangrijkheid": 0
@@ -1016,22 +1038,18 @@
             "title": "Man springt voor bezorgbus aan Puntenburgerlaan en wordt met taser overmeesterd",
             "link": "https://112amersfoort.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
             "publishedDate": "20/11/2026 00:20",
-            "source": "112amersfoort.nl",
+            "source": "112amersfoort.nl, 112inbeeld.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "AZ Herentals opent vernieuwde geriatrische afdelingen: \u201cWe vertrekken vanuit wat mensen ...",
-            "link": "https://www.made-in.be/kempen/az-herentals-opent-vernieuwde-geriatrische-afdelingen-we-vertrekken-vanuit-wat-mensen-nog-wel-kunnen/",
-            "publishedDate": "20/11/2026 00:19",
-            "source": "made-in.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
+                    "source": "112inbeeld.nl",
+                    "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
+                    "publishedDate": "19/11/2026 19:28"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1174,34 +1192,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "De ene 'Mijn restaurant'-chef ligt in het ziekenhuis, de andere is doodziek: \u201cZe gaan me een ...",
-            "link": "https://www.nieuwsblad.be/media-en-cultuur/de-ene-mijn-restaurant-chef-ligt-in-het-ziekenhuis-de-andere-is-doodziek-ze-gaan-me-een-baxter-geven/164776248.html",
-            "publishedDate": "19/11/2026 22:02",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Er is niet veel voor nodig om mensen met geestelijke problemen zinvol bij te staan | Trouw",
             "link": "https://www.trouw.nl/columnisten/er-is-niet-veel-voor-nodig-om-mensen-met-geestelijke-problemen-zinvol-bij-te-staan~b687ace9d/",
             "publishedDate": "19/11/2026 22:02",
             "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Van mishandeling en gijzeling naar een bevalling in penitentiair ziekenhuis",
-            "link": "https://www.bd.nl/breda/van-mishandeling-en-gijzeling-naar-een-bevalling-in-penitentiair-ziekenhuis-rechter-buigt-zich-over-drama-van-oosterhoutse-vrouw~a1d9b082/",
-            "publishedDate": "19/11/2026 21:59",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1269,17 +1265,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
-            "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
-            "publishedDate": "19/11/2026 19:28",
-            "source": "112inbeeld.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Jeugdzorg steeds duurder dan begroot, toch wil Vlaardingen de stijging afremmen - Twee",
             "link": "https://ditistwee.nl/nieuws/26704/jeugdzorg-steeds-duurder-dan-begroot-toch-wil-vlaardingen-de-stijging-afremmen",
             "publishedDate": "19/11/2026 19:17",
@@ -1341,17 +1326,6 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gebruik 'afslankmiddelen' in bijna 1 op de 10 Britse huishoudens | BNR Nieuwsradio",
-            "link": "https://www.bnr.nl/nieuws/lifestyle/10615954/gebruik-afslankmiddelen-in-bijna-1-op-de-10-britse-huishoudens",
-            "publishedDate": "19/11/2026 17:34",
-            "source": "bnr.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1429,17 +1403,6 @@
             "source": "omroepsudwest.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gorinchemse helpt vrouwen de strijd met eten en overgewicht te stoppen - De Stad Gorinchem",
-            "link": "https://www.destadgorinchem.nl/lokaal/zakelijk/1329115/gorinchemse-helpt-vrouwen-de-strijd-met-eten-en-overgewicht-t",
-            "publishedDate": "19/11/2026 16:28",
-            "source": "destadgorinchem.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1605,17 +1568,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medisch Centrum West: Stevens moet werken aan een betere versie van zichzelf - KIJK",
-            "link": "https://www.kijk.nl/programmas/medisch-centrum-west/RIqlRMOAegMZMt",
-            "publishedDate": "19/11/2026 10:58",
-            "source": "kijk.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Paul Blokhuis voorgedragen als nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
             "link": "https://www.vgn.nl/nieuws/paul-blokhuis-voorgedragen-als-nieuwe-bestuursvoorzitter-vereniging-gehandicaptenzorg-nederland",
             "publishedDate": "19/11/2026 10:38",
@@ -1675,7 +1627,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
