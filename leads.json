@@ -1005,18 +1005,11 @@
             "title": "Actiepagina voor Cao GGZ gelanceerd",
             "link": "https://www.lad.nl/actiepagina-voor-cao-ggz-gelanceerd/",
             "publishedDate": "20/11/2026 13:24",
-            "source": "fbz.nl, lad.nl",
+            "source": "lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Actiepagina voor Cao GGZ gelanceerd \u2014 FBZ \u2014 Vakbond voor zorgprofessionals",
-                    "source": "fbz.nl",
-                    "link": "https://www.fbz.nl/nieuws/2026/actiepagina-voor-cao-ggz-gelanceerd/",
-                    "publishedDate": "20/11/2026 12:48"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1037,6 +1030,17 @@
             "source": "helden.media",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Actiepagina voor Cao GGZ gelanceerd \u2014 FBZ \u2014 Vakbond voor zorgprofessionals",
+            "link": "https://www.fbz.nl/nieuws/2026/actiepagina-voor-cao-ggz-gelanceerd/",
+            "publishedDate": "20/11/2026 12:48",
+            "source": "fbz.nl",
+            "category": "Vakbonden",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1661,7 +1665,7 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuwe routekaart helpt ziekenhuizen naastenparticipatie duurzaam te verankeren",
@@ -1683,7 +1687,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
@@ -1771,7 +1775,7 @@
             "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ontregelen vanuit vertrouwen: samen naar 20% zinnige administratie en meer werkplezier",
@@ -1804,7 +1808,7 @@
             "feed_label": "VWS Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
