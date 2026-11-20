@@ -91,18 +91,11 @@
             "title": "Meldpunt voor verward gedrag in Amsterdam blijft bestaan, maar samenwerking tussen ...",
             "link": "https://www.parool.nl/amsterdam/meldpunt-voor-verward-gedrag-in-amsterdam-blijft-bestaan-maar-samenwerking-tussen-instanties-schiet-nog-steeds-tekort~ba42d313/",
             "publishedDate": "20/11/2026 03:39",
-            "source": "112inbeeld.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
-                    "source": "112inbeeld.nl",
-                    "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
-                    "publishedDate": "19/11/2026 19:28"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -221,11 +214,18 @@
             "title": "Man springt voor bezorgbus aan Puntenburgerlaan en wordt met taser overmeesterd",
             "link": "https://112amersfoort.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
             "publishedDate": "20/11/2026 00:20",
-            "source": "112amersfoort.nl",
+            "source": "112amersfoort.nl, 112inbeeld.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
+                    "source": "112inbeeld.nl",
+                    "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
+                    "publishedDate": "19/11/2026 19:28"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -812,16 +812,16 @@
                     "publishedDate": "19/11/2026 17:05"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief seksuele gezondheid en aanpak onbedoelde en of ongewenste zwangerschap",
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/ae9c2274-d6af-4911-89a2-df98485d51ee",
-                    "publishedDate": "19/11/2026 08:36"
+                    "link": "https://open.overheid.nl/details/8e4317a8-9674-457d-8bde-d7d841126167",
+                    "publishedDate": "19/11/2026 09:02"
                 },
                 {
-                    "title": "Kamerbrief over Voortgangsbrief seksuele gezondheid en aanpak onbedoelde en/of ongewenste zwangerschap",
+                    "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/7fa96b5a-a988-4ab1-b17a-bb4fb80df4f4",
-                    "publishedDate": "19/11/2026 08:36"
+                    "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
+                    "publishedDate": "19/11/2026 09:02"
                 }
             ],
             "belangrijkheid": 0
@@ -1148,25 +1148,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
                     "publishedDate": "19/11/2026 14:17"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
-                    "publishedDate": "19/11/2026 13:29"
-                },
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
-                    "publishedDate": "19/11/2026 13:29"
                 }
             ],
             "belangrijkheid": 0
@@ -1271,6 +1259,24 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
+            "link": "https://open.overheid.nl/details/51f586c8-8656-4b6e-b26e-b245f9568ce1",
+            "publishedDate": "19/11/2026 13:29",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de stijging van verplichte zorg in de ggz",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/05fd2f12-5a99-46f2-b75c-7b17173274cb",
+                    "publishedDate": "19/11/2026 13:29"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1639,24 +1645,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
-            "link": "https://open.overheid.nl/details/8e4317a8-9674-457d-8bde-d7d841126167",
-            "publishedDate": "19/11/2026 09:02",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
-                    "publishedDate": "19/11/2026 09:02"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Behandeling hoge bloeddruk met zenuwonderbreking niet vergoed",
             "link": "https://www.zorginstituutnederland.nl/actueel/nieuws/2026/11/19/renale-denervatie-geen-vergoede-zorg",
             "publishedDate": "19/11/2026 09:01",
@@ -1676,6 +1664,24 @@
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief seksuele gezondheid en aanpak onbedoelde en of ongewenste zwangerschap",
+            "link": "https://open.overheid.nl/details/ae9c2274-d6af-4911-89a2-df98485d51ee",
+            "publishedDate": "19/11/2026 08:36",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Voortgangsbrief seksuele gezondheid en aanpak onbedoelde en/of ongewenste zwangerschap",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/7fa96b5a-a988-4ab1-b17a-bb4fb80df4f4",
+                    "publishedDate": "19/11/2026 08:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
