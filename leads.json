@@ -81,29 +81,53 @@
             "title": "Meander ziet meer pati\u00ebnten met onbegrepen gedrag op SEH - Nijkerk Nieuws",
             "link": "https://nijkerk.nieuws.nl/gezondheidspagina/meander-ziet-meer-patienten-met-onbegrepen-gedrag-op-seh",
             "publishedDate": "20/11/2026 00:38",
-            "source": "drimble.nl, nijkerk.nieuws.nl",
+            "source": "drimble.nl, nijkerk.nieuws.nl, nijkerkerveen.org",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Meander ziet meer pati\u00ebnten met onbegrepen gedrag op SEH | De Vallei - Drimble",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/regio/gelderland/de-vallei/108651198/meander-ziet-meer-patienten-met-onbegrepen-gedrag-op-seh.html",
                     "publishedDate": "19/11/2026 19:49"
+                },
+                {
+                    "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
+                    "source": "nijkerkerveen.org",
+                    "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
+                    "publishedDate": "19/11/2026 16:31"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Medicom-koppeling brengt Digizorg naar meer huisartsen | ICT&amp;health",
+            "link": "https://www.icthealth.nl/nieuws/medicom-koppeling-brengt-digizorg-naar-meer-huisartsen",
+            "publishedDate": "20/11/2026 00:24",
+            "source": "icthealth.nl",
+            "category": "Overig",
+            "feed_label": "Alert eerstelijnszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Man springt voor bezorgbus aan Puntenburgerlaan en wordt met taser overmeesterd",
             "link": "https://112amersfoort.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
             "publishedDate": "20/11/2026 00:20",
-            "source": "112amersfoort.nl",
+            "source": "112amersfoort.nl, 112inbeeld.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
+                    "source": "112inbeeld.nl",
+                    "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
+                    "publishedDate": "19/11/2026 19:28"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -521,7 +545,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Deze Viagra-achtige pil biedt mogelijk hoop voor Alzheimerpati\u00ebnten | De Telegraaf",
@@ -561,18 +585,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
-            "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
-            "publishedDate": "19/11/2026 19:28",
-            "source": "112inbeeld.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "AZORG en brandweer oefenen grootschalige brandevacuatie in ziekenhuis Geraardsbergen.",
@@ -835,17 +848,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
-            "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
-            "publishedDate": "19/11/2026 16:31",
-            "source": "nijkerkerveen.org",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gorinchemse helpt vrouwen de strijd met eten en overgewicht te stoppen - De Stad Gorinchem",
             "link": "https://www.destadgorinchem.nl/lokaal/zakelijk/1329115/gorinchemse-helpt-vrouwen-de-strijd-met-eten-en-overgewicht-t",
             "publishedDate": "19/11/2026 16:28",
@@ -1076,16 +1078,22 @@
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
             "link": "https://open.overheid.nl/details/5bd6700b-265b-46de-b30b-2bd6d5c98b56",
             "publishedDate": "19/11/2026 14:17",
-            "source": "open.overheid.nl",
+            "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
                     "publishedDate": "19/11/2026 14:17"
+                },
+                {
+                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+                    "publishedDate": "19/11/2026 13:00"
                 }
             ],
             "belangrijkheid": 0
@@ -1208,17 +1216,6 @@
                     "publishedDate": "19/11/2026 13:29"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-            "publishedDate": "19/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1613,7 +1610,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Nieuwe routekaart helpt ziekenhuizen naastenparticipatie duurzaam te verankeren",
