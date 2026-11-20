@@ -147,13 +147,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/81c56b29-de29-4faf-b87b-1294a519cb85",
                     "publishedDate": "19/11/2026 17:05"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/8e4317a8-9674-457d-8bde-d7d841126167",
+                    "publishedDate": "19/11/2026 09:02"
+                },
+                {
+                    "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
+                    "publishedDate": "19/11/2026 09:02"
                 }
             ],
             "belangrijkheid": 0
@@ -381,10 +393,10 @@
             "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
             "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
             "publishedDate": "20/11/2026 05:09",
-            "source": "ad.nl, centraalplus.nl, gelderlander.nl, omroepwest.nl, verzekeringsnieuws.nl",
+            "source": "ad.nl, centraalplus.nl, gelderlander.nl, linda.nl, metronieuws.nl, omroepwest.nl, telegraaf.nl, verzekeringsnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 5,
+            "duplicate_count": 9,
             "extra_bronnen": [
                 {
                     "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten' | De Gelderlander.nl",
@@ -397,6 +409,24 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/economie/boosheid-over-patientenstops-schuif-met-budgetten-en-niet-met-consumenten~a14a75b3/",
                     "publishedDate": "20/11/2026 05:03"
+                },
+                {
+                    "title": "Deel klanten Zilveren Kruis niet welkom bij ziekenhuis - LINDA.",
+                    "source": "linda.nl",
+                    "link": "https://www.linda.nl/nieuws/zilveren-kruis-ziekenhuizen-patientenstop~1b1fc67",
+                    "publishedDate": "19/11/2026 22:36"
+                },
+                {
+                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
+                    "publishedDate": "19/11/2026 22:07"
+                },
+                {
+                    "title": "Pati\u00ebnten van Zilveren Kruis, FBTO en andere Achmea-merken moeten uitwijken ... - De Telegraaf",
+                    "source": "telegraaf.nl",
+                    "link": "https://www.telegraaf.nl/financieel/patienten-van-zilveren-kruis-fbto-en-andere-achmea-merken-moeten-uitwijken-naar-andere-ziekenhuizen-zorgbudget-is-op/164775536.html",
+                    "publishedDate": "19/11/2026 15:47"
                 },
                 {
                     "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Omroep West",
@@ -744,30 +774,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Deel klanten Zilveren Kruis niet welkom bij ziekenhuis - LINDA.",
-            "link": "https://www.linda.nl/nieuws/zilveren-kruis-ziekenhuizen-patientenstop~1b1fc67",
-            "publishedDate": "19/11/2026 22:36",
-            "source": "linda.nl, metronieuws.nl, telegraaf.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
-                    "publishedDate": "19/11/2026 22:07"
-                },
-                {
-                    "title": "Pati\u00ebnten van Zilveren Kruis, FBTO en andere Achmea-merken moeten uitwijken ... - De Telegraaf",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/financieel/patienten-van-zilveren-kruis-fbto-en-andere-achmea-merken-moeten-uitwijken-naar-andere-ziekenhuizen-zorgbudget-is-op/164775536.html",
-                    "publishedDate": "19/11/2026 15:47"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Niet scrollen maar hollen: hoe zorgen we ervoor dat kinderen meer bewegen? -",
@@ -1757,24 +1763,6 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
-            "link": "https://open.overheid.nl/details/8e4317a8-9674-457d-8bde-d7d841126167",
-            "publishedDate": "19/11/2026 09:02",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Antwoorden op de vragen van Kamerleden Westerveld PRO Bolhuis PRO en Bushoff PRO over het inschakelen van Oekra\u00efners in de Nederlandse zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/017495e1-563b-4a4e-b7e9-0da4ef91adc2",
-                    "publishedDate": "19/11/2026 09:02"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
