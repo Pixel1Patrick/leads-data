@@ -66,11 +66,18 @@
             "title": "Jeugdstem: kinderen in jeugdzorg kennen hun rechten niet altijd - Advocatie",
             "link": "https://www.advocatie.nl/nieuws/jeugdstem-kinderen-in-jeugdzorg-kennen-hun-rechten-niet-altijd/",
             "publishedDate": "20/11/2026 12:38",
-            "source": "advocatie.nl",
+            "source": "advocatie.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jeugdstem: Kinderen hebben recht om gehoord te worden maar kennen hun rechten niet altijd",
+                    "source": "persportaal.anp.nl",
+                    "link": "https://persportaal.anp.nl/artikel/7a3d9ba8-b2a6-494f-affb-38dfc3b9444f/jeugdstem-kinderen-hebben-recht-om-gehoord-te-worden-maar-kennen-hun-rechten-niet-altijd",
+                    "publishedDate": "20/11/2026 10:35"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -91,7 +98,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[WOO] Antwoorden op Kamervragen over het inschakelen van Oekra\u00efners in Nederlandse zorg",
@@ -100,16 +107,10 @@
                     "publishedDate": "20/11/2026 12:33"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
+                    "title": "Uitstelbrief antwoorden Kamervragen over tekort aan spoedplekken GGZ door uitgeprocedeerde asielzoekers",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/a16e7867-7ab4-4205-a6cc-4a1fe2e61896",
-                    "publishedDate": "20/11/2026 10:07"
-                },
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/81c56b29-de29-4faf-b87b-1294a519cb85",
-                    "publishedDate": "19/11/2026 17:05"
+                    "link": "https://open.overheid.nl/details/6543b8a5-1db2-437c-9117-a65a95929ba8",
+                    "publishedDate": "20/11/2026 11:55"
                 }
             ],
             "belangrijkheid": 0
@@ -161,17 +162,6 @@
             "source": "binnenlandsbestuur.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Uitstelbrief antwoorden Kamervragen over tekort aan spoedplekken GGZ door uitgeprocedeerde asielzoekers",
-            "link": "https://open.overheid.nl/details/6543b8a5-1db2-437c-9117-a65a95929ba8",
-            "publishedDate": "20/11/2026 11:55",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -251,17 +241,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jeugdstem: Kinderen hebben recht om gehoord te worden maar kennen hun rechten niet altijd",
-            "link": "https://persportaal.anp.nl/artikel/7a3d9ba8-b2a6-494f-affb-38dfc3b9444f/jeugdstem-kinderen-hebben-recht-om-gehoord-te-worden-maar-kennen-hun-rechten-niet-altijd",
-            "publishedDate": "20/11/2026 10:35",
-            "source": "persportaal.anp.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Onveiligheid zit niet in de openbare ruimte, wel in het gedrag van mannen | Regio - AD",
             "link": "https://www.ad.nl/den-haag/onveiligheid-zit-niet-in-de-openbare-ruimte-wel-in-het-gedrag-van-mannen~a1ec1896/",
             "publishedDate": "20/11/2026 10:35",
@@ -292,6 +271,24 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
+            "link": "https://open.overheid.nl/details/a16e7867-7ab4-4205-a6cc-4a1fe2e61896",
+            "publishedDate": "20/11/2026 10:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over het bericht \u2018Onder druk van Trump betalen we straks het dubbele voor medicijnen, waarschuwt deze econoom\u2019",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/81c56b29-de29-4faf-b87b-1294a519cb85",
+                    "publishedDate": "19/11/2026 17:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1269,15 +1266,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-                    "publishedDate": "19/11/2026 16:12"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+            "publishedDate": "19/11/2026 16:12",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1649,7 +1650,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Medisch Centrum West: Stevens moet werken aan een betere versie van zichzelf - KIJK",
@@ -1717,7 +1718,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
