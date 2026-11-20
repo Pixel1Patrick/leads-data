@@ -34,12 +34,34 @@
             "belangrijkheid": 0
         },
         {
+            "title": "VIDEO: Nieuwe kliniek en polikliniek van GGZ Friesland in Middelsee",
+            "link": "https://omroepleeuwarden.nl/video-nieuwe-kliniek-en-polikliniek-van-ggz-friesland-in-middelsee/",
+            "publishedDate": "20/11/2026 18:05",
+            "source": "omroepleeuwarden.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 12 november 2026, kenmerk 2026-3215310/IT2113634, houdende de verlenging van de verleende vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Mitoxantron Sandoz 2 mg/ml, concentraat voor oplossing voor infusie (RVG 29568)",
             "link": "https://open.overheid.nl/details/oep-ob-aaaec55ed1ef5b260f5c6eb417a6f74779e9dd60_24",
             "publishedDate": "20/11/2026 18:01",
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "AI-psychose, onderzoek naar 15 chatbots onthult welke waanidee\u00ebn versterken",
+            "link": "https://pasqualepillitteri.it/nl/news/35446/ai-psychose-onderzoek-chatbots-wanen",
+            "publishedDate": "20/11/2026 17:46",
+            "source": "pasqualepillitteri.it",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -159,7 +181,7 @@
                     "publishedDate": "20/11/2026 14:30"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Man die zorgpersoneel terroriseerde krijgt straf opgelegd - Omroep Gelderland",
@@ -230,28 +252,41 @@
             "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
             "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
             "publishedDate": "20/11/2026 16:35",
-            "source": "studioalphen.nl",
+            "source": "huisartsvandaag.nl, metronieuws.nl, studioalphen.nl, trouw.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
+                    "publishedDate": "20/11/2026 15:55"
+                },
+                {
+                    "title": "Meer ziekenhuizen weigeren klanten van Zilveren Kruis vanwege ontoereikend budget verzekeraar",
+                    "source": "huisartsvandaag.nl",
+                    "link": "https://huisartsvandaag.nl/meer-ziekenhuizen-weigeren-klanten-van-zilveren-kruis-vanwege-ontoereikend-budget-verzekeraar/",
+                    "publishedDate": "20/11/2026 12:15"
+                },
+                {
+                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
+                    "publishedDate": "19/11/2026 22:07"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
             "title": "Oudere fietser met spoed naar ziekenhuis, traumahelikopter landt - NoorderNieuws",
             "link": "https://noordernieuws.nl/2026/11/oudere-fietser-met-spoed-naar-ziekenhuis-traumahelikopter-landt/",
             "publishedDate": "20/11/2026 16:33",
-            "source": "bd.nl, ed.nl, noordernieuws.nl, omroepbrabant.nl",
+            "source": "bd.nl, ed.nl, noordernieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
-                {
-                    "title": "Fietser aangereden vlak bij spoedeisende hulp ziekenhuis - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035588/fietser-aangereden-vlak-bij-spoedeisende-hulp-ziekenhuis",
-                    "publishedDate": "20/11/2026 16:32"
-                },
                 {
                     "title": "Fietser aangereden pal voor ziekenhuis in Tilburg, slachtoffer snel naar eerste hulp | Regio",
                     "source": "bd.nl",
@@ -265,6 +300,17 @@
                     "publishedDate": "20/11/2026 15:00"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Fietser aangereden vlak bij spoedeisende hulp ziekenhuis - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035588/fietser-aangereden-vlak-bij-spoedeisende-hulp-ziekenhuis",
+            "publishedDate": "20/11/2026 16:32",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -392,65 +438,37 @@
             "title": "Astrid Holleeder heeft openhartoperatie ondergaan: 'Zal nu wat aan moeten sterken'",
             "link": "https://www.rtl.nl/boulevard/artikel/5666186/astrid-holleeder-heeft-openhartoperatie-ondergaan",
             "publishedDate": "20/11/2026 16:00",
-            "source": "rtl.nl",
+            "source": "nu.nl, rtl.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Astrid Holleeder heeft openhartoperatie ondergaan: 'Tijdje van de radar' | Achterklap - NU",
+                    "source": "nu.nl",
+                    "link": "https://www.nu.nl/achterklap/6417188/astrid-holleeder-heeft-openhartoperatie-ondergaan-tijdje-van-de-radar.html",
+                    "publishedDate": "20/11/2026 15:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat - Leeuwarder Courant",
             "link": "https://www.lc.nl/regio/friesland/terschelling/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734688.html",
             "publishedDate": "20/11/2026 15:55",
-            "source": "ditjesendatjes.nl, dvhn.nl, huisartsvandaag.nl, lc.nl, welingelichtekringen.nl, zoetermeersdagblad.nl",
+            "source": "dvhn.nl, lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 7,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat | Dagblad van het Noorden - DVHN",
                     "source": "dvhn.nl",
                     "link": "https://www.dvhn.nl/regio/groningen/wadden/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734691.html",
                     "publishedDate": "20/11/2026 15:54"
-                },
-                {
-                    "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Zoetermeers Dagblad",
-                    "source": "zoetermeersdagblad.nl",
-                    "link": "https://zoetermeersdagblad.nl/Landelijk/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
-                    "publishedDate": "20/11/2026 13:54"
-                },
-                {
-                    "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Ditjes en Datjes",
-                    "source": "ditjesendatjes.nl",
-                    "link": "https://www.ditjesendatjes.nl/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
-                    "publishedDate": "20/11/2026 13:04"
-                },
-                {
-                    "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Welingelichte Kringen",
-                    "source": "welingelichtekringen.nl",
-                    "link": "https://www.welingelichtekringen.nl/samenleving/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
-                    "publishedDate": "20/11/2026 12:30"
-                },
-                {
-                    "title": "Meer ziekenhuizen weigeren klanten van Zilveren Kruis vanwege ontoereikend budget verzekeraar",
-                    "source": "huisartsvandaag.nl",
-                    "link": "https://huisartsvandaag.nl/meer-ziekenhuizen-weigeren-klanten-van-zilveren-kruis-vanwege-ontoereikend-budget-verzekeraar/",
-                    "publishedDate": "20/11/2026 12:15"
                 }
             ],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
-            "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
-            "publishedDate": "20/11/2026 15:55",
-            "source": "trouw.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Goodbye Theo van Diemen | Deventer Ziekenhuis",
@@ -533,24 +551,11 @@
             "title": "Pati\u00ebntenstop bij Zeeuwse Gronden, maar niet bij Zeeuwse ziekenhuizen - Omroep Zeeland",
             "link": "https://www.omroepzeeland.nl/nieuws/18964047/patientenstop-bij-zeeuwse-gronden-maar-niet-bij-zeeuwse-ziekenhuizen",
             "publishedDate": "20/11/2026 15:14",
-            "source": "nl.headtopics.com, omroepzeeland.nl",
+            "source": "omroepzeeland.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
-                    "publishedDate": "20/11/2026 14:13"
-                },
-                {
-                    "title": "Geen pati\u00ebntenstop bij Zeeuwse ziekenhuizen, wel bij GGZ-instelling Zeeuwse Gronden",
-                    "source": "omroepzeeland.nl",
-                    "link": "https://www.omroepzeeland.nl/nieuws/18964047/geen-patientenstop-bij-zeeuwse-ziekenhuizen-wel-bij-ggz-instelling-zeeuwse-gronden",
-                    "publishedDate": "20/11/2026 14:12"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -582,17 +587,6 @@
             "source": "denieuwsbode.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Astrid Holleeder heeft openhartoperatie ondergaan: 'Tijdje van de radar' | Achterklap - NU",
-            "link": "https://www.nu.nl/achterklap/6417188/astrid-holleeder-heeft-openhartoperatie-ondergaan-tijdje-van-de-radar.html",
-            "publishedDate": "20/11/2026 15:00",
-            "source": "nu.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -704,12 +698,34 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
+            "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
+            "publishedDate": "20/11/2026 14:13",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Warande voorlopig nog niet van Driebergse seniorenwoningen af - PropertyNL",
             "link": "https://propertynl.com/Nieuws/Warande-voorlopig-nog-niet-van-Driebergse-seniorenwoningen-af/a55b9248-3876-4190-915a-b3516c64d38b",
             "publishedDate": "20/11/2026 14:13",
             "source": "propertynl.com",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Geen pati\u00ebntenstop bij Zeeuwse ziekenhuizen, wel bij GGZ-instelling Zeeuwse Gronden",
+            "link": "https://www.omroepzeeland.nl/nieuws/18964047/geen-patientenstop-bij-zeeuwse-ziekenhuizen-wel-bij-ggz-instelling-zeeuwse-gronden",
+            "publishedDate": "20/11/2026 14:12",
+            "source": "omroepzeeland.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -746,6 +762,30 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Zoetermeers Dagblad",
+            "link": "https://zoetermeersdagblad.nl/Landelijk/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
+            "publishedDate": "20/11/2026 13:54",
+            "source": "ditjesendatjes.nl, welingelichtekringen.nl, zoetermeersdagblad.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Ditjes en Datjes",
+                    "source": "ditjesendatjes.nl",
+                    "link": "https://www.ditjesendatjes.nl/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
+                    "publishedDate": "20/11/2026 13:04"
+                },
+                {
+                    "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Welingelichte Kringen",
+                    "source": "welingelichtekringen.nl",
+                    "link": "https://www.welingelichtekringen.nl/samenleving/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
+                    "publishedDate": "20/11/2026 12:30"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Lelystad verlengt pilot 'Huisvesting zorgpersoneel met voorrang' met een jaar | Flevopost",
@@ -840,7 +880,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bas van de Goor loopt ruim 100 kilometer voor diabetes: 'Wil voor anderen hetzelfde ...",
@@ -879,11 +919,18 @@
             "title": "Jeugdstem: kinderen in jeugdzorg kennen hun rechten niet altijd - Advocatie",
             "link": "https://www.advocatie.nl/nieuws/jeugdstem-kinderen-in-jeugdzorg-kennen-hun-rechten-niet-altijd/",
             "publishedDate": "20/11/2026 12:38",
-            "source": "advocatie.nl",
+            "source": "advocatie.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jeugdstem: Kinderen hebben recht om gehoord te worden maar kennen hun rechten niet altijd",
+                    "source": "persportaal.anp.nl",
+                    "link": "https://persportaal.anp.nl/artikel/7a3d9ba8-b2a6-494f-affb-38dfc3b9444f/jeugdstem-kinderen-hebben-recht-om-gehoord-te-worden-maar-kennen-hun-rechten-niet-altijd",
+                    "publishedDate": "20/11/2026 10:35"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -901,11 +948,18 @@
             "title": "Koninkrijkslanden maken afspraken over gezondheid en tekort aan zorgpersoneel",
             "link": "https://www.bonaire.nu/nieuws/gezondheidszorg/98769/koninkrijkslanden-maken-afspraken-over-gezondheid-en-tekort-aan-zorgpersoneel",
             "publishedDate": "20/11/2026 12:26",
-            "source": "bonaire.nu",
+            "source": "bonaire.nu, curacao.nu",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Vier landen willen voorkomen dat zorginstellingen elkaars personeel wegkapen",
+                    "source": "curacao.nu",
+                    "link": "https://www.curacao.nu/nieuws/gezondheidszorg/98757/vier-landen-willen-voorkomen-dat-zorginstellingen-elkaars-personeel-wegkapen",
+                    "publishedDate": "20/11/2026 12:02"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -937,17 +991,6 @@
             "source": "maxmeldpunt.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Vier landen willen voorkomen dat zorginstellingen elkaars personeel wegkapen",
-            "link": "https://www.curacao.nu/nieuws/gezondheidszorg/98757/vier-landen-willen-voorkomen-dat-zorginstellingen-elkaars-personeel-wegkapen",
-            "publishedDate": "20/11/2026 12:02",
-            "source": "curacao.nu",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1035,7 +1078,7 @@
                     "publishedDate": "20/11/2026 11:02"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "DENK Beverwijk wil Serviceplein naar Heemskerks model voor ondersteuning inwoners met ...",
@@ -1066,17 +1109,6 @@
             "source": "umcutrecht.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jeugdstem: Kinderen hebben recht om gehoord te worden maar kennen hun rechten niet altijd",
-            "link": "https://persportaal.anp.nl/artikel/7a3d9ba8-b2a6-494f-affb-38dfc3b9444f/jeugdstem-kinderen-hebben-recht-om-gehoord-te-worden-maar-kennen-hun-rechten-niet-altijd",
-            "publishedDate": "20/11/2026 10:35",
-            "source": "persportaal.anp.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1383,17 +1415,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
-            "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
-            "publishedDate": "19/11/2026 22:07",
-            "source": "metronieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Korte quiz: wat weet jij over gordelroos? - TVV",
@@ -1821,7 +1842,7 @@
             "feed_label": "VWS Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
