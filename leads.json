@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Nu dan echt \u2026 - Pharmaceutisch Weekblad",
+            "link": "https://www.pw.nl/nieuws/columns/2026-11/nu-dan-echt",
+            "publishedDate": "20/11/2026 02:14",
+            "source": "pw.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Deze ingreep moet 122.000 mensen uit de invaliditeit halen, en minister Vandenbroucke wil ...",
             "link": "https://www.nieuwsblad.be/binnenland/deze-ingreep-moet-122.000-mensen-uit-de-invaliditeit-halen-en-minister-vandenbroucke-wil-nog-verder-gaan/164832146.html",
             "publishedDate": "20/11/2026 00:47",
@@ -15,16 +26,22 @@
             "title": "Meander ziet meer pati\u00ebnten met onbegrepen gedrag op SEH - Nijkerk Nieuws",
             "link": "https://nijkerk.nieuws.nl/gezondheidspagina/meander-ziet-meer-patienten-met-onbegrepen-gedrag-op-seh",
             "publishedDate": "20/11/2026 00:38",
-            "source": "drimble.nl, nijkerk.nieuws.nl",
+            "source": "drimble.nl, nijkerk.nieuws.nl, nijkerkerveen.org",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Meander ziet meer pati\u00ebnten met onbegrepen gedrag op SEH | De Vallei - Drimble",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/regio/gelderland/de-vallei/108651198/meander-ziet-meer-patienten-met-onbegrepen-gedrag-op-seh.html",
                     "publishedDate": "19/11/2026 19:49"
+                },
+                {
+                    "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
+                    "source": "nijkerkerveen.org",
+                    "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
+                    "publishedDate": "19/11/2026 16:31"
                 }
             ],
             "belangrijkheid": 0
@@ -33,22 +50,36 @@
             "title": "Man springt voor bezorgbus aan Puntenburgerlaan en wordt met taser overmeesterd",
             "link": "https://112amersfoort.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
             "publishedDate": "20/11/2026 00:20",
-            "source": "112amersfoort.nl",
+            "source": "112amersfoort.nl, 112inbeeld.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
+                    "source": "112inbeeld.nl",
+                    "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
+                    "publishedDate": "19/11/2026 19:28"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "AZ Herentals opent vernieuwde geriatrische afdelingen: \u201cWe vertrekken vanuit wat mensen ...",
             "link": "https://www.made-in.be/kempen/az-herentals-opent-vernieuwde-geriatrische-afdelingen-we-vertrekken-vanuit-wat-mensen-nog-wel-kunnen/",
             "publishedDate": "20/11/2026 00:19",
-            "source": "made-in.be",
+            "source": "made-in.be, rtv.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "AZ Herentals vernieuwt geriatrische afdelingen met focus op bewegingsvrijheid en huiselijke sfeer",
+                    "source": "rtv.be",
+                    "link": "https://www.rtv.be/actualiteit-en-nieuws/az-herentals-vernieuwt-geriatrische-afdelingen-met-focus-op-bewegingsvrijheid",
+                    "publishedDate": "19/11/2026 18:35"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -388,16 +419,22 @@
             "title": "Adrz sluit vrijdagnacht operatiekamers in Goes voor noodzakelijke stroomklus, ook ... - PZC",
             "link": "https://www.pzc.nl/goes/adrz-sluit-vrijdagnacht-operatiekamers-in-goes-voor-noodzakelijke-stroomklus-ook-bevallingen-moeten-naar-andere-ziekenhuizen~aee7620a/",
             "publishedDate": "19/11/2026 20:09",
-            "source": "bndestem.nl, pzc.nl",
+            "source": "bndestem.nl, omroepflevoland.nl, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Adrz sluit vrijdagnacht operatiekamers in Goes voor noodzakelijke stroomklus, ook ... - BN DeStem",
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/zeeland/adrz-sluit-vrijdagnacht-operatiekamers-in-goes-voor-noodzakelijke-stroomklus-ook-bevallingen-moeten-naar-andere-ziekenhuizen~aee7620a/",
                     "publishedDate": "19/11/2026 20:09"
+                },
+                {
+                    "title": "Voorrangsregeling huurwoningen voor zorgpersoneel Lelystad verlengd - Nieuws",
+                    "source": "omroepflevoland.nl",
+                    "link": "https://www.omroepflevoland.nl/nieuws/531988/voorrangsregeling-huurwoningen-voor-zorgpersoneel-lelystad-verlengd",
+                    "publishedDate": "19/11/2026 16:41"
                 }
             ],
             "belangrijkheid": 1
@@ -476,17 +513,6 @@
             "belangrijkheid": 1
         },
         {
-            "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
-            "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
-            "publishedDate": "19/11/2026 19:28",
-            "source": "112inbeeld.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "AZORG en brandweer oefenen grootschalige brandevacuatie in ziekenhuis Geraardsbergen.",
             "link": "https://denderjournaal.be/azorg-en-brandweer-oefenen-grootschalige-brandevacuatie-in-ziekenhuis-geraardsbergen/",
             "publishedDate": "19/11/2026 19:25",
@@ -561,7 +587,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Tiny houses voor daklozen | medischcontact",
@@ -592,17 +618,6 @@
             "source": "domusmedica.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "AZ Herentals vernieuwt geriatrische afdelingen met focus op bewegingsvrijheid en huiselijke sfeer",
-            "link": "https://www.rtv.be/actualiteit-en-nieuws/az-herentals-vernieuwt-geriatrische-afdelingen-met-focus-op-bewegingsvrijheid",
-            "publishedDate": "19/11/2026 18:35",
-            "source": "rtv.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -765,17 +780,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Voorrangsregeling huurwoningen voor zorgpersoneel Lelystad verlengd - Nieuws",
-            "link": "https://www.omroepflevoland.nl/nieuws/531988/voorrangsregeling-huurwoningen-voor-zorgpersoneel-lelystad-verlengd",
-            "publishedDate": "19/11/2026 16:41",
-            "source": "omroepflevoland.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Jeugdzorg wordt duurder in S\u00fadwest-Frysl\u00e2n: wethouder pleit voor verandering van het stelsel",
             "link": "https://omroepsudwest.nl/jeugdzorg-wordt-duurder-in-sudwest-fryslan-wethouder-pleit-voor-verandering-van-het-stelsel/",
             "publishedDate": "19/11/2026 16:34",
@@ -793,17 +797,6 @@
             "source": "nrc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
-            "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
-            "publishedDate": "19/11/2026 16:31",
-            "source": "nijkerkerveen.org",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -839,7 +832,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Steeds meer kwetsbare ouderen krijgen passende acute zorg - De Stad Amersfoort",
