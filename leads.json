@@ -838,15 +838,8 @@
             "source": "weerplaza.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Regenradar Seh Qal'ah - live buien radar | Weerplaza.nl",
-                    "source": "weerplaza.nl",
-                    "link": "https://www.weerplaza.nl/regenradar/azie-en-midden-oosten/afghanistan/seh-qal-ah/1139537/",
-                    "publishedDate": "18/11/2026 20:14"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1459,21 +1452,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-                    "publishedDate": "19/11/2026 10:18"
-                },
-                {
-                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
-                    "publishedDate": "19/11/2026 10:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1483,6 +1463,17 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+            "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+            "publishedDate": "19/11/2026 10:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1538,6 +1529,17 @@
             "source": "derestaurantkrant.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
+            "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
+            "publishedDate": "19/11/2026 10:03",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1708,7 +1710,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "AWS breidde Amazon Connect Health uit met AI voor pati\u00ebnttoegang - NeoTeo",
@@ -1717,6 +1719,17 @@
             "source": "neoteo.com",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Regenradar Seh Qal'ah - live buien radar | Weerplaza.nl",
+            "link": "https://www.weerplaza.nl/regenradar/azie-en-midden-oosten/afghanistan/seh-qal-ah/1139537/",
+            "publishedDate": "18/11/2026 20:14",
+            "source": "weerplaza.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1736,18 +1749,11 @@
             "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
             "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
             "publishedDate": "18/11/2026 15:30",
-            "source": "cbg-meb.nl, rivm.nl",
+            "source": "cbg-meb.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1865,7 +1871,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Langdurige zorg] Zorgaanbieders en zorgkantoren bereiken overeenstemming over contractering 2027",
@@ -1877,6 +1883,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+            "publishedDate": "17/11/2026 10:57",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
