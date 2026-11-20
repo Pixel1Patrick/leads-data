@@ -386,11 +386,18 @@
             "title": "Vrouw (64) overleden nadat ze met auto in Herengracht was beland - Het Parool",
             "link": "https://www.parool.nl/amsterdam/vrouw-64-overleden-nadat-ze-met-auto-in-herengracht-was-beland~bf3525cc1/",
             "publishedDate": "20/11/2026 17:42",
-            "source": "parool.nl",
+            "source": "112nederland.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Auto belandt in Amsterdams gracht, 64-jarige vrouw overlijdt later in ziekenhuis",
+                    "source": "112nederland.nl",
+                    "link": "https://112nederland.nl/2026/11/20/video/auto-belandt-in-amsterdams-gracht-64-jarige-vrouw-overlijdt-later-in-ziekenhuis/",
+                    "publishedDate": "20/11/2026 17:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -511,17 +518,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Auto belandt in Amsterdams gracht, 64-jarige vrouw overlijdt later in ziekenhuis",
-            "link": "https://112nederland.nl/2026/11/20/video/auto-belandt-in-amsterdams-gracht-64-jarige-vrouw-overlijdt-later-in-ziekenhuis/",
-            "publishedDate": "20/11/2026 17:00",
-            "source": "112nederland.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Pati\u00ebnten met psychische problemen lopen soms al vast v\u00f3\u00f3r zij op een ggz-wachtlijst komen",
             "link": "https://www.universiteitleiden.nl/nieuws/2026/11/patienten-met-psychische-problemen-lopen-soms-al-vast-voor-zij-op-een-ggz-wachtlijst-komen",
             "publishedDate": "20/11/2026 16:59",
@@ -595,7 +591,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Oudere fietser met spoed naar ziekenhuis, traumahelikopter landt - NoorderNieuws",
@@ -890,18 +886,11 @@
             "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
             "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
             "publishedDate": "20/11/2026 14:24",
-            "source": "metronieuws.nl, trouw.nl",
+            "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
-                    "publishedDate": "19/11/2026 22:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1174,7 +1163,7 @@
                     "publishedDate": "20/11/2026 11:02"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "DENK Beverwijk wil Serviceplein naar Heemskerks model voor ondersteuning inwoners met ...",
@@ -1484,6 +1473,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
+            "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
+            "publishedDate": "19/11/2026 22:07",
+            "source": "metronieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgaanbieder",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Korte quiz: wat weet jij over gordelroos? - TVV",
             "link": "https://www.tvvtotaal.nl/korte-quiz-wat-weet-jij-over-gordelroos/",
             "publishedDate": "19/11/2026 22:07",
@@ -1567,15 +1567,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-                    "publishedDate": "19/11/2026 16:12"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+            "publishedDate": "19/11/2026 16:12",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1660,7 +1664,7 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuwe routekaart helpt ziekenhuizen naastenparticipatie duurzaam te verankeren",
@@ -1682,7 +1686,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
@@ -1770,7 +1774,7 @@
             "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ontregelen vanuit vertrouwen: samen naar 20% zinnige administratie en meer werkplezier",
