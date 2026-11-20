@@ -281,16 +281,16 @@
                     "publishedDate": "20/11/2026 16:57"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Motie Coenradie in relatie tot externe inhuur VWS",
+                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over motie over Voxzogo ",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c5e76fb0-bd02-41a1-bde5-c9c28b16d078",
-                    "publishedDate": "20/11/2026 14:25"
+                    "link": "https://open.overheid.nl/details/93eba40a-a20e-4f9c-ba43-ff1bb30fd0a5",
+                    "publishedDate": "20/11/2026 16:41"
                 },
                 {
-                    "title": "Kamerbrief over Motie Coenradie in relatie tot externe inhuur VWS",
+                    "title": "[WOO] Antwoorden op Kamervragen over motie over Voxzogo ",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/546686e6-4091-493a-8578-12c4cc18047c",
-                    "publishedDate": "20/11/2026 14:25"
+                    "link": "https://open.overheid.nl/details/e8d0d987-5485-43d8-aecd-1920baedc719",
+                    "publishedDate": "20/11/2026 16:41"
                 }
             ],
             "belangrijkheid": 0
@@ -304,24 +304,6 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over motie over Voxzogo ",
-            "link": "https://open.overheid.nl/details/93eba40a-a20e-4f9c-ba43-ff1bb30fd0a5",
-            "publishedDate": "20/11/2026 16:41",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[WOO] Antwoorden op Kamervragen over motie over Voxzogo ",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/e8d0d987-5485-43d8-aecd-1920baedc719",
-                    "publishedDate": "20/11/2026 16:41"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -502,15 +484,21 @@
             "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat - Leeuwarder Courant",
             "link": "https://www.lc.nl/regio/friesland/terschelling/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734688.html",
             "publishedDate": "20/11/2026 15:55",
-            "source": "dvhn.nl, lc.nl",
+            "source": "dvhn.nl, dz.nl, lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat | Dagblad van het Noorden - DVHN",
                     "source": "dvhn.nl",
                     "link": "https://www.dvhn.nl/regio/groningen/wadden/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734691.html",
+                    "publishedDate": "20/11/2026 15:54"
+                },
+                {
+                    "title": "Goodbye Theo van Diemen | Deventer Ziekenhuis",
+                    "source": "dz.nl",
+                    "link": "https://www.dz.nl/verwijzers/lijn1/goodbye-theo-van-diemen",
                     "publishedDate": "20/11/2026 15:54"
                 }
             ],
@@ -526,17 +514,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Goodbye Theo van Diemen | Deventer Ziekenhuis",
-            "link": "https://www.dz.nl/verwijzers/lijn1/goodbye-theo-van-diemen",
-            "publishedDate": "20/11/2026 15:54",
-            "source": "dz.nl",
-            "category": "Zorgaanbieders",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "Extra aandacht voor zorg voor daklozen - Omroep Horst aan de Maas",
@@ -575,11 +552,18 @@
             "title": "Attest voor ziekenfonds krijgt extra vakjes: huisarts kan fitnote voorschrijven | De Tijd",
             "link": "https://www.tijd.be/politiek-economie/belgie/algemeen/attest-voor-ziekenfonds-krijgt-extra-vakjes-huisarts-kan-fitnote-voorschrijven/10706349.html",
             "publishedDate": "20/11/2026 15:40",
-            "source": "tijd.be",
+            "source": "despecialist.eu, tijd.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Fit Note: Vandenbroucke kondigt invoering bij huisartsen aan - De Specialist",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/retour-au-travail-les-medecins-generalistes-disposeront-da-la-fit-note-a-partir-de-septembre.html",
+                    "publishedDate": "20/11/2026 15:09"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -649,17 +633,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Fit Note: Vandenbroucke kondigt invoering bij huisartsen aan - De Specialist",
-            "link": "https://www.despecialist.eu/nl/nieuws/retour-au-travail-les-medecins-generalistes-disposeront-da-la-fit-note-a-partir-de-septembre.html",
-            "publishedDate": "20/11/2026 15:09",
-            "source": "despecialist.eu",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Lezerspost: Huisarts - Het laatste nieuws uit de gemeente Castricum - Castricummer",
             "link": "https://www.castricummer.nl/nieuws/algemeen/131502/lezerspost-huisarts",
             "publishedDate": "20/11/2026 15:03",
@@ -723,6 +696,24 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Motie Coenradie in relatie tot externe inhuur VWS",
+            "link": "https://open.overheid.nl/details/c5e76fb0-bd02-41a1-bde5-c9c28b16d078",
+            "publishedDate": "20/11/2026 14:25",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Motie Coenradie in relatie tot externe inhuur VWS",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/546686e6-4091-493a-8578-12c4cc18047c",
+                    "publishedDate": "20/11/2026 14:25"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1832,7 +1823,7 @@
             "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ontregelen vanuit vertrouwen: samen naar 20% zinnige administratie en meer werkplezier",
@@ -1865,7 +1856,7 @@
             "feed_label": "VWS Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
