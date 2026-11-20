@@ -9,7 +9,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Jeugdzorg in Alphen aan den Rijn: 9 procent van de jongeren krijgt hulp, gemeente gaf ... - AD",
@@ -255,8 +255,14 @@
             "source": "artsenkrant.pmg.be, demorgen.be, despecialist.eu, gva.be, p-magazine.com, tijd.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 6,
+            "duplicate_count": 7,
             "extra_bronnen": [
+                {
+                    "title": "De fit note en wat de huisarts erop schrijft - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2647E05/EAKbe2647S56_00",
+                    "publishedDate": "20/11/2026 21:10"
+                },
                 {
                     "title": "Huisartsen worden verplicht om bij het ziektebriefje een Fit Note te geven: wat je nog w\u00e9l kan",
                     "source": "p-magazine.com",
@@ -294,11 +300,36 @@
             "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
             "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
             "publishedDate": "20/11/2026 21:34",
-            "source": "trouw.nl",
+            "source": "nl.headtopics.com, omroepzeeland.nl, studioalphen.nl, trouw.nl, verzekeringsnieuws.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
+                    "publishedDate": "20/11/2026 19:15"
+                },
+                {
+                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
+                    "source": "studioalphen.nl",
+                    "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
+                    "publishedDate": "20/11/2026 15:57"
+                },
+                {
+                    "title": "Pati\u00ebntenstop bij Zeeuwse Gronden, maar niet bij Zeeuwse ziekenhuizen - Omroep Zeeland",
+                    "source": "omroepzeeland.nl",
+                    "link": "https://www.omroepzeeland.nl/nieuws/18964047/patientenstop-bij-zeeuwse-gronden-maar-niet-bij-zeeuwse-ziekenhuizen",
+                    "publishedDate": "20/11/2026 15:14"
+                },
+                {
+                    "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
+                    "source": "verzekeringsnieuws.nl",
+                    "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
+                    "publishedDate": "20/11/2026 05:09"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -330,6 +361,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "KB regelt zorgbeleid voor adolescenten en jongvolwassenen met kanker (AYA)",
+            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2647E05/EAKbe2647S54_00",
+            "publishedDate": "20/11/2026 21:10",
+            "source": "artsenkrant.pmg.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -433,30 +475,11 @@
             "title": "Leidse KNO-hoogleraar Peter Paul van Benthem benoemd tot ridder - Sleutelstad",
             "link": "https://sleutelstad.nl/2026/11/20/leidse-kno-hoogleraar-peter-paul-van-benthem-benoemd-tot-ridder/",
             "publishedDate": "20/11/2026 19:44",
-            "source": "apeldoorn.nl, centraalplus.nl, sleutelstad.nl, tubantia.nl",
+            "source": "sleutelstad.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Apeldoornse KNO-arts geridderd voor zijn jarenlange inzet | Regio | Tubantia.nl",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/apeldoorn/apeldoornse-kno-arts-geridderd-voor-zijn-jarenlange-inzet~a6dca370/",
-                    "publishedDate": "20/11/2026 19:01"
-                },
-                {
-                    "title": "Koninklijke Onderscheiding voor prof. dr. Peter Paul van Benthem - Centraal+",
-                    "source": "centraalplus.nl",
-                    "link": "https://centraalplus.nl/2026/11/20/koninklijke-onderscheiding-voor-prof-dr-peter-paul-van-benthem/",
-                    "publishedDate": "20/11/2026 17:50"
-                },
-                {
-                    "title": "Koninklijke Onderscheiding voor prof. dr. Peter Paul van Benthem - Gemeente Apeldoorn",
-                    "source": "apeldoorn.nl",
-                    "link": "https://www.apeldoorn.nl/actueel/koninklijke-onderscheiding-voor-prof-dr-peter-paul-van-benthem",
-                    "publishedDate": "20/11/2026 17:32"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -501,7 +524,7 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Covid-besmettingen lopen op, toch zijn zorgen over een nieuwe pandemie niet nodig",
@@ -515,13 +538,13 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
-            "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
-            "publishedDate": "20/11/2026 19:15",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
+            "title": "Apeldoornse KNO-arts geridderd voor zijn jarenlange inzet | Regio | Tubantia.nl",
+            "link": "https://www.tubantia.nl/apeldoorn/apeldoornse-kno-arts-geridderd-voor-zijn-jarenlange-inzet~a6dca370/",
+            "publishedDate": "20/11/2026 19:01",
+            "source": "tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -655,6 +678,24 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Koninklijke Onderscheiding voor prof. dr. Peter Paul van Benthem - Centraal+",
+            "link": "https://centraalplus.nl/2026/11/20/koninklijke-onderscheiding-voor-prof-dr-peter-paul-van-benthem/",
+            "publishedDate": "20/11/2026 17:50",
+            "source": "apeldoorn.nl, centraalplus.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Koninklijke Onderscheiding voor prof. dr. Peter Paul van Benthem - Gemeente Apeldoorn",
+                    "source": "apeldoorn.nl",
+                    "link": "https://www.apeldoorn.nl/actueel/koninklijke-onderscheiding-voor-prof-dr-peter-paul-van-benthem",
+                    "publishedDate": "20/11/2026 17:32"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -862,17 +903,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
-            "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
-            "publishedDate": "20/11/2026 15:57",
-            "source": "studioalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat - Leeuwarder Courant",
             "link": "https://www.lc.nl/regio/friesland/terschelling/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734688.html",
             "publishedDate": "20/11/2026 15:55",
@@ -933,17 +963,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Pati\u00ebntenstop bij Zeeuwse Gronden, maar niet bij Zeeuwse ziekenhuizen - Omroep Zeeland",
-            "link": "https://www.omroepzeeland.nl/nieuws/18964047/patientenstop-bij-zeeuwse-gronden-maar-niet-bij-zeeuwse-ziekenhuizen",
-            "publishedDate": "20/11/2026 15:14",
-            "source": "omroepzeeland.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Droomhuis Dedemsvaart loopt vertraging op door terugtrekken Vechtdal Wonen",
@@ -1137,7 +1156,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bas van de Goor loopt ruim 100 kilometer voor diabetes: 'Wil voor anderen hetzelfde ...",
@@ -1375,17 +1394,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
-            "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
-            "publishedDate": "20/11/2026 05:09",
-            "source": "verzekeringsnieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Digiteam van De Zorgcirkel helpt ouderen langer zelfstandig thuis te wonen - Nieuw-Volendam",
             "link": "https://www.nieuw-volendam.nl/digiteam-van-de-zorgcirkel-helpt-ouderen-langer-zelfstandig-thuis-te-wonen/",
             "publishedDate": "20/11/2026 05:01",
@@ -1543,17 +1551,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Koninklijke onderscheiding in UMC - De Vierklank - Al het nieuws uit de gemeente De Bilt",
-            "link": "https://www.vierklank.nl/lokaal/overig/1328247/koninklijke-onderscheiding-in-umc",
-            "publishedDate": "19/11/2026 12:16",
-            "source": "vierklank.nl",
-            "category": "Overig",
-            "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Proactieve zorgbemiddeling: soms een nieuwe verwijzing nodig",
             "link": "https://www.lhv.nl/nieuws/proactieve-zorgbemiddeling-soms-een-nieuwe-verwijzing-nodig/",
             "publishedDate": "19/11/2026 11:55",
@@ -1573,7 +1570,7 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Nieuwe routekaart helpt ziekenhuizen naastenparticipatie duurzaam te verankeren",
