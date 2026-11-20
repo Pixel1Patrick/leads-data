@@ -40,10 +40,10 @@
             "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
             "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
             "publishedDate": "20/11/2026 16:35",
-            "source": "huisartsvandaag.nl, metronieuws.nl, studioalphen.nl, trouw.nl",
+            "source": "huisartsvandaag.nl, metronieuws.nl, studioalphen.nl, trouw.nl, verzekeringsnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 6,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
@@ -56,6 +56,12 @@
                     "source": "huisartsvandaag.nl",
                     "link": "https://huisartsvandaag.nl/meer-ziekenhuizen-weigeren-klanten-van-zilveren-kruis-vanwege-ontoereikend-budget-verzekeraar/",
                     "publishedDate": "20/11/2026 12:15"
+                },
+                {
+                    "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
+                    "source": "verzekeringsnieuws.nl",
+                    "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
+                    "publishedDate": "20/11/2026 05:09"
                 },
                 {
                     "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
@@ -81,24 +87,11 @@
             "title": "Fietser aangereden vlak bij spoedeisende hulp ziekenhuis - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035588/fietser-aangereden-vlak-bij-spoedeisende-hulp-ziekenhuis",
             "publishedDate": "20/11/2026 16:32",
-            "source": "bd.nl, ed.nl, omroepbrabant.nl",
+            "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Fietser aangereden pal voor ziekenhuis in Tilburg, slachtoffer snel naar eerste hulp | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/112-nieuws-tilburg/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-slachtoffer-snel-naar-eerste-hulp~a9afd65d/",
-                    "publishedDate": "20/11/2026 15:45"
-                },
-                {
-                    "title": "Fietser aangereden pal voor ziekenhuis in Tilburg - Eindhovens Dagblad",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/videos/productie/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-15094001",
-                    "publishedDate": "20/11/2026 15:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -230,6 +223,24 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Fietser aangereden pal voor ziekenhuis in Tilburg, slachtoffer snel naar eerste hulp | Regio",
+            "link": "https://www.bd.nl/112-nieuws-tilburg/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-slachtoffer-snel-naar-eerste-hulp~a9afd65d/",
+            "publishedDate": "20/11/2026 15:45",
+            "source": "bd.nl, ed.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Fietser aangereden pal voor ziekenhuis in Tilburg - Eindhovens Dagblad",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/videos/productie/fietser-aangereden-pal-voor-ziekenhuis-in-tilburg-15094001",
+                    "publishedDate": "20/11/2026 15:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -890,16 +901,22 @@
             "title": "Esther K. (36) achtervolgde met messen in auto een medewerker van Jeugdzorg | Apeldoorn",
             "link": "https://drimble.nl/regio/gelderland/apeldoorn/108657382/esther-k-36-achtervolgde-met-messen-in-auto-een-medewerker-van-jeugdzorg.html",
             "publishedDate": "20/11/2026 09:59",
-            "source": "destentor.nl, drimble.nl",
+            "source": "ad.nl, destentor.nl, drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Esther K. (36) achtervolgde met messen in auto een medewerker van Jeugdzorg | Regio",
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/apeldoorn/esther-k-36-achtervolgde-met-messen-in-auto-een-medewerker-van-jeugdzorg~a77deeca/",
                     "publishedDate": "20/11/2026 09:58"
+                },
+                {
+                    "title": "K. zwijgt over seksuele band met pati\u00ebnt in zorginstelling: 'Heb ik spijt? Nee, maar sommige ...",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/zeist/k-zwijgt-over-seksuele-band-met-patient-in-zorginstelling-heb-ik-spijt-nee-maar-sommige-dingen-moet-je-afhouden~a454de27/",
+                    "publishedDate": "20/11/2026 00:45"
                 }
             ],
             "belangrijkheid": 0
@@ -1004,17 +1021,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
-            "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
-            "publishedDate": "20/11/2026 05:09",
-            "source": "verzekeringsnieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Digiteam van De Zorgcirkel helpt ouderen langer zelfstandig thuis te wonen - Nieuw-Volendam",
             "link": "https://www.nieuw-volendam.nl/digiteam-van-de-zorgcirkel-helpt-ouderen-langer-zelfstandig-thuis-te-wonen/",
             "publishedDate": "20/11/2026 05:01",
@@ -1043,17 +1049,6 @@
             "source": "domusmedica.be",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "K. zwijgt over seksuele band met pati\u00ebnt in zorginstelling: 'Heb ik spijt? Nee, maar sommige ...",
-            "link": "https://www.ad.nl/zeist/k-zwijgt-over-seksuele-band-met-patient-in-zorginstelling-heb-ik-spijt-nee-maar-sommige-dingen-moet-je-afhouden~a454de27/",
-            "publishedDate": "20/11/2026 00:45",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1207,7 +1202,7 @@
             "source": "departementzorg.be",
             "category": "Overig",
             "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1461,28 +1456,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Gorinchemse helpt vrouwen de strijd met eten en overgewicht te stoppen - De Stad Gorinchem",
-            "link": "https://www.destadgorinchem.nl/lokaal/zakelijk/1329115/gorinchemse-helpt-vrouwen-de-strijd-met-eten-en-overgewicht-t",
-            "publishedDate": "19/11/2026 16:28",
-            "source": "destadgorinchem.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Oproep Fonds Duurzaam Materialen- en Energiebeheer 2026-2027 - Departement Zorg",
-            "link": "https://www.departementzorg.be/nl/nieuws/oproep-fonds-duurzaam-materialen-en-energiebeheer-2026-2027",
-            "publishedDate": "19/11/2026 16:27",
-            "source": "departementzorg.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Steeds meer kwetsbare ouderen krijgen passende acute zorg - De Stad Amersfoort",
             "link": "https://www.destadamersfoort.nl/extern-nieuws/gezondheid-meandermc/1329292/steeds-meer-kwetsbare-ouderen-krijgen-passende-acute-zorg",
             "publishedDate": "19/11/2026 16:22",
@@ -1691,7 +1664,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
