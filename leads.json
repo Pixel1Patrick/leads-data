@@ -336,7 +336,7 @@
                     "publishedDate": "20/11/2026 14:30"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
@@ -364,36 +364,11 @@
             "title": "Huisartsen worden verplicht om bij het ziektebriefje een Fit Note te geven: wat je nog w\u00e9l kan",
             "link": "https://p-magazine.com/nl/articles/huisartsen-worden-verplicht-om-bij-het-ziektebriefje-een-fit-note-te-geven-wat-je-nog-wel-kan",
             "publishedDate": "20/11/2026 17:04",
-            "source": "artsenkrant.pmg.be, despecialist.eu, gva.be, p-magazine.com, tijd.be",
+            "source": "p-magazine.com",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "'Fit note' komt eraan voor langdurig zieken: wat verandert er voor jou, je arts en je baas?",
-                    "source": "gva.be",
-                    "link": "https://www.gva.be/economie/fit-note-komt-eraan-voor-langdurig-zieken-wat-verandert-er-voor-jou-je-arts-en-je-baas/164870311.html",
-                    "publishedDate": "20/11/2026 16:36"
-                },
-                {
-                    "title": "Huisartsen krijgen vanaf september 2027 Fit Note ter beschikking - Artsenkrant",
-                    "source": "artsenkrant.pmg.be",
-                    "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2647S53_00",
-                    "publishedDate": "20/11/2026 16:19"
-                },
-                {
-                    "title": "Attest voor ziekenfonds krijgt extra vakjes: huisarts kan fitnote voorschrijven | De Tijd",
-                    "source": "tijd.be",
-                    "link": "https://www.tijd.be/politiek-economie/belgie/algemeen/attest-voor-ziekenfonds-krijgt-extra-vakjes-huisarts-kan-fitnote-voorschrijven/10706349.html",
-                    "publishedDate": "20/11/2026 15:40"
-                },
-                {
-                    "title": "Fit Note: Vandenbroucke kondigt invoering bij huisartsen aan - De Specialist",
-                    "source": "despecialist.eu",
-                    "link": "https://www.despecialist.eu/nl/nieuws/retour-au-travail-les-medecins-generalistes-disposeront-da-la-fit-note-a-partir-de-septembre.html",
-                    "publishedDate": "20/11/2026 15:09"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -480,6 +455,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "'Fit note' komt eraan voor langdurig zieken: wat verandert er voor jou, je arts en je baas?",
+            "link": "https://www.gva.be/economie/fit-note-komt-eraan-voor-langdurig-zieken-wat-verandert-er-voor-jou-je-arts-en-je-baas/164870311.html",
+            "publishedDate": "20/11/2026 16:36",
+            "source": "gva.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
             "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
             "publishedDate": "20/11/2026 16:35",
@@ -550,6 +536,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Huisartsen krijgen vanaf september 2027 Fit Note ter beschikking - Artsenkrant",
+            "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2647S53_00",
+            "publishedDate": "20/11/2026 16:19",
+            "source": "artsenkrant.pmg.be, despecialist.eu, tijd.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Attest voor ziekenfonds krijgt extra vakjes: huisarts kan fitnote voorschrijven | De Tijd",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/politiek-economie/belgie/algemeen/attest-voor-ziekenfonds-krijgt-extra-vakjes-huisarts-kan-fitnote-voorschrijven/10706349.html",
+                    "publishedDate": "20/11/2026 15:40"
+                },
+                {
+                    "title": "Fit Note: Vandenbroucke kondigt invoering bij huisartsen aan - De Specialist",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/retour-au-travail-les-medecins-generalistes-disposeront-da-la-fit-note-a-partir-de-septembre.html",
+                    "publishedDate": "20/11/2026 15:09"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Staking bussen en wegwerkzaamheden op maandag 23 en dinsdag 24 november",
             "link": "https://www.catharinaziekenhuis.nl/staking-bussen-en-wegwerkzaamheden-op-maandag-23-en-dinsdag-24-november-houd-rekening-met-extra-reistijd/",
             "publishedDate": "20/11/2026 16:10",
@@ -608,16 +618,28 @@
             "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat - Leeuwarder Courant",
             "link": "https://www.lc.nl/regio/friesland/terschelling/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734688.html",
             "publishedDate": "20/11/2026 15:55",
-            "source": "dvhn.nl, lc.nl",
+            "source": "ditjesendatjes.nl, dvhn.nl, lc.nl, zoetermeersdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat | Dagblad van het Noorden - DVHN",
                     "source": "dvhn.nl",
                     "link": "https://www.dvhn.nl/regio/groningen/wadden/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734691.html",
                     "publishedDate": "20/11/2026 15:54"
+                },
+                {
+                    "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Zoetermeers Dagblad",
+                    "source": "zoetermeersdagblad.nl",
+                    "link": "https://zoetermeersdagblad.nl/Landelijk/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
+                    "publishedDate": "20/11/2026 13:54"
+                },
+                {
+                    "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Ditjes en Datjes",
+                    "source": "ditjesendatjes.nl",
+                    "link": "https://www.ditjesendatjes.nl/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
+                    "publishedDate": "20/11/2026 13:04"
                 }
             ],
             "belangrijkheid": 0
@@ -703,11 +725,18 @@
             "title": "Pati\u00ebntenstop bij Zeeuwse Gronden, maar niet bij Zeeuwse ziekenhuizen - Omroep Zeeland",
             "link": "https://www.omroepzeeland.nl/nieuws/18964047/patientenstop-bij-zeeuwse-gronden-maar-niet-bij-zeeuwse-ziekenhuizen",
             "publishedDate": "20/11/2026 15:14",
-            "source": "omroepzeeland.nl",
+            "source": "nl.headtopics.com, omroepzeeland.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
+                    "publishedDate": "20/11/2026 14:13"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -839,17 +868,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
-            "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
-            "publishedDate": "20/11/2026 14:13",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Warande voorlopig nog niet van Driebergse seniorenwoningen af - PropertyNL",
             "link": "https://propertynl.com/Nieuws/Warande-voorlopig-nog-niet-van-Driebergse-seniorenwoningen-af/a55b9248-3876-4190-915a-b3516c64d38b",
             "publishedDate": "20/11/2026 14:13",
@@ -891,24 +909,6 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Zoetermeers Dagblad",
-            "link": "https://zoetermeersdagblad.nl/Landelijk/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
-            "publishedDate": "20/11/2026 13:54",
-            "source": "ditjesendatjes.nl, zoetermeersdagblad.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Hermans: tijdelijke pati\u00ebntenstops horen bij zorgstelsel - Ditjes en Datjes",
-                    "source": "ditjesendatjes.nl",
-                    "link": "https://www.ditjesendatjes.nl/hermans-tijdelijke-patientenstops-horen-bij-zorgstelsel",
-                    "publishedDate": "20/11/2026 13:04"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -982,7 +982,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bas van de Goor loopt ruim 100 kilometer voor diabetes: 'Wil voor anderen hetzelfde ...",
@@ -1692,7 +1692,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
