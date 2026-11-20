@@ -51,7 +51,7 @@
                     "publishedDate": "20/11/2026 16:57"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over motie over Voxzogo ",
@@ -75,31 +75,12 @@
             "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
             "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
             "publishedDate": "20/11/2026 16:35",
-            "source": "huisartsvandaag.nl, metronieuws.nl, studioalphen.nl, trouw.nl",
+            "source": "studioalphen.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
-                    "publishedDate": "20/11/2026 15:55"
-                },
-                {
-                    "title": "Meer ziekenhuizen weigeren klanten van Zilveren Kruis vanwege ontoereikend budget verzekeraar",
-                    "source": "huisartsvandaag.nl",
-                    "link": "https://huisartsvandaag.nl/meer-ziekenhuizen-weigeren-klanten-van-zilveren-kruis-vanwege-ontoereikend-budget-verzekeraar/",
-                    "publishedDate": "20/11/2026 12:15"
-                },
-                {
-                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
-                    "publishedDate": "19/11/2026 22:07"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Oudere fietser met spoed naar ziekenhuis, traumahelikopter landt - NoorderNieuws",
@@ -197,11 +178,18 @@
             "title": "Astrid Holleeder heeft openhartoperatie ondergaan: 'Zal nu wat aan moeten sterken'",
             "link": "https://www.rtl.nl/boulevard/artikel/5666186/astrid-holleeder-heeft-openhartoperatie-ondergaan",
             "publishedDate": "20/11/2026 16:00",
-            "source": "rtl.nl",
+            "source": "nu.nl, rtl.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Astrid Holleeder heeft openhartoperatie ondergaan: 'Tijdje van de radar' | Achterklap - NU",
+                    "source": "nu.nl",
+                    "link": "https://www.nu.nl/achterklap/6417188/astrid-holleeder-heeft-openhartoperatie-ondergaan-tijdje-van-de-radar.html",
+                    "publishedDate": "20/11/2026 15:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -221,6 +209,42 @@
                 }
             ],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
+            "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
+            "publishedDate": "20/11/2026 15:55",
+            "source": "huisartsvandaag.nl, metronieuws.nl, nl.headtopics.com, omroepzeeland.nl, trouw.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
+                    "publishedDate": "20/11/2026 14:13"
+                },
+                {
+                    "title": "Geen pati\u00ebntenstop bij Zeeuwse ziekenhuizen, wel bij GGZ-instelling Zeeuwse Gronden",
+                    "source": "omroepzeeland.nl",
+                    "link": "https://www.omroepzeeland.nl/nieuws/18964047/geen-patientenstop-bij-zeeuwse-ziekenhuizen-wel-bij-ggz-instelling-zeeuwse-gronden",
+                    "publishedDate": "20/11/2026 14:12"
+                },
+                {
+                    "title": "Meer ziekenhuizen weigeren klanten van Zilveren Kruis vanwege ontoereikend budget verzekeraar",
+                    "source": "huisartsvandaag.nl",
+                    "link": "https://huisartsvandaag.nl/meer-ziekenhuizen-weigeren-klanten-van-zilveren-kruis-vanwege-ontoereikend-budget-verzekeraar/",
+                    "publishedDate": "20/11/2026 12:15"
+                },
+                {
+                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/lifestyle/fit-gezond/2026/11/klanten-zilveren-kruis-niet-welkom-ziekenhuizen/",
+                    "publishedDate": "19/11/2026 22:07"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Extra aandacht voor zorg voor daklozen - Omroep Horst aan de Maas",
@@ -248,11 +272,18 @@
             "title": "Attest voor ziekenfonds krijgt extra vakjes: huisarts kan fitnote voorschrijven | De Tijd",
             "link": "https://www.tijd.be/politiek-economie/belgie/algemeen/attest-voor-ziekenfonds-krijgt-extra-vakjes-huisarts-kan-fitnote-voorschrijven/10706349.html",
             "publishedDate": "20/11/2026 15:40",
-            "source": "tijd.be",
+            "source": "despecialist.eu, tijd.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Fit Note: Vandenbroucke kondigt invoering bij huisartsen aan - De Specialist",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/retour-au-travail-les-medecins-generalistes-disposeront-da-la-fit-note-a-partir-de-septembre.html",
+                    "publishedDate": "20/11/2026 15:09"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -314,24 +345,11 @@
             "title": "Pati\u00ebntenstop bij Zeeuwse Gronden, maar niet bij Zeeuwse ziekenhuizen - Omroep Zeeland",
             "link": "https://www.omroepzeeland.nl/nieuws/18964047/patientenstop-bij-zeeuwse-gronden-maar-niet-bij-zeeuwse-ziekenhuizen",
             "publishedDate": "20/11/2026 15:14",
-            "source": "nl.headtopics.com, omroepzeeland.nl",
+            "source": "omroepzeeland.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
-                    "publishedDate": "20/11/2026 14:13"
-                },
-                {
-                    "title": "Geen pati\u00ebntenstop bij Zeeuwse ziekenhuizen, wel bij GGZ-instelling Zeeuwse Gronden",
-                    "source": "omroepzeeland.nl",
-                    "link": "https://www.omroepzeeland.nl/nieuws/18964047/geen-patientenstop-bij-zeeuwse-ziekenhuizen-wel-bij-ggz-instelling-zeeuwse-gronden",
-                    "publishedDate": "20/11/2026 14:12"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -341,17 +359,6 @@
             "source": "detoren.net",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Fit Note: Vandenbroucke kondigt invoering bij huisartsen aan - De Specialist",
-            "link": "https://www.despecialist.eu/nl/nieuws/retour-au-travail-les-medecins-generalistes-disposeront-da-la-fit-note-a-partir-de-septembre.html",
-            "publishedDate": "20/11/2026 15:09",
-            "source": "despecialist.eu",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -376,18 +383,7 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Astrid Holleeder heeft openhartoperatie ondergaan: 'Tijdje van de radar' | Achterklap - NU",
-            "link": "https://www.nu.nl/achterklap/6417188/astrid-holleeder-heeft-openhartoperatie-ondergaan-tijdje-van-de-radar.html",
-            "publishedDate": "20/11/2026 15:00",
-            "source": "nu.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Column door Bert Heikens, huisarts te Haren (november 2026)",
@@ -449,7 +445,7 @@
                     "publishedDate": "20/11/2026 14:25"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Welzijn op Recept helpt inwoners bij stress, somberheid en eenzaamheid - DVHN",
@@ -550,7 +546,7 @@
                     "publishedDate": "20/11/2026 12:30"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De apotheker GLP-1 - Medisch Dossier",
@@ -572,7 +568,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Niet alleen Kiev onder vuur, ook Russische aanvallen op andere Oekra\u00efense steden - De Telegraaf",
@@ -594,7 +590,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Informatieavond over de laatste levensfase in PX Volendam",
@@ -762,7 +758,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Minder trek, toch uit eten: wat betekent afslankmedicatie voor de horeca? - Food Inspiration",
@@ -1083,11 +1079,18 @@
             "title": "Man springt voor bezorgbus aan Puntenburgerlaan en wordt met taser overmeesterd",
             "link": "https://112amersfoort.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
             "publishedDate": "20/11/2026 00:20",
-            "source": "112amersfoort.nl",
+            "source": "112amersfoort.nl, 112inbeeld.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
+                    "source": "112inbeeld.nl",
+                    "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
+                    "publishedDate": "19/11/2026 19:28"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1292,17 +1295,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
-            "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
-            "publishedDate": "19/11/2026 19:28",
-            "source": "112inbeeld.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Jeugdzorg steeds duurder dan begroot, toch wil Vlaardingen de stijging afremmen - Twee",
             "link": "https://ditistwee.nl/nieuws/26704/jeugdzorg-steeds-duurder-dan-begroot-toch-wil-vlaardingen-de-stijging-afremmen",
             "publishedDate": "19/11/2026 19:17",
@@ -1483,7 +1475,7 @@
                     "publishedDate": "19/11/2026 16:12"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Terneuzen houdt inloopspreekuren over zorgverzekering voor inwoners met laag inkomen",
@@ -1545,7 +1537,7 @@
                     "publishedDate": "19/11/2026 13:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
@@ -1563,7 +1555,7 @@
                     "publishedDate": "19/11/2026 14:17"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamervragen over de stijging van verplichte zorg in de ggz",
@@ -1581,7 +1573,7 @@
                     "publishedDate": "19/11/2026 13:29"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Koninklijke onderscheiding in UMC - De Vierklank - Al het nieuws uit de gemeente De Bilt",
@@ -1614,7 +1606,7 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Uitstelbrief op Kamervragen van de leden Vliegenthart, Westerveld en Kathmann (allen PRO) over alarmknoppen en medische hulpmiddelen",
@@ -1632,7 +1624,7 @@
                     "publishedDate": "19/11/2026 10:18"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Oudere bewoners Kraaijbeek halen hoop uit uitspraak van rechter - RTV Utrecht",
@@ -1665,7 +1657,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
@@ -1753,7 +1745,7 @@
             "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ontregelen vanuit vertrouwen: samen naar 20% zinnige administratie en meer werkplezier",
@@ -1786,7 +1778,7 @@
             "feed_label": "VWS Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
