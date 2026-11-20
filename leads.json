@@ -239,7 +239,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "GLP-1-medicijnen gekoppeld aan verbeteringen van het hart bij pati\u00ebnten met obesitas en hartfalen",
@@ -673,18 +673,11 @@
             "title": "Leidse vrouw (64) overleden nadat auto te water raakt in Amsterdam - Sleutelstad",
             "link": "https://sleutelstad.nl/2026/11/20/leidse-vrouw-64-overleden-nadat-auto-te-water-raakt-in-amsterdam/",
             "publishedDate": "20/11/2026 09:12",
-            "source": "politie.nl, sleutelstad.nl",
+            "source": "sleutelstad.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Vrouw (64) overleden na auto te water Herengracht - Politie.nl",
-                    "source": "politie.nl",
-                    "link": "https://www.politie.nl/nieuws/2026/november/20/05-vrouw-64-overleden-na-auto-te-water-herengracht.html",
-                    "publishedDate": "20/11/2026 08:54"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -716,6 +709,17 @@
             "source": "cvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Vrouw (64) overleden na auto te water Herengracht - Politie.nl",
+            "link": "https://www.politie.nl/nieuws/2026/november/20/05-vrouw-64-overleden-na-auto-te-water-herengracht.html",
+            "publishedDate": "20/11/2026 08:54",
+            "source": "politie.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1707,7 +1711,7 @@
             "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ontregelen vanuit vertrouwen: samen naar 20% zinnige administratie en meer werkplezier",
@@ -1740,7 +1744,7 @@
             "feed_label": "VWS Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
