@@ -118,7 +118,7 @@
                     "publishedDate": "20/11/2026 11:24"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Najaarsbijeenkomst Expertisecentrum Myotone Dystrofie - Samen werken aan beter ...",
@@ -362,18 +362,11 @@
             "title": "Leidse vrouw (64) overleden nadat auto te water raakt in Amsterdam - Sleutelstad",
             "link": "https://sleutelstad.nl/2026/11/20/leidse-vrouw-64-overleden-nadat-auto-te-water-raakt-in-amsterdam/",
             "publishedDate": "20/11/2026 09:12",
-            "source": "politie.nl, sleutelstad.nl",
+            "source": "sleutelstad.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Vrouw (64) overleden na auto te water Herengracht - Politie.nl",
-                    "source": "politie.nl",
-                    "link": "https://www.politie.nl/nieuws/2026/november/20/05-vrouw-64-overleden-na-auto-te-water-herengracht.html",
-                    "publishedDate": "20/11/2026 08:54"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -405,6 +398,17 @@
             "source": "cvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Vrouw (64) overleden na auto te water Herengracht - Politie.nl",
+            "link": "https://www.politie.nl/nieuws/2026/november/20/05-vrouw-64-overleden-na-auto-te-water-herengracht.html",
+            "publishedDate": "20/11/2026 08:54",
+            "source": "politie.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -625,16 +629,22 @@
             "title": "Meander ziet meer pati\u00ebnten met onbegrepen gedrag op SEH - Nijkerk Nieuws",
             "link": "https://nijkerk.nieuws.nl/gezondheidspagina/meander-ziet-meer-patienten-met-onbegrepen-gedrag-op-seh",
             "publishedDate": "20/11/2026 00:38",
-            "source": "drimble.nl, nijkerk.nieuws.nl",
+            "source": "drimble.nl, nijkerk.nieuws.nl, nijkerkerveen.org",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Meander ziet meer pati\u00ebnten met onbegrepen gedrag op SEH | De Vallei - Drimble",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/regio/gelderland/de-vallei/108651198/meander-ziet-meer-patienten-met-onbegrepen-gedrag-op-seh.html",
                     "publishedDate": "19/11/2026 19:49"
+                },
+                {
+                    "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
+                    "source": "nijkerkerveen.org",
+                    "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
+                    "publishedDate": "19/11/2026 16:31"
                 }
             ],
             "belangrijkheid": 0
@@ -1181,17 +1191,6 @@
             "source": "nrc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Steeds vaker onbegrepen gedrag op spoedeisende hulp: Meander versterkt regionale ...",
-            "link": "https://www.nijkerkerveen.org/steeds-vaker-onbegrepen-gedrag-op-spoedeisende-hulp-meander-versterkt-regionale-samenwerking/",
-            "publishedDate": "19/11/2026 16:31",
-            "source": "nijkerkerveen.org",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
