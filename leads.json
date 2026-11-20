@@ -71,7 +71,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat - Leeuwarder Courant",
@@ -166,7 +166,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Droomhuis Dedemsvaart loopt vertraging op door terugtrekken Vechtdal Wonen",
@@ -377,11 +377,18 @@
             "title": "Actiepagina voor Cao GGZ gelanceerd",
             "link": "https://www.lad.nl/actiepagina-voor-cao-ggz-gelanceerd/",
             "publishedDate": "20/11/2026 13:24",
-            "source": "lad.nl",
+            "source": "fbz.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Actiepagina voor Cao GGZ gelanceerd \u2014 FBZ \u2014 Vakbond voor zorgprofessionals",
+                    "source": "fbz.nl",
+                    "link": "https://www.fbz.nl/nieuws/2026/actiepagina-voor-cao-ggz-gelanceerd/",
+                    "publishedDate": "20/11/2026 12:48"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -394,17 +401,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Actiepagina voor Cao GGZ gelanceerd \u2014 FBZ \u2014 Vakbond voor zorgprofessionals",
-            "link": "https://www.fbz.nl/nieuws/2026/actiepagina-voor-cao-ggz-gelanceerd/",
-            "publishedDate": "20/11/2026 12:48",
-            "source": "fbz.nl",
-            "category": "Vakbonden",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "Veganistisch eten kan ouderen spiermassa kosten | Nieuws | De Gelderlander.nl",
@@ -560,22 +556,30 @@
             "title": "Heerlen krijgt eerste 'bejaardentehuis' voor oudere tbs'ers - Hart van Nederland",
             "link": "https://www.hartvannederland.nl/milieu-gezondheid/zorg/artikelen/bejaardentehuis-oudere-tbsers-heerlen",
             "publishedDate": "20/11/2026 11:22",
-            "source": "hartvannederland.nl",
+            "source": "ggznieuws.nl, hartvannederland.nl, limburger.nl, parkstadactueel.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Eerste verpleegafdeling voor zieke tbs'ers op leeftijd in Heerlen: 'Ze zitten onnodig ... - De Limburger",
-            "link": "https://www.limburger.nl/regio/heerlen/eerste-verpleegafdeling-voor-zieke-tbsers-op-leeftijd-in-heerlen-ze-zitten-onnodig-in-een-zwaarbeveiligde-omgeving/164835620.html",
-            "publishedDate": "20/11/2026 11:10",
-            "source": "limburger.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Eerste verpleegafdeling voor zieke tbs'ers op leeftijd in Heerlen: 'Ze zitten onnodig ... - De Limburger",
+                    "source": "limburger.nl",
+                    "link": "https://www.limburger.nl/regio/heerlen/eerste-verpleegafdeling-voor-zieke-tbsers-op-leeftijd-in-heerlen-ze-zitten-onnodig-in-een-zwaarbeveiligde-omgeving/164835620.html",
+                    "publishedDate": "20/11/2026 11:10"
+                },
+                {
+                    "title": "Mondriaan opent in 2027 unieke forensische afdeling voor ouderen in Heerlen -",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/mondriaan-opent-in-2027-unieke-forensische-afdeling-voor-ouderen-in-heerlen/",
+                    "publishedDate": "20/11/2026 11:03"
+                },
+                {
+                    "title": "Mondriaan opent forensische afdeling voor ouderen in Heerlen - Parkstad Actueel Nieuws",
+                    "source": "parkstadactueel.nl",
+                    "link": "https://parkstadactueel.nl/2026/11/20/mondriaan-forensische-afdeling-ouderen-heerlen/",
+                    "publishedDate": "20/11/2026 11:02"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -587,24 +591,6 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Mondriaan opent in 2027 unieke forensische afdeling voor ouderen in Heerlen -",
-            "link": "https://www.ggznieuws.nl/mondriaan-opent-in-2027-unieke-forensische-afdeling-voor-ouderen-in-heerlen/",
-            "publishedDate": "20/11/2026 11:03",
-            "source": "ggznieuws.nl, parkstadactueel.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Mondriaan opent forensische afdeling voor ouderen in Heerlen - Parkstad Actueel Nieuws",
-                    "source": "parkstadactueel.nl",
-                    "link": "https://parkstadactueel.nl/2026/11/20/mondriaan-forensische-afdeling-ouderen-heerlen/",
-                    "publishedDate": "20/11/2026 11:02"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -751,7 +737,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Verslag van een schriftelijk overleg over reactie op verzoek commissie om een stand-van zaken brief over Villa ExpertCare",
@@ -1652,15 +1638,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-                    "publishedDate": "19/11/2026 10:18"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+            "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+            "publishedDate": "19/11/2026 10:18",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
