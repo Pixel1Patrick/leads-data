@@ -408,13 +408,19 @@
             "source": "ad.nl, gelderlander.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Willem (81) bleef aarzelen over de coronaprik, maar toen zei zijn huisarts dit - De Gelderlander",
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/wijchen/willem-81-bleef-aarzelen-over-de-coronaprik-maar-toen-zei-zijn-huisarts-dit~aa71a554/",
                     "publishedDate": "19/11/2026 12:59"
+                },
+                {
+                    "title": "CAM houdt lezing in Molenhoek over eiwitmachines in het lichaam - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/mook-en-middelaar/cam-houdt-lezing-in-molenhoek-over-eiwitmachines-in-het-lichaam~a23335b8/",
+                    "publishedDate": "19/11/2026 16:52"
                 }
             ],
             "belangrijkheid": 0
@@ -545,7 +551,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Deze Viagra-achtige pil biedt mogelijk hoop voor Alzheimerpati\u00ebnten | De Telegraaf",
@@ -788,17 +794,6 @@
             "source": "nporadio1.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "CAM houdt lezing in Molenhoek over eiwitmachines in het lichaam - De Gelderlander",
-            "link": "https://www.gelderlander.nl/mook-en-middelaar/cam-houdt-lezing-in-molenhoek-over-eiwitmachines-in-het-lichaam~a23335b8/",
-            "publishedDate": "19/11/2026 16:52",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1078,16 +1073,22 @@
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
             "link": "https://open.overheid.nl/details/5bd6700b-265b-46de-b30b-2bd6d5c98b56",
             "publishedDate": "19/11/2026 14:17",
-            "source": "open.overheid.nl",
+            "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
                     "publishedDate": "19/11/2026 14:17"
+                },
+                {
+                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+                    "publishedDate": "19/11/2026 13:00"
                 }
             ],
             "belangrijkheid": 0
@@ -1210,17 +1211,6 @@
                     "publishedDate": "19/11/2026 13:29"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-            "publishedDate": "19/11/2026 13:00",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1723,18 +1713,11 @@
             "title": "Antibioticaresistentie groeit: CBG vraagt aandacht voor verstandig antibioticagebruik",
             "link": "https://www.cbg-meb.nl/actueel/nieuws/2026/11/18/antibioticaresistentie-groeit-cbg-vraagt-aandacht-voor-verstandig-antibioticagebruik",
             "publishedDate": "18/11/2026 15:30",
-            "source": "cbg-meb.nl, rivm.nl",
+            "source": "cbg-meb.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
-                    "publishedDate": "17/11/2026 10:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1864,6 +1847,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Meer resistente bacteri\u00ebn in Nederland: goed omgaan met antibiotica belangrijk",
+            "link": "https://www.rivm.nl/nieuws/meer-resistente-bacterien-in-nederland-goed-omgaan-met-antibiotica-belangrijk",
+            "publishedDate": "17/11/2026 10:57",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "\u2018Voorstel zwarte lijst is puur paniekvoetbal\u2019",
