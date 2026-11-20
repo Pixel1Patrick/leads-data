@@ -9,7 +9,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Besluit van de Algemeen Directeur van het CIBG van 27 juli 2026, nr. CIBG 26-10132, houdende actualisering van het Ondermandaatbesluit CIBG en het Ondervolmachtbesluit CIBG",
@@ -60,7 +60,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Verslag van een schriftelijk overleg over reactie op verzoek commissie om een stand-van zaken brief over Villa ExpertCare",
@@ -977,15 +977,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-                    "publishedDate": "19/11/2026 16:12"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+            "publishedDate": "19/11/2026 16:12",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1146,18 +1150,11 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 14:17",
-            "source": "igj.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-                    "publishedDate": "19/11/2026 13:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1237,11 +1234,36 @@
             "title": "Bewoners Kraaijbeek willen nu doorpakken: 'Gemeenteraad moet college op het matje roepen'",
             "link": "https://www.nieuwsbladdekaap.nl/lokaal/politiek/1329256/bewoners-kraaijbeek-willen-nu-doorpakken-gemeenteraad-moet-co",
             "publishedDate": "19/11/2026 14:00",
-            "source": "nieuwsbladdekaap.nl",
+            "source": "nieuwsbladdekaap.nl, nl.headtopics.com, rtvutrecht.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Verkoop van wooncomplex Kraaijbeek in Driebergen wordt lastiger, rechter fluit eigenaar terug",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/verkoop-van-wooncomplex-kraaijbeek-in-driebergen-wordt-89994199",
+                    "publishedDate": "19/11/2026 12:03"
+                },
+                {
+                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
+                    "source": "rtvutrecht.nl",
+                    "link": "https://www.rtvutrecht.nl/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
+                    "publishedDate": "19/11/2026 11:09"
+                },
+                {
+                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
+                    "source": "rtvutrecht.nl",
+                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
+                    "publishedDate": "19/11/2026 11:07"
+                },
+                {
+                    "title": "Oudere bewoners Kraaijbeek halen hoop uit uitspraak van rechter - RTV Utrecht",
+                    "source": "rtvutrecht.nl",
+                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/oudere-bewoners-kraaijbeek-halen-hoop-uit-uitspraak-van-rechter-geef-kraaijbeek-terug",
+                    "publishedDate": "19/11/2026 09:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1271,6 +1293,17 @@
                     "publishedDate": "19/11/2026 13:29"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+            "publishedDate": "19/11/2026 13:00",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1337,36 +1370,6 @@
             "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Verkoop van wooncomplex Kraaijbeek in Driebergen wordt lastiger, rechter fluit eigenaar terug",
-            "link": "https://nl.headtopics.com/news/verkoop-van-wooncomplex-kraaijbeek-in-driebergen-wordt-89994199",
-            "publishedDate": "19/11/2026 12:03",
-            "source": "nl.headtopics.com, rtvutrecht.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
-                    "publishedDate": "19/11/2026 11:09"
-                },
-                {
-                    "title": "Verkoop van wooncomplex Kraaijbeek wordt lastiger, rechter fluit eigenaar terug - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/verkoop-van-wooncomplex-kraaijbeek-wordt-lastiger-rechter-fluit-eigenaar-terug",
-                    "publishedDate": "19/11/2026 11:07"
-                },
-                {
-                    "title": "Oudere bewoners Kraaijbeek halen hoop uit uitspraak van rechter - RTV Utrecht",
-                    "source": "rtvutrecht.nl",
-                    "link": "https://www.rtvutrecht.nl/amp/nieuws/4120700/oudere-bewoners-kraaijbeek-halen-hoop-uit-uitspraak-van-rechter-geef-kraaijbeek-terug",
-                    "publishedDate": "19/11/2026 09:42"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1508,8 +1511,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
+                    "publishedDate": "19/11/2026 10:18"
+                },
+                {
+                    "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
+                    "publishedDate": "19/11/2026 10:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1519,17 +1535,6 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Uitstelbrief op Kamervragen van de leden Synhaeve en Schoonis (beiden D66) over het bericht 'Tienduizenden alarmknoppen voor ouderen werken straks niet meer'",
-            "link": "https://open.overheid.nl/details/b3e4eda7-9d6e-4236-8123-c7efe1dcaf80",
-            "publishedDate": "19/11/2026 10:18",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1574,17 +1579,6 @@
             "source": "derestaurantkrant.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Uitstelbrief op Kamervragen van het lid Maeijer (PVV) over alarmknoppen van ouderen die zullen worden uitgeschakeld n.a.v. het uitzetten van het 2G netwerk",
-            "link": "https://open.overheid.nl/details/42ec992b-509f-4c2b-80be-1620f05f2de3",
-            "publishedDate": "19/11/2026 10:03",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1671,7 +1665,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Vrijdag in 'Meldpunt Actueel': meer alcoholgerelateerde zorg, minder geld voor preventie",
@@ -1832,7 +1826,7 @@
                     "publishedDate": "16/11/2026 16:09"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
@@ -2557,17 +2551,6 @@
             "source": "tuchtcollege-gezondheidszorg.nl",
             "category": "Overig",
             "feed_label": "Tuchtcollege voor de Gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[ACM] ACM onderzoekt Biogen vanwege mogelijk misbruik machtspositie rondom MS-medicatie",
-            "link": "https://www.acm.nl/nl/publicaties/acm-onderzoekt-biogen-vanwege-mogelijk-misbruik-machtspositie-rondom-ms-medicatie",
-            "publishedDate": "06/11/2026 10:56",
-            "source": "acm.nl",
-            "category": "Overig",
-            "feed_label": "ACM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
