@@ -116,18 +116,11 @@
             "title": "Man springt voor bezorgbus aan Puntenburgerlaan en wordt met taser overmeesterd",
             "link": "https://112amersfoort.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
             "publishedDate": "20/11/2026 00:20",
-            "source": "112amersfoort.nl, 112inbeeld.nl",
+            "source": "112amersfoort.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
-                    "source": "112inbeeld.nl",
-                    "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
-                    "publishedDate": "19/11/2026 19:28"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -545,7 +538,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Deze Viagra-achtige pil biedt mogelijk hoop voor Alzheimerpati\u00ebnten | De Telegraaf",
@@ -586,6 +579,17 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
+            "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
+            "publishedDate": "19/11/2026 19:28",
+            "source": "112inbeeld.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "AZORG en brandweer oefenen grootschalige brandevacuatie in ziekenhuis Geraardsbergen.",
@@ -1067,33 +1071,34 @@
             "title": "Werkagenda 2027-2028",
             "link": "https://open.overheid.nl/details/bed3abd1-1b06-46f8-86ed-f1c67fa44522",
             "publishedDate": "19/11/2026 14:17",
-            "source": "open.overheid.nl",
+            "source": "igj.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
+                    "publishedDate": "19/11/2026 13:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over ontwikkeling van het Wmo-toezicht ",
             "link": "https://open.overheid.nl/details/5bd6700b-265b-46de-b30b-2bd6d5c98b56",
             "publishedDate": "19/11/2026 14:17",
-            "source": "igj.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over ontwikkeling van het Wmo-toezicht ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/070dd208-886d-47b7-b56b-11ab365f284f",
                     "publishedDate": "19/11/2026 14:17"
-                },
-                {
-                    "title": "Complexe maatschappelijke problemen staan centraal in TSD-Werkagenda 2027-2028",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/19/complexe-maatschappelijke-problemen-staan-centraal-in-tsd-werkagenda-2027-2028",
-                    "publishedDate": "19/11/2026 13:00"
                 }
             ],
             "belangrijkheid": 0
@@ -1610,7 +1615,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuwe routekaart helpt ziekenhuizen naastenparticipatie duurzaam te verankeren",
