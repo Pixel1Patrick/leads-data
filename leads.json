@@ -264,18 +264,11 @@
             "title": "Leidse vrouw (64) overleden nadat auto te water raakt in Amsterdam - Sleutelstad",
             "link": "https://sleutelstad.nl/2026/11/20/leidse-vrouw-64-overleden-nadat-auto-te-water-raakt-in-amsterdam/",
             "publishedDate": "20/11/2026 09:12",
-            "source": "politie.nl, sleutelstad.nl",
+            "source": "sleutelstad.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Vrouw (64) overleden na auto te water Herengracht - Politie.nl",
-                    "source": "politie.nl",
-                    "link": "https://www.politie.nl/nieuws/2026/november/20/05-vrouw-64-overleden-na-auto-te-water-herengracht.html",
-                    "publishedDate": "20/11/2026 08:54"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -307,6 +300,17 @@
             "source": "cvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Vrouw (64) overleden na auto te water Herengracht - Politie.nl",
+            "link": "https://www.politie.nl/nieuws/2026/november/20/05-vrouw-64-overleden-na-auto-te-water-herengracht.html",
+            "publishedDate": "20/11/2026 08:54",
+            "source": "politie.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -562,18 +566,11 @@
             "title": "Man springt voor bezorgbus aan Puntenburgerlaan en wordt met taser overmeesterd",
             "link": "https://112amersfoort.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
             "publishedDate": "20/11/2026 00:20",
-            "source": "112amersfoort.nl, 112inbeeld.nl",
+            "source": "112amersfoort.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
-                    "source": "112inbeeld.nl",
-                    "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
-                    "publishedDate": "19/11/2026 19:28"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -898,6 +895,17 @@
             "source": "fondswervingonline.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Man gewond na incident met bezorgbus in Amersfoort: taser ingezet bij aanhouding",
+            "link": "https://112inbeeld.nl/112-melding-aan-de-puntenburgerlaan-in-amersfoort-3/",
+            "publishedDate": "19/11/2026 19:28",
+            "source": "112inbeeld.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1811,7 +1819,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
