@@ -146,25 +146,19 @@
             "title": "Wilhelmina Ziekenhuis Assen stelt 38 operaties uit door problemen met instrumenten",
             "link": "https://drenthe.nieuws.nl/nieuws/wilhelmina-ziekenhuis-assen-stelt-38-operaties-uit-door-problemen-met-instrumenten",
             "publishedDate": "20/11/2026 23:50",
-            "source": "assenstad.nl, drenthe.nieuws.nl, tubantia.nl",
+            "source": "assenstad.nl, drenthe.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Wilhelmina Ziekenhuis Assen stelt 38 operaties uit door problemen met instrumenten",
                     "source": "assenstad.nl",
                     "link": "https://www.assenstad.nl/assen/15034-wilhelmina-ziekenhuis-assen-stelt-38-operaties-uit-door-problemen-met-instrumenten",
                     "publishedDate": "20/11/2026 23:44"
-                },
-                {
-                    "title": "MST in Oldenzaal krijgt eigen CT-scanner: sneller onderzoek voor hartpati\u00ebnten - Tubantia",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/oldenzaal/mst-in-oldenzaal-krijgt-eigen-ct-scanner-sneller-onderzoek-voor-hartpatienten~ad5dcd241/",
-                    "publishedDate": "20/11/2026 21:46"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Jasons strijd tegen misstanden in de jeugdzorg werd gedreven door zijn eigen ervaringen ...",
@@ -303,6 +297,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "MST in Oldenzaal krijgt eigen CT-scanner: sneller onderzoek voor hartpati\u00ebnten - Tubantia",
+            "link": "https://www.tubantia.nl/oldenzaal/mst-in-oldenzaal-krijgt-eigen-ct-scanner-sneller-onderzoek-voor-hartpatienten~ad5dcd241/",
+            "publishedDate": "20/11/2026 21:46",
+            "source": "tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Wat is de 'fitnote', en gaat die zieken echt weer sneller aan het werk krijgen? | De Morgen",
             "link": "https://www.demorgen.be/politiek/wat-is-de-fitnote-en-gaat-die-zieken-echt-weer-sneller-aan-het-werk-krijgen~b933ba25/",
             "publishedDate": "20/11/2026 21:34",
@@ -434,24 +439,11 @@
             "title": "KB regelt zorgbeleid voor adolescenten en jongvolwassenen met kanker (AYA)",
             "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2647E05/EAKbe2647S54_00",
             "publishedDate": "20/11/2026 21:10",
-            "source": "artsenkrant.pmg.be, open.overheid.nl",
+            "source": "artsenkrant.pmg.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over motie over Voxzogo ",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/93eba40a-a20e-4f9c-ba43-ff1bb30fd0a5",
-                    "publishedDate": "20/11/2026 16:41"
-                },
-                {
-                    "title": "[WOO] Antwoorden op Kamervragen over motie over Voxzogo ",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/e8d0d987-5485-43d8-aecd-1920baedc719",
-                    "publishedDate": "20/11/2026 16:41"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -846,6 +838,24 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over motie over Voxzogo ",
+            "link": "https://open.overheid.nl/details/93eba40a-a20e-4f9c-ba43-ff1bb30fd0a5",
+            "publishedDate": "20/11/2026 16:41",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[WOO] Antwoorden op Kamervragen over motie over Voxzogo ",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e8d0d987-5485-43d8-aecd-1920baedc719",
+                    "publishedDate": "20/11/2026 16:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1527,7 +1537,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
