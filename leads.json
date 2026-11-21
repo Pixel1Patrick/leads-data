@@ -724,33 +724,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 12 november 2026, kenmerk 2026-3215310/IT2113634, houdende de verlenging van de verleende vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Mitoxantron Sandoz 2 mg/ml, concentraat voor oplossing voor infusie (RVG 29568)",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/oep-ob-aaaec55ed1ef5b260f5c6eb417a6f74779e9dd60_30",
-                    "publishedDate": "20/11/2026 19:47"
-                },
-                {
-                    "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 10 november 2026, kenmerk 2026-3214985/IT2109837, houdende de verlenging van de verleende vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Promethazine CF 25 mg, omhulde tabletten (RVG 50250)",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/oep-ob-44994de77e9aa60552424b0dae1d188dda01e797_32",
-                    "publishedDate": "20/11/2026 19:43"
-                },
-                {
-                    "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/oep-ob-8695080384612a355bb0fd3e5391614d33cbaeb4_29",
-                    "publishedDate": "20/11/2026 19:38"
-                },
-                {
-                    "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 18 november 2026, kenmerk 2026-3216338/IT2110743, houdende de verlenging van de verleende vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Dipyridamol Sandoz retard 200 mg, capsules met gereguleerde afgifte, hard (RVG 113461)",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/oep-ob-d48fa23eb7e362a74fd4f8738cf50c7851be28d1_34",
-                    "publishedDate": "20/11/2026 19:31"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 12 november 2026, kenmerk 2026-3215310/IT2113634, houdende de verlenging van de verleende vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Mitoxantron Sandoz 2 mg/ml, concentraat voor oplossing voor infusie (RVG 29568)",
+            "link": "https://open.overheid.nl/details/oep-ob-aaaec55ed1ef5b260f5c6eb417a6f74779e9dd60_30",
+            "publishedDate": "20/11/2026 19:47",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -760,6 +746,39 @@
             "source": "sleutelstad.nl",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 10 november 2026, kenmerk 2026-3214985/IT2109837, houdende de verlenging van de verleende vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Promethazine CF 25 mg, omhulde tabletten (RVG 50250)",
+            "link": "https://open.overheid.nl/details/oep-ob-44994de77e9aa60552424b0dae1d188dda01e797_32",
+            "publishedDate": "20/11/2026 19:43",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte",
+            "link": "https://open.overheid.nl/details/oep-ob-8695080384612a355bb0fd3e5391614d33cbaeb4_29",
+            "publishedDate": "20/11/2026 19:38",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 18 november 2026, kenmerk 2026-3216338/IT2110743, houdende de verlenging van de verleende vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Dipyridamol Sandoz retard 200 mg, capsules met gereguleerde afgifte, hard (RVG 113461)",
+            "link": "https://open.overheid.nl/details/oep-ob-d48fa23eb7e362a74fd4f8738cf50c7851be28d1_34",
+            "publishedDate": "20/11/2026 19:31",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
