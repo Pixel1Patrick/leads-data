@@ -115,7 +115,7 @@
             "source": "ad.nl, bndestem.nl, destentor.nl, gelderlander.nl, pzc.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 15,
+            "duplicate_count": 14,
             "extra_bronnen": [
                 {
                     "title": "Jeugdzorg in Rotterdam: 8 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar ... - PZC",
@@ -194,14 +194,19 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/nijmegen/jeugdzorg-in-nijmegen-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-92-4-miljoen-euro-uit~a8abc7b3/",
                     "publishedDate": "20/11/2026 17:30"
-                },
-                {
-                    "title": "Jeugdzorg in Dordrecht: 2625 jongeren kregen hulp, gemeente gaf vorig jaar minstens 61,1 ... - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/dordrecht/jeugdzorg-in-dordrecht-2625-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-61-1-miljoen-euro-uit~aecb4086/",
-                    "publishedDate": "21/11/2026 05:30"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdzorg in Dordrecht: 2625 jongeren kregen hulp, gemeente gaf vorig jaar minstens 61,1 ... - AD",
+            "link": "https://www.ad.nl/dordrecht/jeugdzorg-in-dordrecht-2625-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-61-1-miljoen-euro-uit~aecb4086/",
+            "publishedDate": "21/11/2026 05:30",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -477,16 +482,16 @@
             "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
             "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
             "publishedDate": "20/11/2026 21:34",
-            "source": "nl.headtopics.com, reuma-arnhem.nl, trouw.nl",
+            "source": "ad.nl, reuma-arnhem.nl, trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
-                    "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
-                    "publishedDate": "20/11/2026 19:15"
+                    "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/economie/geen-behandeling-of-opname-door-patientenstops-consumenten-weten-niet-waar-ze-aan-toe-zijn~a14a75b3/",
+                    "publishedDate": "20/11/2026 20:27"
                 },
                 {
                     "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
@@ -586,17 +591,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
-            "link": "https://www.ad.nl/economie/geen-behandeling-of-opname-door-patientenstops-consumenten-weten-niet-waar-ze-aan-toe-zijn~a14a75b3/",
-            "publishedDate": "20/11/2026 20:27",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Mannen zouden vaker vreemdgaan dan vrouwen, en andere uitspraken over affaires",
             "link": "https://www.bd.nl/gezond/mannen-zouden-vaker-vreemdgaan-dan-vrouwen-en-andere-uitspraken-over-affaires~a3edb860/",
             "publishedDate": "20/11/2026 20:25",
@@ -681,6 +675,17 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
+            "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
+            "publishedDate": "20/11/2026 19:15",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -798,11 +803,24 @@
             "title": "15 jaar cel en tbs voor man die vriendin 'op beestachtige wijze' doodschopte in Vlijmen",
             "link": "https://nos.nl/artikel/2640311-15-jaar-cel-en-tbs-voor-man-die-vriendin-op-beestachtige-wijze-doodschopte-in-vlijmen",
             "publishedDate": "20/11/2026 17:28",
-            "source": "nos.nl",
+            "source": "nos.nl, omroepbrabant.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Rechter noemt doodslag op Jessica 'beestachtig': 15 jaar cel en tbs - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035573/rechter-noemt-doodslag-op-jessica-beestachtig-15-jaar-cel-en-tbs",
+                    "publishedDate": "20/11/2026 16:20"
+                },
+                {
+                    "title": "Coen K. stampte zijn vriendin Jessica (38) dood en krijgt 15 jaar \u00e9n tbs - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035573/coen-k-stampte-zijn-vriendin-jessica-38-dood-en-krijgt-15-jaar-en-tbs",
+                    "publishedDate": "20/11/2026 14:30"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -922,17 +940,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Rechter noemt doodslag op Jessica 'beestachtig': 15 jaar cel en tbs - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035573/rechter-noemt-doodslag-op-jessica-beestachtig-15-jaar-cel-en-tbs",
-            "publishedDate": "20/11/2026 16:20",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Sandra Molenaar: we moeten voorkomen dat pati\u00ebnten zonder hun medicijnen komen te zitten",
             "link": "https://www.telegraaf.nl/financieel/sandra-molenaar-we-moeten-voorkomen-dat-patienten-zonder-hun-medicijnen-komen-te-zitten/164842392.html",
             "publishedDate": "20/11/2026 16:07",
@@ -1005,17 +1012,6 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Coen K. stampte zijn vriendin Jessica (38) dood en krijgt 15 jaar \u00e9n tbs - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035573/coen-k-stampte-zijn-vriendin-jessica-38-dood-en-krijgt-15-jaar-en-tbs",
-            "publishedDate": "20/11/2026 14:30",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1157,7 +1153,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Bas van de Goor loopt ruim 100 kilometer voor diabetes: 'Wil voor anderen hetzelfde ...",
@@ -1527,7 +1523,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
