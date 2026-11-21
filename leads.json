@@ -154,7 +154,7 @@
                     "publishedDate": "20/11/2026 18:46"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Tattoos: hippe trend of het nieuwe normaal? | Al het nieuws uit West Betuwe - Het Kontakt",
@@ -171,11 +171,18 @@
             "title": "Oud-president Bolsonaro van Brazili\u00eb weer in het ziekenhuis - NOS",
             "link": "https://nos.nl/artikel/2640351-oud-president-bolsonaro-van-brazilie-weer-in-het-ziekenhuis",
             "publishedDate": "20/11/2026 23:00",
-            "source": "nos.nl",
+            "source": "gva.be, nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Braziliaanse ex-president Jair Bolsonaro opgenomen in ziekenhuis in Bras\u00edlia - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/buitenland/braziliaanse-ex-president-jair-bolsonaro-opgenomen-in-ziekenhuis-in-brasilia/164890380.html",
+                    "publishedDate": "20/11/2026 21:35"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -245,17 +252,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Braziliaanse ex-president Jair Bolsonaro opgenomen in ziekenhuis in Bras\u00edlia - GVA",
-            "link": "https://www.gva.be/buitenland/braziliaanse-ex-president-jair-bolsonaro-opgenomen-in-ziekenhuis-in-brasilia/164890380.html",
-            "publishedDate": "20/11/2026 21:35",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Wat is de 'fitnote', en gaat die zieken echt weer sneller aan het werk krijgen? | De Morgen",
             "link": "https://www.demorgen.be/politiek/wat-is-de-fitnote-en-gaat-die-zieken-echt-weer-sneller-aan-het-werk-krijgen~b933ba25/",
             "publishedDate": "20/11/2026 21:34",
@@ -307,28 +303,22 @@
             "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
             "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
             "publishedDate": "20/11/2026 21:34",
-            "source": "ad.nl, bndestem.nl, nl.headtopics.com, omroepzeeland.nl, studioalphen.nl, trouw.nl, verzekeringsnieuws.nl",
+            "source": "nl.headtopics.com, omroepzeeland.nl, reuma-arnhem.nl, studioalphen.nl, trouw.nl, verzekeringsnieuws.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 8,
+            "duplicate_count": 7,
             "extra_bronnen": [
-                {
-                    "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/economie/geen-behandeling-of-opname-door-patientenstops-consumenten-weten-niet-waar-ze-aan-toe-zijn~a14a75b3/",
-                    "publishedDate": "20/11/2026 20:27"
-                },
-                {
-                    "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/economie/geen-behandeling-of-opname-door-patientenstops-consumenten-weten-niet-waar-ze-aan-toe-zijn~a14a75b3/",
-                    "publishedDate": "20/11/2026 17:25"
-                },
                 {
                     "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
                     "source": "nl.headtopics.com",
                     "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
                     "publishedDate": "20/11/2026 19:15"
+                },
+                {
+                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
+                    "source": "reuma-arnhem.nl",
+                    "link": "https://reuma-arnhem.nl/zilveren-kruis-klanten-getroffen-door-patientenstop-bij-3-ziekenhuizen-zorgbudget-is-op/",
+                    "publishedDate": "20/11/2026 18:18"
                 },
                 {
                     "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
@@ -424,19 +414,15 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "585 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,8 miljoen euro uit - BN DeStem",
-            "link": "https://www.bndestem.nl/rucphen/jeugdzorg-in-rucphen-585-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-8-miljoen-euro-uit~a214265e/",
-            "publishedDate": "20/11/2026 20:35",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "585 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,8 miljoen euro uit - BN DeStem",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/rucphen/jeugdzorg-in-rucphen-585-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-8-miljoen-euro-uit~a214265e/",
+                    "publishedDate": "20/11/2026 20:35"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -449,6 +435,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
+            "link": "https://www.ad.nl/economie/geen-behandeling-of-opname-door-patientenstops-consumenten-weten-niet-waar-ze-aan-toe-zijn~a14a75b3/",
+            "publishedDate": "20/11/2026 20:27",
+            "source": "ad.nl, bndestem.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/economie/geen-behandeling-of-opname-door-patientenstops-consumenten-weten-niet-waar-ze-aan-toe-zijn~a14a75b3/",
+                    "publishedDate": "20/11/2026 17:25"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Besluit van de Algemeen Directeur van het CIBG van 27 juli 2026, nr. CIBG 26-10132, houdende actualisering van het Ondermandaatbesluit CIBG en het Ondervolmachtbesluit CIBG",
@@ -476,30 +480,11 @@
             "title": "Leidse KNO-hoogleraar Peter Paul van Benthem benoemd tot ridder - Sleutelstad",
             "link": "https://sleutelstad.nl/2026/11/20/leidse-kno-hoogleraar-peter-paul-van-benthem-benoemd-tot-ridder/",
             "publishedDate": "20/11/2026 19:44",
-            "source": "apeldoorn.nl, centraalplus.nl, sleutelstad.nl, tubantia.nl",
+            "source": "sleutelstad.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Apeldoornse KNO-arts geridderd voor zijn jarenlange inzet | Regio | Tubantia.nl",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/apeldoorn/apeldoornse-kno-arts-geridderd-voor-zijn-jarenlange-inzet~a6dca370/",
-                    "publishedDate": "20/11/2026 19:01"
-                },
-                {
-                    "title": "Koninklijke Onderscheiding voor prof. dr. Peter Paul van Benthem - Centraal+",
-                    "source": "centraalplus.nl",
-                    "link": "https://centraalplus.nl/2026/11/20/koninklijke-onderscheiding-voor-prof-dr-peter-paul-van-benthem/",
-                    "publishedDate": "20/11/2026 17:50"
-                },
-                {
-                    "title": "Koninklijke Onderscheiding voor prof. dr. Peter Paul van Benthem - Gemeente Apeldoorn",
-                    "source": "apeldoorn.nl",
-                    "link": "https://www.apeldoorn.nl/actueel/koninklijke-onderscheiding-voor-prof-dr-peter-paul-van-benthem",
-                    "publishedDate": "20/11/2026 17:32"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -544,7 +529,7 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Covid-besmettingen lopen op, toch zijn zorgen over een nieuwe pandemie niet nodig",
@@ -555,6 +540,30 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Apeldoornse KNO-arts geridderd voor zijn jarenlange inzet | Regio | Tubantia.nl",
+            "link": "https://www.tubantia.nl/apeldoorn/apeldoornse-kno-arts-geridderd-voor-zijn-jarenlange-inzet~a6dca370/",
+            "publishedDate": "20/11/2026 19:01",
+            "source": "apeldoorn.nl, centraalplus.nl, tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Koninklijke Onderscheiding voor prof. dr. Peter Paul van Benthem - Centraal+",
+                    "source": "centraalplus.nl",
+                    "link": "https://centraalplus.nl/2026/11/20/koninklijke-onderscheiding-voor-prof-dr-peter-paul-van-benthem/",
+                    "publishedDate": "20/11/2026 17:50"
+                },
+                {
+                    "title": "Koninklijke Onderscheiding voor prof. dr. Peter Paul van Benthem - Gemeente Apeldoorn",
+                    "source": "apeldoorn.nl",
+                    "link": "https://www.apeldoorn.nl/actueel/koninklijke-onderscheiding-voor-prof-dr-peter-paul-van-benthem",
+                    "publishedDate": "20/11/2026 17:32"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -953,17 +962,6 @@
             "source": "denieuwsbode.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "CBS en RIVM testen versleuteld dataonderzoek - Dutch IT Leaders",
-            "link": "https://www.dutchitleaders.nl/news/765482/cbs-en-rivm-testen-versleuteld-dataonderzoek",
-            "publishedDate": "20/11/2026 14:42",
-            "source": "dutchitleaders.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1561,15 +1559,8 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Ontwikkelen visie apotheekhoudende huisartsen(zorg)",
-                    "source": "lhv.nl",
-                    "link": "https://www.lhv.nl/nieuws/ontwikkelen-visie-apotheekhoudende-huisartsenzorg/",
-                    "publishedDate": "18/11/2026 10:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1584,6 +1575,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Ontwikkelen visie apotheekhoudende huisartsen(zorg)",
+            "link": "https://www.lhv.nl/nieuws/ontwikkelen-visie-apotheekhoudende-huisartsenzorg/",
+            "publishedDate": "18/11/2026 10:36",
+            "source": "lhv.nl",
+            "category": "Overig",
+            "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "NZa: CAK voert wettelijke taken rechtmatig uit en verbetert dienstverlening",
             "link": "https://www.nza.nl/actueel/nieuws/2026/11/18/nza-cak-voert-wettelijke-taken-rechtmatig-uit-en-verbetert-dienstverlening",
             "publishedDate": "18/11/2026 10:17",
@@ -1592,7 +1594,7 @@
             "feed_label": "NZa Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ontregelen vanuit vertrouwen: samen naar 20% zinnige administratie en meer werkplezier",
