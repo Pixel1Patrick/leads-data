@@ -306,10 +306,10 @@
             "title": "Wat is de 'fitnote', en gaat die zieken echt weer sneller aan het werk krijgen? | De Morgen",
             "link": "https://www.demorgen.be/politiek/wat-is-de-fitnote-en-gaat-die-zieken-echt-weer-sneller-aan-het-werk-krijgen~b933ba25/",
             "publishedDate": "20/11/2026 21:34",
-            "source": "artsenkrant.pmg.be, demorgen.be, despecialist.eu, gva.be, p-magazine.com",
+            "source": "artsenkrant.pmg.be, demorgen.be, gva.be, p-magazine.com",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 6,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "De fit note en wat de huisarts erop schrijft - Artsenkrant",
@@ -322,12 +322,6 @@
                     "source": "p-magazine.com",
                     "link": "https://p-magazine.com/nl/articles/huisartsen-worden-verplicht-om-bij-het-ziektebriefje-een-fit-note-te-geven-wat-je-nog-wel-kan",
                     "publishedDate": "20/11/2026 17:04"
-                },
-                {
-                    "title": "Terug naar Werk : Gemengde reacties op Fit Note - De Specialist",
-                    "source": "despecialist.eu",
-                    "link": "https://www.despecialist.eu/nl/nieuws/terug-naar-werk-gemengde-reacties-op-fit-note.html",
-                    "publishedDate": "20/11/2026 17:01"
                 },
                 {
                     "title": "'Fit note' komt eraan voor langdurig zieken: wat verandert er voor jou, je arts en je baas?",
@@ -440,11 +434,24 @@
             "title": "KB regelt zorgbeleid voor adolescenten en jongvolwassenen met kanker (AYA)",
             "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2647E05/EAKbe2647S54_00",
             "publishedDate": "20/11/2026 21:10",
-            "source": "artsenkrant.pmg.be",
+            "source": "artsenkrant.pmg.be, open.overheid.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over motie over Voxzogo ",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/93eba40a-a20e-4f9c-ba43-ff1bb30fd0a5",
+                    "publishedDate": "20/11/2026 16:41"
+                },
+                {
+                    "title": "[WOO] Antwoorden op Kamervragen over motie over Voxzogo ",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e8d0d987-5485-43d8-aecd-1920baedc719",
+                    "publishedDate": "20/11/2026 16:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -784,6 +791,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Terug naar Werk : Gemengde reacties op Fit Note - De Specialist",
+            "link": "https://www.despecialist.eu/nl/nieuws/terug-naar-werk-gemengde-reacties-op-fit-note.html",
+            "publishedDate": "20/11/2026 17:01",
+            "source": "despecialist.eu",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Pati\u00ebnten met psychische problemen lopen soms al vast v\u00f3\u00f3r zij op een ggz-wachtlijst komen",
             "link": "https://www.universiteitleiden.nl/nieuws/2026/11/patienten-met-psychische-problemen-lopen-soms-al-vast-voor-zij-op-een-ggz-wachtlijst-komen",
             "publishedDate": "20/11/2026 16:59",
@@ -828,24 +846,6 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over motie over Voxzogo ",
-            "link": "https://open.overheid.nl/details/93eba40a-a20e-4f9c-ba43-ff1bb30fd0a5",
-            "publishedDate": "20/11/2026 16:41",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[WOO] Antwoorden op Kamervragen over motie over Voxzogo ",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/e8d0d987-5485-43d8-aecd-1920baedc719",
-                    "publishedDate": "20/11/2026 16:41"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1527,7 +1527,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
