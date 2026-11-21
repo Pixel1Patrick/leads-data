@@ -238,18 +238,11 @@
             "title": "Oud-president Bolsonaro van Brazili\u00eb weer in het ziekenhuis - NOS",
             "link": "https://nos.nl/artikel/2640351-oud-president-bolsonaro-van-brazilie-weer-in-het-ziekenhuis",
             "publishedDate": "20/11/2026 23:00",
-            "source": "gva.be, nos.nl",
+            "source": "nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Braziliaanse ex-president Jair Bolsonaro opgenomen in ziekenhuis in Bras\u00edlia - GVA",
-                    "source": "gva.be",
-                    "link": "https://www.gva.be/buitenland/braziliaanse-ex-president-jair-bolsonaro-opgenomen-in-ziekenhuis-in-brasilia/164890380.html",
-                    "publishedDate": "20/11/2026 21:35"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -303,6 +296,17 @@
             "source": "medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Braziliaanse ex-president Jair Bolsonaro opgenomen in ziekenhuis in Bras\u00edlia - GVA",
+            "link": "https://www.gva.be/buitenland/braziliaanse-ex-president-jair-bolsonaro-opgenomen-in-ziekenhuis-in-brasilia/164890380.html",
+            "publishedDate": "20/11/2026 21:35",
+            "source": "gva.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1586,8 +1590,15 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Ontwikkelen visie apotheekhoudende huisartsen(zorg)",
+                    "source": "lhv.nl",
+                    "link": "https://www.lhv.nl/nieuws/ontwikkelen-visie-apotheekhoudende-huisartsenzorg/",
+                    "publishedDate": "18/11/2026 10:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1597,17 +1608,6 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ontwikkelen visie apotheekhoudende huisartsen(zorg)",
-            "link": "https://www.lhv.nl/nieuws/ontwikkelen-visie-apotheekhoudende-huisartsenzorg/",
-            "publishedDate": "18/11/2026 10:36",
-            "source": "lhv.nl",
-            "category": "Overig",
-            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
