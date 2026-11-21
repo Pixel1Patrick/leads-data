@@ -18,7 +18,7 @@
             "source": "ad.nl, destentor.nl, hartvannederland.nl, leidschdagblad.nl, nieuws.nl, nos.nl, nu.nl, parool.nl, rd.nl, telegraaf.nl, volkskrant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 13,
+            "duplicate_count": 12,
             "extra_bronnen": [
                 {
                     "title": "Jeugdzorgactivist Jason Bhugwandass (28) overleden - De Telegraaf",
@@ -69,12 +69,6 @@
                     "publishedDate": "21/11/2026 17:05"
                 },
                 {
-                    "title": "Geen openbare uitvaart voor overleden Jason: 'Van hem wordt in zeer besloten kring ... - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/binnenland/geen-openbare-uitvaart-voor-overleden-jason-van-hem-wordt-in-zeer-besloten-kring-afscheid-genomen~a1cecb1c/",
-                    "publishedDate": "21/11/2026 17:04"
-                },
-                {
                     "title": "Reacties op overlijden Jason Bhugwandass: 'Er zat zo veel kracht in hem' - NOS",
                     "source": "nos.nl",
                     "link": "https://nos.nl/artikel/2640423-reacties-op-overlijden-jason-bhugwandass-er-zat-zo-veel-kracht-in-hem",
@@ -110,30 +104,29 @@
             "title": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? 'Dit is echt een ...",
             "link": "https://www.telegraaf.nl/lifestyle/gezondheid/jarenlang-de-dodelijkste-kanker-binnenkort-te-behandelen-met-een-pilletje-dit-is-echt-een-doorbraak/164904558.html",
             "publishedDate": "21/11/2026 17:09",
-            "source": "nieuwsblad.be, nl.headtopics.com, telegraaf.nl",
+            "source": "nieuwsblad.be, telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: \u201cDit is echt een ...",
                     "source": "nieuwsblad.be",
                     "link": "https://www.nieuwsblad.be/binnenland/jarenlang-de-dodelijkste-kanker-binnenkort-te-behandelen-met-een-pilletje-dit-is-echt-een-doorbraak/164877055.html",
                     "publishedDate": "21/11/2026 07:33"
-                },
-                {
-                    "title": "Ex-wielerslager Erwin Nijboer lanceert benefiettocht tegen jongdementie - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/ex-wielerslager-erwin-nijboer-lanceert-benefiettocht-tegen-90052217",
-                    "publishedDate": "21/11/2026 08:30"
-                },
-                {
-                    "title": "Erwin Nijboer organiseert benefiettocht voor Alzheimer-onderzoek Amsterdam UMC | Sports",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/erwin-nijboer-organiseert-benefiettocht-voor-90050449",
-                    "publishedDate": "21/11/2026 07:06"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Geen openbare uitvaart voor overleden Jason: 'Van hem wordt in zeer besloten kring ... - AD",
+            "link": "https://www.ad.nl/binnenland/geen-openbare-uitvaart-voor-overleden-jason-van-hem-wordt-in-zeer-besloten-kring-afscheid-genomen~a1cecb1c/",
+            "publishedDate": "21/11/2026 17:04",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -396,18 +389,11 @@
             "title": "GGZ Friesland zet volgende stap naar nieuw behandelcentrum in Leeuwarden - RBNieuws",
             "link": "https://rbnieuws.nl/ggz-friesland-zet-volgende-stap-naar-nieuw-behandelcentrum-in-leeuwarden/",
             "publishedDate": "21/11/2026 12:33",
-            "source": "omroepleeuwarden.nl, rbnieuws.nl",
+            "source": "rbnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "VIDEO: Nieuwe kliniek en polikliniek van GGZ Friesland in Middelsee",
-                    "source": "omroepleeuwarden.nl",
-                    "link": "https://omroepleeuwarden.nl/video-nieuwe-kliniek-en-polikliniek-van-ggz-friesland-in-middelsee/",
-                    "publishedDate": "20/11/2026 18:05"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -631,6 +617,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Ex-wielerslager Erwin Nijboer lanceert benefiettocht tegen jongdementie - Head Topics",
+            "link": "https://nl.headtopics.com/news/ex-wielerslager-erwin-nijboer-lanceert-benefiettocht-tegen-90052217",
+            "publishedDate": "21/11/2026 08:30",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Waar blijven de helikopters? - De Limburger",
             "link": "https://www.limburger.nl/opinie/column/waar-blijven-de-helikopters/164826824.html",
             "publishedDate": "21/11/2026 07:22",
@@ -642,25 +639,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Erwin Nijboer organiseert benefiettocht voor Alzheimer-onderzoek Amsterdam UMC | Sports",
+            "link": "https://nl.headtopics.com/news/erwin-nijboer-organiseert-benefiettocht-voor-90050449",
+            "publishedDate": "21/11/2026 07:06",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Apeldoornse KNO-arts geridderd voor zijn jarenlange inzet | Regio | AD.nl",
             "link": "https://www.ad.nl/apeldoorn/apeldoornse-kno-arts-geridderd-voor-zijn-jarenlange-inzet~a6dca370/",
             "publishedDate": "21/11/2026 07:05",
-            "source": "ad.nl, apeldoorn.nl, gemeente.leiden.nl, sleutelstad.nl, tubantia.nl",
+            "source": "ad.nl, apeldoorn.nl, gemeente.leiden.nl, tubantia.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Apeldoornse KNO-arts geridderd voor zijn jarenlange inzet | Regio | Tubantia.nl",
                     "source": "tubantia.nl",
                     "link": "https://www.tubantia.nl/apeldoorn/apeldoornse-kno-arts-geridderd-voor-zijn-jarenlange-inzet~a6dca370/",
                     "publishedDate": "20/11/2026 19:01"
-                },
-                {
-                    "title": "Leidse KNO-hoogleraar Peter Paul van Benthem benoemd tot ridder - Sleutelstad",
-                    "source": "sleutelstad.nl",
-                    "link": "https://sleutelstad.nl/2026/11/20/leidse-kno-hoogleraar-peter-paul-van-benthem-benoemd-tot-ridder/",
-                    "publishedDate": "20/11/2026 19:44"
                 },
                 {
                     "title": "Koninklijke Onderscheiding voor prof. dr. Peter Paul van Benthem - Gemeente Leiden",
@@ -832,6 +834,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Leidse KNO-hoogleraar Peter Paul van Benthem benoemd tot ridder - Sleutelstad",
+            "link": "https://sleutelstad.nl/2026/11/20/leidse-kno-hoogleraar-peter-paul-van-benthem-benoemd-tot-ridder/",
+            "publishedDate": "20/11/2026 19:44",
+            "source": "sleutelstad.nl",
+            "category": "Overig",
+            "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 10 november 2026, kenmerk 2026-3214985/IT2109837, houdende de verlenging van de verleende vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Promethazine CF 25 mg, omhulde tabletten (RVG 50250)",
             "link": "https://open.overheid.nl/details/oep-ob-44994de77e9aa60552424b0dae1d188dda01e797_32",
             "publishedDate": "20/11/2026 19:43",
@@ -904,6 +917,17 @@
             "source": "icthealth.nl",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "VIDEO: Nieuwe kliniek en polikliniek van GGZ Friesland in Middelsee",
+            "link": "https://omroepleeuwarden.nl/video-nieuwe-kliniek-en-polikliniek-van-ggz-friesland-in-middelsee/",
+            "publishedDate": "20/11/2026 18:05",
+            "source": "omroepleeuwarden.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1227,7 +1251,7 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuwe routekaart helpt ziekenhuizen naastenparticipatie duurzaam te verankeren",
