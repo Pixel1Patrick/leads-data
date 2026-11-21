@@ -630,17 +630,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "In ruim veertig jaar hielpen deze twee OLVG-verloskundigen duizenden Amsterdamse ...",
-            "link": "https://www.parool.nl/ps/in-ruim-veertig-jaar-hielpen-deze-twee-olvg-verloskundigen-duizenden-amsterdamse-baby-s-ter-wereld-komen~b426d140/",
-            "publishedDate": "21/11/2026 13:20",
-            "source": "parool.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nieuwe 'Viagrapil' gaat ontwikkeling alzheimer tegen | BNR Nieuwsradio",
             "link": "https://www.bnr.nl/nieuws/tech-innovatie/10615943/nieuwe-viagrapil-gaat-ontwikkeling-alzheimer-tegen",
             "publishedDate": "21/11/2026 12:42",
@@ -718,34 +707,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Spectaculaire takeloperatie bij Viasana: nieuwe MRI-scanner van bijna 4.000 kilo geplaatst - inMill.nl",
-            "link": "https://www.inmill.nl/paginas/algemeen/29129-spectaculaire-takeloperatie-bij-viasana-nieuwe-mri-scanner-van-bijna-4-000-kilo-geplaatst.html",
-            "publishedDate": "21/11/2026 11:19",
-            "source": "inmill.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "IJmuidenaar Martin Dekker heeft een progressieve spierziekte en wil anderen met een ...",
             "link": "https://www.ijmuidercourant.nl/regio/ijmond/ijmuidenaar-martin-dekker-heeft-een-progressieve-spierziekte-en-wil-anderen-met-een-chronische-aandoening-helpen.-ik-gebruik-geen-medicijnen-meer-omdat-ik-beweeg/164683941.html",
             "publishedDate": "21/11/2026 11:14",
             "source": "ijmuidercourant.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Brandweer houdt actie voor dochtertje van collega: \u201cOns Reyke krijgt tot 20 epileptische ...",
-            "link": "https://www.nieuwsblad.be/binnenland/brandweer-houdt-actie-voor-dochtertje-van-collega-ons-reyke-krijgt-tot-20-epileptische-aanvallen-per-dag/164873825.html",
-            "publishedDate": "21/11/2026 10:53",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1144,19 +1111,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-            "publishedDate": "19/11/2026 16:12",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+                    "publishedDate": "19/11/2026 16:12"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1252,7 +1215,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Wat kunnen we leren van waardige dementiezorg \u00e0 la 'humanitude' in Frans-Japanse film ...",
