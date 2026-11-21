@@ -18,6 +18,17 @@
             "source": "trends.knack.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Faculteit der Geneeskunde (Amsterdam UMC) - UvA",
+            "link": "https://www.uva.nl/organisatie/faculteit-der-geneeskunde",
+            "publishedDate": "21/11/2026 14:05",
+            "source": "uva.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -294,12 +305,19 @@
             "title": "Jason Bhugwandass (28), die misstanden in jeugdzorg onthulde, overleden | nu.CW",
             "link": "https://nu.cw/2026/11/20/jason-bhugwandass-28-die-misstanden-in-jeugdzorg-onthulde-overleden/",
             "publishedDate": "21/11/2026 10:05",
-            "source": "nu.cw",
+            "source": "nos.nl, nu.cw",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jason Bhugwandass (28) overleden, boegbeeld van strijd tegen misstanden in jeugdzorg",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2640323-jason-bhugwandass-28-overleden-boegbeeld-van-strijd-tegen-misstanden-in-jeugdzorg",
+                    "publishedDate": "20/11/2026 18:46"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Brommobiel botst met trolley-mast, bestuurder naar ziekenhuis met onbekend letsel",
@@ -853,7 +871,7 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Huisartsenpost in Hoorn trekt zeventig bezoekers tijdens Nationale Werkbezoekdag. 'We ...",
@@ -865,17 +883,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Jason Bhugwandass (28) overleden, boegbeeld van strijd tegen misstanden in jeugdzorg",
-            "link": "https://nos.nl/artikel/2640323-jason-bhugwandass-28-overleden-boegbeeld-van-strijd-tegen-misstanden-in-jeugdzorg",
-            "publishedDate": "20/11/2026 18:46",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Vaccinatiepunt informeert over herhaalprikken bij overstap zorgverzekering",
@@ -1223,17 +1230,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Warande voorlopig nog niet van Driebergse seniorenwoningen af - PropertyNL",
-            "link": "https://propertynl.com/Nieuws/Warande-voorlopig-nog-niet-van-Driebergse-seniorenwoningen-af/a55b9248-3876-4190-915a-b3516c64d38b",
-            "publishedDate": "20/11/2026 14:13",
-            "source": "propertynl.com",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Leefstijlapotheker biedt gebruikers van afslankmedicatie begeleiding op maat",
             "link": "https://www.pw.nl/nieuws/achtergrondartikel/2026-11/leefstijlapotheker-biedt-gebruikers-van-afslankmedicatie",
             "publishedDate": "20/11/2026 14:00",
@@ -1351,32 +1347,25 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medicom-koppeling brengt Digizorg naar meer huisartsen | ICT&amp;health",
-            "link": "https://www.icthealth.nl/nieuws/medicom-koppeling-brengt-digizorg-naar-meer-huisartsen",
-            "publishedDate": "20/11/2026 00:24",
-            "source": "icthealth.nl",
-            "category": "Overig",
-            "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Signaleringsoverleg Voedselveiligheid: Jaarrapportage 2025",
             "link": "https://open.overheid.nl/details/3e9ced3d-f828-438a-a485-4f7fce53a426",
             "publishedDate": "19/11/2026 16:12",
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-                    "publishedDate": "19/11/2026 16:12"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+            "publishedDate": "19/11/2026 16:12",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1472,7 +1461,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kinderrechtencommissaris klaagt regels en procedures in de jeugdzorg aan - Nieuwsblad",
