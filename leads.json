@@ -100,9 +100,33 @@
             "title": "Jair Bolsonaro met hevige buikpijn naar ziekenhuis - GVA",
             "link": "https://www.gva.be/buitenland/oud-president-jair-bolsonaro-met-hevige-buikpijn-weggevoerd-naar-ziekenhuis-oude-messteek-blijft-hem-kwellen/164893272.html",
             "publishedDate": "21/11/2026 01:30",
-            "source": "gva.be",
+            "source": "gva.be, nos.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Oud-president Bolsonaro van Brazili\u00eb weer in het ziekenhuis - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2640351-oud-president-bolsonaro-van-brazilie-weer-in-het-ziekenhuis",
+                    "publishedDate": "20/11/2026 23:00"
+                },
+                {
+                    "title": "Braziliaanse ex-president Jair Bolsonaro opgenomen in ziekenhuis in Bras\u00edlia - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/buitenland/braziliaanse-ex-president-jair-bolsonaro-opgenomen-in-ziekenhuis-in-brasilia/164890380.html",
+                    "publishedDate": "20/11/2026 21:35"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "De mazelen rukken op in de VS en kunnen via reizigers deze kant op komen | Trouw",
+            "link": "https://www.trouw.nl/gezondheid/de-mazelen-rukken-op-in-de-vs-en-kunnen-via-reizigers-deze-kant-op-komen~bd05d6d0/",
+            "publishedDate": "21/11/2026 01:04",
+            "source": "trouw.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -207,17 +231,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Oud-president Bolsonaro van Brazili\u00eb weer in het ziekenhuis - NOS",
-            "link": "https://nos.nl/artikel/2640351-oud-president-bolsonaro-van-brazilie-weer-in-het-ziekenhuis",
-            "publishedDate": "20/11/2026 23:00",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nick Cannon opgenomen in ziekenhuis vanwege lupus - RTL Nieuws",
             "link": "https://www.rtl.nl/boulevard/artikel/5666353/nick-cannon-opgenomen-ziekenhuis-vanwege-lupus",
             "publishedDate": "20/11/2026 22:33",
@@ -284,17 +297,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Braziliaanse ex-president Jair Bolsonaro opgenomen in ziekenhuis in Bras\u00edlia - GVA",
-            "link": "https://www.gva.be/buitenland/braziliaanse-ex-president-jair-bolsonaro-opgenomen-in-ziekenhuis-in-brasilia/164890380.html",
-            "publishedDate": "20/11/2026 21:35",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Wat is de 'fitnote', en gaat die zieken echt weer sneller aan het werk krijgen? | De Morgen",
             "link": "https://www.demorgen.be/politiek/wat-is-de-fitnote-en-gaat-die-zieken-echt-weer-sneller-aan-het-werk-krijgen~b933ba25/",
             "publishedDate": "20/11/2026 21:34",
@@ -340,11 +342,48 @@
             "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
             "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
             "publishedDate": "20/11/2026 21:34",
-            "source": "trouw.nl",
+            "source": "ad.nl, bndestem.nl, nl.headtopics.com, reuma-arnhem.nl, studioalphen.nl, trouw.nl, verzekeringsnieuws.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 8,
+            "extra_bronnen": [
+                {
+                    "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/economie/geen-behandeling-of-opname-door-patientenstops-consumenten-weten-niet-waar-ze-aan-toe-zijn~a14a75b3/",
+                    "publishedDate": "20/11/2026 20:27"
+                },
+                {
+                    "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/economie/geen-behandeling-of-opname-door-patientenstops-consumenten-weten-niet-waar-ze-aan-toe-zijn~a14a75b3/",
+                    "publishedDate": "20/11/2026 17:25"
+                },
+                {
+                    "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
+                    "publishedDate": "20/11/2026 19:15"
+                },
+                {
+                    "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
+                    "source": "reuma-arnhem.nl",
+                    "link": "https://reuma-arnhem.nl/zilveren-kruis-klanten-getroffen-door-patientenstop-bij-3-ziekenhuizen-zorgbudget-is-op/",
+                    "publishedDate": "20/11/2026 18:18"
+                },
+                {
+                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
+                    "source": "studioalphen.nl",
+                    "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
+                    "publishedDate": "20/11/2026 15:57"
+                },
+                {
+                    "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
+                    "source": "verzekeringsnieuws.nl",
+                    "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
+                    "publishedDate": "20/11/2026 05:09"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -445,24 +484,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
-            "link": "https://www.ad.nl/economie/geen-behandeling-of-opname-door-patientenstops-consumenten-weten-niet-waar-ze-aan-toe-zijn~a14a75b3/",
-            "publishedDate": "20/11/2026 20:27",
-            "source": "ad.nl, bndestem.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Geen behandeling of opname door pati\u00ebntenstops: 'Consumenten weten niet waar ze aan toe zijn'",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/economie/geen-behandeling-of-opname-door-patientenstops-consumenten-weten-niet-waar-ze-aan-toe-zijn~a14a75b3/",
-                    "publishedDate": "20/11/2026 17:25"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Mannen zouden vaker vreemdgaan dan vrouwen, en andere uitspraken over affaires",
@@ -569,7 +590,7 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Covid-besmettingen lopen op, toch zijn zorgen over een nieuwe pandemie niet nodig",
@@ -579,17 +600,6 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
-            "link": "https://nl.headtopics.com/news/zilveren-kruis-patientenstop-zeeuwse-gronden-zorgkosten-90031537",
-            "publishedDate": "20/11/2026 19:15",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -669,17 +679,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Zilveren Kruis-klanten getroffen door pati\u00ebntenstop bij 3 ziekenhuizen: zorgbudget is op",
-            "link": "https://reuma-arnhem.nl/zilveren-kruis-klanten-getroffen-door-patientenstop-bij-3-ziekenhuizen-zorgbudget-is-op/",
-            "publishedDate": "20/11/2026 18:18",
-            "source": "reuma-arnhem.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "&quot;Je kunt niet een hele regio straffen&quot; - AGF",
@@ -910,17 +909,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
-            "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
-            "publishedDate": "20/11/2026 15:57",
-            "source": "studioalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat - Leeuwarder Courant",
             "link": "https://www.lc.nl/regio/friesland/terschelling/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734688.html",
             "publishedDate": "20/11/2026 15:55",
@@ -965,17 +953,6 @@
             "link": "https://www.tubantia.nl/binnenland/lotte-43-betaalde-de-rekening-van-haar-tandarts-niet-helemaal-nu-moet-ze-56-keer-zo-veel-betalen-van-infomedics~a8281a9c/",
             "publishedDate": "20/11/2026 15:19",
             "source": "tubantia.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Pati\u00ebnten nemen antwoorden van AI-chatbots steeds vaker mee naar de spreekkamer",
-            "link": "https://www.l1nieuws.nl/nieuws/3274378/patienten-nemen-antwoorden-van-ai-chatbots-steeds-vaker-mee-naar-de-spreekkamer",
-            "publishedDate": "20/11/2026 15:17",
-            "source": "l1nieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
@@ -1152,7 +1129,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Bas van de Goor loopt ruim 100 kilometer voor diabetes: 'Wil voor anderen hetzelfde ...",
@@ -1388,17 +1365,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Boosheid over pati\u00ebntenstops: 'Schuif met budgetten en niet met consumenten'",
-            "link": "https://www.verzekeringsnieuws.nl/artikel/130563-boosheid-over-pati-ntenstops-schuif-met-budgetten-en-niet-met-consumenten",
-            "publishedDate": "20/11/2026 05:09",
-            "source": "verzekeringsnieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Digiteam van De Zorgcirkel helpt ouderen langer zelfstandig thuis te wonen - Nieuw-Volendam",
