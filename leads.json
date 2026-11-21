@@ -197,7 +197,7 @@
                     "publishedDate": "20/11/2026 23:44"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Jasons strijd tegen misstanden in de jeugdzorg werd gedreven door zijn eigen ervaringen ...",
@@ -245,7 +245,7 @@
                     "publishedDate": "20/11/2026 18:46"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Man (27) overvalt tankstation in Den Bosch, maar wordt later aangehouden - AD",
@@ -364,7 +364,7 @@
             "source": "artsenkrant.pmg.be, demorgen.be, despecialist.eu, gva.be, p-magazine.com",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 6,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "De fit note en wat de huisarts erop schrijft - Artsenkrant",
@@ -389,12 +389,6 @@
                     "source": "gva.be",
                     "link": "https://www.gva.be/economie/fit-note-komt-eraan-voor-langdurig-zieken-wat-verandert-er-voor-jou-je-arts-en-je-baas/164870311.html",
                     "publishedDate": "20/11/2026 16:36"
-                },
-                {
-                    "title": "Huisartsen krijgen vanaf september 2027 Fit Note ter beschikking - Artsenkrant",
-                    "source": "artsenkrant.pmg.be",
-                    "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2647S53_00",
-                    "publishedDate": "20/11/2026 16:19"
                 }
             ],
             "belangrijkheid": 0
@@ -403,10 +397,10 @@
             "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
             "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
             "publishedDate": "20/11/2026 21:34",
-            "source": "nl.headtopics.com, reuma-arnhem.nl, studioalphen.nl, trouw.nl",
+            "source": "nl.headtopics.com, reuma-arnhem.nl, trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Zilveren Kruis pati\u00ebntenstop Zeeuwse Gronden zorgkosten | Health - Head Topics",
@@ -419,12 +413,6 @@
                     "source": "reuma-arnhem.nl",
                     "link": "https://reuma-arnhem.nl/zilveren-kruis-klanten-getroffen-door-patientenstop-bij-3-ziekenhuizen-zorgbudget-is-op/",
                     "publishedDate": "20/11/2026 18:18"
-                },
-                {
-                    "title": "Ziekenhuis voert pati\u00ebntenstop in na conflict met zorgverzekeraar - Studio Alphen",
-                    "source": "studioalphen.nl",
-                    "link": "https://www.studioalphen.nl/nieuws/ziekenhuis-voert-patientenstop-in-na-conflict-met-zorgverzekeraar-6b005dfbca587/",
-                    "publishedDate": "20/11/2026 15:57"
                 }
             ],
             "belangrijkheid": 1
@@ -646,7 +634,7 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Covid-besmettingen lopen op, toch zijn zorgen over een nieuwe pandemie niet nodig",
@@ -784,24 +772,11 @@
             "title": "15 jaar cel en tbs voor man die vriendin 'op beestachtige wijze' doodschopte in Vlijmen",
             "link": "https://nos.nl/artikel/2640311-15-jaar-cel-en-tbs-voor-man-die-vriendin-op-beestachtige-wijze-doodschopte-in-vlijmen",
             "publishedDate": "20/11/2026 17:28",
-            "source": "nos.nl, omroepbrabant.nl",
+            "source": "nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Rechter noemt doodslag op Jessica 'beestachtig': 15 jaar cel en tbs - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035573/rechter-noemt-doodslag-op-jessica-beestachtig-15-jaar-cel-en-tbs",
-                    "publishedDate": "20/11/2026 16:20"
-                },
-                {
-                    "title": "Coen K. stampte zijn vriendin Jessica (38) dood en krijgt 15 jaar \u00e9n tbs - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035573/coen-k-stampte-zijn-vriendin-jessica-38-dood-en-krijgt-15-jaar-en-tbs",
-                    "publishedDate": "20/11/2026 14:30"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -932,6 +907,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Rechter noemt doodslag op Jessica 'beestachtig': 15 jaar cel en tbs - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035573/rechter-noemt-doodslag-op-jessica-beestachtig-15-jaar-cel-en-tbs",
+            "publishedDate": "20/11/2026 16:20",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "UAntwerpen wil afvalberg ziekenhuizen kleiner maken: &quot;Gaat van herbruikbare schorten tot ... - GVA",
             "link": "https://www.gva.be/atv/uantwerpen-wil-afvalberg-ziekenhuizen-kleiner-maken-gaat-van-herbruikbare-schorten-tot-vervoer-van-bloedstalen/164871362.html",
             "publishedDate": "20/11/2026 16:08",
@@ -954,24 +940,13 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zeventig jaar Eerste Divisie: de huisarts met het ideale recept - Voetbal International",
-            "link": "https://www.vi.nl/pro/zeventig-jaar-eerste-divisie-de-huisarts-met-het-ideale-recept",
-            "publishedDate": "20/11/2026 16:00",
-            "source": "vi.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Huisartsen op eilanden zijn wachten op zorgverzekeraar zat - Leeuwarder Courant",
             "link": "https://www.lc.nl/regio/friesland/terschelling/terschelling-huisartsen-waddeneilanden-zorgverzekeraar/164734688.html",
             "publishedDate": "20/11/2026 15:55",
             "source": "lc.nl",
             "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1026,6 +1001,17 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Coen K. stampte zijn vriendin Jessica (38) dood en krijgt 15 jaar \u00e9n tbs - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035573/coen-k-stampte-zijn-vriendin-jessica-38-dood-en-krijgt-15-jaar-en-tbs",
+            "publishedDate": "20/11/2026 14:30",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1200,7 +1186,7 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Big Pharma ziet AI ontwikkeling van medicijnen versnellen, met oog op Anthropic - IEX",
