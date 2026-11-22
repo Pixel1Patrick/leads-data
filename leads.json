@@ -26,11 +26,18 @@
             "title": "Meisje op fatbike aangereden in Breda: traumahelikopter geland | Regio | BN DeStem.nl",
             "link": "https://www.bndestem.nl/112-nieuws-breda/meisje-op-fatbike-aangereden-in-breda-traumahelikopter-geland~acf677f7/",
             "publishedDate": "22/11/2026 04:32",
-            "source": "bndestem.nl",
+            "source": "bndestem.nl, zuidwestupdate.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Auto rijdt van kade en belandt op steiger in Tholen",
+                    "source": "zuidwestupdate.nl",
+                    "link": "https://www.zuidwestupdate.nl/nieuws/auto-rijdt-van-kade-en-belandt-op-steiger-in-tholen/",
+                    "publishedDate": "21/11/2026 22:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -286,6 +293,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Geleidelijnen voor ziekenhuizen en zorginstellingen - Slechtziende-Markering",
+            "link": "https://www.slechtziende-markering.nl/zorg-en-ziekenhuizen/",
+            "publishedDate": "21/11/2026 23:50",
+            "source": "slechtziende-markering.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Kind (5) uit Geffen overleden na eten giftige paddenstoel: zoektocht naar leverdonor mocht niet baten",
             "link": "https://drimble.nl/regio/groningen/groningen-stad/108674552/kind-5-uit-geffen-overleden-na-eten-giftige-paddenstoel-zoektocht-naar-leverdonor-mocht-niet-baten.html",
             "publishedDate": "21/11/2026 23:49",
@@ -360,17 +378,6 @@
             "link": "https://ons-oss.nl/nieuws/sp-roept-klanten-menzis-en-achmea-op-over-te-stappen-vanwege-ziekenhuis-bernhoven/",
             "publishedDate": "21/11/2026 23:15",
             "source": "ons-oss.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Auto rijdt van kade en belandt op steiger in Tholen",
-            "link": "https://www.zuidwestupdate.nl/nieuws/auto-rijdt-van-kade-en-belandt-op-steiger-in-tholen/",
-            "publishedDate": "21/11/2026 22:45",
-            "source": "zuidwestupdate.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
@@ -692,17 +699,6 @@
             "source": "rtvmeppel.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Post by @trouw.nl \u2014 Bluesky",
-            "link": "https://bsky.app/profile/trouw.nl/post/3n2qnjpvocp26",
-            "publishedDate": "21/11/2026 16:08",
-            "source": "bsky.app",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1255,15 +1251,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-                    "publishedDate": "19/11/2026 16:12"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+            "publishedDate": "19/11/2026 16:12",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1337,7 +1337,7 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuwe routekaart helpt ziekenhuizen naastenparticipatie duurzaam te verankeren",
@@ -1359,7 +1359,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Wat kunnen we leren van waardige dementiezorg \u00e0 la 'humanitude' in Frans-Japanse film ...",
