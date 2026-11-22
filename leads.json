@@ -140,7 +140,7 @@
                     "publishedDate": "21/11/2026 14:13"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Surinaamse apotheken laten pati\u00ebnten zes weken wachten op medicijnen uit Nederland | Suriname",
@@ -162,7 +162,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Paraglider neergestort in duingebied bij Heemskerk - NH Nieuws",
@@ -262,7 +262,7 @@
                     "publishedDate": "21/11/2026 18:12"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Verwey-Jonker Instituut gaf jarenlang stem aan marginale groepen, nu is het failliet. Hoe kan dat?",
@@ -814,11 +814,24 @@
             "title": "Antibiotica verliezen steeds vaker de strijd tegen bacteri\u00ebn: hoe kunnen we ... - KoSSev",
             "link": "https://kossev.info/nl/antibiotici-sve-cesce-gube-bitku-protiv-bakterija-kako-sacuvati-lekove-koji-spasavaju-zivote/",
             "publishedDate": "21/11/2026 12:27",
-            "source": "kossev.info",
+            "source": "kossev.info, open.overheid.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Signaleringsoverleg Voedselveiligheid: Jaarrapportage 2025",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/3e9ced3d-f828-438a-a485-4f7fce53a426",
+                    "publishedDate": "19/11/2026 16:12"
+                },
+                {
+                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+                    "publishedDate": "19/11/2026 16:12"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -905,19 +918,15 @@
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Erwin Nijboer organiseert benefiettocht voor Alzheimer-onderzoek Amsterdam UMC | Sports",
-            "link": "https://nl.headtopics.com/news/erwin-nijboer-organiseert-benefiettocht-voor-90050449",
-            "publishedDate": "21/11/2026 07:06",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Erwin Nijboer organiseert benefiettocht voor Alzheimer-onderzoek Amsterdam UMC | Sports",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/erwin-nijboer-organiseert-benefiettocht-voor-90050449",
+                    "publishedDate": "21/11/2026 07:06"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1213,24 +1222,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Signaleringsoverleg Voedselveiligheid: Jaarrapportage 2025",
-            "link": "https://open.overheid.nl/details/3e9ced3d-f828-438a-a485-4f7fce53a426",
-            "publishedDate": "19/11/2026 16:12",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-                    "publishedDate": "19/11/2026 16:12"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Verbinding: h\u00e9t sleutelwoord tijdens tweede editie Festival van de Bevlogenheid",
             "link": "https://www.lad.nl/verbinding-het-sleutelwoord-tijdens-tweede-editie-festival-van-de-bevlogenheid/",
             "publishedDate": "19/11/2026 15:33",
@@ -1323,7 +1314,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Wat kunnen we leren van waardige dementiezorg \u00e0 la 'humanitude' in Frans-Japanse film ...",
