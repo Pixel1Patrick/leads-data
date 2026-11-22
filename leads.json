@@ -26,11 +26,18 @@
             "title": "Auto rijdt van kade en belandt op steiger in Tholen, bestuurder naar ziekenhuis - PZC",
             "link": "https://www.pzc.nl/112-nieuws-tholen/auto-rijdt-van-kade-en-belandt-op-steiger-in-tholen-bestuurder-naar-ziekenhuis~a937fa37/",
             "publishedDate": "22/11/2026 04:33",
-            "source": "pzc.nl",
+            "source": "pzc.nl, zuidwestupdate.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Auto rijdt van kade en belandt op steiger in Tholen",
+                    "source": "zuidwestupdate.nl",
+                    "link": "https://www.zuidwestupdate.nl/nieuws/auto-rijdt-van-kade-en-belandt-op-steiger-in-tholen/",
+                    "publishedDate": "21/11/2026 22:45"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -95,11 +102,18 @@
             "title": "Welzijn op Recept: soms helpt een goed gesprek - De Wolden",
             "link": "https://de-wolden.nieuws.nl/nieuws/welzijn-op-recept-soms-helpt-een-goed-gesprek",
             "publishedDate": "22/11/2026 03:56",
-            "source": "de-wolden.nieuws.nl",
+            "source": "de-wolden.nieuws.nl, rtvmeppel.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Welzijn op Recept helpt inwoners van De Wolden weer op weg - RTV Meppel",
+                    "source": "rtvmeppel.nl",
+                    "link": "https://www.rtvmeppel.nl/welzijn-op-recept-helpt-inwoners-van-de-wolden-weer-op-weg/",
+                    "publishedDate": "21/11/2026 17:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -117,16 +131,58 @@
             "title": "Melding schietpartij in Zeijen: jager vanuit bos naar ziekenhuis gebracht - 112 in Beeld",
             "link": "https://112inbeeld.nl/112-melding-aan-de-hooidijk-in-zeijen/",
             "publishedDate": "22/11/2026 03:34",
-            "source": "112drenthe.nl, 112inbeeld.nl",
+            "source": "112drenthe.nl, 112inbeeld.nl, drimble.nl, dvhn.nl, nieuwsblad.be, nl24.nu, nos.nl, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "duplicate_count": 9,
             "extra_bronnen": [
                 {
                     "title": "Melding schietpartij in Zeijen: jager naar ziekenhuis gebracht - 112 Drenthe",
                     "source": "112drenthe.nl",
                     "link": "https://112drenthe.nl/112-melding-aan-de-hooidijk-in-zeijen/",
                     "publishedDate": "22/11/2026 02:37"
+                },
+                {
+                    "title": "Kind (5) uit Geffen overleden na eten giftige paddenstoel: zoektocht naar leverdonor mocht niet baten",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/groningen/groningen-stad/108674552/kind-5-uit-geffen-overleden-na-eten-giftige-paddenstoel-zoektocht-naar-leverdonor-mocht-niet-baten.html",
+                    "publishedDate": "21/11/2026 23:49"
+                },
+                {
+                    "title": "Kleuter (5) overlijdt na eten van giftige paddenstoel | Groningen Stad - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/groningen/groningen-stad/108672872/kleuter-5-overlijdt-na-eten-van-giftige-paddenstoel.html",
+                    "publishedDate": "21/11/2026 23:09"
+                },
+                {
+                    "title": "Kleuter (5) overlijdt na eten van giftige paddenstoel - NOS",
+                    "source": "nos.nl",
+                    "link": "http://nos.nl/artikel/2640433-kleuter-5-overlijdt-na-eten-van-giftige-paddenstoel",
+                    "publishedDate": "21/11/2026 16:05"
+                },
+                {
+                    "title": "Drama in Geffen: kleuter (5) overlijdt na eten van giftige paddenstoel - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035669/drama-in-geffen-kleuter-5-overlijdt-na-eten-van-giftige-paddenstoel",
+                    "publishedDate": "21/11/2026 18:13"
+                },
+                {
+                    "title": "Meisje (5) overlijdt na eten giftige paddenstoel - NL24",
+                    "source": "nl24.nu",
+                    "link": "https://nl24.nu/artikel/meisje-5-overlijdt-na-eten-giftige-paddenstoel",
+                    "publishedDate": "21/11/2026 16:43"
+                },
+                {
+                    "title": "Kind van 5 in het UMCG overleden na een ernstige paddenstoelvergiftiging - DVHN",
+                    "source": "dvhn.nl",
+                    "link": "https://www.dvhn.nl/regio/groningen/stad/kind-van-5-in-het-umcg-overleden-na-een-ernstige-paddenstoelvergiftiging/164896890.html",
+                    "publishedDate": "21/11/2026 16:12"
+                },
+                {
+                    "title": "Nederlandse kleuter (5) sterft door giftige paddenstoel: \u201cDeze soort is de giftigste die we in ...",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/nieuws/nederlandse-kleuter-5-sterft-door-giftige-paddenstoel-deze-soort-is-de-giftigste-die-we-in-onze-landen-kennen/164898477.html",
+                    "publishedDate": "21/11/2026 14:13"
                 }
             ],
             "belangrijkheid": 0
@@ -308,54 +364,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Kind (5) uit Geffen overleden na eten giftige paddenstoel: zoektocht naar leverdonor mocht niet baten",
-            "link": "https://drimble.nl/regio/groningen/groningen-stad/108674552/kind-5-uit-geffen-overleden-na-eten-giftige-paddenstoel-zoektocht-naar-leverdonor-mocht-niet-baten.html",
-            "publishedDate": "21/11/2026 23:49",
-            "source": "drimble.nl, dvhn.nl, nieuwsblad.be, nl24.nu, nos.nl, omroepbrabant.nl",
-            "category": "Overig",
-            "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 7,
-            "extra_bronnen": [
-                {
-                    "title": "Kleuter (5) overlijdt na eten van giftige paddenstoel | Groningen Stad - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/groningen/groningen-stad/108672872/kleuter-5-overlijdt-na-eten-van-giftige-paddenstoel.html",
-                    "publishedDate": "21/11/2026 23:09"
-                },
-                {
-                    "title": "Kleuter (5) overlijdt na eten van giftige paddenstoel - NOS",
-                    "source": "nos.nl",
-                    "link": "http://nos.nl/artikel/2640433-kleuter-5-overlijdt-na-eten-van-giftige-paddenstoel",
-                    "publishedDate": "21/11/2026 16:05"
-                },
-                {
-                    "title": "Drama in Geffen: kleuter (5) overlijdt na eten van giftige paddenstoel - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035669/drama-in-geffen-kleuter-5-overlijdt-na-eten-van-giftige-paddenstoel",
-                    "publishedDate": "21/11/2026 18:13"
-                },
-                {
-                    "title": "Meisje (5) overlijdt na eten giftige paddenstoel - NL24",
-                    "source": "nl24.nu",
-                    "link": "https://nl24.nu/artikel/meisje-5-overlijdt-na-eten-giftige-paddenstoel",
-                    "publishedDate": "21/11/2026 16:43"
-                },
-                {
-                    "title": "Kind van 5 in het UMCG overleden na een ernstige paddenstoelvergiftiging - DVHN",
-                    "source": "dvhn.nl",
-                    "link": "https://www.dvhn.nl/regio/groningen/stad/kind-van-5-in-het-umcg-overleden-na-een-ernstige-paddenstoelvergiftiging/164896890.html",
-                    "publishedDate": "21/11/2026 16:12"
-                },
-                {
-                    "title": "Nederlandse kleuter (5) sterft door giftige paddenstoel: \u201cDeze soort is de giftigste die we in ...",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/nieuws/nederlandse-kleuter-5-sterft-door-giftige-paddenstoel-deze-soort-is-de-giftigste-die-we-in-onze-landen-kennen/164898477.html",
-                    "publishedDate": "21/11/2026 14:13"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Bekende Nederlandse zangeres (35) per direct naar ziekenhuis - Socialnieuws.nl",
             "link": "https://socialnieuws.nl/2026/11/21/bekende-nederlandse-zangeres-35-per-direct-naar-ziekenhuis/",
             "publishedDate": "21/11/2026 23:40",
@@ -382,17 +390,6 @@
             "link": "https://ons-oss.nl/nieuws/sp-roept-klanten-menzis-en-achmea-op-over-te-stappen-vanwege-ziekenhuis-bernhoven/",
             "publishedDate": "21/11/2026 23:15",
             "source": "ons-oss.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Auto rijdt van kade en belandt op steiger in Tholen",
-            "link": "https://www.zuidwestupdate.nl/nieuws/auto-rijdt-van-kade-en-belandt-op-steiger-in-tholen/",
-            "publishedDate": "21/11/2026 22:45",
-            "source": "zuidwestupdate.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
@@ -455,7 +452,7 @@
                     "publishedDate": "21/11/2026 20:08"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Verwey-Jonker Instituut gaf jarenlang stem aan marginale groepen, nu is het failliet. Hoe kan dat?",
@@ -619,16 +616,22 @@
             "title": "Matras vat vlam bij zorginstelling, brand snel geblust | Drechtsteden - Drimble",
             "link": "https://drimble.nl/regio/zuid-holland/drechtsteden/108671348/matras-vat-vlam-bij-zorginstelling-brand-snel-geblust.html",
             "publishedDate": "21/11/2026 19:07",
-            "source": "drimble.nl, hardnieuws.nl",
+            "source": "112inbeeld.nl, drimble.nl, hardnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Matras vat vlam bij zorginstelling, brand snel geblust, Provincialeweg in Dordrecht",
                     "source": "hardnieuws.nl",
                     "link": "https://www.hardnieuws.nl/zuid-holland/dordrecht/matras-vat-vlam-bij-zorginstelling-brand-snel-geblust-provincialeweg-dordrecht-76169.html",
                     "publishedDate": "21/11/2026 18:11"
+                },
+                {
+                    "title": "Brandweer ingezet vanwege brandende matras in zorginstelling Dordrecht - 112 in Beeld",
+                    "source": "112inbeeld.nl",
+                    "link": "https://112inbeeld.nl/112-melding-aan-de-provincialeweg-in-dordrecht-4/",
+                    "publishedDate": "21/11/2026 19:04"
                 }
             ],
             "belangrijkheid": 0
@@ -649,17 +652,6 @@
                     "publishedDate": "21/11/2026 11:37"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Brandweer ingezet vanwege brandende matras in zorginstelling Dordrecht - 112 in Beeld",
-            "link": "https://112inbeeld.nl/112-melding-aan-de-provincialeweg-in-dordrecht-4/",
-            "publishedDate": "21/11/2026 19:04",
-            "source": "112inbeeld.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -720,17 +712,6 @@
             "source": "telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Welzijn op Recept helpt inwoners van De Wolden weer op weg - RTV Meppel",
-            "link": "https://www.rtvmeppel.nl/welzijn-op-recept-helpt-inwoners-van-de-wolden-weer-op-weg/",
-            "publishedDate": "21/11/2026 17:00",
-            "source": "rtvmeppel.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -995,15 +976,8 @@
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Erwin Nijboer organiseert benefiettocht voor Alzheimer-onderzoek Amsterdam UMC | Sports",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/erwin-nijboer-organiseert-benefiettocht-voor-90050449",
-                    "publishedDate": "21/11/2026 07:06"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1114,7 +1088,7 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "VAD moet inloggen voor gezondheidsgegevens eenvoudiger maken | ICT&amp;health",
@@ -1272,15 +1246,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-                    "publishedDate": "19/11/2026 16:12"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+            "publishedDate": "19/11/2026 16:12",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
