@@ -140,7 +140,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Paraglider neergestort in duingebied bij Heemskerk - NH Nieuws",
@@ -325,11 +325,18 @@
             "title": "Steekincident in winkelstraat, slachtoffer naar ziekenhuis - Nieuws - Omroep Flevoland",
             "link": "https://www.omroepflevoland.nl/nieuws/532274/steekincident-in-winkelstraat-slachtoffer-naar-ziekenhuis",
             "publishedDate": "21/11/2026 20:35",
-            "source": "omroepflevoland.nl",
+            "source": "noordhollandsdagblad.nl, omroepflevoland.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Paraglider neergestort in duingebied bij Heemskerk, met traumaheli naar ziekenhuis",
+                    "source": "noordhollandsdagblad.nl",
+                    "link": "https://www.noordhollandsdagblad.nl/regio/ijmond/paraglider-neergestort-in-duingebied-bij-heemskerk-met-traumaheli-naar-ziekenhuis/164909883.html",
+                    "publishedDate": "21/11/2026 20:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -340,17 +347,6 @@
             "category": "Overig",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Paraglider neergestort in duingebied bij Heemskerk, met traumaheli naar ziekenhuis",
-            "link": "https://www.noordhollandsdagblad.nl/regio/ijmond/paraglider-neergestort-in-duingebied-bij-heemskerk-met-traumaheli-naar-ziekenhuis/164909883.html",
-            "publishedDate": "21/11/2026 20:19",
-            "source": "noordhollandsdagblad.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -446,16 +442,22 @@
             "title": "Matras vat vlam bij zorginstelling, brand snel geblust | Drechtsteden - Drimble",
             "link": "https://drimble.nl/regio/zuid-holland/drechtsteden/108671348/matras-vat-vlam-bij-zorginstelling-brand-snel-geblust.html",
             "publishedDate": "21/11/2026 19:07",
-            "source": "drimble.nl, hardnieuws.nl",
+            "source": "112inbeeld.nl, drimble.nl, hardnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Matras vat vlam bij zorginstelling, brand snel geblust, Provincialeweg in Dordrecht",
                     "source": "hardnieuws.nl",
                     "link": "https://www.hardnieuws.nl/zuid-holland/dordrecht/matras-vat-vlam-bij-zorginstelling-brand-snel-geblust-provincialeweg-dordrecht-76169.html",
                     "publishedDate": "21/11/2026 18:11"
+                },
+                {
+                    "title": "Brandweer ingezet vanwege brandende matras in zorginstelling Dordrecht - 112 in Beeld",
+                    "source": "112inbeeld.nl",
+                    "link": "https://112inbeeld.nl/112-melding-aan-de-provincialeweg-in-dordrecht-4/",
+                    "publishedDate": "21/11/2026 19:04"
                 }
             ],
             "belangrijkheid": 0
@@ -476,17 +478,6 @@
                     "publishedDate": "21/11/2026 11:37"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Brandweer ingezet vanwege brandende matras in zorginstelling Dordrecht - 112 in Beeld",
-            "link": "https://112inbeeld.nl/112-melding-aan-de-provincialeweg-in-dordrecht-4/",
-            "publishedDate": "21/11/2026 19:04",
-            "source": "112inbeeld.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -523,11 +514,18 @@
             "title": "Topvoetballer Harry Kane (33) geeft na groot drama update vanuit ziekenhuis",
             "link": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/topvoetballer-harry-kane-33-geeft-na-groot-drama-update-vanuit-ziekenhuis-sterke-mensen-blijven-2026112116481540953/",
             "publishedDate": "21/11/2026 18:50",
-            "source": "sportnieuws.nl",
+            "source": "pzc.nl, sportnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "'Terug voor de beslissende fase van het seizoen': Harry Kane afgelopen nacht al ... - PZC",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/voetbal/terug-voor-de-beslissende-fase-van-het-seizoen-harry-kane-afgelopen-nacht-al-geopereerd-aan-enkel~aa8719c3/",
+                    "publishedDate": "21/11/2026 18:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -538,17 +536,6 @@
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "'Terug voor de beslissende fase van het seizoen': Harry Kane afgelopen nacht al ... - PZC",
-            "link": "https://www.pzc.nl/voetbal/terug-voor-de-beslissende-fase-van-het-seizoen-harry-kane-afgelopen-nacht-al-geopereerd-aan-enkel~aa8719c3/",
-            "publishedDate": "21/11/2026 18:38",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1210,15 +1197,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
-                    "publishedDate": "19/11/2026 16:12"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Reactie jaarrapportage 2025 Signaleringsoverleg Voedselveiligheid",
+            "link": "https://open.overheid.nl/details/bcaf7f87-636a-4726-afc7-a16f76aa4dd4",
+            "publishedDate": "19/11/2026 16:12",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1314,7 +1305,7 @@
             "feed_label": "Zorginstituut NL Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Wat kunnen we leren van waardige dementiezorg \u00e0 la 'humanitude' in Frans-Japanse film ...",
