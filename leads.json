@@ -125,6 +125,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Aantal overstappers zorgverzekeraar gedaald - wijchen.nieuws.nl",
+            "link": "https://wijchen.nieuws.nl/nieuws/aantal-overstappers-zorgverzekeraar-gedaald",
+            "publishedDate": "22/11/2026 14:06",
+            "source": "wijchen.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zware nacht- en ploegendiensten of ook stress en tijdsdruk? Dit zegt het debat ... - De Gelderlander",
             "link": "https://www.gelderlander.nl/eindhoven/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk~a31c60ab/",
             "publishedDate": "22/11/2026 13:43",
@@ -304,7 +315,7 @@
                     "publishedDate": "21/11/2026 14:13"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ex-directrice Paulusschool en werkgever komen er niet uit: rechter moet t\u00f3ch knoop doorhakken - AD",
@@ -463,11 +474,18 @@
             "title": "Welzijn op Recept: soms helpt een goed gesprek - De Wolden",
             "link": "https://de-wolden.nieuws.nl/nieuws/welzijn-op-recept-soms-helpt-een-goed-gesprek",
             "publishedDate": "22/11/2026 03:56",
-            "source": "de-wolden.nieuws.nl",
+            "source": "de-wolden.nieuws.nl, rtvmeppel.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Welzijn op Recept helpt inwoners van De Wolden weer op weg - RTV Meppel",
+                    "source": "rtvmeppel.nl",
+                    "link": "https://www.rtvmeppel.nl/welzijn-op-recept-helpt-inwoners-van-de-wolden-weer-op-weg/",
+                    "publishedDate": "21/11/2026 17:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -794,17 +812,6 @@
             "source": "socialnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Welzijn op Recept helpt inwoners van De Wolden weer op weg - RTV Meppel",
-            "link": "https://www.rtvmeppel.nl/welzijn-op-recept-helpt-inwoners-van-de-wolden-weer-op-weg/",
-            "publishedDate": "21/11/2026 17:00",
-            "source": "rtvmeppel.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
