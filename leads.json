@@ -140,7 +140,7 @@
                     "publishedDate": "21/11/2026 14:13"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Surinaamse apotheken laten pati\u00ebnten zes weken wachten op medicijnen uit Nederland | Suriname",
@@ -162,17 +162,24 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Paraglider neergestort in duingebied bij Heemskerk - NH Nieuws",
             "link": "https://www.nhnieuws.nl/nieuws/365690/paraglider-neergestort-in-duingebied-bij-heemskerk",
             "publishedDate": "21/11/2026 22:44",
-            "source": "nhnieuws.nl",
+            "source": "nhnieuws.nl, noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Paraglider neergestort in duingebied bij Heemskerk, met traumaheli naar ziekenhuis",
+                    "source": "noordhollandsdagblad.nl",
+                    "link": "https://www.noordhollandsdagblad.nl/regio/ijmond/paraglider-neergestort-in-duingebied-bij-heemskerk-met-traumaheli-naar-ziekenhuis/164909883.html",
+                    "publishedDate": "21/11/2026 20:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -356,17 +363,6 @@
             "category": "Overig",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Paraglider neergestort in duingebied bij Heemskerk, met traumaheli naar ziekenhuis",
-            "link": "https://www.noordhollandsdagblad.nl/regio/ijmond/paraglider-neergestort-in-duingebied-bij-heemskerk-met-traumaheli-naar-ziekenhuis/164909883.html",
-            "publishedDate": "21/11/2026 20:19",
-            "source": "noordhollandsdagblad.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -950,17 +946,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwe website helpt inwoners aan baan \u00e9n opleiding in de zorg - HCnieuws",
-            "link": "https://www.hcnieuws.nl/nieuws/lokaal/131579/nieuwe-website-helpt-inwoners-aan-baan-en-opleiding-in-de-zorg",
-            "publishedDate": "21/11/2026 01:38",
-            "source": "hcnieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Pati\u00ebntenstop bij ziekenhuizen en klinieken voor klanten Zilveren Kruis - Trouw",
             "link": "https://www.trouw.nl/gezondheid/patientenstop-bij-ziekenhuizen-en-klinieken-voor-klanten-zilveren-kruis~b6d5fc0e/",
             "publishedDate": "20/11/2026 21:34",
@@ -1308,7 +1293,7 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Nieuwe routekaart helpt ziekenhuizen naastenparticipatie duurzaam te verankeren",
