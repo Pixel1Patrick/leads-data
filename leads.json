@@ -1,12 +1,34 @@
 {
     "artikelen": [
         {
+            "title": "Omwonenden van vliegveld Seppe zijn verdeeld over toekomstplannen Breda International Airport",
+            "link": "https://www.bndestem.nl/halderberge/omwonenden-van-vliegveld-seppe-zijn-verdeeld-over-toekomstplannen-breda-international-airport-laat-die-baan-zoals-die-is~a593cacf/",
+            "publishedDate": "22/11/2026 00:41",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Dromen en hopen houdt ons op de been, maar doorbreken als auteur is moeilijk | Extra",
             "link": "https://www.destentor.nl/columns/dromen-en-hopen-houdt-ons-op-de-been-maar-doorbreken-als-auteur-is-moeilijk~aa96ddd8/",
             "publishedDate": "22/11/2026 00:02",
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "ETZ breidt inzet comfortkoffers voor kinderen verder uit - Waalwijk.nieuws.nl",
+            "link": "https://waalwijk.nieuws.nl/nieuws/etz-breidt-inzet-comfortkoffers-voor-kinderen-verder-uit",
+            "publishedDate": "21/11/2026 23:55",
+            "source": "waalwijk.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -91,11 +113,18 @@
             "title": "Paraglider neergestort in duingebied bij Heemskerk - NH Nieuws",
             "link": "https://www.nhnieuws.nl/nieuws/365690/paraglider-neergestort-in-duingebied-bij-heemskerk",
             "publishedDate": "21/11/2026 22:44",
-            "source": "nhnieuws.nl",
+            "source": "nhnieuws.nl, noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Paraglider neergestort in duingebied bij Heemskerk, met traumaheli naar ziekenhuis",
+                    "source": "noordhollandsdagblad.nl",
+                    "link": "https://www.noordhollandsdagblad.nl/regio/ijmond/paraglider-neergestort-in-duingebied-bij-heemskerk-met-traumaheli-naar-ziekenhuis/164909883.html",
+                    "publishedDate": "21/11/2026 20:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -113,22 +142,16 @@
             "title": "Acteur Hajo Bruins: 'Ik heb geluk met mijn metabolisme, anders zou ik 120 kilo wegen' - AD",
             "link": "https://www.ad.nl/gezond/acteur-hajo-bruins-ik-heb-geluk-met-mijn-metabolisme-anders-zou-ik-120-kilo-wegen~a270f71f/",
             "publishedDate": "21/11/2026 22:30",
-            "source": "ad.nl, ed.nl, pzc.nl",
+            "source": "ad.nl, ed.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Acteur Hajo Bruins: 'Ik heb geluk met mijn metabolisme, anders zou ik 120 kilo wegen' | ED.nl",
                     "source": "ed.nl",
                     "link": "https://www.ed.nl/gezond/acteur-hajo-bruins-ik-heb-geluk-met-mijn-metabolisme-anders-zou-ik-120-kilo-wegen~a270f71f/",
                     "publishedDate": "21/11/2026 16:02"
-                },
-                {
-                    "title": "'Terug voor de beslissende fase van het seizoen': Harry Kane afgelopen nacht al ... - PZC",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/voetbal/terug-voor-de-beslissende-fase-van-het-seizoen-harry-kane-afgelopen-nacht-al-geopereerd-aan-enkel~aa8719c3/",
-                    "publishedDate": "21/11/2026 18:38"
                 }
             ],
             "belangrijkheid": 0
@@ -208,7 +231,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gent is vijfde stad ter wereld voor levenskwaliteit volgens internationale ranglijst - PZC",
@@ -291,17 +314,6 @@
             "category": "Overig",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Paraglider neergestort in duingebied bij Heemskerk, met traumaheli naar ziekenhuis",
-            "link": "https://www.noordhollandsdagblad.nl/regio/ijmond/paraglider-neergestort-in-duingebied-bij-heemskerk-met-traumaheli-naar-ziekenhuis/164909883.html",
-            "publishedDate": "21/11/2026 20:19",
-            "source": "noordhollandsdagblad.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -397,16 +409,22 @@
             "title": "Matras vat vlam bij zorginstelling, brand snel geblust | Drechtsteden - Drimble",
             "link": "https://drimble.nl/regio/zuid-holland/drechtsteden/108671348/matras-vat-vlam-bij-zorginstelling-brand-snel-geblust.html",
             "publishedDate": "21/11/2026 19:07",
-            "source": "drimble.nl, hardnieuws.nl",
+            "source": "112inbeeld.nl, drimble.nl, hardnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Matras vat vlam bij zorginstelling, brand snel geblust, Provincialeweg in Dordrecht",
                     "source": "hardnieuws.nl",
                     "link": "https://www.hardnieuws.nl/zuid-holland/dordrecht/matras-vat-vlam-bij-zorginstelling-brand-snel-geblust-provincialeweg-dordrecht-76169.html",
                     "publishedDate": "21/11/2026 18:11"
+                },
+                {
+                    "title": "Brandweer ingezet vanwege brandende matras in zorginstelling Dordrecht - 112 in Beeld",
+                    "source": "112inbeeld.nl",
+                    "link": "https://112inbeeld.nl/112-melding-aan-de-provincialeweg-in-dordrecht-4/",
+                    "publishedDate": "21/11/2026 19:04"
                 }
             ],
             "belangrijkheid": 0
@@ -427,17 +445,6 @@
                     "publishedDate": "21/11/2026 11:37"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Brandweer ingezet vanwege brandende matras in zorginstelling Dordrecht - 112 in Beeld",
-            "link": "https://112inbeeld.nl/112-melding-aan-de-provincialeweg-in-dordrecht-4/",
-            "publishedDate": "21/11/2026 19:04",
-            "source": "112inbeeld.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -493,6 +500,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "'Terug voor de beslissende fase van het seizoen': Harry Kane afgelopen nacht al ... - PZC",
+            "link": "https://www.pzc.nl/voetbal/terug-voor-de-beslissende-fase-van-het-seizoen-harry-kane-afgelopen-nacht-al-geopereerd-aan-enkel~aa8719c3/",
+            "publishedDate": "21/11/2026 18:38",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Rel bij Zeeuwse huisartsen lijkt bedaard: meerderheid steunt ingreep om praktijken ... - BN DeStem",
             "link": "https://www.bndestem.nl/terneuzen/rel-bij-zeeuwse-huisartsen-lijkt-bedaagd-meerderheid-steunt-ingreep-om-praktijken-overeind-te-houden~a7b2d6825/",
             "publishedDate": "21/11/2026 18:19",
@@ -521,17 +539,6 @@
             "source": "metronieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jeugdzorg bereikt 2580 Alphense jongeren: gemeente gaf vorig jaar minstens 67,4 miljoen euro uit",
-            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5351504/jeugdzorg-bereikt-2580-alphense-jongeren-gemeente-gaf-vorig-jaar-minstens-6",
-            "publishedDate": "21/11/2026 17:53",
-            "source": "nieuwsinalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
