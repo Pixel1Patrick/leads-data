@@ -138,10 +138,10 @@
             "title": "Inspectie grijpt in bij Erasmus MC vanwege 'kwetsbare' werkcultuur, Diederik Gommers vertrekt",
             "link": "https://www.trouw.nl/binnenland/inspectie-grijpt-in-bij-erasmus-mc-vanwege-kwetsbare-werkcultuur-diederik-gommers-vertrekt~b90f83b2/",
             "publishedDate": "23/11/2026 20:13",
-            "source": "ad.nl, nrc.nl, parool.nl, trouw.nl, zeelandnet.nl",
+            "source": "ad.nl, igj.nl, nrc.nl, parool.nl, trouw.nl, zeelandnet.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 5,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Diederik Gommers stopt per direct als ic-hoofd bij Erasmus MC na kritisch rapport over werkcultuur",
@@ -166,6 +166,12 @@
                     "source": "zeelandnet.nl",
                     "link": "https://www.zeelandnet.nl/nieuws/gommers-stopt-als-hoofd-ic-in-erasmus-mc-na-rapport-inspectie",
                     "publishedDate": "23/11/2026 18:29"
+                },
+                {
+                    "title": "Onderzoek intensive Care Volwassenen van het ErasmusMC in Rotterdam",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+                    "publishedDate": "23/11/2026 18:17"
                 }
             ],
             "belangrijkheid": 1
@@ -393,17 +399,6 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Onderzoek intensive Care Volwassenen van het ErasmusMC in Rotterdam",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-            "publishedDate": "23/11/2026 18:17",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -689,15 +684,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-                    "publishedDate": "23/11/2026 17:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+            "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+            "publishedDate": "23/11/2026 17:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
