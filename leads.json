@@ -15,11 +15,18 @@
             "title": "Streekvervoer gaat twee dagen plat in Twente en Achterhoek | Regio | Tubantia.nl",
             "link": "https://www.tubantia.nl/enschede/streekvervoer-gaat-twee-dagen-plat-in-twente-en-achterhoek~a8338472/",
             "publishedDate": "23/11/2026 02:31",
-            "source": "tubantia.nl",
+            "source": "ad.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Twente en Achterhoek dagen zonder streekvervoer: 'Enige manier om werkgevers in ... - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/enschede/twente-en-achterhoek-dagen-zonder-streekvervoer-enige-manier-om-werkgevers-in-beweging-te-krijgen~a8338472/",
+                    "publishedDate": "22/11/2026 19:34"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -469,17 +476,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Twente en Achterhoek dagen zonder streekvervoer: 'Enige manier om werkgevers in ... - AD",
-            "link": "https://www.ad.nl/enschede/twente-en-achterhoek-dagen-zonder-streekvervoer-enige-manier-om-werkgevers-in-beweging-te-krijgen~a8338472/",
-            "publishedDate": "22/11/2026 19:34",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "'Een droom over je ex betekent niet dat je hem terug wilt' | Nieuws | BD.nl",
             "link": "https://www.bd.nl/gezond/dromen-hebben-niet-altijd-een-vaste-betekenis-een-droom-over-je-ex-betekent-niet-dat-je-hem-terug-wilt~ad17cf90/",
             "publishedDate": "22/11/2026 19:24",
@@ -779,21 +775,26 @@
             "source": "gelreziekenhuizen.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Hoestpoli - Na de onderzoeken - Gelre ziekenhuizen",
                     "source": "gelreziekenhuizen.nl",
                     "link": "https://www.gelreziekenhuizen.nl/patient/folder/815c4ed3-3d19-4bd5-9c0a-20adc1eeb618/850832e0-7820-4e98-a0c6-738e4410bf29",
                     "publishedDate": "22/11/2026 08:58"
-                },
-                {
-                    "title": "Hoestpoli - Schema stoppen met medicatie - Gelre ziekenhuizen",
-                    "source": "gelreziekenhuizen.nl",
-                    "link": "https://www.gelreziekenhuizen.nl/patient/folder/815c4ed3-3d19-4bd5-9c0a-20adc1eeb618/dd6c34a3-6315-43f6-ad57-73f6c0f5083e",
-                    "publishedDate": "22/11/2026 08:51"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Hoestpoli - Schema stoppen met medicatie - Gelre ziekenhuizen",
+            "link": "https://www.gelreziekenhuizen.nl/patient/folder/815c4ed3-3d19-4bd5-9c0a-20adc1eeb618/dd6c34a3-6315-43f6-ad57-73f6c0f5083e",
+            "publishedDate": "22/11/2026 08:51",
+            "source": "gelreziekenhuizen.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
