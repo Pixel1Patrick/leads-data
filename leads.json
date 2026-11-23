@@ -1,6 +1,28 @@
 {
     "artikelen": [
         {
+            "title": "Time-outplaatsen jongeren Vlaanderen: crisis in de maak - Nieuwsblad",
+            "link": "https://www.nieuwsblad.be/regio/limburg/hasselt/time-outplaatsen-voor-jongeren-met-problemen-gehalveerd-en-zelfs-die-vindt-vlaanderen-niet-dit-is-een-crisis-in-de-maak/164992907.html",
+            "publishedDate": "24/11/2026 00:01",
+            "source": "nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Spoedafdeling van Azorg-ziekenhuis in Geraardsbergen sluit, wel nog 'Eerste Opvang ... - TV OOST",
+            "link": "https://www.tvoost.be/nieuws/spoedafdeling-van-azorg-ziekenhuis-in-geraardsbergen-sluit-wel-nog-eerste-opvang-spoedgevallen-216066",
+            "publishedDate": "23/11/2026 23:16",
+            "source": "tvoost.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Onderzoek: op bijna vier van de vijf GGZ-websites geen actuele wachttijd - - GGZ Nieuws",
             "link": "https://www.ggznieuws.nl/onderzoek-op-bijna-vier-van-de-vijf-ggz-websites-geen-actuele-wachttijd/",
             "publishedDate": "23/11/2026 23:13",
@@ -37,11 +59,29 @@
             "title": "Groningen: dood Henk (42) en Naomi (26) bij Zorg4Noord roept vragen - DVHN",
             "link": "https://www.dvhn.nl/regio/groningen/stad/smaragdstraat-groningen-doden-naomi/164809837.html",
             "publishedDate": "23/11/2026 23:00",
-            "source": "dvhn.nl, eenvandaag.avrotros.nl",
+            "source": "dvhn.nl, eenvandaag.avrotros.nl, oogtv.nl, rtvnoord.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 3,
+            "duplicate_count": 6,
             "extra_bronnen": [
+                {
+                    "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
+                    "source": "rtvnoord.nl",
+                    "link": "https://www.rtvnoord.nl/zorg/1454965/twee-doden-binnen-vijf-dagen-bij-zorginstelling-toch-geen-vervolgonderzoek",
+                    "publishedDate": "23/11/2026 16:29"
+                },
+                {
+                    "title": "Twee doden in 5 dagen, maar inspectie doet niks: zorginstellingen onderzoeken zichzelf na ...",
+                    "source": "eenvandaag.avrotros.nl",
+                    "link": "https://eenvandaag.avrotros.nl/artikelen/twee-doden-in-5-dagen-maar-inspectie-doet-niks-zorginstellingen-onderzoeken-zichzelf-na-sterfgevallen-165462",
+                    "publishedDate": "23/11/2026 16:20"
+                },
+                {
+                    "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
+                    "source": "oogtv.nl",
+                    "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
+                    "publishedDate": "23/11/2026 15:39"
+                },
                 {
                     "title": "Naomi (26) overleed compleet verwaarloosd in zorginstelling: 'Ze woog nog 38 kilo'",
                     "source": "eenvandaag.avrotros.nl",
@@ -49,7 +89,7 @@
                     "publishedDate": "23/11/2026 14:05"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Man die rechtbank bekladde met pedoteksten: 'Ik ben geen graffiti-artiest, maar zoek eerherstel'",
@@ -95,24 +135,11 @@
             "title": "Ik vrees dat ik ook zo geobsedeerd was door Jason, omdat hij het leven leidde dat alleen in ...",
             "link": "https://www.trouw.nl/religie-filosofie/ik-vrees-dat-ik-ook-zo-geobsedeerd-was-door-jason-omdat-hij-het-leven-leidde-dat-alleen-in-mijn-nachtmerries-bestond~be4052fb/",
             "publishedDate": "23/11/2026 22:04",
-            "source": "jeugdzorgnederland.nl, parool.nl, trouw.nl",
+            "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Jason Bhugwandass (1998-2026) wist als geen ander hoe eenzaam en schadelijk de ...",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/amsterdam/jason-bhugwandass-1998-2026-wist-als-geen-ander-hoe-eenzaam-en-schadelijk-de-gesloten-jeugdzorg-kan-zijn~b16f3f6f/",
-                    "publishedDate": "23/11/2026 18:30"
-                },
-                {
-                    "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
-                    "publishedDate": "21/11/2026 07:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -136,6 +163,54 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Inspectie grijpt in bij ic Erasmus MC, Diederik Gommers stopt als afdelingshoofd - NU",
+            "link": "https://www.nu.nl/binnenland/6417545/inspectie-grijpt-in-bij-ic-erasmus-mc-diederik-gommers-stopt-als-afdelingshoofd.html",
+            "publishedDate": "23/11/2026 21:52",
+            "source": "ad.nl, igj.nl, nrc.nl, nu.nl, parool.nl, trouw.nl, zeelandnet.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 8,
+            "extra_bronnen": [
+                {
+                    "title": "Inspectie grijpt in bij Erasmus MC vanwege 'kwetsbare' werkcultuur, Diederik Gommers vertrekt",
+                    "source": "trouw.nl",
+                    "link": "https://www.trouw.nl/binnenland/inspectie-grijpt-in-bij-erasmus-mc-vanwege-kwetsbare-werkcultuur-diederik-gommers-vertrekt~b90f83b2/",
+                    "publishedDate": "23/11/2026 20:13"
+                },
+                {
+                    "title": "Diederik Gommers stopt per direct als ic-hoofd bij Erasmus MC na kritisch rapport over werkcultuur",
+                    "source": "parool.nl",
+                    "link": "https://www.parool.nl/nederland/diederik-gommers-stopt-per-direct-als-ic-hoofd-bij-erasmus-mc-na-kritisch-rapport-over-werkcultuur~b41fc8e6/",
+                    "publishedDate": "23/11/2026 19:57"
+                },
+                {
+                    "title": "Diederik Gommers stopt per direct als ic-hoofd bij Erasmus MC na kritisch rapport over werkcultuur",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/binnenland/diederik-gommers-stopt-per-direct-als-ic-hoofd-bij-erasmus-mc-na-kritisch-rapport-over-werkcultuur~a41fc8e6/",
+                    "publishedDate": "23/11/2026 18:24"
+                },
+                {
+                    "title": "Diederik Gommers stopt als leidinggevende op intensive care bij Erasmus MC vanwege ...",
+                    "source": "nrc.nl",
+                    "link": "https://www.nrc.nl/nieuws/2026/11/23/diederik-gommers-stopt-als-leidinggevende-op-intensive-care-bij-erasmus-mc-vanwege-kwetsbare-situatie-op-afdeling-a4942129",
+                    "publishedDate": "23/11/2026 19:40"
+                },
+                {
+                    "title": "Gommers stopt als hoofd ic in Erasmus MC na rapport Inspectie - ZeelandNet",
+                    "source": "zeelandnet.nl",
+                    "link": "https://www.zeelandnet.nl/nieuws/gommers-stopt-als-hoofd-ic-in-erasmus-mc-na-rapport-inspectie",
+                    "publishedDate": "23/11/2026 18:29"
+                },
+                {
+                    "title": "Onderzoek intensive Care Volwassenen van het ErasmusMC in Rotterdam",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+                    "publishedDate": "23/11/2026 18:17"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Ferrum Health gaat beeldvormings-AI beheren in alle 16 ziekenhuizen van AHN - Unite.AI",
@@ -281,48 +356,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Inspectie grijpt in bij Erasmus MC vanwege 'kwetsbare' werkcultuur, Diederik Gommers vertrekt",
-            "link": "https://www.trouw.nl/binnenland/inspectie-grijpt-in-bij-erasmus-mc-vanwege-kwetsbare-werkcultuur-diederik-gommers-vertrekt~b90f83b2/",
-            "publishedDate": "23/11/2026 20:13",
-            "source": "ad.nl, igj.nl, nrc.nl, parool.nl, trouw.nl, zeelandnet.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 7,
-            "extra_bronnen": [
-                {
-                    "title": "Diederik Gommers stopt per direct als ic-hoofd bij Erasmus MC na kritisch rapport over werkcultuur",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/nederland/diederik-gommers-stopt-per-direct-als-ic-hoofd-bij-erasmus-mc-na-kritisch-rapport-over-werkcultuur~b41fc8e6/",
-                    "publishedDate": "23/11/2026 19:57"
-                },
-                {
-                    "title": "Diederik Gommers stopt per direct als ic-hoofd bij Erasmus MC na kritisch rapport over werkcultuur",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/binnenland/diederik-gommers-stopt-per-direct-als-ic-hoofd-bij-erasmus-mc-na-kritisch-rapport-over-werkcultuur~a41fc8e6/",
-                    "publishedDate": "23/11/2026 18:24"
-                },
-                {
-                    "title": "Diederik Gommers stopt als leidinggevende op intensive care bij Erasmus MC vanwege ...",
-                    "source": "nrc.nl",
-                    "link": "https://www.nrc.nl/nieuws/2026/11/23/diederik-gommers-stopt-als-leidinggevende-op-intensive-care-bij-erasmus-mc-vanwege-kwetsbare-situatie-op-afdeling-a4942129",
-                    "publishedDate": "23/11/2026 19:40"
-                },
-                {
-                    "title": "Gommers stopt als hoofd ic in Erasmus MC na rapport Inspectie - ZeelandNet",
-                    "source": "zeelandnet.nl",
-                    "link": "https://www.zeelandnet.nl/nieuws/gommers-stopt-als-hoofd-ic-in-erasmus-mc-na-rapport-inspectie",
-                    "publishedDate": "23/11/2026 18:29"
-                },
-                {
-                    "title": "Onderzoek intensive Care Volwassenen van het ErasmusMC in Rotterdam",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-                    "publishedDate": "23/11/2026 18:17"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Zo voorkom je gedoe met cv, buitenkraan en accu als het gaat vriezen | Regio | ED.nl",
@@ -510,6 +543,17 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jason Bhugwandass (1998-2026) wist als geen ander hoe eenzaam en schadelijk de ...",
+            "link": "https://www.parool.nl/amsterdam/jason-bhugwandass-1998-2026-wist-als-geen-ander-hoe-eenzaam-en-schadelijk-de-gesloten-jeugdzorg-kan-zijn~b16f3f6f/",
+            "publishedDate": "23/11/2026 18:30",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -723,17 +767,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Weekoverzicht: Veel jongeren betrokken bij zware criminaliteit op Cura\u00e7ao, ziekenhuis luidt ...",
-            "link": "https://caribischnetwerk.ntr.nl/2026/11/23/weekoverzicht-veel-jongeren-betrokken-bij-zware-criminaliteit-op-curacao-ziekenhuis-luidt-noodklok-en-aruba-zet-stap-richting-veerdienst/",
-            "publishedDate": "23/11/2026 17:26",
-            "source": "caribischnetwerk.ntr.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Beslisnota] Beslisnota bij Kamervragen over de vergoeding van diabetessensoren",
             "link": "https://open.overheid.nl/details/cf9cd4ad-2e08-44db-b8be-c9bca0a2f015",
             "publishedDate": "23/11/2026 17:24",
@@ -824,19 +857,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-            "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-            "publishedDate": "23/11/2026 17:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+                    "publishedDate": "23/11/2026 17:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -857,17 +886,6 @@
             "source": "nd.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Groene Hart Ziekenhuis over naar ander elektronisch pati\u00ebntendossier (EPD)",
-            "link": "https://goudsdagblad.nl/Lokaal/groene-hart-ziekenhuis-over-naar-ander-elektronisch-patientendossier-epd",
-            "publishedDate": "23/11/2026 17:00",
-            "source": "goudsdagblad.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -903,30 +921,6 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
-            "link": "https://www.rtvnoord.nl/zorg/1454965/twee-doden-binnen-vijf-dagen-bij-zorginstelling-toch-geen-vervolgonderzoek",
-            "publishedDate": "23/11/2026 16:29",
-            "source": "eenvandaag.avrotros.nl, oogtv.nl, rtvnoord.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Twee doden in 5 dagen, maar inspectie doet niks: zorginstellingen onderzoeken zichzelf na ...",
-                    "source": "eenvandaag.avrotros.nl",
-                    "link": "https://eenvandaag.avrotros.nl/artikelen/twee-doden-in-5-dagen-maar-inspectie-doet-niks-zorginstellingen-onderzoeken-zichzelf-na-sterfgevallen-165462",
-                    "publishedDate": "23/11/2026 16:20"
-                },
-                {
-                    "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
-                    "source": "oogtv.nl",
-                    "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
-                    "publishedDate": "23/11/2026 15:39"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1555,12 +1549,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "SC Veenwouden wint eenvoudig met 1-6 bij VVT - RTV NOF",
-            "link": "https://www.rtvnof.nl/sc-veenwouden-wint-eenvoudig-met-1-6-bij-vvt/767839/",
-            "publishedDate": "22/11/2026 19:43",
-            "source": "rtvnof.nl",
+            "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
+            "publishedDate": "21/11/2026 07:00",
+            "source": "jeugdzorgnederland.nl",
             "category": "Overig",
-            "feed_label": "Alert Vvt",
+            "feed_label": "Jeugdzorg Nederland",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
