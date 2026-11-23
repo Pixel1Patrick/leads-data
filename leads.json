@@ -289,7 +289,7 @@
                     "publishedDate": "23/11/2026 15:13"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Psychische stoornissen en gevaren centraal tijdens forensisch seminar op Cura\u00e7ao - nu.CW",
@@ -351,7 +351,7 @@
                     "publishedDate": "23/11/2026 17:07"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Eersel verleent vergunning voor woonzorgcomplex in Duizel | Regio | ED.nl",
@@ -384,7 +384,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Groene Hart Ziekenhuis over naar ander elektronisch pati\u00ebntendossier (EPD)",
@@ -458,7 +458,7 @@
                     "publishedDate": "23/11/2026 13:39"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Apotheker/Productspecialist LNA - Pharmaceutisch Weekblad",
@@ -581,7 +581,7 @@
                     "publishedDate": "21/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bijna 150.000 fietsers hebben hem al, maar de populaire Ziemi-lamp is officieel gewoon verboden",
@@ -725,7 +725,7 @@
                     "publishedDate": "23/11/2026 15:40"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Deze dierenarts rekent helft van de prijs voor dieren van minima: 'Ze komen vaak te laat ...",
@@ -867,7 +867,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Utrechtse artsen vragen aandacht voor levensgevaarlijke allergische reacties - DUIC",
@@ -999,7 +999,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Moet Hardinxveld-Giessendam meer geld steken in de jeugdzorg en het sociaal team? - AD",
@@ -1285,7 +1285,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Huisarts Marianneke werd plotseling een pati\u00ebnt: 'Ik zag het meteen - Vriendin",
@@ -1329,7 +1329,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Juist die stille collega kan een betere leidinggevende zijn: waarom we vaak de verkeerde ...",
@@ -1346,11 +1346,18 @@
             "title": "AZP bereidt opleiding tot klinisch chemicus voor - Dagblad Suriname",
             "link": "https://www.dbsuriname.com/2026/11/22/azp-bereidt-opleiding-tot-klinisch-chemicus-voor/",
             "publishedDate": "23/11/2026 00:43",
-            "source": "dbsuriname.com",
+            "source": "dbsuriname.com, srherald.com",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
+                    "source": "srherald.com",
+                    "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
+                    "publishedDate": "22/11/2026 19:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1444,17 +1451,6 @@
             "source": "rtvnof.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
-            "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
-            "publishedDate": "22/11/2026 19:05",
-            "source": "srherald.com",
-            "category": "Overig",
-            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
