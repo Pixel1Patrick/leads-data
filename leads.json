@@ -94,7 +94,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Juist die stille collega kan een betere leidinggevende zijn: waarom we vaak de verkeerde ...",
@@ -129,7 +129,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Hoe TU Delft en Reinier de Graaf ziekenhuis zorg vernieuwen",
@@ -509,8 +509,15 @@
             "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Hardste stijger van 2027: bij deze zorgverzekeraar betaal je \u20ac 300 meer - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/hardste-stijger-van-2027-bij-deze-zorgverzekeraar-betaal-je-e-300-meer",
+                    "publishedDate": "22/11/2026 11:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -674,11 +681,18 @@
             "title": "Dood van Jason raakt ook verslaggever Carla: 'Hoeveel mag er fout gaan als het om kinderen gaat?'",
             "link": "https://www.ad.nl/binnenland/dood-van-jason-raakt-ook-verslaggever-carla-hoeveel-mag-er-fout-gaan-als-het-om-kinderen-gaat~a3d8d6ef/",
             "publishedDate": "22/11/2026 17:01",
-            "source": "ad.nl",
+            "source": "ad.nl, jeugdzorgnederland.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
+                    "source": "jeugdzorgnederland.nl",
+                    "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
+                    "publishedDate": "21/11/2026 07:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -825,17 +839,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Hardste stijger van 2027: bij deze zorgverzekeraar betaal je \u20ac 300 meer - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/hardste-stijger-van-2027-bij-deze-zorgverzekeraar-betaal-je-e-300-meer",
-            "publishedDate": "22/11/2026 11:50",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Van borstkanker tot pijnzorg bij kinderen: AZ Sint-Elisabeth Zottegem en UZ Gent ... - NUUS",
             "link": "https://www.nuus.be/2026/11/22/van-borstkanker-tot-pijnzorg-bij-kinderen-az-sint-elisabeth-zottegem-en-uz-gent-versterken-samenwerking/",
             "publishedDate": "22/11/2026 09:25",
@@ -937,17 +940,6 @@
             "source": "trends.knack.be",
             "category": "Overig",
             "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
-            "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
-            "publishedDate": "21/11/2026 07:00",
-            "source": "jeugdzorgnederland.nl",
-            "category": "Overig",
-            "feed_label": "Jeugdzorg Nederland",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
