@@ -48,16 +48,22 @@
             "title": "Opnieuw staking streekvervoer vandaag en morgen, uitval verschilt per regio - de Volkskrant",
             "link": "https://www.volkskrant.nl/binnenland/opnieuw-staking-streekvervoer-vandaag-en-morgen-uitval-verschilt-per-regio~b096e9ed/",
             "publishedDate": "23/11/2026 06:39",
-            "source": "ad.nl, tubantia.nl, volkskrant.nl",
+            "source": "ad.nl, loon-op-zand.nieuws.nl, tubantia.nl, volkskrant.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Streekvervoer gaat twee dagen plat in Twente en Achterhoek | Regio | Tubantia.nl",
                     "source": "tubantia.nl",
                     "link": "https://www.tubantia.nl/enschede/streekvervoer-gaat-twee-dagen-plat-in-twente-en-achterhoek~a8338472/",
                     "publishedDate": "23/11/2026 02:31"
+                },
+                {
+                    "title": "ETZ adviseert pati\u00ebnten alternatief vervoer vanwege landelijke ov-staking - Loon-op-zand.nieuws.nl",
+                    "source": "loon-op-zand.nieuws.nl",
+                    "link": "https://loon-op-zand.nieuws.nl/nieuws/etz-adviseert-patienten-alternatief-vervoer-vanwege-landelijke-ov-staking",
+                    "publishedDate": "22/11/2026 23:01"
                 },
                 {
                     "title": "Twente en Achterhoek dagen zonder streekvervoer: 'Enige manier om werkgevers in ... - AD",
@@ -242,11 +248,18 @@
             "title": "AZP bereidt opleiding tot klinisch chemicus voor - Dagblad Suriname",
             "link": "https://www.dbsuriname.com/2026/11/22/azp-bereidt-opleiding-tot-klinisch-chemicus-voor/",
             "publishedDate": "23/11/2026 00:43",
-            "source": "dbsuriname.com",
+            "source": "dbsuriname.com, srherald.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
+                    "source": "srherald.com",
+                    "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
+                    "publishedDate": "22/11/2026 19:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -267,22 +280,9 @@
             "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Zit je bij deze zorgverzekeraar? Dan betaal je in 2027 tot \u20ac 300 meer - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/zit-je-bij-deze-zorgverzekeraar-dan-betaal-je-in-2027-tot-300-meer",
-                    "publishedDate": "22/11/2026 20:55"
-                },
-                {
-                    "title": "Hardste stijger van 2027: bij deze zorgverzekeraar betaal je \u20ac 300 meer - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/hardste-stijger-van-2027-bij-deze-zorgverzekeraar-betaal-je-e-300-meer",
-                    "publishedDate": "22/11/2026 11:50"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Nieuwe harttest voorkomt onnodige ziekenhuisritten, maar levert ziekenhuizen omzetverlies op",
@@ -335,17 +335,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "ETZ adviseert pati\u00ebnten alternatief vervoer vanwege landelijke ov-staking - Loon-op-zand.nieuws.nl",
-            "link": "https://loon-op-zand.nieuws.nl/nieuws/etz-adviseert-patienten-alternatief-vervoer-vanwege-landelijke-ov-staking",
-            "publishedDate": "22/11/2026 23:01",
-            "source": "loon-op-zand.nieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -532,6 +521,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zit je bij deze zorgverzekeraar? Dan betaal je in 2027 tot \u20ac 300 meer - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/zit-je-bij-deze-zorgverzekeraar-dan-betaal-je-in-2027-tot-300-meer",
+            "publishedDate": "22/11/2026 20:55",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Van bol.com-lijstjes tot touwtrekken met pieten: zo vierde Klein-Dongen-Vaart de intocht van de Sint",
             "link": "https://www.bndestem.nl/dongen/van-bol-com-lijstjes-tot-touwtrekken-met-pieten-zo-vierde-klein-dongen-vaart-de-intocht-van-de-sint~a73c9a9a/",
             "publishedDate": "22/11/2026 20:54",
@@ -549,6 +549,17 @@
             "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "SENIOR PROJECTMANAGER BOUW &amp; VASTGOED ZIEKENHUIZEN - JobLeads",
+            "link": "https://www.jobleads.com/ve/job/senior-projectmanager-bouw-vastgoed-ziekenhuizen--emadlangeni-local-municipality--e2f4bddfeef86643988c9bdca9f1a7485",
+            "publishedDate": "22/11/2026 20:17",
+            "source": "jobleads.com",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -589,17 +600,6 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
-            "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
-            "publishedDate": "22/11/2026 19:05",
-            "source": "srherald.com",
-            "category": "Overig",
-            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -693,7 +693,7 @@
                     "publishedDate": "21/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Opnieuw thuisnederlaag voor sv 't Harde - Al het nieuws uit Oldebroek",
@@ -835,6 +835,17 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Hardste stijger van 2027: bij deze zorgverzekeraar betaal je \u20ac 300 meer - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/hardste-stijger-van-2027-bij-deze-zorgverzekeraar-betaal-je-e-300-meer",
+            "publishedDate": "22/11/2026 11:50",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
