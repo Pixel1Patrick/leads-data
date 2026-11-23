@@ -75,7 +75,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Juist die stille collega kan een betere leidinggevende zijn: waarom we vaak de verkeerde ...",
@@ -154,7 +154,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ontroerende knuffel van Ravi (15) en Nova (13) en als kers op de taart een juichmoment ... - AD",
@@ -324,12 +324,19 @@
             "title": "ETZ adviseert pati\u00ebnten alternatief vervoer vanwege landelijke ov-staking - Loon-op-zand.nieuws.nl",
             "link": "https://loon-op-zand.nieuws.nl/nieuws/etz-adviseert-patienten-alternatief-vervoer-vanwege-landelijke-ov-staking",
             "publishedDate": "22/11/2026 23:01",
-            "source": "loon-op-zand.nieuws.nl",
+            "source": "ad.nl, loon-op-zand.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Twente en Achterhoek dagen zonder streekvervoer: 'Enige manier om werkgevers in ... - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/enschede/twente-en-achterhoek-dagen-zonder-streekvervoer-enige-manier-om-werkgevers-in-beweging-te-krijgen~a8338472/",
+                    "publishedDate": "22/11/2026 19:34"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Brandweer rukt uit voor brandgerucht in ziekenhuis Uden - 112 Brabantnieuws",
@@ -357,10 +364,10 @@
             "title": "We zeggen massaal afspraakjes af, hoe komt dat? Experts geven tips voor meer grip op je agenda",
             "link": "https://www.tubantia.nl/gezond/we-zeggen-massaal-afspraakjes-af-hoe-komt-dat-experts-geven-tips-voor-meer-grip-op-je-agenda~a3dea26c/",
             "publishedDate": "22/11/2026 22:49",
-            "source": "ad.nl, bndestem.nl, destentor.nl, gelderlander.nl, pzc.nl, tubantia.nl",
+            "source": "ad.nl, bndestem.nl, destentor.nl, gelderlander.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 9,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "We zeggen massaal afspraakjes af, hoe komt dat? Experts geven tips voor meer grip op je agenda",
@@ -385,30 +392,6 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/gezond/we-zeggen-massaal-afspraakjes-af-hoe-komt-dat-experts-geven-tips-voor-meer-grip-op-je-agenda~a3dea26c/",
                     "publishedDate": "22/11/2026 19:02"
-                },
-                {
-                    "title": "afzeggen is populairder dan ooit, maar zo krijg je w\u00e9l meer grip op je agenda - PZC",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/gezond/sorry-ik-ga-het-niet-redden-afzeggen-is-populairder-dan-ooit-maar-zo-krijg-je-wel-meer-grip-op-je-agenda~a3dea26c/",
-                    "publishedDate": "22/11/2026 16:29"
-                },
-                {
-                    "title": "afzeggen is populairder dan ooit, maar zo krijg je w\u00e9l meer grip op je agenda - BN DeStem",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/gezond/sorry-ik-ga-het-niet-redden-afzeggen-is-populairder-dan-ooit-maar-zo-krijg-je-wel-meer-grip-op-je-agenda~a3dea26c/",
-                    "publishedDate": "22/11/2026 16:25"
-                },
-                {
-                    "title": "afzeggen is populairder dan ooit, maar zo krijg je w\u00e9l meer grip op je agenda - Tubantia",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/gezond/sorry-ik-ga-het-niet-redden-afzeggen-is-populairder-dan-ooit-maar-zo-krijg-je-wel-meer-grip-op-je-agenda~a3dea26c/",
-                    "publishedDate": "22/11/2026 16:20"
-                },
-                {
-                    "title": "afzeggen is populairder dan ooit, maar zo krijg je w\u00e9l meer grip op je agenda | Gezond - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/gezond/sorry-ik-ga-het-niet-redden-afzeggen-is-populairder-dan-ooit-maar-zo-krijg-je-wel-meer-grip-op-je-agenda~a3dea26c/",
-                    "publishedDate": "22/11/2026 16:19"
                 }
             ],
             "belangrijkheid": 0
@@ -582,17 +565,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Twente en Achterhoek dagen zonder streekvervoer: 'Enige manier om werkgevers in ... - AD",
-            "link": "https://www.ad.nl/enschede/twente-en-achterhoek-dagen-zonder-streekvervoer-enige-manier-om-werkgevers-in-beweging-te-krijgen~a8338472/",
-            "publishedDate": "22/11/2026 19:34",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "'Een droom over je ex betekent niet dat je hem terug wilt' | Nieuws | BD.nl",
             "link": "https://www.bd.nl/gezond/dromen-hebben-niet-altijd-een-vaste-betekenis-een-droom-over-je-ex-betekent-niet-dat-je-hem-terug-wilt~ad17cf90/",
             "publishedDate": "22/11/2026 19:24",
@@ -703,6 +675,36 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "afzeggen is populairder dan ooit, maar zo krijg je w\u00e9l meer grip op je agenda - PZC",
+            "link": "https://www.pzc.nl/gezond/sorry-ik-ga-het-niet-redden-afzeggen-is-populairder-dan-ooit-maar-zo-krijg-je-wel-meer-grip-op-je-agenda~a3dea26c/",
+            "publishedDate": "22/11/2026 16:29",
+            "source": "ad.nl, bndestem.nl, pzc.nl, tubantia.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "afzeggen is populairder dan ooit, maar zo krijg je w\u00e9l meer grip op je agenda - BN DeStem",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/gezond/sorry-ik-ga-het-niet-redden-afzeggen-is-populairder-dan-ooit-maar-zo-krijg-je-wel-meer-grip-op-je-agenda~a3dea26c/",
+                    "publishedDate": "22/11/2026 16:25"
+                },
+                {
+                    "title": "afzeggen is populairder dan ooit, maar zo krijg je w\u00e9l meer grip op je agenda - Tubantia",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/gezond/sorry-ik-ga-het-niet-redden-afzeggen-is-populairder-dan-ooit-maar-zo-krijg-je-wel-meer-grip-op-je-agenda~a3dea26c/",
+                    "publishedDate": "22/11/2026 16:20"
+                },
+                {
+                    "title": "afzeggen is populairder dan ooit, maar zo krijg je w\u00e9l meer grip op je agenda | Gezond - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/gezond/sorry-ik-ga-het-niet-redden-afzeggen-is-populairder-dan-ooit-maar-zo-krijg-je-wel-meer-grip-op-je-agenda~a3dea26c/",
+                    "publishedDate": "22/11/2026 16:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
