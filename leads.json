@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Ad Melkert over acht jaar voorzitterschap van de NVZ: \"We zijn veel meer naar buiten gaan kijken\"",
+            "link": "https://nvz-ziekenhuizen.nl/actualiteit-en-opinie/ad-melkert-over-acht-jaar-voorzitterschap-van-de-nvz-we-zijn-veel-meer-naar",
+            "publishedDate": "23/11/2026 11:01",
+            "source": "nvz-ziekenhuizen.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "NVZ Nieuws",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte",
             "link": "https://open.overheid.nl/details/oep-ob-8695080384612a355bb0fd3e5391614d33cbaeb4_150",
             "publishedDate": "23/11/2026 10:21",
@@ -81,11 +92,24 @@
             "title": "Ex-advocaat Fons S. krijgt effectieve celstraf omdat hij ouders opzet tegen jeugdzorg",
             "link": "https://www.ad.nl/woensdrecht/ex-advocaat-fons-s-krijgt-effectieve-celstraf-omdat-hij-ouders-opzet-tegen-jeugdzorg-consulenten-kwamen-met-schrik-werken~a36c0ac3/",
             "publishedDate": "23/11/2026 09:39",
-            "source": "ad.nl",
+            "source": "ad.nl, pzc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Ex-advocaat Fons S. jut ouders op tegen jeugdzorg en riskeert celstraf",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/woensdrecht/ex-advocaat-fons-s-jut-ouders-op-tegen-jeugdzorg-en-riskeert-celstraf-consulenten-kwamen-met-schrik-werken~a36c0ac3/",
+                    "publishedDate": "23/11/2026 07:56"
+                },
+                {
+                    "title": "Ex-advocaat Fons S. jut ouders op tegen jeugdzorg en riskeert celstraf - PZC",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/antwerpen/ex-advocaat-fons-s-jut-ouders-op-tegen-jeugdzorg-en-riskeert-celstraf-consulenten-kwamen-met-schrik-werken~a36c0ac3/",
+                    "publishedDate": "23/11/2026 05:51"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -164,24 +188,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Ex-advocaat Fons S. jut ouders op tegen jeugdzorg en riskeert celstraf",
-            "link": "https://www.ad.nl/woensdrecht/ex-advocaat-fons-s-jut-ouders-op-tegen-jeugdzorg-en-riskeert-celstraf-consulenten-kwamen-met-schrik-werken~a36c0ac3/",
-            "publishedDate": "23/11/2026 07:56",
-            "source": "ad.nl, pzc.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Ex-advocaat Fons S. jut ouders op tegen jeugdzorg en riskeert celstraf - PZC",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/antwerpen/ex-advocaat-fons-s-jut-ouders-op-tegen-jeugdzorg-en-riskeert-celstraf-consulenten-kwamen-met-schrik-werken~a36c0ac3/",
-                    "publishedDate": "23/11/2026 05:51"
-                }
-            ],
-            "belangrijkheid": 0
         },
         {
             "title": "Binnen week aanslag op camera Vogelaarpark, burgemeester Etten-Leur geschokt - BN DeStem",
@@ -409,18 +415,11 @@
             "title": "AZP bereidt opleiding tot klinisch chemicus voor - Dagblad Suriname",
             "link": "https://www.dbsuriname.com/2026/11/22/azp-bereidt-opleiding-tot-klinisch-chemicus-voor/",
             "publishedDate": "23/11/2026 00:43",
-            "source": "dbsuriname.com, srherald.com",
+            "source": "dbsuriname.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
-                    "source": "srherald.com",
-                    "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
-                    "publishedDate": "22/11/2026 19:05"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -673,6 +672,17 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
+            "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
+            "publishedDate": "22/11/2026 19:05",
+            "source": "srherald.com",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1298,7 +1308,7 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
