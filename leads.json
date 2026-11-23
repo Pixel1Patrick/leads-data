@@ -114,7 +114,7 @@
             "source": "dvhn.nl, eenvandaag.avrotros.nl, oogtv.nl, rtvnoord.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 5,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
@@ -133,6 +133,12 @@
                     "source": "oogtv.nl",
                     "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
                     "publishedDate": "23/11/2026 15:39"
+                },
+                {
+                    "title": "Naomi (26) overleed compleet verwaarloosd in zorginstelling: 'Ze woog nog 38 kilo'",
+                    "source": "eenvandaag.avrotros.nl",
+                    "link": "https://eenvandaag.avrotros.nl/artikelen/naomi-26-overleed-compleet-verwaarloosd-in-zorginstelling-ze-woog-nog-38-kilo-165464",
+                    "publishedDate": "23/11/2026 14:05"
                 },
                 {
                     "title": "Inspectie doet geen onderzoek bij zorginstelling na twee doden binnen vijf dagen",
@@ -179,19 +185,13 @@
             "source": "overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Dit zijn de beste zorgverzekeraars van 2027 - Overstappen.nl",
                     "source": "overstappen.nl",
                     "link": "https://www.overstappen.nl/nieuws/dit-zijn-de-beste-zorgverzekeraars-van-2027/",
                     "publishedDate": "23/11/2026 17:41"
-                },
-                {
-                    "title": "Zit je bij deze zorgverzekeraar? Dan betaal je in 2027 tot \u20ac 300 meer - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/zit-je-bij-deze-zorgverzekeraar-dan-betaal-je-in-2027-tot-300-meer",
-                    "publishedDate": "22/11/2026 20:55"
                 }
             ],
             "belangrijkheid": 0
@@ -344,25 +344,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de vergoeding van diabetessensoren",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/08f8ea4d-dfec-48df-a717-ae0545645851",
                     "publishedDate": "23/11/2026 17:24"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
-                    "publishedDate": "23/11/2026 17:07"
-                },
-                {
-                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-                    "publishedDate": "23/11/2026 17:07"
                 }
             ],
             "belangrijkheid": 0
@@ -424,7 +412,7 @@
                     "publishedDate": "23/11/2026 15:13"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Psychische stoornissen en gevaren centraal tijdens forensisch seminar op Cura\u00e7ao - nu.CW",
@@ -468,6 +456,24 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
+            "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
+            "publishedDate": "23/11/2026 17:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+                    "publishedDate": "23/11/2026 17:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -845,22 +851,16 @@
             "title": "Petra had een relatie met een cli\u00ebnt van de zorginstelling | Nieuws | AD.nl",
             "link": "https://www.ad.nl/binnenland/petra-had-een-relatie-met-een-client-van-de-zorginstelling~ac6a9098/",
             "publishedDate": "23/11/2026 15:31",
-            "source": "ad.nl, bd.nl, bndestem.nl",
+            "source": "ad.nl, bndestem.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Petra had een relatie met een cli\u00ebnt van de zorginstelling | Regio | BN DeStem.nl",
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/dordrecht/petra-had-een-relatie-met-een-client-van-de-zorginstelling~ac6a9098/",
                     "publishedDate": "23/11/2026 15:31"
-                },
-                {
-                    "title": "Klachten in de intieme zone leiden bij mevrouw Ligthart (69) tot een gesprek over seks",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/gezond/klachten-in-de-intieme-zone-leiden-bij-mevrouw-ligthart-69-tot-een-gesprek-over-seks-dokter-rutger-vraagt-door~a84bfa18/",
-                    "publishedDate": "23/11/2026 10:19"
                 }
             ],
             "belangrijkheid": 0
@@ -1064,17 +1064,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Naomi (26) overleed compleet verwaarloosd in zorginstelling: 'Ze woog nog 38 kilo'",
-            "link": "https://eenvandaag.avrotros.nl/artikelen/naomi-26-overleed-compleet-verwaarloosd-in-zorginstelling-ze-woog-nog-38-kilo-165464",
-            "publishedDate": "23/11/2026 14:05",
-            "source": "eenvandaag.avrotros.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Moet Hardinxveld-Giessendam meer geld steken in de jeugdzorg en het sociaal team? - AD",
             "link": "https://www.ad.nl/hardinxveld-giessendam/moet-hardinxveld-giessendam-meer-geld-steken-in-de-jeugdzorg-en-het-sociaal-team~a9f622c4/",
             "publishedDate": "23/11/2026 14:04",
@@ -1251,6 +1240,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Klachten in de intieme zone leiden bij mevrouw Ligthart (69) tot een gesprek over seks",
+            "link": "https://www.bd.nl/gezond/klachten-in-de-intieme-zone-leiden-bij-mevrouw-ligthart-69-tot-een-gesprek-over-seks-dokter-rutger-vraagt-door~a84bfa18/",
+            "publishedDate": "23/11/2026 10:19",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Brandweer Oisterwijk helpt bij onbereikbaar persoon in de zorg",
             "link": "https://www.oisterwijknieuws.nl/2026/11/brandweer-oisterwijk-helpt-bij-onbereikbaar-persoon-in-de-zorg/",
             "publishedDate": "23/11/2026 10:15",
@@ -1411,6 +1411,17 @@
             "source": "theportugalnews.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zit je bij deze zorgverzekeraar? Dan betaal je in 2027 tot \u20ac 300 meer - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/zit-je-bij-deze-zorgverzekeraar-dan-betaal-je-in-2027-tot-300-meer",
+            "publishedDate": "22/11/2026 20:55",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
