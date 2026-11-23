@@ -160,11 +160,24 @@
             "title": "Groningen: dood Henk (42) en Naomi (26) bij Zorg4Noord roept vragen - DVHN",
             "link": "https://www.dvhn.nl/regio/groningen/stad/smaragdstraat-groningen-doden-naomi/164809837.html",
             "publishedDate": "23/11/2026 18:27",
-            "source": "dvhn.nl",
+            "source": "dvhn.nl, eenvandaag.avrotros.nl, oogtv.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
+                    "source": "oogtv.nl",
+                    "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
+                    "publishedDate": "23/11/2026 15:39"
+                },
+                {
+                    "title": "Naomi (26) overleed compleet verwaarloosd in zorginstelling: 'Ze woog nog 38 kilo'",
+                    "source": "eenvandaag.avrotros.nl",
+                    "link": "https://eenvandaag.avrotros.nl/artikelen/naomi-26-overleed-compleet-verwaarloosd-in-zorginstelling-ze-woog-nog-38-kilo-165464",
+                    "publishedDate": "23/11/2026 14:05"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -259,11 +272,17 @@
             "title": "Hoe het seksleven van een bijna 70-jarige weer tot bloei komt: 'Alsof we weer 20 zijn'",
             "link": "https://www.destentor.nl/gezond/hoe-het-seksleven-van-een-bijna-70-jarige-weer-tot-bloei-komt-alsof-we-weer-20-zijn~a84bfa18/",
             "publishedDate": "23/11/2026 17:44",
-            "source": "ad.nl, bd.nl, destentor.nl, gelderlander.nl",
+            "source": "ad.nl, bd.nl, destentor.nl, gelderlander.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 6,
+            "duplicate_count": 7,
             "extra_bronnen": [
+                {
+                    "title": "Hoe het seksleven van een bijna 70-jarige weer tot bloei komt: 'Alsof we weer 20 zijn'",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/gezond/hoe-het-seksleven-van-een-bijna-70-jarige-weer-tot-bloei-komt-alsof-we-weer-20-zijn~a84bfa18/",
+                    "publishedDate": "23/11/2026 16:47"
+                },
                 {
                     "title": "Hoe het seksleven van een bijna 70-jarige weer tot bloei komt: 'Alsof we weer 20 zijn' - AD",
                     "source": "ad.nl",
@@ -522,11 +541,18 @@
             "title": "Ziekenhuizen weren pati\u00ebnten vanwege 'te weinig betalende' verzekeraar. 'U kunt in januari ...",
             "link": "https://www.nd.nl/nieuws/nederland/1339595/ziekenhuizen-weren-patienten-vanwege-te-weinig-betalende-verzekeraar-u-kunt-in-januari-weer-terecht",
             "publishedDate": "23/11/2026 17:02",
-            "source": "nd.nl",
+            "source": "alphens.nl, nd.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Alrijne voert tijdelijke pati\u00ebntenstop in voor verzekerden van Zilveren Kruis - Alphens.nl",
+                    "source": "alphens.nl",
+                    "link": "https://www.alphens.nl/nieuws/alrijne-voert-tijdelijke-patientenstop-in-voor-verzekerden-van-zilveren-kruis.html",
+                    "publishedDate": "23/11/2026 12:03"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -577,10 +603,10 @@
             "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
             "link": "https://www.rtvnoord.nl/zorg/1454965/twee-doden-binnen-vijf-dagen-bij-zorginstelling-toch-geen-vervolgonderzoek",
             "publishedDate": "23/11/2026 16:29",
-            "source": "eenvandaag.avrotros.nl, oogtv.nl, rtvnoord.nl",
+            "source": "eenvandaag.avrotros.nl, rtvnoord.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Twee doden in 5 dagen, maar inspectie doet niks: zorginstellingen onderzoeken zichzelf na ...",
@@ -589,19 +615,13 @@
                     "publishedDate": "23/11/2026 16:20"
                 },
                 {
-                    "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
-                    "source": "oogtv.nl",
-                    "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
-                    "publishedDate": "23/11/2026 15:39"
-                },
-                {
                     "title": "Inspectie doet geen onderzoek bij zorginstelling na twee doden binnen vijf dagen",
                     "source": "rtvnoord.nl",
                     "link": "https://www.rtvnoord.nl/zorg/1454965/inspectie-doet-geen-onderzoek-bij-zorginstelling-na-twee-doden-binnen-vijf-dagen",
                     "publishedDate": "23/11/2026 13:39"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Apotheker/Productspecialist LNA - Pharmaceutisch Weekblad",
@@ -706,22 +726,16 @@
             "title": "Jason Bhugwandass vocht met \u00b4getergde vasthoudendheid\u00b4 tegen misstanden in de ... - Drimble",
             "link": "https://drimble.nl/binnenlands-nieuws/108687828/jason-bhugwandass-vocht-met-getergde-vasthoudendheid-tegen-misstanden-in-de-jeugdzorg-en-voor-jongeren-op-gesloten.html",
             "publishedDate": "23/11/2026 16:02",
-            "source": "drimble.nl, jeugdzorgnederland.nl, nrc.nl",
+            "source": "drimble.nl, nrc.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Jason Bhugwandass vocht met 'getergde vasthoudendheid' tegen misstanden in de ... - NRC",
                     "source": "nrc.nl",
                     "link": "https://www.nrc.nl/nieuws/2026/11/23/jason-bhugwandass-vocht-met-getergde-vasthoudendheid-tegen-misstanden-in-de-jeugdzorg-en-voor-jongeren-op-gesloten-afdelingen-a4941968",
                     "publishedDate": "23/11/2026 15:53"
-                },
-                {
-                    "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
-                    "publishedDate": "21/11/2026 07:00"
                 }
             ],
             "belangrijkheid": 0
@@ -763,11 +777,18 @@
             "title": "Radboudumc ontwikkelt luie stoel met techniek van MRI-scanner | BNR Nieuwsradio",
             "link": "https://www.bnr.nl/nieuws/lifestyle/10616099/radboudumc-ontwikkelt-luie-stoel-met-techniek-van-mri-scanner",
             "publishedDate": "23/11/2026 15:59",
-            "source": "bnr.nl",
+            "source": "bnr.nl, radboudumc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Eerste MRI-scanner in de vorm van een luie stoel komt eraan - Radboudumc",
+                    "source": "radboudumc.nl",
+                    "link": "https://www.radboudumc.nl/nieuws/2026/eerste-mri-scanner-in-de-vorm-van-een-luie-stoel-komt-eraan",
+                    "publishedDate": "23/11/2026 14:34"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1037,17 +1058,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Eerste MRI-scanner in de vorm van een luie stoel komt eraan - Radboudumc",
-            "link": "https://www.radboudumc.nl/nieuws/2026/eerste-mri-scanner-in-de-vorm-van-een-luie-stoel-komt-eraan",
-            "publishedDate": "23/11/2026 14:34",
-            "source": "radboudumc.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "'Schrijf anti-epileptica bij start voor op stofnaam' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/schrijf-anti-epileptica-bij-start-voor-op-stofnaam",
             "publishedDate": "23/11/2026 14:28",
@@ -1123,17 +1133,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Naomi (26) overleed compleet verwaarloosd in zorginstelling: 'Ze woog nog 38 kilo'",
-            "link": "https://eenvandaag.avrotros.nl/artikelen/naomi-26-overleed-compleet-verwaarloosd-in-zorginstelling-ze-woog-nog-38-kilo-165464",
-            "publishedDate": "23/11/2026 14:05",
-            "source": "eenvandaag.avrotros.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Moet Hardinxveld-Giessendam meer geld steken in de jeugdzorg en het sociaal team? - AD",
@@ -1244,17 +1243,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Alrijne voert tijdelijke pati\u00ebntenstop in voor verzekerden van Zilveren Kruis - Alphens.nl",
-            "link": "https://www.alphens.nl/nieuws/alrijne-voert-tijdelijke-patientenstop-in-voor-verzekerden-van-zilveren-kruis.html",
-            "publishedDate": "23/11/2026 12:03",
-            "source": "alphens.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Huisartsen zoeken een weg in het voorschrijven van obesitasmedicatie | medischcontact",
@@ -1373,17 +1361,6 @@
             "source": "omroepzeeland.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Huisarts Marianneke werd plotseling een pati\u00ebnt: 'Ik zag het meteen - Vriendin",
-            "link": "https://www.vriendin.nl/persoonlijke-verhalen/huisarts-marianneke-werd-patient/",
-            "publishedDate": "23/11/2026 09:02",
-            "source": "vriendin.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1527,6 +1504,17 @@
             "source": "rtvnof.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
+            "publishedDate": "21/11/2026 07:00",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Jeugdzorg Nederland",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
