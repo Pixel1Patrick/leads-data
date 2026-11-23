@@ -37,11 +37,18 @@
             "title": "Streekvervoer gaat twee dagen plat in Twente en Achterhoek | Regio | Tubantia.nl",
             "link": "https://www.tubantia.nl/enschede/streekvervoer-gaat-twee-dagen-plat-in-twente-en-achterhoek~a8338472/",
             "publishedDate": "23/11/2026 02:31",
-            "source": "tubantia.nl",
+            "source": "ad.nl, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Twente en Achterhoek dagen zonder streekvervoer: 'Enige manier om werkgevers in ... - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/enschede/twente-en-achterhoek-dagen-zonder-streekvervoer-enige-manier-om-werkgevers-in-beweging-te-krijgen~a8338472/",
+                    "publishedDate": "22/11/2026 19:34"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -149,21 +156,8 @@
             "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Zit je bij deze zorgverzekeraar? Dan betaal je in 2027 tot \u20ac 300 meer - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/zit-je-bij-deze-zorgverzekeraar-dan-betaal-je-in-2027-tot-300-meer",
-                    "publishedDate": "22/11/2026 20:55"
-                },
-                {
-                    "title": "Hardste stijger van 2027: bij deze zorgverzekeraar betaal je \u20ac 300 meer - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/hardste-stijger-van-2027-bij-deze-zorgverzekeraar-betaal-je-e-300-meer",
-                    "publishedDate": "22/11/2026 11:50"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -421,6 +415,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zit je bij deze zorgverzekeraar? Dan betaal je in 2027 tot \u20ac 300 meer - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/zit-je-bij-deze-zorgverzekeraar-dan-betaal-je-in-2027-tot-300-meer",
+            "publishedDate": "22/11/2026 20:55",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Hardste stijger van 2027: bij deze zorgverzekeraar betaal je \u20ac 300 meer - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/hardste-stijger-van-2027-bij-deze-zorgverzekeraar-betaal-je-e-300-meer",
+                    "publishedDate": "22/11/2026 11:50"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Van bol.com-lijstjes tot touwtrekken met pieten: zo vierde Klein-Dongen-Vaart de intocht van de Sint",
             "link": "https://www.bndestem.nl/dongen/van-bol-com-lijstjes-tot-touwtrekken-met-pieten-zo-vierde-klein-dongen-vaart-de-intocht-van-de-sint~a73c9a9a/",
             "publishedDate": "22/11/2026 20:54",
@@ -470,17 +482,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Twente en Achterhoek dagen zonder streekvervoer: 'Enige manier om werkgevers in ... - AD",
-            "link": "https://www.ad.nl/enschede/twente-en-achterhoek-dagen-zonder-streekvervoer-enige-manier-om-werkgevers-in-beweging-te-krijgen~a8338472/",
-            "publishedDate": "22/11/2026 19:34",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "'Een droom over je ex betekent niet dat je hem terug wilt' | Nieuws | BD.nl",
