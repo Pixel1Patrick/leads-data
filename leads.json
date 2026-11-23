@@ -48,22 +48,16 @@
             "title": "Opnieuw staking streekvervoer vandaag en morgen, uitval verschilt per regio - de Volkskrant",
             "link": "https://www.volkskrant.nl/binnenland/opnieuw-staking-streekvervoer-vandaag-en-morgen-uitval-verschilt-per-regio~b096e9ed/",
             "publishedDate": "23/11/2026 06:39",
-            "source": "ad.nl, loon-op-zand.nieuws.nl, tubantia.nl, volkskrant.nl",
+            "source": "ad.nl, tubantia.nl, volkskrant.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Streekvervoer gaat twee dagen plat in Twente en Achterhoek | Regio | Tubantia.nl",
                     "source": "tubantia.nl",
                     "link": "https://www.tubantia.nl/enschede/streekvervoer-gaat-twee-dagen-plat-in-twente-en-achterhoek~a8338472/",
                     "publishedDate": "23/11/2026 02:31"
-                },
-                {
-                    "title": "ETZ adviseert pati\u00ebnten alternatief vervoer vanwege landelijke ov-staking - Loon-op-zand.nieuws.nl",
-                    "source": "loon-op-zand.nieuws.nl",
-                    "link": "https://loon-op-zand.nieuws.nl/nieuws/etz-adviseert-patienten-alternatief-vervoer-vanwege-landelijke-ov-staking",
-                    "publishedDate": "22/11/2026 23:01"
                 },
                 {
                     "title": "Twente en Achterhoek dagen zonder streekvervoer: 'Enige manier om werkgevers in ... - AD",
@@ -105,7 +99,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Juist die stille collega kan een betere leidinggevende zijn: waarom we vaak de verkeerde ...",
@@ -248,18 +242,11 @@
             "title": "AZP bereidt opleiding tot klinisch chemicus voor - Dagblad Suriname",
             "link": "https://www.dbsuriname.com/2026/11/22/azp-bereidt-opleiding-tot-klinisch-chemicus-voor/",
             "publishedDate": "23/11/2026 00:43",
-            "source": "dbsuriname.com, srherald.com",
+            "source": "dbsuriname.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
-                    "source": "srherald.com",
-                    "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
-                    "publishedDate": "22/11/2026 19:05"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -280,9 +267,22 @@
             "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Zit je bij deze zorgverzekeraar? Dan betaal je in 2027 tot \u20ac 300 meer - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/zit-je-bij-deze-zorgverzekeraar-dan-betaal-je-in-2027-tot-300-meer",
+                    "publishedDate": "22/11/2026 20:55"
+                },
+                {
+                    "title": "Hardste stijger van 2027: bij deze zorgverzekeraar betaal je \u20ac 300 meer - Zorgwijzer",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/hardste-stijger-van-2027-bij-deze-zorgverzekeraar-betaal-je-e-300-meer",
+                    "publishedDate": "22/11/2026 11:50"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Nieuwe harttest voorkomt onnodige ziekenhuisritten, maar levert ziekenhuizen omzetverlies op",
@@ -335,6 +335,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "ETZ adviseert pati\u00ebnten alternatief vervoer vanwege landelijke ov-staking - Loon-op-zand.nieuws.nl",
+            "link": "https://loon-op-zand.nieuws.nl/nieuws/etz-adviseert-patienten-alternatief-vervoer-vanwege-landelijke-ov-staking",
+            "publishedDate": "22/11/2026 23:01",
+            "source": "loon-op-zand.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -521,24 +532,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zit je bij deze zorgverzekeraar? Dan betaal je in 2027 tot \u20ac 300 meer - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/zit-je-bij-deze-zorgverzekeraar-dan-betaal-je-in-2027-tot-300-meer",
-            "publishedDate": "22/11/2026 20:55",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Hardste stijger van 2027: bij deze zorgverzekeraar betaal je \u20ac 300 meer - Zorgwijzer",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/hardste-stijger-van-2027-bij-deze-zorgverzekeraar-betaal-je-e-300-meer",
-                    "publishedDate": "22/11/2026 11:50"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Van bol.com-lijstjes tot touwtrekken met pieten: zo vierde Klein-Dongen-Vaart de intocht van de Sint",
             "link": "https://www.bndestem.nl/dongen/van-bol-com-lijstjes-tot-touwtrekken-met-pieten-zo-vierde-klein-dongen-vaart-de-intocht-van-de-sint~a73c9a9a/",
             "publishedDate": "22/11/2026 20:54",
@@ -601,6 +594,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
+            "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
+            "publishedDate": "22/11/2026 19:05",
+            "source": "srherald.com",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Als de markt het laat afweten: Nierstichting en zorgverzekeraars ontwikkelen zelf nieuwe kunstnier",
             "link": "https://www.verzekeringsnieuws.nl/artikel/130577-als-de-markt-het-laat-afweten-nierstichting-en-zorgverzekeraars-ontwikkelen-zelf",
             "publishedDate": "22/11/2026 19:04",
@@ -616,7 +620,7 @@
                     "publishedDate": "22/11/2026 15:56"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Derbigum NT4 toont langdurige kwaliteit van circulaire dakbedekking aan",
@@ -677,12 +681,19 @@
             "title": "Dood van Jason raakt ook verslaggever Carla: 'Hoeveel mag er fout gaan als het om kinderen gaat?'",
             "link": "https://www.ad.nl/binnenland/dood-van-jason-raakt-ook-verslaggever-carla-hoeveel-mag-er-fout-gaan-als-het-om-kinderen-gaat~a3d8d6ef/",
             "publishedDate": "22/11/2026 17:01",
-            "source": "ad.nl",
+            "source": "ad.nl, jeugdzorgnederland.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
+                    "source": "jeugdzorgnederland.nl",
+                    "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
+                    "publishedDate": "21/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Opnieuw thuisnederlaag voor sv 't Harde - Al het nieuws uit Oldebroek",
@@ -929,17 +940,6 @@
             "source": "trends.knack.be",
             "category": "Overig",
             "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
-            "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
-            "publishedDate": "21/11/2026 07:00",
-            "source": "jeugdzorgnederland.nl",
-            "category": "Overig",
-            "feed_label": "Jeugdzorg Nederland",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
