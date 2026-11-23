@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Medicare: prijsverlagingen 13 medicijnen drukken uitgaven met 45% - IEX",
+            "link": "https://www.iex.nl/Nieuws/886236/Medicare-prijsverlagingen-13-medicijnen-drukken-uitgaven-met-45.aspx",
+            "publishedDate": "24/11/2026 00:14",
+            "source": "iex.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Time-outplaatsen jongeren Vlaanderen: crisis in de maak - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/regio/limburg/hasselt/time-outplaatsen-voor-jongeren-met-problemen-gehalveerd-en-zelfs-die-vindt-vlaanderen-niet-dit-is-een-crisis-in-de-maak/164992907.html",
             "publishedDate": "24/11/2026 00:01",
@@ -59,11 +70,29 @@
             "title": "Groningen: dood Henk (42) en Naomi (26) bij Zorg4Noord roept vragen - DVHN",
             "link": "https://www.dvhn.nl/regio/groningen/stad/smaragdstraat-groningen-doden-naomi/164809837.html",
             "publishedDate": "23/11/2026 23:00",
-            "source": "dvhn.nl, eenvandaag.avrotros.nl",
+            "source": "dvhn.nl, eenvandaag.avrotros.nl, oogtv.nl, rtvnoord.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 3,
+            "duplicate_count": 6,
             "extra_bronnen": [
+                {
+                    "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
+                    "source": "rtvnoord.nl",
+                    "link": "https://www.rtvnoord.nl/zorg/1454965/twee-doden-binnen-vijf-dagen-bij-zorginstelling-toch-geen-vervolgonderzoek",
+                    "publishedDate": "23/11/2026 16:29"
+                },
+                {
+                    "title": "Twee doden in 5 dagen, maar inspectie doet niks: zorginstellingen onderzoeken zichzelf na ...",
+                    "source": "eenvandaag.avrotros.nl",
+                    "link": "https://eenvandaag.avrotros.nl/artikelen/twee-doden-in-5-dagen-maar-inspectie-doet-niks-zorginstellingen-onderzoeken-zichzelf-na-sterfgevallen-165462",
+                    "publishedDate": "23/11/2026 16:20"
+                },
+                {
+                    "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
+                    "source": "oogtv.nl",
+                    "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
+                    "publishedDate": "23/11/2026 15:39"
+                },
                 {
                     "title": "Naomi (26) overleed compleet verwaarloosd in zorginstelling: 'Ze woog nog 38 kilo'",
                     "source": "eenvandaag.avrotros.nl",
@@ -288,7 +317,7 @@
                     "publishedDate": "23/11/2026 20:27"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Artsen en verpleegkundigen oefenen geriatrische zorgscenario's - Artsenkrant",
@@ -874,15 +903,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-                    "publishedDate": "23/11/2026 17:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+            "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+            "publishedDate": "23/11/2026 17:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -930,17 +963,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
-            "link": "https://www.rtvnoord.nl/zorg/1454965/twee-doden-binnen-vijf-dagen-bij-zorginstelling-toch-geen-vervolgonderzoek",
-            "publishedDate": "23/11/2026 16:29",
-            "source": "rtvnoord.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Apotheker/Productspecialist LNA - Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/vacatures/2026/11%5D/apothekerproductspecialist-lna",
             "publishedDate": "23/11/2026 16:28",
@@ -980,17 +1002,6 @@
             "source": "ggz.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Twee doden in 5 dagen, maar inspectie doet niks: zorginstellingen onderzoeken zichzelf na ...",
-            "link": "https://eenvandaag.avrotros.nl/artikelen/twee-doden-in-5-dagen-maar-inspectie-doet-niks-zorginstellingen-onderzoeken-zichzelf-na-sterfgevallen-165462",
-            "publishedDate": "23/11/2026 16:20",
-            "source": "eenvandaag.avrotros.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1105,17 +1116,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
-            "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
-            "publishedDate": "23/11/2026 15:39",
-            "source": "oogtv.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Deze dierenarts rekent helft van de prijs voor dieren van minima: 'Ze komen vaak te laat ...",
             "link": "https://www.ad.nl/dordrecht/deze-dierenarts-rekent-helft-van-de-prijs-voor-dieren-van-minima-ze-komen-vaak-te-laat-vanwege-de-kosten~a1fee741/",
             "publishedDate": "23/11/2026 15:36",
@@ -1226,7 +1226,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Utrechtse artsen vragen aandacht voor levensgevaarlijke allergische reacties - DUIC",
@@ -1387,7 +1387,7 @@
                     "publishedDate": "23/11/2026 12:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Huisartsen zoeken een weg in het voorschrijven van obesitasmedicatie | medischcontact",
