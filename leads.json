@@ -105,7 +105,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Juist die stille collega kan een betere leidinggevende zijn: waarom we vaak de verkeerde ...",
@@ -248,18 +248,11 @@
             "title": "AZP bereidt opleiding tot klinisch chemicus voor - Dagblad Suriname",
             "link": "https://www.dbsuriname.com/2026/11/22/azp-bereidt-opleiding-tot-klinisch-chemicus-voor/",
             "publishedDate": "23/11/2026 00:43",
-            "source": "dbsuriname.com, srherald.com",
+            "source": "dbsuriname.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
-                    "source": "srherald.com",
-                    "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
-                    "publishedDate": "22/11/2026 19:05"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -600,6 +593,17 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
+            "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
+            "publishedDate": "22/11/2026 19:05",
+            "source": "srherald.com",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
