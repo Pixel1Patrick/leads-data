@@ -221,13 +221,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de vergoeding van diabetessensoren",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/08f8ea4d-dfec-48df-a717-ae0545645851",
                     "publishedDate": "23/11/2026 17:24"
+                },
+                {
+                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+                    "publishedDate": "23/11/2026 17:07"
                 }
             ],
             "belangrijkheid": 0
@@ -342,15 +348,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-                    "publishedDate": "23/11/2026 17:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -816,18 +815,11 @@
             "title": "Patty Brard naar ziekenhuis na ongeluk - Ditjes en Datjes",
             "link": "https://www.ditjesendatjes.nl/patty-brard-naar-ziekenhuis-na-ongeluk",
             "publishedDate": "23/11/2026 15:27",
-            "source": "ditjesendatjes.nl, rtl.nl",
+            "source": "ditjesendatjes.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Patty Brard naar ziekenhuis na flinke hoofdwond: moet vijf dagen rust houden - RTL Nieuws",
-                    "source": "rtl.nl",
-                    "link": "https://www.rtl.nl/boulevard/artikel/5666668/patty-brard-moet-rust-nemen-na-hechting-bloedige-hoofdwond",
-                    "publishedDate": "23/11/2026 15:16"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -859,6 +851,17 @@
             "source": "nieuws.marokko.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Patty Brard naar ziekenhuis na flinke hoofdwond: moet vijf dagen rust houden - RTL Nieuws",
+            "link": "https://www.rtl.nl/boulevard/artikel/5666668/patty-brard-moet-rust-nemen-na-hechting-bloedige-hoofdwond",
+            "publishedDate": "23/11/2026 15:16",
+            "source": "rtl.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1351,11 +1354,18 @@
             "title": "AZP bereidt opleiding tot klinisch chemicus voor - Dagblad Suriname",
             "link": "https://www.dbsuriname.com/2026/11/22/azp-bereidt-opleiding-tot-klinisch-chemicus-voor/",
             "publishedDate": "23/11/2026 00:43",
-            "source": "dbsuriname.com",
+            "source": "dbsuriname.com, srherald.com",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
+                    "source": "srherald.com",
+                    "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
+                    "publishedDate": "22/11/2026 19:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1449,17 +1459,6 @@
             "source": "rtvnof.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Suriname heeft slechts twee klinisch chemici, AZP start opleiding met Amsterdam UMC",
-            "link": "https://www.srherald.com/suriname/2026/11/22/suriname-heeft-slechts-twee-klinisch-chemici-azp-start-opleiding-met-amsterdam-umc/",
-            "publishedDate": "22/11/2026 19:05",
-            "source": "srherald.com",
-            "category": "Overig",
-            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
