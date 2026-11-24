@@ -193,8 +193,15 @@
             "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Ambulances Belgi\u00eb binnenkort ook met pati\u00ebnten naar Brabantse ziekenhuizen - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035893/ambulances-belgie-binnenkort-ook-met-patienten-naar-brabantse-ziekenhuizen",
+                    "publishedDate": "24/11/2026 10:55"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -519,17 +526,6 @@
             "source": "ed.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ambulances Belgi\u00eb binnenkort ook met pati\u00ebnten naar Brabantse ziekenhuizen - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035893/ambulances-belgie-binnenkort-ook-met-patienten-naar-brabantse-ziekenhuizen",
-            "publishedDate": "24/11/2026 10:55",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -944,16 +940,22 @@
             "title": "De spoedfunctie met MUG-erkenning in Geraardsbergen verdwijnt vanaf 1 januari 2027",
             "link": "https://www.editiepajot.com/artikels/geraardsbergen/de-spoedfunctie-met-mug-erkenning-geraardsbergen-verdwijnt-vanaf-1-januari-2027",
             "publishedDate": "24/11/2026 03:39",
-            "source": "denderjournaal.be, editiepajot.com, tvoost.be",
+            "source": "denderjournaal.be, editiepajot.com, nieuwsblad.be, tvoost.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Geraardsbergen betreurt verdwijnen gespecialiseerde spoedfunctie: \u201cInwoners mogen ...",
                     "source": "denderjournaal.be",
                     "link": "https://denderjournaal.be/geraardsbergen-betreurt-verdwijnen-gespecialiseerde-spoedfunctie-inwoners-mogen-rekenen-op-onze-vastberadenheid/",
                     "publishedDate": "24/11/2026 00:04"
+                },
+                {
+                    "title": "Stadsbestuur betreurt schrappen MUG-dienst in ziekenhuis: \u201cWij verwachten dat AZORG ...",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/stadsbestuur-betreurt-schrappen-mug-dienst-in-ziekenhuis-wij-verwachten-dat-azorg-zijn-verantwoordelijkheid-opneemt/164992750.html",
+                    "publishedDate": "23/11/2026 23:59"
                 },
                 {
                     "title": "Spoedafdeling van Azorg-ziekenhuis in Geraardsbergen sluit, wel nog 'Eerste Opvang ... - TV OOST",
@@ -1126,17 +1128,6 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Stadsbestuur betreurt schrappen MUG-dienst in ziekenhuis: \u201cWij verwachten dat AZORG ...",
-            "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/stadsbestuur-betreurt-schrappen-mug-dienst-in-ziekenhuis-wij-verwachten-dat-azorg-zijn-verantwoordelijkheid-opneemt/164992750.html",
-            "publishedDate": "23/11/2026 23:59",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
