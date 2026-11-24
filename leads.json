@@ -103,25 +103,37 @@
             "title": "Groningen: dood Henk (42) en Naomi (26) bij Zorg4Noord roept vragen - DVHN",
             "link": "https://www.dvhn.nl/regio/groningen/stad/smaragdstraat-groningen-doden-naomi/164809837.html",
             "publishedDate": "23/11/2026 23:00",
-            "source": "dvhn.nl, eenvandaag.avrotros.nl, jeugdzorgnederland.nl",
+            "source": "dvhn.nl, eenvandaag.avrotros.nl, oogtv.nl, rtvnoord.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 4,
+            "duplicate_count": 6,
             "extra_bronnen": [
+                {
+                    "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
+                    "source": "rtvnoord.nl",
+                    "link": "https://www.rtvnoord.nl/zorg/1454965/twee-doden-binnen-vijf-dagen-bij-zorginstelling-toch-geen-vervolgonderzoek",
+                    "publishedDate": "23/11/2026 16:29"
+                },
+                {
+                    "title": "Twee doden in 5 dagen, maar inspectie doet niks: zorginstellingen onderzoeken zichzelf na ...",
+                    "source": "eenvandaag.avrotros.nl",
+                    "link": "https://eenvandaag.avrotros.nl/artikelen/twee-doden-in-5-dagen-maar-inspectie-doet-niks-zorginstellingen-onderzoeken-zichzelf-na-sterfgevallen-165462",
+                    "publishedDate": "23/11/2026 16:20"
+                },
+                {
+                    "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
+                    "source": "oogtv.nl",
+                    "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
+                    "publishedDate": "23/11/2026 15:39"
+                },
                 {
                     "title": "Naomi (26) overleed compleet verwaarloosd in zorginstelling: 'Ze woog nog 38 kilo'",
                     "source": "eenvandaag.avrotros.nl",
                     "link": "https://eenvandaag.avrotros.nl/artikelen/naomi-26-overleed-compleet-verwaarloosd-in-zorginstelling-ze-woog-nog-38-kilo-165464",
                     "publishedDate": "23/11/2026 14:05"
-                },
-                {
-                    "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
-                    "publishedDate": "21/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Man die rechtbank bekladde met pedoteksten: 'Ik ben geen graffiti-artiest, maar zoek eerherstel'",
@@ -320,16 +332,28 @@
             "title": "Belgische ambulance mag voortaan doorrijden naar ziekenhuis in Nederland",
             "link": "https://www.bd.nl/breda/belgische-ambulances-mogen-voortaan-naar-nederlandse-ziekenhuizen-rijden-grenspatienten-sneller-geholpen~af78870d/",
             "publishedDate": "23/11/2026 21:12",
-            "source": "bd.nl, bndestem.nl",
+            "source": "ad.nl, bd.nl, bndestem.nl, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Belgische ambulance mag voortaan doorrijden naar ziekenhuis in Nederland - BN DeStem",
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/woensdrecht/belgische-ambulance-mag-voortaan-doorrijden-naar-ziekenhuis-in-nederland-oplossing-voor-de-hele-grensregio~af78870d/",
                     "publishedDate": "23/11/2026 20:59"
+                },
+                {
+                    "title": "Geen gedoe meer aan de grens, zoals Senn (14) overkwam: Belgische ambulances mogen ... - PZC",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
+                    "publishedDate": "23/11/2026 20:48"
+                },
+                {
+                    "title": "Belgische ambulances mogen voortaan direct doorrijden naar Nederlandse ziekenhuizen - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
+                    "publishedDate": "23/11/2026 20:27"
                 }
             ],
             "belangrijkheid": 0
@@ -368,17 +392,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Geen gedoe meer aan de grens, zoals Senn (14) overkwam: Belgische ambulances mogen ... - PZC",
-            "link": "https://www.pzc.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
-            "publishedDate": "23/11/2026 20:48",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Addy van den Krommenacker in ziekenhuis op Jamaica na pijnlijke niersteenaanval",
             "link": "https://www.rtl.nl/boulevard/video/video/c4741089-48d7-4a93-85df-92c6b7f4a051/addy-van-den-krommenacker-ziekenhuis-op",
             "publishedDate": "23/11/2026 20:34",
@@ -407,17 +420,6 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Belgische ambulances mogen voortaan direct doorrijden naar Nederlandse ziekenhuizen - AD",
-            "link": "https://www.ad.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
-            "publishedDate": "23/11/2026 20:27",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -649,11 +651,18 @@
             "title": "Jason Bhugwandass (1998-2026) wist als geen ander hoe eenzaam en schadelijk de ...",
             "link": "https://www.parool.nl/amsterdam/jason-bhugwandass-1998-2026-wist-als-geen-ander-hoe-eenzaam-en-schadelijk-de-gesloten-jeugdzorg-kan-zijn~b16f3f6f/",
             "publishedDate": "23/11/2026 18:30",
-            "source": "parool.nl",
+            "source": "jeugdzorgnederland.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
+                    "source": "jeugdzorgnederland.nl",
+                    "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
+                    "publishedDate": "21/11/2026 07:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -911,19 +920,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-            "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-            "publishedDate": "23/11/2026 17:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+                    "publishedDate": "23/11/2026 17:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -957,30 +962,6 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
-            "link": "https://www.rtvnoord.nl/zorg/1454965/twee-doden-binnen-vijf-dagen-bij-zorginstelling-toch-geen-vervolgonderzoek",
-            "publishedDate": "23/11/2026 16:29",
-            "source": "eenvandaag.avrotros.nl, oogtv.nl, rtvnoord.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Twee doden in 5 dagen, maar inspectie doet niks: zorginstellingen onderzoeken zichzelf na ...",
-                    "source": "eenvandaag.avrotros.nl",
-                    "link": "https://eenvandaag.avrotros.nl/artikelen/twee-doden-in-5-dagen-maar-inspectie-doet-niks-zorginstellingen-onderzoeken-zichzelf-na-sterfgevallen-165462",
-                    "publishedDate": "23/11/2026 16:20"
-                },
-                {
-                    "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
-                    "source": "oogtv.nl",
-                    "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
-                    "publishedDate": "23/11/2026 15:39"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1408,7 +1389,7 @@
                     "publishedDate": "23/11/2026 12:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Huisartsen zoeken een weg in het voorschrijven van obesitasmedicatie | medischcontact",
