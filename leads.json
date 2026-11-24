@@ -18,15 +18,32 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
-                    "title": "Beantwoording Kamervragen van het lid Maeijer (PVV) over de illegale online verkoop van afslankmiddelen",
+                    "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/ed015b67-7f07-4c8b-a6ad-6b2b09ae11ab",
-                    "publishedDate": "24/11/2026 11:52"
+                    "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
+                    "publishedDate": "23/11/2026 17:07"
+                },
+                {
+                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+                    "publishedDate": "23/11/2026 17:07"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beantwoording Kamervragen van het lid Maeijer (PVV) over de illegale online verkoop van afslankmiddelen",
+            "link": "https://open.overheid.nl/details/ed015b67-7f07-4c8b-a6ad-6b2b09ae11ab",
+            "publishedDate": "24/11/2026 11:52",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -66,12 +83,18 @@
             "source": "gezondheidsraad.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Beleidsreactie advies Gezondheidsraad hepatitis A-  vaccinatie voor mannen die seks hebben met mannen",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9dd6083b-edf3-448f-87aa-b08bc6849f78",
+                    "publishedDate": "24/11/2026 11:22"
+                },
+                {
+                    "title": "Hepatitis A-vaccinatie voor MSM",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/b838e30e-ec7c-4756-9e84-6bb43ec4d5c9",
                     "publishedDate": "24/11/2026 11:22"
                 },
                 {
@@ -81,17 +104,6 @@
                     "publishedDate": "24/11/2026 11:00"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Hepatitis A-vaccinatie voor MSM",
-            "link": "https://open.overheid.nl/details/b838e30e-ec7c-4756-9e84-6bb43ec4d5c9",
-            "publishedDate": "24/11/2026 11:22",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -171,11 +183,24 @@
             "title": "Gommers vertrekt als hoofd ic Erasmus MC: problemen rond veilige werkcultuur",
             "link": "https://www.telegraaf.nl/binnenland/gommers-vertrekt-als-hoofd-ic-erasmus-mc-problemen-rond-veilige-werkcultuur/164993279.html",
             "publishedDate": "24/11/2026 10:42",
-            "source": "telegraaf.nl",
+            "source": "bnr.nl, igj.nl, telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Gommers stapt op als IC-hoofd Erasmus MC na alarmerend inspectierapport - BNR",
+                    "source": "bnr.nl",
+                    "link": "https://www.bnr.nl/nieuws/ondernemen-werk/10616042/gommers-stapt-op-als-ic-hoofd-erasmus-mc-na-alarmerend-inspectierapport",
+                    "publishedDate": "23/11/2026 22:10"
+                },
+                {
+                    "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+                    "publishedDate": "23/11/2026 18:15"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -765,30 +790,11 @@
             "title": "Groningen: dood Henk (42) en Naomi (26) bij Zorg4Noord roept vragen - DVHN",
             "link": "https://www.dvhn.nl/regio/groningen/stad/smaragdstraat-groningen-doden-naomi/164809837.html",
             "publishedDate": "23/11/2026 23:00",
-            "source": "dvhn.nl, eenvandaag.avrotros.nl, oogtv.nl, rtvnoord.nl",
+            "source": "dvhn.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
-                    "source": "rtvnoord.nl",
-                    "link": "https://www.rtvnoord.nl/zorg/1454965/twee-doden-binnen-vijf-dagen-bij-zorginstelling-toch-geen-vervolgonderzoek",
-                    "publishedDate": "23/11/2026 16:29"
-                },
-                {
-                    "title": "Twee doden in 5 dagen, maar inspectie doet niks: zorginstellingen onderzoeken zichzelf na ...",
-                    "source": "eenvandaag.avrotros.nl",
-                    "link": "https://eenvandaag.avrotros.nl/artikelen/twee-doden-in-5-dagen-maar-inspectie-doet-niks-zorginstellingen-onderzoeken-zichzelf-na-sterfgevallen-165462",
-                    "publishedDate": "23/11/2026 16:20"
-                },
-                {
-                    "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
-                    "source": "oogtv.nl",
-                    "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
-                    "publishedDate": "23/11/2026 15:39"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -852,17 +858,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Gommers stapt op als IC-hoofd Erasmus MC na alarmerend inspectierapport - BNR",
-            "link": "https://www.bnr.nl/nieuws/ondernemen-werk/10616042/gommers-stapt-op-als-ic-hoofd-erasmus-mc-na-alarmerend-inspectierapport",
-            "publishedDate": "23/11/2026 22:10",
-            "source": "bnr.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "vvaa-vw-lijst-ziekenhuizen-2025.pdf",
@@ -1059,17 +1054,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-            "publishedDate": "23/11/2026 18:15",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Huisarts Hanneke Muis (61) na ziekte geweigerd: kort geding in Den Haag | Leidsch Dagblad",
             "link": "https://www.leidschdagblad.nl/regio/leiden/mijn-patienten-weten-nog-van-niets.-hanneke-mag-na-een-ernstige-ziekte-niet-terugkeren-als-huisarts-en-stapt-naar-de-rechter/164961778.html",
             "publishedDate": "23/11/2026 18:09",
@@ -1147,11 +1131,18 @@
             "title": "Dit zijn de beste zorgverzekeraars van 2027 - Overstappen.nl",
             "link": "https://www.overstappen.nl/nieuws/dit-zijn-de-beste-zorgverzekeraars-van-2027/",
             "publishedDate": "23/11/2026 17:41",
-            "source": "overstappen.nl",
+            "source": "overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-best-beoordeelde-zorgverzekeraars-van-2027-en-dit-doen-ze-anders",
+                    "publishedDate": "23/11/2026 15:06"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1261,24 +1252,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
-            "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
-            "publishedDate": "23/11/2026 17:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-                    "publishedDate": "23/11/2026 17:07"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Doortje van Unen lid Raad van Toezicht JMW - Jonet.nl",
             "link": "https://jonet.nl/doortje-van-unen-lid-raad-van-toezicht-jmw/",
             "publishedDate": "23/11/2026 16:55",
@@ -1310,6 +1283,30 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
+            "link": "https://www.rtvnoord.nl/zorg/1454965/twee-doden-binnen-vijf-dagen-bij-zorginstelling-toch-geen-vervolgonderzoek",
+            "publishedDate": "23/11/2026 16:29",
+            "source": "eenvandaag.avrotros.nl, oogtv.nl, rtvnoord.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Twee doden in 5 dagen, maar inspectie doet niks: zorginstellingen onderzoeken zichzelf na ...",
+                    "source": "eenvandaag.avrotros.nl",
+                    "link": "https://eenvandaag.avrotros.nl/artikelen/twee-doden-in-5-dagen-maar-inspectie-doet-niks-zorginstellingen-onderzoeken-zichzelf-na-sterfgevallen-165462",
+                    "publishedDate": "23/11/2026 16:20"
+                },
+                {
+                    "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
+                    "source": "oogtv.nl",
+                    "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
+                    "publishedDate": "23/11/2026 15:39"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Apotheker/Productspecialist LNA - Pharmaceutisch Weekblad",
@@ -1466,7 +1463,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Inge doet inwoners woonzorgcentrum schitteren in fototentoonstelling rond Kleine gelukjes",
@@ -1508,17 +1505,6 @@
             "source": "lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-best-beoordeelde-zorgverzekeraars-van-2027-en-dit-doen-ze-anders",
-            "publishedDate": "23/11/2026 15:06",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
