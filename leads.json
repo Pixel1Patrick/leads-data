@@ -397,7 +397,7 @@
                     "publishedDate": "24/11/2026 10:39"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Al 30 procent meer griepvaccins toegediend door Vlaamse apothekers - De Specialist",
@@ -500,7 +500,7 @@
                     "publishedDate": "24/11/2026 13:31"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Elise Draijer (Stimular): 'Voedselverspilling in de zorg: een derde van het restafval is swill'",
@@ -854,24 +854,11 @@
             "title": "Gommers stopt als hoofd ic in Erasmus MC na rapport Inspectie - WNL",
             "link": "https://wnl.tv/2026/11/24/gommers-stopt-als-hoofd-ic-in-erasmus-mc-na-rapport-inspectie",
             "publishedDate": "24/11/2026 14:31",
-            "source": "erasmusmagazine.nl, igj.nl, wnl.tv",
+            "source": "wnl.tv",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Inspectie grijpt in bij intensive care Erasmus MC, Gommers legt functie neer",
-                    "source": "erasmusmagazine.nl",
-                    "link": "https://www.erasmusmagazine.nl/2026/11/24/inspectie-grijpt-in-bij-intensive-care-erasmus-mc-gommers-legt-functie-neer/",
-                    "publishedDate": "24/11/2026 13:29"
-                },
-                {
-                    "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-                    "publishedDate": "23/11/2026 18:15"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1045,6 +1032,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Inspectie grijpt in bij intensive care Erasmus MC, Gommers legt functie neer",
+            "link": "https://www.erasmusmagazine.nl/2026/11/24/inspectie-grijpt-in-bij-intensive-care-erasmus-mc-gommers-legt-functie-neer/",
+            "publishedDate": "24/11/2026 13:29",
+            "source": "erasmusmagazine.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Veel vuurwerk gekocht afgelopen jaren? Grote kans dat politie dit jaar je auto controleert",
@@ -1843,6 +1841,17 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+            "publishedDate": "23/11/2026 18:15",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
