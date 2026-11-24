@@ -66,8 +66,15 @@
             "source": "sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
+                    "publishedDate": "24/11/2026 16:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -173,11 +180,30 @@
             "title": "Diederik Gommers per direct weg als ic-hoofd na vernietigend rapport over werkcultuur",
             "link": "https://nl24.nu/artikel/diederik-gommers-per-direct-weg-als-ic-hoofd-na-vernietigend-rapport-over-werkcultuur",
             "publishedDate": "24/11/2026 20:49",
-            "source": "nl24.nu",
+            "source": "ad.nl, gelderlander.nl, igj.nl, nl24.nu",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/binnenland/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
+                    "publishedDate": "24/11/2026 20:35"
+                },
+                {
+                    "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/binnenland/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
+                    "publishedDate": "24/11/2026 20:33"
+                },
+                {
+                    "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+                    "publishedDate": "23/11/2026 18:15"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -200,24 +226,6 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
-            "link": "https://www.ad.nl/binnenland/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
-            "publishedDate": "24/11/2026 20:35",
-            "source": "ad.nl, gelderlander.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
-                    "source": "gelderlander.nl",
-                    "link": "https://www.gelderlander.nl/binnenland/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
-                    "publishedDate": "24/11/2026 20:33"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -264,11 +272,18 @@
             "title": "Ggz-wachttijden Groningen en Lentis: cli\u00ebnten kampen met psychische crisis - Head Topics",
             "link": "https://nl.headtopics.com/news/ggz-wachttijden-groningen-en-lentis-clienten-kampen-met-90150813",
             "publishedDate": "24/11/2026 19:59",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, rtvnoord.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Groningers wachten maandenlang op ggz-behandeling: 'Voor hen staat het leven stil'",
+                    "source": "rtvnoord.nl",
+                    "link": "https://www.rtvnoord.nl/zorg/1454779/groningers-wachten-maandenlang-op-ggz-behandeling-voor-hen-staat-het-leven-stil",
+                    "publishedDate": "24/11/2026 19:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -396,17 +411,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Groningers wachten maandenlang op ggz-behandeling: 'Voor hen staat het leven stil'",
-            "link": "https://www.rtvnoord.nl/zorg/1454779/groningers-wachten-maandenlang-op-ggz-behandeling-voor-hen-staat-het-leven-stil",
-            "publishedDate": "24/11/2026 19:07",
-            "source": "rtvnoord.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Universiteit Leiden opent Kenniscentrum Gendergeweld - Centraal+",
             "link": "https://centraalplus.nl/2026/11/24/universiteit-leiden-opent-kenniscentrum-gendergeweld/",
             "publishedDate": "24/11/2026 19:01",
@@ -476,11 +480,18 @@
             "title": "Spoeddienst AZORG-ziekenhuis Geraardsbergen vanaf nieuwjaar omgevormd naar Eerste ...",
             "link": "https://www.tvoost.be/nieuws/spoeddienst-azorg-ziekenhuis-geraardsbergen-vanaf-nieuwjaar-omgevormd-naar-eerste-opvang-spoedgevallen-216100",
             "publishedDate": "24/11/2026 18:17",
-            "source": "tvoost.be",
+            "source": "nieuwsblad.be, tvoost.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "\u201cSluiting spoed is eigen keuze van AZORG maar is niet definitief\u201d | Nieuwsblad",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/sluiting-spoed-is-eigen-keuze-van-azorg-maar-is-niet-definitief/165050643.html",
+                    "publishedDate": "24/11/2026 18:09"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -512,17 +523,6 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "\u201cSluiting spoed is eigen keuze van AZORG maar is niet definitief\u201d | Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/sluiting-spoed-is-eigen-keuze-van-azorg-maar-is-niet-definitief/165050643.html",
-            "publishedDate": "24/11/2026 18:09",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -883,17 +883,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
-            "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
-            "publishedDate": "24/11/2026 16:41",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Amerikaanse SEH-verpleegkundigen veelvuldig slachtoffer van agressie | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/amerikaanse-seh-verpleegkundigen-veelvuldig-slachtoffer-van-agressie",
             "publishedDate": "24/11/2026 16:32",
@@ -941,11 +930,54 @@
             "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
             "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
             "publishedDate": "24/11/2026 16:14",
-            "source": "rtvfocuszwolle.nl",
+            "source": "cnv.nl, fnv.nl, nl.headtopics.com, nu91.nl, omroepbrabant.nl, rtvdrenthe.nl, rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 9,
+            "extra_bronnen": [
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
+                {
+                    "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
+                    "publishedDate": "24/11/2026 13:05"
+                },
+                {
+                    "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/amp/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
+                    "publishedDate": "24/11/2026 12:48"
+                },
+                {
+                    "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
+                    "publishedDate": "24/11/2026 12:48"
+                },
+                {
+                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+                    "publishedDate": "24/11/2026 11:08"
+                },
+                {
+                    "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
+                    "publishedDate": "24/11/2026 10:39"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -985,16 +1017,22 @@
             "title": "Veertig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
             "link": "https://www.limburger.nl/economie/veertig-banen-op-de-tocht-bij-maastrichtse-ggz-instellingen-serenity-en-olifant-in-totaal-zes-bvs-bankroet/165013034.html",
             "publishedDate": "24/11/2026 15:30",
-            "source": "limburger.nl",
+            "source": "limburger.nl, zuidlimburgvandaag.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Vijftig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
                     "source": "limburger.nl",
                     "link": "https://www.limburger.nl/economie/vijftig-banen-op-de-tocht-bij-maastrichtse-ggz-instellingen-serenity-en-olifant-in-totaal-zes-bvs-bankroet/165013034.html",
                     "publishedDate": "24/11/2026 13:10"
+                },
+                {
+                    "title": "Twee Maastrichtse ggz-aanbieders failliet verklaard, 50 mensen op straat",
+                    "source": "zuidlimburgvandaag.nl",
+                    "link": "https://www.zuidlimburgvandaag.nl/nieuws/twee-maastrichtse-ggz-aanbieders-failliet-verklaard-50-mensen-op-straat",
+                    "publishedDate": "24/11/2026 13:31"
                 }
             ],
             "belangrijkheid": 0
@@ -1233,8 +1271,15 @@
             "source": "tijd.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Sanofi legt 41 miljard dollar op tafel voor Amerikaans Insmed - De Tijd",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/ondernemen/farma-biotech/sanofi-legt-41-miljard-dollar-op-tafel-voor-amerikaans-insmed/10706705.html",
+                    "publishedDate": "24/11/2026 10:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1282,17 +1327,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Twaalf VVT-organisaties bundelen krachten rond AI | ICT&amp;health",
             "link": "https://www.icthealth.nl/nieuws/twaalf-vvt-organisaties-bundelen-krachten-rond-ai",
             "publishedDate": "24/11/2026 14:01",
@@ -1337,17 +1371,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-            "publishedDate": "24/11/2026 13:47",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Kosten dure jeugdzorg in twee jaar tijd meer dan verdubbeld - Centraal+",
             "link": "https://centraalplus.nl/2026/11/24/kosten-dure-jeugdzorg-in-twee-jaar-tijd-meer-dan-verdubbeld/",
             "publishedDate": "24/11/2026 13:45",
@@ -1368,17 +1391,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Twee Maastrichtse ggz-aanbieders failliet verklaard, 50 mensen op straat",
-            "link": "https://www.zuidlimburgvandaag.nl/nieuws/twee-maastrichtse-ggz-aanbieders-failliet-verklaard-50-mensen-op-straat",
-            "publishedDate": "24/11/2026 13:31",
-            "source": "zuidlimburgvandaag.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Veel vuurwerk gekocht afgelopen jaren? Grote kans dat politie dit jaar je auto controleert",
@@ -1408,35 +1420,6 @@
                 }
             ],
             "belangrijkheid": 0
-        },
-        {
-            "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
-            "publishedDate": "24/11/2026 13:05",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
-            "link": "https://www.rtvdrenthe.nl/amp/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
-            "publishedDate": "24/11/2026 12:48",
-            "source": "rtvdrenthe.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
-                    "publishedDate": "24/11/2026 12:48"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Langer thuis wonen vraagt om goede samenwerking | medischcontact",
@@ -1540,17 +1523,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-            "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-            "publishedDate": "24/11/2026 11:08",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Voor zij op een ggz-wachtlijst komen lopen pati\u00ebnten al vast - Zorgkrant",
             "link": "https://www.zorgkrant.nl/ggz/21707-voor-zij-op-een-ggz-wachtlijst-komen-lopen-patienten-met-psychische-problemen-al-vast",
             "publishedDate": "24/11/2026 11:04",
@@ -1606,17 +1578,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
-            "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
-            "publishedDate": "24/11/2026 10:39",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
             "publishedDate": "24/11/2026 10:38",
@@ -1656,17 +1617,6 @@
             "source": "sociaalweb.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Sanofi legt 41 miljard dollar op tafel voor Amerikaans Insmed - De Tijd",
-            "link": "https://www.tijd.be/ondernemen/farma-biotech/sanofi-legt-41-miljard-dollar-op-tafel-voor-amerikaans-insmed/10706705.html",
-            "publishedDate": "24/11/2026 10:03",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1859,17 +1809,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medicare: prijsverlagingen 13 medicijnen drukken uitgaven met 45% - IEX",
-            "link": "https://www.iex.nl/Nieuws/886236/Medicare-prijsverlagingen-13-medicijnen-drukken-uitgaven-met-45.aspx",
-            "publishedDate": "24/11/2026 00:14",
-            "source": "iex.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Thierry eet een stroopwafel en moet de hele nacht kotsen: 'Zat twaalf keer de dosis in die ik wilde'",
             "link": "https://www.bndestem.nl/binnenland/thierry-eet-een-stroopwafel-en-moet-de-hele-nacht-kotsen-zat-twaalf-keer-de-dosis-in-die-ik-wilde~a1b56684/",
             "publishedDate": "23/11/2026 23:02",
@@ -1888,17 +1827,6 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-            "publishedDate": "23/11/2026 18:15",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
