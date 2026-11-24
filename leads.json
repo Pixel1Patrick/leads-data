@@ -87,13 +87,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Beantwoording Kamervragen van het lid Maeijer (PVV) over de illegale online verkoop van afslankmiddelen",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/ed015b67-7f07-4c8b-a6ad-6b2b09ae11ab",
                     "publishedDate": "24/11/2026 11:52"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
+                    "publishedDate": "23/11/2026 17:07"
+                },
+                {
+                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+                    "publishedDate": "23/11/2026 17:07"
                 }
             ],
             "belangrijkheid": 0
@@ -235,11 +247,24 @@
             "title": "Gommers vertrekt als hoofd ic Erasmus MC: problemen rond veilige werkcultuur",
             "link": "https://www.telegraaf.nl/binnenland/gommers-vertrekt-als-hoofd-ic-erasmus-mc-problemen-rond-veilige-werkcultuur/164993279.html",
             "publishedDate": "24/11/2026 10:42",
-            "source": "telegraaf.nl",
+            "source": "bnr.nl, igj.nl, telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Gommers stapt op als IC-hoofd Erasmus MC na alarmerend inspectierapport - BNR",
+                    "source": "bnr.nl",
+                    "link": "https://www.bnr.nl/nieuws/ondernemen-werk/10616042/gommers-stapt-op-als-ic-hoofd-erasmus-mc-na-alarmerend-inspectierapport",
+                    "publishedDate": "23/11/2026 22:10"
+                },
+                {
+                    "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+                    "publishedDate": "23/11/2026 18:15"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -896,17 +921,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Gommers stapt op als IC-hoofd Erasmus MC na alarmerend inspectierapport - BNR",
-            "link": "https://www.bnr.nl/nieuws/ondernemen-werk/10616042/gommers-stapt-op-als-ic-hoofd-erasmus-mc-na-alarmerend-inspectierapport",
-            "publishedDate": "23/11/2026 22:10",
-            "source": "bnr.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "vvaa-vw-lijst-ziekenhuizen-2025.pdf",
             "link": "https://www.onvz.nl/globalassets/files/vvaa/2025/vvaa-vw-lijst-ziekenhuizen-2025.pdf",
             "publishedDate": "23/11/2026 22:02",
@@ -1101,17 +1115,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-            "publishedDate": "23/11/2026 18:15",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Huisarts Hanneke Muis (61) na ziekte geweigerd: kort geding in Den Haag | Leidsch Dagblad",
             "link": "https://www.leidschdagblad.nl/regio/leiden/mijn-patienten-weten-nog-van-niets.-hanneke-mag-na-een-ernstige-ziekte-niet-terugkeren-als-huisarts-en-stapt-naar-de-rechter/164961778.html",
             "publishedDate": "23/11/2026 18:09",
@@ -1300,24 +1303,6 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
-            "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
-            "publishedDate": "23/11/2026 17:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-                    "publishedDate": "23/11/2026 17:07"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
