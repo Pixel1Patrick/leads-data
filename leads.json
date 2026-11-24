@@ -84,13 +84,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief Jeugd",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/f77cab23-89f6-4b58-ac9a-8543a5d32728",
                     "publishedDate": "24/11/2026 17:04"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
+                    "publishedDate": "24/11/2026 16:41"
+                },
+                {
+                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
+                    "publishedDate": "24/11/2026 16:41"
                 }
             ],
             "belangrijkheid": 0
@@ -162,24 +174,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-            "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
-            "publishedDate": "24/11/2026 16:41",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
-                    "publishedDate": "24/11/2026 16:41"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
             "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
             "publishedDate": "24/11/2026 16:41",
@@ -227,72 +221,11 @@
             "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
             "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
             "publishedDate": "24/11/2026 16:14",
-            "source": "cnv.nl, dvhn.nl, fbz.nl, fnv.nl, hartvannederland.nl, nl.headtopics.com, nu91.nl, omroepbrabant.nl, rd.nl, rtvdrenthe.nl, rtvfocuszwolle.nl",
+            "source": "rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 12,
-            "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
-                    "publishedDate": "24/11/2026 13:05"
-                },
-                {
-                    "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
-                    "publishedDate": "24/11/2026 12:48"
-                },
-                {
-                    "title": "Bonden zinnen op 'grootste actiedag ooit' in ggz voor betere cao - DVHN",
-                    "source": "dvhn.nl",
-                    "link": "https://www.dvhn.nl/binnenland/bonden-zinnen-op-grootste-actiedag-ooit-in-ggz-voor-betere-cao/165013802.html",
-                    "publishedDate": "24/11/2026 11:28"
-                },
-                {
-                    "title": "Bonden zinnen op 'grootste actiedag ooit' in ggz voor betere cao - Reformatorisch Dagblad",
-                    "source": "rd.nl",
-                    "link": "https://www.rd.nl/artikel/bonden-zinnen-op-grootste-actiedag-ooit-in-ggz-voor-betere-cao",
-                    "publishedDate": "24/11/2026 11:05"
-                },
-                {
-                    "title": "Grote staking ggz-medewerkers op 10 december: 'Duidelijk signaal' | Hart van Nederland",
-                    "source": "hartvannederland.nl",
-                    "link": "https://www.hartvannederland.nl/politiek/demonstratie/artikelen/grote-staking-ggz-medewerkers-op-10-december-duidelijk-signaal",
-                    "publishedDate": "24/11/2026 11:28"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
-                },
-                {
-                    "title": "Op 10 december komen ggz-werknemers landelijk in actie voor een betere cao - FBZ",
-                    "source": "fbz.nl",
-                    "link": "https://www.fbz.nl/nieuws/2026/op-10-december-komen-ggz-werknemers-landelijk-in-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:05"
-                },
-                {
-                    "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
-                    "publishedDate": "24/11/2026 10:39"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -357,7 +290,7 @@
                     "publishedDate": "24/11/2026 13:31"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Elise Draijer (Stimular): 'Voedselverspilling in de zorg: een derde van het restafval is swill'",
@@ -719,6 +652,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Passende chronische zorg dankzij onderzoek naar digitale triage - Isala",
             "link": "https://www.isala.nl/nieuws/passende-chronische-zorg-dankzij-onderzoek-naar-digitale-triage/",
             "publishedDate": "24/11/2026 13:59",
@@ -739,6 +683,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+            "publishedDate": "24/11/2026 13:47",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Kosten dure jeugdzorg in twee jaar tijd meer dan verdubbeld - Centraal+",
@@ -863,6 +818,28 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
+            "publishedDate": "24/11/2026 13:05",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
+            "link": "https://www.rtvdrenthe.nl/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
+            "publishedDate": "24/11/2026 12:48",
+            "source": "rtvdrenthe.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Omrijden bijna verleden tijd: Belgische ambulances ook hier naar ziekenhuis - in Brabant",
@@ -1097,6 +1074,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Bonden zinnen op 'grootste actiedag ooit' in ggz voor betere cao - DVHN",
+            "link": "https://www.dvhn.nl/binnenland/bonden-zinnen-op-grootste-actiedag-ooit-in-ggz-voor-betere-cao/165013802.html",
+            "publishedDate": "24/11/2026 11:28",
+            "source": "dvhn.nl, hartvannederland.nl, rd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Bonden zinnen op 'grootste actiedag ooit' in ggz voor betere cao - Reformatorisch Dagblad",
+                    "source": "rd.nl",
+                    "link": "https://www.rd.nl/artikel/bonden-zinnen-op-grootste-actiedag-ooit-in-ggz-voor-betere-cao",
+                    "publishedDate": "24/11/2026 11:05"
+                },
+                {
+                    "title": "Grote staking ggz-medewerkers op 10 december: 'Duidelijk signaal' | Hart van Nederland",
+                    "source": "hartvannederland.nl",
+                    "link": "https://www.hartvannederland.nl/politiek/demonstratie/artikelen/grote-staking-ggz-medewerkers-op-10-december-duidelijk-signaal",
+                    "publishedDate": "24/11/2026 11:28"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Rob Jetten sluit ochtend in Den Bosch af met Bossche bollen en worstenbroodjes",
             "link": "https://www.bd.nl/den-bosch/rob-jetten-sluit-ochtend-in-den-bosch-af-met-bossche-bollen-en-worstenbroodjes-mijn-dag-kan-niet-meer-stuk~aaf9c51d/",
             "publishedDate": "24/11/2026 11:21",
@@ -1150,6 +1151,28 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+            "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+            "publishedDate": "24/11/2026 11:08",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Op 10 december komen ggz-werknemers landelijk in actie voor een betere cao - FBZ",
+            "link": "https://www.fbz.nl/nieuws/2026/op-10-december-komen-ggz-werknemers-landelijk-in-actie-voor-een-betere-cao/",
+            "publishedDate": "24/11/2026 11:05",
+            "source": "fbz.nl",
+            "category": "Vakbonden",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Voor zij op een ggz-wachtlijst komen lopen pati\u00ebnten al vast - Zorgkrant",
@@ -1223,6 +1246,17 @@
             "publishedDate": "24/11/2026 10:40",
             "source": "gelderlander.nl",
             "category": "Regionale Media",
+            "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
+            "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
+            "publishedDate": "24/11/2026 10:39",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
