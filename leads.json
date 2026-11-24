@@ -288,25 +288,12 @@
             "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035901/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven",
             "publishedDate": "24/11/2026 12:26",
-            "source": "ad.nl, omroepbrabant.nl",
+            "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/eindhoven/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden~a32dfd168/",
-                    "publishedDate": "24/11/2026 11:45"
-                },
-                {
-                    "title": "Steekpartij bij GGzE in Eindhoven: slachtoffer gewond, verdachte met veel moeite aangehouden",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/eindhoven/steekpartij-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden~a32dfd168/?slug_rd=1",
-                    "publishedDate": "24/11/2026 10:46"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Politieke zorgen over beroepsgeheim binnen Zoetermeerse jeugdzorg | Zoetermeer - Drimble",
@@ -391,6 +378,24 @@
                 }
             ],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden - AD",
+            "link": "https://www.ad.nl/eindhoven/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden~a32dfd168/",
+            "publishedDate": "24/11/2026 11:45",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Steekpartij bij GGzE in Eindhoven: slachtoffer gewond, verdachte met veel moeite aangehouden",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/eindhoven/steekpartij-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden~a32dfd168/?slug_rd=1",
+                    "publishedDate": "24/11/2026 10:46"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "\u201cBij mij is 1 plus 1 altijd groter dan 3\u201d | Voka",
@@ -939,22 +944,16 @@
             "title": "De spoedfunctie met MUG-erkenning in Geraardsbergen verdwijnt vanaf 1 januari 2027",
             "link": "https://www.editiepajot.com/artikels/geraardsbergen/de-spoedfunctie-met-mug-erkenning-geraardsbergen-verdwijnt-vanaf-1-januari-2027",
             "publishedDate": "24/11/2026 03:39",
-            "source": "denderjournaal.be, editiepajot.com, nieuwsblad.be, tvoost.be",
+            "source": "denderjournaal.be, editiepajot.com, tvoost.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Geraardsbergen betreurt verdwijnen gespecialiseerde spoedfunctie: \u201cInwoners mogen ...",
                     "source": "denderjournaal.be",
                     "link": "https://denderjournaal.be/geraardsbergen-betreurt-verdwijnen-gespecialiseerde-spoedfunctie-inwoners-mogen-rekenen-op-onze-vastberadenheid/",
                     "publishedDate": "24/11/2026 00:04"
-                },
-                {
-                    "title": "Stadsbestuur betreurt schrappen MUG-dienst in ziekenhuis: \u201cWij verwachten dat AZORG ...",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/stadsbestuur-betreurt-schrappen-mug-dienst-in-ziekenhuis-wij-verwachten-dat-azorg-zijn-verantwoordelijkheid-opneemt/164992750.html",
-                    "publishedDate": "23/11/2026 23:59"
                 },
                 {
                     "title": "Spoedafdeling van Azorg-ziekenhuis in Geraardsbergen sluit, wel nog 'Eerste Opvang ... - TV OOST",
@@ -1127,6 +1126,17 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Stadsbestuur betreurt schrappen MUG-dienst in ziekenhuis: \u201cWij verwachten dat AZORG ...",
+            "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/stadsbestuur-betreurt-schrappen-mug-dienst-in-ziekenhuis-wij-verwachten-dat-azorg-zijn-verantwoordelijkheid-opneemt/164992750.html",
+            "publishedDate": "23/11/2026 23:59",
+            "source": "nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
