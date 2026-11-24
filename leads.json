@@ -66,12 +66,18 @@
             "source": "gezondheidsraad.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Beleidsreactie advies Gezondheidsraad hepatitis A-  vaccinatie voor mannen die seks hebben met mannen",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9dd6083b-edf3-448f-87aa-b08bc6849f78",
+                    "publishedDate": "24/11/2026 11:22"
+                },
+                {
+                    "title": "Hepatitis A-vaccinatie voor MSM",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/b838e30e-ec7c-4756-9e84-6bb43ec4d5c9",
                     "publishedDate": "24/11/2026 11:22"
                 },
                 {
@@ -81,17 +87,6 @@
                     "publishedDate": "24/11/2026 11:00"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Hepatitis A-vaccinatie voor MSM",
-            "link": "https://open.overheid.nl/details/b838e30e-ec7c-4756-9e84-6bb43ec4d5c9",
-            "publishedDate": "24/11/2026 11:22",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -171,11 +166,24 @@
             "title": "Gommers vertrekt als hoofd ic Erasmus MC: problemen rond veilige werkcultuur",
             "link": "https://www.telegraaf.nl/binnenland/gommers-vertrekt-als-hoofd-ic-erasmus-mc-problemen-rond-veilige-werkcultuur/164993279.html",
             "publishedDate": "24/11/2026 10:42",
-            "source": "telegraaf.nl",
+            "source": "bnr.nl, igj.nl, telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Gommers stapt op als IC-hoofd Erasmus MC na alarmerend inspectierapport - BNR",
+                    "source": "bnr.nl",
+                    "link": "https://www.bnr.nl/nieuws/ondernemen-werk/10616042/gommers-stapt-op-als-ic-hoofd-erasmus-mc-na-alarmerend-inspectierapport",
+                    "publishedDate": "23/11/2026 22:10"
+                },
+                {
+                    "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+                    "publishedDate": "23/11/2026 18:15"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -765,30 +773,11 @@
             "title": "Groningen: dood Henk (42) en Naomi (26) bij Zorg4Noord roept vragen - DVHN",
             "link": "https://www.dvhn.nl/regio/groningen/stad/smaragdstraat-groningen-doden-naomi/164809837.html",
             "publishedDate": "23/11/2026 23:00",
-            "source": "dvhn.nl, eenvandaag.avrotros.nl, oogtv.nl, rtvnoord.nl",
+            "source": "dvhn.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
-                    "source": "rtvnoord.nl",
-                    "link": "https://www.rtvnoord.nl/zorg/1454965/twee-doden-binnen-vijf-dagen-bij-zorginstelling-toch-geen-vervolgonderzoek",
-                    "publishedDate": "23/11/2026 16:29"
-                },
-                {
-                    "title": "Twee doden in 5 dagen, maar inspectie doet niks: zorginstellingen onderzoeken zichzelf na ...",
-                    "source": "eenvandaag.avrotros.nl",
-                    "link": "https://eenvandaag.avrotros.nl/artikelen/twee-doden-in-5-dagen-maar-inspectie-doet-niks-zorginstellingen-onderzoeken-zichzelf-na-sterfgevallen-165462",
-                    "publishedDate": "23/11/2026 16:20"
-                },
-                {
-                    "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
-                    "source": "oogtv.nl",
-                    "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
-                    "publishedDate": "23/11/2026 15:39"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -852,17 +841,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Gommers stapt op als IC-hoofd Erasmus MC na alarmerend inspectierapport - BNR",
-            "link": "https://www.bnr.nl/nieuws/ondernemen-werk/10616042/gommers-stapt-op-als-ic-hoofd-erasmus-mc-na-alarmerend-inspectierapport",
-            "publishedDate": "23/11/2026 22:10",
-            "source": "bnr.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "vvaa-vw-lijst-ziekenhuizen-2025.pdf",
@@ -1054,17 +1032,6 @@
             "source": "nl.investing.com",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-            "publishedDate": "23/11/2026 18:15",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1309,6 +1276,30 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Twee doden binnen vijf dagen bij zorginstelling, toch geen vervolgonderzoek - RTV Noord",
+            "link": "https://www.rtvnoord.nl/zorg/1454965/twee-doden-binnen-vijf-dagen-bij-zorginstelling-toch-geen-vervolgonderzoek",
+            "publishedDate": "23/11/2026 16:29",
+            "source": "eenvandaag.avrotros.nl, oogtv.nl, rtvnoord.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Twee doden in 5 dagen, maar inspectie doet niks: zorginstellingen onderzoeken zichzelf na ...",
+                    "source": "eenvandaag.avrotros.nl",
+                    "link": "https://eenvandaag.avrotros.nl/artikelen/twee-doden-in-5-dagen-maar-inspectie-doet-niks-zorginstellingen-onderzoeken-zichzelf-na-sterfgevallen-165462",
+                    "publishedDate": "23/11/2026 16:20"
+                },
+                {
+                    "title": "'Inspectie deed geen eigen onderzoek na sterfgevallen in zorgpand Vinkhuizen' | OOG Groningen",
+                    "source": "oogtv.nl",
+                    "link": "https://www.oogtv.nl/2026/11/inspectie-deed-geen-eigen-onderzoek-na-twee-sterfgevallen-in-zorgpand-vinkhuizen/",
+                    "publishedDate": "23/11/2026 15:39"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
