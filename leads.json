@@ -154,16 +154,22 @@
             "title": "Gommers vertrekt als hoofd ic Erasmus MC: problemen rond veilige werkcultuur",
             "link": "https://www.telegraaf.nl/binnenland/gommers-vertrekt-als-hoofd-ic-erasmus-mc-problemen-rond-veilige-werkcultuur/164993279.html",
             "publishedDate": "24/11/2026 10:42",
-            "source": "bnr.nl, telegraaf.nl",
+            "source": "bnr.nl, igj.nl, telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Gommers stapt op als IC-hoofd Erasmus MC na alarmerend inspectierapport - BNR",
                     "source": "bnr.nl",
                     "link": "https://www.bnr.nl/nieuws/ondernemen-werk/10616042/gommers-stapt-op-als-ic-hoofd-erasmus-mc-na-alarmerend-inspectierapport",
                     "publishedDate": "23/11/2026 22:10"
+                },
+                {
+                    "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+                    "publishedDate": "23/11/2026 18:15"
                 }
             ],
             "belangrijkheid": 1
@@ -1043,17 +1049,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-            "publishedDate": "23/11/2026 18:15",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Huisarts Hanneke Muis (61) na ziekte geweigerd: kort geding in Den Haag | Leidsch Dagblad",
             "link": "https://www.leidschdagblad.nl/regio/leiden/mijn-patienten-weten-nog-van-niets.-hanneke-mag-na-een-ernstige-ziekte-niet-terugkeren-als-huisarts-en-stapt-naar-de-rechter/164961778.html",
             "publishedDate": "23/11/2026 18:09",
@@ -1131,18 +1126,11 @@
             "title": "Dit zijn de beste zorgverzekeraars van 2027 - Overstappen.nl",
             "link": "https://www.overstappen.nl/nieuws/dit-zijn-de-beste-zorgverzekeraars-van-2027/",
             "publishedDate": "23/11/2026 17:41",
-            "source": "overstappen.nl, zorgwijzer.nl",
+            "source": "overstappen.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-best-beoordeelde-zorgverzekeraars-van-2027-en-dit-doen-ze-anders",
-                    "publishedDate": "23/11/2026 15:06"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1517,6 +1505,17 @@
             "source": "lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-best-beoordeelde-zorgverzekeraars-van-2027-en-dit-doen-ze-anders",
+            "publishedDate": "23/11/2026 15:06",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
