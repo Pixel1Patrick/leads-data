@@ -1,6 +1,35 @@
 {
     "artikelen": [
         {
+            "title": "Petra had een relatie met een cli\u00ebnt van de zorginstelling | Nieuws | BD.nl",
+            "link": "https://www.bd.nl/binnenland/petra-had-een-relatie-met-een-client-van-de-zorginstelling~ac6a9098/",
+            "publishedDate": "24/11/2026 07:42",
+            "source": "ad.nl, bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Petra had een relatie met een cli\u00ebnt van de zorginstelling | Nieuws | AD.nl",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/binnenland/petra-had-een-relatie-met-een-client-van-de-zorginstelling~ac6a9098/",
+                    "publishedDate": "23/11/2026 15:31"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gemelde YouTube-schikking: $3 miljard voor scholen | NeoTeo",
+            "link": "https://www.neoteo.com/nl/youtube-zou-schikking-van-3-miljard-met-schoolbesturen-treffen",
+            "publishedDate": "24/11/2026 07:21",
+            "source": "neoteo.com",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Amsterdam UMC wil longkanker met AI in \u00e9\u00e9n ingreep vaststellen en behandelen",
             "link": "https://aiwereld.nl/nieuws/amsterdam-medtech-ai-longkanker-diagnose-behandeling-een-dag",
             "publishedDate": "24/11/2026 07:02",
@@ -48,11 +77,30 @@
             "title": "De spoedfunctie met MUG-erkenning in Geraardsbergen verdwijnt vanaf 1 januari 2027",
             "link": "https://www.editiepajot.com/artikels/geraardsbergen/de-spoedfunctie-met-mug-erkenning-geraardsbergen-verdwijnt-vanaf-1-januari-2027",
             "publishedDate": "24/11/2026 03:39",
-            "source": "editiepajot.com",
+            "source": "denderjournaal.be, editiepajot.com, nieuwsblad.be, tvoost.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Geraardsbergen betreurt verdwijnen gespecialiseerde spoedfunctie: \u201cInwoners mogen ...",
+                    "source": "denderjournaal.be",
+                    "link": "https://denderjournaal.be/geraardsbergen-betreurt-verdwijnen-gespecialiseerde-spoedfunctie-inwoners-mogen-rekenen-op-onze-vastberadenheid/",
+                    "publishedDate": "24/11/2026 00:04"
+                },
+                {
+                    "title": "Stadsbestuur betreurt schrappen MUG-dienst in ziekenhuis: \u201cWij verwachten dat AZORG ...",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/stadsbestuur-betreurt-schrappen-mug-dienst-in-ziekenhuis-wij-verwachten-dat-azorg-zijn-verantwoordelijkheid-opneemt/164992750.html",
+                    "publishedDate": "23/11/2026 23:59"
+                },
+                {
+                    "title": "Spoedafdeling van Azorg-ziekenhuis in Geraardsbergen sluit, wel nog 'Eerste Opvang ... - TV OOST",
+                    "source": "tvoost.be",
+                    "link": "https://www.tvoost.be/nieuws/spoedafdeling-van-azorg-ziekenhuis-in-geraardsbergen-sluit-wel-nog-eerste-opvang-spoedgevallen-216066",
+                    "publishedDate": "23/11/2026 23:16"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -199,17 +247,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Geraardsbergen betreurt verdwijnen gespecialiseerde spoedfunctie: \u201cInwoners mogen ...",
-            "link": "https://denderjournaal.be/geraardsbergen-betreurt-verdwijnen-gespecialiseerde-spoedfunctie-inwoners-mogen-rekenen-op-onze-vastberadenheid/",
-            "publishedDate": "24/11/2026 00:04",
-            "source": "denderjournaal.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "In deze oude brouwerij in Hulst kun je straks karaoke zingen \u00e9n een foto van je ex kapotslaan - PZC",
             "link": "https://www.pzc.nl/hulst/in-deze-oude-brouwerij-in-hulst-kun-je-straks-karaoke-zingen-en-een-foto-van-je-ex-kapotslaan~a7914e00/",
             "publishedDate": "24/11/2026 00:03",
@@ -227,17 +264,6 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Stadsbestuur betreurt schrappen MUG-dienst in ziekenhuis: \u201cWij verwachten dat AZORG ...",
-            "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/stadsbestuur-betreurt-schrappen-mug-dienst-in-ziekenhuis-wij-verwachten-dat-azorg-zijn-verantwoordelijkheid-opneemt/164992750.html",
-            "publishedDate": "23/11/2026 23:59",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -311,17 +337,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Spoedafdeling van Azorg-ziekenhuis in Geraardsbergen sluit, wel nog 'Eerste Opvang ... - TV OOST",
-            "link": "https://www.tvoost.be/nieuws/spoedafdeling-van-azorg-ziekenhuis-in-geraardsbergen-sluit-wel-nog-eerste-opvang-spoedgevallen-216066",
-            "publishedDate": "23/11/2026 23:16",
-            "source": "tvoost.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1323,24 +1338,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Petra had een relatie met een cli\u00ebnt van de zorginstelling | Nieuws | AD.nl",
-            "link": "https://www.ad.nl/binnenland/petra-had-een-relatie-met-een-client-van-de-zorginstelling~ac6a9098/",
-            "publishedDate": "23/11/2026 15:31",
-            "source": "ad.nl, bndestem.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Petra had een relatie met een cli\u00ebnt van de zorginstelling | Regio | BN DeStem.nl",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/dordrecht/petra-had-een-relatie-met-een-client-van-de-zorginstelling~ac6a9098/",
-                    "publishedDate": "23/11/2026 15:31"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Inge doet inwoners woonzorgcentrum schitteren in fototentoonstelling rond Kleine gelukjes",
             "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/aalter/inge-doet-inwoners-woonzorgcentrum-schitteren-in-fototentoonstelling-rond-kleine-gelukjes-we-willen-ouderenzorg-positief-in-beeld-brengen/164774451.html",
             "publishedDate": "23/11/2026 15:27",
@@ -1457,17 +1454,6 @@
             "source": "tvvtotaal.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Inwonersadviesraad Zwijndrecht benoemt nieuwe voorzitter en twee leden - ATOS RTV",
-            "link": "https://www.atosrtv.nl/nieuws/zwijndrecht/inwonersadviesraad-zwijndrecht-benoemt-nieuwe-voorzitter-en-twee-leden/",
-            "publishedDate": "23/11/2026 14:20",
-            "source": "atosrtv.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
