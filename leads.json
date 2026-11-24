@@ -373,7 +373,7 @@
                     "publishedDate": "23/11/2026 15:39"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "'Het verkennend gesprek geeft pati\u00ebnten met mentale klachten de tijd en aandacht die ze ...",
@@ -582,16 +582,22 @@
             "title": "Belgische ambulance mag voortaan doorrijden naar ziekenhuis in Nederland",
             "link": "https://www.bd.nl/breda/belgische-ambulances-mogen-voortaan-naar-nederlandse-ziekenhuizen-rijden-grenspatienten-sneller-geholpen~af78870d/",
             "publishedDate": "23/11/2026 21:12",
-            "source": "bd.nl, bndestem.nl",
+            "source": "bd.nl, bndestem.nl, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Belgische ambulance mag voortaan doorrijden naar ziekenhuis in Nederland - BN DeStem",
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/woensdrecht/belgische-ambulance-mag-voortaan-doorrijden-naar-ziekenhuis-in-nederland-oplossing-voor-de-hele-grensregio~af78870d/",
                     "publishedDate": "23/11/2026 20:59"
+                },
+                {
+                    "title": "Geen gedoe meer aan de grens, zoals Senn (14) overkwam: Belgische ambulances mogen ... - PZC",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
+                    "publishedDate": "23/11/2026 20:48"
                 }
             ],
             "belangrijkheid": 0
@@ -625,17 +631,6 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Geen gedoe meer aan de grens, zoals Senn (14) overkwam: Belgische ambulances mogen ... - PZC",
-            "link": "https://www.pzc.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
-            "publishedDate": "23/11/2026 20:48",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -930,11 +925,18 @@
             "title": "Dit zijn de beste zorgverzekeraars van 2027 - Overstappen.nl",
             "link": "https://www.overstappen.nl/nieuws/dit-zijn-de-beste-zorgverzekeraars-van-2027/",
             "publishedDate": "23/11/2026 17:41",
-            "source": "overstappen.nl",
+            "source": "overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
+                    "source": "zorgwijzer.nl",
+                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-best-beoordeelde-zorgverzekeraars-van-2027-en-dit-doen-ze-anders",
+                    "publishedDate": "23/11/2026 15:06"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1059,7 +1061,7 @@
                     "publishedDate": "23/11/2026 17:07"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Doortje van Unen lid Raad van Toezicht JMW - Jonet.nl",
@@ -1245,7 +1247,7 @@
                     "publishedDate": "23/11/2026 15:40"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Deze dierenarts rekent helft van de prijs voor dieren van minima: 'Ze komen vaak te laat ...",
@@ -1358,18 +1360,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-best-beoordeelde-zorgverzekeraars-van-2027-en-dit-doen-ze-anders",
-            "publishedDate": "23/11/2026 15:06",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Utrechtse artsen vragen aandacht voor levensgevaarlijke allergische reacties - DUIC",
