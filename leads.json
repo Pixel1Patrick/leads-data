@@ -182,15 +182,8 @@
             "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Ambulances Belgi\u00eb binnenkort ook met pati\u00ebnten naar Brabantse ziekenhuizen - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035893/ambulances-belgie-binnenkort-ook-met-patienten-naar-brabantse-ziekenhuizen",
-                    "publishedDate": "24/11/2026 10:55"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -302,7 +295,7 @@
                     "publishedDate": "24/11/2026 10:46"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Politieke zorgen over beroepsgeheim binnen Zoetermeerse jeugdzorg | Zoetermeer - Drimble",
@@ -499,6 +492,17 @@
             "source": "ed.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ambulances Belgi\u00eb binnenkort ook met pati\u00ebnten naar Brabantse ziekenhuizen - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035893/ambulances-belgie-binnenkort-ook-met-patienten-naar-brabantse-ziekenhuizen",
+            "publishedDate": "24/11/2026 10:55",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
