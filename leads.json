@@ -95,22 +95,16 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief Jeugd",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/f77cab23-89f6-4b58-ac9a-8543a5d32728",
                     "publishedDate": "24/11/2026 16:27"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Inbreng VSO commissie VWS werkprogramma 2027 van de Gezondheidsraad",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/fc6c0e5d-e5b5-48e5-87c2-3b23ff218f49",
-                    "publishedDate": "24/11/2026 13:08"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "NJR Geen excuses zonder daden",
@@ -171,10 +165,10 @@
             "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
             "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
             "publishedDate": "24/11/2026 16:14",
-            "source": "cnv.nl, dvhn.nl, fbz.nl, fnv.nl, hartvannederland.nl, nl.headtopics.com, nu91.nl, rd.nl, rtvdrenthe.nl, rtvfocuszwolle.nl",
+            "source": "cnv.nl, dvhn.nl, fbz.nl, fnv.nl, hartvannederland.nl, nl.headtopics.com, nu91.nl, omroepbrabant.nl, rd.nl, rtvdrenthe.nl, rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 11,
+            "duplicate_count": 12,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
@@ -187,6 +181,12 @@
                     "source": "fnv.nl",
                     "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
                     "publishedDate": "24/11/2026 13:47"
+                },
+                {
+                    "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
+                    "publishedDate": "24/11/2026 13:05"
                 },
                 {
                     "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
@@ -354,28 +354,16 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Commentaar NVZ en meerdere organisaties t.b.v. debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet in verband met digitale identificatie en authenticatie in de zorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/46c280bd-bf80-4e49-a360-bcb7200c6dfe",
                     "publishedDate": "24/11/2026 15:15"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Kabinetsreactie op initiatiefnota van het lid Stoffer (SGP) over het versterken van gezinnen en gemeenschappen",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/4a8151cc-3c1b-4532-9f70-578950018284",
-                    "publishedDate": "24/11/2026 14:09"
-                },
-                {
-                    "title": "Kamerbrief inzake Kabinetsreactie op initiatiefnota van het lid Stoffer (SGP) over het versterken van gezinnen en gemeenschappen",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/dccbe065-1e09-41a3-a50c-7552d0beefb4",
-                    "publishedDate": "24/11/2026 14:09"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Eerstelijnszorg] Samenwerking voor voldoende capaciteit medische kindzorg",
@@ -569,7 +557,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Wat is het gemiddelde salaris van een huisarts anno 2026?",
@@ -580,6 +568,24 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Kabinetsreactie op initiatiefnota van het lid Stoffer (SGP) over het versterken van gezinnen en gemeenschappen",
+            "link": "https://open.overheid.nl/details/4a8151cc-3c1b-4532-9f70-578950018284",
+            "publishedDate": "24/11/2026 14:09",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Kabinetsreactie op initiatiefnota van het lid Stoffer (SGP) over het versterken van gezinnen en gemeenschappen",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/dccbe065-1e09-41a3-a50c-7552d0beefb4",
+                    "publishedDate": "24/11/2026 14:09"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -696,6 +702,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Inbreng VSO commissie VWS werkprogramma 2027 van de Gezondheidsraad",
+            "link": "https://open.overheid.nl/details/fc6c0e5d-e5b5-48e5-87c2-3b23ff218f49",
+            "publishedDate": "24/11/2026 13:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Schriftelijke vragen : Pati\u00ebntenstops bij ziekenhuizen door omzetplafonds - Tweede Kamer",
             "link": "https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z26042&did=2026D60406",
             "publishedDate": "24/11/2026 13:07",
@@ -718,36 +735,19 @@
             "belangrijkheid": 0
         },
         {
-            "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
-            "publishedDate": "24/11/2026 13:05",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Omrijden bijna verleden tijd: Belgische ambulances ook hier naar ziekenhuis - in Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035893/omrijden-bijna-verleden-tijd-belgische-ambulances-ook-hier-naar-ziekenhuis",
             "publishedDate": "24/11/2026 12:48",
             "source": "nl.headtopics.com, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Omrijden bijna verleden tijd: Belgische ambulances ook hier naar ziekenhuis - Head Topics",
                     "source": "nl.headtopics.com",
                     "link": "https://nl.headtopics.com/news/omrijden-bijna-verleden-tijd-belgische-ambulances-ook-hier-90135314",
                     "publishedDate": "24/11/2026 11:37"
-                },
-                {
-                    "title": "Ambulances Belgi\u00eb binnenkort ook met pati\u00ebnten naar Brabantse ziekenhuizen - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035893/ambulances-belgie-binnenkort-ook-met-patienten-naar-brabantse-ziekenhuizen",
-                    "publishedDate": "24/11/2026 10:55"
                 }
             ],
             "belangrijkheid": 0
@@ -898,7 +898,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Voor Oekra\u00efners in Nederland is huisartsenzorg een ware loterij. En dat kan gevaarlijk zijn",
@@ -1051,6 +1051,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Ambulances Belgi\u00eb binnenkort ook met pati\u00ebnten naar Brabantse ziekenhuizen - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035893/ambulances-belgie-binnenkort-ook-met-patienten-naar-brabantse-ziekenhuizen",
+            "publishedDate": "24/11/2026 10:55",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Leerlingen van KTA Brugge verwennen oudere pati\u00ebnten in het AZ Sint-Jan",
             "link": "https://www.lokaalnieuws.online/2026/11/24/brugge-kta-leerlingen-geriatrie-az-sint-jan-week-van-de-ouderenzorg/",
             "publishedDate": "24/11/2026 10:51",
@@ -1165,7 +1176,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Na eigen zoektocht stimuleert Michel kinderen hun hart te volgen: 'Dan kom je vanzelf op de ...",
@@ -1644,18 +1655,11 @@
             "title": "Dit zijn de beste zorgverzekeraars van 2027 - Overstappen.nl",
             "link": "https://www.overstappen.nl/nieuws/dit-zijn-de-beste-zorgverzekeraars-van-2027/",
             "publishedDate": "23/11/2026 17:41",
-            "source": "overstappen.nl, zorgwijzer.nl",
+            "source": "overstappen.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-best-beoordeelde-zorgverzekeraars-van-2027-en-dit-doen-ze-anders",
-                    "publishedDate": "23/11/2026 15:06"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1810,7 +1814,18 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-best-beoordeelde-zorgverzekeraars-van-2027-en-dit-doen-ze-anders",
+            "publishedDate": "23/11/2026 15:06",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Utrechtse artsen vragen aandacht voor levensgevaarlijke allergische reacties - DUIC",
