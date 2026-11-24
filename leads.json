@@ -182,8 +182,15 @@
             "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Ambulances Belgi\u00eb binnenkort ook met pati\u00ebnten naar Brabantse ziekenhuizen - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035893/ambulances-belgie-binnenkort-ook-met-patienten-naar-brabantse-ziekenhuizen",
+                    "publishedDate": "24/11/2026 10:55"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -248,22 +255,16 @@
             "title": "Huisarts en apotheker komen met afslanktraject, met medicatie: 'Het is begonnen met een probleem'",
             "link": "https://www.omroepzeeland.nl/amp/nieuws/18938385/huisarts-en-apotheker-komen-met-afslanktraject-met-medicatie-het-is-begonnen-met-een-probleem",
             "publishedDate": "24/11/2026 12:28",
-            "source": "medischcontact.nl, omroepzeeland.nl",
+            "source": "omroepzeeland.nl",
             "category": "Regionale Media",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Huisarts en apotheker komen met afslanktraject, met medicatie - Omroep Zeeland",
                     "source": "omroepzeeland.nl",
                     "link": "https://www.omroepzeeland.nl/video/ZNO261117FF/huisarts-en-apotheker-komen-met-afslanktraject-met-medicatie",
                     "publishedDate": "24/11/2026 12:17"
-                },
-                {
-                    "title": "Huisartsen zoeken een weg in het voorschrijven van obesitasmedicatie",
-                    "source": "medischcontact.nl",
-                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/huisartsen-zoeken-een-weg-in-het-voorschrijven-van-obesitasmedicatie",
-                    "publishedDate": "23/11/2026 11:00"
                 }
             ],
             "belangrijkheid": 0
@@ -503,17 +504,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ambulances Belgi\u00eb binnenkort ook met pati\u00ebnten naar Brabantse ziekenhuizen - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035893/ambulances-belgie-binnenkort-ook-met-patienten-naar-brabantse-ziekenhuizen",
-            "publishedDate": "24/11/2026 10:55",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Leerlingen van KTA Brugge verwennen oudere pati\u00ebnten in het AZ Sint-Jan",
             "link": "https://www.lokaalnieuws.online/2026/11/24/brugge-kta-leerlingen-geriatrie-az-sint-jan-week-van-de-ouderenzorg/",
             "publishedDate": "24/11/2026 10:51",
@@ -561,16 +551,28 @@
             "title": "ICT-bedrijf wil miljoen euro van ziekenhuis, maar rechter ziet zaak heel anders - Twee",
             "link": "https://ditistwee.nl/nieuws/26728/ict-bedrijf-wil-miljoen-euro-van-ziekenhuis-maar-rechter-ziet-zaak-heel-anders",
             "publishedDate": "24/11/2026 10:31",
-            "source": "ditistwee.nl, rijnmond.nl",
+            "source": "ditistwee.nl, radboudumc.nl, rijnmond.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "ICT-bedrijf hoopt op miljoen euro van ziekenhuis, maar rechter ziet zaak heel anders",
                     "source": "rijnmond.nl",
                     "link": "https://www.rijnmond.nl/nieuws/2286872/ict-bedrijf-hoopt-op-miljoen-euro-van-ziekenhuis-maar-rechter-ziet-zaak-heel-anders",
                     "publishedDate": "24/11/2026 08:37"
+                },
+                {
+                    "title": "MRI-scanner in de vorm van een luie stoel in aantocht! - Zorgkrant",
+                    "source": "zorgkrant.nl",
+                    "link": "https://www.zorgkrant.nl/ziekenhuis/21705-mri-scanner-in-de-vorm-van-een-luie-stoel-in-aantocht",
+                    "publishedDate": "24/11/2026 09:04"
+                },
+                {
+                    "title": "Eerste MRI-scanner in de vorm van een luie stoel komt eraan - Radboudumc",
+                    "source": "radboudumc.nl",
+                    "link": "https://www.radboudumc.nl/nieuws/2026/eerste-mri-scanner-in-de-vorm-van-een-luie-stoel-komt-eraan",
+                    "publishedDate": "23/11/2026 23:47"
                 }
             ],
             "belangrijkheid": 0
@@ -672,24 +674,6 @@
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "MRI-scanner in de vorm van een luie stoel in aantocht! - Zorgkrant",
-            "link": "https://www.zorgkrant.nl/ziekenhuis/21705-mri-scanner-in-de-vorm-van-een-luie-stoel-in-aantocht",
-            "publishedDate": "24/11/2026 09:04",
-            "source": "radboudumc.nl, zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Eerste MRI-scanner in de vorm van een luie stoel komt eraan - Radboudumc",
-                    "source": "radboudumc.nl",
-                    "link": "https://www.radboudumc.nl/nieuws/2026/eerste-mri-scanner-in-de-vorm-van-een-luie-stoel-komt-eraan",
-                    "publishedDate": "23/11/2026 23:47"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -890,11 +874,30 @@
             "title": "De spoedfunctie met MUG-erkenning in Geraardsbergen verdwijnt vanaf 1 januari 2027",
             "link": "https://www.editiepajot.com/artikels/geraardsbergen/de-spoedfunctie-met-mug-erkenning-geraardsbergen-verdwijnt-vanaf-1-januari-2027",
             "publishedDate": "24/11/2026 03:39",
-            "source": "editiepajot.com",
+            "source": "denderjournaal.be, editiepajot.com, nieuwsblad.be, tvoost.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Geraardsbergen betreurt verdwijnen gespecialiseerde spoedfunctie: \u201cInwoners mogen ...",
+                    "source": "denderjournaal.be",
+                    "link": "https://denderjournaal.be/geraardsbergen-betreurt-verdwijnen-gespecialiseerde-spoedfunctie-inwoners-mogen-rekenen-op-onze-vastberadenheid/",
+                    "publishedDate": "24/11/2026 00:04"
+                },
+                {
+                    "title": "Stadsbestuur betreurt schrappen MUG-dienst in ziekenhuis: \u201cWij verwachten dat AZORG ...",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/stadsbestuur-betreurt-schrappen-mug-dienst-in-ziekenhuis-wij-verwachten-dat-azorg-zijn-verantwoordelijkheid-opneemt/164992750.html",
+                    "publishedDate": "23/11/2026 23:59"
+                },
+                {
+                    "title": "Spoedafdeling van Azorg-ziekenhuis in Geraardsbergen sluit, wel nog 'Eerste Opvang ... - TV OOST",
+                    "source": "tvoost.be",
+                    "link": "https://www.tvoost.be/nieuws/spoedafdeling-van-azorg-ziekenhuis-in-geraardsbergen-sluit-wel-nog-eerste-opvang-spoedgevallen-216066",
+                    "publishedDate": "23/11/2026 23:16"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1041,17 +1044,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Geraardsbergen betreurt verdwijnen gespecialiseerde spoedfunctie: \u201cInwoners mogen ...",
-            "link": "https://denderjournaal.be/geraardsbergen-betreurt-verdwijnen-gespecialiseerde-spoedfunctie-inwoners-mogen-rekenen-op-onze-vastberadenheid/",
-            "publishedDate": "24/11/2026 00:04",
-            "source": "denderjournaal.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "In deze oude brouwerij in Hulst kun je straks karaoke zingen \u00e9n een foto van je ex kapotslaan - PZC",
             "link": "https://www.pzc.nl/hulst/in-deze-oude-brouwerij-in-hulst-kun-je-straks-karaoke-zingen-en-een-foto-van-je-ex-kapotslaan~a7914e00/",
             "publishedDate": "24/11/2026 00:03",
@@ -1074,33 +1066,11 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Stadsbestuur betreurt schrappen MUG-dienst in ziekenhuis: \u201cWij verwachten dat AZORG ...",
-            "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/stadsbestuur-betreurt-schrappen-mug-dienst-in-ziekenhuis-wij-verwachten-dat-azorg-zijn-verantwoordelijkheid-opneemt/164992750.html",
-            "publishedDate": "23/11/2026 23:59",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Addy van den Krommenacker in ziekenhuis op Jamaica na pijnlijke niersteenaanval",
             "link": "https://www.rtl.nl/boulevard/video/c4741089-48d7-4a93-85df-92c6b7f4a051/addy-van-den-krommenacker-ziekenhuis-op",
             "publishedDate": "23/11/2026 23:42",
             "source": "rtl.nl",
             "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Spoedafdeling van Azorg-ziekenhuis in Geraardsbergen sluit, wel nog 'Eerste Opvang ... - TV OOST",
-            "link": "https://www.tvoost.be/nieuws/spoedafdeling-van-azorg-ziekenhuis-in-geraardsbergen-sluit-wel-nog-eerste-opvang-spoedgevallen-216066",
-            "publishedDate": "23/11/2026 23:16",
-            "source": "tvoost.be",
-            "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1718,6 +1688,17 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Huisartsen zoeken een weg in het voorschrijven van obesitasmedicatie",
+            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/huisartsen-zoeken-een-weg-in-het-voorschrijven-van-obesitasmedicatie",
+            "publishedDate": "23/11/2026 11:00",
+            "source": "medischcontact.nl",
+            "category": "Overig",
+            "feed_label": "Medisch Contact",
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
