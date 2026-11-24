@@ -392,10 +392,10 @@
             "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
             "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
             "publishedDate": "24/11/2026 16:14",
-            "source": "cnv.nl, dvhn.nl, fnv.nl, hartvannederland.nl, nl.headtopics.com, omroepbrabant.nl, rtvdrenthe.nl, rtvfocuszwolle.nl",
+            "source": "cnv.nl, dvhn.nl, fnv.nl, nl.headtopics.com, omroepbrabant.nl, rtvdrenthe.nl, rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 10,
+            "duplicate_count": 9,
             "extra_bronnen": [
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
@@ -428,12 +428,6 @@
                     "publishedDate": "24/11/2026 11:28"
                 },
                 {
-                    "title": "Grote staking ggz-medewerkers op 10 december: 'Duidelijk signaal' | Hart van Nederland",
-                    "source": "hartvannederland.nl",
-                    "link": "https://www.hartvannederland.nl/politiek/demonstratie/artikelen/grote-staking-ggz-medewerkers-op-10-december-duidelijk-signaal",
-                    "publishedDate": "24/11/2026 11:28"
-                },
-                {
                     "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
                     "source": "cnv.nl",
                     "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
@@ -446,7 +440,7 @@
                     "publishedDate": "24/11/2026 10:39"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Al 30 procent meer griepvaccins toegediend door Vlaamse apothekers - De Specialist",
@@ -496,16 +490,22 @@
             "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
             "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
             "publishedDate": "24/11/2026 15:42",
-            "source": "ad.nl, ed.nl",
+            "source": "ad.nl, ed.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden - AD",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/eindhoven/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden~a32dfd168/",
                     "publishedDate": "24/11/2026 11:45"
+                },
+                {
+                    "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035901/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven",
+                    "publishedDate": "24/11/2026 12:26"
                 }
             ],
             "belangrijkheid": 0
@@ -1245,17 +1245,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035901/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven",
-            "publishedDate": "24/11/2026 12:26",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Politieke zorgen over beroepsgeheim binnen Zoetermeerse jeugdzorg",
             "link": "https://zoetermeersdagblad.nl/lokaal/politieke-zorgen-over-beroepsgeheim-binnen-zoetermeerse-jeugdzorg",
             "publishedDate": "24/11/2026 12:21",
@@ -1327,6 +1316,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Grote staking ggz-medewerkers op 10 december: 'Duidelijk signaal' | Hart van Nederland",
+            "link": "https://www.hartvannederland.nl/politiek/demonstratie/artikelen/grote-staking-ggz-medewerkers-op-10-december-duidelijk-signaal",
+            "publishedDate": "24/11/2026 11:28",
+            "source": "hartvannederland.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Rob Jetten sluit ochtend in Den Bosch af met Bossche bollen en worstenbroodjes",
