@@ -116,13 +116,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Beantwoording Kamervragen van het lid Maeijer (PVV) over de illegale online verkoop van afslankmiddelen",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/ed015b67-7f07-4c8b-a6ad-6b2b09ae11ab",
                     "publishedDate": "24/11/2026 11:52"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
+                    "publishedDate": "23/11/2026 17:07"
+                },
+                {
+                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+                    "publishedDate": "23/11/2026 17:07"
                 }
             ],
             "belangrijkheid": 0
@@ -1323,28 +1335,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
-            "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
-            "publishedDate": "23/11/2026 17:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-            "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-            "publishedDate": "23/11/2026 17:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Doortje van Unen lid Raad van Toezicht JMW - Jonet.nl",
             "link": "https://jonet.nl/doortje-van-unen-lid-raad-van-toezicht-jmw/",
             "publishedDate": "23/11/2026 16:55",
@@ -1496,7 +1486,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Inge doet inwoners woonzorgcentrum schitteren in fototentoonstelling rond Kleine gelukjes",
