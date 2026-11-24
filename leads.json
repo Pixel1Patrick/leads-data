@@ -1,6 +1,36 @@
 {
     "artikelen": [
         {
+            "title": "Ambulances Belgi\u00eb binnenkort ook met pati\u00ebnten naar Brabantse ziekenhuizen - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035893/ambulances-belgie-binnenkort-ook-met-patienten-naar-brabantse-ziekenhuizen",
+            "publishedDate": "24/11/2026 10:55",
+            "source": "bd.nl, bndestem.nl, omroepbrabant.nl, pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Belgische ambulance mag voortaan doorrijden naar ziekenhuis in Nederland",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/breda/belgische-ambulances-mogen-voortaan-naar-nederlandse-ziekenhuizen-rijden-grenspatienten-sneller-geholpen~af78870d/",
+                    "publishedDate": "23/11/2026 21:12"
+                },
+                {
+                    "title": "Belgische ambulance mag voortaan doorrijden naar ziekenhuis in Nederland - BN DeStem",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/woensdrecht/belgische-ambulance-mag-voortaan-doorrijden-naar-ziekenhuis-in-nederland-oplossing-voor-de-hele-grensregio~af78870d/",
+                    "publishedDate": "23/11/2026 20:59"
+                },
+                {
+                    "title": "Geen gedoe meer aan de grens, zoals Senn (14) overkwam: Belgische ambulances mogen ... - PZC",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
+                    "publishedDate": "23/11/2026 20:48"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[FNV] GGZ-werknemers voeren op 10 december landelijk actie voor een betere cao",
             "link": "https://www.fnv.nl/nieuwsbericht/algemeen-nieuws/2026/11/ggz-werknemers-voeren-op-10-december-landelijk-act",
             "publishedDate": "24/11/2026 10:49",
@@ -262,7 +292,7 @@
                     "publishedDate": "23/11/2026 23:16"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "OpenAI MedChemBench: scores en grenzen uitgelegd - NeoTeo",
@@ -405,7 +435,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "In deze oude brouwerij in Hulst kun je straks karaoke zingen \u00e9n een foto van je ex kapotslaan - PZC",
@@ -631,22 +661,16 @@
             "title": "Gommers stapt op als IC-hoofd Erasmus MC na alarmerend inspectierapport - BNR",
             "link": "https://www.bnr.nl/nieuws/ondernemen-werk/10616042/gommers-stapt-op-als-ic-hoofd-erasmus-mc-na-alarmerend-inspectierapport",
             "publishedDate": "23/11/2026 22:10",
-            "source": "bnr.nl, igj.nl, nu.nl, trouw.nl",
+            "source": "bnr.nl, igj.nl, nu.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Inspectie grijpt in bij ic Erasmus MC, Diederik Gommers stopt als afdelingshoofd - NU",
                     "source": "nu.nl",
                     "link": "https://www.nu.nl/binnenland/6417545/inspectie-grijpt-in-bij-ic-erasmus-mc-diederik-gommers-stopt-als-afdelingshoofd.html",
                     "publishedDate": "23/11/2026 21:52"
-                },
-                {
-                    "title": "Inspectie grijpt in bij Erasmus MC vanwege 'kwetsbare' werkcultuur, Diederik Gommers vertrekt",
-                    "source": "trouw.nl",
-                    "link": "https://www.trouw.nl/binnenland/inspectie-grijpt-in-bij-erasmus-mc-vanwege-kwetsbare-werkcultuur-diederik-gommers-vertrekt~b90f83b2/",
-                    "publishedDate": "23/11/2026 20:13"
                 },
                 {
                     "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
@@ -716,11 +740,24 @@
             "title": "SL!M verontrust over pati\u00ebntenstops FBTO, De Friesland en Zilveren Kruis - Liwwadders",
             "link": "https://www.liwwadders.nl/slm-verontrust-over-patientenstops-fbto-de-friesland-en-zilveren-kruis/",
             "publishedDate": "23/11/2026 21:34",
-            "source": "liwwadders.nl",
+            "source": "alphens.nl, liwwadders.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Alrijne voert tijdelijke pati\u00ebntenstop in voor verzekerden van Zilveren Kruis - Alphens.nl",
+                    "source": "alphens.nl",
+                    "link": "https://www.alphens.nl/nieuws/alrijne-voert-tijdelijke-patientenstop-in-voor-verzekerden-van-zilveren-kruis.html",
+                    "publishedDate": "23/11/2026 12:03"
+                },
+                {
+                    "title": "Alrijne voert tijdelijke pati\u00ebntenstop in voor verzekerden van Zilveren Kruis - Alphens.nl",
+                    "source": "alphens.nl",
+                    "link": "https://www.alphens.nl/nieuws/alrijne-voert-tijdelijke-patientenstop-in-voor-verzekerden-van-zilveren-kruis.amp",
+                    "publishedDate": "23/11/2026 12:01"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -757,24 +794,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Belgische ambulance mag voortaan doorrijden naar ziekenhuis in Nederland",
-            "link": "https://www.bd.nl/breda/belgische-ambulances-mogen-voortaan-naar-nederlandse-ziekenhuizen-rijden-grenspatienten-sneller-geholpen~af78870d/",
-            "publishedDate": "23/11/2026 21:12",
-            "source": "bd.nl, bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Belgische ambulance mag voortaan doorrijden naar ziekenhuis in Nederland - BN DeStem",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/woensdrecht/belgische-ambulance-mag-voortaan-doorrijden-naar-ziekenhuis-in-nederland-oplossing-voor-de-hele-grensregio~af78870d/",
-                    "publishedDate": "23/11/2026 20:59"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Artsen en verpleegkundigen oefenen geriatrische zorgscenario's - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2648E01/EAKbe2647S50_00",
             "publishedDate": "23/11/2026 21:07",
@@ -803,17 +822,6 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Geen gedoe meer aan de grens, zoals Senn (14) overkwam: Belgische ambulances mogen ... - PZC",
-            "link": "https://www.pzc.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
-            "publishedDate": "23/11/2026 20:48",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -880,17 +888,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Met deze Twentse uitvinding kunnen ook vrouwen in het ziekenhuis plassen zonder uit bed ...",
-            "link": "https://www.destentor.nl/almelo/met-deze-twentse-uitvinding-kunnen-ook-vrouwen-in-het-ziekenhuis-plassen-zonder-uit-bed-te-hoeven~abf709e6/",
-            "publishedDate": "23/11/2026 20:03",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1199,15 +1196,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-                    "publishedDate": "23/11/2026 17:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+            "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+            "publishedDate": "23/11/2026 17:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1613,24 +1614,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Alrijne voert tijdelijke pati\u00ebntenstop in voor verzekerden van Zilveren Kruis - Alphens.nl",
-            "link": "https://www.alphens.nl/nieuws/alrijne-voert-tijdelijke-patientenstop-in-voor-verzekerden-van-zilveren-kruis.html",
-            "publishedDate": "23/11/2026 12:03",
-            "source": "alphens.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Alrijne voert tijdelijke pati\u00ebntenstop in voor verzekerden van Zilveren Kruis - Alphens.nl",
-                    "source": "alphens.nl",
-                    "link": "https://www.alphens.nl/nieuws/alrijne-voert-tijdelijke-patientenstop-in-voor-verzekerden-van-zilveren-kruis.amp",
-                    "publishedDate": "23/11/2026 12:01"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Paper] Wet implementatie richtlijn loontransparantie",
             "link": "https://www.actiz.nl/actueel/wet-implementatie-richtlijn-loontransparantie",
             "publishedDate": "23/11/2026 11:03",
@@ -1670,17 +1653,6 @@
             "source": "eemskrant.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Amsterdam MedTech brengt medische innovatie sneller bij de pati\u00ebnt - UvA",
-            "link": "https://www.uva.nl/nieuws/2026/amsterdam-medtech-brengt-medische-innovatie-sneller-bij-de-patient",
-            "publishedDate": "23/11/2026 10:08",
-            "source": "uva.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
