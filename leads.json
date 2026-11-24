@@ -932,17 +932,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Gro-up opent kraamcentrum in het Ikazia Ziekenhuis",
-            "link": "https://www.ikazia.nl/nieuws/gro-up-opent-kraamcentrum-in-ikazia-ziekenhuis",
-            "publishedDate": "24/11/2026 15:19",
-            "source": "ikazia.nl",
-            "category": "Zorgaanbieders",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "MAHA sectoranalyse 2026 | Frank Vandenbroucke",
             "link": "https://vandenbroucke.belgium.be/nl/nieuws/maha-sectoranalyse-2026",
             "publishedDate": "24/11/2026 15:18",
@@ -1178,7 +1167,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Wat is het gemiddelde salaris van een huisarts anno 2026?",
@@ -1211,7 +1200,7 @@
             "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Twaalf VVT-organisaties bundelen krachten rond AI | ICT&amp;health",
@@ -1345,18 +1334,11 @@
             "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
             "publishedDate": "24/11/2026 13:05",
-            "source": "nl.headtopics.com, omroepbrabant.nl",
+            "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
-                    "publishedDate": "24/11/2026 10:39"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1554,6 +1536,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
+            "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
+            "publishedDate": "24/11/2026 10:39",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
