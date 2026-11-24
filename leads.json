@@ -213,18 +213,11 @@
             "title": "[CNV] GGZ-werknemers voeren op 10 december landelijk actie voor een betere cao",
             "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
             "publishedDate": "24/11/2026 11:08",
-            "source": "cnv.nl, fnv.nl",
+            "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] GGZ-werknemers voeren op 10 december landelijk actie voor een betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/algemeen-nieuws/2026/11/ggz-werknemers-voeren-op-10-december-landelijk-act",
-                    "publishedDate": "24/11/2026 10:49"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -264,24 +257,11 @@
             "title": "Gommers vertrekt als hoofd ic Erasmus MC: problemen rond veilige werkcultuur",
             "link": "https://www.telegraaf.nl/binnenland/gommers-vertrekt-als-hoofd-ic-erasmus-mc-problemen-rond-veilige-werkcultuur/164993279.html",
             "publishedDate": "24/11/2026 10:42",
-            "source": "bnr.nl, igj.nl, telegraaf.nl",
+            "source": "telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Gommers stapt op als IC-hoofd Erasmus MC na alarmerend inspectierapport - BNR",
-                    "source": "bnr.nl",
-                    "link": "https://www.bnr.nl/nieuws/ondernemen-werk/10616042/gommers-stapt-op-als-ic-hoofd-erasmus-mc-na-alarmerend-inspectierapport",
-                    "publishedDate": "23/11/2026 22:10"
-                },
-                {
-                    "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-                    "publishedDate": "23/11/2026 18:15"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -938,6 +918,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Gommers stapt op als IC-hoofd Erasmus MC na alarmerend inspectierapport - BNR",
+            "link": "https://www.bnr.nl/nieuws/ondernemen-werk/10616042/gommers-stapt-op-als-ic-hoofd-erasmus-mc-na-alarmerend-inspectierapport",
+            "publishedDate": "23/11/2026 22:10",
+            "source": "bnr.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "vvaa-vw-lijst-ziekenhuizen-2025.pdf",
             "link": "https://www.onvz.nl/globalassets/files/vvaa/2025/vvaa-vw-lijst-ziekenhuizen-2025.pdf",
             "publishedDate": "23/11/2026 22:02",
@@ -1127,6 +1118,17 @@
             "source": "nl.investing.com",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+            "publishedDate": "23/11/2026 18:15",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1492,7 +1494,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Inge doet inwoners woonzorgcentrum schitteren in fototentoonstelling rond Kleine gelukjes",
@@ -1536,7 +1538,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
