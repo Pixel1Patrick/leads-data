@@ -26,18 +26,11 @@
             "title": "Geraardsbergen betreurt verdwijnen gespecialiseerde spoedfunctie: \u201cInwoners mogen ...",
             "link": "https://denderjournaal.be/geraardsbergen-betreurt-verdwijnen-gespecialiseerde-spoedfunctie-inwoners-mogen-rekenen-op-onze-vastberadenheid/",
             "publishedDate": "24/11/2026 00:04",
-            "source": "denderjournaal.be, tvoost.be",
+            "source": "denderjournaal.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Spoedafdeling van Azorg-ziekenhuis in Geraardsbergen sluit, wel nog 'Eerste Opvang ... - TV OOST",
-                    "source": "tvoost.be",
-                    "link": "https://www.tvoost.be/nieuws/spoedafdeling-van-azorg-ziekenhuis-in-geraardsbergen-sluit-wel-nog-eerste-opvang-spoedgevallen-216066",
-                    "publishedDate": "23/11/2026 23:16"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -69,6 +62,17 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Spoedafdeling van Azorg-ziekenhuis in Geraardsbergen sluit, wel nog 'Eerste Opvang ... - TV OOST",
+            "link": "https://www.tvoost.be/nieuws/spoedafdeling-van-azorg-ziekenhuis-in-geraardsbergen-sluit-wel-nog-eerste-opvang-spoedgevallen-216066",
+            "publishedDate": "23/11/2026 23:16",
+            "source": "tvoost.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -366,28 +370,16 @@
             "title": "Belgische ambulance mag voortaan doorrijden naar ziekenhuis in Nederland",
             "link": "https://www.bd.nl/breda/belgische-ambulances-mogen-voortaan-naar-nederlandse-ziekenhuizen-rijden-grenspatienten-sneller-geholpen~af78870d/",
             "publishedDate": "23/11/2026 21:12",
-            "source": "ad.nl, bd.nl, bndestem.nl, pzc.nl",
+            "source": "bd.nl, bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Belgische ambulance mag voortaan doorrijden naar ziekenhuis in Nederland - BN DeStem",
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/woensdrecht/belgische-ambulance-mag-voortaan-doorrijden-naar-ziekenhuis-in-nederland-oplossing-voor-de-hele-grensregio~af78870d/",
                     "publishedDate": "23/11/2026 20:59"
-                },
-                {
-                    "title": "Geen gedoe meer aan de grens, zoals Senn (14) overkwam: Belgische ambulances mogen ... - PZC",
-                    "source": "pzc.nl",
-                    "link": "https://www.pzc.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
-                    "publishedDate": "23/11/2026 20:48"
-                },
-                {
-                    "title": "Belgische ambulances mogen voortaan direct doorrijden naar Nederlandse ziekenhuizen - AD",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
-                    "publishedDate": "23/11/2026 20:27"
                 }
             ],
             "belangrijkheid": 0
@@ -426,6 +418,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Geen gedoe meer aan de grens, zoals Senn (14) overkwam: Belgische ambulances mogen ... - PZC",
+            "link": "https://www.pzc.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
+            "publishedDate": "23/11/2026 20:48",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Addy van den Krommenacker in ziekenhuis op Jamaica na pijnlijke niersteenaanval",
             "link": "https://www.rtl.nl/boulevard/video/video/c4741089-48d7-4a93-85df-92c6b7f4a051/addy-van-den-krommenacker-ziekenhuis-op",
             "publishedDate": "23/11/2026 20:34",
@@ -454,6 +457,17 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Belgische ambulances mogen voortaan direct doorrijden naar Nederlandse ziekenhuizen - AD",
+            "link": "https://www.ad.nl/roosendaal/geen-gedoe-meer-aan-de-grens-zoals-senn-14-overkwam-belgische-ambulances-mogen-voortaan-direct-doorrijden-naar-nederlandse-ziekenhuizen~aa3d9cdf/",
+            "publishedDate": "23/11/2026 20:27",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -685,18 +699,11 @@
             "title": "Jason Bhugwandass (1998-2026) wist als geen ander hoe eenzaam en schadelijk de ...",
             "link": "https://www.parool.nl/amsterdam/jason-bhugwandass-1998-2026-wist-als-geen-ander-hoe-eenzaam-en-schadelijk-de-gesloten-jeugdzorg-kan-zijn~b16f3f6f/",
             "publishedDate": "23/11/2026 18:30",
-            "source": "jeugdzorgnederland.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
-                    "publishedDate": "21/11/2026 07:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -943,15 +950,19 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-                    "publishedDate": "23/11/2026 17:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+            "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+            "publishedDate": "23/11/2026 17:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1558,17 +1569,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Door de hoge zorgpremie gokken meer mensen op een hoger eigen risico - Zorgwijzer",
-            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/door-de-hoge-zorgpremie-gokken-meer-mensen-op-een-hoger-eigen-risico",
-            "publishedDate": "23/11/2026 00:32",
-            "source": "zorgwijzer.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Hoe i-mens welzijn vertaalt naar concrete kansen - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/nieuws/hoe-i-mens-welzijn-vertaalt-naar-concrete-kansen/164284577.html",
             "publishedDate": "23/11/2026 00:03",
@@ -1586,6 +1586,17 @@
             "source": "theportugalnews.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Gisteren hoorden wij dat Jason Bhugwandass is overleden. Wij zijn diep geraakt door dit intens verdrietige bericht.",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/gisteren-hoorden-wij-dat-jason-bhugwandass-is-overleden-wij-zijn-diep-geraakt-door-dit-intens-verdrietige-bericht/",
+            "publishedDate": "21/11/2026 07:00",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Jeugdzorg Nederland",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
