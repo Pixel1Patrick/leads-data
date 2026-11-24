@@ -18,32 +18,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
-                    "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
+                    "title": "Beantwoording Kamervragen van het lid Maeijer (PVV) over de illegale online verkoop van afslankmiddelen",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
-                    "publishedDate": "23/11/2026 17:07"
-                },
-                {
-                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-                    "publishedDate": "23/11/2026 17:07"
+                    "link": "https://open.overheid.nl/details/ed015b67-7f07-4c8b-a6ad-6b2b09ae11ab",
+                    "publishedDate": "24/11/2026 11:52"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Beantwoording Kamervragen van het lid Maeijer (PVV) over de illegale online verkoop van afslankmiddelen",
-            "link": "https://open.overheid.nl/details/ed015b67-7f07-4c8b-a6ad-6b2b09ae11ab",
-            "publishedDate": "24/11/2026 11:52",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -83,18 +66,12 @@
             "source": "gezondheidsraad.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Beleidsreactie advies Gezondheidsraad hepatitis A-  vaccinatie voor mannen die seks hebben met mannen",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9dd6083b-edf3-448f-87aa-b08bc6849f78",
-                    "publishedDate": "24/11/2026 11:22"
-                },
-                {
-                    "title": "Hepatitis A-vaccinatie voor MSM",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/b838e30e-ec7c-4756-9e84-6bb43ec4d5c9",
                     "publishedDate": "24/11/2026 11:22"
                 },
                 {
@@ -104,6 +81,17 @@
                     "publishedDate": "24/11/2026 11:00"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Hepatitis A-vaccinatie voor MSM",
+            "link": "https://open.overheid.nl/details/b838e30e-ec7c-4756-9e84-6bb43ec4d5c9",
+            "publishedDate": "24/11/2026 11:22",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1131,18 +1119,11 @@
             "title": "Dit zijn de beste zorgverzekeraars van 2027 - Overstappen.nl",
             "link": "https://www.overstappen.nl/nieuws/dit-zijn-de-beste-zorgverzekeraars-van-2027/",
             "publishedDate": "23/11/2026 17:41",
-            "source": "overstappen.nl, zorgwijzer.nl",
+            "source": "overstappen.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
-                    "source": "zorgwijzer.nl",
-                    "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-best-beoordeelde-zorgverzekeraars-van-2027-en-dit-doen-ze-anders",
-                    "publishedDate": "23/11/2026 15:06"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1252,6 +1233,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
+            "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
+            "publishedDate": "23/11/2026 17:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+                    "publishedDate": "23/11/2026 17:07"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Doortje van Unen lid Raad van Toezicht JMW - Jonet.nl",
             "link": "https://jonet.nl/doortje-van-unen-lid-raad-van-toezicht-jmw/",
             "publishedDate": "23/11/2026 16:55",
@@ -1306,7 +1305,7 @@
                     "publishedDate": "23/11/2026 15:39"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Apotheker/Productspecialist LNA - Pharmaceutisch Weekblad",
@@ -1505,6 +1504,17 @@
             "source": "lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/dit-zijn-de-best-beoordeelde-zorgverzekeraars-van-2027-en-dit-doen-ze-anders",
+            "publishedDate": "23/11/2026 15:06",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
