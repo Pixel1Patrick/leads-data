@@ -87,13 +87,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Beantwoording Kamervragen van het lid Maeijer (PVV) over de illegale online verkoop van afslankmiddelen",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/ed015b67-7f07-4c8b-a6ad-6b2b09ae11ab",
                     "publishedDate": "24/11/2026 11:52"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
+                    "publishedDate": "23/11/2026 17:07"
+                },
+                {
+                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
+                    "publishedDate": "23/11/2026 17:07"
                 }
             ],
             "belangrijkheid": 0
@@ -126,16 +138,16 @@
                     "publishedDate": "23/11/2026 20:48"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Beleidsreactie advies Gezondheidsraad hepatitis A-  vaccinatie voor mannen die seks hebben met mannen",
             "link": "https://open.overheid.nl/details/606b5f28-c860-4115-aa5f-8a615de0275b",
             "publishedDate": "24/11/2026 11:22",
-            "source": "gezondheidsraad.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Beleidsreactie advies Gezondheidsraad hepatitis A-  vaccinatie voor mannen die seks hebben met mannen",
@@ -148,12 +160,6 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/b838e30e-ec7c-4756-9e84-6bb43ec4d5c9",
                     "publishedDate": "24/11/2026 11:22"
-                },
-                {
-                    "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
-                    "source": "gezondheidsraad.nl",
-                    "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
-                    "publishedDate": "24/11/2026 11:00"
                 }
             ],
             "belangrijkheid": 0
@@ -197,6 +203,17 @@
                 }
             ],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
+            "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
+            "publishedDate": "24/11/2026 11:00",
+            "source": "gezondheidsraad.nl",
+            "category": "Overig",
+            "feed_label": "Gezondheidsraad",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderen zingen en dansen mee tijdens sinterklaasvoorstelling in Bladel | Regio | ED.nl",
@@ -537,30 +554,11 @@
             "title": "De spoedfunctie met MUG-erkenning in Geraardsbergen verdwijnt vanaf 1 januari 2027",
             "link": "https://www.editiepajot.com/artikels/geraardsbergen/de-spoedfunctie-met-mug-erkenning-geraardsbergen-verdwijnt-vanaf-1-januari-2027",
             "publishedDate": "24/11/2026 03:39",
-            "source": "denderjournaal.be, editiepajot.com, nieuwsblad.be, tvoost.be",
+            "source": "editiepajot.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Geraardsbergen betreurt verdwijnen gespecialiseerde spoedfunctie: \u201cInwoners mogen ...",
-                    "source": "denderjournaal.be",
-                    "link": "https://denderjournaal.be/geraardsbergen-betreurt-verdwijnen-gespecialiseerde-spoedfunctie-inwoners-mogen-rekenen-op-onze-vastberadenheid/",
-                    "publishedDate": "24/11/2026 00:04"
-                },
-                {
-                    "title": "Stadsbestuur betreurt schrappen MUG-dienst in ziekenhuis: \u201cWij verwachten dat AZORG ...",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/stadsbestuur-betreurt-schrappen-mug-dienst-in-ziekenhuis-wij-verwachten-dat-azorg-zijn-verantwoordelijkheid-opneemt/164992750.html",
-                    "publishedDate": "23/11/2026 23:59"
-                },
-                {
-                    "title": "Spoedafdeling van Azorg-ziekenhuis in Geraardsbergen sluit, wel nog 'Eerste Opvang ... - TV OOST",
-                    "source": "tvoost.be",
-                    "link": "https://www.tvoost.be/nieuws/spoedafdeling-van-azorg-ziekenhuis-in-geraardsbergen-sluit-wel-nog-eerste-opvang-spoedgevallen-216066",
-                    "publishedDate": "23/11/2026 23:16"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -707,6 +705,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Geraardsbergen betreurt verdwijnen gespecialiseerde spoedfunctie: \u201cInwoners mogen ...",
+            "link": "https://denderjournaal.be/geraardsbergen-betreurt-verdwijnen-gespecialiseerde-spoedfunctie-inwoners-mogen-rekenen-op-onze-vastberadenheid/",
+            "publishedDate": "24/11/2026 00:04",
+            "source": "denderjournaal.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "In deze oude brouwerij in Hulst kun je straks karaoke zingen \u00e9n een foto van je ex kapotslaan - PZC",
             "link": "https://www.pzc.nl/hulst/in-deze-oude-brouwerij-in-hulst-kun-je-straks-karaoke-zingen-en-een-foto-van-je-ex-kapotslaan~a7914e00/",
             "publishedDate": "24/11/2026 00:03",
@@ -725,6 +734,17 @@
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Stadsbestuur betreurt schrappen MUG-dienst in ziekenhuis: \u201cWij verwachten dat AZORG ...",
+            "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/stadsbestuur-betreurt-schrappen-mug-dienst-in-ziekenhuis-wij-verwachten-dat-azorg-zijn-verantwoordelijkheid-opneemt/164992750.html",
+            "publishedDate": "23/11/2026 23:59",
+            "source": "nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -779,6 +799,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Spoedafdeling van Azorg-ziekenhuis in Geraardsbergen sluit, wel nog 'Eerste Opvang ... - TV OOST",
+            "link": "https://www.tvoost.be/nieuws/spoedafdeling-van-azorg-ziekenhuis-in-geraardsbergen-sluit-wel-nog-eerste-opvang-spoedgevallen-216066",
+            "publishedDate": "23/11/2026 23:16",
+            "source": "tvoost.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1294,24 +1325,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij kamervargen over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen'-'Gevaarlijke piraterij''",
-            "link": "https://open.overheid.nl/details/0b2e4031-0a73-4a0b-99fe-b68fc18c1c49",
-            "publishedDate": "23/11/2026 17:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Beantwoording Kamervragen van de leden Synhaeve en Vervuurt (beiden D66) over het artikel 'Meer dan 200 nieuwe nep-apotheken verkopen 'afslankmiddelen': 'Gevaarlijke piraterij''",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/084c99cd-d82e-4e80-8d85-e13c6d9f2e95",
-                    "publishedDate": "23/11/2026 17:07"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Doortje van Unen lid Raad van Toezicht JMW - Jonet.nl",
             "link": "https://jonet.nl/doortje-van-unen-lid-raad-van-toezicht-jmw/",
             "publishedDate": "23/11/2026 16:55",
@@ -1481,7 +1494,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Inge doet inwoners woonzorgcentrum schitteren in fototentoonstelling rond Kleine gelukjes",
@@ -1525,7 +1538,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Dit zijn de best beoordeelde zorgverzekeraars van 2027 (en dit doen ze anders)",
