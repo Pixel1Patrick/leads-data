@@ -397,7 +397,7 @@
                     "publishedDate": "24/11/2026 10:39"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Al 30 procent meer griepvaccins toegediend door Vlaamse apothekers - De Specialist",
@@ -447,22 +447,16 @@
             "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
             "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
             "publishedDate": "24/11/2026 15:42",
-            "source": "ad.nl, ed.nl, omroepbrabant.nl",
+            "source": "ad.nl, ed.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden - AD",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/eindhoven/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden~a32dfd168/",
                     "publishedDate": "24/11/2026 11:45"
-                },
-                {
-                    "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035901/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven",
-                    "publishedDate": "24/11/2026 12:26"
                 }
             ],
             "belangrijkheid": 0
@@ -500,7 +494,7 @@
                     "publishedDate": "24/11/2026 13:31"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Elise Draijer (Stimular): 'Voedselverspilling in de zorg: een derde van het restafval is swill'",
@@ -854,11 +848,24 @@
             "title": "Gommers stopt als hoofd ic in Erasmus MC na rapport Inspectie - WNL",
             "link": "https://wnl.tv/2026/11/24/gommers-stopt-als-hoofd-ic-in-erasmus-mc-na-rapport-inspectie",
             "publishedDate": "24/11/2026 14:31",
-            "source": "wnl.tv",
+            "source": "erasmusmagazine.nl, igj.nl, wnl.tv",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Inspectie grijpt in bij intensive care Erasmus MC, Gommers legt functie neer",
+                    "source": "erasmusmagazine.nl",
+                    "link": "https://www.erasmusmagazine.nl/2026/11/24/inspectie-grijpt-in-bij-intensive-care-erasmus-mc-gommers-legt-functie-neer/",
+                    "publishedDate": "24/11/2026 13:29"
+                },
+                {
+                    "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+                    "publishedDate": "23/11/2026 18:15"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -1034,17 +1041,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Inspectie grijpt in bij intensive care Erasmus MC, Gommers legt functie neer",
-            "link": "https://www.erasmusmagazine.nl/2026/11/24/inspectie-grijpt-in-bij-intensive-care-erasmus-mc-gommers-legt-functie-neer/",
-            "publishedDate": "24/11/2026 13:29",
-            "source": "erasmusmagazine.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Veel vuurwerk gekocht afgelopen jaren? Grote kans dat politie dit jaar je auto controleert",
             "link": "https://www.bndestem.nl/binnenland/veel-vuurwerk-gekocht-afgelopen-jaren-grote-kans-dat-politie-dit-jaar-je-auto-controleert~a3b3c5cf/",
             "publishedDate": "24/11/2026 13:21",
@@ -1197,6 +1193,17 @@
                     "publishedDate": "24/11/2026 12:17"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035901/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven",
+            "publishedDate": "24/11/2026 12:26",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1841,17 +1848,6 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-            "publishedDate": "23/11/2026 18:15",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
