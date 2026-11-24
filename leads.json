@@ -182,15 +182,8 @@
             "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Ambulances Belgi\u00eb binnenkort ook met pati\u00ebnten naar Brabantse ziekenhuizen - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035893/ambulances-belgie-binnenkort-ook-met-patienten-naar-brabantse-ziekenhuizen",
-                    "publishedDate": "24/11/2026 10:55"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -255,16 +248,22 @@
             "title": "Huisarts en apotheker komen met afslanktraject, met medicatie: 'Het is begonnen met een probleem'",
             "link": "https://www.omroepzeeland.nl/amp/nieuws/18938385/huisarts-en-apotheker-komen-met-afslanktraject-met-medicatie-het-is-begonnen-met-een-probleem",
             "publishedDate": "24/11/2026 12:28",
-            "source": "omroepzeeland.nl",
+            "source": "medischcontact.nl, omroepzeeland.nl",
             "category": "Regionale Media",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 3,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Huisarts en apotheker komen met afslanktraject, met medicatie - Omroep Zeeland",
                     "source": "omroepzeeland.nl",
                     "link": "https://www.omroepzeeland.nl/video/ZNO261117FF/huisarts-en-apotheker-komen-met-afslanktraject-met-medicatie",
                     "publishedDate": "24/11/2026 12:17"
+                },
+                {
+                    "title": "Huisartsen zoeken een weg in het voorschrijven van obesitasmedicatie",
+                    "source": "medischcontact.nl",
+                    "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/huisartsen-zoeken-een-weg-in-het-voorschrijven-van-obesitasmedicatie",
+                    "publishedDate": "23/11/2026 11:00"
                 }
             ],
             "belangrijkheid": 0
@@ -284,11 +283,24 @@
             "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6035901/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven",
             "publishedDate": "24/11/2026 12:26",
-            "source": "omroepbrabant.nl",
+            "source": "ad.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/eindhoven/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden~a32dfd168/",
+                    "publishedDate": "24/11/2026 11:45"
+                },
+                {
+                    "title": "Steekpartij bij GGzE in Eindhoven: slachtoffer gewond, verdachte met veel moeite aangehouden",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/eindhoven/steekpartij-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden~a32dfd168/?slug_rd=1",
+                    "publishedDate": "24/11/2026 10:46"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -360,24 +372,6 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/ed015b67-7f07-4c8b-a6ad-6b2b09ae11ab",
                     "publishedDate": "24/11/2026 11:52"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden - AD",
-            "link": "https://www.ad.nl/eindhoven/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden~a32dfd168/",
-            "publishedDate": "24/11/2026 11:45",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Steekpartij bij GGzE in Eindhoven: slachtoffer gewond, verdachte met veel moeite aangehouden",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/eindhoven/steekpartij-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden~a32dfd168/?slug_rd=1",
-                    "publishedDate": "24/11/2026 10:46"
                 }
             ],
             "belangrijkheid": 0
@@ -504,6 +498,17 @@
             "source": "ed.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ambulances Belgi\u00eb binnenkort ook met pati\u00ebnten naar Brabantse ziekenhuizen - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035893/ambulances-belgie-binnenkort-ook-met-patienten-naar-brabantse-ziekenhuizen",
+            "publishedDate": "24/11/2026 10:55",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1713,17 +1718,6 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Huisartsen zoeken een weg in het voorschrijven van obesitasmedicatie",
-            "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/artikel/huisartsen-zoeken-een-weg-in-het-voorschrijven-van-obesitasmedicatie",
-            "publishedDate": "23/11/2026 11:00",
-            "source": "medischcontact.nl",
-            "category": "Overig",
-            "feed_label": "Medisch Contact",
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
