@@ -9,7 +9,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Krijg je zorgtoeslag? Bij deze zorgverzekeraars ga je er in 2027 op achteruit - Zorgwijzer",
@@ -309,17 +309,24 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Enschede maakt zich grote zorgen over jeugdzorg: 'Delen van het systeem zijn failliet'",
             "link": "https://www.1twente.nl/artikel/6424349/enschede-maakt-zich-grote-zorgen-over-jeugdzorg-delen-van-het-systeem-zijn-failliet",
             "publishedDate": "25/11/2026 08:23",
-            "source": "1twente.nl",
+            "source": "1almere.nl, 1twente.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Almere moet duidelijker maken wat nieuwe aanpak in de jeugdzorg echt oplevert | 1Almere",
+                    "source": "1almere.nl",
+                    "link": "https://1almere.nl/nieuws/artikel/almere-moet-duidelijker-maken-wat-nieuwe-aanpak-in-de-jeugdzorg-echt-oplevert",
+                    "publishedDate": "24/11/2026 18:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -434,11 +441,18 @@
             "title": "Misstanden Huize Soria onder de loep: Woudenberg onderzoekt eigen rol",
             "link": "https://www.dewoudenberger.nl/lokaal/politiek/1329588/misstanden-huize-soria-onder-de-loep-regio-onderzoekt-eigen-rol",
             "publishedDate": "25/11/2026 07:08",
-            "source": "dewoudenberger.nl",
+            "source": "dewoudenberger.nl, privacy-web.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Man veroordeeld voor doxing van zorgmedewerkers na berichten over ouderenzorg - PONT",
+                    "source": "privacy-web.nl",
+                    "link": "https://privacy-web.nl/samenvatting/man-veroordeeld-voor-doxing-van-zorgmedewerkers-na-berichten-over-ouderenzorg/",
+                    "publishedDate": "24/11/2026 14:34"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -734,10 +748,10 @@
             "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
             "link": "https://www.bndestem.nl/hoeksche-waard/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
             "publishedDate": "25/11/2026 01:01",
-            "source": "ad.nl, bndestem.nl, drimble.nl, gelderlander.nl, sun.sr",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl, igj.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 7,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
@@ -752,28 +766,10 @@
                     "publishedDate": "24/11/2026 20:33"
                 },
                 {
-                    "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
-                    "publishedDate": "24/11/2026 23:22"
-                },
-                {
-                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
-                    "publishedDate": "24/11/2026 23:22"
-                },
-                {
-                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-                    "publishedDate": "24/11/2026 22:31"
-                },
-                {
-                    "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
-                    "publishedDate": "24/11/2026 16:41"
+                    "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
+                    "source": "igj.nl",
+                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+                    "publishedDate": "23/11/2026 18:15"
                 }
             ],
             "belangrijkheid": 1
@@ -782,22 +778,16 @@
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
             "link": "https://www.gelderlander.nl/binnenland/pal-naast-onze-slaapkamer-echtpaar-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
             "publishedDate": "25/11/2026 00:54",
-            "source": "ad.nl, bndestem.nl, gelderlander.nl",
+            "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "'Pal naast onze slaapkamer': echtpaar in Middelburg wil geld zien voor inkijk en constante ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/middelburg/pal-naast-onze-slaapkamer-echtpaar-in-middelburg-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
                     "publishedDate": "24/11/2026 16:03"
-                },
-                {
-                    "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
-                    "publishedDate": "24/11/2026 18:01"
                 }
             ],
             "belangrijkheid": 0
@@ -838,6 +828,36 @@
                     "source": "overstappen.nl",
                     "link": "https://www.overstappen.nl/nieuws/zorg-zonder-contract-ook-100-procent-vergoeding-dekt-niet-altijd-de-hele-rekening/",
                     "publishedDate": "24/11/2026 19:51"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
+            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
+            "publishedDate": "24/11/2026 23:22",
+            "source": "drimble.nl, sun.sr",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+                    "publishedDate": "24/11/2026 22:31"
+                },
+                {
+                    "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
+                    "publishedDate": "24/11/2026 16:41"
                 }
             ],
             "belangrijkheid": 0
@@ -1187,23 +1207,23 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Almere moet duidelijker maken wat nieuwe aanpak in de jeugdzorg echt oplevert | 1Almere",
-            "link": "https://1almere.nl/nieuws/artikel/almere-moet-duidelijker-maken-wat-nieuwe-aanpak-in-de-jeugdzorg-echt-oplevert",
-            "publishedDate": "24/11/2026 18:50",
-            "source": "1almere.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Commissie bespreekt nieuwe regels voor zorg, participatie en inkomen",
             "link": "https://rtvmiddenholland.nl/nieuws/commissie-bespreekt-nieuwe-regels-voor-zorg-participatie-en-inkomen/",
             "publishedDate": "24/11/2026 18:16",
             "source": "rtvmiddenholland.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
+            "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
+            "publishedDate": "24/11/2026 18:01",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1248,8 +1268,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Onderzoek naar het vastleggen van een inhoudelijke afbakening van jeugdhulp in wet- en  regelgeving",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/10774c5e-f548-4ecf-af70-67009f81bfcc",
+                    "publishedDate": "24/11/2026 17:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1351,7 +1378,7 @@
                     "publishedDate": "24/11/2026 15:15"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Geen excuses zonder daden",
@@ -1389,17 +1416,6 @@
         {
             "title": "De taakgerichte uitvoeringsvariant in de praktijk",
             "link": "https://open.overheid.nl/details/07a46820-ac6c-420a-85d8-d62c3c26dff6",
-            "publishedDate": "24/11/2026 17:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Onderzoek naar het vastleggen van een inhoudelijke afbakening van jeugdhulp in wet- en  regelgeving",
-            "link": "https://open.overheid.nl/details/10774c5e-f548-4ecf-af70-67009f81bfcc",
             "publishedDate": "24/11/2026 17:07",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1547,7 +1563,7 @@
                     "publishedDate": "24/11/2026 13:31"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Elise Draijer (Stimular): 'Voedselverspilling in de zorg: een derde van het restafval is swill'",
@@ -1666,17 +1682,6 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Man veroordeeld voor doxing van zorgmedewerkers na berichten over ouderenzorg - PONT",
-            "link": "https://privacy-web.nl/samenvatting/man-veroordeeld-voor-doxing-van-zorgmedewerkers-na-berichten-over-ouderenzorg/",
-            "publishedDate": "24/11/2026 14:34",
-            "source": "privacy-web.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1999,17 +2004,6 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
-            "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-            "publishedDate": "23/11/2026 18:15",
-            "source": "igj.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
