@@ -20,7 +20,7 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Plannen voor verloskundige post in Parkstad; zwangere vrouwen minder snel naar ziekenhuis",
@@ -318,7 +318,7 @@
             "feed_label": "Alert apotheker",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Alleen al bij het zien van het ding verkrampt je vagina, terwijl dat n\u00e8t niet de bedoeling is",
@@ -434,18 +434,11 @@
             "title": "Zorg voor zwangeren in regio Mijnstreek wordt anders georganiseerd - L1 Nieuws",
             "link": "https://www.l1nieuws.nl/nieuws/3277872/zorg-voor-zwangeren-in-regio-mijnstreek-wordt-anders-georganiseerd-plannen-voor-verloskundige-post",
             "publishedDate": "25/11/2026 14:39",
-            "source": "l1nieuws.nl, zuyderland.nl",
+            "source": "l1nieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zorg voor zwangeren in de Mijnstreek komt dichter bij huis - Zuyderland",
-                    "source": "zuyderland.nl",
-                    "link": "https://zuyderland.nl/nieuws/zorg-voor-zwangeren-in-de-mijnstreek-komt-dichter-bij-huis/",
-                    "publishedDate": "25/11/2026 14:02"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -610,6 +603,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zorg voor zwangeren in de Mijnstreek komt dichter bij huis - Zuyderland",
+            "link": "https://zuyderland.nl/nieuws/zorg-voor-zwangeren-in-de-mijnstreek-komt-dichter-bij-huis/",
+            "publishedDate": "25/11/2026 14:02",
+            "source": "zuyderland.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Enorme wachtlijsten in GGZ maken pati\u00ebnten machteloos en verdrietig - Head Topics",
             "link": "https://nl.headtopics.com/news/enorme-wachtlijsten-in-ggz-maken-patienten-machteloos-en-90163961",
             "publishedDate": "25/11/2026 13:59",
@@ -755,26 +759,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-            "publishedDate": "25/11/2026 13:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -786,7 +785,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
@@ -894,7 +893,7 @@
                     "publishedDate": "25/11/2026 08:12"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kamers voor jongeren gezocht - De Toren Hardenberg",
@@ -1081,7 +1080,7 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Minderheidscoalitie Zaltbommel praat met alle partijen, lijmpoging met VVD is serieuze optie - AD",
@@ -1369,10 +1368,10 @@
             "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
             "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
             "publishedDate": "25/11/2026 01:32",
-            "source": "cedarnews.net, drimble.nl, nos.nl",
+            "source": "cedarnews.net, drimble.nl, nos.nl, sun.sr",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 3,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
@@ -1385,9 +1384,27 @@
                     "source": "nos.nl",
                     "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
                     "publishedDate": "24/11/2026 19:49"
+                },
+                {
+                    "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+                    "publishedDate": "24/11/2026 22:31"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "ze zijn welkom bij Wolly Wood in Oud-Zevenaar | Regio | De Gelderlander.nl",
@@ -1404,16 +1421,22 @@
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
             "link": "https://www.gelderlander.nl/binnenland/pal-naast-onze-slaapkamer-echtpaar-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
             "publishedDate": "25/11/2026 00:54",
-            "source": "ad.nl, gelderlander.nl",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "'Pal naast onze slaapkamer': echtpaar in Middelburg wil geld zien voor inkijk en constante ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/middelburg/pal-naast-onze-slaapkamer-echtpaar-in-middelburg-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
                     "publishedDate": "24/11/2026 16:03"
+                },
+                {
+                    "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
+                    "publishedDate": "24/11/2026 18:01"
                 }
             ],
             "belangrijkheid": 0
@@ -1448,28 +1471,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
-            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
-            "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
-            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
-            "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Drimble",
             "link": "https://drimble.nl/regio/noord-brabant/eindhoven/108702527/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven.html",
             "publishedDate": "24/11/2026 23:18",
@@ -1487,17 +1488,6 @@
             "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-            "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-            "publishedDate": "24/11/2026 22:31",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1608,17 +1598,6 @@
             "source": "rtvmiddenholland.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
-            "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
-            "publishedDate": "24/11/2026 18:01",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
