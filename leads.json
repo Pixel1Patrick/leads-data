@@ -454,16 +454,28 @@
             "title": "Van klachten naar juichverhalen in coffeeshops: legale hasj zou nu 'twintig keer beter' zijn",
             "link": "https://www.gelderlander.nl/arnhem/van-klachten-naar-juichverhalen-in-coffeeshops-legale-hasj-zou-nu-twintig-keer-beter-zijn~acf79da8/",
             "publishedDate": "25/11/2026 07:18",
-            "source": "ad.nl, gelderlander.nl",
+            "source": "ad.nl, gelderlander.nl, overstappen.nl, persportaal.anp.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Van klachten naar juichverhalen in coffeeshops: legale hasj zou nu 'twintig keer beter' zijn",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/arnhem/coffeeshops-wietexperiment-levert-betere-hasj-en-sterkere-edibles-maar-de-vapes-zijn-wel-peperduur~acf79da8/",
                     "publishedDate": "24/11/2026 15:53"
+                },
+                {
+                    "title": "Zorg zonder contract: ook 100% vergoeding dekt niet altijd de hele rekening",
+                    "source": "persportaal.anp.nl",
+                    "link": "https://persportaal.anp.nl/artikel/37f011bb-cc2d-4827-91e3-81031aa14cdb/zorg-zonder-contract-ook-100-vergoeding-dekt-niet-altijd-de-hele-rekening",
+                    "publishedDate": "24/11/2026 23:28"
+                },
+                {
+                    "title": "Zorg zonder contract: ook 100% vergoeding dekt niet altijd de hele rekening",
+                    "source": "overstappen.nl",
+                    "link": "https://www.overstappen.nl/nieuws/zorg-zonder-contract-ook-100-procent-vergoeding-dekt-niet-altijd-de-hele-rekening/",
+                    "publishedDate": "24/11/2026 19:51"
                 }
             ],
             "belangrijkheid": 0
@@ -543,15 +555,19 @@
             "source": "nivel.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
-                    "source": "nivel.nl",
-                    "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
-                    "publishedDate": "25/11/2026 06:42"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
+            "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
+            "publishedDate": "25/11/2026 06:42",
+            "source": "nivel.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -763,12 +779,19 @@
             "title": "Zweedse investeerder zet privaat zorgbedrijf Equipe te koop - Het Financieele Dagblad",
             "link": "https://fd.nl/bedrijfsleven/1620492/zweedse-investeerder-zet-privaat-zorgbedrijf-equipe-te-koop",
             "publishedDate": "25/11/2026 02:00",
-            "source": "fd.nl",
+            "source": "fd.nl, tijd.be",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "GBL krijgt zijn grootste investering ooit rond: Italiaanse farmareus Recordati ingelijfd",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/ondernemen/farma-biotech/gbl-krijgt-zijn-grootste-investering-ooit-rond-italiaanse-farmareus-recordati-ingelijfd/10706828.html",
+                    "publishedDate": "24/11/2026 21:18"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "ze zijn welkom bij Wolly Wood in Oud-Zevenaar | Regio | De Gelderlander.nl",
@@ -819,24 +842,6 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorg zonder contract: ook 100% vergoeding dekt niet altijd de hele rekening",
-            "link": "https://persportaal.anp.nl/artikel/37f011bb-cc2d-4827-91e3-81031aa14cdb/zorg-zonder-contract-ook-100-vergoeding-dekt-niet-altijd-de-hele-rekening",
-            "publishedDate": "24/11/2026 23:28",
-            "source": "overstappen.nl, persportaal.anp.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Zorg zonder contract: ook 100% vergoeding dekt niet altijd de hele rekening",
-                    "source": "overstappen.nl",
-                    "link": "https://www.overstappen.nl/nieuws/zorg-zonder-contract-ook-100-procent-vergoeding-dekt-niet-altijd-de-hele-rekening/",
-                    "publishedDate": "24/11/2026 19:51"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -975,17 +980,6 @@
             "category": "Overig",
             "feed_label": "Alert eerstelijnszorg",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "GBL krijgt zijn grootste investering ooit rond: Italiaanse farmareus Recordati ingelijfd",
-            "link": "https://www.tijd.be/ondernemen/farma-biotech/gbl-krijgt-zijn-grootste-investering-ooit-rond-italiaanse-farmareus-recordati-ingelijfd/10706828.html",
-            "publishedDate": "24/11/2026 21:18",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1528,22 +1522,17 @@
             "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
             "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
             "publishedDate": "24/11/2026 15:42",
-            "source": "ed.nl",
+            "source": "ed.nl, limburger.nl, zuidlimburgvandaag.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Veertig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
-            "link": "https://www.limburger.nl/economie/veertig-banen-op-de-tocht-bij-maastrichtse-ggz-instellingen-serenity-en-olifant-in-totaal-zes-bvs-bankroet/165013034.html",
-            "publishedDate": "24/11/2026 15:30",
-            "source": "limburger.nl, zuidlimburgvandaag.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "Veertig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
+                    "source": "limburger.nl",
+                    "link": "https://www.limburger.nl/economie/veertig-banen-op-de-tocht-bij-maastrichtse-ggz-instellingen-serenity-en-olifant-in-totaal-zes-bvs-bankroet/165013034.html",
+                    "publishedDate": "24/11/2026 15:30"
+                },
                 {
                     "title": "Vijftig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
                     "source": "limburger.nl",
@@ -1850,7 +1839,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Langer thuis wonen vraagt om goede samenwerking | medischcontact",
@@ -1951,7 +1940,7 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
