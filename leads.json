@@ -20,7 +20,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Enschede maakt zich grote zorgen over jeugdzorg: 'Delen van het systeem zijn failliet'",
@@ -1038,15 +1038,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Onderzoek naar het vastleggen van een inhoudelijke afbakening van jeugdhulp in wet- en  regelgeving",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/10774c5e-f548-4ecf-af70-67009f81bfcc",
-                    "publishedDate": "24/11/2026 17:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1171,6 +1164,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Onderzoek naar het vastleggen van een inhoudelijke afbakening van jeugdhulp in wet- en  regelgeving",
+            "link": "https://open.overheid.nl/details/10774c5e-f548-4ecf-af70-67009f81bfcc",
+            "publishedDate": "24/11/2026 17:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Hoe de term 'verpleeghuis' uit de ouderenzorg verdwijnt. 'De afkeer voor de term is enorm ...",
             "link": "https://www.nrc.nl/nieuws/2026/11/24/hoe-de-term-verpleeghuis-uit-de-ouderenzorg-verdwijnt-de-afkeer-voor-de-term-is-enorm-groot-geworden-a4941535",
             "publishedDate": "24/11/2026 17:06",
@@ -1280,10 +1284,10 @@
             "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
             "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
             "publishedDate": "24/11/2026 16:14",
-            "source": "cnv.nl, fnv.nl, nl.headtopics.com, nu91.nl, omroepbrabant.nl, rtvdrenthe.nl, rtvfocuszwolle.nl",
+            "source": "cnv.nl, fnv.nl, nu91.nl, rtvdrenthe.nl, rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 10,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
@@ -1296,12 +1300,6 @@
                     "source": "fnv.nl",
                     "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
                     "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
-                    "publishedDate": "24/11/2026 13:05"
                 },
                 {
                     "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
@@ -1320,12 +1318,6 @@
                     "source": "cnv.nl",
                     "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
                     "publishedDate": "24/11/2026 11:08"
-                },
-                {
-                    "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
-                    "publishedDate": "24/11/2026 10:39"
                 },
                 {
                     "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
@@ -1650,6 +1642,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
+            "publishedDate": "24/11/2026 13:05",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Langer thuis wonen vraagt om goede samenwerking | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/federatienieuws/federatiebericht/langer-thuis-wonen-vraagt-om-goede-samenwerking",
             "publishedDate": "24/11/2026 12:31",
@@ -1778,6 +1781,17 @@
             "publishedDate": "24/11/2026 10:40",
             "source": "gelderlander.nl",
             "category": "Regionale Media",
+            "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
+            "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
+            "publishedDate": "24/11/2026 10:39",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
