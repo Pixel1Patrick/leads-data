@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Rectificatie van Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte (RVG 30759)",
+            "link": "https://open.overheid.nl/details/oep-ob-62a223f6b66ce873e21df55dd57b420e05fab45c_8",
+            "publishedDate": "25/11/2026 11:59",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Pharming zet productie medicijn stop na niet-geslaagde test - Nieuws.nl",
             "link": "https://nieuws.nl/economie/pharming-zet-productie-medicijn-stop-na-niet-geslaagde-test",
             "publishedDate": "25/11/2026 11:34",
@@ -43,17 +54,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 19 november 2026, kenmerk 2026-3216634/IT2114610, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Gonasi 5000 IE, poeder en oplosmiddel voor oplossing voor injectie (RVG 125838)",
-            "link": "https://open.overheid.nl/details/oep-ob-787794d1f8b852141b50e1763b5cb265628bce8d_6",
-            "publishedDate": "25/11/2026 11:31",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Apothekers slaan alarm, medicijntekorten lopen op: 'Meerdere keren per dag staan hier ...",
             "link": "https://www.telegraaf.nl/binnenland/apothekers-slaan-alarm-medicijntekorten-lopen-op-meerdere-keren-per-dag-staan-hier-boze-patienten-aan-de-balie/164804460.html",
             "publishedDate": "25/11/2026 11:16",
@@ -68,22 +68,48 @@
             "title": "Reactie LHV op Nivel-rapport over dwingende controle",
             "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
             "publishedDate": "25/11/2026 11:11",
-            "source": "lhv.nl",
+            "source": "lhv.nl, nivel.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
+                    "source": "nivel.nl",
+                    "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
+                    "publishedDate": "25/11/2026 06:47"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Prostaatkanker: deze nieuwe generatie medicijnen zou alles kunnen veranderen, volgens ...",
             "link": "https://www.futura-sciences.com/nl/prostaatkanker-deze-nieuwe-generatie-medicijnen-zou-alles-kunnen-veranderen-volgens-onderzoekers-a2_26452/",
             "publishedDate": "25/11/2026 10:38",
-            "source": "futura-sciences.com",
+            "source": "ad.nl, bndestem.nl, destentor.nl, futura-sciences.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Een radioactieve 'kogel' recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/gezond/een-radioactieve-kogel-recht-op-de-tumor-de-nieuwe-mogelijkheden-bij-prostaatkanker~ad67ad86/",
+                    "publishedDate": "25/11/2026 07:16"
+                },
+                {
+                    "title": "Een radioactieve 'kogel' recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/gezond/een-radioactieve-kogel-recht-op-de-tumor-de-nieuwe-mogelijkheden-bij-prostaatkanker~ad67ad86/",
+                    "publishedDate": "24/11/2026 13:17"
+                },
+                {
+                    "title": "Een radioactieve 'kogel' recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/gezond/een-radioactieve-kogel-recht-op-de-tumor-de-nieuwe-mogelijkheden-bij-prostaatkanker~ad67ad86/",
+                    "publishedDate": "24/11/2026 13:17"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -112,11 +138,42 @@
             "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
             "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
             "publishedDate": "25/11/2026 10:19",
-            "source": "zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, nl.headtopics.com, omroepbrabant.nl, zorgwelzijn.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 7,
+            "extra_bronnen": [
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
+                {
+                    "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
+                    "publishedDate": "24/11/2026 13:05"
+                },
+                {
+                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+                    "publishedDate": "24/11/2026 11:08"
+                },
+                {
+                    "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
+                    "publishedDate": "24/11/2026 10:39"
+                },
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -145,30 +202,11 @@
             "title": "Acht aanhoudingen in onderzoek naar miljoenenfraude via zorgbureaus en zzp'ers",
             "link": "https://www.accountancyvanmorgen.nl/2026/11/25/acht-aanhoudingen-in-onderzoek-naar-miljoenenfraude-via-zorgbureaus-en-zzpers/",
             "publishedDate": "25/11/2026 09:30",
-            "source": "accountancyvanmorgen.nl, cedarnews.net, drimble.nl, nos.nl",
+            "source": "accountancyvanmorgen.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
-                    "publishedDate": "25/11/2026 01:32"
-                },
-                {
-                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
-                    "source": "cedarnews.net",
-                    "link": "https://cedarnews.net/nederlands/1190765/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel/",
-                    "publishedDate": "24/11/2026 20:02"
-                },
-                {
-                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
-                    "publishedDate": "24/11/2026 19:49"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -197,11 +235,18 @@
             "title": "Vaccin tegen hepatitis A komt structureel beschikbaar voor mannen die seks hebben met mannen",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/vaccin-tegen-hepatitis-a-komt-structureel-beschikbaar-voor-mannen-die-seks-hebben-met-mannen/",
             "publishedDate": "25/11/2026 08:56",
-            "source": "nationalezorggids.nl",
+            "source": "gezondheidsraad.nl, nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
+                    "source": "gezondheidsraad.nl",
+                    "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
+                    "publishedDate": "24/11/2026 11:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -289,30 +334,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Een radioactieve 'kogel' recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker",
-            "link": "https://www.ad.nl/gezond/een-radioactieve-kogel-recht-op-de-tumor-de-nieuwe-mogelijkheden-bij-prostaatkanker~ad67ad86/",
-            "publishedDate": "25/11/2026 07:16",
-            "source": "ad.nl, bndestem.nl, destentor.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Een radioactieve 'kogel' recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/gezond/een-radioactieve-kogel-recht-op-de-tumor-de-nieuwe-mogelijkheden-bij-prostaatkanker~ad67ad86/",
-                    "publishedDate": "24/11/2026 13:17"
-                },
-                {
-                    "title": "Een radioactieve 'kogel' recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/gezond/een-radioactieve-kogel-recht-op-de-tumor-de-nieuwe-mogelijkheden-bij-prostaatkanker~ad67ad86/",
-                    "publishedDate": "24/11/2026 13:17"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "'Fit Note' komt eraan: huisarts geeft vanaf september aan wat pati\u00ebnt nog kan doen tijdens ziekte",
             "link": "https://m.youtube.com/source/-RiXnv2FCDg/shorts?bp=8gVDCjYSJwoLLVJpWG52MkZDRGcSCy1SaVhudjJGQ0RnGgstUmlYbnYyRkNEZxoLLVJpWG52MkZDRGco9tW9v6yck7v2AQ%253D%253D",
             "publishedDate": "25/11/2026 07:14",
@@ -340,17 +361,6 @@
             "publishedDate": "25/11/2026 07:04",
             "source": "rtl.nl",
             "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
-            "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
-            "publishedDate": "25/11/2026 06:47",
-            "source": "nivel.nl",
-            "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -404,11 +414,18 @@
             "title": "Warme momenten op de dienst Geriatrie van het AZ Sint-Jan, met dank aan leerlingen KTA Brugge",
             "link": "https://www.hetnieuwsvanwestvlaanderen.be/warme-momenten-op-de-dienst-geriatrie-van-het-az-sint-jan-met-dank-aan-leerlingen-kta-brugge/",
             "publishedDate": "25/11/2026 06:10",
-            "source": "hetnieuwsvanwestvlaanderen.be",
+            "source": "hetnieuwsvanwestvlaanderen.be, lokaalnieuws.online",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Leerlingen van KTA Brugge verwennen oudere pati\u00ebnten in het AZ Sint-Jan",
+                    "source": "lokaalnieuws.online",
+                    "link": "https://www.lokaalnieuws.online/2026/11/24/brugge-kta-leerlingen-geriatrie-az-sint-jan-week-van-de-ouderenzorg/",
+                    "publishedDate": "24/11/2026 10:51"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -617,6 +634,54 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
+            "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
+            "publishedDate": "25/11/2026 01:32",
+            "source": "cedarnews.net, drimble.nl, nos.nl, sun.sr",
+            "category": "Overig",
+            "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 7,
+            "extra_bronnen": [
+                {
+                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
+                    "source": "cedarnews.net",
+                    "link": "https://cedarnews.net/nederlands/1190765/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel/",
+                    "publishedDate": "24/11/2026 20:02"
+                },
+                {
+                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
+                    "publishedDate": "24/11/2026 19:49"
+                },
+                {
+                    "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+                    "publishedDate": "24/11/2026 22:31"
+                },
+                {
+                    "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
+                    "publishedDate": "24/11/2026 16:41"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "ze zijn welkom bij Wolly Wood in Oud-Zevenaar | Regio | De Gelderlander.nl",
             "link": "https://www.gelderlander.nl/zevenaar/een-geit-met-hersenschade-een-dove-alpaca-en-drie-kamelen-ze-zijn-welkom-bij-wolly-wood-in-oud-zevenaar~a076ddea/",
             "publishedDate": "25/11/2026 01:03",
@@ -631,10 +696,10 @@
             "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
             "link": "https://www.bndestem.nl/hoeksche-waard/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
             "publishedDate": "25/11/2026 01:01",
-            "source": "ad.nl, bndestem.nl, gelderlander.nl",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl, nl24.nu",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
@@ -647,24 +712,36 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/binnenland/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
                     "publishedDate": "24/11/2026 20:33"
+                },
+                {
+                    "title": "Diederik Gommers per direct weg als ic-hoofd na vernietigend rapport over werkcultuur",
+                    "source": "nl24.nu",
+                    "link": "https://nl24.nu/artikel/diederik-gommers-per-direct-weg-als-ic-hoofd-na-vernietigend-rapport-over-werkcultuur",
+                    "publishedDate": "24/11/2026 20:49"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
             "link": "https://www.gelderlander.nl/binnenland/pal-naast-onze-slaapkamer-echtpaar-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
             "publishedDate": "25/11/2026 00:54",
-            "source": "ad.nl, gelderlander.nl",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "'Pal naast onze slaapkamer': echtpaar in Middelburg wil geld zien voor inkijk en constante ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/middelburg/pal-naast-onze-slaapkamer-echtpaar-in-middelburg-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
                     "publishedDate": "24/11/2026 16:03"
+                },
+                {
+                    "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
+                    "publishedDate": "24/11/2026 18:01"
                 }
             ],
             "belangrijkheid": 0
@@ -710,28 +787,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
-            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
-            "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
-            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
-            "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Masterclass regeldruk: 'het nieuwe normaal van ontregelen' - NVZ-ziekenhuizen.nl",
             "link": "https://nvz-ziekenhuizen.nl/events-trainingen/masterclass-regeldruk-het-nieuwe-normaal-van-ontregelen",
             "publishedDate": "24/11/2026 23:22",
@@ -746,11 +801,18 @@
             "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Drimble",
             "link": "https://drimble.nl/regio/noord-brabant/eindhoven/108702527/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven.html",
             "publishedDate": "24/11/2026 23:18",
-            "source": "drimble.nl",
+            "source": "drimble.nl, ed.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
+                    "publishedDate": "24/11/2026 15:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -801,17 +863,6 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-            "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-            "publishedDate": "24/11/2026 22:31",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -924,17 +975,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Diederik Gommers per direct weg als ic-hoofd na vernietigend rapport over werkcultuur",
-            "link": "https://nl24.nu/artikel/diederik-gommers-per-direct-weg-als-ic-hoofd-na-vernietigend-rapport-over-werkcultuur",
-            "publishedDate": "24/11/2026 20:49",
-            "source": "nl24.nu",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Barbotagebehandeling - In het kort - Gelre ziekenhuizen",
@@ -1113,17 +1153,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
-            "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
-            "publishedDate": "24/11/2026 18:01",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Cranendonck mikt op 4300 woningen, waarvan mogelijk 2300 in Maarheeze | Regio | ED.nl",
             "link": "https://www.ed.nl/cranendonck/cranendonck-mikt-op-4300-woningen-waarvan-mogelijk-2300-in-maarheeze~accb0fc5/",
             "publishedDate": "24/11/2026 17:51",
@@ -1190,17 +1219,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Literatuuronderzoek jeugdhulpgebruik en aanpalende domeinen",
-            "link": "https://open.overheid.nl/details/e765ad60-2ad5-499b-abd0-073146ae91cf",
-            "publishedDate": "24/11/2026 17:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Advies betekenisvol monitoren beweging Stevige Lokale Teams",
             "link": "https://open.overheid.nl/details/d70e731a-d69f-4e0e-926b-c0c782e6a35f",
             "publishedDate": "24/11/2026 17:07",
@@ -1225,17 +1243,6 @@
         {
             "title": "Ruimte voor minder administratie",
             "link": "https://open.overheid.nl/details/aea59ad7-4f6d-4f99-88bc-dad2f0206e60",
-            "publishedDate": "24/11/2026 17:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Op weg naar landelijk vergelijkbare beleidsinformatie",
-            "link": "https://open.overheid.nl/details/c396dc6f-1d8e-4679-83ba-16a1fae4adba",
             "publishedDate": "24/11/2026 17:07",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1362,17 +1369,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
-            "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
-            "publishedDate": "24/11/2026 16:41",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Amerikaanse SEH-verpleegkundigen veelvuldig slachtoffer van agressie | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/amerikaanse-seh-verpleegkundigen-veelvuldig-slachtoffer-van-agressie",
             "publishedDate": "24/11/2026 16:32",
@@ -1434,17 +1430,6 @@
             "source": "despecialist.eu",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
-            "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
-            "publishedDate": "24/11/2026 15:42",
-            "source": "ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1734,17 +1719,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-            "publishedDate": "24/11/2026 13:47",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Kosten dure jeugdzorg in twee jaar tijd meer dan verdubbeld - Centraal+",
             "link": "https://centraalplus.nl/2026/11/24/kosten-dure-jeugdzorg-in-twee-jaar-tijd-meer-dan-verdubbeld/",
             "publishedDate": "24/11/2026 13:45",
@@ -1773,17 +1747,6 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
-            "publishedDate": "24/11/2026 13:05",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1857,55 +1820,11 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-            "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-            "publishedDate": "24/11/2026 11:08",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
-            "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
-            "publishedDate": "24/11/2026 11:00",
-            "source": "gezondheidsraad.nl",
-            "category": "Overig",
-            "feed_label": "Gezondheidsraad",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Leerlingen van KTA Brugge verwennen oudere pati\u00ebnten in het AZ Sint-Jan",
-            "link": "https://www.lokaalnieuws.online/2026/11/24/brugge-kta-leerlingen-geriatrie-az-sint-jan-week-van-de-ouderenzorg/",
-            "publishedDate": "24/11/2026 10:51",
-            "source": "lokaalnieuws.online",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "'Sorry, dit product is helaas niet leverbaar': de bizarre stroopwafeloorlog escaleert - De Gelderlander",
             "link": "https://www.gelderlander.nl/overbetuwe/sorry-dit-product-is-helaas-niet-leverbaar-de-bizarre-stroopwafeloorlog-escaleert~a16f0d80/",
             "publishedDate": "24/11/2026 10:40",
             "source": "gelderlander.nl",
             "category": "Regionale Media",
-            "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
-            "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
-            "publishedDate": "24/11/2026 10:39",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1987,17 +1906,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-            "publishedDate": "24/11/2026 07:00",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "LHV kritisch op terugvorderen van eerder betaalde declaraties",
