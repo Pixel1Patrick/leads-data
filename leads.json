@@ -49,7 +49,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Enschede maakt zich grote zorgen over jeugdzorg: 'Delen van het systeem zijn failliet'",
@@ -174,17 +174,22 @@
             "title": "Huisarts kan meer doen tegen onzichtbare relatieterreur: 'Slachtoffers ge\u00efsoleerd en gemanipuleerd'",
             "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5666723/huisartsen-dwingende-controle-intieme-terreur-femicide",
             "publishedDate": "25/11/2026 07:04",
-            "source": "nivel.nl, rtl.nl",
+            "source": "rtl.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
+            "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
+            "publishedDate": "25/11/2026 06:47",
+            "source": "nivel.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
             "extra_bronnen": [
-                {
-                    "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
-                    "source": "nivel.nl",
-                    "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
-                    "publishedDate": "25/11/2026 06:47"
-                },
                 {
                     "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
                     "source": "nivel.nl",
@@ -231,18 +236,11 @@
             "title": "Warme momenten op de dienst Geriatrie van het AZ Sint-Jan, met dank aan leerlingen KTA Brugge",
             "link": "https://www.hetnieuwsvanwestvlaanderen.be/warme-momenten-op-de-dienst-geriatrie-van-het-az-sint-jan-met-dank-aan-leerlingen-kta-brugge/",
             "publishedDate": "25/11/2026 06:10",
-            "source": "hetnieuwsvanwestvlaanderen.be, lokaalnieuws.online",
+            "source": "hetnieuwsvanwestvlaanderen.be",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Leerlingen van KTA Brugge verwennen oudere pati\u00ebnten in het AZ Sint-Jan",
-                    "source": "lokaalnieuws.online",
-                    "link": "https://www.lokaalnieuws.online/2026/11/24/brugge-kta-leerlingen-geriatrie-az-sint-jan-week-van-de-ouderenzorg/",
-                    "publishedDate": "24/11/2026 10:51"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -388,18 +386,11 @@
             "title": "Omstreden jongerenkerk Go Church houdt bijeenkomst in kapel van UZ Gent: ziekenhuis grijpt in",
             "link": "https://www.pzc.nl/gent/omstreden-jongerenkerk-go-church-houdt-bijeenkomst-in-kapel-van-uz-gent-ziekenhuis-grijpt-in~a03bcd5c/",
             "publishedDate": "25/11/2026 02:54",
-            "source": "demorgen.be, pzc.nl",
+            "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
-                    "source": "demorgen.be",
-                    "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
-                    "publishedDate": "24/11/2026 19:31"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -496,10 +487,10 @@
             "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
             "link": "https://www.bndestem.nl/hoeksche-waard/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
             "publishedDate": "25/11/2026 01:01",
-            "source": "ad.nl, bndestem.nl, gelderlander.nl, igj.nl, nl24.nu",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
@@ -512,42 +503,24 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/binnenland/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
                     "publishedDate": "24/11/2026 20:33"
-                },
-                {
-                    "title": "Diederik Gommers per direct weg als ic-hoofd na vernietigend rapport over werkcultuur",
-                    "source": "nl24.nu",
-                    "link": "https://nl24.nu/artikel/diederik-gommers-per-direct-weg-als-ic-hoofd-na-vernietigend-rapport-over-werkcultuur",
-                    "publishedDate": "24/11/2026 20:49"
-                },
-                {
-                    "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
-                    "source": "igj.nl",
-                    "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
-                    "publishedDate": "23/11/2026 18:15"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
             "link": "https://www.gelderlander.nl/binnenland/pal-naast-onze-slaapkamer-echtpaar-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
             "publishedDate": "25/11/2026 00:54",
-            "source": "ad.nl, bndestem.nl, gelderlander.nl",
+            "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "'Pal naast onze slaapkamer': echtpaar in Middelburg wil geld zien voor inkijk en constante ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/middelburg/pal-naast-onze-slaapkamer-echtpaar-in-middelburg-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
                     "publishedDate": "24/11/2026 16:03"
-                },
-                {
-                    "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
-                    "publishedDate": "24/11/2026 18:01"
                 }
             ],
             "belangrijkheid": 0
@@ -813,6 +786,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Diederik Gommers per direct weg als ic-hoofd na vernietigend rapport over werkcultuur",
+            "link": "https://nl24.nu/artikel/diederik-gommers-per-direct-weg-als-ic-hoofd-na-vernietigend-rapport-over-werkcultuur",
+            "publishedDate": "24/11/2026 20:49",
+            "source": "nl24.nu",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Barbotagebehandeling - In het kort - Gelre ziekenhuizen",
             "link": "https://www.gelreziekenhuizen.nl/patient/folder/8fb2303b-c464-4cc6-a018-298662bb9243/15f136ef-ddf5-4382-8a37-834894103c0f",
             "publishedDate": "24/11/2026 20:47",
@@ -871,18 +855,11 @@
             "title": "Ggz-wachttijden Groningen en Lentis: cli\u00ebnten kampen met psychische crisis - Head Topics",
             "link": "https://nl.headtopics.com/news/ggz-wachttijden-groningen-en-lentis-clienten-kampen-met-90150813",
             "publishedDate": "24/11/2026 19:59",
-            "source": "nl.headtopics.com, rtvnoord.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Groningers wachten maandenlang op ggz-behandeling: 'Voor hen staat het leven stil'",
-                    "source": "rtvnoord.nl",
-                    "link": "https://www.rtvnoord.nl/zorg/1454779/groningers-wachten-maandenlang-op-ggz-behandeling-voor-hen-staat-het-leven-stil",
-                    "publishedDate": "24/11/2026 19:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -914,6 +891,17 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
+            "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
+            "publishedDate": "24/11/2026 19:31",
+            "source": "demorgen.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -963,6 +951,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Groningers wachten maandenlang op ggz-behandeling: 'Voor hen staat het leven stil'",
+            "link": "https://www.rtvnoord.nl/zorg/1454779/groningers-wachten-maandenlang-op-ggz-behandeling-voor-hen-staat-het-leven-stil",
+            "publishedDate": "24/11/2026 19:07",
+            "source": "rtvnoord.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Universiteit Leiden opent Kenniscentrum Gendergeweld - Centraal+",
             "link": "https://centraalplus.nl/2026/11/24/universiteit-leiden-opent-kenniscentrum-gendergeweld/",
             "publishedDate": "24/11/2026 19:01",
@@ -991,6 +990,17 @@
             "source": "rtvmiddenholland.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
+            "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
+            "publishedDate": "24/11/2026 18:01",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1035,15 +1045,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Onderzoek naar het vastleggen van een inhoudelijke afbakening van jeugdhulp in wet- en  regelgeving",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/10774c5e-f548-4ecf-af70-67009f81bfcc",
-                    "publishedDate": "24/11/2026 17:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1168,6 +1171,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Onderzoek naar het vastleggen van een inhoudelijke afbakening van jeugdhulp in wet- en  regelgeving",
+            "link": "https://open.overheid.nl/details/10774c5e-f548-4ecf-af70-67009f81bfcc",
+            "publishedDate": "24/11/2026 17:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Hoe de term 'verpleeghuis' uit de ouderenzorg verdwijnt. 'De afkeer voor de term is enorm ...",
             "link": "https://www.nrc.nl/nieuws/2026/11/24/hoe-de-term-verpleeghuis-uit-de-ouderenzorg-verdwijnt-de-afkeer-voor-de-term-is-enorm-groot-geworden-a4941535",
             "publishedDate": "24/11/2026 17:06",
@@ -1277,60 +1291,11 @@
             "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
             "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
             "publishedDate": "24/11/2026 16:14",
-            "source": "cnv.nl, fnv.nl, nl.headtopics.com, nu91.nl, omroepbrabant.nl, rtvdrenthe.nl, rtvfocuszwolle.nl",
+            "source": "rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 10,
-            "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
-                    "publishedDate": "24/11/2026 13:05"
-                },
-                {
-                    "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/amp/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
-                    "publishedDate": "24/11/2026 12:48"
-                },
-                {
-                    "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
-                    "publishedDate": "24/11/2026 12:48"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
-                },
-                {
-                    "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
-                    "publishedDate": "24/11/2026 10:39"
-                },
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1366,7 +1331,7 @@
                     "publishedDate": "24/11/2026 13:31"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Elise Draijer (Stimular): 'Voedselverspilling in de zorg: een derde van het restafval is swill'",
@@ -1536,15 +1501,8 @@
             "source": "tijd.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Sanofi legt 41 miljard dollar op tafel voor Amerikaans Insmed - De Tijd",
-                    "source": "tijd.be",
-                    "link": "https://www.tijd.be/ondernemen/farma-biotech/sanofi-legt-41-miljard-dollar-op-tafel-voor-amerikaans-insmed/10706705.html",
-                    "publishedDate": "24/11/2026 10:03"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1567,7 +1525,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Wat is het gemiddelde salaris van een huisarts anno 2026?",
@@ -1579,6 +1537,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Twaalf VVT-organisaties bundelen krachten rond AI | ICT&amp;health",
@@ -1625,6 +1594,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+            "publishedDate": "24/11/2026 13:47",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Kosten dure jeugdzorg in twee jaar tijd meer dan verdubbeld - Centraal+",
             "link": "https://centraalplus.nl/2026/11/24/kosten-dure-jeugdzorg-in-twee-jaar-tijd-meer-dan-verdubbeld/",
             "publishedDate": "24/11/2026 13:45",
@@ -1656,6 +1636,35 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
+            "publishedDate": "24/11/2026 13:05",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
+            "link": "https://www.rtvdrenthe.nl/amp/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
+            "publishedDate": "24/11/2026 12:48",
+            "source": "rtvdrenthe.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
+                    "publishedDate": "24/11/2026 12:48"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Langer thuis wonen vraagt om goede samenwerking | medischcontact",
@@ -1759,6 +1768,28 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+            "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+            "publishedDate": "24/11/2026 11:08",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Leerlingen van KTA Brugge verwennen oudere pati\u00ebnten in het AZ Sint-Jan",
+            "link": "https://www.lokaalnieuws.online/2026/11/24/brugge-kta-leerlingen-geriatrie-az-sint-jan-week-van-de-ouderenzorg/",
+            "publishedDate": "24/11/2026 10:51",
+            "source": "lokaalnieuws.online",
+            "category": "Overig",
+            "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Longpunt Voorne-Putten &amp; Rozenburg over Inhalatiemedicatie",
             "link": "https://www.voorne-putten.nl/agenda/2026/11/26/longpunt-voorne-putten-rozenburg-over-inhalatiemedicatie-230823",
             "publishedDate": "24/11/2026 10:46",
@@ -1775,6 +1806,17 @@
             "publishedDate": "24/11/2026 10:40",
             "source": "gelderlander.nl",
             "category": "Regionale Media",
+            "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
+            "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
+            "publishedDate": "24/11/2026 10:39",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1820,6 +1862,17 @@
             "source": "sociaalweb.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Sanofi legt 41 miljard dollar op tafel voor Amerikaans Insmed - De Tijd",
+            "link": "https://www.tijd.be/ondernemen/farma-biotech/sanofi-legt-41-miljard-dollar-op-tafel-voor-amerikaans-insmed/10706705.html",
+            "publishedDate": "24/11/2026 10:03",
+            "source": "tijd.be",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1880,6 +1933,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+            "publishedDate": "24/11/2026 07:00",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "LHV kritisch op terugvorderen van eerder betaalde declaraties",
             "link": "https://www.lhv.nl/nieuws/lhv-kritisch-op-terugvorderen-van-eerder-betaalde-declaraties/",
             "publishedDate": "24/11/2026 06:33",
@@ -1898,6 +1962,17 @@
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Onderzoek intensive Care Volwassenen van het Erasmus MC in Rotterdam",
+            "link": "https://www.igj.nl/actueel/nieuws/2026/11/23/onderzoek-intensive-care-volwassenen-erasmusmc-in-rotterdam",
+            "publishedDate": "23/11/2026 18:15",
+            "source": "igj.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "IGJ Nieuws",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
