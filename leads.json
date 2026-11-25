@@ -4,18 +4,11 @@
             "title": "Reactie LHV op Nivel-rapport over dwingende controle",
             "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
             "publishedDate": "25/11/2026 11:11",
-            "source": "lhv.nl, nivel.nl",
+            "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
-                    "source": "nivel.nl",
-                    "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
-                    "publishedDate": "25/11/2026 06:47"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -55,11 +48,23 @@
             "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
             "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
             "publishedDate": "25/11/2026 10:19",
-            "source": "cnv.nl, fnv.nl, nl.headtopics.com, omroepbrabant.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, nl.headtopics.com, nu91.nl, omroepbrabant.nl, rtvfocuszwolle.nl, zorgwelzijn.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 7,
+            "duplicate_count": 9,
             "extra_bronnen": [
+                {
+                    "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
+                    "source": "rtvfocuszwolle.nl",
+                    "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
+                    "publishedDate": "24/11/2026 16:14"
+                },
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -170,18 +175,11 @@
             "title": "Enschede maakt zich grote zorgen over jeugdzorg: 'Delen van het systeem zijn failliet'",
             "link": "https://www.1twente.nl/artikel/6424349/enschede-maakt-zich-grote-zorgen-over-jeugdzorg-delen-van-het-systeem-zijn-failliet",
             "publishedDate": "25/11/2026 08:23",
-            "source": "1twente.nl, rtvnoord.nl",
+            "source": "1twente.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Groningers wachten maandenlang op ggz-behandeling: 'Voor hen staat het leven stil'",
-                    "source": "rtvnoord.nl",
-                    "link": "https://www.rtvnoord.nl/zorg/1454779/groningers-wachten-maandenlang-op-ggz-behandeling-voor-hen-staat-het-leven-stil",
-                    "publishedDate": "24/11/2026 19:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -298,6 +296,17 @@
             "publishedDate": "25/11/2026 07:04",
             "source": "rtl.nl",
             "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
+            "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
+            "publishedDate": "25/11/2026 06:47",
+            "source": "nivel.nl",
+            "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -585,7 +594,7 @@
                     "publishedDate": "24/11/2026 19:49"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "ze zijn welkom bij Wolly Wood in Oud-Zevenaar | Regio | De Gelderlander.nl",
@@ -1039,6 +1048,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Groningers wachten maandenlang op ggz-behandeling: 'Voor hen staat het leven stil'",
+            "link": "https://www.rtvnoord.nl/zorg/1454779/groningers-wachten-maandenlang-op-ggz-behandeling-voor-hen-staat-het-leven-stil",
+            "publishedDate": "24/11/2026 19:07",
+            "source": "rtvnoord.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Universiteit Leiden opent Kenniscentrum Gendergeweld - Centraal+",
             "link": "https://centraalplus.nl/2026/11/24/universiteit-leiden-opent-kenniscentrum-gendergeweld/",
             "publishedDate": "24/11/2026 19:01",
@@ -1188,21 +1208,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
-                    "publishedDate": "24/11/2026 15:15"
-                },
-                {
-                    "title": "Kamerbrief inzake Commentaar NVZ en meerdere organisaties t.b.v. debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet in verband met digitale identificatie en authenticatie in de zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/46c280bd-bf80-4e49-a360-bcb7200c6dfe",
-                    "publishedDate": "24/11/2026 15:15"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1356,17 +1363,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
-            "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
-            "publishedDate": "24/11/2026 16:14",
-            "source": "rtvfocuszwolle.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Al 30 procent meer griepvaccins toegediend door Vlaamse apothekers - De Specialist",
             "link": "https://www.despecialist.eu/nl/nieuws/grippe-30-de-vaccins-supplementaires-administres-par-les-pharmaciens-flamands.html",
             "publishedDate": "24/11/2026 16:14",
@@ -1432,6 +1428,24 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
+            "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
+            "publishedDate": "24/11/2026 15:15",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Commentaar NVZ en meerdere organisaties t.b.v. debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet in verband met digitale identificatie en authenticatie in de zorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/46c280bd-bf80-4e49-a360-bcb7200c6dfe",
+                    "publishedDate": "24/11/2026 15:15"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1587,17 +1601,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Twaalf VVT-organisaties bundelen krachten rond AI | ICT&amp;health",
