@@ -1,6 +1,24 @@
 {
     "artikelen": [
         {
+            "title": "ZAS: &quot;Bespaar op structuren, niet op zorg&quot; - Artsenkrant",
+            "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2648S29_00",
+            "publishedDate": "25/11/2026 22:44",
+            "source": "artsenkrant.pmg.be, despecialist.eu",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "ZAS: &quot;Bespaar op verouderde ziekenhuisstructuren, niet op de zorg&quot; - De Specialist",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/zas-bespaar-op-verouderde-ziekenhuisstructuren-niet-op-de-zorg.html",
+                    "publishedDate": "25/11/2026 18:13"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Gerard (66) is chauffeur voor de huisartsenpost: 'We zijn binnen de medische wereld amper bekend'",
             "link": "https://www.bd.nl/waalwijk/gerard-66-is-chauffeur-voor-de-huisartsenpost-we-zijn-binnen-de-medische-wereld-amper-bekend~ae37b385/",
             "publishedDate": "25/11/2026 22:25",
@@ -101,24 +119,11 @@
             "title": "MAHA 2026: honoraria schragen ziekenhuisomzet, daghospitaal blijft groeien - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2648E03/EAKbe2648S28_00",
             "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be, gibbis.be",
+            "source": "artsenkrant.pmg.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
-                    "source": "artsenkrant.pmg.be",
-                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
-                    "publishedDate": "25/11/2026 21:01"
-                },
-                {
-                    "title": "MAHA-studie 2026: ziekenhuizen zijn volop in transformatie, maar hebben ondersteuning nodig",
-                    "source": "gibbis.be",
-                    "link": "https://www.gibbis.be/nl/press/item/6786-maha-studie-2026-ziekenhuizen-zijn-volop-in-transformatie-maar-hebben-ondersteuning-nodig",
-                    "publishedDate": "25/11/2026 17:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -133,15 +138,39 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Een op de vier ziekenhuizen in de cashproblemen: symptoom van een breder zorgprobleem?",
-            "link": "https://www.reddit.com/r/belgium/comments/1y5e3u7/een_op_de_vier_ziekenhuizen_in_de_cashproblemen/",
-            "publishedDate": "25/11/2026 20:54",
-            "source": "reddit.com",
+            "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
+            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
+            "publishedDate": "25/11/2026 21:01",
+            "source": "artsenkrant.pmg.be",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
+            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Een op de vier ziekenhuizen in de cashproblemen: symptoom van een breder zorgprobleem?",
+            "link": "https://www.reddit.com/r/belgium/comments/1y5e3u7/een_op_de_vier_ziekenhuizen_in_de_cashproblemen/",
+            "publishedDate": "25/11/2026 20:54",
+            "source": "dekrantenkoppen.be, reddit.com, tijd.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Kwart ziekenhuizen heeft onvoldoende cash om schulden te betalen - De Tijd",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/politiek-economie/belgie/federaal/kwart-ziekenhuizen-heeft-onvoldoende-cash-om-schulden-te-betalen/10706879",
+                    "publishedDate": "25/11/2026 19:07"
+                },
+                {
+                    "title": "Ziekenhuizen noteren voor vierde jaar op rij rode cijfers. CEO van grootste ... - Krantenkoppen",
+                    "source": "dekrantenkoppen.be",
+                    "link": "https://www.dekrantenkoppen.be/detail/4003763/ziekenhuizen-noteren-voor-vierde-jaar-op-rij-rode-cijfers-ceo-van-grootste-ziekenhuis-van-het-land-trekt-aan-alarmbel-er-komt-een-breekpunt.html",
+                    "publishedDate": "25/11/2026 17:41"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
@@ -271,24 +300,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Kwart ziekenhuizen heeft onvoldoende cash om schulden te betalen - De Tijd",
-            "link": "https://www.tijd.be/politiek-economie/belgie/federaal/kwart-ziekenhuizen-heeft-onvoldoende-cash-om-schulden-te-betalen/10706879",
-            "publishedDate": "25/11/2026 19:07",
-            "source": "dekrantenkoppen.be, tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Ziekenhuizen noteren voor vierde jaar op rij rode cijfers. CEO van grootste ... - Krantenkoppen",
-                    "source": "dekrantenkoppen.be",
-                    "link": "https://www.dekrantenkoppen.be/detail/4003763/ziekenhuizen-noteren-voor-vierde-jaar-op-rij-rode-cijfers-ceo-van-grootste-ziekenhuis-van-het-land-trekt-aan-alarmbel-er-komt-een-breekpunt.html",
-                    "publishedDate": "25/11/2026 17:41"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Van overspel naar kanonnenvoer: hoe Andrej Zvyagintsev in Minotaur het moreel failliete ...",
             "link": "https://www.parool.nl/film/van-overspel-naar-kanonnenvoer-hoe-andrej-zvyagintsev-in-minotaur-het-moreel-failliete-rusland-ontleedt~bd82e32d2/",
             "publishedDate": "25/11/2026 19:07",
@@ -388,17 +399,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "ZAS: &quot;Bespaar op verouderde ziekenhuisstructuren, niet op de zorg&quot; - De Specialist",
-            "link": "https://www.despecialist.eu/nl/nieuws/zas-bespaar-op-verouderde-ziekenhuisstructuren-niet-op-de-zorg.html",
-            "publishedDate": "25/11/2026 18:13",
-            "source": "despecialist.eu",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare",
             "publishedDate": "25/11/2026 18:08",
@@ -456,6 +456,17 @@
             "source": "zonmw.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "MAHA-studie 2026: ziekenhuizen zijn volop in transformatie, maar hebben ondersteuning nodig",
+            "link": "https://www.gibbis.be/nl/press/item/6786-maha-studie-2026-ziekenhuizen-zijn-volop-in-transformatie-maar-hebben-ondersteuning-nodig",
+            "publishedDate": "25/11/2026 17:43",
+            "source": "gibbis.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -625,28 +636,16 @@
             "title": "Nieuwe bedden Tergooi MC maken leven van pati\u00ebnten \u00e9n verpleegkundigen makkelijker",
             "link": "https://www.gooisemerennieuws.nl/zorg-gezondheid/zorg-gezondheid/383445/nieuwe-bedden-tergooi-mc-maken-leven-van-patienten-en-verpleegkundigen-makkelijker-de-rolls-royce-onder-de-bedden-qv27dc",
             "publishedDate": "25/11/2026 16:42",
-            "source": "at5.nl, gooisemerennieuws.nl, hilversumsnieuws.nl, nhnieuws.nl",
+            "source": "gooisemerennieuws.nl, hilversumsnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Nieuwe bedden Tergooi MC maken leven van pati\u00ebnten \u00e9n verpleegkundigen makkelijker",
                     "source": "hilversumsnieuws.nl",
                     "link": "https://www.hilversumsnieuws.nl/zorg-gezondheid/zorg-gezondheid/383423/nieuwe-bedden-tergooi-mc-maken-leven-van-patienten-en-verpleegkundigen-makkelijker-de-rolls-royce-onder-de-bedden",
                     "publishedDate": "25/11/2026 16:31"
-                },
-                {
-                    "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen - AT5",
-                    "source": "at5.nl",
-                    "link": "https://www.at5.nl/artikelen/241244/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
-                    "publishedDate": "25/11/2026 16:15"
-                },
-                {
-                    "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen",
-                    "source": "nhnieuws.nl",
-                    "link": "https://www.nhnieuws.nl/nieuws/365819/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
-                    "publishedDate": "25/11/2026 12:54"
                 }
             ],
             "belangrijkheid": 0
@@ -709,6 +708,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen - AT5",
+            "link": "https://www.at5.nl/artikelen/241244/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
+            "publishedDate": "25/11/2026 16:15",
+            "source": "at5.nl, nhnieuws.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert umc",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen",
+                    "source": "nhnieuws.nl",
+                    "link": "https://www.nhnieuws.nl/nieuws/365819/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
+                    "publishedDate": "25/11/2026 12:54"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
@@ -748,7 +765,7 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
@@ -841,17 +858,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Problemen op ic staan niet op zichzelf, zeggen artsen: 'Willen dat het ophoudt' - NOS",
-            "link": "https://nos.nl/artikel/2640883-problemen-op-ic-staan-niet-op-zichzelf-zeggen-artsen-willen-dat-het-ophoudt",
-            "publishedDate": "25/11/2026 15:59",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Dit zijn de 5 goedkoopste zorgverzekeringen van 2027: verschil loopt op tot \u20ac649",
@@ -1325,21 +1331,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1559,7 +1570,7 @@
                     "publishedDate": "25/11/2026 01:32"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Minderheidscoalitie Zaltbommel praat met alle partijen, lijmpoging met VVD is serieuze optie - AD",
