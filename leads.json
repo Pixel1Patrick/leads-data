@@ -79,29 +79,29 @@
             "title": "Apothekers slaan alarm, medicijntekorten lopen op: 'Meerdere keren per dag staan hier ...",
             "link": "https://www.telegraaf.nl/binnenland/apothekers-slaan-alarm-medicijntekorten-lopen-op-meerdere-keren-per-dag-staan-hier-boze-patienten-aan-de-balie/164804460.html",
             "publishedDate": "25/11/2026 11:16",
-            "source": "telegraaf.nl",
+            "source": "isala.nl, telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Primeur voor Isala: eigen geneesmiddel beschikbaar voor andere ziekenhuizen",
+                    "source": "isala.nl",
+                    "link": "https://www.isala.nl/nieuws/primeur-voor-isala-eigen-geneesmiddel-beschikbaar-voor-andere-ziekenhuizen/",
+                    "publishedDate": "25/11/2026 09:49"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Reactie LHV op Nivel-rapport over dwingende controle",
             "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
             "publishedDate": "25/11/2026 11:11",
-            "source": "lhv.nl, nivel.nl",
+            "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
-                    "source": "nivel.nl",
-                    "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
-                    "publishedDate": "25/11/2026 06:47"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -214,17 +214,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Primeur voor Isala: eigen geneesmiddel beschikbaar voor andere ziekenhuizen",
-            "link": "https://www.isala.nl/nieuws/primeur-voor-isala-eigen-geneesmiddel-beschikbaar-voor-andere-ziekenhuizen/",
-            "publishedDate": "25/11/2026 09:49",
-            "source": "isala.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Acht aanhoudingen in onderzoek naar miljoenenfraude via zorgbureaus en zzp'ers",
             "link": "https://www.accountancyvanmorgen.nl/2026/11/25/acht-aanhoudingen-in-onderzoek-naar-miljoenenfraude-via-zorgbureaus-en-zzpers/",
             "publishedDate": "25/11/2026 09:30",
@@ -252,7 +241,7 @@
                     "publishedDate": "24/11/2026 19:49"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "N=5 vervolgt bekroonde contentcampagne Uit Balans - Marketing Report",
@@ -439,8 +428,19 @@
             "title": "Huisarts kan meer doen tegen onzichtbare relatieterreur: 'Slachtoffers ge\u00efsoleerd en gemanipuleerd'",
             "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5666723/huisartsen-dwingende-controle-intieme-terreur-femicide",
             "publishedDate": "25/11/2026 07:04",
-            "source": "nivel.nl, rtl.nl",
+            "source": "rtl.nl",
             "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
+            "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
+            "publishedDate": "25/11/2026 06:47",
+            "source": "nivel.nl",
+            "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 2,
             "extra_bronnen": [
@@ -490,11 +490,18 @@
             "title": "Warme momenten op de dienst Geriatrie van het AZ Sint-Jan, met dank aan leerlingen KTA Brugge",
             "link": "https://www.hetnieuwsvanwestvlaanderen.be/warme-momenten-op-de-dienst-geriatrie-van-het-az-sint-jan-met-dank-aan-leerlingen-kta-brugge/",
             "publishedDate": "25/11/2026 06:10",
-            "source": "hetnieuwsvanwestvlaanderen.be",
+            "source": "hetnieuwsvanwestvlaanderen.be, lokaalnieuws.online",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Leerlingen van KTA Brugge verwennen oudere pati\u00ebnten in het AZ Sint-Jan",
+                    "source": "lokaalnieuws.online",
+                    "link": "https://www.lokaalnieuws.online/2026/11/24/brugge-kta-leerlingen-geriatrie-az-sint-jan-week-van-de-ouderenzorg/",
+                    "publishedDate": "24/11/2026 10:51"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1873,17 +1880,6 @@
             "source": "made-in.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Leerlingen van KTA Brugge verwennen oudere pati\u00ebnten in het AZ Sint-Jan",
-            "link": "https://www.lokaalnieuws.online/2026/11/24/brugge-kta-leerlingen-geriatrie-az-sint-jan-week-van-de-ouderenzorg/",
-            "publishedDate": "24/11/2026 10:51",
-            "source": "lokaalnieuws.online",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
