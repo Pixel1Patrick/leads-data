@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Zwangeren hoeven straks niet meer voor alle klachten naar het ziekenhuis - De Limburger",
+            "link": "https://www.limburger.nl/regio/sittard-geleen/zwangeren-hoeven-straks-niet-meer-voor-alle-klachten-naar-het-ziekenhuis-zuyderland-onderzoekt-mogelijke-verloskundigenpost-in-parkstad/165104731.html",
+            "publishedDate": "25/11/2026 20:12",
+            "source": "limburger.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Palliatieve eenheid AZ Turnhout verhuist naar nieuwe locatie en houdt open huis - RTV",
             "link": "https://www.rtv.be/actualiteit-en-nieuws/palliatieve-eenheid-az-turnhout-verhuist-naar-nieuwe-locatie-en-houdt-open",
             "publishedDate": "25/11/2026 19:21",
@@ -74,18 +85,11 @@
             "title": "Hamber Jeugdhulp reageert op zorgfraudeberichtgeving: medebestuurder geschorst ...",
             "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5353987/hamber-jeugdhulp-reageert-op-zorgfraudeberichtgeving-medebestuurder-geschor/",
             "publishedDate": "25/11/2026 19:04",
-            "source": "dewoudenberger.nl, nieuwsinalphen.nl",
+            "source": "nieuwsinalphen.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Misstanden Huize Soria onder de loep: Woudenberg onderzoekt eigen rol",
-                    "source": "dewoudenberger.nl",
-                    "link": "https://www.dewoudenberger.nl/lokaal/politiek/1329588/misstanden-huize-soria-onder-de-loep-regio-onderzoekt-eigen-rol",
-                    "publishedDate": "25/11/2026 07:08"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -125,24 +129,11 @@
             "title": "Zuyderland en Open Universiteit starten Expertisecentrum voor Zorgtransformatie",
             "link": "https://zuyderland.nl/nieuws/zuyderland-en-open-universiteit-starten-expertisecentrum-voor-zorgtransformatie/",
             "publishedDate": "25/11/2026 18:36",
-            "source": "ioplus.nl, zorgkrant.nl, zuyderland.nl",
+            "source": "zuyderland.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Amsterdamse universiteiten en UMC bundelen krachten in medtech - IO+",
-                    "source": "ioplus.nl",
-                    "link": "https://ioplus.nl/nl/posts/amsterdamse-universiteiten-en-umc-bundelen-krachten-in-medtech",
-                    "publishedDate": "25/11/2026 16:33"
-                },
-                {
-                    "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
-                    "source": "zorgkrant.nl",
-                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
-                    "publishedDate": "25/11/2026 11:05"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -152,6 +143,17 @@
             "source": "dewoudenberger.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Tonnen aan terugvordering: maar miljoenen onderzocht Apeldoorn niet - Omroep Gelderland",
+            "link": "https://www.gld.nl/nieuws/8551378/tonnen-aan-terugvordering-maar-miljoenen-onderzocht-apeldoorn-niet",
+            "publishedDate": "25/11/2026 18:20",
+            "source": "gld.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -176,7 +178,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
@@ -481,6 +483,17 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Amsterdamse universiteiten en UMC bundelen krachten in medtech - IO+",
+            "link": "https://ioplus.nl/nl/posts/amsterdamse-universiteiten-en-umc-bundelen-krachten-in-medtech",
+            "publishedDate": "25/11/2026 16:33",
+            "source": "ioplus.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -498,10 +511,10 @@
             "title": "Henk Dammer (78) wilde radiotherapie voor zijn uitgezaaide prostaatkanker - de Stentor",
             "link": "https://www.destentor.nl/gezond/henk-dammer-78-heeft-uitgezaaide-prostaatkanker-maar-door-behandeling-radioactieve-straling-geniet-hij-weer~a8fde21f/",
             "publishedDate": "25/11/2026 16:16",
-            "source": "ad.nl, bd.nl, destentor.nl, futura-sciences.com",
+            "source": "ad.nl, bd.nl, destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Henk Dammer (78) wilde radiotherapie voor zijn uitgezaaide prostaatkanker",
@@ -520,12 +533,6 @@
                     "source": "bd.nl",
                     "link": "https://www.bd.nl/gezond/henk-dammer-78-wilde-radiotherapie-voor-zijn-uitgezaaide-prostaatkanker-informeer-jezelf-en-wees-brutaal~a8fde21f/",
                     "publishedDate": "25/11/2026 13:54"
-                },
-                {
-                    "title": "Prostaatkanker: deze nieuwe generatie medicijnen zou alles kunnen veranderen, volgens ...",
-                    "source": "futura-sciences.com",
-                    "link": "https://www.futura-sciences.com/nl/prostaatkanker-deze-nieuwe-generatie-medicijnen-zou-alles-kunnen-veranderen-volgens-onderzoekers-a2_26452/",
-                    "publishedDate": "25/11/2026 10:38"
                 }
             ],
             "belangrijkheid": 0
@@ -552,16 +559,22 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
-            "source": "cnv.nl, fnv.nl, lad.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl, zorgwelzijn.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 5,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
                     "source": "zorgwelzijn.nl",
                     "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
                     "publishedDate": "25/11/2026 10:19"
+                },
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
                 },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
@@ -621,13 +634,43 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
                     "publishedDate": "25/11/2026 16:11"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
+                    "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
+                    "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
+                    "publishedDate": "24/11/2026 16:41"
+                },
+                {
+                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
+                    "publishedDate": "24/11/2026 16:41"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
+                    "publishedDate": "24/11/2026 15:15"
                 }
             ],
             "belangrijkheid": 0
@@ -815,28 +858,6 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grootste ziekenhuisgroep van het land pleit voor grondige hervormingen: \u201cBespaar op ... - PZC",
-            "link": "https://www.pzc.nl/antwerpen/grootste-ziekenhuisgroep-van-het-land-pleit-voor-grondige-hervormingen-bespaar-op-verouderde-ziekenhuisstructuren-niet-op-de-zorg~a7542fcf/",
-            "publishedDate": "25/11/2026 15:10",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "CEO Antwerps ziekenhuis ZAS: 'We zijn fier op onze fusie, maar we hebben hulp nodig'",
-            "link": "https://www.tijd.be/politiek-economie/belgie/federaal/ceo-antwerps-ziekenhuis-zas-we-zijn-fier-op-onze-fusie-maar-we-hebben-hulp-nodig/10706931.html",
-            "publishedDate": "25/11/2026 15:08",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1146,24 +1167,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
-            "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
-            "publishedDate": "25/11/2026 13:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
-                    "publishedDate": "25/11/2026 13:10"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027 - 2029",
             "link": "https://open.overheid.nl/details/2da7f0aa-a431-4089-afd6-26dcd5e56714",
             "publishedDate": "25/11/2026 13:10",
@@ -1264,7 +1267,7 @@
                     "publishedDate": "25/11/2026 10:32"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kamers voor jongeren gezocht - De Toren Hardenberg",
@@ -1329,6 +1332,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
+            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
+            "publishedDate": "25/11/2026 11:05",
+            "source": "zorgkrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Voor het eerst sinds 2015 bezoekt Hongaarse premier Oekra\u00efne | Politiek - Head Topics",
             "link": "https://nl.headtopics.com/news/voor-het-eerst-sinds-2015-bezoekt-hongaarse-premier-oekra-ne-90154554",
             "publishedDate": "25/11/2026 11:04",
@@ -1346,6 +1360,17 @@
             "source": "aiwereld.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Prostaatkanker: deze nieuwe generatie medicijnen zou alles kunnen veranderen, volgens ...",
+            "link": "https://www.futura-sciences.com/nl/prostaatkanker-deze-nieuwe-generatie-medicijnen-zou-alles-kunnen-veranderen-volgens-onderzoekers-a2_26452/",
+            "publishedDate": "25/11/2026 10:38",
+            "source": "futura-sciences.com",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1513,6 +1538,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Misstanden Huize Soria onder de loep: Woudenberg onderzoekt eigen rol",
+            "link": "https://www.dewoudenberger.nl/lokaal/politiek/1329588/misstanden-huize-soria-onder-de-loep-regio-onderzoekt-eigen-rol",
+            "publishedDate": "25/11/2026 07:08",
+            "source": "dewoudenberger.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Mensen goed op weg naar het einde helpen - Seniorenjournaal",
             "link": "https://seniorenjournaal.nl/levenseinde/mensen-goed-op-weg-naar-het-einde-helpen/",
             "publishedDate": "25/11/2026 06:40",
@@ -1584,17 +1620,6 @@
             "publishedDate": "25/11/2026 05:03",
             "source": "ad.nl",
             "category": "Landelijke Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "In deze Biblebelt-gemeente was de bioscoop ooit 'in strijd met de goede zeden', nu is het ...",
-            "link": "https://www.gelderlander.nl/veenendaal/in-deze-biblebelt-gemeente-was-de-bioscoop-ooit-in-strijd-met-de-goede-zeden-nu-is-het-theater-een-splijtzwam~a186bb1e/",
-            "publishedDate": "25/11/2026 04:57",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1762,24 +1787,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-            "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
-            "publishedDate": "24/11/2026 16:41",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
-                    "publishedDate": "24/11/2026 16:41"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Dit Haarlemse feestbeest doet mee aan Dutchie Shore | Regio | AD.nl",
             "link": "https://www.ad.nl/haarlem/dutchie-shore-haarlem-deelnemer~a85a9bd2/",
             "publishedDate": "24/11/2026 16:18",
@@ -1802,34 +1809,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
-            "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
-            "publishedDate": "24/11/2026 15:15",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Eerstelijnszorg] Samenwerking voor voldoende capaciteit medische kindzorg",
             "link": "https://www.zn.nl/actueel/samenwerking-voor-voldoende-capaciteit-medische-kindzorg/",
             "publishedDate": "24/11/2026 15:14",
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
