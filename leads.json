@@ -1,6 +1,35 @@
 {
     "artikelen": [
         {
+            "title": "Een op de vier ziekenhuizen in de cashproblemen: symptoom van een breder zorgprobleem?",
+            "link": "https://www.reddit.com/r/belgium/comments/1y5e3u7/een_op_de_vier_ziekenhuizen_in_de_cashproblemen/",
+            "publishedDate": "25/11/2026 20:54",
+            "source": "reddit.com",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
+            "link": "https://nl.headtopics.com/news/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-90185377",
+            "publishedDate": "25/11/2026 20:29",
+            "source": "nl.headtopics.com, omroepwest.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
+                    "source": "omroepwest.nl",
+                    "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
+                    "publishedDate": "25/11/2026 20:07"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zwangeren hoeven straks niet meer voor alle klachten naar het ziekenhuis - De Limburger",
             "link": "https://www.limburger.nl/regio/sittard-geleen/zwangeren-hoeven-straks-niet-meer-voor-alle-klachten-naar-het-ziekenhuis-zuyderland-onderzoekt-mogelijke-verloskundigenpost-in-parkstad/165104731.html",
             "publishedDate": "25/11/2026 20:12",
@@ -39,7 +68,7 @@
                     "publishedDate": "25/11/2026 17:17"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Palliatieve eenheid AZ Turnhout verhuist naar nieuwe locatie en houdt open huis - RTV",
@@ -190,11 +219,18 @@
             "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
             "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
             "publishedDate": "25/11/2026 18:04",
-            "source": "rtvdrenthe.nl",
+            "source": "1zwolle.nl, rtvdrenthe.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
+                    "source": "1zwolle.nl",
+                    "link": "https://1zwolle.nl/nieuws/217360/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
+                    "publishedDate": "25/11/2026 16:13"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -446,11 +482,18 @@
             "title": "MAHA-analyse 2026: De financi\u00eble gezondheid van de Belgische ziekenhuissector in 2025 - Belfius",
             "link": "https://www.belfius.be/about-us/dam/corporate/press-room/press-articles/downloads/nl/2026/Studie-Belfius_MAHA-analyse-2026_25-11-2026.pdf",
             "publishedDate": "25/11/2026 16:42",
-            "source": "belfius.be",
+            "source": "belfius.be, vandenbroucke.belgium.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "MAHA sectoranalyse 2026 - Frank Vandenbroucke - Belgium.be",
+                    "source": "vandenbroucke.belgium.be",
+                    "link": "https://vandenbroucke.belgium.be/nl/nieuws/maha-sectoranalyse-2026",
+                    "publishedDate": "24/11/2026 21:18"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -508,10 +551,10 @@
             "title": "Henk Dammer (78) wilde radiotherapie voor zijn uitgezaaide prostaatkanker - de Stentor",
             "link": "https://www.destentor.nl/gezond/henk-dammer-78-heeft-uitgezaaide-prostaatkanker-maar-door-behandeling-radioactieve-straling-geniet-hij-weer~a8fde21f/",
             "publishedDate": "25/11/2026 16:16",
-            "source": "1zwolle.nl, ad.nl, bd.nl, destentor.nl",
+            "source": "ad.nl, bd.nl, destentor.nl, drimble.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 6,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Henk Dammer (78) wilde radiotherapie voor zijn uitgezaaide prostaatkanker",
@@ -532,10 +575,10 @@
                     "publishedDate": "25/11/2026 13:54"
                 },
                 {
-                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
-                    "source": "1zwolle.nl",
-                    "link": "https://1zwolle.nl/nieuws/217360/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
-                    "publishedDate": "25/11/2026 16:13"
+                    "title": "Velpenaar moet 100 uur werken als straf voor bedreigen van zorgpersoneel van zijn ouders",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/gelderland/de-vallei/108704570/velpenaar-moet-100-uur-werken-als-straf-voor-bedreigen-van-zorgpersoneel-van-zijn-ouders.html",
+                    "publishedDate": "25/11/2026 05:57"
                 }
             ],
             "belangrijkheid": 0
@@ -544,16 +587,22 @@
             "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen - AT5",
             "link": "https://www.at5.nl/artikelen/241244/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
             "publishedDate": "25/11/2026 16:15",
-            "source": "at5.nl, nhnieuws.nl",
+            "source": "at5.nl, nhnieuws.nl, nu.nl",
             "category": "Regionale Media",
             "feed_label": "Alert umc",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen",
                     "source": "nhnieuws.nl",
                     "link": "https://www.nhnieuws.nl/nieuws/365819/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
                     "publishedDate": "25/11/2026 12:54"
+                },
+                {
+                    "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
+                    "source": "nu.nl",
+                    "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
+                    "publishedDate": "25/11/2026 11:21"
                 }
             ],
             "belangrijkheid": 0
@@ -637,19 +686,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
                     "publishedDate": "25/11/2026 16:11"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
-                    "publishedDate": "24/11/2026 15:15"
                 }
             ],
             "belangrijkheid": 0
@@ -806,7 +849,7 @@
             "feed_label": "Alert apotheker",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Alleen al bij het zien van het ding verkrampt je vagina, terwijl dat n\u00e8t niet de bedoeling is",
@@ -958,18 +1001,12 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
                     "publishedDate": "25/11/2026 14:08"
                 }
             ],
@@ -978,6 +1015,17 @@
         {
             "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
             "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
+            "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
             "publishedDate": "25/11/2026 14:08",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1230,30 +1278,11 @@
             "title": "Pharming zet productie medicijn stop na niet-geslaagde test - Nieuws.nl",
             "link": "https://nieuws.nl/economie/pharming-zet-productie-medicijn-stop-na-niet-geslaagde-test",
             "publishedDate": "25/11/2026 11:34",
-            "source": "nieuws.nl, nu.nl, rd.nl, telegraaf.nl",
+            "source": "nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Pharming zet productie medicijn stop na niet-geslaagde test - Reformatorisch Dagblad",
-                    "source": "rd.nl",
-                    "link": "https://www.rd.nl/a/pharming-zet-productie-medicijn-stop-na-niet-geslaagde-test",
-                    "publishedDate": "25/11/2026 09:04"
-                },
-                {
-                    "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
-                    "source": "nu.nl",
-                    "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
-                    "publishedDate": "25/11/2026 11:21"
-                },
-                {
-                    "title": "Pharming hard onderuit na stopzetten productie medicijn | De Telegraaf",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/financieel/pharming-hard-onderuit-na-stopzetten-productie-medicijn/165065908.html",
-                    "publishedDate": "25/11/2026 10:32"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1305,6 +1334,17 @@
                     "publishedDate": "25/11/2026 05:19"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Geslaagd en leerzame avond over dementie en medicatie - Alzheimer Nederland",
+            "link": "https://www.alzheimer-nederland.nl/regios/voorne-putten-en-rozenburg/geslaagd-en-leerzame-avond-over-dementie-en-medicatie",
+            "publishedDate": "25/11/2026 11:18",
+            "source": "alzheimer-nederland.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1411,7 +1451,7 @@
                     "publishedDate": "25/11/2026 01:32"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Minderheidscoalitie Zaltbommel praat met alle partijen, lijmpoging met VVD is serieuze optie - AD",
@@ -1568,17 +1608,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Velpenaar moet 100 uur werken als straf voor bedreigen van zorgpersoneel van zijn ouders",
-            "link": "https://drimble.nl/regio/gelderland/de-vallei/108704570/velpenaar-moet-100-uur-werken-als-straf-voor-bedreigen-van-zorgpersoneel-van-zijn-ouders.html",
-            "publishedDate": "25/11/2026 05:57",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ryman Healthcare boekt sterke winstgroei in eerste helft 2026 - Investing.com",
             "link": "https://nl.investing.com/news/transcripts/ryman-healthcare-boekt-sterke-winstgroei-in-eerste-helft-2026-93CH-985138",
             "publishedDate": "25/11/2026 05:49",
@@ -1604,22 +1633,16 @@
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
             "link": "https://www.gelderlander.nl/binnenland/pal-naast-onze-slaapkamer-echtpaar-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
             "publishedDate": "25/11/2026 00:54",
-            "source": "ad.nl, bndestem.nl, gelderlander.nl",
+            "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "'Pal naast onze slaapkamer': echtpaar in Middelburg wil geld zien voor inkijk en constante ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/middelburg/pal-naast-onze-slaapkamer-echtpaar-in-middelburg-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
                     "publishedDate": "24/11/2026 16:03"
-                },
-                {
-                    "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
-                    "publishedDate": "24/11/2026 18:01"
                 }
             ],
             "belangrijkheid": 0
@@ -1680,17 +1703,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "MAHA sectoranalyse 2026 - Frank Vandenbroucke - Belgium.be",
-            "link": "https://vandenbroucke.belgium.be/nl/nieuws/maha-sectoranalyse-2026",
-            "publishedDate": "24/11/2026 21:18",
-            "source": "vandenbroucke.belgium.be",
-            "category": "Overig",
-            "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "GBL krijgt zijn grootste investering ooit rond: Italiaanse farmareus Recordati ingelijfd",
             "link": "https://www.tijd.be/ondernemen/farma-biotech/gbl-krijgt-zijn-grootste-investering-ooit-rond-italiaanse-farmareus-recordati-ingelijfd/10706828.html",
             "publishedDate": "24/11/2026 21:18",
@@ -1730,6 +1742,17 @@
             "source": "rtvmiddenholland.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
+            "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
+            "publishedDate": "24/11/2026 18:01",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1792,6 +1815,17 @@
             "source": "duurzaam-ondernemen.nl",
             "category": "Overig",
             "feed_label": "Alert Gehandicaptenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
+            "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
+            "publishedDate": "24/11/2026 15:15",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
