@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Vergunning blijft overeind, maar laatste woord is nog niet gezegd over filmfestival in park - de Stentor",
+            "link": "https://www.destentor.nl/apeldoorn/vergunning-blijft-overeind-maar-laatste-woord-is-nog-niet-gezegd-over-filmfestival-in-park~a93bd2aa/",
+            "publishedDate": "25/11/2026 23:29",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "ZAS: &quot;Bespaar op structuren, niet op zorg&quot; - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2648S29_00",
             "publishedDate": "25/11/2026 22:44",
@@ -185,18 +196,11 @@
             "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
             "link": "https://nl.headtopics.com/news/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-90185377",
             "publishedDate": "25/11/2026 20:29",
-            "source": "nl.headtopics.com, omroepwest.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
-                    "source": "omroepwest.nl",
-                    "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
-                    "publishedDate": "25/11/2026 20:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -206,6 +210,17 @@
             "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
+            "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
+            "publishedDate": "25/11/2026 20:07",
+            "source": "omroepwest.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -244,7 +259,7 @@
                     "publishedDate": "25/11/2026 17:17"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "ZAS wil verregaandere hervorming van het ziekenhuislandschap - GVA",
@@ -294,11 +309,18 @@
             "title": "Ozempic- en Mounjaro-makers moeten in VS waarschuwen voor gezichtsverlies",
             "link": "https://www.nieuwsblad.be/buitenland/ozempic-en-mounjaro-makers-moeten-in-vs-waarschuwen-voor-gezichtsverlies/165114023.html",
             "publishedDate": "25/11/2026 19:07",
-            "source": "nieuwsblad.be",
+            "source": "nieuwsblad.be, tijd.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
+                    "publishedDate": "25/11/2026 13:02"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -778,16 +800,16 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
             "link": "https://www.srherald.com/suriname/2026/11/25/seh-laat-begeleiders-vanaf-nu-buiten-wachten-na-incident-met-donovan-grep/",
             "publishedDate": "25/11/2026 16:14",
-            "source": "drimble.nl, srherald.com, sun.sr",
+            "source": "drimble.nl, srherald.com",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
@@ -800,12 +822,6 @@
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
                     "publishedDate": "24/11/2026 23:22"
-                },
-                {
-                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-                    "publishedDate": "24/11/2026 22:31"
                 }
             ],
             "belangrijkheid": 0
@@ -1378,17 +1394,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
-            "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
-            "publishedDate": "25/11/2026 13:02",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Kabinet en gemeenten maken nieuwe afspraken voor een samenleving waarin iedereen kan meedoen aan sport, bewegen en cultuur",
             "link": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/25/kabinet-en-gemeenten-maken-nieuwe-afspraken-voor-een-samenleving-waarin-iedereen-kan-meedoen-aan-sport-bewegen-en-cultuur",
             "publishedDate": "25/11/2026 13:00",
@@ -1700,17 +1705,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Misstanden Huize Soria onder de loep: Woudenberg onderzoekt eigen rol",
-            "link": "https://www.dewoudenberger.nl/lokaal/politiek/1329588/misstanden-huize-soria-onder-de-loep-regio-onderzoekt-eigen-rol",
-            "publishedDate": "25/11/2026 07:08",
-            "source": "dewoudenberger.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Mensen goed op weg naar het einde helpen - Seniorenjournaal",
             "link": "https://seniorenjournaal.nl/levenseinde/mensen-goed-op-weg-naar-het-einde-helpen/",
             "publishedDate": "25/11/2026 06:40",
@@ -1790,17 +1784,6 @@
             "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gemeente trekt ruim drie ton uit voor America Left, maar wil dat zorgpartijen meebetalen",
-            "link": "https://www.omroephorstaandemaas.nl/nieuws/gemeente-trekt-ruim-drie-ton-uit-voor-america-left-maar-wil-dat-zorgpartijen-meebetalen",
-            "publishedDate": "24/11/2026 21:10",
-            "source": "omroephorstaandemaas.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
