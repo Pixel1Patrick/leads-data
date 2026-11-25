@@ -366,11 +366,18 @@
             "title": "Vaccin tegen hepatitis A komt structureel beschikbaar voor mannen die seks hebben met mannen",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/vaccin-tegen-hepatitis-a-komt-structureel-beschikbaar-voor-mannen-die-seks-hebben-met-mannen/",
             "publishedDate": "25/11/2026 08:56",
-            "source": "nationalezorggids.nl",
+            "source": "gezondheidsraad.nl, nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
+                    "source": "gezondheidsraad.nl",
+                    "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
+                    "publishedDate": "24/11/2026 11:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -454,28 +461,16 @@
             "title": "Van klachten naar juichverhalen in coffeeshops: legale hasj zou nu 'twintig keer beter' zijn",
             "link": "https://www.gelderlander.nl/arnhem/van-klachten-naar-juichverhalen-in-coffeeshops-legale-hasj-zou-nu-twintig-keer-beter-zijn~acf79da8/",
             "publishedDate": "25/11/2026 07:18",
-            "source": "ad.nl, gelderlander.nl, overstappen.nl, persportaal.anp.nl",
+            "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Van klachten naar juichverhalen in coffeeshops: legale hasj zou nu 'twintig keer beter' zijn",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/arnhem/coffeeshops-wietexperiment-levert-betere-hasj-en-sterkere-edibles-maar-de-vapes-zijn-wel-peperduur~acf79da8/",
                     "publishedDate": "24/11/2026 15:53"
-                },
-                {
-                    "title": "Zorg zonder contract: ook 100% vergoeding dekt niet altijd de hele rekening",
-                    "source": "persportaal.anp.nl",
-                    "link": "https://persportaal.anp.nl/artikel/37f011bb-cc2d-4827-91e3-81031aa14cdb/zorg-zonder-contract-ook-100-vergoeding-dekt-niet-altijd-de-hele-rekening",
-                    "publishedDate": "24/11/2026 23:28"
-                },
-                {
-                    "title": "Zorg zonder contract: ook 100% vergoeding dekt niet altijd de hele rekening",
-                    "source": "overstappen.nl",
-                    "link": "https://www.overstappen.nl/nieuws/zorg-zonder-contract-ook-100-procent-vergoeding-dekt-niet-altijd-de-hele-rekening/",
-                    "publishedDate": "24/11/2026 19:51"
                 }
             ],
             "belangrijkheid": 0
@@ -779,18 +774,11 @@
             "title": "Zweedse investeerder zet privaat zorgbedrijf Equipe te koop - Het Financieele Dagblad",
             "link": "https://fd.nl/bedrijfsleven/1620492/zweedse-investeerder-zet-privaat-zorgbedrijf-equipe-te-koop",
             "publishedDate": "25/11/2026 02:00",
-            "source": "fd.nl, tijd.be",
+            "source": "fd.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "GBL krijgt zijn grootste investering ooit rond: Italiaanse farmareus Recordati ingelijfd",
-                    "source": "tijd.be",
-                    "link": "https://www.tijd.be/ondernemen/farma-biotech/gbl-krijgt-zijn-grootste-investering-ooit-rond-italiaanse-farmareus-recordati-ingelijfd/10706828.html",
-                    "publishedDate": "24/11/2026 21:18"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -842,6 +830,24 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorg zonder contract: ook 100% vergoeding dekt niet altijd de hele rekening",
+            "link": "https://persportaal.anp.nl/artikel/37f011bb-cc2d-4827-91e3-81031aa14cdb/zorg-zonder-contract-ook-100-vergoeding-dekt-niet-altijd-de-hele-rekening",
+            "publishedDate": "24/11/2026 23:28",
+            "source": "overstappen.nl, persportaal.anp.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Zorg zonder contract: ook 100% vergoeding dekt niet altijd de hele rekening",
+                    "source": "overstappen.nl",
+                    "link": "https://www.overstappen.nl/nieuws/zorg-zonder-contract-ook-100-procent-vergoeding-dekt-niet-altijd-de-hele-rekening/",
+                    "publishedDate": "24/11/2026 19:51"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -980,6 +986,17 @@
             "category": "Overig",
             "feed_label": "Alert eerstelijnszorg",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "GBL krijgt zijn grootste investering ooit rond: Italiaanse farmareus Recordati ingelijfd",
+            "link": "https://www.tijd.be/ondernemen/farma-biotech/gbl-krijgt-zijn-grootste-investering-ooit-rond-italiaanse-farmareus-recordati-ingelijfd/10706828.html",
+            "publishedDate": "24/11/2026 21:18",
+            "source": "tijd.be",
+            "category": "Overig",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1522,23 +1539,22 @@
             "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
             "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
             "publishedDate": "24/11/2026 15:42",
-            "source": "ed.nl, limburger.nl, zuidlimburgvandaag.nl",
+            "source": "ed.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 4,
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Veertig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
+            "link": "https://www.limburger.nl/economie/veertig-banen-op-de-tocht-bij-maastrichtse-ggz-instellingen-serenity-en-olifant-in-totaal-zes-bvs-bankroet/165013034.html",
+            "publishedDate": "24/11/2026 15:30",
+            "source": "limburger.nl, zuidlimburgvandaag.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 2,
             "extra_bronnen": [
-                {
-                    "title": "Veertig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
-                    "source": "limburger.nl",
-                    "link": "https://www.limburger.nl/economie/veertig-banen-op-de-tocht-bij-maastrichtse-ggz-instellingen-serenity-en-olifant-in-totaal-zes-bvs-bankroet/165013034.html",
-                    "publishedDate": "24/11/2026 15:30"
-                },
-                {
-                    "title": "Vijftig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
-                    "source": "limburger.nl",
-                    "link": "https://www.limburger.nl/economie/vijftig-banen-op-de-tocht-bij-maastrichtse-ggz-instellingen-serenity-en-olifant-in-totaal-zes-bvs-bankroet/165013034.html",
-                    "publishedDate": "24/11/2026 13:10"
-                },
                 {
                     "title": "Twee Maastrichtse ggz-aanbieders failliet verklaard, 50 mensen op straat",
                     "source": "zuidlimburgvandaag.nl",
@@ -1831,15 +1847,15 @@
             "belangrijkheid": 0
         },
         {
-            "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
-            "publishedDate": "24/11/2026 13:05",
-            "source": "omroepbrabant.nl",
+            "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
+            "link": "https://www.rtvdrenthe.nl/amp/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
+            "publishedDate": "24/11/2026 12:48",
+            "source": "rtvdrenthe.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Langer thuis wonen vraagt om goede samenwerking | medischcontact",
@@ -1905,17 +1921,6 @@
             "source": "made-in.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
-            "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
-            "publishedDate": "24/11/2026 11:00",
-            "source": "gezondheidsraad.nl",
-            "category": "Overig",
-            "feed_label": "Gezondheidsraad",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
