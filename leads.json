@@ -379,22 +379,16 @@
             "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
             "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
             "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl, sun.sr",
+            "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
                     "publishedDate": "24/11/2026 23:22"
-                },
-                {
-                    "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
-                    "publishedDate": "24/11/2026 16:41"
                 }
             ],
             "belangrijkheid": 0
@@ -414,16 +408,22 @@
             "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Drimble",
             "link": "https://drimble.nl/regio/noord-brabant/eindhoven/108702527/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven.html",
             "publishedDate": "24/11/2026 23:18",
-            "source": "drimble.nl, omroepbrabant.nl",
+            "source": "drimble.nl, ed.nl, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Omroep Brabant",
                     "source": "omroepbrabant.nl",
                     "link": "https://www.omroepbrabant.nl/nieuws/6035901/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven",
                     "publishedDate": "24/11/2026 12:26"
+                },
+                {
+                    "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
+                    "publishedDate": "24/11/2026 15:42"
                 }
             ],
             "belangrijkheid": 0
@@ -1187,6 +1187,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
+            "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
+            "publishedDate": "24/11/2026 16:41",
+            "source": "sun.sr",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Amerikaanse SEH-verpleegkundigen veelvuldig slachtoffer van agressie | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/amerikaanse-seh-verpleegkundigen-veelvuldig-slachtoffer-van-agressie",
             "publishedDate": "24/11/2026 16:32",
@@ -1286,17 +1297,6 @@
             "source": "despecialist.eu",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
-            "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
-            "publishedDate": "24/11/2026 15:42",
-            "source": "ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
