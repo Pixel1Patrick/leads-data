@@ -73,7 +73,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
@@ -82,36 +82,29 @@
                     "publishedDate": "25/11/2026 13:10"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Jeugd",
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027 - 2029",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2e540f2f-a4bd-4fc9-92d3-13fc17f56806",
-                    "publishedDate": "24/11/2026 17:07"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027 - 2029",
-            "link": "https://open.overheid.nl/details/2da7f0aa-a431-4089-afd6-26dcd5e56714",
-            "publishedDate": "25/11/2026 13:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
+                    "link": "https://open.overheid.nl/details/2da7f0aa-a431-4089-afd6-26dcd5e56714",
+                    "publishedDate": "25/11/2026 13:10"
+                },
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -457,30 +450,11 @@
             "title": "Acht aanhoudingen in onderzoek naar miljoenenfraude via zorgbureaus en zzp'ers",
             "link": "https://www.accountancyvanmorgen.nl/2026/11/25/acht-aanhoudingen-in-onderzoek-naar-miljoenenfraude-via-zorgbureaus-en-zzpers/",
             "publishedDate": "25/11/2026 09:30",
-            "source": "accountancyvanmorgen.nl, cedarnews.net, drimble.nl, nos.nl",
+            "source": "accountancyvanmorgen.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
-                    "publishedDate": "25/11/2026 01:32"
-                },
-                {
-                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
-                    "source": "cedarnews.net",
-                    "link": "https://cedarnews.net/nederlands/1190765/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel/",
-                    "publishedDate": "24/11/2026 20:02"
-                },
-                {
-                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
-                    "publishedDate": "24/11/2026 19:49"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -509,18 +483,11 @@
             "title": "Vaccin tegen hepatitis A komt structureel beschikbaar voor mannen die seks hebben met mannen",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/vaccin-tegen-hepatitis-a-komt-structureel-beschikbaar-voor-mannen-die-seks-hebben-met-mannen/",
             "publishedDate": "25/11/2026 08:56",
-            "source": "gezondheidsraad.nl, nationalezorggids.nl",
+            "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
-                    "source": "gezondheidsraad.nl",
-                    "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
-                    "publishedDate": "24/11/2026 11:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -658,19 +625,15 @@
             "source": "nivel.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
-            "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
-            "publishedDate": "25/11/2026 06:42",
-            "source": "nivel.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
+                    "source": "nivel.nl",
+                    "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
+                    "publishedDate": "25/11/2026 06:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -868,6 +831,54 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
+            "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
+            "publishedDate": "25/11/2026 01:32",
+            "source": "cedarnews.net, drimble.nl, nos.nl, sun.sr",
+            "category": "Overig",
+            "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 7,
+            "extra_bronnen": [
+                {
+                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
+                    "source": "cedarnews.net",
+                    "link": "https://cedarnews.net/nederlands/1190765/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel/",
+                    "publishedDate": "24/11/2026 20:02"
+                },
+                {
+                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
+                    "publishedDate": "24/11/2026 19:49"
+                },
+                {
+                    "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+                    "publishedDate": "24/11/2026 22:31"
+                },
+                {
+                    "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
+                    "publishedDate": "24/11/2026 16:41"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "ze zijn welkom bij Wolly Wood in Oud-Zevenaar | Regio | De Gelderlander.nl",
             "link": "https://www.gelderlander.nl/zevenaar/een-geit-met-hersenschade-een-dove-alpaca-en-drie-kamelen-ze-zijn-welkom-bij-wolly-wood-in-oud-zevenaar~a076ddea/",
             "publishedDate": "25/11/2026 01:03",
@@ -937,28 +948,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
-            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
-            "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
-            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
-            "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Masterclass regeldruk: 'het nieuwe normaal van ontregelen' - NVZ-ziekenhuizen.nl",
             "link": "https://nvz-ziekenhuizen.nl/events-trainingen/masterclass-regeldruk-het-nieuwe-normaal-van-ontregelen",
             "publishedDate": "24/11/2026 23:22",
@@ -1016,17 +1005,6 @@
             "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-            "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-            "publishedDate": "24/11/2026 22:31",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1406,6 +1384,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Jeugd",
+            "link": "https://open.overheid.nl/details/2e540f2f-a4bd-4fc9-92d3-13fc17f56806",
+            "publishedDate": "24/11/2026 17:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Geen excuses zonder daden",
             "link": "https://open.overheid.nl/details/4ddf7b9e-2759-465d-b90b-58fc72c9d59f",
             "publishedDate": "24/11/2026 17:07",
@@ -1498,17 +1487,6 @@
                     "publishedDate": "24/11/2026 16:41"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
-            "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
-            "publishedDate": "24/11/2026 16:41",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1897,7 +1875,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Politieke zorgen over beroepsgeheim binnen Zoetermeerse jeugdzorg",
@@ -1953,6 +1931,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
+            "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
+            "publishedDate": "24/11/2026 11:00",
+            "source": "gezondheidsraad.nl",
+            "category": "Overig",
+            "feed_label": "Gezondheidsraad",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "'Sorry, dit product is helaas niet leverbaar': de bizarre stroopwafeloorlog escaleert - De Gelderlander",
