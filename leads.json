@@ -164,26 +164,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-            "publishedDate": "25/11/2026 13:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -245,11 +240,18 @@
             "title": "AZ West in Veurne heeft een Zweedse kinderarts halftijds aangeworven - KW.be",
             "link": "https://kw.be/nieuws/samenleving/gezondheid/ziekenhuis/az-west-in-veurne-heeft-een-zweedse-kinderarts-halftijds-aangeworven-op-een-creatieve-manier-het-tekort-aan-geneesheren-opvangen/",
             "publishedDate": "25/11/2026 12:26",
-            "source": "kw.be",
+            "source": "kw.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "In dit ziekenhuis komt de kinderarts helemaal uit Zweden: \u201cDe aandoeningen zijn hetzelfde ...",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/gezondheid/in-dit-ziekenhuis-komt-de-kinderarts-helemaal-uit-zweden-de-aandoeningen-zijn-hetzelfde-de-taal-komt-wel/164948427.html",
+                    "publishedDate": "25/11/2026 03:06"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -342,11 +344,24 @@
             "title": "Ouderenzorg Stiens in gevaar? Skilhiem sluit in 2028 | Leeuwarder Courant",
             "link": "https://www.lc.nl/regio/friesland/leeuwarden/sluiting-van-skilhiem-in-stiens-zorgt-voor-onrust-herontwikkeling-en-seniorenwoningen-voor-ouderen-na-2028-huur-is-al-opgezegd-fnp-camel-caravan/164874328.html",
             "publishedDate": "25/11/2026 11:22",
-            "source": "lc.nl",
+            "source": "drimble.nl, lc.nl, omroephw.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe bestuurder Zorgwaard wil vertrouwen herstellen en ouderenzorg klaarmaken ... - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/zuid-holland/hoeksche-waard/108701769/nieuwe-bestuurder-zorgwaard-wil-vertrouwen-herstellen-en-ouderenzorg-klaarmaken-voor-de-toekomst.html",
+                    "publishedDate": "24/11/2026 23:08"
+                },
+                {
+                    "title": "Nieuwe bestuurder Zorgwaard wil vertrouwen herstellen en ouderenzorg klaarmaken voor ...",
+                    "source": "omroephw.nl",
+                    "link": "https://www.omroephw.nl/2026/11/nieuwe-bestuurder-zorgwaard-wil-vertrouwen-herstellen-en-ouderenzorg-klaarmaken-voor-de-toekomst/",
+                    "publishedDate": "24/11/2026 13:14"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -375,11 +390,30 @@
             "title": "Auto en scooter botsen op de Zuiderval, scooterrijder met ambulance naar ziekenhuis",
             "link": "https://www.tubantia.nl/enschede/auto-en-scooter-botsen-op-de-zuiderval-scooterrijder-met-ambulance-naar-ziekenhuis~af451dd7/",
             "publishedDate": "25/11/2026 11:16",
-            "source": "tubantia.nl",
+            "source": "drimble.nl, ed.nl, nl24.nu, tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Bewoner psychiatrische instelling neergestoken, medebewoner opgepakt - NL24",
+                    "source": "nl24.nu",
+                    "link": "https://nl24.nu/artikel/bewoner-psychiatrische-instelling-neergestoken-medebewoner-opgepakt",
+                    "publishedDate": "25/11/2026 10:55"
+                },
+                {
+                    "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/noord-brabant/eindhoven/108702527/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven.html",
+                    "publishedDate": "24/11/2026 23:18"
+                },
+                {
+                    "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
+                    "source": "ed.nl",
+                    "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
+                    "publishedDate": "24/11/2026 15:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -397,11 +431,18 @@
             "title": "Reactie LHV op Nivel-rapport over dwingende controle",
             "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
             "publishedDate": "25/11/2026 11:11",
-            "source": "lhv.nl",
+            "source": "lhv.nl, nivel.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
+                    "source": "nivel.nl",
+                    "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
+                    "publishedDate": "25/11/2026 06:47"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -432,17 +473,6 @@
             "publishedDate": "25/11/2026 10:57",
             "source": "trouw.nl",
             "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bewoner psychiatrische instelling neergestoken, medebewoner opgepakt - NL24",
-            "link": "https://nl24.nu/artikel/bewoner-psychiatrische-instelling-neergestoken-medebewoner-opgepakt",
-            "publishedDate": "25/11/2026 10:55",
-            "source": "nl24.nu",
-            "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -499,7 +529,7 @@
             "source": "cnv.nl, fnv.nl, nl.headtopics.com, nu91.nl, rtvdrenthe.nl, rtvfocuszwolle.nl, zorgwelzijn.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 9,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
@@ -524,12 +554,6 @@
                     "source": "rtvdrenthe.nl",
                     "link": "https://www.rtvdrenthe.nl/amp/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
                     "publishedDate": "24/11/2026 12:48"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
                 },
                 {
                     "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
@@ -572,12 +596,31 @@
             "title": "Acht aanhoudingen in onderzoek naar miljoenenfraude via zorgbureaus en zzp'ers",
             "link": "https://www.accountancyvanmorgen.nl/2026/11/25/acht-aanhoudingen-in-onderzoek-naar-miljoenenfraude-via-zorgbureaus-en-zzpers/",
             "publishedDate": "25/11/2026 09:30",
-            "source": "accountancyvanmorgen.nl",
+            "source": "accountancyvanmorgen.nl, cedarnews.net, drimble.nl, nos.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
+                    "publishedDate": "25/11/2026 01:32"
+                },
+                {
+                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
+                    "source": "cedarnews.net",
+                    "link": "https://cedarnews.net/nederlands/1190765/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel/",
+                    "publishedDate": "24/11/2026 20:02"
+                },
+                {
+                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
+                    "publishedDate": "24/11/2026 19:49"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "N=5 vervolgt bekroonde contentcampagne Uit Balans - Marketing Report",
@@ -605,11 +648,18 @@
             "title": "Vaccin tegen hepatitis A komt structureel beschikbaar voor mannen die seks hebben met mannen",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/vaccin-tegen-hepatitis-a-komt-structureel-beschikbaar-voor-mannen-die-seks-hebben-met-mannen/",
             "publishedDate": "25/11/2026 08:56",
-            "source": "nationalezorggids.nl",
+            "source": "gezondheidsraad.nl, nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
+                    "source": "gezondheidsraad.nl",
+                    "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
+                    "publishedDate": "24/11/2026 11:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -741,17 +791,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
-            "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
-            "publishedDate": "25/11/2026 06:47",
-            "source": "nivel.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
             "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
             "publishedDate": "25/11/2026 06:42",
@@ -799,16 +838,22 @@
             "title": "Velpenaar moet 100 uur werken als straf voor bedreigen van zorgpersoneel van zijn ouders",
             "link": "https://drimble.nl/regio/gelderland/de-vallei/108704570/velpenaar-moet-100-uur-werken-als-straf-voor-bedreigen-van-zorgpersoneel-van-zijn-ouders.html",
             "publishedDate": "25/11/2026 05:57",
-            "source": "drimble.nl, gelderlander.nl",
+            "source": "destentor.nl, drimble.nl, gelderlander.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Velpenaar moet 100 uur werken als straf voor bedreigen van zorgpersoneel van zijn ouders | Regio",
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/arnhem/velpenaar-moet-100-uur-werken-als-straf-voor-bedreigen-van-zorgpersoneel-van-zijn-ouders~a0aad54b/",
                     "publishedDate": "24/11/2026 14:32"
+                },
+                {
+                    "title": "Man geeft na 33 (!) jaar verkrachting in Apeldoorn toe, slachtoffer voor het leven getekend",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/apeldoorn/man-geeft-na-33-jaar-verkrachting-in-apeldoorn-toe-slachtoffer-voor-het-leven-getekend-die-laatste-woorden-zitten-nog-in-mn-hoofd~a6739a2e/",
+                    "publishedDate": "24/11/2026 19:48"
                 }
             ],
             "belangrijkheid": 0
@@ -891,17 +936,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "In dit ziekenhuis komt de kinderarts helemaal uit Zweden: \u201cDe aandoeningen zijn hetzelfde ...",
-            "link": "https://www.nieuwsblad.be/gezondheid/in-dit-ziekenhuis-komt-de-kinderarts-helemaal-uit-zweden-de-aandoeningen-zijn-hetzelfde-de-taal-komt-wel/164948427.html",
-            "publishedDate": "25/11/2026 03:06",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Vrouwen in Gaza verliezen mogelijkheid om zelf te beslissen over kinderwens - NU",
             "link": "https://www.nu.nl/midden-oostenconflict/6417601/vrouwen-in-gaza-verliezen-mogelijkheid-om-zelf-te-beslissen-over-kinderwens.html",
             "publishedDate": "25/11/2026 02:32",
@@ -954,30 +988,6 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
-            "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
-            "publishedDate": "25/11/2026 01:32",
-            "source": "cedarnews.net, drimble.nl, nos.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
-                    "source": "cedarnews.net",
-                    "link": "https://cedarnews.net/nederlands/1190765/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel/",
-                    "publishedDate": "24/11/2026 20:02"
-                },
-                {
-                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
-                    "publishedDate": "24/11/2026 19:49"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1053,22 +1063,30 @@
             "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
             "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
             "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl",
+            "source": "drimble.nl, sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
-            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
-            "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+                    "publishedDate": "24/11/2026 22:31"
+                },
+                {
+                    "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
+                    "publishedDate": "24/11/2026 16:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1078,17 +1096,6 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Drimble",
-            "link": "https://drimble.nl/regio/noord-brabant/eindhoven/108702527/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven.html",
-            "publishedDate": "24/11/2026 23:18",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1105,41 +1112,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwe bestuurder Zorgwaard wil vertrouwen herstellen en ouderenzorg klaarmaken ... - Drimble",
-            "link": "https://drimble.nl/regio/zuid-holland/hoeksche-waard/108701769/nieuwe-bestuurder-zorgwaard-wil-vertrouwen-herstellen-en-ouderenzorg-klaarmaken-voor-de-toekomst.html",
-            "publishedDate": "24/11/2026 23:08",
-            "source": "drimble.nl, omroephw.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe bestuurder Zorgwaard wil vertrouwen herstellen en ouderenzorg klaarmaken voor ...",
-                    "source": "omroephw.nl",
-                    "link": "https://www.omroephw.nl/2026/11/nieuwe-bestuurder-zorgwaard-wil-vertrouwen-herstellen-en-ouderenzorg-klaarmaken-voor-de-toekomst/",
-                    "publishedDate": "24/11/2026 13:14"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Pas toen Emmanuel Okurut negen jaarsalarissen betaalde, kreeg hij het lichaam van zijn ...",
             "link": "https://www.trouw.nl/verdieping/pas-toen-emmanuel-okurut-negen-jaarsalarissen-betaalde-kreeg-hij-het-lichaam-van-zijn-vrouw-mee-uit-een-oegandees-prive-ziekenhuis~baf1776c/",
             "publishedDate": "24/11/2026 22:49",
             "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-            "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-            "publishedDate": "24/11/2026 22:31",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1263,7 +1241,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Barbotagebehandeling - In het kort - Gelre ziekenhuizen",
@@ -1356,17 +1334,6 @@
             "source": "plusonline.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Man geeft na 33 (!) jaar verkrachting in Apeldoorn toe, slachtoffer voor het leven getekend",
-            "link": "https://www.destentor.nl/apeldoorn/man-geeft-na-33-jaar-verkrachting-in-apeldoorn-toe-slachtoffer-voor-het-leven-getekend-die-laatste-woorden-zitten-nog-in-mn-hoofd~a6739a2e/",
-            "publishedDate": "24/11/2026 19:48",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1544,17 +1511,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
-            "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
-            "publishedDate": "24/11/2026 16:41",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Amerikaanse SEH-verpleegkundigen veelvuldig slachtoffer van agressie | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/amerikaanse-seh-verpleegkundigen-veelvuldig-slachtoffer-van-agressie",
             "publishedDate": "24/11/2026 16:32",
@@ -1610,17 +1566,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
-            "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
-            "publishedDate": "24/11/2026 15:42",
-            "source": "ed.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Veertig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
             "link": "https://www.limburger.nl/economie/veertig-banen-op-de-tocht-bij-maastrichtse-ggz-instellingen-serenity-en-olifant-in-totaal-zes-bvs-bankroet/165013034.html",
             "publishedDate": "24/11/2026 15:30",
@@ -1636,7 +1581,7 @@
                     "publishedDate": "24/11/2026 13:31"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Elise Draijer (Stimular): 'Voedselverspilling in de zorg: een derde van het restafval is swill'",
@@ -1801,7 +1746,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Wat is het gemiddelde salaris van een huisarts anno 2026?",
@@ -1936,12 +1881,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
-            "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
-            "publishedDate": "24/11/2026 11:00",
-            "source": "gezondheidsraad.nl",
-            "category": "Overig",
-            "feed_label": "Gezondheidsraad",
+            "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+            "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+            "publishedDate": "24/11/2026 11:08",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
