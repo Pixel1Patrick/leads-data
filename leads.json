@@ -188,7 +188,7 @@
                     "publishedDate": "25/11/2026 08:12"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ouderenzorg Stiens in gevaar? Skilhiem sluit in 2028 | Leeuwarder Courant",
@@ -322,11 +322,17 @@
             "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
             "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
             "publishedDate": "25/11/2026 10:19",
-            "source": "cnv.nl, fnv.nl, rtvdrenthe.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, rtvdrenthe.nl, rtvfocuszwolle.nl, zorgwelzijn.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 6,
+            "duplicate_count": 7,
             "extra_bronnen": [
+                {
+                    "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
+                    "source": "rtvfocuszwolle.nl",
+                    "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
+                    "publishedDate": "24/11/2026 16:14"
+                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -432,18 +438,11 @@
             "title": "Vaccin tegen hepatitis A komt structureel beschikbaar voor mannen die seks hebben met mannen",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/vaccin-tegen-hepatitis-a-komt-structureel-beschikbaar-voor-mannen-die-seks-hebben-met-mannen/",
             "publishedDate": "25/11/2026 08:56",
-            "source": "gezondheidsraad.nl, nationalezorggids.nl",
+            "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
-                    "source": "gezondheidsraad.nl",
-                    "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
-                    "publishedDate": "24/11/2026 11:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -455,7 +454,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Enschede maakt zich grote zorgen over jeugdzorg: 'Delen van het systeem zijn failliet'",
@@ -899,19 +898,13 @@
             "source": "drimble.nl, sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
                     "publishedDate": "24/11/2026 23:22"
-                },
-                {
-                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-                    "publishedDate": "24/11/2026 22:31"
                 },
                 {
                     "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
@@ -937,18 +930,11 @@
             "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Drimble",
             "link": "https://drimble.nl/regio/noord-brabant/eindhoven/108702527/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven.html",
             "publishedDate": "24/11/2026 23:18",
-            "source": "drimble.nl, ed.nl",
+            "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
-                    "source": "ed.nl",
-                    "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
-                    "publishedDate": "24/11/2026 15:42"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -987,6 +973,17 @@
             "source": "trouw.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+            "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+            "publishedDate": "24/11/2026 22:31",
+            "source": "sun.sr",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1110,7 +1107,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Barbotagebehandeling - In het kort - Gelre ziekenhuizen",
@@ -1516,17 +1513,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
-            "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
-            "publishedDate": "24/11/2026 16:14",
-            "source": "rtvfocuszwolle.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Al 30 procent meer griepvaccins toegediend door Vlaamse apothekers - De Specialist",
             "link": "https://www.despecialist.eu/nl/nieuws/grippe-30-de-vaccins-supplementaires-administres-par-les-pharmaciens-flamands.html",
             "publishedDate": "24/11/2026 16:14",
@@ -1536,6 +1522,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Steekpartij bij GGzE: slachtoffer gewond, verdachte (26) met veel moeite aangehouden",
+            "link": "https://www.ed.nl/eindhoven/steekpartij-bij-ggze-slachtoffer-gewond-verdachte-26-met-veel-moeite-aangehouden~a32dfd168/",
+            "publishedDate": "24/11/2026 15:42",
+            "source": "ed.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Veertig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
@@ -1901,6 +1898,17 @@
             "source": "made-in.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
+            "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
+            "publishedDate": "24/11/2026 11:00",
+            "source": "gezondheidsraad.nl",
+            "category": "Overig",
+            "feed_label": "Gezondheidsraad",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
