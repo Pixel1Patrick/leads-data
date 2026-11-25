@@ -79,18 +79,11 @@
             "title": "Apothekers slaan alarm, medicijntekorten lopen op: 'Meerdere keren per dag staan hier ...",
             "link": "https://www.telegraaf.nl/binnenland/apothekers-slaan-alarm-medicijntekorten-lopen-op-meerdere-keren-per-dag-staan-hier-boze-patienten-aan-de-balie/164804460.html",
             "publishedDate": "25/11/2026 11:16",
-            "source": "fd.nl, telegraaf.nl",
+            "source": "telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zweedse investeerder zet privaat zorgbedrijf Equipe te koop - Het Financieele Dagblad",
-                    "source": "fd.nl",
-                    "link": "https://fd.nl/bedrijfsleven/1620492/zweedse-investeerder-zet-privaat-zorgbedrijf-equipe-te-koop",
-                    "publishedDate": "25/11/2026 02:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -155,7 +148,7 @@
             "source": "cnv.nl, fnv.nl, nl.headtopics.com, nu91.nl, zorgwelzijn.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 7,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
@@ -168,12 +161,6 @@
                     "source": "fnv.nl",
                     "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
                     "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
                 },
                 {
                     "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
@@ -347,13 +334,19 @@
             "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Van klachten naar juichverhalen in coffeeshops: legale hasj zou nu 'twintig keer beter' zijn",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/arnhem/coffeeshops-wietexperiment-levert-betere-hasj-en-sterkere-edibles-maar-de-vapes-zijn-wel-peperduur~acf79da8/",
                     "publishedDate": "24/11/2026 15:53"
+                },
+                {
+                    "title": "Lingefilm Geldermalsen vertoont 'De Grote Sinterklaasfilm en de Vliegende Pieten' - De Gelderlander",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/west-betuwe/lingefilm-geldermalsen-vertoont-de-grote-sinterklaasfilm-en-de-vliegende-pieten~aac49e4ac/",
+                    "publishedDate": "25/11/2026 02:29"
                 }
             ],
             "belangrijkheid": 0
@@ -422,19 +415,15 @@
             "source": "nivel.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
-            "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
-            "publishedDate": "25/11/2026 06:42",
-            "source": "nivel.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
+                    "source": "nivel.nl",
+                    "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
+                    "publishedDate": "25/11/2026 06:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -624,11 +613,18 @@
             "title": "Omstreden jongerenkerk Go Church houdt bijeenkomst in kapel van UZ Gent: ziekenhuis grijpt in",
             "link": "https://www.pzc.nl/gent/omstreden-jongerenkerk-go-church-houdt-bijeenkomst-in-kapel-van-uz-gent-ziekenhuis-grijpt-in~a03bcd5c/",
             "publishedDate": "25/11/2026 02:54",
-            "source": "pzc.nl",
+            "source": "demorgen.be, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
+                    "source": "demorgen.be",
+                    "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
+                    "publishedDate": "24/11/2026 19:31"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -638,17 +634,6 @@
             "source": "nu.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Lingefilm Geldermalsen vertoont 'De Grote Sinterklaasfilm en de Vliegende Pieten' - De Gelderlander",
-            "link": "https://www.gelderlander.nl/west-betuwe/lingefilm-geldermalsen-vertoont-de-grote-sinterklaasfilm-en-de-vliegende-pieten~aac49e4ac/",
-            "publishedDate": "25/11/2026 02:29",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -676,13 +661,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zweedse investeerder zet privaat zorgbedrijf Equipe te koop - Het Financieele Dagblad",
+            "link": "https://fd.nl/bedrijfsleven/1620492/zweedse-investeerder-zet-privaat-zorgbedrijf-equipe-te-koop",
+            "publishedDate": "25/11/2026 02:00",
+            "source": "fd.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
             "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
             "publishedDate": "25/11/2026 01:32",
-            "source": "cedarnews.net, drimble.nl, nos.nl",
+            "source": "cedarnews.net, drimble.nl, nos.nl, privacy-web.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
@@ -695,6 +691,12 @@
                     "source": "nos.nl",
                     "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
                     "publishedDate": "24/11/2026 19:49"
+                },
+                {
+                    "title": "Man veroordeeld voor doxing van zorgmedewerkers na berichten over ouderenzorg - PONT",
+                    "source": "privacy-web.nl",
+                    "link": "https://privacy-web.nl/samenvatting/man-veroordeeld-voor-doxing-van-zorgmedewerkers-na-berichten-over-ouderenzorg/",
+                    "publishedDate": "24/11/2026 14:34"
                 }
             ],
             "belangrijkheid": 0
@@ -714,10 +716,10 @@
             "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
             "link": "https://www.bndestem.nl/hoeksche-waard/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
             "publishedDate": "25/11/2026 01:01",
-            "source": "ad.nl, bndestem.nl, gelderlander.nl",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl, nl24.nu",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
@@ -730,9 +732,15 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/binnenland/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
                     "publishedDate": "24/11/2026 20:33"
+                },
+                {
+                    "title": "Diederik Gommers per direct weg als ic-hoofd na vernietigend rapport over werkcultuur",
+                    "source": "nl24.nu",
+                    "link": "https://nl24.nu/artikel/diederik-gommers-per-direct-weg-als-ic-hoofd-na-vernietigend-rapport-over-werkcultuur",
+                    "publishedDate": "24/11/2026 20:49"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
@@ -1013,17 +1021,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Diederik Gommers per direct weg als ic-hoofd na vernietigend rapport over werkcultuur",
-            "link": "https://nl24.nu/artikel/diederik-gommers-per-direct-weg-als-ic-hoofd-na-vernietigend-rapport-over-werkcultuur",
-            "publishedDate": "24/11/2026 20:49",
-            "source": "nl24.nu",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Barbotagebehandeling - In het kort - Gelre ziekenhuizen",
             "link": "https://www.gelreziekenhuizen.nl/patient/folder/8fb2303b-c464-4cc6-a018-298662bb9243/15f136ef-ddf5-4382-8a37-834894103c0f",
             "publishedDate": "24/11/2026 20:47",
@@ -1118,17 +1115,6 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
-            "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
-            "publishedDate": "24/11/2026 19:31",
-            "source": "demorgen.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1656,17 +1642,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Man veroordeeld voor doxing van zorgmedewerkers na berichten over ouderenzorg - PONT",
-            "link": "https://privacy-web.nl/samenvatting/man-veroordeeld-voor-doxing-van-zorgmedewerkers-na-berichten-over-ouderenzorg/",
-            "publishedDate": "24/11/2026 14:34",
-            "source": "privacy-web.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "digizorg - FMT Gezondheidszorg",
             "link": "https://fmtgezondheidszorg.nl/digizorg-nu-ook-op-weg-in-langdurige-zorg/",
             "publishedDate": "24/11/2026 14:32",
@@ -1873,6 +1848,17 @@
             "source": "made-in.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+            "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+            "publishedDate": "24/11/2026 11:08",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
