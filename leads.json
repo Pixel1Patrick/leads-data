@@ -123,22 +123,17 @@
             "title": "Huisarts kan meer doen tegen onzichtbare relatieterreur: 'Slachtoffers ge\u00efsoleerd en gemanipuleerd'",
             "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5666723/huisartsen-dwingende-controle-intieme-terreur-femicide",
             "publishedDate": "25/11/2026 07:04",
-            "source": "rtl.nl",
+            "source": "nivel.nl, rtl.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
-            "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
-            "publishedDate": "25/11/2026 06:47",
-            "source": "nivel.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
+                    "source": "nivel.nl",
+                    "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
+                    "publishedDate": "25/11/2026 06:47"
+                },
                 {
                     "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
                     "source": "nivel.nl",
@@ -524,13 +519,19 @@
             "source": "drimble.nl, sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
                     "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+                    "publishedDate": "24/11/2026 22:31"
                 },
                 {
                     "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
@@ -624,17 +625,6 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-            "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-            "publishedDate": "24/11/2026 22:31",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1037,15 +1027,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Onderzoek naar het vastleggen van een inhoudelijke afbakening van jeugdhulp in wet- en  regelgeving",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/10774c5e-f548-4ecf-af70-67009f81bfcc",
-                    "publishedDate": "24/11/2026 17:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1179,6 +1162,17 @@
         {
             "title": "De taakgerichte uitvoeringsvariant in de praktijk",
             "link": "https://open.overheid.nl/details/07a46820-ac6c-420a-85d8-d62c3c26dff6",
+            "publishedDate": "24/11/2026 17:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Onderzoek naar het vastleggen van een inhoudelijke afbakening van jeugdhulp in wet- en  regelgeving",
+            "link": "https://open.overheid.nl/details/10774c5e-f548-4ecf-af70-67009f81bfcc",
             "publishedDate": "24/11/2026 17:07",
             "source": "open.overheid.nl",
             "category": "VWS",
