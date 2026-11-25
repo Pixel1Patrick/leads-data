@@ -120,21 +120,28 @@
             "title": "Santhea waarschuwt voor beperkte financi\u00eble marges van Waalse ziekenhuizen",
             "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2648E03/EAKbe2647S62_00",
             "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
+            "source": "artsenkrant.pmg.be, dekrantenkoppen.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Ziekenhuizen noteren voor vierde jaar op rij rode cijfers. CEO van grootste ... - Krantenkoppen",
+                    "source": "dekrantenkoppen.be",
+                    "link": "https://www.dekrantenkoppen.be/detail/4003763/ziekenhuizen-noteren-voor-vierde-jaar-op-rij-rode-cijfers-ceo-van-grootste-ziekenhuis-van-het-land-trekt-aan-alarmbel-er-komt-een-breekpunt.html",
+                    "publishedDate": "25/11/2026 17:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Een op de vier ziekenhuizen in de cashproblemen: symptoom van een breder zorgprobleem?",
             "link": "https://www.reddit.com/r/belgium/comments/1y5e3u7/een_op_de_vier_ziekenhuizen_in_de_cashproblemen/",
             "publishedDate": "25/11/2026 20:54",
-            "source": "dekrantenkoppen.be, nl.linkedin.com, reddit.com, tijd.be",
+            "source": "nl.linkedin.com, reddit.com, tijd.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kwart ziekenhuizen heeft onvoldoende cash om schulden te betalen - De Tijd",
@@ -143,19 +150,13 @@
                     "publishedDate": "25/11/2026 19:07"
                 },
                 {
-                    "title": "Ziekenhuizen noteren voor vierde jaar op rij rode cijfers. CEO van grootste ... - Krantenkoppen",
-                    "source": "dekrantenkoppen.be",
-                    "link": "https://www.dekrantenkoppen.be/detail/4003763/ziekenhuizen-noteren-voor-vierde-jaar-op-rij-rode-cijfers-ceo-van-grootste-ziekenhuis-van-het-land-trekt-aan-alarmbel-er-komt-een-breekpunt.html",
-                    "publishedDate": "25/11/2026 17:41"
-                },
-                {
                     "title": "Ziekenhuizen hebben geen financi\u00eble ruimte meer om de zorg van morgen voor te bereiden",
                     "source": "nl.linkedin.com",
                     "link": "https://nl.linkedin.com/posts/zorgneticuro_ziekenhuizen-hebben-geen-financi%C3%ABle-ruimte-activity-7531328258961784835-g-n_",
                     "publishedDate": "25/11/2026 17:16"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
@@ -197,10 +198,10 @@
             "title": "Aantal coronagevallen neemt snel toe - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/samenleving/aantal-coronagevallen-neemt-snel-toe",
             "publishedDate": "25/11/2026 19:48",
-            "source": "nl.headtopics.com, omroepbrabant.nl, telegraaf.nl, welingelichtekringen.nl",
+            "source": "omroepbrabant.nl, telegraaf.nl, welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Aantal coronagevallen neemt toe, ook piek in Brabant",
@@ -209,25 +210,13 @@
                     "publishedDate": "25/11/2026 19:14"
                 },
                 {
-                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-90182617",
-                    "publishedDate": "25/11/2026 18:29"
-                },
-                {
-                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6036184/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-het-beste",
-                    "publishedDate": "25/11/2026 18:06"
-                },
-                {
                     "title": "Aantal coronagevallen neemt snel toe: gestegen naar het hoogste niveau sinds pandemie",
                     "source": "telegraaf.nl",
                     "link": "https://www.telegraaf.nl/binnenland/aantal-coronagevallen-neemt-snel-toe-gestegen-naar-het-hoogste-niveau-sinds-pandemie/165105802.html",
                     "publishedDate": "25/11/2026 17:17"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "ZAS wil verregaandere hervorming van het ziekenhuislandschap - GVA",
@@ -358,7 +347,7 @@
                     "publishedDate": "25/11/2026 15:26"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zuyderland en Open Universiteit starten Expertisecentrum voor Zorgtransformatie",
@@ -369,6 +358,24 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Head Topics",
+            "link": "https://nl.headtopics.com/news/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-90182617",
+            "publishedDate": "25/11/2026 18:29",
+            "source": "nl.headtopics.com, omroepbrabant.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6036184/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-het-beste",
+                    "publishedDate": "25/11/2026 18:06"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -419,22 +426,16 @@
             "title": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare",
             "publishedDate": "25/11/2026 18:08",
-            "source": "kobr.nl, omroepbrabant.nl",
+            "source": "omroepbrabant.nl, vng.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
-                    "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
-                    "source": "kobr.nl",
-                    "link": "https://www.kobr.nl/nieuws/politiek/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
-                    "publishedDate": "25/11/2026 11:19"
-                },
-                {
-                    "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
-                    "source": "kobr.nl",
-                    "link": "https://www.kobr.nl/nieuws/algemeen/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
-                    "publishedDate": "25/11/2026 05:19"
+                    "title": "SPUK niet-beoogde jeugdzorgkosten verlengd voor 2026 - VNG",
+                    "source": "vng.nl",
+                    "link": "https://vng.nl/nieuws/spuk-niet-beoogde-jeugdzorgkosten-verlengd-voor-2026",
+                    "publishedDate": "25/11/2026 00:29"
                 }
             ],
             "belangrijkheid": 0
@@ -512,18 +513,11 @@
             "title": "Geraardsbergen trekt juridische kaart tegen AZORG na aangekondigde sluiting spoeddienst.",
             "link": "https://denderjournaal.be/geraardsbergen-trekt-juridische-kaart-tegen-azorg-na-aangekondigde-sluiting-spoeddienst/",
             "publishedDate": "25/11/2026 17:35",
-            "source": "aruba.nu, denderjournaal.be",
+            "source": "denderjournaal.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "HOH bevestigt 778 uitgestelde operaties, maar ziet ImSan niet als oplossing - Aruba.nu",
-                    "source": "aruba.nu",
-                    "link": "https://www.aruba.nu/nieuws/gezondheidszorg/98975/hoh-bevestigt-778-uitgestelde-operaties-maar-ziet-imsan-niet-als-oplossing",
-                    "publishedDate": "25/11/2026 16:19"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -677,6 +671,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "HOH bevestigt 778 uitgestelde operaties, maar ziet ImSan niet als oplossing - Aruba.nu",
+            "link": "https://www.aruba.nu/nieuws/gezondheidszorg/98975/hoh-bevestigt-778-uitgestelde-operaties-maar-ziet-imsan-niet-als-oplossing",
+            "publishedDate": "25/11/2026 16:19",
+            "source": "aruba.nu",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Henk Dammer (78) wilde radiotherapie voor zijn uitgezaaide prostaatkanker - de Stentor",
             "link": "https://www.destentor.nl/gezond/henk-dammer-78-heeft-uitgezaaide-prostaatkanker-maar-door-behandeling-radioactieve-straling-geniet-hij-weer~a8fde21f/",
             "publishedDate": "25/11/2026 16:16",
@@ -767,12 +772,18 @@
             "source": "drimble.nl, srherald.com, sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
                     "publishedDate": "24/11/2026 23:22"
                 },
                 {
@@ -1296,26 +1307,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-            "publishedDate": "25/11/2026 13:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1366,11 +1372,18 @@
             "title": "Pharming zet productie medicijn stop na niet-geslaagde test - Nieuws.nl",
             "link": "https://nieuws.nl/economie/pharming-zet-productie-medicijn-stop-na-niet-geslaagde-test",
             "publishedDate": "25/11/2026 11:34",
-            "source": "nieuws.nl",
+            "source": "nieuws.nl, nu.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
+                    "source": "nu.nl",
+                    "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
+                    "publishedDate": "25/11/2026 11:21"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1396,17 +1409,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
-            "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
-            "publishedDate": "25/11/2026 11:21",
-            "source": "nu.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Geertruidenberg biedt zorgverzekering voor inwoners met laag inkomen - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036074/geertruidenberg-biedt-zorgverzekering-voor-inwoners-met-laag-inkomen",
             "publishedDate": "25/11/2026 11:20",
@@ -1415,6 +1417,24 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
+            "link": "https://www.kobr.nl/nieuws/politiek/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
+            "publishedDate": "25/11/2026 11:19",
+            "source": "kobr.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
+                    "source": "kobr.nl",
+                    "link": "https://www.kobr.nl/nieuws/algemeen/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
+                    "publishedDate": "25/11/2026 05:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1671,28 +1691,6 @@
                     "publishedDate": "24/11/2026 16:03"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "SPUK niet-beoogde jeugdzorgkosten verlengd voor 2026 - VNG",
-            "link": "https://vng.nl/nieuws/spuk-niet-beoogde-jeugdzorgkosten-verlengd-voor-2026",
-            "publishedDate": "25/11/2026 00:29",
-            "source": "vng.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
-            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
-            "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
