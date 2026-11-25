@@ -6,8 +6,8 @@
             "publishedDate": "25/11/2026 22:44",
             "source": "artsenkrant.pmg.be, despecialist.eu",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "ZAS: &quot;Bespaar op verouderde ziekenhuisstructuren, niet op de zorg&quot; - De Specialist",
@@ -244,7 +244,7 @@
                     "publishedDate": "25/11/2026 17:17"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "ZAS wil verregaandere hervorming van het ziekenhuislandschap - GVA",
@@ -294,18 +294,11 @@
             "title": "Ozempic- en Mounjaro-makers moeten in VS waarschuwen voor gezichtsverlies",
             "link": "https://www.nieuwsblad.be/buitenland/ozempic-en-mounjaro-makers-moeten-in-vs-waarschuwen-voor-gezichtsverlies/165114023.html",
             "publishedDate": "25/11/2026 19:07",
-            "source": "nieuwsblad.be, tijd.be",
+            "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
-                    "source": "tijd.be",
-                    "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
-                    "publishedDate": "25/11/2026 13:02"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -576,17 +569,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ziekenhuizen hebben geen financi\u00eble ruimte meer om de zorg van morgen voor te bereiden",
-            "link": "https://nl.linkedin.com/posts/zorgneticuro_ziekenhuizen-hebben-geen-financi%C3%ABle-ruimte-activity-7531328258961784835-g-n_",
-            "publishedDate": "25/11/2026 17:16",
-            "source": "nl.linkedin.com",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Tweede Kamer wil Remigratiewet hernoemen, omdat aan 'remigratie' een extreemrechts luchtje zit",
             "link": "https://www.volkskrant.nl/politiek/tweede-kamer-wil-remigratiewet-hernoemen-omdat-aan-remigratie-een-extreemrechts-luchtje-zit~b3e1d8e3/",
             "publishedDate": "25/11/2026 17:11",
@@ -796,7 +778,7 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
@@ -1396,6 +1378,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
+            "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
+            "publishedDate": "25/11/2026 13:02",
+            "source": "tijd.be",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Kabinet en gemeenten maken nieuwe afspraken voor een samenleving waarin iedereen kan meedoen aan sport, bewegen en cultuur",
             "link": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/25/kabinet-en-gemeenten-maken-nieuwe-afspraken-voor-een-samenleving-waarin-iedereen-kan-meedoen-aan-sport-bewegen-en-cultuur",
             "publishedDate": "25/11/2026 13:00",
@@ -1443,18 +1436,11 @@
             "title": "Pharming zet productie medicijn stop na niet-geslaagde test - Nieuws.nl",
             "link": "https://nieuws.nl/economie/pharming-zet-productie-medicijn-stop-na-niet-geslaagde-test",
             "publishedDate": "25/11/2026 11:34",
-            "source": "nieuws.nl, nu.nl",
+            "source": "nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
-                    "source": "nu.nl",
-                    "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
-                    "publishedDate": "25/11/2026 11:21"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1475,6 +1461,17 @@
             "source": "lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
+            "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
+            "publishedDate": "25/11/2026 11:21",
+            "source": "nu.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1612,7 +1609,7 @@
                     "publishedDate": "25/11/2026 01:32"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Minderheidscoalitie Zaltbommel praat met alle partijen, lijmpoging met VVD is serieuze optie - AD",
