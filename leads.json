@@ -4,9 +4,27 @@
             "title": "Reactie LHV op Nivel-rapport over dwingende controle",
             "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
             "publishedDate": "25/11/2026 11:11",
-            "source": "lhv.nl",
+            "source": "lhv.nl, nivel.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
+                    "source": "nivel.nl",
+                    "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
+                    "publishedDate": "25/11/2026 06:47"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Rectificatie van Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte (RVG 30759)",
+            "link": "https://open.overheid.nl/details/oep-ob-62a223f6b66ce873e21df55dd57b420e05fab45c_4",
+            "publishedDate": "25/11/2026 10:46",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -18,17 +36,6 @@
             "source": "ioplus.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Rectificatie van Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte (RVG 30759)",
-            "link": "https://open.overheid.nl/details/oep-ob-62a223f6b66ce873e21df55dd57b420e05fab45c_2",
-            "publishedDate": "25/11/2026 10:22",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -85,17 +92,6 @@
                 }
             ],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 19 november 2026, kenmerk 2026-3216634/IT2114610, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Gonasi 5000 IE, poeder en oplosmiddel voor oplossing voor injectie (RVG 125838)",
-            "link": "https://open.overheid.nl/details/oep-ob-787794d1f8b852141b50e1763b5cb265628bce8d_1",
-            "publishedDate": "25/11/2026 10:18",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "Valpreventie breder in de praktijk. Monitor Valpreventie: stand van zaken ketenaanpak 2025",
@@ -163,12 +159,19 @@
             "title": "Minder jongeren in jeugdzorg, maar hogere kosten: kabinet bereidt hervormingen voor",
             "link": "https://www.gemeente.nu/sociaal/jeugdzorg/minder-jongeren-in-jeugdzorg-maar-hogere-kosten-kabinet-bereidt-hervormingen-voor/",
             "publishedDate": "25/11/2026 08:33",
-            "source": "gemeente.nu",
+            "source": "centraalplus.nl, gemeente.nu",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kosten dure jeugdzorg in twee jaar tijd meer dan verdubbeld - Centraal+",
+                    "source": "centraalplus.nl",
+                    "link": "https://centraalplus.nl/2026/11/24/kosten-dure-jeugdzorg-in-twee-jaar-tijd-meer-dan-verdubbeld/",
+                    "publishedDate": "24/11/2026 13:45"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Enschede maakt zich grote zorgen over jeugdzorg: 'Delen van het systeem zijn failliet'",
@@ -295,17 +298,6 @@
             "publishedDate": "25/11/2026 07:04",
             "source": "rtl.nl",
             "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
-            "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
-            "publishedDate": "25/11/2026 06:47",
-            "source": "nivel.nl",
-            "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -509,11 +501,18 @@
             "title": "Omstreden jongerenkerk Go Church houdt bijeenkomst in kapel van UZ Gent: ziekenhuis grijpt in",
             "link": "https://www.pzc.nl/gent/omstreden-jongerenkerk-go-church-houdt-bijeenkomst-in-kapel-van-uz-gent-ziekenhuis-grijpt-in~a03bcd5c/",
             "publishedDate": "25/11/2026 02:54",
-            "source": "pzc.nl",
+            "source": "demorgen.be, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
+                    "source": "demorgen.be",
+                    "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
+                    "publishedDate": "24/11/2026 19:31"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -593,7 +592,7 @@
                     "publishedDate": "24/11/2026 19:49"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "ze zijn welkom bij Wolly Wood in Oud-Zevenaar | Regio | De Gelderlander.nl",
@@ -628,22 +627,28 @@
                     "publishedDate": "24/11/2026 20:33"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
             "link": "https://www.gelderlander.nl/binnenland/pal-naast-onze-slaapkamer-echtpaar-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
             "publishedDate": "25/11/2026 00:54",
-            "source": "ad.nl, gelderlander.nl",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "'Pal naast onze slaapkamer': echtpaar in Middelburg wil geld zien voor inkijk en constante ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/middelburg/pal-naast-onze-slaapkamer-echtpaar-in-middelburg-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
                     "publishedDate": "24/11/2026 16:03"
+                },
+                {
+                    "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
+                    "publishedDate": "24/11/2026 18:01"
                 }
             ],
             "belangrijkheid": 0
@@ -1019,17 +1024,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
-            "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
-            "publishedDate": "24/11/2026 19:31",
-            "source": "demorgen.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gemeente Almere kan meebetalen aan zorgverzekering voor inwoners met laag inkomen",
             "link": "https://1almere.nl/nieuws/artikel/gemeente-almere-kan-meebetalen-aan-zorgverzekering-voor-inwoners-met-laag-inkomen",
             "publishedDate": "24/11/2026 19:30",
@@ -1102,17 +1096,6 @@
             "source": "rtvmiddenholland.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
-            "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
-            "publishedDate": "24/11/2026 18:01",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1615,7 +1598,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Wat is het gemiddelde salaris van een huisarts anno 2026?",
@@ -1637,7 +1620,7 @@
             "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Twaalf VVT-organisaties bundelen krachten rond AI | ICT&amp;health",
@@ -1679,17 +1662,6 @@
             "source": "rivm.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "RIVM Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kosten dure jeugdzorg in twee jaar tijd meer dan verdubbeld - Centraal+",
-            "link": "https://centraalplus.nl/2026/11/24/kosten-dure-jeugdzorg-in-twee-jaar-tijd-meer-dan-verdubbeld/",
-            "publishedDate": "24/11/2026 13:45",
-            "source": "centraalplus.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
