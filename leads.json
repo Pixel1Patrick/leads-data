@@ -501,18 +501,11 @@
             "title": "Omstreden jongerenkerk Go Church houdt bijeenkomst in kapel van UZ Gent: ziekenhuis grijpt in",
             "link": "https://www.pzc.nl/gent/omstreden-jongerenkerk-go-church-houdt-bijeenkomst-in-kapel-van-uz-gent-ziekenhuis-grijpt-in~a03bcd5c/",
             "publishedDate": "25/11/2026 02:54",
-            "source": "demorgen.be, pzc.nl",
+            "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
-                    "source": "demorgen.be",
-                    "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
-                    "publishedDate": "24/11/2026 19:31"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -568,16 +561,16 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
             "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
             "publishedDate": "25/11/2026 01:32",
-            "source": "cedarnews.net, drimble.nl, nos.nl",
+            "source": "cedarnews.net, drimble.nl, nos.nl, privacy-web.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
@@ -590,9 +583,15 @@
                     "source": "nos.nl",
                     "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
                     "publishedDate": "24/11/2026 19:49"
+                },
+                {
+                    "title": "Man veroordeeld voor doxing van zorgmedewerkers na berichten over ouderenzorg - PONT",
+                    "source": "privacy-web.nl",
+                    "link": "https://privacy-web.nl/samenvatting/man-veroordeeld-voor-doxing-van-zorgmedewerkers-na-berichten-over-ouderenzorg/",
+                    "publishedDate": "24/11/2026 14:34"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "ze zijn welkom bij Wolly Wood in Oud-Zevenaar | Regio | De Gelderlander.nl",
@@ -633,22 +632,16 @@
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
             "link": "https://www.gelderlander.nl/binnenland/pal-naast-onze-slaapkamer-echtpaar-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
             "publishedDate": "25/11/2026 00:54",
-            "source": "ad.nl, bndestem.nl, gelderlander.nl",
+            "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "'Pal naast onze slaapkamer': echtpaar in Middelburg wil geld zien voor inkijk en constante ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/middelburg/pal-naast-onze-slaapkamer-echtpaar-in-middelburg-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
                     "publishedDate": "24/11/2026 16:03"
-                },
-                {
-                    "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
-                    "publishedDate": "24/11/2026 18:01"
                 }
             ],
             "belangrijkheid": 0
@@ -1024,6 +1017,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
+            "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
+            "publishedDate": "24/11/2026 19:31",
+            "source": "demorgen.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Gemeente Almere kan meebetalen aan zorgverzekering voor inwoners met laag inkomen",
             "link": "https://1almere.nl/nieuws/artikel/gemeente-almere-kan-meebetalen-aan-zorgverzekering-voor-inwoners-met-laag-inkomen",
             "publishedDate": "24/11/2026 19:30",
@@ -1041,17 +1045,6 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Naast de bestuursvoorzitter heeft maar \u00e9\u00e9n medewerker een vaste werkplek in ... - De Gelderlander",
-            "link": "https://www.gelderlander.nl/doetinchem/naast-de-bestuursvoorzitter-heeft-maar-een-medewerker-een-vaste-werkplek-in-het-ziekenhuis-en-zij-werkt-met-een-braillebord~a72e1db8/",
-            "publishedDate": "24/11/2026 19:08",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1096,6 +1089,17 @@
             "source": "rtvmiddenholland.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
+            "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
+            "publishedDate": "24/11/2026 18:01",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1206,8 +1210,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
+                    "publishedDate": "24/11/2026 15:15"
+                },
+                {
+                    "title": "Kamerbrief inzake Commentaar NVZ en meerdere organisaties t.b.v. debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet in verband met digitale identificatie en authenticatie in de zorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/46c280bd-bf80-4e49-a360-bcb7200c6dfe",
+                    "publishedDate": "24/11/2026 15:15"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1440,24 +1457,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
-            "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
-            "publishedDate": "24/11/2026 15:15",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief inzake Commentaar NVZ en meerdere organisaties t.b.v. debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet in verband met digitale identificatie en authenticatie in de zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/46c280bd-bf80-4e49-a360-bcb7200c6dfe",
-                    "publishedDate": "24/11/2026 15:15"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Eerstelijnszorg] Samenwerking voor voldoende capaciteit medische kindzorg",
             "link": "https://www.zn.nl/actueel/samenwerking-voor-voldoende-capaciteit-medische-kindzorg/",
             "publishedDate": "24/11/2026 15:14",
@@ -1546,17 +1545,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Man veroordeeld voor doxing van zorgmedewerkers na berichten over ouderenzorg - PONT",
-            "link": "https://privacy-web.nl/samenvatting/man-veroordeeld-voor-doxing-van-zorgmedewerkers-na-berichten-over-ouderenzorg/",
-            "publishedDate": "24/11/2026 14:34",
-            "source": "privacy-web.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "digizorg - FMT Gezondheidszorg",
             "link": "https://fmtgezondheidszorg.nl/digizorg-nu-ook-op-weg-in-langdurige-zorg/",
             "publishedDate": "24/11/2026 14:32",
@@ -1598,7 +1586,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Wat is het gemiddelde salaris van een huisarts anno 2026?",
@@ -1620,7 +1608,7 @@
             "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Twaalf VVT-organisaties bundelen krachten rond AI | ICT&amp;health",
