@@ -4,11 +4,18 @@
             "title": "Reactie LHV op Nivel-rapport over dwingende controle",
             "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
             "publishedDate": "25/11/2026 11:11",
-            "source": "lhv.nl",
+            "source": "lhv.nl, nivel.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
+                    "source": "nivel.nl",
+                    "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
+                    "publishedDate": "25/11/2026 06:47"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -48,23 +55,11 @@
             "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
             "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
             "publishedDate": "25/11/2026 10:19",
-            "source": "cnv.nl, fnv.nl, nl.headtopics.com, nu91.nl, omroepbrabant.nl, rtvfocuszwolle.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, nl.headtopics.com, omroepbrabant.nl, zorgwelzijn.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 9,
+            "duplicate_count": 7,
             "extra_bronnen": [
-                {
-                    "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
-                    "source": "rtvfocuszwolle.nl",
-                    "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
-                    "publishedDate": "24/11/2026 16:14"
-                },
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -175,11 +170,18 @@
             "title": "Enschede maakt zich grote zorgen over jeugdzorg: 'Delen van het systeem zijn failliet'",
             "link": "https://www.1twente.nl/artikel/6424349/enschede-maakt-zich-grote-zorgen-over-jeugdzorg-delen-van-het-systeem-zijn-failliet",
             "publishedDate": "25/11/2026 08:23",
-            "source": "1twente.nl",
+            "source": "1twente.nl, rtvnoord.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Groningers wachten maandenlang op ggz-behandeling: 'Voor hen staat het leven stil'",
+                    "source": "rtvnoord.nl",
+                    "link": "https://www.rtvnoord.nl/zorg/1454779/groningers-wachten-maandenlang-op-ggz-behandeling-voor-hen-staat-het-leven-stil",
+                    "publishedDate": "24/11/2026 19:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -296,17 +298,6 @@
             "publishedDate": "25/11/2026 07:04",
             "source": "rtl.nl",
             "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
-            "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
-            "publishedDate": "25/11/2026 06:47",
-            "source": "nivel.nl",
-            "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -510,11 +501,18 @@
             "title": "Omstreden jongerenkerk Go Church houdt bijeenkomst in kapel van UZ Gent: ziekenhuis grijpt in",
             "link": "https://www.pzc.nl/gent/omstreden-jongerenkerk-go-church-houdt-bijeenkomst-in-kapel-van-uz-gent-ziekenhuis-grijpt-in~a03bcd5c/",
             "publishedDate": "25/11/2026 02:54",
-            "source": "pzc.nl",
+            "source": "demorgen.be, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
+                    "source": "demorgen.be",
+                    "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
+                    "publishedDate": "24/11/2026 19:31"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -570,16 +568,16 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
             "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
             "publishedDate": "25/11/2026 01:32",
-            "source": "cedarnews.net, drimble.nl, nos.nl",
+            "source": "blikopnieuws.nl, cedarnews.net, drimble.nl, nos.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
@@ -592,6 +590,12 @@
                     "source": "nos.nl",
                     "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
                     "publishedDate": "24/11/2026 19:49"
+                },
+                {
+                    "title": "OM eist 22 jaar cel tegen vrouw (27) die gifmoord op zelfmoord wilde laten lijken",
+                    "source": "blikopnieuws.nl",
+                    "link": "https://www.blikopnieuws.nl/nieuws/311631/om-eist-22-jaar-cel-tegen-vrouw-27-die-gifmoord-op-zelfmoord-wilde-laten-lijken.html",
+                    "publishedDate": "24/11/2026 15:21"
                 }
             ],
             "belangrijkheid": 0
@@ -611,10 +615,10 @@
             "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
             "link": "https://www.bndestem.nl/hoeksche-waard/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
             "publishedDate": "25/11/2026 01:01",
-            "source": "ad.nl, bndestem.nl, gelderlander.nl, nl24.nu",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
@@ -627,12 +631,6 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/binnenland/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
                     "publishedDate": "24/11/2026 20:33"
-                },
-                {
-                    "title": "Diederik Gommers per direct weg als ic-hoofd na vernietigend rapport over werkcultuur",
-                    "source": "nl24.nu",
-                    "link": "https://nl24.nu/artikel/diederik-gommers-per-direct-weg-als-ic-hoofd-na-vernietigend-rapport-over-werkcultuur",
-                    "publishedDate": "24/11/2026 20:49"
                 }
             ],
             "belangrijkheid": 1
@@ -769,16 +767,22 @@
             "title": "Nieuwe bestuurder Zorgwaard wil vertrouwen herstellen en ouderenzorg klaarmaken ... - Drimble",
             "link": "https://drimble.nl/regio/zuid-holland/hoeksche-waard/108701769/nieuwe-bestuurder-zorgwaard-wil-vertrouwen-herstellen-en-ouderenzorg-klaarmaken-voor-de-toekomst.html",
             "publishedDate": "24/11/2026 23:08",
-            "source": "drimble.nl, omroephw.nl",
+            "source": "drimble.nl, ggznieuws.nl, omroephw.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Nieuwe bestuurder Zorgwaard wil vertrouwen herstellen en ouderenzorg klaarmaken voor ...",
                     "source": "omroephw.nl",
                     "link": "https://www.omroephw.nl/2026/11/nieuwe-bestuurder-zorgwaard-wil-vertrouwen-herstellen-en-ouderenzorg-klaarmaken-voor-de-toekomst/",
                     "publishedDate": "24/11/2026 13:14"
+                },
+                {
+                    "title": "Jos Holland wordt de nieuwe bestuurder van Altrecht - - ggznieuws.nl",
+                    "source": "ggznieuws.nl",
+                    "link": "https://www.ggznieuws.nl/jos-holland-wordt-de-nieuwe-bestuurder-van-altrecht/",
+                    "publishedDate": "24/11/2026 16:55"
                 }
             ],
             "belangrijkheid": 0
@@ -916,6 +920,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Diederik Gommers per direct weg als ic-hoofd na vernietigend rapport over werkcultuur",
+            "link": "https://nl24.nu/artikel/diederik-gommers-per-direct-weg-als-ic-hoofd-na-vernietigend-rapport-over-werkcultuur",
+            "publishedDate": "24/11/2026 20:49",
+            "source": "nl24.nu",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Barbotagebehandeling - In het kort - Gelre ziekenhuizen",
             "link": "https://www.gelreziekenhuizen.nl/patient/folder/8fb2303b-c464-4cc6-a018-298662bb9243/15f136ef-ddf5-4382-8a37-834894103c0f",
             "publishedDate": "24/11/2026 20:47",
@@ -1015,17 +1030,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
-            "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
-            "publishedDate": "24/11/2026 19:31",
-            "source": "demorgen.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gemeente Almere kan meebetalen aan zorgverzekering voor inwoners met laag inkomen",
             "link": "https://1almere.nl/nieuws/artikel/gemeente-almere-kan-meebetalen-aan-zorgverzekering-voor-inwoners-met-laag-inkomen",
             "publishedDate": "24/11/2026 19:30",
@@ -1043,17 +1047,6 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Groningers wachten maandenlang op ggz-behandeling: 'Voor hen staat het leven stil'",
-            "link": "https://www.rtvnoord.nl/zorg/1454779/groningers-wachten-maandenlang-op-ggz-behandeling-voor-hen-staat-het-leven-stil",
-            "publishedDate": "24/11/2026 19:07",
-            "source": "rtvnoord.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1142,8 +1135,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Onderzoek naar het vastleggen van een inhoudelijke afbakening van jeugdhulp in wet- en  regelgeving",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/10774c5e-f548-4ecf-af70-67009f81bfcc",
+                    "publishedDate": "24/11/2026 17:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1208,8 +1208,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
+                    "publishedDate": "24/11/2026 15:15"
+                },
+                {
+                    "title": "Kamerbrief inzake Commentaar NVZ en meerdere organisaties t.b.v. debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet in verband met digitale identificatie en authenticatie in de zorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/46c280bd-bf80-4e49-a360-bcb7200c6dfe",
+                    "publishedDate": "24/11/2026 15:15"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1246,34 +1259,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Onderzoek naar het vastleggen van een inhoudelijke afbakening van jeugdhulp in wet- en  regelgeving",
-            "link": "https://open.overheid.nl/details/10774c5e-f548-4ecf-af70-67009f81bfcc",
-            "publishedDate": "24/11/2026 17:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Hoe de term 'verpleeghuis' uit de ouderenzorg verdwijnt. 'De afkeer voor de term is enorm ...",
             "link": "https://www.nrc.nl/nieuws/2026/11/24/hoe-de-term-verpleeghuis-uit-de-ouderenzorg-verdwijnt-de-afkeer-voor-de-term-is-enorm-groot-geworden-a4941535",
             "publishedDate": "24/11/2026 17:06",
             "source": "nrc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jos Holland wordt de nieuwe bestuurder van Altrecht - - ggznieuws.nl",
-            "link": "https://www.ggznieuws.nl/jos-holland-wordt-de-nieuwe-bestuurder-van-altrecht/",
-            "publishedDate": "24/11/2026 16:55",
-            "source": "ggznieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1363,6 +1354,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
+            "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
+            "publishedDate": "24/11/2026 16:14",
+            "source": "rtvfocuszwolle.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Al 30 procent meer griepvaccins toegediend door Vlaamse apothekers - De Specialist",
             "link": "https://www.despecialist.eu/nl/nieuws/grippe-30-de-vaccins-supplementaires-administres-par-les-pharmaciens-flamands.html",
             "publishedDate": "24/11/2026 16:14",
@@ -1409,17 +1411,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "OM eist 22 jaar cel tegen vrouw (27) die gifmoord op zelfmoord wilde laten lijken",
-            "link": "https://www.blikopnieuws.nl/nieuws/311631/om-eist-22-jaar-cel-tegen-vrouw-27-die-gifmoord-op-zelfmoord-wilde-laten-lijken.html",
-            "publishedDate": "24/11/2026 15:21",
-            "source": "blikopnieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Laten we drugsintoxicatie op de SEH serieus nemen - DOQ.nl",
             "link": "https://www.doq.nl/laten-we-drugsintoxicatie-op-de-seh-serieus-nemen/",
             "publishedDate": "24/11/2026 15:19",
@@ -1428,24 +1419,6 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
-            "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
-            "publishedDate": "24/11/2026 15:15",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief inzake Commentaar NVZ en meerdere organisaties t.b.v. debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet in verband met digitale identificatie en authenticatie in de zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/46c280bd-bf80-4e49-a360-bcb7200c6dfe",
-                    "publishedDate": "24/11/2026 15:15"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1601,6 +1574,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Twaalf VVT-organisaties bundelen krachten rond AI | ICT&amp;health",
