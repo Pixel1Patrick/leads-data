@@ -303,10 +303,10 @@
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
             "link": "https://www.srherald.com/suriname/2026/11/25/seh-laat-begeleiders-vanaf-nu-buiten-wachten-na-incident-met-donovan-grep/",
             "publishedDate": "25/11/2026 16:14",
-            "source": "drimble.nl, srherald.com",
+            "source": "drimble.nl, srherald.com, sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
@@ -319,6 +319,12 @@
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
                     "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+                    "publishedDate": "24/11/2026 22:31"
                 }
             ],
             "belangrijkheid": 0
@@ -330,25 +336,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
                     "publishedDate": "25/11/2026 16:11"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
-                    "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
             "belangrijkheid": 0
@@ -896,27 +890,50 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
+            "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
+                    "publishedDate": "25/11/2026 13:10"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027 - 2029",
             "link": "https://open.overheid.nl/details/2da7f0aa-a431-4089-afd6-26dcd5e56714",
             "publishedDate": "25/11/2026 13:10",
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1484,22 +1501,16 @@
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
             "link": "https://www.gelderlander.nl/binnenland/pal-naast-onze-slaapkamer-echtpaar-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
             "publishedDate": "25/11/2026 00:54",
-            "source": "ad.nl, bndestem.nl, gelderlander.nl",
+            "source": "ad.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "'Pal naast onze slaapkamer': echtpaar in Middelburg wil geld zien voor inkijk en constante ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/middelburg/pal-naast-onze-slaapkamer-echtpaar-in-middelburg-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
                     "publishedDate": "24/11/2026 16:03"
-                },
-                {
-                    "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
-                    "publishedDate": "24/11/2026 18:01"
                 }
             ],
             "belangrijkheid": 0
@@ -1540,17 +1551,6 @@
             "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-            "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-            "publishedDate": "24/11/2026 22:31",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1650,6 +1650,17 @@
             "source": "rtvmiddenholland.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
+            "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
+            "publishedDate": "24/11/2026 18:01",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
