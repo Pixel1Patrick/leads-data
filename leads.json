@@ -70,11 +70,24 @@
             "title": "ZAS: &quot;Bespaar op verouderde ziekenhuisstructuren, niet op de zorg&quot; - De Specialist",
             "link": "https://www.despecialist.eu/nl/nieuws/zas-bespaar-op-verouderde-ziekenhuisstructuren-niet-op-de-zorg.html",
             "publishedDate": "25/11/2026 18:13",
-            "source": "despecialist.eu",
+            "source": "despecialist.eu, pzc.nl, tijd.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Grootste ziekenhuisgroep van het land pleit voor grondige hervormingen: \u201cBespaar op ... - PZC",
+                    "source": "pzc.nl",
+                    "link": "https://www.pzc.nl/antwerpen/grootste-ziekenhuisgroep-van-het-land-pleit-voor-grondige-hervormingen-bespaar-op-verouderde-ziekenhuisstructuren-niet-op-de-zorg~a7542fcf/",
+                    "publishedDate": "25/11/2026 15:10"
+                },
+                {
+                    "title": "CEO Antwerps ziekenhuis ZAS: 'We zijn fier op onze fusie, maar we hebben hulp nodig'",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/politiek-economie/belgie/federaal/ceo-antwerps-ziekenhuis-zas-we-zijn-fier-op-onze-fusie-maar-we-hebben-hulp-nodig/10706931.html",
+                    "publishedDate": "25/11/2026 15:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -104,24 +117,17 @@
                     "publishedDate": "25/11/2026 17:17"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
             "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
             "publishedDate": "25/11/2026 18:04",
-            "source": "1zwolle.nl, rtvdrenthe.nl",
+            "source": "rtvdrenthe.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
-                    "source": "1zwolle.nl",
-                    "link": "https://1zwolle.nl/nieuws/217360/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
-                    "publishedDate": "25/11/2026 16:13"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -179,24 +185,11 @@
             "title": "MAHA-studie 2026: ziekenhuizen zijn volop in transformatie, maar hebben ondersteuning nodig",
             "link": "https://www.gibbis.be/nl/press/item/6786-maha-studie-2026-ziekenhuizen-zijn-volop-in-transformatie-maar-hebben-ondersteuning-nodig",
             "publishedDate": "25/11/2026 17:43",
-            "source": "belfius.be, gibbis.be, vandenbroucke.belgium.be",
+            "source": "gibbis.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "MAHA-analyse 2026: De financi\u00eble gezondheid van de Belgische ziekenhuissector in 2025 - Belfius",
-                    "source": "belfius.be",
-                    "link": "https://www.belfius.be/about-us/dam/corporate/press-room/press-articles/downloads/nl/2026/Studie-Belfius_MAHA-analyse-2026_25-11-2026.pdf",
-                    "publishedDate": "25/11/2026 16:42"
-                },
-                {
-                    "title": "MAHA sectoranalyse 2026 - Frank Vandenbroucke - Belgium.be",
-                    "source": "vandenbroucke.belgium.be",
-                    "link": "https://vandenbroucke.belgium.be/nl/nieuws/maha-sectoranalyse-2026",
-                    "publishedDate": "24/11/2026 21:18"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -314,7 +307,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Plannen voor verloskundige post in Parkstad; zwangere vrouwen minder snel naar ziekenhuis",
@@ -367,6 +360,17 @@
             "source": "vilans.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "MAHA-analyse 2026: De financi\u00eble gezondheid van de Belgische ziekenhuissector in 2025 - Belfius",
+            "link": "https://www.belfius.be/about-us/dam/corporate/press-room/press-articles/downloads/nl/2026/Studie-Belfius_MAHA-analyse-2026_25-11-2026.pdf",
+            "publishedDate": "25/11/2026 16:42",
+            "source": "belfius.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -543,31 +547,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
+            "link": "https://1zwolle.nl/nieuws/217360/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
+            "publishedDate": "25/11/2026 16:13",
+            "source": "1zwolle.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
             "link": "https://open.overheid.nl/details/1beb0d46-8225-434c-97ce-9edc2bf03c72",
             "publishedDate": "25/11/2026 16:11",
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
                     "publishedDate": "25/11/2026 16:11"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
-                    "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
             "belangrijkheid": 0
@@ -625,7 +628,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Dit zijn de 5 goedkoopste zorgverzekeringen van 2027: verschil loopt op tot \u20ac649",
@@ -793,28 +796,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Grootste ziekenhuisgroep van het land pleit voor grondige hervormingen: \u201cBespaar op ... - PZC",
-            "link": "https://www.pzc.nl/antwerpen/grootste-ziekenhuisgroep-van-het-land-pleit-voor-grondige-hervormingen-bespaar-op-verouderde-ziekenhuisstructuren-niet-op-de-zorg~a7542fcf/",
-            "publishedDate": "25/11/2026 15:10",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "CEO Antwerps ziekenhuis ZAS: 'We zijn fier op onze fusie, maar we hebben hulp nodig'",
-            "link": "https://www.tijd.be/politiek-economie/belgie/federaal/ceo-antwerps-ziekenhuis-zas-we-zijn-fier-op-onze-fusie-maar-we-hebben-hulp-nodig/10706931.html",
-            "publishedDate": "25/11/2026 15:08",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Buurt ziet serre achter restaurant verschijnen en slaat alarm: 'Dat is die illegale uit Haaksbergen' - AD",
             "link": "https://www.ad.nl/dalfsen/buurt-vreest-dat-illegale-serre-van-haaksbergen-naar-dalfsen-is-verhuisd-horecabaas-zegt-iets-anders~a59cb10c/",
             "publishedDate": "25/11/2026 15:03",
@@ -931,31 +912,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
                     "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027 - 2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2da7f0aa-a431-4089-afd6-26dcd5e56714",
-                    "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
-                    "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
             "belangrijkheid": 0
@@ -1134,6 +1097,48 @@
             "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
+            "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
+                    "publishedDate": "25/11/2026 13:10"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027 - 2029",
+            "link": "https://open.overheid.nl/details/2da7f0aa-a431-4089-afd6-26dcd5e56714",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
+                    "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+                    "publishedDate": "25/11/2026 13:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1691,6 +1696,17 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "MAHA sectoranalyse 2026 - Frank Vandenbroucke - Belgium.be",
+            "link": "https://vandenbroucke.belgium.be/nl/nieuws/maha-sectoranalyse-2026",
+            "publishedDate": "24/11/2026 21:18",
+            "source": "vandenbroucke.belgium.be",
+            "category": "Overig",
+            "feed_label": "Alert eerstelijnszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
