@@ -331,10 +331,10 @@
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
             "link": "https://www.srherald.com/suriname/2026/11/25/seh-laat-begeleiders-vanaf-nu-buiten-wachten-na-incident-met-donovan-grep/",
             "publishedDate": "25/11/2026 16:14",
-            "source": "drimble.nl, srherald.com, sun.sr",
+            "source": "drimble.nl, srherald.com",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
@@ -347,12 +347,6 @@
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
                     "publishedDate": "24/11/2026 23:22"
-                },
-                {
-                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-                    "publishedDate": "24/11/2026 22:31"
                 }
             ],
             "belangrijkheid": 0
@@ -1257,7 +1251,7 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Minderheidscoalitie Zaltbommel praat met alle partijen, lijmpoging met VVD is serieuze optie - AD",
@@ -1607,6 +1601,17 @@
             "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+            "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+            "publishedDate": "24/11/2026 22:31",
+            "source": "sun.sr",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
