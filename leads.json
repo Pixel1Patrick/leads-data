@@ -660,21 +660,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -838,7 +843,7 @@
                     "publishedDate": "25/11/2026 08:12"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kamers voor jongeren gezocht - De Toren Hardenberg",
@@ -1031,11 +1036,30 @@
             "title": "Acht aanhoudingen in onderzoek naar miljoenenfraude via zorgbureaus en zzp'ers",
             "link": "https://www.accountancyvanmorgen.nl/2026/11/25/acht-aanhoudingen-in-onderzoek-naar-miljoenenfraude-via-zorgbureaus-en-zzpers/",
             "publishedDate": "25/11/2026 09:30",
-            "source": "accountancyvanmorgen.nl",
+            "source": "accountancyvanmorgen.nl, cedarnews.net, drimble.nl, nos.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
+                    "publishedDate": "25/11/2026 01:32"
+                },
+                {
+                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
+                    "source": "cedarnews.net",
+                    "link": "https://cedarnews.net/nederlands/1190765/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel/",
+                    "publishedDate": "24/11/2026 20:02"
+                },
+                {
+                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
+                    "publishedDate": "24/11/2026 19:49"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -1213,15 +1237,19 @@
             "source": "nivel.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
-                    "source": "nivel.nl",
-                    "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
-                    "publishedDate": "25/11/2026 06:42"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
+            "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
+            "publishedDate": "25/11/2026 06:42",
+            "source": "nivel.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1346,36 +1374,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
-            "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
-            "publishedDate": "25/11/2026 01:32",
-            "source": "bndestem.nl, cedarnews.net, drimble.nl, nos.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel",
-                    "source": "cedarnews.net",
-                    "link": "https://cedarnews.net/nederlands/1190765/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel/",
-                    "publishedDate": "24/11/2026 20:02"
-                },
-                {
-                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2640859-acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel",
-                    "publishedDate": "24/11/2026 19:49"
-                },
-                {
-                    "title": "'Opa Cees' (74) misbruikte 11 jongetjes en zou nu hebben toegeslagen in de cel: 'Hij gaf me klopjes'",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/dordrecht/opa-cees-74-misbruikte-11-jongetjes-en-zou-nu-hebben-toegeslagen-in-de-cel-hij-gaf-me-klopjes~a33fac1f/",
-                    "publishedDate": "24/11/2026 19:14"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "ze zijn welkom bij Wolly Wood in Oud-Zevenaar | Regio | De Gelderlander.nl",
             "link": "https://www.gelderlander.nl/zevenaar/een-geit-met-hersenschade-een-dove-alpaca-en-drie-kamelen-ze-zijn-welkom-bij-wolly-wood-in-oud-zevenaar~a076ddea/",
             "publishedDate": "25/11/2026 01:03",
@@ -1390,16 +1388,22 @@
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
             "link": "https://www.gelderlander.nl/binnenland/pal-naast-onze-slaapkamer-echtpaar-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
             "publishedDate": "25/11/2026 00:54",
-            "source": "ad.nl, gelderlander.nl",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "'Pal naast onze slaapkamer': echtpaar in Middelburg wil geld zien voor inkijk en constante ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/middelburg/pal-naast-onze-slaapkamer-echtpaar-in-middelburg-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
                     "publishedDate": "24/11/2026 16:03"
+                },
+                {
+                    "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
+                    "publishedDate": "24/11/2026 18:01"
                 }
             ],
             "belangrijkheid": 0
@@ -1437,24 +1441,22 @@
             "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
             "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
             "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl, sun.sr",
+            "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
-                    "publishedDate": "24/11/2026 23:22"
-                },
-                {
-                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-                    "publishedDate": "24/11/2026 22:31"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
+            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
+            "publishedDate": "24/11/2026 23:22",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1484,6 +1486,17 @@
                     "publishedDate": "24/11/2026 13:14"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+            "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+            "publishedDate": "24/11/2026 22:31",
+            "source": "sun.sr",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1597,23 +1610,23 @@
             "belangrijkheid": 0
         },
         {
+            "title": "'Opa Cees' (74) misbruikte 11 jongetjes en zou nu hebben toegeslagen in de cel: 'Hij gaf me klopjes'",
+            "link": "https://www.bndestem.nl/dordrecht/opa-cees-74-misbruikte-11-jongetjes-en-zou-nu-hebben-toegeslagen-in-de-cel-hij-gaf-me-klopjes~a33fac1f/",
+            "publishedDate": "24/11/2026 19:14",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Commissie bespreekt nieuwe regels voor zorg, participatie en inkomen",
             "link": "https://rtvmiddenholland.nl/nieuws/commissie-bespreekt-nieuwe-regels-voor-zorg-participatie-en-inkomen/",
             "publishedDate": "24/11/2026 18:16",
             "source": "rtvmiddenholland.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
-            "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
-            "publishedDate": "24/11/2026 18:01",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
