@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Palliatieve eenheid AZ Turnhout verhuist naar nieuwe locatie en houdt open huis - RTV",
+            "link": "https://www.rtv.be/actualiteit-en-nieuws/palliatieve-eenheid-az-turnhout-verhuist-naar-nieuwe-locatie-en-houdt-open",
+            "publishedDate": "25/11/2026 19:21",
+            "source": "rtv.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Aantal coronagevallen neemt toe, ook piek in Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036184/aantal-coronagevallen-neemt-toe-ook-piek-in-brabant",
             "publishedDate": "25/11/2026 19:14",
@@ -28,9 +39,33 @@
             "title": "Ozempic- en Mounjaro-makers moeten in VS waarschuwen voor gezichtsverlies",
             "link": "https://www.nieuwsblad.be/buitenland/ozempic-en-mounjaro-makers-moeten-in-vs-waarschuwen-voor-gezichtsverlies/165114023.html",
             "publishedDate": "25/11/2026 19:07",
-            "source": "nieuwsblad.be",
+            "source": "nieuwsblad.be, nl.marketscreener.com, tijd.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Novo en Eli Lilly aangeklaagd in de VS wegens zeldzame oogaandoening door GLP-1-medicijnen",
+                    "source": "nl.marketscreener.com",
+                    "link": "https://nl.marketscreener.com/beursnieuws/novo-en-eli-lilly-aangeklaagd-in-de-vs-wegens-zeldzame-oogaandoening-door-glp-1-medicijnen-ce7851d8d88cf020",
+                    "publishedDate": "25/11/2026 15:54"
+                },
+                {
+                    "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
+                    "publishedDate": "25/11/2026 13:02"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Van overspel naar kanonnenvoer: hoe Andrej Zvyagintsev in Minotaur het moreel failliete ...",
+            "link": "https://www.parool.nl/film/van-overspel-naar-kanonnenvoer-hoe-andrej-zvyagintsev-in-minotaur-het-moreel-failliete-rusland-ontleedt~bd82e32d2/",
+            "publishedDate": "25/11/2026 19:07",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -39,11 +74,18 @@
             "title": "Hamber Jeugdhulp reageert op zorgfraudeberichtgeving: medebestuurder geschorst ...",
             "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5353987/hamber-jeugdhulp-reageert-op-zorgfraudeberichtgeving-medebestuurder-geschor/",
             "publishedDate": "25/11/2026 19:04",
-            "source": "nieuwsinalphen.nl",
+            "source": "dewoudenberger.nl, nieuwsinalphen.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Misstanden Huize Soria onder de loep: Woudenberg onderzoekt eigen rol",
+                    "source": "dewoudenberger.nl",
+                    "link": "https://www.dewoudenberger.nl/lokaal/politiek/1329588/misstanden-huize-soria-onder-de-loep-regio-onderzoekt-eigen-rol",
+                    "publishedDate": "25/11/2026 07:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -77,6 +119,30 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zuyderland en Open Universiteit starten Expertisecentrum voor Zorgtransformatie",
+            "link": "https://zuyderland.nl/nieuws/zuyderland-en-open-universiteit-starten-expertisecentrum-voor-zorgtransformatie/",
+            "publishedDate": "25/11/2026 18:36",
+            "source": "ioplus.nl, zorgkrant.nl, zuyderland.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Amsterdamse universiteiten en UMC bundelen krachten in medtech - IO+",
+                    "source": "ioplus.nl",
+                    "link": "https://ioplus.nl/nl/posts/amsterdamse-universiteiten-en-umc-bundelen-krachten-in-medtech",
+                    "publishedDate": "25/11/2026 16:33"
+                },
+                {
+                    "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
+                    "source": "zorgkrant.nl",
+                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
+                    "publishedDate": "25/11/2026 11:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -116,11 +182,18 @@
             "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
             "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
             "publishedDate": "25/11/2026 18:04",
-            "source": "rtvdrenthe.nl",
+            "source": "1zwolle.nl, rtvdrenthe.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
+                    "source": "1zwolle.nl",
+                    "link": "https://1zwolle.nl/nieuws/217360/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
+                    "publishedDate": "25/11/2026 16:13"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -178,7 +251,31 @@
             "title": "MAHA-studie 2026: ziekenhuizen zijn volop in transformatie, maar hebben ondersteuning nodig",
             "link": "https://www.gibbis.be/nl/press/item/6786-maha-studie-2026-ziekenhuizen-zijn-volop-in-transformatie-maar-hebben-ondersteuning-nodig",
             "publishedDate": "25/11/2026 17:43",
-            "source": "gibbis.be",
+            "source": "belfius.be, gibbis.be, vandenbroucke.belgium.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "MAHA-analyse 2026: De financi\u00eble gezondheid van de Belgische ziekenhuissector in 2025 - Belfius",
+                    "source": "belfius.be",
+                    "link": "https://www.belfius.be/about-us/dam/corporate/press-room/press-articles/downloads/nl/2026/Studie-Belfius_MAHA-analyse-2026_25-11-2026.pdf",
+                    "publishedDate": "25/11/2026 16:42"
+                },
+                {
+                    "title": "MAHA sectoranalyse 2026 - Frank Vandenbroucke - Belgium.be",
+                    "source": "vandenbroucke.belgium.be",
+                    "link": "https://vandenbroucke.belgium.be/nl/nieuws/maha-sectoranalyse-2026",
+                    "publishedDate": "24/11/2026 21:18"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ziekenhuizen noteren voor vierde jaar op rij rode cijfers. CEO van grootste ... - Krantenkoppen",
+            "link": "https://www.dekrantenkoppen.be/detail/4003763/ziekenhuizen-noteren-voor-vierde-jaar-op-rij-rode-cijfers-ceo-van-grootste-ziekenhuis-van-het-land-trekt-aan-alarmbel-er-komt-een-breekpunt.html",
+            "publishedDate": "25/11/2026 17:41",
+            "source": "dekrantenkoppen.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
@@ -358,17 +455,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "MAHA-analyse 2026: De financi\u00eble gezondheid van de Belgische ziekenhuissector in 2025 - Belfius",
-            "link": "https://www.belfius.be/about-us/dam/corporate/press-room/press-articles/downloads/nl/2026/Studie-Belfius_MAHA-analyse-2026_25-11-2026.pdf",
-            "publishedDate": "25/11/2026 16:42",
-            "source": "belfius.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nieuwe bedden Tergooi MC maken leven van pati\u00ebnten \u00e9n verpleegkundigen makkelijker",
             "link": "https://www.gooisemerennieuws.nl/zorg-gezondheid/zorg-gezondheid/383445/nieuwe-bedden-tergooi-mc-maken-leven-van-patienten-en-verpleegkundigen-makkelijker-de-rolls-royce-onder-de-bedden-qv27dc",
             "publishedDate": "25/11/2026 16:42",
@@ -398,17 +484,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Amsterdamse universiteiten en UMC bundelen krachten in medtech - IO+",
-            "link": "https://ioplus.nl/nl/posts/amsterdamse-universiteiten-en-umc-bundelen-krachten-in-medtech",
-            "publishedDate": "25/11/2026 16:33",
-            "source": "ioplus.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "HOH bevestigt 778 uitgestelde operaties, maar ziet ImSan niet als oplossing - Aruba.nu",
             "link": "https://www.aruba.nu/nieuws/gezondheidszorg/98975/hoh-bevestigt-778-uitgestelde-operaties-maar-ziet-imsan-niet-als-oplossing",
             "publishedDate": "25/11/2026 16:19",
@@ -423,10 +498,10 @@
             "title": "Henk Dammer (78) wilde radiotherapie voor zijn uitgezaaide prostaatkanker - de Stentor",
             "link": "https://www.destentor.nl/gezond/henk-dammer-78-heeft-uitgezaaide-prostaatkanker-maar-door-behandeling-radioactieve-straling-geniet-hij-weer~a8fde21f/",
             "publishedDate": "25/11/2026 16:16",
-            "source": "ad.nl, bd.nl, destentor.nl",
+            "source": "ad.nl, bd.nl, destentor.nl, futura-sciences.com",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Henk Dammer (78) wilde radiotherapie voor zijn uitgezaaide prostaatkanker",
@@ -445,6 +520,12 @@
                     "source": "bd.nl",
                     "link": "https://www.bd.nl/gezond/henk-dammer-78-wilde-radiotherapie-voor-zijn-uitgezaaide-prostaatkanker-informeer-jezelf-en-wees-brutaal~a8fde21f/",
                     "publishedDate": "25/11/2026 13:54"
+                },
+                {
+                    "title": "Prostaatkanker: deze nieuwe generatie medicijnen zou alles kunnen veranderen, volgens ...",
+                    "source": "futura-sciences.com",
+                    "link": "https://www.futura-sciences.com/nl/prostaatkanker-deze-nieuwe-generatie-medicijnen-zou-alles-kunnen-veranderen-volgens-onderzoekers-a2_26452/",
+                    "publishedDate": "25/11/2026 10:38"
                 }
             ],
             "belangrijkheid": 0
@@ -471,22 +552,16 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, zorgwelzijn.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 6,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
                     "source": "zorgwelzijn.nl",
                     "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
                     "publishedDate": "25/11/2026 10:19"
-                },
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
                 },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
@@ -537,17 +612,6 @@
                     "publishedDate": "24/11/2026 22:31"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
-            "link": "https://1zwolle.nl/nieuws/217360/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
-            "publishedDate": "25/11/2026 16:13",
-            "source": "1zwolle.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -635,17 +699,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Novo en Eli Lilly aangeklaagd in de VS wegens zeldzame oogaandoening door GLP-1-medicijnen",
-            "link": "https://nl.marketscreener.com/beursnieuws/novo-en-eli-lilly-aangeklaagd-in-de-vs-wegens-zeldzame-oogaandoening-door-glp-1-medicijnen-ce7851d8d88cf020",
-            "publishedDate": "25/11/2026 15:54",
-            "source": "nl.marketscreener.com",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Leiden kleurt oranje tegen vrouwengeweld, maar noodopvang zit nokvol - Centraal+",
             "link": "https://centraalplus.nl/2026/11/25/leiden-kleurt-oranje-tegen-vrouwengeweld-maar-noodopvang-zit-nokvol/",
             "publishedDate": "25/11/2026 15:52",
@@ -712,34 +765,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Vlaamse Volksbeweging bundelt klachten van Nederlandstalige pati\u00ebnten in Brusselse ziekenhuizen",
-            "link": "https://www.nieuwsblad.be/regio/brussel/brussel/vlaamse-volksbeweging-bundelt-klachten-van-nederlandstalige-patienten-in-brusselse-ziekenhuizen-kwestie-van-patientenveiligheid-zorgkwaliteit-respect-en-menselijke-waardigheid/165066515.html",
-            "publishedDate": "25/11/2026 15:30",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "AI voor mentale gezondheid in 2027: de overdracht aan een menselijke zorgverlener wordt ...",
             "link": "https://www.unite.ai/nl/mental-health-ai-in-2027-the-human-handoff-becomes-the-deciding-feature/",
             "publishedDate": "25/11/2026 15:29",
             "source": "unite.ai",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kwart ziekenhuizen heeft onvoldoende cash om schulden te betalen : r/Belgium2 - Reddit",
-            "link": "https://www.reddit.com/r/Belgium2/comments/1y56m8h/kwart_ziekenhuizen_heeft_onvoldoende_cash_om/",
-            "publishedDate": "25/11/2026 15:28",
-            "source": "reddit.com",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1162,17 +1193,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
-            "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
-            "publishedDate": "25/11/2026 13:02",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Kabinet en gemeenten maken nieuwe afspraken voor een samenleving waarin iedereen kan meedoen aan sport, bewegen en cultuur",
             "link": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/25/kabinet-en-gemeenten-maken-nieuwe-afspraken-voor-een-samenleving-waarin-iedereen-kan-meedoen-aan-sport-bewegen-en-cultuur",
             "publishedDate": "25/11/2026 13:00",
@@ -1309,17 +1329,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
-            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
-            "publishedDate": "25/11/2026 11:05",
-            "source": "zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Voor het eerst sinds 2015 bezoekt Hongaarse premier Oekra\u00efne | Politiek - Head Topics",
             "link": "https://nl.headtopics.com/news/voor-het-eerst-sinds-2015-bezoekt-hongaarse-premier-oekra-ne-90154554",
             "publishedDate": "25/11/2026 11:04",
@@ -1337,17 +1346,6 @@
             "source": "aiwereld.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Prostaatkanker: deze nieuwe generatie medicijnen zou alles kunnen veranderen, volgens ...",
-            "link": "https://www.futura-sciences.com/nl/prostaatkanker-deze-nieuwe-generatie-medicijnen-zou-alles-kunnen-veranderen-volgens-onderzoekers-a2_26452/",
-            "publishedDate": "25/11/2026 10:38",
-            "source": "futura-sciences.com",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1515,17 +1513,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Misstanden Huize Soria onder de loep: Woudenberg onderzoekt eigen rol",
-            "link": "https://www.dewoudenberger.nl/lokaal/politiek/1329588/misstanden-huize-soria-onder-de-loep-regio-onderzoekt-eigen-rol",
-            "publishedDate": "25/11/2026 07:08",
-            "source": "dewoudenberger.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Mensen goed op weg naar het einde helpen - Seniorenjournaal",
             "link": "https://seniorenjournaal.nl/levenseinde/mensen-goed-op-weg-naar-het-einde-helpen/",
             "publishedDate": "25/11/2026 06:40",
@@ -1687,17 +1674,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "MAHA sectoranalyse 2026 - Frank Vandenbroucke - Belgium.be",
-            "link": "https://vandenbroucke.belgium.be/nl/nieuws/maha-sectoranalyse-2026",
-            "publishedDate": "24/11/2026 21:18",
-            "source": "vandenbroucke.belgium.be",
-            "category": "Overig",
-            "feed_label": "Alert eerstelijnszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "GBL krijgt zijn grootste investering ooit rond: Italiaanse farmareus Recordati ingelijfd",
             "link": "https://www.tijd.be/ondernemen/farma-biotech/gbl-krijgt-zijn-grootste-investering-ooit-rond-italiaanse-farmareus-recordati-ingelijfd/10706828.html",
             "publishedDate": "24/11/2026 21:18",
@@ -1843,6 +1819,17 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
