@@ -609,11 +609,18 @@
             "title": "Omstreden jongerenkerk Go Church houdt bijeenkomst in kapel van UZ Gent: ziekenhuis grijpt in",
             "link": "https://www.pzc.nl/gent/omstreden-jongerenkerk-go-church-houdt-bijeenkomst-in-kapel-van-uz-gent-ziekenhuis-grijpt-in~a03bcd5c/",
             "publishedDate": "25/11/2026 02:54",
-            "source": "pzc.nl",
+            "source": "demorgen.be, pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
+                    "source": "demorgen.be",
+                    "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
+                    "publishedDate": "24/11/2026 19:31"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -686,10 +693,10 @@
             "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
             "link": "https://www.bndestem.nl/hoeksche-waard/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
             "publishedDate": "25/11/2026 01:01",
-            "source": "ad.nl, bndestem.nl, gelderlander.nl, nl24.nu",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
@@ -702,12 +709,6 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/binnenland/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
                     "publishedDate": "24/11/2026 20:33"
-                },
-                {
-                    "title": "Diederik Gommers per direct weg als ic-hoofd na vernietigend rapport over werkcultuur",
-                    "source": "nl24.nu",
-                    "link": "https://nl24.nu/artikel/diederik-gommers-per-direct-weg-als-ic-hoofd-na-vernietigend-rapport-over-werkcultuur",
-                    "publishedDate": "24/11/2026 20:49"
                 }
             ],
             "belangrijkheid": 0
@@ -991,6 +992,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Diederik Gommers per direct weg als ic-hoofd na vernietigend rapport over werkcultuur",
+            "link": "https://nl24.nu/artikel/diederik-gommers-per-direct-weg-als-ic-hoofd-na-vernietigend-rapport-over-werkcultuur",
+            "publishedDate": "24/11/2026 20:49",
+            "source": "nl24.nu",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Barbotagebehandeling - In het kort - Gelre ziekenhuizen",
             "link": "https://www.gelreziekenhuizen.nl/patient/folder/8fb2303b-c464-4cc6-a018-298662bb9243/15f136ef-ddf5-4382-8a37-834894103c0f",
             "publishedDate": "24/11/2026 20:47",
@@ -1085,17 +1097,6 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Go Church hield viering in kapel van UZ Gent zonder medeweten ziekenhuis, alle ... - De Morgen",
-            "link": "https://www.demorgen.be/nieuws/go-church-hield-viering-in-kapel-van-uz-gent-zonder-medeweten-ziekenhuis-alle-activiteiten-voortaan-verboden~b90c0aa3/",
-            "publishedDate": "24/11/2026 19:31",
-            "source": "demorgen.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1829,7 +1830,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Langer thuis wonen vraagt om goede samenwerking | medischcontact",
@@ -1952,7 +1953,7 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
