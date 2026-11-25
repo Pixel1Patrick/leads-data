@@ -423,10 +423,10 @@
             "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
             "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
             "publishedDate": "25/11/2026 10:19",
-            "source": "cnv.nl, fnv.nl, nu91.nl, rtvdrenthe.nl, rtvfocuszwolle.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, rtvfocuszwolle.nl, zorgwelzijn.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 8,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
@@ -435,22 +435,10 @@
                     "publishedDate": "24/11/2026 16:14"
                 },
                 {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
-                {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
                     "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
                     "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/amp/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
-                    "publishedDate": "24/11/2026 12:48"
                 },
                 {
                     "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
@@ -545,11 +533,18 @@
             "title": "Vaccin tegen hepatitis A komt structureel beschikbaar voor mannen die seks hebben met mannen",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/vaccin-tegen-hepatitis-a-komt-structureel-beschikbaar-voor-mannen-die-seks-hebben-met-mannen/",
             "publishedDate": "25/11/2026 08:56",
-            "source": "nationalezorggids.nl",
+            "source": "gezondheidsraad.nl, nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
+                    "source": "gezondheidsraad.nl",
+                    "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
+                    "publishedDate": "24/11/2026 11:00"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -969,22 +964,24 @@
             "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
             "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
             "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl",
+            "source": "drimble.nl, sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
-            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
-            "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
+                    "publishedDate": "24/11/2026 16:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1537,17 +1534,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
-            "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
-            "publishedDate": "24/11/2026 16:41",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Amerikaanse SEH-verpleegkundigen veelvuldig slachtoffer van agressie | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/amerikaanse-seh-verpleegkundigen-veelvuldig-slachtoffer-van-agressie",
             "publishedDate": "24/11/2026 16:32",
@@ -1804,6 +1790,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Twaalf VVT-organisaties bundelen krachten rond AI | ICT&amp;health",
             "link": "https://www.icthealth.nl/nieuws/twaalf-vvt-organisaties-bundelen-krachten-rond-ai",
             "publishedDate": "24/11/2026 14:01",
@@ -1881,6 +1878,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
+            "link": "https://www.rtvdrenthe.nl/amp/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
+            "publishedDate": "24/11/2026 12:48",
+            "source": "rtvdrenthe.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Politieke zorgen over beroepsgeheim binnen Zoetermeerse jeugdzorg",
             "link": "https://zoetermeersdagblad.nl/lokaal/politieke-zorgen-over-beroepsgeheim-binnen-zoetermeerse-jeugdzorg",
             "publishedDate": "24/11/2026 12:21",
@@ -1920,17 +1928,6 @@
             "source": "hardnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
-            "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
-            "publishedDate": "24/11/2026 11:00",
-            "source": "gezondheidsraad.nl",
-            "category": "Overig",
-            "feed_label": "Gezondheidsraad",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
