@@ -129,7 +129,7 @@
             "source": "ad.nl, bndestem.nl, destentor.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Henk Dammer (78) wilde radiotherapie voor zijn uitgezaaide prostaatkanker - de Stentor",
@@ -142,12 +142,6 @@
                     "source": "bndestem.nl",
                     "link": "https://www.bndestem.nl/gezond/henk-dammer-78-heeft-uitgezaaide-prostaatkanker-maar-door-behandeling-radioactieve-straling-geniet-hij-weer~a8fde21f/",
                     "publishedDate": "25/11/2026 13:18"
-                },
-                {
-                    "title": "Een radioactieve 'kogel' recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/gezond/een-radioactieve-kogel-recht-op-de-tumor-de-nieuwe-mogelijkheden-bij-prostaatkanker~ad67ad86/",
-                    "publishedDate": "25/11/2026 07:16"
                 }
             ],
             "belangrijkheid": 0
@@ -525,21 +519,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -964,7 +963,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Enschede maakt zich grote zorgen over jeugdzorg: 'Delen van het systeem zijn failliet'",
@@ -1029,6 +1028,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Een radioactieve 'kogel' recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker",
+            "link": "https://www.ad.nl/gezond/een-radioactieve-kogel-recht-op-de-tumor-de-nieuwe-mogelijkheden-bij-prostaatkanker~ad67ad86/",
+            "publishedDate": "25/11/2026 07:16",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "'Fit Note' komt eraan: huisarts geeft vanaf september aan wat pati\u00ebnt nog kan doen tijdens ziekte",
             "link": "https://m.youtube.com/source/-RiXnv2FCDg/shorts?bp=8gVDCjYSJwoLLVJpWG52MkZDRGcSCy1SaVhudjJGQ0RnGgstUmlYbnYyRkNEZxoLLVJpWG52MkZDRGco9tW9v6yck7v2AQ%253D%253D",
             "publishedDate": "25/11/2026 07:14",
@@ -1068,15 +1078,19 @@
             "source": "nivel.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
-                    "source": "nivel.nl",
-                    "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
-                    "publishedDate": "25/11/2026 06:42"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
+            "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
+            "publishedDate": "25/11/2026 06:42",
+            "source": "nivel.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
