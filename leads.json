@@ -96,11 +96,18 @@
             "title": "ZAS wil verregaandere hervorming van het ziekenhuislandschap - GVA",
             "link": "https://www.gva.be/atv/zas-wil-verregaandere-hervorming-van-het-ziekenhuislandschap/165102176.html",
             "publishedDate": "25/11/2026 19:39",
-            "source": "gva.be",
+            "source": "despecialist.eu, gva.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "ZAS: &quot;Bespaar op verouderde ziekenhuisstructuren, niet op de zorg&quot; - De Specialist",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/zas-bespaar-op-verouderde-ziekenhuisstructuren-niet-op-de-zorg.html",
+                    "publishedDate": "25/11/2026 18:13"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -158,25 +165,12 @@
             "title": "Hamber Jeugdhulp reageert op zorgfraudeberichtgeving: medebestuurder geschorst ...",
             "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5353987/hamber-jeugdhulp-reageert-op-zorgfraudeberichtgeving-medebestuurder-geschor/",
             "publishedDate": "25/11/2026 19:04",
-            "source": "accountancyvanmorgen.nl, drimble.nl, nieuwsinalphen.nl",
+            "source": "nieuwsinalphen.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Acht aanhoudingen in onderzoek naar miljoenenfraude via zorgbureaus en zzp'ers",
-                    "source": "accountancyvanmorgen.nl",
-                    "link": "https://www.accountancyvanmorgen.nl/2026/11/25/acht-aanhoudingen-in-onderzoek-naar-miljoenenfraude-via-zorgbureaus-en-zzpers/",
-                    "publishedDate": "25/11/2026 09:30"
-                },
-                {
-                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
-                    "publishedDate": "25/11/2026 01:32"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Ex-topschaatser Michel Mulder (40) staat anders in het leven na angstige periode in ziekenhuis",
@@ -204,19 +198,12 @@
             "title": "Door aanhoudend medicijntekort kan Jolke vaak niet aan medicijnen voor dochter (14) komen",
             "link": "https://eenvandaag.avrotros.nl/artikelen/door-aanhoudend-medicijntekort-kan-jolke-vaak-niet-aan-medicijnen-voor-dochter-14-komen-165488",
             "publishedDate": "25/11/2026 18:41",
-            "source": "eenvandaag.avrotros.nl, telegraaf.nl",
+            "source": "eenvandaag.avrotros.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Apothekers slaan alarm, medicijntekorten lopen op: 'Meerdere keren per dag staan hier ...",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/binnenland/apothekers-slaan-alarm-medicijntekorten-lopen-op-meerdere-keren-per-dag-staan-hier-boze-patienten-aan-de-balie/164804460.html",
-                    "publishedDate": "25/11/2026 15:26"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Zuyderland en Open Universiteit starten Expertisecentrum voor Zorgtransformatie",
@@ -247,17 +234,6 @@
             "source": "gld.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "ZAS: &quot;Bespaar op verouderde ziekenhuisstructuren, niet op de zorg&quot; - De Specialist",
-            "link": "https://www.despecialist.eu/nl/nieuws/zas-bespaar-op-verouderde-ziekenhuisstructuren-niet-op-de-zorg.html",
-            "publishedDate": "25/11/2026 18:13",
-            "source": "despecialist.eu",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -492,7 +468,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Plannen voor verloskundige post in Parkstad; zwangere vrouwen minder snel naar ziekenhuis",
@@ -768,15 +744,8 @@
             "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Velpenaar moet 100 uur werken als straf voor bedreigen van zorgpersoneel van zijn ouders",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/gelderland/de-vallei/108704570/velpenaar-moet-100-uur-werken-als-straf-voor-bedreigen-van-zorgpersoneel-van-zijn-ouders.html",
-                    "publishedDate": "25/11/2026 05:57"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -888,6 +857,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Apothekers slaan alarm, medicijntekorten lopen op: 'Meerdere keren per dag staan hier ...",
+            "link": "https://www.telegraaf.nl/binnenland/apothekers-slaan-alarm-medicijntekorten-lopen-op-meerdere-keren-per-dag-staan-hier-boze-patienten-aan-de-balie/164804460.html",
+            "publishedDate": "25/11/2026 15:26",
+            "source": "telegraaf.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Alleen al bij het zien van het ding verkrampt je vagina, terwijl dat n\u00e8t niet de bedoeling is",
@@ -1459,6 +1439,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Acht aanhoudingen in onderzoek naar miljoenenfraude via zorgbureaus en zzp'ers",
+            "link": "https://www.accountancyvanmorgen.nl/2026/11/25/acht-aanhoudingen-in-onderzoek-naar-miljoenenfraude-via-zorgbureaus-en-zzpers/",
+            "publishedDate": "25/11/2026 09:30",
+            "source": "accountancyvanmorgen.nl, drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Acht arrestaties om witwassen miljoenen aan crimineel geld via zorgpersoneel - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/binnenlands-nieuws/108705286/acht-arrestaties-om-witwassen-miljoenen-aan-crimineel-geld-via-zorgpersoneel.html",
+                    "publishedDate": "25/11/2026 01:32"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Minderheidscoalitie Zaltbommel praat met alle partijen, lijmpoging met VVD is serieuze optie - AD",
             "link": "https://www.ad.nl/zaltbommel/minderheidscoalitie-zaltbommel-praat-met-alle-partijen-lijmpoging-met-vvd-is-serieuze-optie~a0c77499/",
             "publishedDate": "25/11/2026 09:29",
@@ -1597,6 +1595,17 @@
             "source": "hetnieuwsvanwestvlaanderen.be",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Velpenaar moet 100 uur werken als straf voor bedreigen van zorgpersoneel van zijn ouders",
+            "link": "https://drimble.nl/regio/gelderland/de-vallei/108704570/velpenaar-moet-100-uur-werken-als-straf-voor-bedreigen-van-zorgpersoneel-van-zijn-ouders.html",
+            "publishedDate": "25/11/2026 05:57",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
