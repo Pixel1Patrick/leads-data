@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "SPUK niet-beoogde jeugdzorgkosten verlengd voor 2026 - VNG",
+            "link": "https://vng.nl/nieuws/spuk-niet-beoogde-jeugdzorgkosten-verlengd-voor-2026",
+            "publishedDate": "25/11/2026 00:29",
+            "source": "vng.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Politie zet onderhandelaars in na steekpartij in GGzE-instelling Eindhoven - Drimble",
             "link": "https://drimble.nl/regio/noord-brabant/eindhoven/108702527/politie-zet-onderhandelaars-in-na-steekpartij-in-ggze-instelling-eindhoven.html",
             "publishedDate": "24/11/2026 23:18",
@@ -989,25 +1000,19 @@
             "title": "Veertig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
             "link": "https://www.limburger.nl/economie/veertig-banen-op-de-tocht-bij-maastrichtse-ggz-instellingen-serenity-en-olifant-in-totaal-zes-bvs-bankroet/165013034.html",
             "publishedDate": "24/11/2026 15:30",
-            "source": "limburger.nl, zuidlimburgvandaag.nl",
+            "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Vijftig banen op de tocht bij Maastrichtse ggz-instellingen Serenity en Olifant - De Limburger",
                     "source": "limburger.nl",
                     "link": "https://www.limburger.nl/economie/vijftig-banen-op-de-tocht-bij-maastrichtse-ggz-instellingen-serenity-en-olifant-in-totaal-zes-bvs-bankroet/165013034.html",
                     "publishedDate": "24/11/2026 13:10"
-                },
-                {
-                    "title": "Twee Maastrichtse ggz-aanbieders failliet verklaard, 50 mensen op straat",
-                    "source": "zuidlimburgvandaag.nl",
-                    "link": "https://www.zuidlimburgvandaag.nl/nieuws/twee-maastrichtse-ggz-aanbieders-failliet-verklaard-50-mensen-op-straat",
-                    "publishedDate": "24/11/2026 13:31"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Elise Draijer (Stimular): 'Voedselverspilling in de zorg: een derde van het restafval is swill'",
@@ -1300,7 +1305,7 @@
             "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Twaalf VVT-organisaties bundelen krachten rond AI | ICT&amp;health",
@@ -1380,6 +1385,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Twee Maastrichtse ggz-aanbieders failliet verklaard, 50 mensen op straat",
+            "link": "https://www.zuidlimburgvandaag.nl/nieuws/twee-maastrichtse-ggz-aanbieders-failliet-verklaard-50-mensen-op-straat",
+            "publishedDate": "24/11/2026 13:31",
+            "source": "zuidlimburgvandaag.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Veel vuurwerk gekocht afgelopen jaren? Grote kans dat politie dit jaar je auto controleert",
             "link": "https://www.bndestem.nl/binnenland/veel-vuurwerk-gekocht-afgelopen-jaren-grote-kans-dat-politie-dit-jaar-je-auto-controleert~a3b3c5cf/",
             "publishedDate": "24/11/2026 13:21",
@@ -1435,7 +1451,7 @@
                     "publishedDate": "24/11/2026 12:48"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Langer thuis wonen vraagt om goede samenwerking | medischcontact",
