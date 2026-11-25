@@ -605,18 +605,11 @@
             "title": "Vaccin tegen hepatitis A komt structureel beschikbaar voor mannen die seks hebben met mannen",
             "link": "https://www.nationalezorggids.nl/ziekenhuizen/vaccin-tegen-hepatitis-a-komt-structureel-beschikbaar-voor-mannen-die-seks-hebben-met-mannen/",
             "publishedDate": "25/11/2026 08:56",
-            "source": "gezondheidsraad.nl, nationalezorggids.nl",
+            "source": "nationalezorggids.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
-                    "source": "gezondheidsraad.nl",
-                    "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
-                    "publishedDate": "24/11/2026 11:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -628,7 +621,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Enschede maakt zich grote zorgen over jeugdzorg: 'Delen van het systeem zijn failliet'",
@@ -754,15 +747,19 @@
             "source": "nivel.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
-                    "source": "nivel.nl",
-                    "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
-                    "publishedDate": "25/11/2026 06:42"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "de rol van de huisartsenpraktijk. Een verkennend onderzoek naar huiselijk geweld op basis ... - Nivel",
+            "link": "https://www.nivel.nl/nl/publicatie/dwingende-controle-de-rol-van-de-huisartsenpraktijk-een-verkennend-onderzoek-naar",
+            "publishedDate": "25/11/2026 06:42",
+            "source": "nivel.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1327,11 +1324,18 @@
             "title": "Ggz-wachttijden Groningen en Lentis: cli\u00ebnten kampen met psychische crisis - Head Topics",
             "link": "https://nl.headtopics.com/news/ggz-wachttijden-groningen-en-lentis-clienten-kampen-met-90150813",
             "publishedDate": "24/11/2026 19:59",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, rtvnoord.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Groningers wachten maandenlang op ggz-behandeling: 'Voor hen staat het leven stil'",
+                    "source": "rtvnoord.nl",
+                    "link": "https://www.rtvnoord.nl/zorg/1454779/groningers-wachten-maandenlang-op-ggz-behandeling-voor-hen-staat-het-leven-stil",
+                    "publishedDate": "24/11/2026 19:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1385,17 +1389,6 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Groningers wachten maandenlang op ggz-behandeling: 'Voor hen staat het leven stil'",
-            "link": "https://www.rtvnoord.nl/zorg/1454779/groningers-wachten-maandenlang-op-ggz-behandeling-voor-hen-staat-het-leven-stil",
-            "publishedDate": "24/11/2026 19:07",
-            "source": "rtvnoord.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1938,6 +1931,17 @@
             "source": "hardnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
+            "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
+            "publishedDate": "24/11/2026 11:00",
+            "source": "gezondheidsraad.nl",
+            "category": "Overig",
+            "feed_label": "Gezondheidsraad",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
