@@ -9,7 +9,7 @@
             "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Krijg je zorgtoeslag? Bij deze zorgverzekeraars ga je er in 2027 op achteruit - Zorgwijzer",
@@ -90,22 +90,36 @@
             "title": "Apothekers slaan alarm, medicijntekorten lopen op: 'Meerdere keren per dag staan hier ...",
             "link": "https://www.telegraaf.nl/binnenland/apothekers-slaan-alarm-medicijntekorten-lopen-op-meerdere-keren-per-dag-staan-hier-boze-patienten-aan-de-balie/164804460.html",
             "publishedDate": "25/11/2026 11:16",
-            "source": "telegraaf.nl",
+            "source": "telegraaf.nl, tijd.be",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "In de apotheek is chauvinisme van levensbelang - De Tijd",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/opinie/algemeen/in-de-apotheek-is-chauvinisme-van-levensbelang/10706761.html",
+                    "publishedDate": "24/11/2026 16:25"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Reactie LHV op Nivel-rapport over dwingende controle",
             "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
             "publishedDate": "25/11/2026 11:11",
-            "source": "lhv.nl",
+            "source": "lhv.nl, nivel.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
+                    "source": "nivel.nl",
+                    "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
+                    "publishedDate": "25/11/2026 06:47"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -156,17 +170,11 @@
             "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
             "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
             "publishedDate": "25/11/2026 10:19",
-            "source": "cnv.nl, fnv.nl, nl.headtopics.com, nu91.nl, omroepbrabant.nl, rtvfocuszwolle.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, nl.headtopics.com, nu91.nl, zorgwelzijn.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 9,
+            "duplicate_count": 7,
             "extra_bronnen": [
-                {
-                    "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
-                    "source": "rtvfocuszwolle.nl",
-                    "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
-                    "publishedDate": "24/11/2026 16:14"
-                },
                 {
                     "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
                     "source": "nu91.nl",
@@ -178,12 +186,6 @@
                     "source": "fnv.nl",
                     "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
                     "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
-                    "publishedDate": "24/11/2026 13:05"
                 },
                 {
                     "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
@@ -256,7 +258,7 @@
                     "publishedDate": "24/11/2026 19:49"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "N=5 vervolgt bekroonde contentcampagne Uit Balans - Marketing Report",
@@ -307,7 +309,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Enschede maakt zich grote zorgen over jeugdzorg: 'Delen van het systeem zijn failliet'",
@@ -445,17 +447,6 @@
             "publishedDate": "25/11/2026 07:04",
             "source": "rtl.nl",
             "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dwingende controle vraagt om serieuze aandacht in huisartsenzorg - Nivel",
-            "link": "https://www.nivel.nl/nl/nieuws/dwingende-controle-vraagt-om-serieuze-aandacht-huisartsenzorg",
-            "publishedDate": "25/11/2026 06:47",
-            "source": "nivel.nl",
-            "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -743,10 +734,10 @@
             "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
             "link": "https://www.bndestem.nl/hoeksche-waard/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
             "publishedDate": "25/11/2026 01:01",
-            "source": "ad.nl, bndestem.nl, gelderlander.nl",
+            "source": "ad.nl, bndestem.nl, drimble.nl, gelderlander.nl, sun.sr",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Hommeles op de grootste intensive care van Nederland: wat is er mis en zijn pati\u00ebnten in gevaar?",
@@ -759,24 +750,54 @@
                     "source": "gelderlander.nl",
                     "link": "https://www.gelderlander.nl/binnenland/hommeles-op-de-grootste-intensive-care-van-nederland-wat-is-er-mis-en-zijn-patienten-in-gevaar~a53ada65/",
                     "publishedDate": "24/11/2026 20:33"
+                },
+                {
+                    "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
+                    "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+                    "publishedDate": "24/11/2026 22:31"
+                },
+                {
+                    "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
+                    "publishedDate": "24/11/2026 16:41"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
             "link": "https://www.gelderlander.nl/binnenland/pal-naast-onze-slaapkamer-echtpaar-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
             "publishedDate": "25/11/2026 00:54",
-            "source": "ad.nl, gelderlander.nl",
+            "source": "ad.nl, bndestem.nl, gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "'Pal naast onze slaapkamer': echtpaar in Middelburg wil geld zien voor inkijk en constante ...",
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/middelburg/pal-naast-onze-slaapkamer-echtpaar-in-middelburg-wil-geld-zien-voor-inkijk-en-constante-drukte-door-huisartsenpost~a0e06340/",
                     "publishedDate": "24/11/2026 16:03"
+                },
+                {
+                    "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
+                    "publishedDate": "24/11/2026 18:01"
                 }
             ],
             "belangrijkheid": 0
@@ -817,36 +838,6 @@
                     "source": "overstappen.nl",
                     "link": "https://www.overstappen.nl/nieuws/zorg-zonder-contract-ook-100-procent-vergoeding-dekt-niet-altijd-de-hele-rekening/",
                     "publishedDate": "24/11/2026 19:51"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
-            "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
-            "publishedDate": "24/11/2026 23:22",
-            "source": "drimble.nl, sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
-                    "publishedDate": "24/11/2026 23:22"
-                },
-                {
-                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-                    "publishedDate": "24/11/2026 22:31"
-                },
-                {
-                    "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/grep-geeft-toelichting-op-incident-bij-spoedeisende-hulp-azp?id=46279",
-                    "publishedDate": "24/11/2026 16:41"
                 }
             ],
             "belangrijkheid": 0
@@ -1050,7 +1041,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Barbotagebehandeling - In het kort - Gelre ziekenhuizen",
@@ -1218,17 +1209,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "echtpaar in Middelburg wil geld zien voor inkijk en constante drukte door huisartsenpost",
-            "link": "https://www.bndestem.nl/zeeland/buren-huisartsenpost-middelburg-willen-compensatie-voor-overlast-het-gaat-24-uur-per-dag-door~a0e06340/",
-            "publishedDate": "24/11/2026 18:01",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Cranendonck mikt op 4300 woningen, waarvan mogelijk 2300 in Maarheeze | Regio | ED.nl",
             "link": "https://www.ed.nl/cranendonck/cranendonck-mikt-op-4300-woningen-waarvan-mogelijk-2300-in-maarheeze~accb0fc5/",
             "publishedDate": "24/11/2026 17:51",
@@ -1356,9 +1336,22 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
+                    "publishedDate": "24/11/2026 15:15"
+                },
+                {
+                    "title": "Kamerbrief inzake Commentaar NVZ en meerdere organisaties t.b.v. debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet in verband met digitale identificatie en authenticatie in de zorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/46c280bd-bf80-4e49-a360-bcb7200c6dfe",
+                    "publishedDate": "24/11/2026 15:15"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Geen excuses zonder daden",
@@ -1500,17 +1493,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "In de apotheek is chauvinisme van levensbelang - De Tijd",
-            "link": "https://www.tijd.be/opinie/algemeen/in-de-apotheek-is-chauvinisme-van-levensbelang/10706761.html",
-            "publishedDate": "24/11/2026 16:25",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Dit Haarlemse feestbeest doet mee aan Dutchie Shore | Regio | AD.nl",
             "link": "https://www.ad.nl/haarlem/dutchie-shore-haarlem-deelnemer~a85a9bd2/",
             "publishedDate": "24/11/2026 16:18",
@@ -1520,6 +1502,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
+            "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
+            "publishedDate": "24/11/2026 16:14",
+            "source": "rtvfocuszwolle.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Al 30 procent meer griepvaccins toegediend door Vlaamse apothekers - De Specialist",
@@ -1587,24 +1580,6 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
-            "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
-            "publishedDate": "24/11/2026 15:15",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief inzake Commentaar NVZ en meerdere organisaties t.b.v. debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet in verband met digitale identificatie en authenticatie in de zorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/46c280bd-bf80-4e49-a360-bcb7200c6dfe",
-                    "publishedDate": "24/11/2026 15:15"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1713,17 +1688,6 @@
             "source": "fmtgezondheidszorg.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Grootste farmadeal van het jaar moet Sanofi klaarstomen voor leven na stermedicijn",
-            "link": "https://www.tijd.be/ondernemen/farma-biotech/grootste-farmadeal-van-het-jaar-moet-sanofi-klaarstomen-voor-leven-na-stermedicijn/10706735.html",
-            "publishedDate": "24/11/2026 14:31",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1839,6 +1803,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
+            "publishedDate": "24/11/2026 13:05",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Langer thuis wonen vraagt om goede samenwerking | medischcontact",
             "link": "https://www.medischcontact.nl/actueel/federatienieuws/federatiebericht/langer-thuis-wonen-vraagt-om-goede-samenwerking",
             "publishedDate": "24/11/2026 12:31",
@@ -1902,17 +1877,6 @@
             "source": "made-in.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Leerlingen van KTA Brugge verwennen oudere pati\u00ebnten in het AZ Sint-Jan",
-            "link": "https://www.lokaalnieuws.online/2026/11/24/brugge-kta-leerlingen-geriatrie-az-sint-jan-week-van-de-ouderenzorg/",
-            "publishedDate": "24/11/2026 10:51",
-            "source": "lokaalnieuws.online",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
