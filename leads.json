@@ -255,7 +255,7 @@
                     "publishedDate": "24/11/2026 20:33"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "'Pal naast onze slaapkamer': echtpaar wil geld zien voor inkijk en constante drukte door ...",
@@ -322,13 +322,19 @@
             "source": "drimble.nl, sun.sr",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
                     "source": "drimble.nl",
                     "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
                     "publishedDate": "24/11/2026 23:22"
+                },
+                {
+                    "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
+                    "publishedDate": "24/11/2026 22:31"
                 },
                 {
                     "title": "Grep geeft toelichting op incident bij Spoedeisende Hulp AZP - Sun News Suriname",
@@ -411,17 +417,6 @@
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "AZP: Vrijgehouden bed op SEH bestemd voor levensbedreigende gevallen",
-            "link": "https://sun.sr/nieuws/lokaal/azp-vrijgehouden-bed-op-seh-bestemd-voor-levensbedreigende-gevallen?id=46286",
-            "publishedDate": "24/11/2026 22:31",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -733,18 +728,11 @@
             "title": "Groningers wachten maandenlang op ggz-behandeling: 'Voor hen staat het leven stil'",
             "link": "https://www.rtvnoord.nl/zorg/1454779/groningers-wachten-maandenlang-op-ggz-behandeling-voor-hen-staat-het-leven-stil",
             "publishedDate": "24/11/2026 19:07",
-            "source": "rtvnoord.nl, zorgkrant.nl",
+            "source": "rtvnoord.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Voor zij op een ggz-wachtlijst komen lopen pati\u00ebnten al vast - Zorgkrant",
-                    "source": "zorgkrant.nl",
-                    "link": "https://www.zorgkrant.nl/ggz/21707-voor-zij-op-een-ggz-wachtlijst-komen-lopen-patienten-met-psychische-problemen-al-vast",
-                    "publishedDate": "24/11/2026 11:04"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -806,18 +794,11 @@
             "title": "Spoeddienst AZORG-ziekenhuis Geraardsbergen vanaf nieuwjaar omgevormd naar Eerste ...",
             "link": "https://www.tvoost.be/nieuws/spoeddienst-azorg-ziekenhuis-geraardsbergen-vanaf-nieuwjaar-omgevormd-naar-eerste-opvang-spoedgevallen-216100",
             "publishedDate": "24/11/2026 18:17",
-            "source": "nieuwsblad.be, tvoost.be",
+            "source": "tvoost.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "\u201cSluiting spoed is eigen keuze van AZORG maar is niet definitief\u201d | Nieuwsblad",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/sluiting-spoed-is-eigen-keuze-van-azorg-maar-is-niet-definitief/165050643.html",
-                    "publishedDate": "24/11/2026 18:09"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -827,6 +808,17 @@
             "source": "rtvmiddenholland.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "\u201cSluiting spoed is eigen keuze van AZORG maar is niet definitief\u201d | Nieuwsblad",
+            "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/geraardsbergen/sluiting-spoed-is-eigen-keuze-van-azorg-maar-is-niet-definitief/165050643.html",
+            "publishedDate": "24/11/2026 18:09",
+            "source": "nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1190,60 +1182,11 @@
             "title": "Medewerkers Dimence in actie: grootste landelijke stakingsdag ooit in de ggz op komst",
             "link": "https://www.rtvfocuszwolle.nl/ggz-staking-dimence-10-december-2026/",
             "publishedDate": "24/11/2026 16:14",
-            "source": "cnv.nl, fnv.nl, nl.headtopics.com, nu91.nl, omroepbrabant.nl, rtvdrenthe.nl, rtvfocuszwolle.nl",
+            "source": "rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 10,
-            "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
-                    "publishedDate": "24/11/2026 13:05"
-                },
-                {
-                    "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/amp/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
-                    "publishedDate": "24/11/2026 12:48"
-                },
-                {
-                    "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
-                    "publishedDate": "24/11/2026 12:48"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
-                },
-                {
-                    "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
-                    "publishedDate": "24/11/2026 10:39"
-                },
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1542,6 +1485,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Twaalf VVT-organisaties bundelen krachten rond AI | ICT&amp;health",
             "link": "https://www.icthealth.nl/nieuws/twaalf-vvt-organisaties-bundelen-krachten-rond-ai",
             "publishedDate": "24/11/2026 14:01",
@@ -1575,6 +1529,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+            "publishedDate": "24/11/2026 13:47",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Kosten dure jeugdzorg in twee jaar tijd meer dan verdubbeld - Centraal+",
             "link": "https://centraalplus.nl/2026/11/24/kosten-dure-jeugdzorg-in-twee-jaar-tijd-meer-dan-verdubbeld/",
             "publishedDate": "24/11/2026 13:45",
@@ -1605,6 +1570,35 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "GGZ-verpleegkundige Glenn legt werk neer: 'Goede afspraken zijn belangrijk' - in Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6035820/ggz-verpleegkundige-glenn-legt-werk-neer-goede-afspraken-zijn-belangrijk",
+            "publishedDate": "24/11/2026 13:05",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
+            "link": "https://www.rtvdrenthe.nl/amp/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
+            "publishedDate": "24/11/2026 12:48",
+            "source": "rtvdrenthe.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "'Grootste actiedag ooit' aanstaande voor GGZ: 'Ik maak me zorgen' - RTV Drenthe",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18976173/grootste-actiedag-ooit-aanstaande-voor-ggz-ik-maak-me-zorgen",
+                    "publishedDate": "24/11/2026 12:48"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1709,6 +1703,28 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+            "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+            "publishedDate": "24/11/2026 11:08",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Voor zij op een ggz-wachtlijst komen lopen pati\u00ebnten al vast - Zorgkrant",
+            "link": "https://www.zorgkrant.nl/ggz/21707-voor-zij-op-een-ggz-wachtlijst-komen-lopen-patienten-met-psychische-problemen-al-vast",
+            "publishedDate": "24/11/2026 11:04",
+            "source": "zorgkrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
             "link": "https://www.gezondheidsraad.nl/actueel/nieuws/2026/11/24/hepatitis-a-vaccinatie-structureel-aanbieden-aan-mannen-die-seks-hebben-met-mannen",
             "publishedDate": "24/11/2026 11:00",
@@ -1747,6 +1763,17 @@
             "publishedDate": "24/11/2026 10:40",
             "source": "gelderlander.nl",
             "category": "Regionale Media",
+            "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "GGZ-verpleegkundige stopt werk vanwege onbevredigende caO-onderhandelingen",
+            "link": "https://nl.headtopics.com/news/ggz-verpleegkundige-stopt-werk-vanwege-onbevredigende-90133722",
+            "publishedDate": "24/11/2026 10:39",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1872,6 +1899,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+            "publishedDate": "24/11/2026 07:00",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "LHV kritisch op terugvorderen van eerder betaalde declaraties",
