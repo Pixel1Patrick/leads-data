@@ -496,18 +496,11 @@
             "title": "Losser verkoopt grond voor nieuwbouw van huisartsenpraktijk De Sl\u00f6ttel | Regio | AD.nl",
             "link": "https://www.ad.nl/losser/losser-verkoopt-grond-voor-nieuwbouw-van-huisartsenpraktijk-de-slottel~a070da6e/",
             "publishedDate": "26/11/2026 09:35",
-            "source": "ad.nl, oost.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Huisartsen in Enschede niet te spreken over nieuwe 'te dure' parkeervergunning - RTV Oost",
-                    "source": "oost.nl",
-                    "link": "https://www.oost.nl/nieuws/3721543/huisartsen-in-enschede-niet-te-spreken-over-nieuwe-te-dure-parkeervergunning",
-                    "publishedDate": "26/11/2026 05:08"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -638,8 +631,15 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Peuter (2) ontsnapte uit opvang via slecht afgesloten deur, Helan neemt maatregelen",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/ekeren/peuter-2-ontsnapte-uit-opvang-via-slecht-afgesloten-deur-helan-neemt-maatregelen-vader-pleit-voor-meer-sociale-controle/165089917.html",
+                    "publishedDate": "25/11/2026 14:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -706,7 +706,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Woudenberg trekt extra geld uit voor jeugdzorg, ondanks juridische bezwaren",
@@ -767,11 +767,18 @@
             "title": "Enschede huisartsen parkeerontheffing 403 euro | Economy - Head Topics",
             "link": "https://nl.headtopics.com/news/enschede-huisartsen-parkeerontheffing-403-euro-90194335",
             "publishedDate": "26/11/2026 05:37",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, oost.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Huisartsen in Enschede niet te spreken over nieuwe 'te dure' parkeervergunning - RTV Oost",
+                    "source": "oost.nl",
+                    "link": "https://www.oost.nl/nieuws/3721543/huisartsen-in-enschede-niet-te-spreken-over-nieuwe-te-dure-parkeervergunning",
+                    "publishedDate": "26/11/2026 05:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -923,22 +930,16 @@
             "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen",
             "link": "https://www.nhnieuws.nl/nieuws/365819/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
             "publishedDate": "26/11/2026 00:41",
-            "source": "at5.nl, nhnieuws.nl, zorgkrant.nl",
+            "source": "at5.nl, nhnieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert umc",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen - AT5",
                     "source": "at5.nl",
                     "link": "https://www.at5.nl/artikelen/241244/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
                     "publishedDate": "25/11/2026 16:15"
-                },
-                {
-                    "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
-                    "source": "zorgkrant.nl",
-                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
-                    "publishedDate": "25/11/2026 11:05"
                 }
             ],
             "belangrijkheid": 0
@@ -1379,37 +1380,12 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
+            "source": "lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
-                },
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
@@ -1612,17 +1588,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Peuter (2) ontsnapte uit opvang via slecht afgesloten deur, Helan neemt maatregelen",
-            "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/ekeren/peuter-2-ontsnapte-uit-opvang-via-slecht-afgesloten-deur-helan-neemt-maatregelen-vader-pleit-voor-meer-sociale-controle/165089917.html",
-            "publishedDate": "25/11/2026 14:19",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1941,6 +1906,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
+            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
+            "publishedDate": "25/11/2026 11:05",
+            "source": "zorgkrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
             "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
             "publishedDate": "25/11/2026 10:43",
@@ -2023,6 +1999,36 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "cnv.nl, fnv.nl, nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
+                {
+                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+                    "publishedDate": "24/11/2026 11:08"
+                },
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
@@ -2687,17 +2693,6 @@
             "source": "cbg-meb.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "College ter Beoordeling van Geneesmiddelen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Mobiliteitsplan helpt zorgorganisaties op weg naar duurzame mobiliteit",
-            "link": "https://www.vgn.nl/nieuws/mobiliteitsplan-helpt-zorgorganisaties-op-weg-naar-duurzame-mobiliteit",
-            "publishedDate": "12/11/2026 14:01",
-            "source": "vgn.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
