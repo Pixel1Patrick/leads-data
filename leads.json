@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Rectificatie van Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte (RVG 30759)",
+            "link": "https://open.overheid.nl/details/oep-ob-62a223f6b66ce873e21df55dd57b420e05fab45c_164",
+            "publishedDate": "26/11/2026 15:05",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Inspiratie-event Waardegedreven Zorg brengt gesprek over toekomstbestendige zorg op gang",
             "link": "https://www.maasstadziekenhuis.nl/nieuws/inspiratie-event-waardegedreven-zorg-brengt-gesprek-over-toekomstbestendige-zorg-op-gang/",
             "publishedDate": "26/11/2026 14:44",
@@ -51,7 +62,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Na roerige periode neemt laboratorium PAMM afscheid van medische microbiologie | Regio",
@@ -94,17 +105,6 @@
                 }
             ],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Rectificatie van Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte (RVG 30759)",
-            "link": "https://open.overheid.nl/details/oep-ob-62a223f6b66ce873e21df55dd57b420e05fab45c_160",
-            "publishedDate": "26/11/2026 14:25",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "Mega-operatie in ziekenhuis Tergooi: alle 345 bedden worden vervangen - NH Nieuws",
@@ -272,7 +272,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "&quot;Therapeutische exceptie beschermt persoonlijke notities&quot; - Artsenkrant",
@@ -300,12 +300,19 @@
             "title": "Tweede Kamer debatteert over ADHD-medicijnen voor crackverslaafden - Head Topics",
             "link": "https://nl.headtopics.com/news/tweede-kamer-debatteert-over-adhd-medicijnen-voor-90204306",
             "publishedDate": "26/11/2026 12:08",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, nos.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
+                    "publishedDate": "26/11/2026 10:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Ozempic kan mogelijk de kwaliteit van sperma verbeteren | TAGMAG",
@@ -497,17 +504,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
-            "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
-            "publishedDate": "26/11/2026 10:38",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036047/hoogbegaafde-kinderen-in-breda-aan-lot-overgelaten-politiek-slaat-alarm",
             "publishedDate": "26/11/2026 10:38",
@@ -621,22 +617,24 @@
             "title": "Corona neemt flink toe, ook griep in opkomst: juist nu stopt de vaccinatiecampagne - RTV Focus",
             "link": "https://www.rtvfocuszwolle.nl/corona-griep-toename-laatste-dag-coronaprik-2026/",
             "publishedDate": "26/11/2026 09:55",
-            "source": "rtvfocuszwolle.nl",
+            "source": "nl.headtopics.com, rtvfocuszwolle.nl, telegraaf.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zware griepepidemie in Frankrijk: stijgende aantallen griep, COVID en bronchiolitis",
-            "link": "https://nl.headtopics.com/news/zware-griepepidemie-in-frankrijk-stijgende-aantallen-griep-covid-en-bronchiolitis-90200555",
-            "publishedDate": "26/11/2026 09:53",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Zware griepepidemie in Frankrijk: stijgende aantallen griep, COVID en bronchiolitis",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/zware-griepepidemie-in-frankrijk-stijgende-aantallen-griep-covid-en-bronchiolitis-90200555",
+                    "publishedDate": "26/11/2026 09:53"
+                },
+                {
+                    "title": "Griep grijpt om zich heen: arts vertelt wat \u00e9cht helpt en welke middeltjes je beter kunt laten staan",
+                    "source": "telegraaf.nl",
+                    "link": "https://www.telegraaf.nl/lifestyle/gezondheid/griep-grijpt-om-zich-heen-arts-vertelt-wat-echt-helpt-en-welke-middeltjes-je-beter-kunt-laten-staan/165036608.html",
+                    "publishedDate": "26/11/2026 08:31"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -699,7 +697,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
@@ -732,7 +730,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorginstituut adviseert Rasonque en Tuksya in sluis te plaatsen - Pharmaceutisch Weekblad",
@@ -774,17 +772,6 @@
             "source": "scientias.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Griep grijpt om zich heen: arts vertelt wat \u00e9cht helpt en welke middeltjes je beter kunt laten staan",
-            "link": "https://www.telegraaf.nl/lifestyle/gezondheid/griep-grijpt-om-zich-heen-arts-vertelt-wat-echt-helpt-en-welke-middeltjes-je-beter-kunt-laten-staan/165036608.html",
-            "publishedDate": "26/11/2026 08:31",
-            "source": "telegraaf.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -947,16 +934,22 @@
             "title": "Zeeuwse huisarts en apotheker bieden samen afslanktraject met medicatie aan - Drimble",
             "link": "https://drimble.nl/regio/zeeland/walcheren/108715757/zeeuwse-huisarts-en-apotheker-bieden-samen-afslanktraject-met-medicatie-aan.html",
             "publishedDate": "26/11/2026 05:28",
-            "source": "drimble.nl, huisartsvandaag.nl",
+            "source": "drimble.nl, huisartsvandaag.nl, plusmagazine.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Zeeuwse huisarts en apotheker bieden samen afslanktraject met medicatie aan",
                     "source": "huisartsvandaag.nl",
                     "link": "https://huisartsvandaag.nl/zeeuwse-huisarts-en-apotheker-bieden-samen-afslanktraject-met-medicatie-aan/",
                     "publishedDate": "26/11/2026 00:30"
+                },
+                {
+                    "title": "Scan je geneesmiddel met de nieuwe FarmaInfo-app - Plus Magazine",
+                    "source": "plusmagazine.be",
+                    "link": "https://www.plusmagazine.be/nl/multimedia/scan-je-geneesmiddel-met-de-nieuwe-farmainfo-app/",
+                    "publishedDate": "25/11/2026 21:40"
                 }
             ],
             "belangrijkheid": 0
@@ -1151,17 +1144,6 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Scan je geneesmiddel met de nieuwe FarmaInfo-app - Plus Magazine",
-            "link": "https://www.plusmagazine.be/nl/multimedia/scan-je-geneesmiddel-met-de-nieuwe-farmainfo-app/",
-            "publishedDate": "25/11/2026 21:40",
-            "source": "plusmagazine.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1467,7 +1449,7 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
@@ -2049,17 +2031,6 @@
             "source": "vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Onderzoek naar de prikkelwerking en gevolgen van inhoudelijke afbakening van de Jeugdwet",
-            "link": "https://open.overheid.nl/details/01fc0e0a-a16f-4876-9cd8-8c5d714a7da5",
-            "publishedDate": "24/11/2026 17:12",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
