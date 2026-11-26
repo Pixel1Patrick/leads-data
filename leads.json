@@ -67,7 +67,7 @@
                     "publishedDate": "26/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ozempic kan mogelijk de kwaliteit van sperma verbeteren | TAGMAG",
@@ -133,7 +133,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "MedZO in de praktijk: Hoe onderzoek beslissingen tijdens een schildklieroperatie kan verbeteren",
@@ -262,11 +262,18 @@
             "title": "Huisarts veroordeeld voor voorschrijven Diane 35 bij 17-jarige pati\u00ebnte | Nieuwsblad",
             "link": "https://www.nieuwsblad.be/binnenland/huisarts-veroordeeld-voor-voorschrijven-diane-35-bij-17-jarige-patiente/165126025.html",
             "publishedDate": "26/11/2026 09:36",
-            "source": "nieuwsblad.be",
+            "source": "demorgen.be, nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gentse huisarts veroordeeld na voorschrift anticonceptiepil Diane 35: 17-jarige kreeg zware ...",
+                    "source": "demorgen.be",
+                    "link": "https://www.demorgen.be/nieuws/gentse-huisarts-veroordeeld-na-voorschrift-anticonceptiepil-diane-35-17-jarige-kreeg-zware-trombose-en-dubbele-longembolie~b67d555a/",
+                    "publishedDate": "26/11/2026 09:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -289,7 +296,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
@@ -327,17 +334,6 @@
             "source": "pw.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gentse huisarts veroordeeld na voorschrift anticonceptiepil Diane 35: 17-jarige kreeg zware ...",
-            "link": "https://www.demorgen.be/nieuws/gentse-huisarts-veroordeeld-na-voorschrift-anticonceptiepil-diane-35-17-jarige-kreeg-zware-trombose-en-dubbele-longembolie~b67d555a/",
-            "publishedDate": "26/11/2026 09:05",
-            "source": "demorgen.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -382,8 +378,15 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Peuter (2) ontsnapte uit opvang via slecht afgesloten deur, Helan neemt maatregelen",
+                    "source": "nieuwsblad.be",
+                    "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/ekeren/peuter-2-ontsnapte-uit-opvang-via-slecht-afgesloten-deur-helan-neemt-maatregelen-vader-pleit-voor-meer-sociale-controle/165089917.html",
+                    "publishedDate": "25/11/2026 14:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -509,7 +512,7 @@
                     "publishedDate": "25/11/2026 18:04"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ondermaatse vis verstopt in geheime ruimtes van kotters: taakstraf en tonnen boete voor ...",
@@ -566,11 +569,36 @@
             "title": "'Finaal is de pati\u00ebnt de dupe': drie op de vier ziekenhuizen financieel kwetsbaar",
             "link": "https://www.demorgen.be/nieuws/finaal-is-de-patient-de-dupe-drie-op-de-vier-ziekenhuizen-financieel-kwetsbaar~bb484f71b/",
             "publishedDate": "26/11/2026 04:34",
-            "source": "demorgen.be",
+            "source": "artsenkrant.pmg.be, dekrantenkoppen.be, demorgen.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Ziekenhuizen zitten in slechte papieren: \u201cDe overheid is geen betrouwbare partner meer\u201d",
+                    "source": "dekrantenkoppen.be",
+                    "link": "https://www.dekrantenkoppen.be/detail/4003523/ziekenhuizen-zitten-in-slechte-papieren-de-overheid-is-geen-betrouwbare-partner-meer.html",
+                    "publishedDate": "25/11/2026 22:43"
+                },
+                {
+                    "title": "Zorgnet-Icuro: ziekenhuizen hebben geen financi\u00eble ruimte meer - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2648S30_00",
+                    "publishedDate": "25/11/2026 21:01"
+                },
+                {
+                    "title": "Santhea waarschuwt voor beperkte financi\u00eble marges van Waalse ziekenhuizen",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2648E03/EAKbe2647S62_00",
+                    "publishedDate": "25/11/2026 21:01"
+                },
+                {
+                    "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
+                    "publishedDate": "25/11/2026 21:01"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -823,25 +851,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ziekenhuizen zitten in slechte papieren: \u201cDe overheid is geen betrouwbare partner meer\u201d",
-            "link": "https://www.dekrantenkoppen.be/detail/4003523/ziekenhuizen-zitten-in-slechte-papieren-de-overheid-is-geen-betrouwbare-partner-meer.html",
-            "publishedDate": "25/11/2026 22:43",
-            "source": "dekrantenkoppen.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gerard (66) is chauffeur voor de huisartsenpost: 'We zijn binnen de medische wereld amper bekend'",
             "link": "https://www.bd.nl/waalwijk/gerard-66-is-chauffeur-voor-de-huisartsenpost-we-zijn-binnen-de-medische-wereld-amper-bekend~ae37b385/",
             "publishedDate": "25/11/2026 22:25",
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -922,41 +946,8 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgnet-Icuro: ziekenhuizen hebben geen financi\u00eble ruimte meer - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2648S30_00",
-            "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Apothekers dienden al 30 procent meer griepvaccins toe dan vorig jaar - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAPbe2648S02_00",
-            "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Santhea waarschuwt voor beperkte financi\u00eble marges van Waalse ziekenhuizen",
-            "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2648E03/EAKbe2647S62_00",
-            "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
             "publishedDate": "25/11/2026 21:01",
             "source": "artsenkrant.pmg.be",
             "category": "Overig",
@@ -1084,7 +1075,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
@@ -1347,17 +1338,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-            "publishedDate": "25/11/2026 15:50",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Drie ziekenhuizen kondigden een pati\u00ebntenstop af door 'omzetplafonds' van Zilveren Kruis ... - NRC",
             "link": "https://www.nrc.nl/nieuws/2026/11/25/drie-ziekenhuizen-kondigden-een-patientenstop-af-door-omzetplafonds-van-zilveren-kruis-zo-stimuleren-wij-passende-zorg-verdedigt-de-topman-zich-a4942088",
             "publishedDate": "25/11/2026 15:35",
@@ -1463,17 +1443,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Peuter (2) ontsnapte uit opvang via slecht afgesloten deur, Helan neemt maatregelen",
-            "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/ekeren/peuter-2-ontsnapte-uit-opvang-via-slecht-afgesloten-deur-helan-neemt-maatregelen-vader-pleit-voor-meer-sociale-controle/165089917.html",
-            "publishedDate": "25/11/2026 14:19",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
