@@ -48,12 +48,25 @@
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 11:35",
-            "source": "cnv.nl",
+            "source": "cnv.nl, fnv.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+                    "publishedDate": "26/11/2026 09:31"
+                },
+                {
+                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+                    "publishedDate": "25/11/2026 10:43"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "MedZO in de praktijk: Hoe onderzoek beslissingen tijdens een schildklieroperatie kan verbeteren",
@@ -225,17 +238,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-            "publishedDate": "26/11/2026 09:31",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
             "publishedDate": "26/11/2026 09:29",
@@ -371,11 +373,48 @@
             "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
             "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
             "publishedDate": "26/11/2026 06:56",
-            "source": "rtvfocuszwolle.nl",
+            "source": "ad.nl, destentor.nl, drimble.nl, rtvdrenthe.nl, rtvfocuszwolle.nl, stadindex.nl, tubantia.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 8,
+            "extra_bronnen": [
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Zwolle",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/overijssel/zwolle/108712283/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen.html",
+                    "publishedDate": "25/11/2026 23:03"
+                },
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - StadIndex.nl",
+                    "source": "stadindex.nl",
+                    "link": "https://www.stadindex.nl/nederland/3635590-eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
+                    "publishedDate": "25/11/2026 22:10"
+                },
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - Tubantia",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
+                    "publishedDate": "25/11/2026 21:21"
+                },
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - de Stentor",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
+                    "publishedDate": "25/11/2026 21:18"
+                },
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Regio | AD.nl",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
+                    "publishedDate": "25/11/2026 21:16"
+                },
+                {
+                    "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
+                    "publishedDate": "25/11/2026 18:04"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -433,11 +472,24 @@
             "title": "'Finaal is de pati\u00ebnt de dupe': drie op de vier ziekenhuizen financieel kwetsbaar",
             "link": "https://www.demorgen.be/nieuws/finaal-is-de-patient-de-dupe-drie-op-de-vier-ziekenhuizen-financieel-kwetsbaar~bb484f71b/",
             "publishedDate": "26/11/2026 04:34",
-            "source": "demorgen.be",
+            "source": "artsenkrant.pmg.be, dekrantenkoppen.be, demorgen.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Ziekenhuizen zitten in slechte papieren: \u201cDe overheid is geen betrouwbare partner meer\u201d",
+                    "source": "dekrantenkoppen.be",
+                    "link": "https://www.dekrantenkoppen.be/detail/4003523/ziekenhuizen-zitten-in-slechte-papieren-de-overheid-is-geen-betrouwbare-partner-meer.html",
+                    "publishedDate": "25/11/2026 22:43"
+                },
+                {
+                    "title": "Zorgnet-Icuro: ziekenhuizen hebben geen financi\u00eble ruimte meer - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2648S30_00",
+                    "publishedDate": "25/11/2026 21:01"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -668,48 +720,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Zwolle",
-            "link": "https://drimble.nl/regio/overijssel/zwolle/108712283/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen.html",
-            "publishedDate": "25/11/2026 23:03",
-            "source": "ad.nl, destentor.nl, drimble.nl, rtvdrenthe.nl, stadindex.nl, tubantia.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 7,
-            "extra_bronnen": [
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - StadIndex.nl",
-                    "source": "stadindex.nl",
-                    "link": "https://www.stadindex.nl/nederland/3635590-eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
-                    "publishedDate": "25/11/2026 22:10"
-                },
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - Tubantia",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
-                    "publishedDate": "25/11/2026 21:21"
-                },
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - de Stentor",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
-                    "publishedDate": "25/11/2026 21:18"
-                },
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Regio | AD.nl",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
-                    "publishedDate": "25/11/2026 21:16"
-                },
-                {
-                    "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
-                    "publishedDate": "25/11/2026 18:04"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Brugse bedrijven steunen campagne 'Zeg neen aan geweld tegen vrouwen' - Made in",
             "link": "https://www.made-in.be/west-vlaanderen/brugse-bedrijven-steunen-campagne-zeg-neen-aan-geweld-tegen-vrouwen/",
             "publishedDate": "25/11/2026 22:53",
@@ -728,17 +738,6 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ziekenhuizen zitten in slechte papieren: \u201cDe overheid is geen betrouwbare partner meer\u201d",
-            "link": "https://www.dekrantenkoppen.be/detail/4003523/ziekenhuizen-zitten-in-slechte-papieren-de-overheid-is-geen-betrouwbare-partner-meer.html",
-            "publishedDate": "25/11/2026 22:43",
-            "source": "dekrantenkoppen.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -835,17 +834,6 @@
                     "publishedDate": "25/11/2026 21:01"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgnet-Icuro: ziekenhuizen hebben geen financi\u00eble ruimte meer - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2648S30_00",
-            "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1196,37 +1184,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 6,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
                     "publishedDate": "25/11/2026 16:11"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
-                    "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
-                    "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
-                    "publishedDate": "24/11/2026 16:41"
-                },
-                {
-                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
-                    "publishedDate": "24/11/2026 16:41"
                 }
             ],
             "belangrijkheid": 0
@@ -1624,6 +1588,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
+            "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
+                    "publishedDate": "25/11/2026 13:10"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027 - 2029",
             "link": "https://open.overheid.nl/details/2da7f0aa-a431-4089-afd6-26dcd5e56714",
             "publishedDate": "25/11/2026 13:10",
@@ -1645,7 +1627,7 @@
                     "publishedDate": "25/11/2026 13:10"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kabinet en gemeenten maken nieuwe afspraken voor een samenleving waarin iedereen kan meedoen aan sport, bewegen en cultuur",
@@ -1747,17 +1729,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-            "publishedDate": "25/11/2026 10:43",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Een nieuwe weg voor de plasbuis - UMC Utrecht",
             "link": "https://www.umcutrecht.nl/nieuws/een-nieuwe-weg-voor-de-plasbuis",
             "publishedDate": "25/11/2026 09:45",
@@ -1821,6 +1792,24 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+            "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
+            "publishedDate": "24/11/2026 16:41",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
+                    "publishedDate": "24/11/2026 16:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
