@@ -143,19 +143,12 @@
             "title": "Frans ziekenhuis staakt kankerbehandelingen wegens cyberaanval - Security.NL",
             "link": "https://www.security.nl/posting/963260/Frans+ziekenhuis+staakt+kankerbehandelingen+wegens+cyberaanval",
             "publishedDate": "26/11/2026 13:38",
-            "source": "security.nl, telegraaf.nl",
+            "source": "security.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Paniek na explosie tankwagen in Egypte: zeker 31 doden | De Telegraaf",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/video/paniek-na-explosie-tankwagen-in-egypte-zeker-31-doden/165123776.html",
-                    "publishedDate": "26/11/2026 12:30"
-                }
-            ],
-            "belangrijkheid": 0
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Nationaal AI-platform voor veiliger opereren - UMC Utrecht",
@@ -249,6 +242,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Paniek na explosie tankwagen in Egypte: zeker 31 doden | De Telegraaf",
+            "link": "https://www.telegraaf.nl/video/paniek-na-explosie-tankwagen-in-egypte-zeker-31-doden/165123776.html",
+            "publishedDate": "26/11/2026 12:30",
+            "source": "telegraaf.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Huisarts veroordeeld: &quot;belangrijk dat we niet alle artsen culpabiliseren&quot; (Domus Medica)",
             "link": "https://www.medi-sfeer.be/nl/nieuws/generaliste-condamnee-laquo-il-est-important-de-ne-pas-culpabiliser-tous-les-medecins-raquo-domus-medica.html",
             "publishedDate": "26/11/2026 12:24",
@@ -296,19 +300,12 @@
             "title": "Tweede Kamer debatteert over ADHD-medicijnen voor crackverslaafden - Head Topics",
             "link": "https://nl.headtopics.com/news/tweede-kamer-debatteert-over-adhd-medicijnen-voor-90204306",
             "publishedDate": "26/11/2026 12:08",
-            "source": "nl.headtopics.com, nos.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
-                    "publishedDate": "26/11/2026 10:38"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Ozempic kan mogelijk de kwaliteit van sperma verbeteren | TAGMAG",
@@ -495,9 +492,33 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
+                    "publishedDate": "25/11/2026 14:08"
+                },
+                {
+                    "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
+                    "publishedDate": "25/11/2026 14:08"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
+            "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
+            "publishedDate": "26/11/2026 10:38",
+            "source": "nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
@@ -624,18 +645,11 @@
             "title": "Zware griepepidemie in Frankrijk: stijgende aantallen griep, COVID en bronchiolitis",
             "link": "https://nl.headtopics.com/news/zware-griepepidemie-in-frankrijk-stijgende-aantallen-griep-covid-en-bronchiolitis-90200555",
             "publishedDate": "26/11/2026 09:53",
-            "source": "nl.headtopics.com, telegraaf.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Griep grijpt om zich heen: arts vertelt wat \u00e9cht helpt en welke middeltjes je beter kunt laten staan",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/lifestyle/gezondheid/griep-grijpt-om-zich-heen-arts-vertelt-wat-echt-helpt-en-welke-middeltjes-je-beter-kunt-laten-staan/165036608.html",
-                    "publishedDate": "26/11/2026 08:31"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -698,7 +712,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
@@ -731,7 +745,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorginstituut adviseert Rasonque en Tuksya in sluis te plaatsen - Pharmaceutisch Weekblad",
@@ -773,6 +787,17 @@
             "source": "scientias.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Griep grijpt om zich heen: arts vertelt wat \u00e9cht helpt en welke middeltjes je beter kunt laten staan",
+            "link": "https://www.telegraaf.nl/lifestyle/gezondheid/griep-grijpt-om-zich-heen-arts-vertelt-wat-echt-helpt-en-welke-middeltjes-je-beter-kunt-laten-staan/165036608.html",
+            "publishedDate": "26/11/2026 08:31",
+            "source": "telegraaf.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1689,24 +1714,6 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
-            "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
-            "publishedDate": "25/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
-                    "publishedDate": "25/11/2026 14:08"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
