@@ -1,6 +1,63 @@
 {
     "artikelen": [
         {
+            "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
+            "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
+            "publishedDate": "26/11/2026 16:44",
+            "source": "olvg.nl, parool.nl, rd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
+                    "source": "olvg.nl",
+                    "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
+                    "publishedDate": "26/11/2026 13:05"
+                },
+                {
+                    "title": "Ziekenhuis OLVG sluit spoedeisende hulp in Amsterdam-Oost",
+                    "source": "rd.nl",
+                    "link": "https://www.rd.nl/artikel/ziekenhuis-olvg-sluit-spoedeisende-hulp-in-amsterdam-oost",
+                    "publishedDate": "26/11/2026 13:02"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Deze extra's krijg je gratis bij je zorgverzekering in 2027 - Overstappen.nl",
+            "link": "https://www.overstappen.nl/nieuws/deze-extras-krijg-je-gratis-bij-je-zorgverzekering-in-2027/",
+            "publishedDate": "26/11/2026 16:36",
+            "source": "overstappen.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Man vraagt zorgtoeslag \u00e9\u00e9n dag te laat aan en loopt bijna 1000 euro mis - De Telegraaf",
+            "link": "https://www.telegraaf.nl/financieel/geld/man-vraagt-zorgtoeslag-een-dag-te-laat-aan-en-loopt-bijna-1000-euro-mis-eigen-verantwoordelijkheid/164980719.html",
+            "publishedDate": "26/11/2026 16:36",
+            "source": "telegraaf.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "AV-Delft: korting op uw zorgverzekering",
+            "link": "https://www.delft.nl/av-delft-korting-op-uw-zorgverzekering",
+            "publishedDate": "26/11/2026 16:17",
+            "source": "delft.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Waarom doet kou soms fysiek pijn? Experts leggen uit hoe je beter tegen kou kunt | Nieuws",
             "link": "https://www.destentor.nl/gezond/waarom-doet-kou-soms-fysiek-pijn-experts-leggen-uit-hoe-je-beter-tegen-kou-kunt~ab6fe3b9/",
             "publishedDate": "26/11/2026 16:11",
@@ -38,7 +95,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
@@ -55,42 +112,48 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "lad.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
+                {
+                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+                    "publishedDate": "24/11/2026 11:08"
+                },
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
             "title": "In drie ziekenhuizen geldt voor de rest van 2026 een pati\u00ebntenstop voor geplande zorg. En ...",
             "link": "https://nl.linkedin.com/posts/nrc-nl_in-drie-ziekenhuizen-geldt-voor-de-rest-van-activity-7531730622298386432-Z5_P",
             "publishedDate": "26/11/2026 15:50",
-            "source": "bnnvara.nl, metronieuws.nl, nl.linkedin.com, nrc.nl",
+            "source": "nl.linkedin.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Pati\u00ebntenstops bij ziekenhuizen vanwege omzetplafond verzekeraar Zilveren Kruis - Joop",
-                    "source": "bnnvara.nl",
-                    "link": "https://www.bnnvara.nl/joop/artikelen/patientenstops-bij-ziekenhuizen-vanwege-omzetplafond-verzekeraar-zilveren-kruis",
-                    "publishedDate": "26/11/2026 14:41"
-                },
-                {
-                    "title": "Drie ziekenhuizen kondigden een pati\u00ebntenstop af door 'omzetplafonds' van Zilveren Kruis ... - NRC",
-                    "source": "nrc.nl",
-                    "link": "https://www.nrc.nl/nieuws/2026/11/25/drie-ziekenhuizen-kondigden-een-patientenstop-af-door-omzetplafonds-van-zilveren-kruis-zo-stimuleren-wij-passende-zorg-verdedigt-de-topman-zich-a4942088",
-                    "publishedDate": "25/11/2026 15:35"
-                },
-                {
-                    "title": "Wel plek in de kliniek, maar het budget van Zilveren Kruis is op: Arjan uit Zwolle staat voor ...",
-                    "source": "metronieuws.nl",
-                    "link": "https://www.metronieuws.nl/in-het-nieuws/binnenland/2026/11/wel-plek-in-kliniek-budget-zilveren-kruis-is-op-arja-zwolle-dichte-deur/",
-                    "publishedDate": "25/11/2026 14:41"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Tekort aan RS-vaccins voor volwassenen in meerdere regio's: 'Konden het vorige week niet ...",
@@ -179,7 +242,7 @@
             "source": "l1nieuws.nl, omroeppenm.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
@@ -191,15 +254,61 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-            "publishedDate": "26/11/2026 14:32",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
+            "title": "Waarom minder verkooppunten van tabak en nicotineproducten? - Trimbos-instituut",
+            "link": "https://www.trimbos.nl/kennis/roken-tabak/verkoop-van-tabaks-en-nicotineproducten-in-nederland/waarom-minder-verkooppunten-van-tabak-en-nicotineproducten/",
+            "publishedDate": "26/11/2026 14:41",
+            "source": "trimbos.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
+            "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
+            "publishedDate": "26/11/2026 14:41",
+            "source": "pw.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Pati\u00ebntenstops bij ziekenhuizen vanwege omzetplafond verzekeraar Zilveren Kruis - Joop",
+            "link": "https://www.bnnvara.nl/joop/artikelen/patientenstops-bij-ziekenhuizen-vanwege-omzetplafond-verzekeraar-zilveren-kruis",
+            "publishedDate": "26/11/2026 14:41",
+            "source": "bnnvara.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+            "publishedDate": "26/11/2026 14:32",
+            "source": "cnv.nl, fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
+                    "publishedDate": "26/11/2026 09:29"
+                },
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Na roerige periode neemt laboratorium PAMM afscheid van medische microbiologie | Regio",
@@ -220,36 +329,23 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
-            "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
-            "publishedDate": "26/11/2026 14:32",
-            "source": "olvg.nl, parool.nl, rd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
-                    "source": "olvg.nl",
-                    "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
-                    "publishedDate": "26/11/2026 13:05"
-                },
-                {
-                    "title": "Ziekenhuis OLVG sluit spoedeisende hulp in Amsterdam-Oost",
-                    "source": "rd.nl",
-                    "link": "https://www.rd.nl/artikel/ziekenhuis-olvg-sluit-spoedeisende-hulp-in-amsterdam-oost",
-                    "publishedDate": "26/11/2026 13:02"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Pati\u00ebnt wacht minder lang door 'samen bellen' Huisartsenspoedposten - DordtCentraal",
             "link": "https://dordtcentraal.nl/actueel/patient-wacht-minder-lang-door-samen-bellen-huisartsenspoedposten/",
             "publishedDate": "26/11/2026 14:23",
             "source": "dordtcentraal.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Duitsland kondigt schadeclaim tegen Damen aan na fregattendrama | Regio | BN DeStem.nl",
+            "link": "https://www.bndestem.nl/zeeland/duitsland-kondigt-schadeclaim-tegen-damen-aan-na-fregattendrama~ab8419be/",
+            "publishedDate": "26/11/2026 14:21",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -286,6 +382,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "DSW-topman waarschuwt voor zorgpremie van 200 euro: 'Waar eindigt dit?'",
+            "link": "https://www.verzekeringsnieuws.nl/artikel/130627-dsw-topman-waarschuwt-voor-zorgpremie-van-200-euro-waar-eindigt-dit",
+            "publishedDate": "26/11/2026 14:15",
+            "source": "verzekeringsnieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Mega-operatie in ziekenhuis Tergooi: alle 345 bedden worden vervangen - NH Nieuws",
@@ -375,30 +482,11 @@
             "title": "Isala brengt eigen geneesmiddel op de markt: 'Naam blijft geheim' - RTV Oost",
             "link": "https://www.oost.nl/amp/nieuws/3723691/isala-brengt-eigen-geneesmiddel-op-de-markt-naam-blijft-geheim",
             "publishedDate": "26/11/2026 13:06",
-            "source": "drimble.nl, oost.nl, rtvfocuszwolle.nl",
+            "source": "oost.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
-                    "source": "rtvfocuszwolle.nl",
-                    "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
-                    "publishedDate": "26/11/2026 12:56"
-                },
-                {
-                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
-                    "publishedDate": "26/11/2026 11:13"
-                },
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Zwolle",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/overijssel/zwolle/108711970/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen.html",
-                    "publishedDate": "26/11/2026 09:18"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -424,6 +512,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Bestuurder Warande vertrekt na verlies rechtszaak Kraaijbeek, organisatie ontkent verband",
+            "link": "https://www.nieuwsbladdekaap.nl/lokaal/maatschappelijk/1330890/bestuurder-warande-vertrekt-na-verlies-rechtszaak-kraaijbeek-",
+            "publishedDate": "26/11/2026 13:04",
+            "source": "nieuwsbladdekaap.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgorganisatie",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Medisch Centrum West: De pati\u00ebnten vrezen voor een ebolabesmetting - KIJK",
             "link": "https://www.kijk.nl/programmas/medisch-centrum-west/XySxvYpuqODBuG",
             "publishedDate": "26/11/2026 12:58",
@@ -432,6 +531,30 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
+            "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
+            "publishedDate": "26/11/2026 12:56",
+            "source": "drimble.nl, rtvfocuszwolle.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
+                    "publishedDate": "26/11/2026 11:13"
+                },
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Zwolle",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/overijssel/zwolle/108711970/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen.html",
+                    "publishedDate": "26/11/2026 09:18"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -731,7 +854,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
@@ -914,24 +1037,6 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
-            "publishedDate": "26/11/2026 09:29",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-                    "publishedDate": "24/11/2026 10:38"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1408,7 +1513,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
@@ -1597,17 +1702,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Dit zijn de 5 goedkoopste zorgverzekeringen van 2027: verschil loopt op tot \u20ac649",
-            "link": "https://geldzaken.nl/goedkoopste-duurste-zorgverzekeringen-2027",
-            "publishedDate": "25/11/2026 15:55",
-            "source": "geldzaken.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Leiden kleurt oranje tegen vrouwengeweld, maar noodopvang zit nokvol - Centraal+",
             "link": "https://centraalplus.nl/2026/11/25/leiden-kleurt-oranje-tegen-vrouwengeweld-maar-noodopvang-zit-nokvol/",
             "publishedDate": "25/11/2026 15:52",
@@ -1658,17 +1752,6 @@
             "source": "vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Woensdrecht betaalt deel mee aan collectieve zorgverzekering voor inwoners met lager inkomen",
-            "link": "https://www.ad.nl/woensdrecht/woensdrecht-betaalt-deel-mee-aan-collectieve-zorgverzekering-voor-inwoners-met-lager-inkomen~ae71c82d/",
-            "publishedDate": "25/11/2026 14:27",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1844,17 +1927,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Geertruidenberg biedt zorgverzekering voor inwoners met laag inkomen - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6036074/geertruidenberg-biedt-zorgverzekering-voor-inwoners-met-laag-inkomen",
-            "publishedDate": "25/11/2026 11:20",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Geslaagd en leerzame avond over dementie en medicatie - Alzheimer Nederland",
             "link": "https://www.alzheimer-nederland.nl/regios/voorne-putten-en-rozenburg/geslaagd-en-leerzame-avond-over-dementie-en-medicatie",
             "publishedDate": "25/11/2026 11:18",
@@ -1987,17 +2059,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
             "link": "https://propertynl.com/amvest-koopt-22-woon-zorgcomplexen/",
             "publishedDate": "24/11/2026 13:54",
@@ -2018,30 +2079,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-            "publishedDate": "24/11/2026 13:47",
-            "source": "cnv.nl, fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
-                },
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
