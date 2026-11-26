@@ -346,11 +346,17 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -585,11 +591,18 @@
             "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
             "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
             "publishedDate": "26/11/2026 14:41",
-            "source": "omroeppenm.nl",
+            "source": "l1nieuws.nl, omroeppenm.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
+                    "publishedDate": "26/11/2026 13:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -783,17 +796,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
-            "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
-            "publishedDate": "26/11/2026 13:38",
-            "source": "l1nieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gemeenten Kop van Noord-Holland zetten volgende stap in regionale samenwerking",
             "link": "https://www.schagen.nl/gemeenten-kop-van-noord-holland-zetten-volgende-stap-regionale-samenwerking",
             "publishedDate": "26/11/2026 13:30",
@@ -812,6 +814,17 @@
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Doorbraak in hormoontherapie tegen borstkanker - Scientias",
+            "link": "https://scientias.nl/doorbraak-in-hormoontherapie-tegen-borstkanker/",
+            "publishedDate": "26/11/2026 13:22",
+            "source": "scientias.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -923,7 +936,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "&quot;Therapeutische exceptie beschermt persoonlijke notities&quot; - Artsenkrant",
@@ -962,19 +975,12 @@
             "title": "Tweede Kamer debatteert over ADHD-medicijnen voor crackverslaafden - Head Topics",
             "link": "https://nl.headtopics.com/news/tweede-kamer-debatteert-over-adhd-medicijnen-voor-90204306",
             "publishedDate": "26/11/2026 12:08",
-            "source": "nl.headtopics.com, nos.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
-                    "publishedDate": "26/11/2026 10:38"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Ozempic kan mogelijk de kwaliteit van sperma verbeteren | TAGMAG",
@@ -1144,6 +1150,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
+            "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
+            "publishedDate": "26/11/2026 10:38",
+            "source": "mallorca-nieuws.nl, nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Effici\u00ebntieverhoging dankzij operatierobots in Son Espases - mallorca-nieuws.nl",
+                    "source": "mallorca-nieuws.nl",
+                    "link": "https://mallorca-nieuws.nl/efficientieverhoging-dankzij-operatierobots-in-son-espases/",
+                    "publishedDate": "26/11/2026 10:32"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036047/hoogbegaafde-kinderen-in-breda-aan-lot-overgelaten-politiek-slaat-alarm",
             "publishedDate": "26/11/2026 10:38",
@@ -1161,17 +1185,6 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Effici\u00ebntieverhoging dankzij operatierobots in Son Espases - mallorca-nieuws.nl",
-            "link": "https://mallorca-nieuws.nl/efficientieverhoging-dankzij-operatierobots-in-son-espases/",
-            "publishedDate": "26/11/2026 10:32",
-            "source": "mallorca-nieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1481,17 +1494,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "De prijzen van geneesmiddelen in Portugal zouden in 2027 met 2.3% kunnen stijgen.",
-            "link": "https://www.portugalresident.com/nl/De-prijzen-van-geneesmiddelen-in-Portugal-zouden-in-2027-met-2-tot-3-procent-kunnen-stijgen./",
-            "publishedDate": "26/11/2026 04:44",
-            "source": "portugalresident.com",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "LHV, Verenso en KNMG: investeer in extramurale artsen en voorkom nieuwe regeldruk",
             "link": "https://www.lhv.nl/nieuws/lhv-verenso-en-knmg-investeer-in-extramurale-artsen-en-voorkom-nieuwe-regeldruk/",
             "publishedDate": "26/11/2026 03:20",
@@ -1767,17 +1769,6 @@
                     "publishedDate": "25/11/2026 18:20"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare",
-            "publishedDate": "25/11/2026 18:08",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -2057,17 +2048,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
