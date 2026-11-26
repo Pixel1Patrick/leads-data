@@ -346,23 +346,11 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl, petities.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 6,
+            "duplicate_count": 4,
             "extra_bronnen": [
-                {
-                    "title": "Zorg voor \u00e9chte waardering van zorgprofessionals in de ggz in de cao - Petities.nl",
-                    "source": "petities.nl",
-                    "link": "https://petities.nl/petities/zorg-voor-echte-waardering-van-zorgprofessionals-in-de-ggz-in-de-cao",
-                    "publishedDate": "26/11/2026 11:28"
-                },
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -567,29 +555,41 @@
             "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
             "link": "https://locomediagroep.nl/nieuws/693-isala-als-eerste-ziekenhuis-met-eigen-geregistreerd-geneesmiddel/",
             "publishedDate": "26/11/2026 14:43",
-            "source": "locomediagroep.nl",
+            "source": "drimble.nl, locomediagroep.nl, oost.nl, rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Isala brengt eigen geneesmiddel op de markt: 'Naam blijft geheim' - RTV Oost",
+                    "source": "oost.nl",
+                    "link": "https://www.oost.nl/amp/nieuws/3723691/isala-brengt-eigen-geneesmiddel-op-de-markt-naam-blijft-geheim",
+                    "publishedDate": "26/11/2026 13:06"
+                },
+                {
+                    "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
+                    "source": "rtvfocuszwolle.nl",
+                    "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
+                    "publishedDate": "26/11/2026 12:56"
+                },
+                {
+                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
+                    "publishedDate": "26/11/2026 11:13"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
             "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
             "publishedDate": "26/11/2026 14:41",
-            "source": "l1nieuws.nl, omroeppenm.nl",
+            "source": "omroeppenm.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
-                    "source": "l1nieuws.nl",
-                    "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
-                    "publishedDate": "26/11/2026 13:38"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -783,6 +783,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
+            "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
+            "publishedDate": "26/11/2026 13:38",
+            "source": "l1nieuws.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Gemeenten Kop van Noord-Holland zetten volgende stap in regionale samenwerking",
             "link": "https://www.schagen.nl/gemeenten-kop-van-noord-holland-zetten-volgende-stap-regionale-samenwerking",
             "publishedDate": "26/11/2026 13:30",
@@ -813,30 +824,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Isala brengt eigen geneesmiddel op de markt: 'Naam blijft geheim' - RTV Oost",
-            "link": "https://www.oost.nl/amp/nieuws/3723691/isala-brengt-eigen-geneesmiddel-op-de-markt-naam-blijft-geheim",
-            "publishedDate": "26/11/2026 13:06",
-            "source": "drimble.nl, oost.nl, rtvfocuszwolle.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
-                    "source": "rtvfocuszwolle.nl",
-                    "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
-                    "publishedDate": "26/11/2026 12:56"
-                },
-                {
-                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
-                    "publishedDate": "26/11/2026 11:13"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1062,6 +1049,17 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorg voor \u00e9chte waardering van zorgprofessionals in de ggz in de cao - Petities.nl",
+            "link": "https://petities.nl/petities/zorg-voor-echte-waardering-van-zorgprofessionals-in-de-ggz-in-de-cao",
+            "publishedDate": "26/11/2026 11:28",
+            "source": "petities.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2059,6 +2057,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
