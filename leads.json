@@ -15,18 +15,11 @@
             "title": "Rectificatie van Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte (RVG 30759)",
             "link": "https://open.overheid.nl/details/oep-ob-62a223f6b66ce873e21df55dd57b420e05fab45c_156",
             "publishedDate": "26/11/2026 13:38",
-            "source": "noordhollandsdagblad.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Michael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn",
-                    "source": "noordhollandsdagblad.nl",
-                    "link": "https://www.noordhollandsdagblad.nl/uitgelicht/michael-59-is-doodsbang-nu-zijn-medicijnen-in-nederland-niet-meer-beschikbaar-zijn-nu-ik-steeds-minder-pillen-heb-ga-ik-steeds-meer-malen/165078862.html",
-                    "publishedDate": "26/11/2026 12:31"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -59,6 +52,17 @@
             "category": "Overig",
             "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Michael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn",
+            "link": "https://www.noordhollandsdagblad.nl/uitgelicht/michael-59-is-doodsbang-nu-zijn-medicijnen-in-nederland-niet-meer-beschikbaar-zijn-nu-ik-steeds-minder-pillen-heb-ga-ik-steeds-meer-malen/165078862.html",
+            "publishedDate": "26/11/2026 12:31",
+            "source": "noordhollandsdagblad.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -909,16 +913,22 @@
             "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen",
             "link": "https://www.nhnieuws.nl/nieuws/365819/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
             "publishedDate": "26/11/2026 00:41",
-            "source": "at5.nl, nhnieuws.nl",
+            "source": "at5.nl, nhnieuws.nl, zorgkrant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert umc",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen - AT5",
                     "source": "at5.nl",
                     "link": "https://www.at5.nl/artikelen/241244/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
                     "publishedDate": "25/11/2026 16:15"
+                },
+                {
+                    "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
+                    "source": "zorgkrant.nl",
+                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
+                    "publishedDate": "25/11/2026 11:05"
                 }
             ],
             "belangrijkheid": 0
@@ -1218,7 +1228,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
@@ -1373,19 +1383,13 @@
             "source": "cnv.nl, fnv.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
                     "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
                     "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
                 },
                 {
                     "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
@@ -1921,17 +1925,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
-            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
-            "publishedDate": "25/11/2026 11:05",
-            "source": "zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
             "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
             "publishedDate": "25/11/2026 10:43",
@@ -2044,6 +2037,17 @@
             "source": "rivm.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "RIVM Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+            "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+            "publishedDate": "24/11/2026 11:08",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
