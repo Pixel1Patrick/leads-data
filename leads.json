@@ -378,24 +378,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -680,34 +676,35 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
             "link": "https://www.deputtenaer.nl/lokaal/politiek/1330862/een-regionaal-expertiseteam-noord-veluwe-voor-complexe-proble",
             "publishedDate": "26/11/2026 16:04",
-            "source": "deputtenaer.nl",
+            "source": "bd.nl, deputtenaer.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -727,24 +724,17 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ruim 3,5 miljoen euro voor onderzoek naar digitale kopie van het hart",
             "link": "https://www.catharinaziekenhuis.nl/ruim-35-miljoen-euro-voor-onderzoek-naar-digitale-kopie-van-het-hart/",
             "publishedDate": "26/11/2026 16:00",
-            "source": "catharinaziekenhuis.nl, icthealth.nl",
+            "source": "catharinaziekenhuis.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Digitale kopie van het hart moet behandelkeuze verbeteren | ICT&amp;health",
-                    "source": "icthealth.nl",
-                    "link": "https://www.icthealth.nl/nieuws/digitale-kopie-van-het-hart-moet-behandelkeuze-verbeteren",
-                    "publishedDate": "26/11/2026 15:47"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -774,6 +764,17 @@
             "link": "https://nl.linkedin.com/posts/nrc-nl_in-drie-ziekenhuizen-geldt-voor-de-rest-van-activity-7531730622298386432-Z5_P",
             "publishedDate": "26/11/2026 15:50",
             "source": "nl.linkedin.com",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Digitale kopie van het hart moet behandelkeuze verbeteren | ICT&amp;health",
+            "link": "https://www.icthealth.nl/nieuws/digitale-kopie-van-het-hart-moet-behandelkeuze-verbeteren",
+            "publishedDate": "26/11/2026 15:47",
+            "source": "icthealth.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
@@ -970,18 +971,11 @@
             "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
             "publishedDate": "26/11/2026 14:41",
-            "source": "pw.nl, rivm.nl",
+            "source": "pw.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
-                    "publishedDate": "24/11/2026 13:53"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1070,7 +1064,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Belgische vaccinatiegraad tegen mazelen op \u00e9\u00e9n na laagste van EU - Medi-Sfeer",
@@ -1323,7 +1317,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
@@ -1797,17 +1791,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Veiling voor monumentaal station Vorden haalt ruim 9.000 euro op - Head Topics",
-            "link": "https://nl.headtopics.com/news/veiling-voor-monumentaal-station-vorden-haalt-ruim-9-000-90186902",
-            "publishedDate": "25/11/2026 21:29",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Apothekers dienden al 30 procent meer griepvaccins toe dan vorig jaar - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAPbe2648S02_00",
             "publishedDate": "25/11/2026 21:01",
@@ -1867,17 +1850,6 @@
                     "publishedDate": "25/11/2026 16:11"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-            "publishedDate": "25/11/2026 15:50",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -2052,6 +2024,28 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
+            "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
+            "publishedDate": "24/11/2026 13:53",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
