@@ -133,7 +133,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "MedZO in de praktijk: Hoe onderzoek beslissingen tijdens een schildklieroperatie kan verbeteren",
@@ -289,7 +289,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
@@ -298,8 +298,15 @@
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -502,7 +509,7 @@
                     "publishedDate": "25/11/2026 18:04"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ondermaatse vis verstopt in geheime ruimtes van kotters: taakstraf en tonnen boete voor ...",
@@ -1077,7 +1084,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
@@ -1095,7 +1102,7 @@
                     "publishedDate": "16/11/2026 13:54"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "De toekomst van kwalitatieve, betaalbare en toegankelijke ggz | Z - ZonMw",
@@ -1273,25 +1280,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
                     "publishedDate": "25/11/2026 16:11"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
-                    "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
             "belangrijkheid": 0
@@ -1684,6 +1679,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
+            "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
+                    "publishedDate": "25/11/2026 13:10"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027 - 2029",
             "link": "https://open.overheid.nl/details/2da7f0aa-a431-4089-afd6-26dcd5e56714",
             "publishedDate": "25/11/2026 13:10",
@@ -1941,17 +1954,6 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-            "publishedDate": "24/11/2026 10:38",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
