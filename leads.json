@@ -209,7 +209,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
@@ -454,7 +454,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Woudenberg trekt extra geld uit voor jeugdzorg, ondanks juridische bezwaren",
@@ -1251,12 +1251,31 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
-            "source": "lad.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
+                {
+                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+                    "publishedDate": "24/11/2026 11:08"
+                },
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
@@ -1276,25 +1295,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
                     "publishedDate": "25/11/2026 16:11"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
-                    "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
             "belangrijkheid": 0
@@ -1515,18 +1522,12 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
                     "publishedDate": "25/11/2026 14:08"
                 }
             ],
@@ -1535,6 +1536,17 @@
         {
             "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
             "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
+            "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
             "publishedDate": "25/11/2026 14:08",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1684,6 +1696,24 @@
             "feed_label": "Alert Gehandicaptenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
+            "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
+                    "publishedDate": "25/11/2026 13:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1901,30 +1931,11 @@
             "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
             "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
             "publishedDate": "24/11/2026 14:04",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
+            "source": "nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
-                },
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
