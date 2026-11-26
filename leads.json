@@ -51,8 +51,14 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+                    "publishedDate": "26/11/2026 14:32"
+                },
                 {
                     "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
                     "source": "cnv.nl",
@@ -666,11 +672,18 @@
             "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
             "publishedDate": "26/11/2026 14:41",
-            "source": "pw.nl",
+            "source": "pw.nl, rivm.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
+                    "publishedDate": "24/11/2026 13:53"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -691,17 +704,6 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-            "publishedDate": "26/11/2026 14:32",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -986,7 +988,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "&quot;Therapeutische exceptie beschermt persoonlijke notities&quot; - Artsenkrant",
@@ -1025,12 +1027,19 @@
             "title": "Tweede Kamer debatteert over ADHD-medicijnen voor crackverslaafden - Head Topics",
             "link": "https://nl.headtopics.com/news/tweede-kamer-debatteert-over-adhd-medicijnen-voor-90204306",
             "publishedDate": "26/11/2026 12:08",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, nos.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
+                    "publishedDate": "26/11/2026 10:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Ozempic kan mogelijk de kwaliteit van sperma verbeteren | TAGMAG",
@@ -1198,17 +1207,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
-            "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
-            "publishedDate": "26/11/2026 10:38",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
@@ -2008,17 +2006,6 @@
             "source": "propertynl.com",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
-            "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
-            "publishedDate": "24/11/2026 13:53",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
