@@ -110,15 +110,8 @@
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Grootslag heroverweegt sloop van Sorghvliet Andijk en huurwoningen in ... - Noordhollands Dagblad",
-                    "source": "noordhollandsdagblad.nl",
-                    "link": "https://www.noordhollandsdagblad.nl/regio/west-friesland/grootslag-heroverweegt-sloop-van-sorghvliet-andijk-en-huurwoningen-in-wervershoof.-huisarts-straks-in-rijdende-bus/165022782.html",
-                    "publishedDate": "26/11/2026 05:13"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -386,6 +379,17 @@
                     "publishedDate": "26/11/2026 05:08"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Grootslag heroverweegt sloop van Sorghvliet Andijk en huurwoningen in ... - Noordhollands Dagblad",
+            "link": "https://www.noordhollandsdagblad.nl/regio/west-friesland/grootslag-heroverweegt-sloop-van-sorghvliet-andijk-en-huurwoningen-in-wervershoof.-huisarts-straks-in-rijdende-bus/165022782.html",
+            "publishedDate": "26/11/2026 05:13",
+            "source": "noordhollandsdagblad.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -929,22 +933,16 @@
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
             "link": "https://ggz.nl/actualiteiten/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
             "publishedDate": "25/11/2026 17:54",
-            "source": "denederlandseggz.nl, ggz.nl, jeugdzorgnederland.nl",
+            "source": "denederlandseggz.nl, ggz.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 5,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
                     "source": "denederlandseggz.nl",
                     "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
                     "publishedDate": "16/11/2026 13:54"
-                },
-                {
-                    "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
-                    "publishedDate": "25/11/2026 16:54"
                 }
             ],
             "belangrijkheid": 0
@@ -1041,6 +1039,17 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
+            "publishedDate": "25/11/2026 16:54",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Jeugdzorg Nederland",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1300,18 +1309,11 @@
             "title": "Woensdrecht betaalt deel mee aan collectieve zorgverzekering voor inwoners met lager inkomen",
             "link": "https://www.ad.nl/woensdrecht/woensdrecht-betaalt-deel-mee-aan-collectieve-zorgverzekering-voor-inwoners-met-lager-inkomen~ae71c82d/",
             "publishedDate": "25/11/2026 14:27",
-            "source": "ad.nl, omroepbrabant.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Geertruidenberg biedt zorgverzekering voor inwoners met laag inkomen - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6036074/geertruidenberg-biedt-zorgverzekering-voor-inwoners-met-laag-inkomen",
-                    "publishedDate": "25/11/2026 11:20"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1623,6 +1625,17 @@
             "source": "lc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Geertruidenberg biedt zorgverzekering voor inwoners met laag inkomen - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6036074/geertruidenberg-biedt-zorgverzekering-voor-inwoners-met-laag-inkomen",
+            "publishedDate": "25/11/2026 11:20",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
