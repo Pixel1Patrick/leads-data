@@ -405,17 +405,11 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -672,18 +666,11 @@
             "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
             "publishedDate": "26/11/2026 14:41",
-            "source": "pw.nl, rivm.nl",
+            "source": "pw.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
-                    "publishedDate": "24/11/2026 13:53"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -790,7 +777,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Mega-operatie in ziekenhuis Tergooi: alle 345 bedden worden vervangen - NH Nieuws",
@@ -988,7 +975,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "&quot;Therapeutische exceptie beschermt persoonlijke notities&quot; - Artsenkrant",
@@ -2000,12 +1987,34 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
             "link": "https://propertynl.com/amvest-koopt-22-woon-zorgcomplexen/",
             "publishedDate": "24/11/2026 13:54",
             "source": "propertynl.com",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
+            "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
+            "publishedDate": "24/11/2026 13:53",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
