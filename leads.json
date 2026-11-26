@@ -51,14 +51,8 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
-                {
-                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-                    "publishedDate": "26/11/2026 14:32"
-                },
                 {
                     "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
                     "source": "cnv.nl",
@@ -99,24 +93,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -405,17 +395,11 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -463,19 +447,12 @@
             "title": "In drie ziekenhuizen geldt voor de rest van 2026 een pati\u00ebntenstop voor geplande zorg. En ...",
             "link": "https://nl.linkedin.com/posts/nrc-nl_in-drie-ziekenhuizen-geldt-voor-de-rest-van-activity-7531730622298386432-Z5_P",
             "publishedDate": "26/11/2026 15:50",
-            "source": "bnnvara.nl, nl.linkedin.com",
+            "source": "nl.linkedin.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Pati\u00ebntenstops bij ziekenhuizen vanwege omzetplafond verzekeraar Zilveren Kruis - Joop",
-                    "source": "bnnvara.nl",
-                    "link": "https://www.bnnvara.nl/joop/artikelen/patientenstops-bij-ziekenhuizen-vanwege-omzetplafond-verzekeraar-zilveren-kruis",
-                    "publishedDate": "26/11/2026 14:41"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Tekort aan RS-vaccins voor volwassenen in meerdere regio's: 'Konden het vorige week niet ...",
@@ -694,12 +671,34 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Pati\u00ebntenstops bij ziekenhuizen vanwege omzetplafond verzekeraar Zilveren Kruis - Joop",
+            "link": "https://www.bnnvara.nl/joop/artikelen/patientenstops-bij-ziekenhuizen-vanwege-omzetplafond-verzekeraar-zilveren-kruis",
+            "publishedDate": "26/11/2026 14:41",
+            "source": "bnnvara.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Kannan is al bijna 7 jaar dood, maar wint nog altijd prijzen: 'Hij heeft 8000 veulens verwekt'",
             "link": "https://www.pzc.nl/goeree-overflakkee/kannan-is-al-bijna-7-jaar-dood-maar-wint-nog-altijd-prijzen-hij-heeft-8000-veulens-verwekt~ac5e938b/",
             "publishedDate": "26/11/2026 14:33",
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+            "publishedDate": "26/11/2026 14:32",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -786,7 +785,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Mega-operatie in ziekenhuis Tergooi: alle 345 bedden worden vervangen - NH Nieuws",
@@ -984,7 +983,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "&quot;Therapeutische exceptie beschermt persoonlijke notities&quot; - Artsenkrant",
@@ -1083,7 +1082,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
@@ -1122,16 +1121,22 @@
             "title": "Fabrikanten van afslankmiddelen en diabetesmedicijnen moeten ook in VS waarschuwen ...",
             "link": "https://www.ad.nl/buitenland/fabrikanten-van-afslankmiddelen-en-diabetesmedicijnen-moeten-ook-in-vs-waarschuwen-voor-risico-op-ernstige-oogziekte~a80055ad/",
             "publishedDate": "26/11/2026 11:27",
-            "source": "ad.nl, pzc.nl",
+            "source": "ad.nl, demorgen.be, pzc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Fabrikanten van afslankmiddelen en diabetesmedicijnen moeten ook in VS waarschuwen ...",
                     "source": "pzc.nl",
                     "link": "https://www.pzc.nl/buitenland/fabrikanten-van-afslankmiddelen-en-diabetesmedicijnen-moeten-ook-in-vs-waarschuwen-voor-risico-op-ernstige-oogziekte~a80055ad/",
                     "publishedDate": "26/11/2026 11:18"
+                },
+                {
+                    "title": "Ozempic- en Mounjaro-makers moeten gebruikers in VS waarschuwen voor mogelijk verlies ...",
+                    "source": "demorgen.be",
+                    "link": "https://www.demorgen.be/nieuws/ozempic-en-mounjaro-makers-moeten-gebruikers-in-vs-waarschuwen-voor-mogelijk-verlies-van-gezichtsvermogen~b0fceda5/",
+                    "publishedDate": "26/11/2026 11:20"
                 }
             ],
             "belangrijkheid": 0
@@ -1143,17 +1148,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ozempic- en Mounjaro-makers moeten gebruikers in VS waarschuwen voor mogelijk verlies ...",
-            "link": "https://www.demorgen.be/nieuws/ozempic-en-mounjaro-makers-moeten-gebruikers-in-vs-waarschuwen-voor-mogelijk-verlies-van-gezichtsvermogen~b0fceda5/",
-            "publishedDate": "26/11/2026 11:20",
-            "source": "demorgen.be",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2000,6 +1994,17 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
