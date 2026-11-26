@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Schrap de structurele bezuiniging op de Luisterlijn - Petities.nl",
+            "link": "https://petities.nl/petities/schrap-de-structurele-bezuiniging-op-de-luisterlijn",
+            "publishedDate": "26/11/2026 23:06",
+            "source": "petities.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "De Koningin brengt een bezoek aan het 'Baby Friendly Hospital Initiative' (BFHI) in het UZ Leuven",
             "link": "https://www.monarchie.be/nl/agenda/de-koningin-brengt-een-bezoek-aan-het-baby-friendly-hospital-initiative-bfhi-in-het-uz-leuven",
             "publishedDate": "26/11/2026 21:43",
@@ -59,24 +70,11 @@
             "title": "Eerste paal geslagen voor nieuw Bravis ziekenhuis in Roosendaal",
             "link": "https://www.zuidwestupdate.nl/nieuws/eerste-paal-geslagen-voor-nieuw-bravis-ziekenhuis-in-roosendaal/",
             "publishedDate": "26/11/2026 21:02",
-            "source": "bndestem.nl, omroepbrabant.nl, zuidwestupdate.nl",
+            "source": "zuidwestupdate.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Bouw Bravis Ziekenhuis officieel begonnen, 1890 heipalen gaan de grond in - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6036325/bouw-bravis-ziekenhuis-officieel-begonnen-1890-heipalen-gaan-de-grond-in",
-                    "publishedDate": "26/11/2026 20:46"
-                },
-                {
-                    "title": "De eerste van 1890 heipalen zit erin: de bouw van het nieuwe Bravis Ziekenhuis is nu echt ...",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/roosendaal/de-eerste-van-1890-heipalen-zit-erin-de-bouw-van-het-nieuwe-bravis-ziekenhuis-is-nu-echt-begonnen~a1c3d900/",
-                    "publishedDate": "26/11/2026 18:02"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -124,6 +122,17 @@
                     "publishedDate": "26/11/2026 14:43"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bouw Bravis Ziekenhuis officieel begonnen, 1890 heipalen gaan de grond in - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6036325/bouw-bravis-ziekenhuis-officieel-begonnen-1890-heipalen-gaan-de-grond-in",
+            "publishedDate": "26/11/2026 20:46",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -203,11 +212,18 @@
             "title": "Ziekenhuizen Nij Smellinghe en Antonius onderzoeken bestuurlijke fusie - Omrop Frysl\u00e2n",
             "link": "https://www.omropfryslan.nl/nl/nieuws/18982998/ziekenhuizen-nij-smellinghe-en-antonius-onderzoeken-bestuurlijke-fusie",
             "publishedDate": "26/11/2026 20:07",
-            "source": "omropfryslan.nl",
+            "source": "grootsneek.nl, omropfryslan.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Antonius en NijZ onderzoeken mogelijkheden bestuurlijke fusie - GrootSneek",
+                    "source": "grootsneek.nl",
+                    "link": "https://www.grootsneek.nl/gezond-en-fit/gezond-en-fit/150380/antonius-en-nijz-onderzoeken-mogelijkheden-bestuurlijke-fusie",
+                    "publishedDate": "26/11/2026 20:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -449,6 +465,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "De eerste van 1890 heipalen zit erin: de bouw van het nieuwe Bravis Ziekenhuis is nu echt ...",
+            "link": "https://www.bndestem.nl/roosendaal/de-eerste-van-1890-heipalen-zit-erin-de-bouw-van-het-nieuwe-bravis-ziekenhuis-is-nu-echt-begonnen~a1c3d900/",
+            "publishedDate": "26/11/2026 18:02",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Gentse huisarts veroordeeld voor het voorschrijven van Diane 35 - AVS",
             "link": "https://avs.be/nieuws/gentse-huisarts-veroordeeld-voor-het-voorschrijven-van-diane-35",
             "publishedDate": "26/11/2026 17:59",
@@ -525,24 +552,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -657,18 +680,11 @@
             "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
             "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
             "publishedDate": "26/11/2026 16:44",
-            "source": "olvg.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
-                    "source": "olvg.nl",
-                    "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
-                    "publishedDate": "26/11/2026 13:05"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1140,6 +1156,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
+            "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
+            "publishedDate": "26/11/2026 13:05",
+            "source": "olvg.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Bestuurder Warande vertrekt na verlies rechtszaak Kraaijbeek, organisatie ontkent verband",
             "link": "https://www.nieuwsbladdekaap.nl/lokaal/maatschappelijk/1330890/bestuurder-warande-vertrekt-na-verlies-rechtszaak-kraaijbeek-",
             "publishedDate": "26/11/2026 13:04",
@@ -1392,7 +1419,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
@@ -1596,28 +1623,16 @@
             "title": "Zeeuwse huisarts en apotheker bieden samen afslanktraject met medicatie aan - Drimble",
             "link": "https://drimble.nl/regio/zeeland/walcheren/108715757/zeeuwse-huisarts-en-apotheker-bieden-samen-afslanktraject-met-medicatie-aan.html",
             "publishedDate": "26/11/2026 05:28",
-            "source": "bd.nl, drimble.nl, huisartsvandaag.nl",
+            "source": "drimble.nl, huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Zeeuwse huisarts en apotheker bieden samen afslanktraject met medicatie aan",
                     "source": "huisartsvandaag.nl",
                     "link": "https://huisartsvandaag.nl/zeeuwse-huisarts-en-apotheker-bieden-samen-afslanktraject-met-medicatie-aan/",
                     "publishedDate": "26/11/2026 00:30"
-                },
-                {
-                    "title": "Gerard (66) is chauffeur voor de huisartsenpost: 'We zijn binnen de medische wereld amper bekend'",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-66-is-chauffeur-voor-de-huisartsenpost-we-zijn-binnen-de-medische-wereld-amper-bekend~ae37b385/",
-                    "publishedDate": "25/11/2026 22:25"
-                },
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
                 }
             ],
             "belangrijkheid": 0
@@ -1741,6 +1756,24 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gerard (66) is chauffeur voor de huisartsenpost: 'We zijn binnen de medische wereld amper bekend'",
+            "link": "https://www.bd.nl/waalwijk/gerard-66-is-chauffeur-voor-de-huisartsenpost-we-zijn-binnen-de-medische-wereld-amper-bekend~ae37b385/",
+            "publishedDate": "25/11/2026 22:25",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
