@@ -333,15 +333,8 @@
             "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Peuter (2) ontsnapte uit opvang via slecht afgesloten deur, Helan neemt maatregelen",
-                    "source": "nieuwsblad.be",
-                    "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/ekeren/peuter-2-ontsnapte-uit-opvang-via-slecht-afgesloten-deur-helan-neemt-maatregelen-vader-pleit-voor-meer-sociale-controle/165089917.html",
-                    "publishedDate": "25/11/2026 14:19"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -707,22 +700,17 @@
             "title": "Isra\u00ebl woest op Amnesty International: verspreidt 'valse verhalen van Hamas' over genocide in Gaza",
             "link": "https://www.telegraaf.nl/buitenland/israel-woest-op-amnesty-international-na-beschuldiging-belemmeren-zwangerschappen-in-gaza-valse-verhalen-van-hamas-verspreid/165065392.html",
             "publishedDate": "26/11/2026 00:01",
-            "source": "telegraaf.nl",
+            "source": "nieuws.marokko.nl, telegraaf.nl, volkskrant.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
-            "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
-            "publishedDate": "25/11/2026 23:33",
-            "source": "nieuws.marokko.nl, volkskrant.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
+                    "source": "volkskrant.nl",
+                    "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
+                    "publishedDate": "25/11/2026 23:33"
+                },
                 {
                     "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
                     "source": "nieuws.marokko.nl",
@@ -1326,11 +1314,18 @@
             "title": "Drie ziekenhuizen kondigden een pati\u00ebntenstop af door 'omzetplafonds' van Zilveren Kruis ... - NRC",
             "link": "https://www.nrc.nl/nieuws/2026/11/25/drie-ziekenhuizen-kondigden-een-patientenstop-af-door-omzetplafonds-van-zilveren-kruis-zo-stimuleren-wij-passende-zorg-verdedigt-de-topman-zich-a4942088",
             "publishedDate": "25/11/2026 15:35",
-            "source": "nrc.nl",
+            "source": "metronieuws.nl, nrc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Wel plek in de kliniek, maar het budget van Zilveren Kruis is op: Arjan uit Zwolle staat voor ...",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/in-het-nieuws/binnenland/2026/11/wel-plek-in-kliniek-budget-zilveren-kruis-is-op-arja-zwolle-dichte-deur/",
+                    "publishedDate": "25/11/2026 14:41"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -1411,23 +1406,23 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Wel plek in de kliniek, maar het budget van Zilveren Kruis is op: Arjan uit Zwolle staat voor ...",
-            "link": "https://www.metronieuws.nl/in-het-nieuws/binnenland/2026/11/wel-plek-in-kliniek-budget-zilveren-kruis-is-op-arja-zwolle-dichte-deur/",
-            "publishedDate": "25/11/2026 14:41",
-            "source": "metronieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Woensdrecht betaalt deel mee aan collectieve zorgverzekering voor inwoners met lager inkomen",
             "link": "https://www.ad.nl/woensdrecht/woensdrecht-betaalt-deel-mee-aan-collectieve-zorgverzekering-voor-inwoners-met-lager-inkomen~ae71c82d/",
             "publishedDate": "25/11/2026 14:27",
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Peuter (2) ontsnapte uit opvang via slecht afgesloten deur, Helan neemt maatregelen",
+            "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/ekeren/peuter-2-ontsnapte-uit-opvang-via-slecht-afgesloten-deur-helan-neemt-maatregelen-vader-pleit-voor-meer-sociale-controle/165089917.html",
+            "publishedDate": "25/11/2026 14:19",
+            "source": "nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1461,7 +1456,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 7,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
@@ -1470,36 +1465,56 @@
                     "publishedDate": "25/11/2026 14:08"
                 },
                 {
-                    "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
                     "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
                     "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "RegioKracht Bereikbare zorg en welzijn voor kwetsbare ouderen door regionale samenwerking - Nu en in de toekomst",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/24c0e811-18d3-4239-ab21-548d7355ba5f",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "Monitor Ouderenzorg 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/21724061-889d-457e-b499-7a8392530f82",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "Stand van zaken HLO-activiteiten november 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c74af2c7-d344-4b6e-aee3-e20e0e8fb31b",
-                    "publishedDate": "25/11/2026 14:08"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
+            "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "RegioKracht Bereikbare zorg en welzijn voor kwetsbare ouderen door regionale samenwerking - Nu en in de toekomst",
+            "link": "https://open.overheid.nl/details/24c0e811-18d3-4239-ab21-548d7355ba5f",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Monitor Ouderenzorg 2026",
+            "link": "https://open.overheid.nl/details/21724061-889d-457e-b499-7a8392530f82",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Stand van zaken HLO-activiteiten november 2026",
+            "link": "https://open.overheid.nl/details/c74af2c7-d344-4b6e-aee3-e20e0e8fb31b",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1762,7 +1777,7 @@
             "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Een nieuwe weg voor de plasbuis - UMC Utrecht",
