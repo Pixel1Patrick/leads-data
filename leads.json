@@ -185,7 +185,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
@@ -496,11 +496,18 @@
             "title": "Losser verkoopt grond voor nieuwbouw van huisartsenpraktijk De Sl\u00f6ttel | Regio | AD.nl",
             "link": "https://www.ad.nl/losser/losser-verkoopt-grond-voor-nieuwbouw-van-huisartsenpraktijk-de-slottel~a070da6e/",
             "publishedDate": "26/11/2026 09:35",
-            "source": "ad.nl",
+            "source": "ad.nl, oost.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Huisartsen in Enschede niet te spreken over nieuwe 'te dure' parkeervergunning - RTV Oost",
+                    "source": "oost.nl",
+                    "link": "https://www.oost.nl/nieuws/3721543/huisartsen-in-enschede-niet-te-spreken-over-nieuwe-te-dure-parkeervergunning",
+                    "publishedDate": "26/11/2026 05:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -521,15 +528,8 @@
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-                    "publishedDate": "24/11/2026 10:38"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -767,25 +767,18 @@
             "title": "Enschede huisartsen parkeerontheffing 403 euro | Economy - Head Topics",
             "link": "https://nl.headtopics.com/news/enschede-huisartsen-parkeerontheffing-403-euro-90194335",
             "publishedDate": "26/11/2026 05:37",
-            "source": "nl.headtopics.com, oost.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Huisartsen in Enschede niet te spreken over nieuwe 'te dure' parkeervergunning - RTV Oost",
-                    "source": "oost.nl",
-                    "link": "https://www.oost.nl/nieuws/3721543/huisartsen-in-enschede-niet-te-spreken-over-nieuwe-te-dure-parkeervergunning",
-                    "publishedDate": "26/11/2026 05:08"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Zeeuwse huisarts en apotheker bieden samen afslanktraject met medicatie aan - Drimble",
             "link": "https://drimble.nl/regio/zeeland/walcheren/108715757/zeeuwse-huisarts-en-apotheker-bieden-samen-afslanktraject-met-medicatie-aan.html",
             "publishedDate": "26/11/2026 05:28",
-            "source": "drimble.nl, huisartsvandaag.nl, nl.headtopics.com",
+            "source": "drimble.nl, huisartsvandaag.nl, plusmagazine.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
             "duplicate_count": 3,
@@ -797,10 +790,10 @@
                     "publishedDate": "26/11/2026 00:30"
                 },
                 {
-                    "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-90185377",
-                    "publishedDate": "25/11/2026 20:29"
+                    "title": "Scan je geneesmiddel met de nieuwe FarmaInfo-app - Plus Magazine",
+                    "source": "plusmagazine.be",
+                    "link": "https://www.plusmagazine.be/nl/multimedia/scan-je-geneesmiddel-met-de-nieuwe-farmainfo-app/",
+                    "publishedDate": "25/11/2026 21:40"
                 }
             ],
             "belangrijkheid": 0
@@ -856,6 +849,17 @@
             "source": "gva.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Tarieven: dezelfde inzet, toch een andere rekensom",
+            "link": "https://www.lhv.nl/nieuws/tarieven-dezelfde-inzet-toch-een-andere-rekensom/",
+            "publishedDate": "26/11/2026 02:39",
+            "source": "lhv.nl",
+            "category": "Overig",
+            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -919,16 +923,22 @@
             "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen",
             "link": "https://www.nhnieuws.nl/nieuws/365819/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
             "publishedDate": "26/11/2026 00:41",
-            "source": "at5.nl, nhnieuws.nl",
+            "source": "at5.nl, nhnieuws.nl, zorgkrant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert umc",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen - AT5",
                     "source": "at5.nl",
                     "link": "https://www.at5.nl/artikelen/241244/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
                     "publishedDate": "25/11/2026 16:15"
+                },
+                {
+                    "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
+                    "source": "zorgkrant.nl",
+                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
+                    "publishedDate": "25/11/2026 11:05"
                 }
             ],
             "belangrijkheid": 0
@@ -1017,24 +1027,6 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Scan je geneesmiddel met de nieuwe FarmaInfo-app - Plus Magazine",
-            "link": "https://www.plusmagazine.be/nl/multimedia/scan-je-geneesmiddel-met-de-nieuwe-farmainfo-app/",
-            "publishedDate": "25/11/2026 21:40",
-            "source": "plusmagazine.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1112,6 +1104,17 @@
             "source": "artsenkrant.pmg.be",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
+            "link": "https://nl.headtopics.com/news/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-90185377",
+            "publishedDate": "25/11/2026 20:29",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1224,7 +1227,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
@@ -1376,11 +1379,17 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
-            "source": "cnv.nl, fnv.nl, lad.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -1482,6 +1491,17 @@
             "source": "centraalplus.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+            "publishedDate": "25/11/2026 15:50",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1636,18 +1656,12 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
                     "publishedDate": "25/11/2026 14:08"
                 }
             ],
@@ -1656,6 +1670,17 @@
         {
             "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
             "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
+            "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
             "publishedDate": "25/11/2026 14:08",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1916,17 +1941,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
-            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
-            "publishedDate": "25/11/2026 11:05",
-            "source": "zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
             "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
             "publishedDate": "25/11/2026 10:43",
@@ -2011,17 +2025,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
             "link": "https://propertynl.com/amvest-koopt-22-woon-zorgcomplexen/",
             "publishedDate": "24/11/2026 13:54",
@@ -2050,6 +2053,17 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+            "publishedDate": "24/11/2026 10:38",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2270,17 +2284,6 @@
             "source": "igj.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Proactieve zorgbemiddeling: soms een nieuwe verwijzing nodig",
-            "link": "https://www.lhv.nl/nieuws/proactieve-zorgbemiddeling-soms-een-nieuwe-verwijzing-nodig/",
-            "publishedDate": "19/11/2026 11:55",
-            "source": "lhv.nl",
-            "category": "Overig",
-            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
