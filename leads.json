@@ -62,8 +62,15 @@
             "source": "nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Crack-epidemie in Nederlandse steden \u2022 Hebben we voldoende zicht op Zembla's neonazi's? - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/nieuwsuur/artikel/2640974-25-11-in-nieuwsuur-crack-epidemie-in-nederlandse-steden-hebben-we-voldoende-zicht-op-zembla-s-neonazi-s-eu-top-over-begroting-dreigt-flop-te-worden",
+                    "publishedDate": "25/11/2026 14:29"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -176,22 +183,24 @@
             "title": "Isra\u00ebl woest op Amnesty International: verspreidt 'valse verhalen van Hamas' over genocide in Gaza",
             "link": "https://www.telegraaf.nl/buitenland/israel-woest-op-amnesty-international-na-beschuldiging-belemmeren-zwangerschappen-in-gaza-valse-verhalen-van-hamas-verspreid/165065392.html",
             "publishedDate": "26/11/2026 00:01",
-            "source": "telegraaf.nl",
+            "source": "nieuws.marokko.nl, telegraaf.nl, volkskrant.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
-            "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
-            "publishedDate": "25/11/2026 23:33",
-            "source": "volkskrant.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
+                    "source": "volkskrant.nl",
+                    "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
+                    "publishedDate": "25/11/2026 23:33"
+                },
+                {
+                    "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
+                    "source": "nieuws.marokko.nl",
+                    "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
+                    "publishedDate": "25/11/2026 21:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -290,11 +299,30 @@
             "title": "ZAS: &quot;Bespaar op structuren, niet op zorg&quot; - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2648S29_00",
             "publishedDate": "25/11/2026 22:44",
-            "source": "artsenkrant.pmg.be",
+            "source": "artsenkrant.pmg.be, gva.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgnet-Icuro: ziekenhuizen hebben geen financi\u00eble ruimte meer - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2648S30_00",
+                    "publishedDate": "25/11/2026 21:01"
+                },
+                {
+                    "title": "Santhea waarschuwt voor beperkte financi\u00eble marges van Waalse ziekenhuizen",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2648E03/EAKbe2647S62_00",
+                    "publishedDate": "25/11/2026 21:01"
+                },
+                {
+                    "title": "ZAS wil verregaandere hervorming van het ziekenhuislandschap - GVA",
+                    "source": "gva.be",
+                    "link": "https://www.gva.be/atv/zas-wil-verregaandere-hervorming-van-het-ziekenhuislandschap/165102176.html",
+                    "publishedDate": "25/11/2026 19:39"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -315,19 +343,15 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
-            "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
-            "publishedDate": "25/11/2026 21:42",
-            "source": "nieuws.marokko.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -392,19 +416,15 @@
             "source": "artsenkrant.pmg.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgnet-Icuro: ziekenhuizen hebben geen financi\u00eble ruimte meer - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2648S30_00",
-            "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
+                    "publishedDate": "25/11/2026 21:01"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -419,36 +439,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Santhea waarschuwt voor beperkte financi\u00eble marges van Waalse ziekenhuizen",
-            "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2648E03/EAKbe2647S62_00",
-            "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
-            "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
             "link": "https://nl.headtopics.com/news/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-90185377",
             "publishedDate": "25/11/2026 20:29",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, omroepwest.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
+                    "source": "omroepwest.nl",
+                    "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
+                    "publishedDate": "25/11/2026 20:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -458,17 +463,6 @@
             "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
-            "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
-            "publishedDate": "25/11/2026 20:07",
-            "source": "omroepwest.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -510,17 +504,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "ZAS wil verregaandere hervorming van het ziekenhuislandschap - GVA",
-            "link": "https://www.gva.be/atv/zas-wil-verregaandere-hervorming-van-het-ziekenhuislandschap/165102176.html",
-            "publishedDate": "25/11/2026 19:39",
-            "source": "gva.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "WSO-ledenvergadering en webinar Visie openbaar apotheker 2035 - KNMP",
             "link": "https://www.knmp.nl/actueel/agenda/wso-ledenvergadering-en-webinar-visie-openbaar-apotheker-2035",
             "publishedDate": "25/11/2026 19:15",
@@ -546,11 +529,18 @@
             "title": "Ozempic- en Mounjaro-makers moeten in VS waarschuwen voor gezichtsverlies",
             "link": "https://www.nieuwsblad.be/buitenland/ozempic-en-mounjaro-makers-moeten-in-vs-waarschuwen-voor-gezichtsverlies/165114023.html",
             "publishedDate": "25/11/2026 19:07",
-            "source": "nieuwsblad.be",
+            "source": "nieuwsblad.be, tijd.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
+                    "source": "tijd.be",
+                    "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
+                    "publishedDate": "25/11/2026 13:02"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -639,7 +629,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Griep of verkouden: deze huisarts weet wat je w\u00e9l en juist niet moet doen - Omroep Brabant",
@@ -931,13 +921,43 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
                     "publishedDate": "25/11/2026 16:11"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
+                    "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
+                    "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
+                    "publishedDate": "24/11/2026 16:41"
+                },
+                {
+                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
+                    "publishedDate": "24/11/2026 16:41"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
+                    "publishedDate": "24/11/2026 15:15"
                 }
             ],
             "belangrijkheid": 0
@@ -1004,17 +1024,6 @@
             "source": "centraalplus.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-            "publishedDate": "25/11/2026 15:50",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1141,17 +1150,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Crack-epidemie in Nederlandse steden \u2022 Hebben we voldoende zicht op Zembla's neonazi's? - NOS",
-            "link": "https://nos.nl/nieuwsuur/artikel/2640974-25-11-in-nieuwsuur-crack-epidemie-in-nederlandse-steden-hebben-we-voldoende-zicht-op-zembla-s-neonazi-s-eu-top-over-begroting-dreigt-flop-te-worden",
-            "publishedDate": "25/11/2026 14:29",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Woensdrecht betaalt deel mee aan collectieve zorgverzekering voor inwoners met lager inkomen",
             "link": "https://www.ad.nl/woensdrecht/woensdrecht-betaalt-deel-mee-aan-collectieve-zorgverzekering-voor-inwoners-met-lager-inkomen~ae71c82d/",
             "publishedDate": "25/11/2026 14:27",
@@ -1213,70 +1211,45 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 7,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
                     "publishedDate": "25/11/2026 14:08"
+                },
+                {
+                    "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
+                    "publishedDate": "25/11/2026 14:08"
+                },
+                {
+                    "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
+                    "publishedDate": "25/11/2026 14:08"
+                },
+                {
+                    "title": "RegioKracht Bereikbare zorg en welzijn voor kwetsbare ouderen door regionale samenwerking - Nu en in de toekomst",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/24c0e811-18d3-4239-ab21-548d7355ba5f",
+                    "publishedDate": "25/11/2026 14:08"
+                },
+                {
+                    "title": "Monitor Ouderenzorg 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/21724061-889d-457e-b499-7a8392530f82",
+                    "publishedDate": "25/11/2026 14:08"
+                },
+                {
+                    "title": "Stand van zaken HLO-activiteiten november 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c74af2c7-d344-4b6e-aee3-e20e0e8fb31b",
+                    "publishedDate": "25/11/2026 14:08"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
-            "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
-            "publishedDate": "25/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
-            "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
-            "publishedDate": "25/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "RegioKracht Bereikbare zorg en welzijn voor kwetsbare ouderen door regionale samenwerking - Nu en in de toekomst",
-            "link": "https://open.overheid.nl/details/24c0e811-18d3-4239-ab21-548d7355ba5f",
-            "publishedDate": "25/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Monitor Ouderenzorg 2026",
-            "link": "https://open.overheid.nl/details/21724061-889d-457e-b499-7a8392530f82",
-            "publishedDate": "25/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Stand van zaken HLO-activiteiten november 2026",
-            "link": "https://open.overheid.nl/details/c74af2c7-d344-4b6e-aee3-e20e0e8fb31b",
-            "publishedDate": "25/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1412,24 +1385,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
-            "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
-            "publishedDate": "25/11/2026 13:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
-                    "publishedDate": "25/11/2026 13:10"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027 - 2029",
             "link": "https://open.overheid.nl/details/2da7f0aa-a431-4089-afd6-26dcd5e56714",
             "publishedDate": "25/11/2026 13:10",
@@ -1451,17 +1406,6 @@
                     "publishedDate": "25/11/2026 13:10"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
-            "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
-            "publishedDate": "25/11/2026 13:02",
-            "source": "tijd.be",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1512,11 +1456,18 @@
             "title": "Pharming zet productie medicijn stop na niet-geslaagde test - Nieuws.nl",
             "link": "https://nieuws.nl/economie/pharming-zet-productie-medicijn-stop-na-niet-geslaagde-test",
             "publishedDate": "25/11/2026 11:34",
-            "source": "nieuws.nl",
+            "source": "nieuws.nl, nu.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
+                    "source": "nu.nl",
+                    "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
+                    "publishedDate": "25/11/2026 11:21"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1542,30 +1493,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
-            "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
-            "publishedDate": "25/11/2026 11:21",
-            "source": "kobr.nl, nu.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
-                    "source": "kobr.nl",
-                    "link": "https://www.kobr.nl/nieuws/politiek/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
-                    "publishedDate": "25/11/2026 11:19"
-                },
-                {
-                    "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
-                    "source": "kobr.nl",
-                    "link": "https://www.kobr.nl/nieuws/algemeen/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
-                    "publishedDate": "25/11/2026 05:19"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Geertruidenberg biedt zorgverzekering voor inwoners met laag inkomen - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036074/geertruidenberg-biedt-zorgverzekering-voor-inwoners-met-laag-inkomen",
             "publishedDate": "25/11/2026 11:20",
@@ -1574,6 +1501,24 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
+            "link": "https://www.kobr.nl/nieuws/politiek/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
+            "publishedDate": "25/11/2026 11:19",
+            "source": "kobr.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
+                    "source": "kobr.nl",
+                    "link": "https://www.kobr.nl/nieuws/algemeen/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
+                    "publishedDate": "25/11/2026 05:19"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1837,41 +1782,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-            "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
-            "publishedDate": "24/11/2026 16:41",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
-                    "publishedDate": "24/11/2026 16:41"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Dit Haarlemse feestbeest doet mee aan Dutchie Shore | Regio | AD.nl",
             "link": "https://www.ad.nl/haarlem/dutchie-shore-haarlem-deelnemer~a85a9bd2/",
             "publishedDate": "24/11/2026 16:18",
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
-            "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
-            "publishedDate": "24/11/2026 15:15",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
