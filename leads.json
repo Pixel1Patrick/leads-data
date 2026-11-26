@@ -58,21 +58,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Verzamelbrief gehandicaptenzorg Wlz",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/f12c6e5d-5467-4304-bf83-98aa80f2a1d9",
                     "publishedDate": "26/11/2026 15:39"
-                },
-                {
-                    "title": "Zorgplicht voor jongeren met een tijdelijke Wlz-indicatie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/8d217693-4cc2-4b2a-9199-bfb1df55001f",
-                    "publishedDate": "26/11/2026 15:39"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgplicht voor jongeren met een tijdelijke Wlz-indicatie",
+            "link": "https://open.overheid.nl/details/8d217693-4cc2-4b2a-9199-bfb1df55001f",
+            "publishedDate": "26/11/2026 15:39",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -150,7 +155,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Na roerige periode neemt laboratorium PAMM afscheid van medische microbiologie | Regio",
