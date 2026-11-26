@@ -18,8 +18,15 @@
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -245,15 +252,8 @@
             "source": "nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Crack-epidemie in Nederlandse steden \u2022 Hebben we voldoende zicht op Zembla's neonazi's? - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/nieuwsuur/artikel/2640974-25-11-in-nieuwsuur-crack-epidemie-in-nederlandse-steden-hebben-we-voldoende-zicht-op-zembla-s-neonazi-s-eu-top-over-begroting-dreigt-flop-te-worden",
-                    "publishedDate": "25/11/2026 14:29"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -670,24 +670,11 @@
             "title": "Aantal coronagevallen neemt snel toe - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/samenleving/aantal-coronagevallen-neemt-snel-toe",
             "publishedDate": "25/11/2026 19:48",
-            "source": "nl.headtopics.com, omroepbrabant.nl, welingelichtekringen.nl",
+            "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Aantal coronagevallen neemt toe, ook piek in Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6036184/aantal-coronagevallen-neemt-toe-ook-piek-in-brabant",
-                    "publishedDate": "25/11/2026 19:14"
-                },
-                {
-                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-90182617",
-                    "publishedDate": "25/11/2026 18:29"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -708,6 +695,17 @@
             "source": "knmp.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Aantal coronagevallen neemt toe, ook piek in Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6036184/aantal-coronagevallen-neemt-toe-ook-piek-in-brabant",
+            "publishedDate": "25/11/2026 19:14",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -786,6 +784,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Head Topics",
+            "link": "https://nl.headtopics.com/news/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-90182617",
+            "publishedDate": "25/11/2026 18:29",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Suid-Afrika ontplooi ekonomiese gesante om beleggings te lok - YouTube",
             "link": "https://www.youtube.com/watch?v=MX-tNpH6xzY",
             "publishedDate": "25/11/2026 18:26",
@@ -827,7 +836,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
@@ -845,7 +854,7 @@
                     "publishedDate": "16/11/2026 13:54"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "De toekomst van kwalitatieve, betaalbare en toegankelijke ggz | Z - ZonMw",
@@ -1237,6 +1246,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Crack-epidemie in Nederlandse steden \u2022 Hebben we voldoende zicht op Zembla's neonazi's? - NOS",
+            "link": "https://nos.nl/nieuwsuur/artikel/2640974-25-11-in-nieuwsuur-crack-epidemie-in-nederlandse-steden-hebben-we-voldoende-zicht-op-zembla-s-neonazi-s-eu-top-over-begroting-dreigt-flop-te-worden",
+            "publishedDate": "25/11/2026 14:29",
+            "source": "nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Woensdrecht betaalt deel mee aan collectieve zorgverzekering voor inwoners met lager inkomen",
             "link": "https://www.ad.nl/woensdrecht/woensdrecht-betaalt-deel-mee-aan-collectieve-zorgverzekering-voor-inwoners-met-lager-inkomen~ae71c82d/",
             "publishedDate": "25/11/2026 14:27",
@@ -1456,18 +1476,11 @@
             "title": "SEH wil erkende bijscholing als alternatief voor Wft-PE-examen - InFinance",
             "link": "https://infinance.nl/artikel/seh-wil-erkende-bijscholing-als-alternatief-voor-wft-pe-examen/",
             "publishedDate": "25/11/2026 13:27",
-            "source": "amweb.nl, infinance.nl",
+            "source": "infinance.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Open brief aan Financi\u00ebn: SEH vreest minder adviseurs \u00e9n minder examens - AMweb",
-                    "source": "amweb.nl",
-                    "link": "https://www.amweb.nl/161049/open-brief-aan-financien-seh-vreest-minder-adviseurs-en-minder-examens",
-                    "publishedDate": "25/11/2026 11:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1563,6 +1576,17 @@
             "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Open brief aan Financi\u00ebn: SEH vreest minder adviseurs \u00e9n minder examens - AMweb",
+            "link": "https://www.amweb.nl/161049/open-brief-aan-financien-seh-vreest-minder-adviseurs-en-minder-examens",
+            "publishedDate": "25/11/2026 11:36",
+            "source": "amweb.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1819,17 +1843,6 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-            "publishedDate": "24/11/2026 10:38",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
