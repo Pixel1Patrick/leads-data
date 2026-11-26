@@ -277,36 +277,11 @@
             "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
             "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
             "publishedDate": "26/11/2026 11:13",
-            "source": "ad.nl, drimble.nl, rtvdrenthe.nl, rtvfocuszwolle.nl, tubantia.nl",
+            "source": "drimble.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
-                    "source": "rtvfocuszwolle.nl",
-                    "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
-                    "publishedDate": "26/11/2026 06:56"
-                },
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - Tubantia",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
-                    "publishedDate": "25/11/2026 21:21"
-                },
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Regio | AD.nl",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
-                    "publishedDate": "25/11/2026 21:16"
-                },
-                {
-                    "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
-                    "publishedDate": "25/11/2026 18:04"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -349,8 +324,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
+                    "publishedDate": "25/11/2026 14:08"
+                },
+                {
+                    "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
+                    "publishedDate": "25/11/2026 14:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -521,8 +509,15 @@
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -706,7 +701,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Woudenberg trekt extra geld uit voor jeugdzorg, ondanks juridische bezwaren",
@@ -728,6 +723,36 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
+            "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
+            "publishedDate": "26/11/2026 06:56",
+            "source": "ad.nl, rtvdrenthe.nl, rtvfocuszwolle.nl, tubantia.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - Tubantia",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
+                    "publishedDate": "25/11/2026 21:21"
+                },
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Regio | AD.nl",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
+                    "publishedDate": "25/11/2026 21:16"
+                },
+                {
+                    "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
+                    "publishedDate": "25/11/2026 18:04"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -930,16 +955,22 @@
             "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen",
             "link": "https://www.nhnieuws.nl/nieuws/365819/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
             "publishedDate": "26/11/2026 00:41",
-            "source": "at5.nl, nhnieuws.nl",
+            "source": "at5.nl, nhnieuws.nl, zorgkrant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert umc",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Amsterdamse onderzoekers willen longkanker in \u00e9\u00e9n dag opsporen \u00e9n behandelen - AT5",
                     "source": "at5.nl",
                     "link": "https://www.at5.nl/artikelen/241244/amsterdam-onderzoekers-longkanker-opsporen-behandelen",
                     "publishedDate": "25/11/2026 16:15"
+                },
+                {
+                    "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
+                    "source": "zorgkrant.nl",
+                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
+                    "publishedDate": "25/11/2026 11:05"
                 }
             ],
             "belangrijkheid": 0
@@ -1380,12 +1411,37 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
-            "source": "lad.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
+                {
+                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+                    "publishedDate": "24/11/2026 11:08"
+                },
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
@@ -1535,7 +1591,7 @@
             "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Helse zoektocht naar openbaar toilet voor duizenden mensen: WC-Wijzer moet steuntje in de rug zijn",
@@ -1612,24 +1668,6 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
-            "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
-            "publishedDate": "25/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
-                    "publishedDate": "25/11/2026 14:08"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1906,17 +1944,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
-            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
-            "publishedDate": "25/11/2026 11:05",
-            "source": "zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
             "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
             "publishedDate": "25/11/2026 10:43",
@@ -2001,36 +2028,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
-                },
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
             "link": "https://propertynl.com/amvest-koopt-22-woon-zorgcomplexen/",
             "publishedDate": "24/11/2026 13:54",
@@ -2059,17 +2056,6 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-            "publishedDate": "24/11/2026 10:38",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
