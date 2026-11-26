@@ -1,12 +1,34 @@
 {
     "artikelen": [
         {
+            "title": "Vrijwillige ouderenbezoekers en hun schat aan informatie - Vilans",
+            "link": "https://www.vilans.nl/actueel/verhalen/vrijwillige-ouderenbezoekers-schat-informatie",
+            "publishedDate": "26/11/2026 18:48",
+            "source": "vilans.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "TLN en VVT doen loonbod in derde cao-overleg",
             "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
             "publishedDate": "26/11/2026 18:37",
             "source": "tln.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gentse huisarts veroordeeld voor het voorschrijven van Diane 35 - AVS",
+            "link": "https://avs.be/nieuws/gentse-huisarts-veroordeeld-voor-het-voorschrijven-van-diane-35",
+            "publishedDate": "26/11/2026 17:59",
+            "source": "avs.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -77,24 +99,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -208,6 +226,17 @@
             "belangrijkheid": 1
         },
         {
+            "title": "Terug Naar Werk II goedgekeurd: welke maatregelen gaan wanneer van start?",
+            "link": "https://www.domusmedica.be/actueel/terug-naar-werk-ii-goedgekeurd-welke-maatregelen-gaan-wanneer-van-start",
+            "publishedDate": "26/11/2026 16:39",
+            "source": "domusmedica.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Grote medische bestanden veilig versturen met Transferbox - Domus Medica",
             "link": "https://www.domusmedica.be/actueel/grote-medische-bestanden-veilig-versturen-met-transferbox",
             "publishedDate": "26/11/2026 16:39",
@@ -236,6 +265,17 @@
             "source": "telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zeven consultaties bij de huisarts, maar 'Marc' blijft alleen - Artsenkrant",
+            "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2648S35_00",
+            "publishedDate": "26/11/2026 16:36",
+            "source": "artsenkrant.pmg.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -344,7 +384,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
@@ -385,7 +425,7 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ziekenhuizen Nij Smellinghe en Antonius onderzoeken bestuurlijke fusie - Omrop Frysl\u00e2n",
@@ -418,7 +458,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Tekort aan RS-vaccins voor volwassenen in meerdere regio's: 'Konden het vorige week niet ...",
@@ -570,41 +610,29 @@
             "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
             "link": "https://locomediagroep.nl/nieuws/693-isala-als-eerste-ziekenhuis-met-eigen-geregistreerd-geneesmiddel/",
             "publishedDate": "26/11/2026 14:43",
-            "source": "drimble.nl, locomediagroep.nl, oost.nl, rtvfocuszwolle.nl",
+            "source": "locomediagroep.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Isala brengt eigen geneesmiddel op de markt: 'Naam blijft geheim' - RTV Oost",
-                    "source": "oost.nl",
-                    "link": "https://www.oost.nl/amp/nieuws/3723691/isala-brengt-eigen-geneesmiddel-op-de-markt-naam-blijft-geheim",
-                    "publishedDate": "26/11/2026 13:06"
-                },
-                {
-                    "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
-                    "source": "rtvfocuszwolle.nl",
-                    "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
-                    "publishedDate": "26/11/2026 12:56"
-                },
-                {
-                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
-                    "publishedDate": "26/11/2026 11:13"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
             "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
             "publishedDate": "26/11/2026 14:41",
-            "source": "omroeppenm.nl",
+            "source": "l1nieuws.nl, omroeppenm.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
+                    "publishedDate": "26/11/2026 13:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -622,11 +650,18 @@
             "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
             "publishedDate": "26/11/2026 14:41",
-            "source": "pw.nl",
+            "source": "pw.nl, rivm.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
+                    "publishedDate": "24/11/2026 13:53"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -791,17 +826,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
-            "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
-            "publishedDate": "26/11/2026 13:38",
-            "source": "l1nieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gemeenten Kop van Noord-Holland zetten volgende stap in regionale samenwerking",
             "link": "https://www.schagen.nl/gemeenten-kop-van-noord-holland-zetten-volgende-stap-regionale-samenwerking",
             "publishedDate": "26/11/2026 13:30",
@@ -843,6 +867,30 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Isala brengt eigen geneesmiddel op de markt: 'Naam blijft geheim' - RTV Oost",
+            "link": "https://www.oost.nl/amp/nieuws/3723691/isala-brengt-eigen-geneesmiddel-op-de-markt-naam-blijft-geheim",
+            "publishedDate": "26/11/2026 13:06",
+            "source": "drimble.nl, oost.nl, rtvfocuszwolle.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
+                    "source": "rtvfocuszwolle.nl",
+                    "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
+                    "publishedDate": "26/11/2026 12:56"
+                },
+                {
+                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
+                    "publishedDate": "26/11/2026 11:13"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -923,17 +971,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Huisarts veroordeeld: &quot;belangrijk dat we niet alle artsen culpabiliseren&quot; (Domus Medica)",
-            "link": "https://www.medi-sfeer.be/nl/nieuws/generaliste-condamnee-laquo-il-est-important-de-ne-pas-culpabiliser-tous-les-medecins-raquo-domus-medica.html",
-            "publishedDate": "26/11/2026 12:24",
-            "source": "medi-sfeer.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Tienduizenden pati\u00ebnten zonder medicinale wiet nadat ministerie contract met kweker stopzette",
             "link": "https://www.ftm.nl/artikelen/tienduizenden-patienten-zonder-medicinale-wiet-nadat-ministerie-contract-met-kweker-stopzette",
             "publishedDate": "26/11/2026 12:21",
@@ -981,12 +1018,19 @@
             "title": "Tweede Kamer debatteert over ADHD-medicijnen voor crackverslaafden - Head Topics",
             "link": "https://nl.headtopics.com/news/tweede-kamer-debatteert-over-adhd-medicijnen-voor-90204306",
             "publishedDate": "26/11/2026 12:08",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, nos.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
+                    "publishedDate": "26/11/2026 10:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Ozempic kan mogelijk de kwaliteit van sperma verbeteren | TAGMAG",
@@ -1156,34 +1200,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
-            "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
-            "publishedDate": "26/11/2026 10:38",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036047/hoogbegaafde-kinderen-in-breda-aan-lot-overgelaten-politiek-slaat-alarm",
             "publishedDate": "26/11/2026 10:38",
             "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Huisarts straks in rijdende bus? Woningstichting heroverweegt sloop ... - Noordhollands Dagblad",
-            "link": "https://www.noordhollandsdagblad.nl/regio/west-friesland/huisarts-straks-in-rijdende-bus-woningstichting-heroverweegt-sloop-verzorgingstehuis-in-andijk-en-huurwoningen-in-wervershoof/165022782.html",
-            "publishedDate": "26/11/2026 10:37",
-            "source": "noordhollandsdagblad.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1255,34 +1277,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Corona neemt flink toe, ook griep in opkomst: juist nu stopt de vaccinatiecampagne - RTV Focus",
-            "link": "https://www.rtvfocuszwolle.nl/corona-griep-toename-laatste-dag-coronaprik-2026/",
-            "publishedDate": "26/11/2026 09:55",
-            "source": "rtvfocuszwolle.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zware griepepidemie in Frankrijk: stijgende aantallen griep, COVID en bronchiolitis",
             "link": "https://nl.headtopics.com/news/zware-griepepidemie-in-frankrijk-stijgende-aantallen-griep-covid-en-bronchiolitis-90200555",
             "publishedDate": "26/11/2026 09:53",
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "pati\u00ebnten krijgen overbodige onderzoeken en niet meest geschikte pacemaker - De Gelderlander",
-            "link": "https://www.gelderlander.nl/gezond/meldpunt-voor-misstanden-in-cardiologie-patienten-krijgen-overbodige-onderzoeken-en-niet-meest-geschikte-pacemaker~a0acb946/",
-            "publishedDate": "26/11/2026 09:50",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1631,8 +1631,15 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1724,17 +1731,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Hamber Jeugdhulp reageert op zorgfraudeberichtgeving: medebestuurder geschorst ...",
-            "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5353987/hamber-jeugdhulp-reageert-op-zorgfraudeberichtgeving-medebestuurder-geschor/",
-            "publishedDate": "25/11/2026 19:04",
-            "source": "nieuwsinalphen.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zuyderland en Open Universiteit starten Expertisecentrum voor Zorgtransformatie",
             "link": "https://zuyderland.nl/nieuws/zuyderland-en-open-universiteit-starten-expertisecentrum-voor-zorgtransformatie/",
             "publishedDate": "25/11/2026 18:36",
@@ -1761,17 +1757,6 @@
                     "publishedDate": "25/11/2026 18:20"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Verlenging van de PLOS-overeenkomst voor 2027: 50% korting op de APCs | Nieuws",
-            "link": "https://www.rug.nl/medicallibrary/support/publishing/oa-news/2026-11-plos",
-            "publishedDate": "25/11/2026 17:34",
-            "source": "rug.nl",
-            "category": "Overig",
-            "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1812,17 +1797,6 @@
                     "publishedDate": "25/11/2026 16:11"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-            "publishedDate": "25/11/2026 15:50",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1980,17 +1954,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
-            "link": "https://www.kobr.nl/nieuws/algemeen/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
-            "publishedDate": "25/11/2026 05:19",
-            "source": "kobr.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zorg zonder contract: ook 100% vergoeding dekt niet altijd de hele rekening",
             "link": "https://www.overstappen.nl/nieuws/zorg-zonder-contract-ook-100-procent-vergoeding-dekt-niet-altijd-de-hele-rekening/",
             "publishedDate": "24/11/2026 19:51",
@@ -2032,7 +1995,7 @@
             "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
@@ -2041,17 +2004,6 @@
             "source": "propertynl.com",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
-            "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
-            "publishedDate": "24/11/2026 13:53",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
