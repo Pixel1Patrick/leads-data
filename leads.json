@@ -26,11 +26,18 @@
             "title": "Rectificatie van Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte (RVG 30759)",
             "link": "https://open.overheid.nl/details/oep-ob-62a223f6b66ce873e21df55dd57b420e05fab45c_155",
             "publishedDate": "26/11/2026 13:10",
-            "source": "open.overheid.nl",
+            "source": "noordhollandsdagblad.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Michael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn",
+                    "source": "noordhollandsdagblad.nl",
+                    "link": "https://www.noordhollandsdagblad.nl/uitgelicht/michael-59-is-doodsbang-nu-zijn-medicijnen-in-nederland-niet-meer-beschikbaar-zijn-nu-ik-steeds-minder-pillen-heb-ga-ik-steeds-meer-malen/165078862.html",
+                    "publishedDate": "26/11/2026 12:31"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -40,17 +47,6 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Michael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn",
-            "link": "https://www.noordhollandsdagblad.nl/uitgelicht/michael-59-is-doodsbang-nu-zijn-medicijnen-in-nederland-niet-meer-beschikbaar-zijn-nu-ik-steeds-minder-pillen-heb-ga-ik-steeds-meer-malen/165078862.html",
-            "publishedDate": "26/11/2026 12:31",
-            "source": "noordhollandsdagblad.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -143,22 +139,18 @@
             "title": "Faillissementen KBN Montage en Dalfse zorginstelling | Nieuws - Head Topics",
             "link": "https://nl.headtopics.com/news/faillissementen-kbn-montage-en-dalfse-zorginstelling-90204171",
             "publishedDate": "26/11/2026 11:50",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, oost.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kozijnenhandelaar, zorgbureau en vuurhaarden: deze bedrijven gingen failliet - RTV Oost",
-            "link": "https://www.oost.nl/nieuws/3723277/kozijnenhandelaar-zorgbureau-en-vuurhaarden-deze-bedrijven-gingen-failliet",
-            "publishedDate": "26/11/2026 11:39",
-            "source": "oost.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kozijnenhandelaar, zorgbureau en vuurhaarden: deze bedrijven gingen failliet - RTV Oost",
+                    "source": "oost.nl",
+                    "link": "https://www.oost.nl/nieuws/3723277/kozijnenhandelaar-zorgbureau-en-vuurhaarden-deze-bedrijven-gingen-failliet",
+                    "publishedDate": "26/11/2026 11:39"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -273,10 +265,10 @@
             "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
             "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
             "publishedDate": "26/11/2026 11:13",
-            "source": "ad.nl, drimble.nl, rtvfocuszwolle.nl, tubantia.nl",
+            "source": "ad.nl, drimble.nl, rtvdrenthe.nl, rtvfocuszwolle.nl, tubantia.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
@@ -295,6 +287,12 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
                     "publishedDate": "25/11/2026 21:16"
+                },
+                {
+                    "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
+                    "publishedDate": "25/11/2026 18:04"
                 }
             ],
             "belangrijkheid": 0
@@ -478,8 +476,15 @@
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -954,15 +959,8 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1068,11 +1066,18 @@
             "title": "Zwangeren hoeven straks niet meer voor alle klachten naar het ziekenhuis - De Limburger",
             "link": "https://www.limburger.nl/regio/sittard-geleen/zwangeren-hoeven-straks-niet-meer-voor-alle-klachten-naar-het-ziekenhuis-zuyderland-onderzoekt-mogelijke-verloskundigenpost-in-parkstad/165104731.html",
             "publishedDate": "25/11/2026 20:12",
-            "source": "limburger.nl",
+            "source": "limburger.nl, rtvparkstad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Plannen voor verloskundige post in Parkstad; zwangere vrouwen minder snel naar ziekenhuis",
+                    "source": "rtvparkstad.nl",
+                    "link": "https://rtvparkstad.nl/nieuws/plannen-voor-verloskundige-post-in-de-parkstad-zwangere-vrouwen-minder-snel-naar-ziekenhuis/",
+                    "publishedDate": "25/11/2026 17:01"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1175,17 +1180,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
-            "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
-            "publishedDate": "25/11/2026 18:04",
-            "source": "rtvdrenthe.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
             "link": "https://ggz.nl/actualiteiten/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
             "publishedDate": "25/11/2026 17:54",
@@ -1258,11 +1252,18 @@
             "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
             "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
             "publishedDate": "25/11/2026 17:17",
-            "source": "vgn.nl",
+            "source": "jeugdzorgnederland.nl, vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
+                    "source": "jeugdzorgnederland.nl",
+                    "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
+                    "publishedDate": "25/11/2026 16:54"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1288,28 +1289,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Plannen voor verloskundige post in Parkstad; zwangere vrouwen minder snel naar ziekenhuis",
-            "link": "https://rtvparkstad.nl/nieuws/plannen-voor-verloskundige-post-in-de-parkstad-zwangere-vrouwen-minder-snel-naar-ziekenhuis/",
-            "publishedDate": "25/11/2026 17:01",
-            "source": "rtvparkstad.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
-            "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
-            "publishedDate": "25/11/2026 16:54",
-            "source": "jeugdzorgnederland.nl",
-            "category": "Overig",
-            "feed_label": "Jeugdzorg Nederland",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Failliete ggz-instellingen Maastricht mikken op doorstart - L1 Nieuws",
             "link": "https://www.l1nieuws.nl/nieuws/3278078/failliete-ggz-instellingen-maastricht-mikken-op-doorstart",
             "publishedDate": "25/11/2026 16:38",
@@ -1324,11 +1303,18 @@
             "title": "Amsterdamse universiteiten en UMC bundelen krachten in medtech - IO+",
             "link": "https://ioplus.nl/nl/posts/amsterdamse-universiteiten-en-umc-bundelen-krachten-in-medtech",
             "publishedDate": "25/11/2026 16:33",
-            "source": "ioplus.nl",
+            "source": "ioplus.nl, zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
+                    "source": "zorgkrant.nl",
+                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
+                    "publishedDate": "25/11/2026 11:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1422,6 +1408,17 @@
             "source": "centraalplus.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+            "publishedDate": "25/11/2026 15:50",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1576,7 +1573,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 7,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
@@ -1585,36 +1582,56 @@
                     "publishedDate": "25/11/2026 14:08"
                 },
                 {
-                    "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
                     "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
                     "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "RegioKracht Bereikbare zorg en welzijn voor kwetsbare ouderen door regionale samenwerking - Nu en in de toekomst",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/24c0e811-18d3-4239-ab21-548d7355ba5f",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "Monitor Ouderenzorg 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/21724061-889d-457e-b499-7a8392530f82",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "Stand van zaken HLO-activiteiten november 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c74af2c7-d344-4b6e-aee3-e20e0e8fb31b",
-                    "publishedDate": "25/11/2026 14:08"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
+            "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "RegioKracht Bereikbare zorg en welzijn voor kwetsbare ouderen door regionale samenwerking - Nu en in de toekomst",
+            "link": "https://open.overheid.nl/details/24c0e811-18d3-4239-ab21-548d7355ba5f",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Monitor Ouderenzorg 2026",
+            "link": "https://open.overheid.nl/details/21724061-889d-457e-b499-7a8392530f82",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Stand van zaken HLO-activiteiten november 2026",
+            "link": "https://open.overheid.nl/details/c74af2c7-d344-4b6e-aee3-e20e0e8fb31b",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1836,17 +1853,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
-            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
-            "publishedDate": "25/11/2026 11:05",
-            "source": "zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
             "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
             "publishedDate": "25/11/2026 10:43",
@@ -1989,17 +1995,6 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-            "publishedDate": "24/11/2026 10:38",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
