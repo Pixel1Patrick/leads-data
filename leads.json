@@ -194,25 +194,12 @@
             "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
             "publishedDate": "26/11/2026 14:32",
-            "source": "cnv.nl, fnv.nl",
+            "source": "fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
-                    "publishedDate": "26/11/2026 09:29"
-                },
-                {
-                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-                    "publishedDate": "24/11/2026 10:38"
-                }
-            ],
-            "belangrijkheid": 0
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Na roerige periode neemt laboratorium PAMM afscheid van medische microbiologie | Regio",
@@ -388,11 +375,30 @@
             "title": "Isala brengt eigen geneesmiddel op de markt: 'Naam blijft geheim' - RTV Oost",
             "link": "https://www.oost.nl/amp/nieuws/3723691/isala-brengt-eigen-geneesmiddel-op-de-markt-naam-blijft-geheim",
             "publishedDate": "26/11/2026 13:06",
-            "source": "oost.nl",
+            "source": "drimble.nl, oost.nl, rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
+                    "source": "rtvfocuszwolle.nl",
+                    "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
+                    "publishedDate": "26/11/2026 12:56"
+                },
+                {
+                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
+                    "publishedDate": "26/11/2026 11:13"
+                },
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Zwolle",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/overijssel/zwolle/108711970/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen.html",
+                    "publishedDate": "26/11/2026 09:18"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -426,30 +432,6 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
-            "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
-            "publishedDate": "26/11/2026 12:56",
-            "source": "drimble.nl, rtvfocuszwolle.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
-                    "publishedDate": "26/11/2026 11:13"
-                },
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Zwolle",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/overijssel/zwolle/108711970/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen.html",
-                    "publishedDate": "26/11/2026 09:18"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -932,6 +914,24 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
+            "publishedDate": "26/11/2026 09:29",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1990,30 +1990,11 @@
             "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
             "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
             "publishedDate": "24/11/2026 14:04",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
+            "source": "nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
-                },
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -2037,6 +2018,30 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+            "publishedDate": "24/11/2026 13:47",
+            "source": "cnv.nl, fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+                    "publishedDate": "24/11/2026 11:08"
+                },
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
