@@ -44,11 +44,18 @@
             "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
             "publishedDate": "26/11/2026 09:31",
-            "source": "fnv.nl",
+            "source": "fnv.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+                    "publishedDate": "25/11/2026 10:43"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -618,15 +625,8 @@
             "source": "artsenkrant.pmg.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
-                    "source": "artsenkrant.pmg.be",
-                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
-                    "publishedDate": "25/11/2026 21:01"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -647,6 +647,17 @@
             "source": "artsenkrant.pmg.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
+            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
+            "publishedDate": "25/11/2026 21:01",
+            "source": "artsenkrant.pmg.be",
+            "category": "Overig",
+            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1013,13 +1024,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
                     "publishedDate": "25/11/2026 16:11"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
+                    "publishedDate": "25/11/2026 14:08"
+                },
+                {
+                    "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
+                    "publishedDate": "25/11/2026 14:08"
                 },
                 {
                     "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
@@ -1032,6 +1055,18 @@
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
                     "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
+                    "publishedDate": "24/11/2026 16:41"
+                },
+                {
+                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
+                    "publishedDate": "24/11/2026 16:41"
                 }
             ],
             "belangrijkheid": 0
@@ -1298,24 +1333,6 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
-            "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
-            "publishedDate": "25/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
-                    "publishedDate": "25/11/2026 14:08"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1658,17 +1675,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-            "publishedDate": "25/11/2026 10:43",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Een nieuwe weg voor de plasbuis - UMC Utrecht",
             "link": "https://www.umcutrecht.nl/nieuws/een-nieuwe-weg-voor-de-plasbuis",
             "publishedDate": "25/11/2026 09:45",
@@ -1743,24 +1749,6 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-            "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
-            "publishedDate": "24/11/2026 16:41",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
-                    "publishedDate": "24/11/2026 16:41"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
