@@ -48,18 +48,12 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/431eeb7b-2095-4dd9-ba04-5cd9b34d85c8",
-                    "publishedDate": "26/11/2026 17:33"
-                },
-                {
-                    "title": "Stand van zaken moties en toezeggingen",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
                     "publishedDate": "26/11/2026 17:33"
                 }
             ],
@@ -95,6 +89,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Stand van zaken moties en toezeggingen",
+            "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Ingezonden: \u00b4Werken in de zorg in de regio Dongen: wat voor werk is er en hoe kies je?\u00b4 | Tilburg",
             "link": "https://drimble.nl/regio/noord-brabant/tilburg/108720449/ingezonden-werken-in-de-zorg-in-de-regio-dongen-wat-voor-werk-is-er-en-hoe-kies-je.html",
             "publishedDate": "26/11/2026 17:29",
@@ -121,6 +126,17 @@
                     "publishedDate": "26/11/2026 16:36"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Wat is het gemiddelde salaris van een verpleegkundige?",
+            "link": "https://www.man-man.nl/gemiddelde-salaris-verpleegkundige-2026/",
+            "publishedDate": "26/11/2026 17:11",
+            "source": "man-man.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -175,6 +191,17 @@
                 }
             ],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Grote medische bestanden veilig versturen met Transferbox - Domus Medica",
+            "link": "https://www.domusmedica.be/actueel/grote-medische-bestanden-veilig-versturen-met-transferbox",
+            "publishedDate": "26/11/2026 16:39",
+            "source": "domusmedica.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Deze extra's krijg je gratis bij je zorgverzekering in 2027 - Overstappen.nl",
@@ -319,23 +346,11 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl, petities.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 6,
+            "duplicate_count": 4,
             "extra_bronnen": [
-                {
-                    "title": "Zorg voor \u00e9chte waardering van zorgprofessionals in de ggz in de cao - Petities.nl",
-                    "source": "petities.nl",
-                    "link": "https://petities.nl/petities/zorg-voor-echte-waardering-van-zorgprofessionals-in-de-ggz-in-de-cao",
-                    "publishedDate": "26/11/2026 11:28"
-                },
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -355,7 +370,7 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ziekenhuizen Nij Smellinghe en Antonius onderzoeken bestuurlijke fusie - Omrop Frysl\u00e2n",
@@ -388,7 +403,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Tekort aan RS-vaccins voor volwassenen in meerdere regio's: 'Konden het vorige week niet ...",
@@ -592,11 +607,18 @@
             "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
             "publishedDate": "26/11/2026 14:41",
-            "source": "pw.nl",
+            "source": "pw.nl, rivm.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
+                    "publishedDate": "24/11/2026 13:53"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -608,7 +630,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kannan is al bijna 7 jaar dood, maar wint nog altijd prijzen: 'Hij heeft 8000 veulens verwekt'",
@@ -703,7 +725,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Mega-operatie in ziekenhuis Tergooi: alle 345 bedden worden vervangen - NH Nieuws",
@@ -940,12 +962,19 @@
             "title": "Tweede Kamer debatteert over ADHD-medicijnen voor crackverslaafden - Head Topics",
             "link": "https://nl.headtopics.com/news/tweede-kamer-debatteert-over-adhd-medicijnen-voor-90204306",
             "publishedDate": "26/11/2026 12:08",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, nos.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
+                    "publishedDate": "26/11/2026 10:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Ozempic kan mogelijk de kwaliteit van sperma verbeteren | TAGMAG",
@@ -1000,7 +1029,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
@@ -1020,6 +1049,17 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorg voor \u00e9chte waardering van zorgprofessionals in de ggz in de cao - Petities.nl",
+            "link": "https://petities.nl/petities/zorg-voor-echte-waardering-van-zorgprofessionals-in-de-ggz-in-de-cao",
+            "publishedDate": "26/11/2026 11:28",
+            "source": "petities.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1102,17 +1142,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
-            "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
-            "publishedDate": "26/11/2026 10:38",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
@@ -1253,17 +1282,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Huisarts veroordeeld voor voorschrijven Diane 35 bij 17-jarige pati\u00ebnte | Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/binnenland/huisarts-veroordeeld-voor-voorschrijven-diane-35-bij-17-jarige-patiente/165126025.html",
-            "publishedDate": "26/11/2026 09:36",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1601,8 +1619,15 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1762,7 +1787,7 @@
             "source": "denederlandseggz.nl, ggz.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
@@ -1833,28 +1858,6 @@
                     "publishedDate": "25/11/2026 16:11"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Hoe Aletta de Nationale GezondheidsTop naar het Noorden haalde - Rijksuniversiteit Groningen",
-            "link": "https://www.rug.nl/aletta/nieuws/onder-de-motorkap-gezondheidstop",
-            "publishedDate": "25/11/2026 16:08",
-            "source": "rug.nl",
-            "category": "Overig",
-            "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-            "publishedDate": "25/11/2026 15:50",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -2056,23 +2059,23 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
             "link": "https://propertynl.com/amvest-koopt-22-woon-zorgcomplexen/",
             "publishedDate": "24/11/2026 13:54",
             "source": "propertynl.com",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
-            "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
-            "publishedDate": "24/11/2026 13:53",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
