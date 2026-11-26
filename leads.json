@@ -112,17 +112,11 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -191,25 +185,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Verzamelbrief gehandicaptenzorg Wlz",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/f12c6e5d-5467-4304-bf83-98aa80f2a1d9",
                     "publishedDate": "26/11/2026 15:39"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
-                    "publishedDate": "25/11/2026 14:08"
                 }
             ],
             "belangrijkheid": 0
@@ -296,7 +278,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
@@ -404,7 +386,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Mega-operatie in ziekenhuis Tergooi: alle 345 bedden worden vervangen - NH Nieuws",
@@ -977,18 +959,22 @@
             "title": "Corona neemt flink toe, ook griep in opkomst: juist nu stopt de vaccinatiecampagne - RTV Focus",
             "link": "https://www.rtvfocuszwolle.nl/corona-griep-toename-laatste-dag-coronaprik-2026/",
             "publishedDate": "26/11/2026 09:55",
-            "source": "nl.headtopics.com, rtvfocuszwolle.nl",
+            "source": "rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Zware griepepidemie in Frankrijk: stijgende aantallen griep, COVID en bronchiolitis",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/zware-griepepidemie-in-frankrijk-stijgende-aantallen-griep-covid-en-bronchiolitis-90200555",
-                    "publishedDate": "26/11/2026 09:53"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zware griepepidemie in Frankrijk: stijgende aantallen griep, COVID en bronchiolitis",
+            "link": "https://nl.headtopics.com/news/zware-griepepidemie-in-frankrijk-stijgende-aantallen-griep-covid-en-bronchiolitis-90200555",
+            "publishedDate": "26/11/2026 09:53",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1760,6 +1746,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+            "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
+                    "publishedDate": "25/11/2026 14:08"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
             "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
             "publishedDate": "25/11/2026 14:08",
@@ -2042,6 +2046,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
