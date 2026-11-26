@@ -97,7 +97,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Belgische ziekenhuizen blijven financieel kwetsbaar ondanks terugkeer naar winst",
@@ -325,7 +325,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Thomas in het verpleeghuis | medischcontact",
@@ -409,7 +409,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Vrije artsenkeuze wordt een luxe: zoveel betaal je er in 2027 extra voor - Zorgwijzer",
@@ -902,11 +902,17 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -954,11 +960,18 @@
             "title": "Tekort aan RS-vaccins voor volwassenen in meerdere regio's: 'Konden het vorige week niet ...",
             "link": "https://www.ed.nl/gezond/tekort-aan-rs-vaccins-voor-volwassenen-in-meerdere-regios-konden-het-vorige-week-niet-bestellen~af28964a/",
             "publishedDate": "26/11/2026 15:47",
-            "source": "ed.nl",
+            "source": "artsenkrant.pmg.be, ed.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Apothekers dienden al 30 procent meer griepvaccins toe dan vorig jaar - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAPbe2648S02_00",
+                    "publishedDate": "25/11/2026 21:01"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1078,11 +1091,18 @@
             "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
             "publishedDate": "26/11/2026 14:41",
-            "source": "pw.nl",
+            "source": "pw.nl, rivm.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
+                    "publishedDate": "24/11/2026 13:53"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1784,17 +1804,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Apothekers dienden al 30 procent meer griepvaccins toe dan vorig jaar - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAPbe2648S02_00",
-            "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Tonnen aan terugvordering: maar miljoenen onderzocht Apeldoorn niet - Omroep Gelderland",
             "link": "https://www.gld.nl/amp/nieuws/8551378/tonnen-aan-terugvordering-maar-miljoenen-onderzocht-apeldoorn-niet",
             "publishedDate": "25/11/2026 18:20",
@@ -2017,28 +2026,6 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
-            "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
-            "publishedDate": "24/11/2026 13:53",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
