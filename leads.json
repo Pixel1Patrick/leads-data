@@ -18,14 +18,8 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
-                {
-                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-                    "publishedDate": "26/11/2026 14:32"
-                },
                 {
                     "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
                     "source": "cnv.nl",
@@ -146,25 +140,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie op Verzoek WOMEN Inc. tot aanbieding petitie m.b.t. oproep 'We hebben elke vrouw op de arbeidsmarkt keihard nodig - investeer in vrouwengezondheid",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/47ff53cb-dea3-4780-87e9-698b8a8427fc",
                     "publishedDate": "26/11/2026 16:58"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/1beb0d46-8225-434c-97ce-9edc2bf03c72",
-                    "publishedDate": "25/11/2026 16:11"
-                },
-                {
-                    "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
-                    "publishedDate": "25/11/2026 16:11"
                 }
             ],
             "belangrijkheid": 0
@@ -415,7 +397,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Tekort aan RS-vaccins voor volwassenen in meerdere regio's: 'Konden het vorige week niet ...",
@@ -597,18 +579,11 @@
             "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
             "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
             "publishedDate": "26/11/2026 14:41",
-            "source": "l1nieuws.nl, omroeppenm.nl",
+            "source": "omroeppenm.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
-                    "source": "l1nieuws.nl",
-                    "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
-                    "publishedDate": "26/11/2026 13:38"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -626,18 +601,11 @@
             "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
             "publishedDate": "26/11/2026 14:41",
-            "source": "pw.nl, rivm.nl",
+            "source": "pw.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
-                    "publishedDate": "24/11/2026 13:53"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -649,7 +617,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kannan is al bijna 7 jaar dood, maar wint nog altijd prijzen: 'Hij heeft 8000 veulens verwekt'",
@@ -658,6 +626,17 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+            "publishedDate": "26/11/2026 14:32",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -744,7 +723,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Mega-operatie in ziekenhuis Tergooi: alle 345 bedden worden vervangen - NH Nieuws",
@@ -796,6 +775,17 @@
             "publishedDate": "26/11/2026 13:38",
             "source": "security.nl",
             "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
+            "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
+            "publishedDate": "26/11/2026 13:38",
+            "source": "l1nieuws.nl",
+            "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -942,7 +932,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "&quot;Therapeutische exceptie beschermt persoonlijke notities&quot; - Artsenkrant",
@@ -981,19 +971,12 @@
             "title": "Tweede Kamer debatteert over ADHD-medicijnen voor crackverslaafden - Head Topics",
             "link": "https://nl.headtopics.com/news/tweede-kamer-debatteert-over-adhd-medicijnen-voor-90204306",
             "publishedDate": "26/11/2026 12:08",
-            "source": "nl.headtopics.com, nos.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
-                    "publishedDate": "26/11/2026 10:38"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Ozempic kan mogelijk de kwaliteit van sperma verbeteren | TAGMAG",
@@ -1163,6 +1146,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
+            "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
+            "publishedDate": "26/11/2026 10:38",
+            "source": "nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036047/hoogbegaafde-kinderen-in-breda-aan-lot-overgelaten-politiek-slaat-alarm",
             "publishedDate": "26/11/2026 10:38",
@@ -1314,7 +1308,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
@@ -1627,15 +1621,8 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1738,17 +1725,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Door aanhoudend medicijntekort kan Jolke vaak niet aan medicijnen voor dochter (14) komen",
-            "link": "https://eenvandaag.avrotros.nl/artikelen/door-aanhoudend-medicijntekort-kan-jolke-vaak-niet-aan-medicijnen-voor-dochter-14-komen-165488",
-            "publishedDate": "25/11/2026 18:41",
-            "source": "eenvandaag.avrotros.nl",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zuyderland en Open Universiteit starten Expertisecentrum voor Zorgtransformatie",
             "link": "https://zuyderland.nl/nieuws/zuyderland-en-open-universiteit-starten-expertisecentrum-voor-zorgtransformatie/",
             "publishedDate": "25/11/2026 18:36",
@@ -1775,35 +1751,6 @@
                     "publishedDate": "25/11/2026 18:20"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
-            "link": "https://ggz.nl/actualiteiten/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
-            "publishedDate": "25/11/2026 17:54",
-            "source": "denederlandseggz.nl, ggz.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
-                    "source": "denederlandseggz.nl",
-                    "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
-                    "publishedDate": "16/11/2026 13:54"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "De toekomst van kwalitatieve, betaalbare en toegankelijke ggz | Z - ZonMw",
-            "link": "https://www.zonmw.nl/nl/artikel/de-toekomst-van-kwalitatieve-betaalbare-en-toegankelijke-ggz",
-            "publishedDate": "25/11/2026 17:46",
-            "source": "zonmw.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1835,6 +1782,35 @@
             "source": "jeugdzorgnederland.nl",
             "category": "Overig",
             "feed_label": "Jeugdzorg Nederland",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
+            "link": "https://open.overheid.nl/details/1beb0d46-8225-434c-97ce-9edc2bf03c72",
+            "publishedDate": "25/11/2026 16:11",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
+                    "publishedDate": "25/11/2026 16:11"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+            "publishedDate": "25/11/2026 15:50",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2055,6 +2031,17 @@
             "source": "propertynl.com",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
+            "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
+            "publishedDate": "24/11/2026 13:53",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2557,6 +2544,17 @@
             "source": "vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
+            "link": "https://www.denederlandseggz.nl/nieuws/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden",
+            "publishedDate": "16/11/2026 13:54",
+            "source": "denederlandseggz.nl",
+            "category": "Overig",
+            "feed_label": "Nederlandse ggz",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
