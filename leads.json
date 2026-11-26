@@ -1,6 +1,24 @@
 {
     "artikelen": [
         {
+            "title": "Paul Blokhuis benoemd tot nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
+            "link": "https://www.vgn.nl/nieuws/paul-blokhuis-benoemd-tot-nieuwe-bestuursvoorzitter-vereniging-gehandicaptenzorg-nederland",
+            "publishedDate": "26/11/2026 15:42",
+            "source": "vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Paul Blokhuis voorgedragen als nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
+                    "source": "vgn.nl",
+                    "link": "https://www.vgn.nl/nieuws/paul-blokhuis-voorgedragen-als-nieuwe-bestuursvoorzitter-vereniging-gehandicaptenzorg-nederland",
+                    "publishedDate": "19/11/2026 10:38"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Rectificatie van Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte (RVG 30759)",
             "link": "https://open.overheid.nl/details/oep-ob-62a223f6b66ce873e21df55dd57b420e05fab45c_164",
             "publishedDate": "26/11/2026 15:05",
@@ -86,7 +104,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Na roerige periode neemt laboratorium PAMM afscheid van medische microbiologie | Regio",
@@ -324,12 +342,19 @@
             "title": "Tweede Kamer debatteert over ADHD-medicijnen voor crackverslaafden - Head Topics",
             "link": "https://nl.headtopics.com/news/tweede-kamer-debatteert-over-adhd-medicijnen-voor-90204306",
             "publishedDate": "26/11/2026 12:08",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, nos.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
+                    "publishedDate": "26/11/2026 10:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Ozempic kan mogelijk de kwaliteit van sperma verbeteren | TAGMAG",
@@ -384,7 +409,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
@@ -519,17 +544,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
-            "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
-            "publishedDate": "26/11/2026 10:38",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
@@ -723,7 +737,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
@@ -956,16 +970,22 @@
             "title": "Zeeuwse huisarts en apotheker bieden samen afslanktraject met medicatie aan - Drimble",
             "link": "https://drimble.nl/regio/zeeland/walcheren/108715757/zeeuwse-huisarts-en-apotheker-bieden-samen-afslanktraject-met-medicatie-aan.html",
             "publishedDate": "26/11/2026 05:28",
-            "source": "drimble.nl, huisartsvandaag.nl",
+            "source": "artsenkrant.pmg.be, drimble.nl, huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Zeeuwse huisarts en apotheker bieden samen afslanktraject met medicatie aan",
                     "source": "huisartsvandaag.nl",
                     "link": "https://huisartsvandaag.nl/zeeuwse-huisarts-en-apotheker-bieden-samen-afslanktraject-met-medicatie-aan/",
                     "publishedDate": "26/11/2026 00:30"
+                },
+                {
+                    "title": "Apothekers dienden al 30 procent meer griepvaccins toe dan vorig jaar - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAPbe2648S02_00",
+                    "publishedDate": "25/11/2026 21:01"
                 }
             ],
             "belangrijkheid": 0
@@ -1171,17 +1191,6 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Apothekers dienden al 30 procent meer griepvaccins toe dan vorig jaar - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAPbe2648S02_00",
-            "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2256,17 +2265,6 @@
             "source": "igj.nl",
             "category": "Toezichthouders/Instituten",
             "feed_label": "IGJ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Paul Blokhuis voorgedragen als nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
-            "link": "https://www.vgn.nl/nieuws/paul-blokhuis-voorgedragen-als-nieuwe-bestuursvoorzitter-vereniging-gehandicaptenzorg-nederland",
-            "publishedDate": "19/11/2026 10:38",
-            "source": "vgn.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
