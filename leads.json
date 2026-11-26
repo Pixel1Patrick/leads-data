@@ -1,6 +1,41 @@
 {
     "artikelen": [
         {
+            "title": "Onderzoekresultaten jeugdhulp tonen zorgelijk beeld - Nieuw-Volendam",
+            "link": "https://www.nieuw-volendam.nl/onderzoekresultaten-jeugdhulp-tonen-zorgelijk-beeld/",
+            "publishedDate": "26/11/2026 21:02",
+            "source": "nieuw-volendam.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Eerste paal geslagen voor nieuw Bravis ziekenhuis in Roosendaal",
+            "link": "https://www.zuidwestupdate.nl/nieuws/eerste-paal-geslagen-voor-nieuw-bravis-ziekenhuis-in-roosendaal/",
+            "publishedDate": "26/11/2026 21:02",
+            "source": "bndestem.nl, omroepbrabant.nl, zuidwestupdate.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Bouw Bravis Ziekenhuis officieel begonnen, 1890 heipalen gaan de grond in - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6036325/bouw-bravis-ziekenhuis-officieel-begonnen-1890-heipalen-gaan-de-grond-in",
+                    "publishedDate": "26/11/2026 20:46"
+                },
+                {
+                    "title": "De eerste van 1890 heipalen zit erin: de bouw van het nieuwe Bravis Ziekenhuis is nu echt ...",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/roosendaal/de-eerste-van-1890-heipalen-zit-erin-de-bouw-van-het-nieuwe-bravis-ziekenhuis-is-nu-echt-begonnen~a1c3d900/",
+                    "publishedDate": "26/11/2026 18:02"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Zorgbestuurder Mariska Roeters: opendeurenbeleid in verpleeghuizen betekent leven met risico's",
             "link": "https://www.lc.nl/regio/friesland/leeuwarden/zorgbestuurder-mariska-roeters-opendeurenbeleid-in-verpleeghuizen-betekent-leven-met-risicos/165017249.html",
             "publishedDate": "26/11/2026 20:59",
@@ -9,24 +44,6 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bouw Bravis Ziekenhuis officieel begonnen, 1890 heipalen gaan de grond in - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6036325/bouw-bravis-ziekenhuis-officieel-begonnen-1890-heipalen-gaan-de-grond-in",
-            "publishedDate": "26/11/2026 20:46",
-            "source": "bndestem.nl, omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "De eerste van 1890 heipalen zit erin: de bouw van het nieuwe Bravis Ziekenhuis is nu echt ...",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/roosendaal/de-eerste-van-1890-heipalen-zit-erin-de-bouw-van-het-nieuwe-bravis-ziekenhuis-is-nu-echt-begonnen~a1c3d900/",
-                    "publishedDate": "26/11/2026 18:02"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -89,6 +106,17 @@
             "link": "https://www.bndestem.nl/buitenland/in-chileens-ziekenhuis-zijn-vrijwilligers-de-redding-voor-in-de-steek-gelaten-babys-alleen-zijn-is-een-drama~a32055b0/",
             "publishedDate": "26/11/2026 20:02",
             "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Tbs met dwangverpleging voor verslaafde die medebewoner van zorgcomplex doodsloeg ...",
+            "link": "https://www.parool.nl/amsterdam/tbs-met-dwangverpleging-voor-verslaafde-die-medebewoner-van-zorgcomplex-doodsloeg-met-fles-likeur~bdf014d8/",
+            "publishedDate": "26/11/2026 19:51",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
@@ -299,11 +327,30 @@
             "title": "[FNV] Medewerkers Sanquin bieden 5.500 kaarten aan directie aan vanwege zorgen toekomst bloedbank",
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/medewerkers-sanquin-geven-5500-kaarten-directie",
             "publishedDate": "26/11/2026 17:45",
-            "source": "fnv.nl",
+            "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+                    "publishedDate": "26/11/2026 14:32"
+                },
+                {
+                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
+                    "publishedDate": "26/11/2026 09:29"
+                },
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -313,18 +360,12 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/431eeb7b-2095-4dd9-ba04-5cd9b34d85c8",
-                    "publishedDate": "26/11/2026 17:33"
-                },
-                {
-                    "title": "Stand van zaken moties en toezeggingen",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
                     "publishedDate": "26/11/2026 17:33"
                 }
             ],
@@ -337,20 +378,35 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
-                    "publishedDate": "26/11/2026 17:33"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Stand van zaken moties en toezeggingen",
+            "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -400,6 +456,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Nieuwe voorzitter en vicevoorzitter SONCOS Platform Oncologie",
+            "link": "https://demedischspecialist.nl/nieuwsoverzicht/nieuws/nieuwe-voorzitter-en-vicevoorzitter-soncos-platform-oncologie",
+            "publishedDate": "26/11/2026 17:17",
+            "source": "demedischspecialist.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Wat is het gemiddelde salaris van een verpleegkundige?",
             "link": "https://www.man-man.nl/gemiddelde-salaris-verpleegkundige-2026/",
             "publishedDate": "26/11/2026 17:11",
@@ -446,7 +513,7 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
         },
@@ -630,11 +697,17 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -652,6 +725,24 @@
                     "source": "cnv.nl",
                     "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
                     "publishedDate": "24/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ruim 3,5 miljoen euro voor onderzoek naar digitale kopie van het hart",
+            "link": "https://www.catharinaziekenhuis.nl/ruim-35-miljoen-euro-voor-onderzoek-naar-digitale-kopie-van-het-hart/",
+            "publishedDate": "26/11/2026 16:00",
+            "source": "catharinaziekenhuis.nl, icthealth.nl",
+            "category": "Zorgaanbieders",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Digitale kopie van het hart moet behandelkeuze verbeteren | ICT&amp;health",
+                    "source": "icthealth.nl",
+                    "link": "https://www.icthealth.nl/nieuws/digitale-kopie-van-het-hart-moet-behandelkeuze-verbeteren",
+                    "publishedDate": "26/11/2026 15:47"
                 }
             ],
             "belangrijkheid": 0
@@ -683,17 +774,6 @@
             "link": "https://nl.linkedin.com/posts/nrc-nl_in-drie-ziekenhuizen-geldt-voor-de-rest-van-activity-7531730622298386432-Z5_P",
             "publishedDate": "26/11/2026 15:50",
             "source": "nl.linkedin.com",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Digitale kopie van het hart moet behandelkeuze verbeteren | ICT&amp;health",
-            "link": "https://www.icthealth.nl/nieuws/digitale-kopie-van-het-hart-moet-behandelkeuze-verbeteren",
-            "publishedDate": "26/11/2026 15:47",
-            "source": "icthealth.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
@@ -843,24 +923,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Primeur voor Isala: eigen geneesmiddel beschikbaar voor andere ziekenhuizen",
-            "link": "https://www.deswollenaer.nl/nieuws/nieuws/380348/primeur-voor-isala-eigen-geneesmiddel-beschikbaar-voor-andere-ziekenhuizen",
-            "publishedDate": "26/11/2026 14:55",
-            "source": "deswollenaer.nl, locomediagroep.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
-                    "source": "locomediagroep.nl",
-                    "link": "https://locomediagroep.nl/nieuws/693-isala-als-eerste-ziekenhuis-met-eigen-geregistreerd-geneesmiddel/",
-                    "publishedDate": "26/11/2026 14:43"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Steeds meer ziekenhuizen willen meedoen! - Stichting No Guts No Glory",
             "link": "https://www.stichtingngng.nl/2026/11/26/steeds-meer-ziekenhuizen-willen-meedoen/",
             "publishedDate": "26/11/2026 14:50",
@@ -872,12 +934,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Inspiratie-event Waardegedreven Zorg brengt gesprek over toekomstbestendige zorg op gang",
-            "link": "https://www.maasstadziekenhuis.nl/nieuws/inspiratie-event-waardegedreven-zorg-brengt-gesprek-over-toekomstbestendige-zorg-op-gang/",
-            "publishedDate": "26/11/2026 14:44",
-            "source": "maasstadziekenhuis.nl",
+            "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
+            "link": "https://locomediagroep.nl/nieuws/693-isala-als-eerste-ziekenhuis-met-eigen-geregistreerd-geneesmiddel/",
+            "publishedDate": "26/11/2026 14:43",
+            "source": "locomediagroep.nl",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -888,8 +950,8 @@
             "publishedDate": "26/11/2026 14:41",
             "source": "omroeppenm.nl",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -940,41 +1002,6 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-            "publishedDate": "26/11/2026 14:32",
-            "source": "cnv.nl, fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
-                    "publishedDate": "26/11/2026 09:29"
-                },
-                {
-                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-                    "publishedDate": "24/11/2026 10:38"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Na roerige periode neemt laboratorium PAMM afscheid van medische microbiologie | Regio",
-            "link": "https://www.gelderlander.nl/eindhoven/na-roerige-periode-neemt-laboratorium-pamm-afscheid-van-medische-microbiologie~a253dab0/",
-            "publishedDate": "26/11/2026 14:32",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1043,7 +1070,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Belgische vaccinatiegraad tegen mazelen op \u00e9\u00e9n na laagste van EU - Medi-Sfeer",
@@ -1296,7 +1323,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
@@ -1408,7 +1435,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
@@ -1754,15 +1781,8 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1847,6 +1867,17 @@
                     "publishedDate": "25/11/2026 16:11"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+            "publishedDate": "25/11/2026 15:50",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -2021,17 +2052,6 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
