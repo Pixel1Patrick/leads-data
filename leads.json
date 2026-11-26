@@ -18,8 +18,14 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+                    "publishedDate": "26/11/2026 14:32"
+                },
                 {
                     "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
                     "source": "cnv.nl",
@@ -42,12 +48,18 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/431eeb7b-2095-4dd9-ba04-5cd9b34d85c8",
+                    "publishedDate": "26/11/2026 17:33"
+                },
+                {
+                    "title": "Stand van zaken moties en toezeggingen",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
                     "publishedDate": "26/11/2026 17:33"
                 }
             ],
@@ -74,17 +86,6 @@
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Stand van zaken moties en toezeggingen",
-            "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -579,11 +580,18 @@
             "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
             "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
             "publishedDate": "26/11/2026 14:41",
-            "source": "omroeppenm.nl",
+            "source": "l1nieuws.nl, omroeppenm.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
+                    "publishedDate": "26/11/2026 13:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -626,17 +634,6 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-            "publishedDate": "26/11/2026 14:32",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -775,17 +772,6 @@
             "publishedDate": "26/11/2026 13:38",
             "source": "security.nl",
             "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
-            "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
-            "publishedDate": "26/11/2026 13:38",
-            "source": "l1nieuws.nl",
-            "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1031,7 +1017,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
@@ -1308,7 +1294,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
@@ -1621,8 +1607,15 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1802,17 +1795,6 @@
                     "publishedDate": "25/11/2026 16:11"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-            "publishedDate": "25/11/2026 15:50",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
