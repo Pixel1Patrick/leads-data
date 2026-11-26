@@ -618,8 +618,15 @@
             "source": "artsenkrant.pmg.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
+                    "publishedDate": "25/11/2026 21:01"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -645,25 +652,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
-            "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
             "link": "https://nl.headtopics.com/news/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-90185377",
             "publishedDate": "25/11/2026 20:29",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, omroepwest.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
+                    "source": "omroepwest.nl",
+                    "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
+                    "publishedDate": "25/11/2026 20:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -673,17 +676,6 @@
             "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
-            "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
-            "publishedDate": "25/11/2026 20:07",
-            "source": "omroepwest.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1021,7 +1013,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 6,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
@@ -1030,28 +1022,16 @@
                     "publishedDate": "25/11/2026 16:11"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
-                    "publishedDate": "25/11/2026 14:08"
+                    "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
+                    "publishedDate": "25/11/2026 13:10"
                 },
                 {
-                    "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
-                    "publishedDate": "24/11/2026 16:41"
-                },
-                {
-                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
-                    "publishedDate": "24/11/2026 16:41"
+                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
+                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
             "belangrijkheid": 0
@@ -1321,6 +1301,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+            "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
+                    "publishedDate": "25/11/2026 14:08"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
             "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
             "publishedDate": "25/11/2026 14:08",
@@ -1494,24 +1492,6 @@
             "feed_label": "Alert Gehandicaptenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
-            "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
-            "publishedDate": "25/11/2026 13:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
-                    "publishedDate": "25/11/2026 13:10"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1763,6 +1743,24 @@
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+            "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
+            "publishedDate": "24/11/2026 16:41",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/a288fcbf-6f77-436d-b7fd-3c403e792c8f",
+                    "publishedDate": "24/11/2026 16:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
