@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Ledenvergadering: niet-gecontracteerde zorg en bekostiging centraal",
+            "link": "https://www.lhv.nl/nieuws/ledenvergadering-niet-gecontracteerde-zorg-en-bekostiging-centraal/",
+            "publishedDate": "26/11/2026 13:05",
+            "source": "lhv.nl",
+            "category": "Overig",
+            "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Aanwijzing voor Zonneoord Zorgt in Den Haag",
             "link": "https://www.igj.nl/actueel/nieuws/2026/11/26/aanwijzing-voor-zonneoord-zorgt-in-den-haag",
             "publishedDate": "26/11/2026 11:36",
@@ -97,12 +108,34 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6036047/hoogbegaafde-kinderen-in-breda-aan-lot-overgelaten-politiek-slaat-alarm",
+            "publishedDate": "26/11/2026 10:38",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Huisarts straks in rijdende bus? Woningstichting heroverweegt sloop ... - Noordhollands Dagblad",
             "link": "https://www.noordhollandsdagblad.nl/regio/west-friesland/huisarts-straks-in-rijdende-bus-woningstichting-heroverweegt-sloop-verzorgingstehuis-in-andijk-en-huurwoningen-in-wervershoof/165022782.html",
             "publishedDate": "26/11/2026 10:37",
             "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Erepenning voor Martin Vredenduin uit Ankeveen - Gemeente Wijdemeren",
+            "link": "https://www.wijdemeren.nl/nl/Nieuws/2026/November/Erepenning-voor-Martin-Vredenduin-uit-Ankeveen.html",
+            "publishedDate": "26/11/2026 09:56",
+            "source": "wijdemeren.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -144,18 +177,11 @@
             "title": "Huisarts veroordeeld voor voorschrijven Diane 35 bij 17-jarige pati\u00ebnte | Nieuwsblad",
             "link": "https://www.nieuwsblad.be/binnenland/huisarts-veroordeeld-voor-voorschrijven-diane-35-bij-17-jarige-patiente/165126025.html",
             "publishedDate": "26/11/2026 09:36",
-            "source": "demorgen.be, nieuwsblad.be",
+            "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gentse huisarts veroordeeld na voorschrift anticonceptiepil Diane 35: 17-jarige kreeg zware ...",
-                    "source": "demorgen.be",
-                    "link": "https://www.demorgen.be/nieuws/gentse-huisarts-veroordeeld-na-voorschrift-anticonceptiepil-diane-35-17-jarige-kreeg-zware-trombose-en-dubbele-longembolie~b67d555a/",
-                    "publishedDate": "26/11/2026 09:05"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -216,6 +242,17 @@
             "source": "pw.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gentse huisarts veroordeeld na voorschrift anticonceptiepil Diane 35: 17-jarige kreeg zware ...",
+            "link": "https://www.demorgen.be/nieuws/gentse-huisarts-veroordeeld-na-voorschrift-anticonceptiepil-diane-35-17-jarige-kreeg-zware-trombose-en-dubbele-longembolie~b67d555a/",
+            "publishedDate": "26/11/2026 09:05",
+            "source": "demorgen.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -605,24 +642,22 @@
             "title": "Isra\u00ebl woest op Amnesty International: verspreidt 'valse verhalen van Hamas' over genocide in Gaza",
             "link": "https://www.telegraaf.nl/buitenland/israel-woest-op-amnesty-international-na-beschuldiging-belemmeren-zwangerschappen-in-gaza-valse-verhalen-van-hamas-verspreid/165065392.html",
             "publishedDate": "26/11/2026 00:01",
-            "source": "nieuws.marokko.nl, telegraaf.nl, volkskrant.nl",
+            "source": "telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
-                    "source": "volkskrant.nl",
-                    "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
-                    "publishedDate": "25/11/2026 23:33"
-                },
-                {
-                    "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
-                    "source": "nieuws.marokko.nl",
-                    "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
-                    "publishedDate": "25/11/2026 21:42"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
+            "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
+            "publishedDate": "25/11/2026 23:33",
+            "source": "volkskrant.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -698,6 +733,17 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
+            "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
+            "publishedDate": "25/11/2026 21:42",
+            "source": "nieuws.marokko.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1230,7 +1276,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Afgelopen week 3 meldingen van de gemeente over onder meer bomenkap in Heerde",
@@ -1634,17 +1680,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ouderenzorg Stiens in gevaar? Skilhiem sluit in 2028 | Leeuwarder Courant",
-            "link": "https://www.lc.nl/regio/friesland/leeuwarden/sluiting-van-skilhiem-in-stiens-zorgt-voor-onrust-herontwikkeling-en-seniorenwoningen-voor-ouderen-na-2028-huur-is-al-opgezegd-fnp-camel-caravan/164874328.html",
-            "publishedDate": "25/11/2026 11:22",
-            "source": "lc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Geertruidenberg biedt zorgverzekering voor inwoners met laag inkomen - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036074/geertruidenberg-biedt-zorgverzekering-voor-inwoners-met-laag-inkomen",
             "publishedDate": "25/11/2026 11:20",
@@ -1653,24 +1688,6 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
-            "link": "https://www.kobr.nl/nieuws/politiek/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
-            "publishedDate": "25/11/2026 11:19",
-            "source": "kobr.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
-                    "source": "kobr.nl",
-                    "link": "https://www.kobr.nl/nieuws/algemeen/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
-                    "publishedDate": "25/11/2026 05:19"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1713,17 +1730,6 @@
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Ouderenzorg Waardenland test AI voor richtlijnen - AI Wereld",
-            "link": "https://aiwereld.nl/nieuws/ouderenzorg-waardenland-ai-protocollen-herindicaties",
-            "publishedDate": "25/11/2026 11:02",
-            "source": "aiwereld.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1773,10 +1779,10 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Erepenning voor Martin Vredenduin uit Ankeveen na tien jaar inzet voor inwoners",
-            "link": "https://www.hilversumsnieuws.nl/mensen/mensen/383402/erepenning-voor-martin-vredenduin-uit-ankeveen-na-tien-jaar-inzet-voor-inwoners",
-            "publishedDate": "25/11/2026 08:01",
-            "source": "hilversumsnieuws.nl",
+            "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
+            "link": "https://www.kobr.nl/nieuws/algemeen/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
+            "publishedDate": "25/11/2026 05:19",
+            "source": "kobr.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
@@ -2204,17 +2210,6 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Tarieven, vervolgzorg en digitaal werken: wat moet je weten voor 2027?",
-            "link": "https://www.lhv.nl/nieuws/tarieven-vervolgzorg-en-digitaal-werken-wat-moet-je-weten-voor-2027/",
-            "publishedDate": "18/11/2026 02:26",
-            "source": "lhv.nl",
-            "category": "Overig",
-            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
