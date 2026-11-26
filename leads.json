@@ -324,8 +324,15 @@
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -475,10 +482,10 @@
             "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
             "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
             "publishedDate": "26/11/2026 06:56",
-            "source": "ad.nl, destentor.nl, drimble.nl, rtvfocuszwolle.nl, stadindex.nl, tubantia.nl",
+            "source": "ad.nl, destentor.nl, drimble.nl, rtvdrenthe.nl, rtvfocuszwolle.nl, stadindex.nl, tubantia.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 7,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Zwolle",
@@ -509,6 +516,12 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
                     "publishedDate": "25/11/2026 21:16"
+                },
+                {
+                    "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
+                    "publishedDate": "25/11/2026 18:04"
                 }
             ],
             "belangrijkheid": 0
@@ -751,22 +764,24 @@
             "title": "Isra\u00ebl woest op Amnesty International: verspreidt 'valse verhalen van Hamas' over genocide in Gaza",
             "link": "https://www.telegraaf.nl/buitenland/israel-woest-op-amnesty-international-na-beschuldiging-belemmeren-zwangerschappen-in-gaza-valse-verhalen-van-hamas-verspreid/165065392.html",
             "publishedDate": "26/11/2026 00:01",
-            "source": "telegraaf.nl",
+            "source": "nieuws.marokko.nl, telegraaf.nl, volkskrant.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
-            "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
-            "publishedDate": "25/11/2026 23:33",
-            "source": "volkskrant.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
+                    "source": "volkskrant.nl",
+                    "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
+                    "publishedDate": "25/11/2026 23:33"
+                },
+                {
+                    "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
+                    "source": "nieuws.marokko.nl",
+                    "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
+                    "publishedDate": "25/11/2026 21:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -842,17 +857,6 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
-            "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
-            "publishedDate": "25/11/2026 21:42",
-            "source": "nieuws.marokko.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1084,17 +1088,6 @@
             "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
-            "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
-            "publishedDate": "25/11/2026 18:04",
-            "source": "rtvdrenthe.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1965,17 +1958,6 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-            "publishedDate": "24/11/2026 10:38",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
