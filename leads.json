@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Rectificatie van Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte (RVG 30759)",
+            "link": "https://open.overheid.nl/details/oep-ob-62a223f6b66ce873e21df55dd57b420e05fab45c_134",
+            "publishedDate": "26/11/2026 08:40",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "De gemeente Schouwen-Duiveland laat een nieuwe aanpak tegen pesten voorlopig zitten ... - PZC",
             "link": "https://www.pzc.nl/schouwen-duiveland/de-gemeente-schouwen-duiveland-laat-een-nieuwe-aanpak-tegen-pesten-voorlopig-zitten-na-stevige-daling~a90ca227/",
             "publishedDate": "26/11/2026 08:02",
@@ -275,24 +286,22 @@
             "title": "Isra\u00ebl woest op Amnesty International: verspreidt 'valse verhalen van Hamas' over genocide in Gaza",
             "link": "https://www.telegraaf.nl/buitenland/israel-woest-op-amnesty-international-na-beschuldiging-belemmeren-zwangerschappen-in-gaza-valse-verhalen-van-hamas-verspreid/165065392.html",
             "publishedDate": "26/11/2026 00:01",
-            "source": "nieuws.marokko.nl, telegraaf.nl, volkskrant.nl",
+            "source": "telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
-                    "source": "volkskrant.nl",
-                    "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
-                    "publishedDate": "25/11/2026 23:33"
-                },
-                {
-                    "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
-                    "source": "nieuws.marokko.nl",
-                    "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
-                    "publishedDate": "25/11/2026 21:42"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
+            "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
+            "publishedDate": "25/11/2026 23:33",
+            "source": "volkskrant.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -332,10 +341,10 @@
             "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Zwolle",
             "link": "https://drimble.nl/regio/overijssel/zwolle/108712283/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen.html",
             "publishedDate": "25/11/2026 23:03",
-            "source": "ad.nl, destentor.nl, drimble.nl, rtvdrenthe.nl, stadindex.nl, tubantia.nl",
+            "source": "ad.nl, destentor.nl, drimble.nl, stadindex.nl, tubantia.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 7,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - StadIndex.nl",
@@ -360,12 +369,6 @@
                     "source": "ad.nl",
                     "link": "https://www.ad.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
                     "publishedDate": "25/11/2026 21:16"
-                },
-                {
-                    "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
-                    "publishedDate": "25/11/2026 18:04"
                 }
             ],
             "belangrijkheid": 1
@@ -410,6 +413,17 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
+            "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
+            "publishedDate": "25/11/2026 21:42",
+            "source": "nieuws.marokko.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -561,37 +575,12 @@
             "title": "Aantal coronagevallen neemt snel toe - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/samenleving/aantal-coronagevallen-neemt-snel-toe",
             "publishedDate": "25/11/2026 19:48",
-            "source": "nl.headtopics.com, omroepbrabant.nl, telegraaf.nl, welingelichtekringen.nl",
+            "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Aantal coronagevallen neemt toe, ook piek in Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6036184/aantal-coronagevallen-neemt-toe-ook-piek-in-brabant",
-                    "publishedDate": "25/11/2026 19:14"
-                },
-                {
-                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-90182617",
-                    "publishedDate": "25/11/2026 18:29"
-                },
-                {
-                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6036184/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-het-beste",
-                    "publishedDate": "25/11/2026 18:06"
-                },
-                {
-                    "title": "Aantal coronagevallen neemt snel toe: gestegen naar het hoogste niveau sinds pandemie",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/binnenland/aantal-coronagevallen-neemt-snel-toe-gestegen-naar-het-hoogste-niveau-sinds-pandemie/165105802.html",
-                    "publishedDate": "25/11/2026 17:17"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "ZAS wil verregaandere hervorming van het ziekenhuislandschap - GVA",
@@ -616,6 +605,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Aantal coronagevallen neemt toe, ook piek in Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6036184/aantal-coronagevallen-neemt-toe-ook-piek-in-brabant",
+            "publishedDate": "25/11/2026 19:14",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Traditie in Vilsteren: levende kerstwandeltocht op 26 december | Regio | De Stentor.nl",
             "link": "https://www.destentor.nl/ommen/traditie-in-vilsteren-levende-kerstwandeltocht-op-26-december~a00f8ab8/",
             "publishedDate": "25/11/2026 19:14",
@@ -630,17 +630,11 @@
             "title": "Ozempic- en Mounjaro-makers moeten in VS waarschuwen voor gezichtsverlies",
             "link": "https://www.nieuwsblad.be/buitenland/ozempic-en-mounjaro-makers-moeten-in-vs-waarschuwen-voor-gezichtsverlies/165114023.html",
             "publishedDate": "25/11/2026 19:07",
-            "source": "nieuwsblad.be, nl.marketscreener.com, tijd.be",
+            "source": "nieuwsblad.be, tijd.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
-                {
-                    "title": "Novo en Eli Lilly aangeklaagd in de VS wegens zeldzame oogaandoening door GLP-1-medicijnen",
-                    "source": "nl.marketscreener.com",
-                    "link": "https://nl.marketscreener.com/beursnieuws/novo-en-eli-lilly-aangeklaagd-in-de-vs-wegens-zeldzame-oogaandoening-door-glp-1-medicijnen-ce7851d8d88cf020",
-                    "publishedDate": "25/11/2026 15:54"
-                },
                 {
                     "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
                     "source": "tijd.be",
@@ -695,6 +689,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Head Topics",
+            "link": "https://nl.headtopics.com/news/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-90182617",
+            "publishedDate": "25/11/2026 18:29",
+            "source": "nl.headtopics.com, omroepbrabant.nl, telegraaf.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6036184/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-het-beste",
+                    "publishedDate": "25/11/2026 18:06"
+                },
+                {
+                    "title": "Aantal coronagevallen neemt snel toe: gestegen naar het hoogste niveau sinds pandemie",
+                    "source": "telegraaf.nl",
+                    "link": "https://www.telegraaf.nl/binnenland/aantal-coronagevallen-neemt-snel-toe-gestegen-naar-het-hoogste-niveau-sinds-pandemie/165105802.html",
+                    "publishedDate": "25/11/2026 17:17"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Suid-Afrika ontplooi ekonomiese gesante om beleggings te lok - YouTube",
             "link": "https://www.youtube.com/watch?v=MX-tNpH6xzY",
             "publishedDate": "25/11/2026 18:26",
@@ -734,6 +752,17 @@
             "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
+            "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
+            "publishedDate": "25/11/2026 18:04",
+            "source": "rtvdrenthe.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1055,6 +1084,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Novo en Eli Lilly aangeklaagd in de VS wegens zeldzame oogaandoening door GLP-1-medicijnen",
+            "link": "https://nl.marketscreener.com/beursnieuws/novo-en-eli-lilly-aangeklaagd-in-de-vs-wegens-zeldzame-oogaandoening-door-glp-1-medicijnen-ce7851d8d88cf020",
+            "publishedDate": "25/11/2026 15:54",
+            "source": "nl.marketscreener.com",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Leiden kleurt oranje tegen vrouwengeweld, maar noodopvang zit nokvol - Centraal+",
             "link": "https://centraalplus.nl/2026/11/25/leiden-kleurt-oranje-tegen-vrouwengeweld-maar-noodopvang-zit-nokvol/",
             "publishedDate": "25/11/2026 15:52",
@@ -1129,7 +1169,7 @@
             "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Helse zoektocht naar openbaar toilet voor duizenden mensen: WC-Wijzer moet steuntje in de rug zijn",
@@ -1482,26 +1522,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-            "publishedDate": "25/11/2026 13:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1811,6 +1846,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
+            "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
+            "publishedDate": "24/11/2026 15:15",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
