@@ -875,16 +875,22 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
-            "source": "cnv.nl, fnv.nl, lad.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl, zorgwelzijn.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 5,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
                     "source": "zorgwelzijn.nl",
                     "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
                     "publishedDate": "25/11/2026 10:19"
+                },
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
                 },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
@@ -1430,26 +1436,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-            "publishedDate": "25/11/2026 13:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1544,16 +1545,22 @@
             "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
             "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
             "publishedDate": "25/11/2026 11:21",
-            "source": "alzheimer-nederland.nl, nu.nl",
+            "source": "kobr.nl, nu.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
-                    "title": "Geslaagd en leerzame avond over dementie en medicatie - Alzheimer Nederland",
-                    "source": "alzheimer-nederland.nl",
-                    "link": "https://www.alzheimer-nederland.nl/regios/voorne-putten-en-rozenburg/geslaagd-en-leerzame-avond-over-dementie-en-medicatie",
-                    "publishedDate": "25/11/2026 11:18"
+                    "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
+                    "source": "kobr.nl",
+                    "link": "https://www.kobr.nl/nieuws/politiek/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
+                    "publishedDate": "25/11/2026 11:19"
+                },
+                {
+                    "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
+                    "source": "kobr.nl",
+                    "link": "https://www.kobr.nl/nieuws/algemeen/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
+                    "publishedDate": "25/11/2026 05:19"
                 }
             ],
             "belangrijkheid": 0
@@ -1570,21 +1577,14 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
-            "link": "https://www.kobr.nl/nieuws/politiek/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
-            "publishedDate": "25/11/2026 11:19",
-            "source": "kobr.nl",
+            "title": "Geslaagd en leerzame avond over dementie en medicatie - Alzheimer Nederland",
+            "link": "https://www.alzheimer-nederland.nl/regios/voorne-putten-en-rozenburg/geslaagd-en-leerzame-avond-over-dementie-en-medicatie",
+            "publishedDate": "25/11/2026 11:18",
+            "source": "alzheimer-nederland.nl",
             "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Commissie Samenleving steunt miljoenenbedrag voor jeugdhulp, maar heeft zorgen over ...",
-                    "source": "kobr.nl",
-                    "link": "https://www.kobr.nl/nieuws/algemeen/38256/commissie-samenleving-steunt-miljoenenbedrag-voor-jeugdhulp-maar-heeft-zorgen-over-de-periode-na-2028",
-                    "publishedDate": "25/11/2026 05:19"
-                }
-            ],
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1883,17 +1883,6 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
