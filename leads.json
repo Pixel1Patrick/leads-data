@@ -89,11 +89,18 @@
             "title": "Man (43) verdacht van verkrachten 9-jarig jongetje op azc: 'Waarom leeft dit soort monsters ...",
             "link": "https://www.destentor.nl/hardenberg/man-43-verdacht-van-verkrachten-9-jarig-jongetje-op-azc-waarom-leeft-dit-soort-monsters-onder-ons~a66964ee/",
             "publishedDate": "26/11/2026 00:05",
-            "source": "destentor.nl",
+            "source": "ad.nl, destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Coach (30) vroeg naaktfoto's aan pupil (14) in ruil voor leuke uitjes en speeltijd - AD",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/hardinxveld-giessendam/coach-30-vroeg-naaktfotos-aan-pupil-14-in-ruil-voor-leuke-uitjes-en-speeltijd-ik-heb-grenzen-opgerekt~ab6e5f89/",
+                    "publishedDate": "25/11/2026 21:02"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -263,17 +270,6 @@
             "source": "telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Coach (30) vroeg naaktfoto's aan pupil (14) in ruil voor leuke uitjes en speeltijd - AD",
-            "link": "https://www.ad.nl/hardinxveld-giessendam/coach-30-vroeg-naaktfotos-aan-pupil-14-in-ruil-voor-leuke-uitjes-en-speeltijd-ik-heb-grenzen-opgerekt~ab6e5f89/",
-            "publishedDate": "25/11/2026 21:02",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -811,22 +807,16 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, zorgwelzijn.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 6,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
                     "source": "zorgwelzijn.nl",
                     "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
                     "publishedDate": "25/11/2026 10:19"
-                },
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
                 },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
@@ -847,30 +837,17 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
             "link": "https://www.srherald.com/suriname/2026/11/25/seh-laat-begeleiders-vanaf-nu-buiten-wachten-na-incident-met-donovan-grep/",
             "publishedDate": "25/11/2026 16:14",
-            "source": "drimble.nl, srherald.com",
+            "source": "srherald.com",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "AZP weert begeleiders voortaan uit SEH na incident Donovan Grep - ABC [video] - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702679/azp-weert-begeleiders-voortaan-uit-seh-na-incident-donovan-grep-abc-video.html",
-                    "publishedDate": "24/11/2026 23:22"
-                },
-                {
-                    "title": "Grep eist vrijgave volledige camerabeelden incident SEH - ABC [video] | Suriname - Drimble",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/dossiers/multicultureel/suriname/108702680/grep-eist-vrijgave-volledige-camerabeelden-incident-seh-abc-video.html",
-                    "publishedDate": "24/11/2026 23:22"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1697,7 +1674,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderen met darmfalen kunnen mogelijk aan minder belastende antistollingsmedicatie",
@@ -1848,6 +1825,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
