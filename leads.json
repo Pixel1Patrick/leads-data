@@ -51,7 +51,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Na roerige periode neemt laboratorium PAMM afscheid van medische microbiologie | Regio",
@@ -272,7 +272,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "&quot;Therapeutische exceptie beschermt persoonlijke notities&quot; - Artsenkrant",
@@ -300,18 +300,11 @@
             "title": "Tweede Kamer debatteert over ADHD-medicijnen voor crackverslaafden - Head Topics",
             "link": "https://nl.headtopics.com/news/tweede-kamer-debatteert-over-adhd-medicijnen-voor-90204306",
             "publishedDate": "26/11/2026 12:08",
-            "source": "nl.headtopics.com, nos.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
-                    "source": "nos.nl",
-                    "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
-                    "publishedDate": "26/11/2026 10:38"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -329,18 +322,22 @@
             "title": "Faillissementen KBN Montage en Dalfse zorginstelling | Nieuws - Head Topics",
             "link": "https://nl.headtopics.com/news/faillissementen-kbn-montage-en-dalfse-zorginstelling-90204171",
             "publishedDate": "26/11/2026 11:50",
-            "source": "nl.headtopics.com, oost.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kozijnenhandelaar, zorgbureau en vuurhaarden: deze bedrijven gingen failliet - RTV Oost",
-                    "source": "oost.nl",
-                    "link": "https://www.oost.nl/nieuws/3723277/kozijnenhandelaar-zorgbureau-en-vuurhaarden-deze-bedrijven-gingen-failliet",
-                    "publishedDate": "26/11/2026 11:39"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Kozijnenhandelaar, zorgbureau en vuurhaarden: deze bedrijven gingen failliet - RTV Oost",
+            "link": "https://www.oost.nl/nieuws/3723277/kozijnenhandelaar-zorgbureau-en-vuurhaarden-deze-bedrijven-gingen-failliet",
+            "publishedDate": "26/11/2026 11:39",
+            "source": "oost.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -369,25 +366,12 @@
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 11:35",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
+            "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-                    "publishedDate": "26/11/2026 09:31"
-                },
-                {
-                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-                    "publishedDate": "25/11/2026 10:43"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Collega's in de media - Federatie Medisch Specialisten",
@@ -508,16 +492,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Stand van zaken HLO-activiteiten november 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c74af2c7-d344-4b6e-aee3-e20e0e8fb31b",
-                    "publishedDate": "25/11/2026 14:08"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
+            "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
+            "publishedDate": "26/11/2026 10:38",
+            "source": "nos.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
@@ -633,24 +621,22 @@
             "title": "Corona neemt flink toe, ook griep in opkomst: juist nu stopt de vaccinatiecampagne - RTV Focus",
             "link": "https://www.rtvfocuszwolle.nl/corona-griep-toename-laatste-dag-coronaprik-2026/",
             "publishedDate": "26/11/2026 09:55",
-            "source": "nl.headtopics.com, rtvfocuszwolle.nl, telegraaf.nl",
+            "source": "rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Zware griepepidemie in Frankrijk: stijgende aantallen griep, COVID en bronchiolitis",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/zware-griepepidemie-in-frankrijk-stijgende-aantallen-griep-covid-en-bronchiolitis-90200555",
-                    "publishedDate": "26/11/2026 09:53"
-                },
-                {
-                    "title": "Griep grijpt om zich heen: arts vertelt wat \u00e9cht helpt en welke middeltjes je beter kunt laten staan",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/lifestyle/gezondheid/griep-grijpt-om-zich-heen-arts-vertelt-wat-echt-helpt-en-welke-middeltjes-je-beter-kunt-laten-staan/165036608.html",
-                    "publishedDate": "26/11/2026 08:31"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zware griepepidemie in Frankrijk: stijgende aantallen griep, COVID en bronchiolitis",
+            "link": "https://nl.headtopics.com/news/zware-griepepidemie-in-frankrijk-stijgende-aantallen-griep-covid-en-bronchiolitis-90200555",
+            "publishedDate": "26/11/2026 09:53",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -705,6 +691,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+            "publishedDate": "26/11/2026 09:31",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
             "link": "https://www.eemskrant.nl/groninger-zorgakkoord-zoekt-nieuwe-zorgontdekkers/",
             "publishedDate": "26/11/2026 09:22",
@@ -719,24 +716,11 @@
             "title": "Huisarts onthouden van werk na alcoholgebruik: tuchtzaak 8 december",
             "link": "https://www.tuchtcollege-gezondheidszorg.nl/actueel/nieuws/2026/11/26/huisarts-onthouden-van-werk-na-alcoholgebruik-tuchtzaak-8-december",
             "publishedDate": "26/11/2026 09:21",
-            "source": "bd.nl, tuchtcollege-gezondheidszorg.nl",
+            "source": "tuchtcollege-gezondheidszorg.nl",
             "category": "Overig",
             "feed_label": "Tuchtcollege voor de Gezondheidszorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Gerard (66) is chauffeur voor de huisartsenpost: 'We zijn binnen de medische wereld amper bekend'",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-66-is-chauffeur-voor-de-huisartsenpost-we-zijn-binnen-de-medische-wereld-amper-bekend~ae37b385/",
-                    "publishedDate": "25/11/2026 22:25"
-                },
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -790,6 +774,17 @@
             "source": "scientias.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Griep grijpt om zich heen: arts vertelt wat \u00e9cht helpt en welke middeltjes je beter kunt laten staan",
+            "link": "https://www.telegraaf.nl/lifestyle/gezondheid/griep-grijpt-om-zich-heen-arts-vertelt-wat-echt-helpt-en-welke-middeltjes-je-beter-kunt-laten-staan/165036608.html",
+            "publishedDate": "26/11/2026 08:31",
+            "source": "telegraaf.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -941,18 +936,11 @@
             "title": "Enschede huisartsen parkeerontheffing 403 euro | Economy - Head Topics",
             "link": "https://nl.headtopics.com/news/enschede-huisartsen-parkeerontheffing-403-euro-90194335",
             "publishedDate": "26/11/2026 05:37",
-            "source": "nl.headtopics.com, oost.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Huisartsen in Enschede niet te spreken over nieuwe 'te dure' parkeervergunning - RTV Oost",
-                    "source": "oost.nl",
-                    "link": "https://www.oost.nl/nieuws/3721543/huisartsen-in-enschede-niet-te-spreken-over-nieuwe-te-dure-parkeervergunning",
-                    "publishedDate": "26/11/2026 05:08"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -991,6 +979,17 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Huisartsen in Enschede niet te spreken over nieuwe 'te dure' parkeervergunning - RTV Oost",
+            "link": "https://www.oost.nl/nieuws/3721543/huisartsen-in-enschede-niet-te-spreken-over-nieuwe-te-dure-parkeervergunning",
+            "publishedDate": "26/11/2026 05:08",
+            "source": "oost.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1141,6 +1140,17 @@
             "source": "amigoearuba.com",
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gerard (66) is chauffeur voor de huisartsenpost: 'We zijn binnen de medische wereld amper bekend'",
+            "link": "https://www.bd.nl/waalwijk/gerard-66-is-chauffeur-voor-de-huisartsenpost-we-zijn-binnen-de-medische-wereld-amper-bekend~ae37b385/",
+            "publishedDate": "25/11/2026 22:25",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1457,7 +1467,7 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
@@ -1477,25 +1487,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9ad81c15-1bc9-496d-be29-c26c758f33f5",
                     "publishedDate": "25/11/2026 16:11"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
-                    "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
             "belangrijkheid": 0
@@ -1551,6 +1549,17 @@
             "source": "centraalplus.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+            "publishedDate": "25/11/2026 15:50",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1652,24 +1661,17 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Woensdrecht betaalt deel mee aan collectieve zorgverzekering voor inwoners met lager inkomen",
             "link": "https://www.ad.nl/woensdrecht/woensdrecht-betaalt-deel-mee-aan-collectieve-zorgverzekering-voor-inwoners-met-lager-inkomen~ae71c82d/",
             "publishedDate": "25/11/2026 14:27",
-            "source": "ad.nl, omroepbrabant.nl",
+            "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Geertruidenberg biedt zorgverzekering voor inwoners met laag inkomen - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6036074/geertruidenberg-biedt-zorgverzekering-voor-inwoners-met-laag-inkomen",
-                    "publishedDate": "25/11/2026 11:20"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1712,39 +1714,70 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 6,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
                     "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "RegioKracht Bereikbare zorg en welzijn voor kwetsbare ouderen door regionale samenwerking - Nu en in de toekomst",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/24c0e811-18d3-4239-ab21-548d7355ba5f",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "Monitor Ouderenzorg 2026",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/21724061-889d-457e-b499-7a8392530f82",
-                    "publishedDate": "25/11/2026 14:08"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
+            "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
+            "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "RegioKracht Bereikbare zorg en welzijn voor kwetsbare ouderen door regionale samenwerking - Nu en in de toekomst",
+            "link": "https://open.overheid.nl/details/24c0e811-18d3-4239-ab21-548d7355ba5f",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Monitor Ouderenzorg 2026",
+            "link": "https://open.overheid.nl/details/21724061-889d-457e-b499-7a8392530f82",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Stand van zaken HLO-activiteiten november 2026",
+            "link": "https://open.overheid.nl/details/c74af2c7-d344-4b6e-aee3-e20e0e8fb31b",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1817,18 +1850,11 @@
             "title": "SEH wil erkende bijscholing als alternatief voor Wft-PE-examen - InFinance",
             "link": "https://infinance.nl/artikel/seh-wil-erkende-bijscholing-als-alternatief-voor-wft-pe-examen/",
             "publishedDate": "25/11/2026 13:27",
-            "source": "amweb.nl, infinance.nl",
+            "source": "infinance.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Open brief aan Financi\u00ebn: SEH vreest minder adviseurs \u00e9n minder examens - AMweb",
-                    "source": "amweb.nl",
-                    "link": "https://www.amweb.nl/161049/open-brief-aan-financien-seh-vreest-minder-adviseurs-en-minder-examens",
-                    "publishedDate": "25/11/2026 11:36"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1851,6 +1877,24 @@
             "feed_label": "Alert Gehandicaptenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m b t  windturbinegeluid",
+            "link": "https://open.overheid.nl/details/213ec793-a7fb-4c39-96b9-58a2b5cf4091",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
+                    "publishedDate": "25/11/2026 13:10"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1900,6 +1944,28 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Open brief aan Financi\u00ebn: SEH vreest minder adviseurs \u00e9n minder examens - AMweb",
+            "link": "https://www.amweb.nl/161049/open-brief-aan-financien-seh-vreest-minder-adviseurs-en-minder-examens",
+            "publishedDate": "25/11/2026 11:36",
+            "source": "amweb.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Geertruidenberg biedt zorgverzekering voor inwoners met laag inkomen - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6036074/geertruidenberg-biedt-zorgverzekering-voor-inwoners-met-laag-inkomen",
+            "publishedDate": "25/11/2026 11:20",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Geslaagd en leerzame avond over dementie en medicatie - Alzheimer Nederland",
             "link": "https://www.alzheimer-nederland.nl/regios/voorne-putten-en-rozenburg/geslaagd-en-leerzame-avond-over-dementie-en-medicatie",
             "publishedDate": "25/11/2026 11:18",
@@ -1928,6 +1994,17 @@
             "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+            "publishedDate": "25/11/2026 10:43",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2124,7 +2201,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Paper] Wet implementatie richtlijn loontransparantie",
