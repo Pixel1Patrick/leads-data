@@ -150,7 +150,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Vrijwillige ouderenbezoekers en hun schat aan informatie - Vilans",
@@ -459,7 +459,7 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 1
         },
@@ -643,11 +643,17 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -667,7 +673,7 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ziekenhuizen Nij Smellinghe en Antonius onderzoeken bestuurlijke fusie - Omrop Frysl\u00e2n",
@@ -874,6 +880,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Steeds meer ziekenhuizen willen meedoen! - Stichting No Guts No Glory",
+            "link": "https://www.stichtingngng.nl/2026/11/26/steeds-meer-ziekenhuizen-willen-meedoen/",
+            "publishedDate": "26/11/2026 14:50",
+            "source": "stichtingngng.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Inspiratie-event Waardegedreven Zorg brengt gesprek over toekomstbestendige zorg op gang",
             "link": "https://www.maasstadziekenhuis.nl/nieuws/inspiratie-event-waardegedreven-zorg-brengt-gesprek-over-toekomstbestendige-zorg-op-gang/",
             "publishedDate": "26/11/2026 14:44",
@@ -933,7 +950,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Kannan is al bijna 7 jaar dood, maar wint nog altijd prijzen: 'Hij heeft 8000 veulens verwekt'",
@@ -1028,6 +1045,17 @@
             "link": "https://www.medi-sfeer.be/nl/nieuws/la-belgique-a-le-deuxieme-taux-de-vaccination-contre-la-rougeole-le-plus-bas-de-l-ue.html",
             "publishedDate": "26/11/2026 14:09",
             "source": "medi-sfeer.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "10 jaar samen opleiden tegen tekort aan verpleegkundigen in Limburgse ziekenhuizen",
+            "link": "https://www.gildeopleidingen.nl/nieuws/10-jaar-samen-opleiden-tegen-tekort-aan-verpleegkundigen-limburgse-ziekenhuizen",
+            "publishedDate": "26/11/2026 14:03",
+            "source": "gildeopleidingen.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
@@ -1145,17 +1173,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Weten of de tumor weg is voordat de operatie voorbij is - Rijksuniversiteit Groningen",
-            "link": "https://www.rug.nl/about-ug/latest-news/news/archief2026/nieuwsberichten/1126spctr",
-            "publishedDate": "26/11/2026 12:46",
-            "source": "rug.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Michael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn",
             "link": "https://www.noordhollandsdagblad.nl/uitgelicht/michael-59-is-doodsbang-nu-zijn-medicijnen-in-nederland-niet-meer-beschikbaar-zijn-nu-ik-steeds-minder-pillen-heb-ga-ik-steeds-meer-malen/165078862.html",
             "publishedDate": "26/11/2026 12:31",
@@ -1163,17 +1180,6 @@
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Paniek na explosie tankwagen in Egypte: zeker 31 doden | De Telegraaf",
-            "link": "https://www.telegraaf.nl/video/paniek-na-explosie-tankwagen-in-egypte-zeker-31-doden/165123776.html",
-            "publishedDate": "26/11/2026 12:30",
-            "source": "telegraaf.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1197,7 +1203,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "&quot;Therapeutische exceptie beschermt persoonlijke notities&quot; - Artsenkrant",
@@ -1218,17 +1224,6 @@
             "category": "Overig",
             "feed_label": "Alert umc",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Hoeveel stroom verbruiken datacenters in Nederland? Zo lees je de CBS-cijfers - AI Wereld",
-            "link": "https://aiwereld.nl/blog/stroomverbruik-datacenters-nederland-cbs-cijfers",
-            "publishedDate": "26/11/2026 12:12",
-            "source": "aiwereld.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1765,8 +1760,15 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1884,17 +1886,6 @@
                     "publishedDate": "25/11/2026 16:11"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-            "publishedDate": "25/11/2026 15:50",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -2072,17 +2063,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
