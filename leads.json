@@ -1,14 +1,61 @@
 {
     "artikelen": [
         {
+            "title": "Blog: Langer thuis wonen vraagt om goede samenwerking",
+            "link": "https://www.lhv.nl/nieuws/blog-langer-thuis-wonen-vraagt-om-goede-samenwerking/",
+            "publishedDate": "26/11/2026 11:19",
+            "source": "lhv.nl",
+            "category": "Overig",
+            "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Corona neemt flink toe, ook griep in opkomst: juist nu stopt de vaccinatiecampagne - RTV Focus",
+            "link": "https://www.rtvfocuszwolle.nl/corona-griep-toename-laatste-dag-coronaprik-2026/",
+            "publishedDate": "26/11/2026 09:55",
+            "source": "rtvfocuszwolle.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 19 november 2026, kenmerk 2026-3216634/IT2114610, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Gonasi 5000 IE, poeder en oplosmiddel voor oplossing voor injectie (RVG 125838)",
             "link": "https://open.overheid.nl/details/oep-ob-787794d1f8b852141b50e1763b5cb265628bce8d_141",
             "publishedDate": "26/11/2026 09:48",
-            "source": "open.overheid.nl",
+            "source": "omroepwest.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
+                    "source": "omroepwest.nl",
+                    "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
+                    "publishedDate": "25/11/2026 20:07"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Huisarts veroordeeld voor voorschrijven Diane 35 bij 17-jarige pati\u00ebnte | Nieuwsblad",
+            "link": "https://www.nieuwsblad.be/binnenland/huisarts-veroordeeld-voor-voorschrijven-diane-35-bij-17-jarige-patiente/165126025.html",
+            "publishedDate": "26/11/2026 09:36",
+            "source": "demorgen.be, nieuwsblad.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gentse huisarts veroordeeld na voorschrift anticonceptiepil Diane 35: 17-jarige kreeg zware ...",
+                    "source": "demorgen.be",
+                    "link": "https://www.demorgen.be/nieuws/gentse-huisarts-veroordeeld-na-voorschrift-anticonceptiepil-diane-35-17-jarige-kreeg-zware-trombose-en-dubbele-longembolie~b67d555a/",
+                    "publishedDate": "26/11/2026 09:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -20,7 +67,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
@@ -47,17 +94,6 @@
             "source": "tuchtcollege-gezondheidszorg.nl",
             "category": "Overig",
             "feed_label": "Tuchtcollege voor de Gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gentse huisarts veroordeeld na voorschrift anticonceptiepil Diane 35: 17-jarige kreeg zware ...",
-            "link": "https://www.demorgen.be/nieuws/gentse-huisarts-veroordeeld-na-voorschrift-anticonceptiepil-diane-35-17-jarige-kreeg-zware-trombose-en-dubbele-longembolie~b67d555a/",
-            "publishedDate": "26/11/2026 09:05",
-            "source": "demorgen.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -102,6 +138,17 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Vrije artsenkeuze wordt een luxe: zoveel betaal je er in 2027 extra voor - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/vrije-artsenkeuze-wordt-een-luxe-zoveel-betaal-je-er-in-2027-extra-voor",
+            "publishedDate": "26/11/2026 07:46",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -377,24 +424,22 @@
             "title": "Isra\u00ebl woest op Amnesty International: verspreidt 'valse verhalen van Hamas' over genocide in Gaza",
             "link": "https://www.telegraaf.nl/buitenland/israel-woest-op-amnesty-international-na-beschuldiging-belemmeren-zwangerschappen-in-gaza-valse-verhalen-van-hamas-verspreid/165065392.html",
             "publishedDate": "26/11/2026 00:01",
-            "source": "nieuws.marokko.nl, telegraaf.nl, volkskrant.nl",
+            "source": "telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
-                    "source": "volkskrant.nl",
-                    "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
-                    "publishedDate": "25/11/2026 23:33"
-                },
-                {
-                    "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
-                    "source": "nieuws.marokko.nl",
-                    "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
-                    "publishedDate": "25/11/2026 21:42"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
+            "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
+            "publishedDate": "25/11/2026 23:33",
+            "source": "volkskrant.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -506,6 +551,17 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
+            "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
+            "publishedDate": "25/11/2026 21:42",
+            "source": "nieuws.marokko.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -624,18 +680,11 @@
             "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
             "link": "https://nl.headtopics.com/news/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-90185377",
             "publishedDate": "25/11/2026 20:29",
-            "source": "nl.headtopics.com, omroepwest.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
-                    "source": "omroepwest.nl",
-                    "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
-                    "publishedDate": "25/11/2026 20:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -653,24 +702,11 @@
             "title": "Aantal coronagevallen neemt snel toe - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/samenleving/aantal-coronagevallen-neemt-snel-toe",
             "publishedDate": "25/11/2026 19:48",
-            "source": "nl.headtopics.com, omroepbrabant.nl, welingelichtekringen.nl",
+            "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Aantal coronagevallen neemt toe, ook piek in Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6036184/aantal-coronagevallen-neemt-toe-ook-piek-in-brabant",
-                    "publishedDate": "25/11/2026 19:14"
-                },
-                {
-                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-90182617",
-                    "publishedDate": "25/11/2026 18:29"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -691,6 +727,17 @@
             "source": "knmp.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Aantal coronagevallen neemt toe, ook piek in Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6036184/aantal-coronagevallen-neemt-toe-ook-piek-in-brabant",
+            "publishedDate": "25/11/2026 19:14",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -764,28 +811,6 @@
             "source": "zuyderland.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Suid-Afrika ontplooi ekonomiese gesante om beleggings te lok - YouTube",
-            "link": "https://www.youtube.com/watch?v=MX-tNpH6xzY",
-            "publishedDate": "25/11/2026 18:26",
-            "source": "youtube.com",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nieuwe samenwerking moet kankerpati\u00ebnten in Eemland sneller aan hulp helpen",
-            "link": "https://www.dewoudenberger.nl/lokaal/zorg/1330380/nieuwe-samenwerking-moet-kankerpatienten-in-eemland-sneller-a",
-            "publishedDate": "25/11/2026 18:23",
-            "source": "dewoudenberger.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -973,16 +998,22 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
-            "source": "cnv.nl, fnv.nl, lad.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl, zorgwelzijn.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 5,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
                     "source": "zorgwelzijn.nl",
                     "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
                     "publishedDate": "25/11/2026 10:19"
+                },
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
                 },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
@@ -1003,7 +1034,7 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
@@ -1791,17 +1822,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
             "link": "https://propertynl.com/amvest-koopt-22-woon-zorgcomplexen/",
             "publishedDate": "24/11/2026 13:54",
@@ -2127,17 +2147,6 @@
             "source": "nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nascholing \u2018Starten als apotheekhoudend huisarts\u2019 met enthousiasme ontvangen",
-            "link": "https://www.lhv.nl/nieuws/nascholing-starten-als-apotheekhoudend-huisarts-met-enthousiasme-ontvangen/",
-            "publishedDate": "18/11/2026 10:43",
-            "source": "lhv.nl",
-            "category": "Overig",
-            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
