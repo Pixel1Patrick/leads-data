@@ -329,26 +329,35 @@
             "source": "artsenkrant.pmg.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Santhea waarschuwt voor beperkte financi\u00eble marges van Waalse ziekenhuizen",
-                    "source": "artsenkrant.pmg.be",
-                    "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2648E03/EAKbe2647S62_00",
-                    "publishedDate": "25/11/2026 21:01"
-                },
-                {
-                    "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
-                    "source": "artsenkrant.pmg.be",
-                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
-                    "publishedDate": "25/11/2026 21:01"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Apothekers dienden al 30 procent meer griepvaccins toe dan vorig jaar - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAPbe2648S02_00",
+            "publishedDate": "25/11/2026 21:01",
+            "source": "artsenkrant.pmg.be",
+            "category": "Overig",
+            "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Santhea waarschuwt voor beperkte financi\u00eble marges van Waalse ziekenhuizen",
+            "link": "https://artsenkrant.pmg.be/nl/viewer/newsletter/EAKbe2648E03/EAKbe2647S62_00",
+            "publishedDate": "25/11/2026 21:01",
+            "source": "artsenkrant.pmg.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "MAHA-studie 2026: GIBBIS vraagt een transitiefonds - Artsenkrant",
+            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2647S61_00",
             "publishedDate": "25/11/2026 21:01",
             "source": "artsenkrant.pmg.be",
             "category": "Overig",
@@ -424,7 +433,7 @@
                     "publishedDate": "25/11/2026 17:17"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "ZAS wil verregaandere hervorming van het ziekenhuislandschap - GVA",
@@ -558,11 +567,18 @@
             "title": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare",
             "publishedDate": "25/11/2026 18:08",
-            "source": "omroepbrabant.nl",
+            "source": "hilversumsnieuws.nl, omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Erepenning voor Martin Vredenduin uit Ankeveen na tien jaar inzet voor inwoners",
+                    "source": "hilversumsnieuws.nl",
+                    "link": "https://www.hilversumsnieuws.nl/mensen/mensen/383402/erepenning-voor-martin-vredenduin-uit-ankeveen-na-tien-jaar-inzet-voor-inwoners",
+                    "publishedDate": "25/11/2026 08:01"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -748,22 +764,16 @@
             "title": "Nieuwe bedden Tergooi MC maken leven van pati\u00ebnten \u00e9n verpleegkundigen makkelijker",
             "link": "https://www.gooisemerennieuws.nl/zorg-gezondheid/zorg-gezondheid/383445/nieuwe-bedden-tergooi-mc-maken-leven-van-patienten-en-verpleegkundigen-makkelijker-de-rolls-royce-onder-de-bedden-qv27dc",
             "publishedDate": "25/11/2026 16:42",
-            "source": "gooisemerennieuws.nl, hilversumsnieuws.nl, srherald.com",
+            "source": "gooisemerennieuws.nl, hilversumsnieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Nieuwe bedden Tergooi MC maken leven van pati\u00ebnten \u00e9n verpleegkundigen makkelijker",
                     "source": "hilversumsnieuws.nl",
                     "link": "https://www.hilversumsnieuws.nl/zorg-gezondheid/zorg-gezondheid/383423/nieuwe-bedden-tergooi-mc-maken-leven-van-patienten-en-verpleegkundigen-makkelijker-de-rolls-royce-onder-de-bedden",
                     "publishedDate": "25/11/2026 16:31"
-                },
-                {
-                    "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
-                    "source": "srherald.com",
-                    "link": "https://www.srherald.com/suriname/2026/11/25/seh-laat-begeleiders-vanaf-nu-buiten-wachten-na-incident-met-donovan-grep/",
-                    "publishedDate": "25/11/2026 16:14"
                 }
             ],
             "belangrijkheid": 0
@@ -783,18 +793,11 @@
             "title": "Amsterdamse universiteiten en UMC bundelen krachten in medtech - IO+",
             "link": "https://ioplus.nl/nl/posts/amsterdamse-universiteiten-en-umc-bundelen-krachten-in-medtech",
             "publishedDate": "25/11/2026 16:33",
-            "source": "ioplus.nl, zorgkrant.nl",
+            "source": "ioplus.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
-                    "source": "zorgkrant.nl",
-                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
-                    "publishedDate": "25/11/2026 11:05"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -867,6 +870,17 @@
                 }
             ],
             "belangrijkheid": 1
+        },
+        {
+            "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
+            "link": "https://www.srherald.com/suriname/2026/11/25/seh-laat-begeleiders-vanaf-nu-buiten-wachten-na-incident-met-donovan-grep/",
+            "publishedDate": "25/11/2026 16:14",
+            "source": "srherald.com",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie Genspect mede namens ouders Oudergroep Gendervisie en oudergroep Troost mbt afzegging van rondetafelgesprek Transgenderzorg dd 5 november 2026",
@@ -1104,7 +1118,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Crack-epidemie in Nederlandse steden \u2022 Hebben we voldoende zicht op Zembla's neonazi's? - NOS",
@@ -1560,6 +1574,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
+            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
+            "publishedDate": "25/11/2026 11:05",
+            "source": "zorgkrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Voor het eerst sinds 2015 bezoekt Hongaarse premier Oekra\u00efne | Politiek - Head Topics",
             "link": "https://nl.headtopics.com/news/voor-het-eerst-sinds-2015-bezoekt-hongaarse-premier-oekra-ne-90154554",
             "publishedDate": "25/11/2026 11:04",
@@ -1683,17 +1708,6 @@
             "source": "trombosestichting.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Erepenning voor Martin Vredenduin uit Ankeveen na tien jaar inzet voor inwoners",
-            "link": "https://www.hilversumsnieuws.nl/mensen/mensen/383402/erepenning-voor-martin-vredenduin-uit-ankeveen-na-tien-jaar-inzet-voor-inwoners",
-            "publishedDate": "25/11/2026 08:01",
-            "source": "hilversumsnieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
