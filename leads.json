@@ -192,11 +192,18 @@
             "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
             "link": "https://www.deputtenaer.nl/lokaal/politiek/1330862/een-regionaal-expertiseteam-noord-veluwe-voor-complexe-proble",
             "publishedDate": "26/11/2026 16:04",
-            "source": "deputtenaer.nl",
+            "source": "deputtenaer.nl, nieuwsbladdekaap.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Bestuurder Warande vertrekt na verlies rechtszaak Kraaijbeek, organisatie ontkent verband",
+                    "source": "nieuwsbladdekaap.nl",
+                    "link": "https://www.nieuwsbladdekaap.nl/lokaal/maatschappelijk/1330890/bestuurder-warande-vertrekt-na-verlies-rechtszaak-kraaijbeek-",
+                    "publishedDate": "26/11/2026 13:04"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -698,17 +705,6 @@
             "source": "medi-sfeer.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bestuurder Warande vertrekt na verlies rechtszaak Kraaijbeek, organisatie ontkent verband",
-            "link": "https://www.nieuwsbladdekaap.nl/lokaal/maatschappelijk/1330890/bestuurder-warande-vertrekt-na-verlies-rechtszaak-kraaijbeek-",
-            "publishedDate": "26/11/2026 13:04",
-            "source": "nieuwsbladdekaap.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1466,15 +1462,8 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1747,6 +1736,17 @@
             "source": "rug.nl",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+            "publishedDate": "25/11/2026 15:50",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
