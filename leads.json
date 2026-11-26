@@ -207,8 +207,15 @@
             "source": "nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "25/11 in Nieuwsuur: Crackproblemen \u2022 Aanpak neonazi's \u2022 EU-top over begroting - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/nieuwsuur/artikel/2640974-25-11-in-nieuwsuur-crackproblemen-aanpak-neonazi-s-eu-top-over-begroting",
+                    "publishedDate": "26/11/2026 01:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -324,15 +331,8 @@
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-                    "publishedDate": "24/11/2026 10:38"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -482,42 +482,11 @@
             "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
             "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
             "publishedDate": "26/11/2026 06:56",
-            "source": "ad.nl, destentor.nl, drimble.nl, rtvfocuszwolle.nl, stadindex.nl, tubantia.nl",
+            "source": "rtvfocuszwolle.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 7,
-            "extra_bronnen": [
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Zwolle",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/overijssel/zwolle/108712283/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen.html",
-                    "publishedDate": "25/11/2026 23:03"
-                },
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - StadIndex.nl",
-                    "source": "stadindex.nl",
-                    "link": "https://www.stadindex.nl/nederland/3635590-eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
-                    "publishedDate": "25/11/2026 22:10"
-                },
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - Tubantia",
-                    "source": "tubantia.nl",
-                    "link": "https://www.tubantia.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
-                    "publishedDate": "25/11/2026 21:21"
-                },
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - de Stentor",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
-                    "publishedDate": "25/11/2026 21:18"
-                },
-                {
-                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Regio | AD.nl",
-                    "source": "ad.nl",
-                    "link": "https://www.ad.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
-                    "publishedDate": "25/11/2026 21:16"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -633,17 +602,6 @@
             "source": "tubantia.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "25/11 in Nieuwsuur: Crackproblemen \u2022 Aanpak neonazi's \u2022 EU-top over begroting - NOS",
-            "link": "https://nos.nl/nieuwsuur/artikel/2640974-25-11-in-nieuwsuur-crackproblemen-aanpak-neonazi-s-eu-top-over-begroting",
-            "publishedDate": "26/11/2026 01:41",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -807,6 +765,48 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Zwolle",
+            "link": "https://drimble.nl/regio/overijssel/zwolle/108712283/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen.html",
+            "publishedDate": "25/11/2026 23:03",
+            "source": "ad.nl, destentor.nl, drimble.nl, rtvdrenthe.nl, stadindex.nl, tubantia.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 7,
+            "extra_bronnen": [
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - StadIndex.nl",
+                    "source": "stadindex.nl",
+                    "link": "https://www.stadindex.nl/nederland/3635590-eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
+                    "publishedDate": "25/11/2026 22:10"
+                },
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - Tubantia",
+                    "source": "tubantia.nl",
+                    "link": "https://www.tubantia.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
+                    "publishedDate": "25/11/2026 21:21"
+                },
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen - de Stentor",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
+                    "publishedDate": "25/11/2026 21:18"
+                },
+                {
+                    "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Regio | AD.nl",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/zwolle/primeur-isala-mag-eigen-geneesmiddel-verkopen-aan-andere-ziekenhuizen~a9195194/",
+                    "publishedDate": "25/11/2026 21:16"
+                },
+                {
+                    "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
+                    "publishedDate": "25/11/2026 18:04"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1091,17 +1091,6 @@
             "source": "omroepbrabant.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Eigen geneesmiddel van Isala gaat de markt op: 'De spuiten zijn direct klaar voor toediening'",
-            "link": "https://www.rtvdrenthe.nl/nieuws/18979830/eigen-geneesmiddel-van-isala-gaat-de-markt-op-de-spuiten-zijn-direct-klaar-voor-toediening",
-            "publishedDate": "25/11/2026 18:04",
-            "source": "rtvdrenthe.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1972,6 +1961,17 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+            "publishedDate": "24/11/2026 10:38",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
