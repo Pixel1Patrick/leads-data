@@ -1482,21 +1482,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
