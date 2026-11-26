@@ -384,7 +384,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
@@ -723,7 +723,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
@@ -938,33 +938,34 @@
             "title": "Enschede huisartsen parkeerontheffing 403 euro | Economy - Head Topics",
             "link": "https://nl.headtopics.com/news/enschede-huisartsen-parkeerontheffing-403-euro-90194335",
             "publishedDate": "26/11/2026 05:37",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, oost.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Huisartsen in Enschede niet te spreken over nieuwe 'te dure' parkeervergunning - RTV Oost",
+                    "source": "oost.nl",
+                    "link": "https://www.oost.nl/nieuws/3721543/huisartsen-in-enschede-niet-te-spreken-over-nieuwe-te-dure-parkeervergunning",
+                    "publishedDate": "26/11/2026 05:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Zeeuwse huisarts en apotheker bieden samen afslanktraject met medicatie aan - Drimble",
             "link": "https://drimble.nl/regio/zeeland/walcheren/108715757/zeeuwse-huisarts-en-apotheker-bieden-samen-afslanktraject-met-medicatie-aan.html",
             "publishedDate": "26/11/2026 05:28",
-            "source": "drimble.nl, huisartsvandaag.nl, oost.nl",
+            "source": "drimble.nl, huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Zeeuwse huisarts en apotheker bieden samen afslanktraject met medicatie aan",
                     "source": "huisartsvandaag.nl",
                     "link": "https://huisartsvandaag.nl/zeeuwse-huisarts-en-apotheker-bieden-samen-afslanktraject-met-medicatie-aan/",
                     "publishedDate": "26/11/2026 00:30"
-                },
-                {
-                    "title": "Huisartsen in Enschede niet te spreken over nieuwe 'te dure' parkeervergunning - RTV Oost",
-                    "source": "oost.nl",
-                    "link": "https://www.oost.nl/nieuws/3721543/huisartsen-in-enschede-niet-te-spreken-over-nieuwe-te-dure-parkeervergunning",
-                    "publishedDate": "26/11/2026 05:08"
                 }
             ],
             "belangrijkheid": 0
