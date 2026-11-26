@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Grote opluchting bij tanteLouise: energienet in Halsteren heeft toch plek voor een verpleeghuis - PZC",
+            "link": "https://www.pzc.nl/bergen-op-zoom/grote-opluchting-bij-tantelouise-energienet-in-halsteren-heeft-toch-plek-voor-een-verpleeghuis~a121495db/",
+            "publishedDate": "26/11/2026 07:03",
+            "source": "pzc.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 19 november 2026, kenmerk 2026-3216634/IT2114610, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Gonasi 5000 IE, poeder en oplosmiddel voor oplossing voor injectie (RVG 125838)",
             "link": "https://open.overheid.nl/details/oep-ob-787794d1f8b852141b50e1763b5cb265628bce8d_122",
             "publishedDate": "26/11/2026 07:00",
@@ -53,7 +64,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Deze huisartsen willen een gezonde supermarkt beginnen in Zuidoost: 'Ik zie hier veel ... - Het Parool",
@@ -333,7 +344,7 @@
                     "publishedDate": "25/11/2026 18:04"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Brugse bedrijven steunen campagne 'Zeg neen aan geweld tegen vrouwen' - Made in",
@@ -366,7 +377,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gerard (66) is chauffeur voor de huisartsenpost: 'We zijn binnen de medische wereld amper bekend'",
@@ -465,7 +476,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Apothekers dienden al 30 procent meer griepvaccins toe dan vorig jaar - Artsenkrant",
@@ -606,29 +617,29 @@
             "title": "Ozempic- en Mounjaro-makers moeten in VS waarschuwen voor gezichtsverlies",
             "link": "https://www.nieuwsblad.be/buitenland/ozempic-en-mounjaro-makers-moeten-in-vs-waarschuwen-voor-gezichtsverlies/165114023.html",
             "publishedDate": "25/11/2026 19:07",
-            "source": "nieuwsblad.be, tijd.be",
+            "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
-                    "source": "tijd.be",
-                    "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
-                    "publishedDate": "25/11/2026 13:02"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Hamber Jeugdhulp reageert op zorgfraudeberichtgeving: medebestuurder geschorst ...",
             "link": "https://www.nieuwsinalphen.nl/regio-nieuws/params/post/5353987/hamber-jeugdhulp-reageert-op-zorgfraudeberichtgeving-medebestuurder-geschor/",
             "publishedDate": "25/11/2026 19:04",
-            "source": "nieuwsinalphen.nl",
+            "source": "nieuwsinalphen.nl, omroepbrabant.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare",
+                    "publishedDate": "25/11/2026 18:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -696,17 +707,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare - Omroep Brabant",
-            "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare",
-            "publishedDate": "25/11/2026 18:08",
-            "source": "omroepbrabant.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Griep of verkouden: deze huisarts weet wat je w\u00e9l en juist niet moet doen - Omroep Brabant",
@@ -913,22 +913,16 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, zorgwelzijn.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 6,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
                     "source": "zorgwelzijn.nl",
                     "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
                     "publishedDate": "25/11/2026 10:19"
-                },
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
                 },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
@@ -1061,11 +1055,18 @@
             "title": "Drie ziekenhuizen kondigden een pati\u00ebntenstop af door 'omzetplafonds' van Zilveren Kruis ... - NRC",
             "link": "https://www.nrc.nl/nieuws/2026/11/25/drie-ziekenhuizen-kondigden-een-patientenstop-af-door-omzetplafonds-van-zilveren-kruis-zo-stimuleren-wij-passende-zorg-verdedigt-de-topman-zich-a4942088",
             "publishedDate": "25/11/2026 15:35",
-            "source": "nrc.nl",
+            "source": "metronieuws.nl, nrc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Wel plek in de kliniek, maar het budget van Zilveren Kruis is op: Arjan uit Zwolle staat voor ...",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/in-het-nieuws/binnenland/2026/11/wel-plek-in-kliniek-budget-zilveren-kruis-is-op-arja-zwolle-dichte-deur/",
+                    "publishedDate": "25/11/2026 14:41"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -1164,17 +1165,6 @@
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Wel plek in de kliniek, maar het budget van Zilveren Kruis is op: Arjan uit Zwolle staat voor ...",
-            "link": "https://www.metronieuws.nl/in-het-nieuws/binnenland/2026/11/wel-plek-in-kliniek-budget-zilveren-kruis-is-op-arja-zwolle-dichte-deur/",
-            "publishedDate": "25/11/2026 14:41",
-            "source": "metronieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1474,24 +1464,30 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
             "belangrijkheid": 0
         },
         {
-            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-            "publishedDate": "25/11/2026 13:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
+            "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
+            "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
+            "publishedDate": "25/11/2026 13:02",
+            "source": "tijd.be",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1879,6 +1875,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
