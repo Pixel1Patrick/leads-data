@@ -22,7 +22,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Rectificatie van Besluit Inspectie Gezondheidszorg en Jeugd van 9 oktober 2026, kenmerk 2026-3214356/IT2114531, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Depakine Chronosphere 100 mg, granulaat met gereguleerde afgifte (RVG 30759)",
@@ -61,16 +61,16 @@
             "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
             "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
             "publishedDate": "26/11/2026 13:11",
-            "source": "omroepbrabant.nl, parool.nl",
+            "source": "dewoudenberger.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
-                    "title": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare",
-                    "publishedDate": "25/11/2026 18:08"
+                    "title": "Woudenberg trekt extra geld uit voor jeugdzorg, ondanks juridische bezwaren",
+                    "source": "dewoudenberger.nl",
+                    "link": "https://www.dewoudenberger.nl/lokaal/politiek/1329565/woudenberg-trekt-extra-geld-uit-voor-jeugdzorg-ondanks-juridi",
+                    "publishedDate": "26/11/2026 07:13"
                 }
             ],
             "belangrijkheid": 1
@@ -185,22 +185,18 @@
             "title": "Faillissementen KBN Montage en Dalfse zorginstelling | Nieuws - Head Topics",
             "link": "https://nl.headtopics.com/news/faillissementen-kbn-montage-en-dalfse-zorginstelling-90204171",
             "publishedDate": "26/11/2026 11:50",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, oost.nl",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kozijnenhandelaar, zorgbureau en vuurhaarden: deze bedrijven gingen failliet - RTV Oost",
-            "link": "https://www.oost.nl/nieuws/3723277/kozijnenhandelaar-zorgbureau-en-vuurhaarden-deze-bedrijven-gingen-failliet",
-            "publishedDate": "26/11/2026 11:39",
-            "source": "oost.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kozijnenhandelaar, zorgbureau en vuurhaarden: deze bedrijven gingen failliet - RTV Oost",
+                    "source": "oost.nl",
+                    "link": "https://www.oost.nl/nieuws/3723277/kozijnenhandelaar-zorgbureau-en-vuurhaarden-deze-bedrijven-gingen-failliet",
+                    "publishedDate": "26/11/2026 11:39"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -223,17 +219,30 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 11:35",
-            "source": "cnv.nl",
+            "source": "cnv.nl, fnv.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+                    "publishedDate": "26/11/2026 09:31"
+                },
+                {
+                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+                    "publishedDate": "25/11/2026 10:43"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -559,17 +568,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-            "publishedDate": "26/11/2026 09:31",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
             "link": "https://www.eemskrant.nl/groninger-zorgakkoord-zoekt-nieuwe-zorgontdekkers/",
             "publishedDate": "26/11/2026 09:22",
@@ -600,7 +598,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Zorginstituut adviseert Rasonque en Tuksya in sluis te plaatsen - Pharmaceutisch Weekblad",
@@ -746,17 +744,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Woudenberg trekt extra geld uit voor jeugdzorg, ondanks juridische bezwaren",
-            "link": "https://www.dewoudenberger.nl/lokaal/politiek/1329565/woudenberg-trekt-extra-geld-uit-voor-jeugdzorg-ondanks-juridi",
-            "publishedDate": "26/11/2026 07:13",
-            "source": "dewoudenberger.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Grote opluchting bij tanteLouise: energienet in Halsteren heeft toch plek voor een verpleeghuis - PZC",
             "link": "https://www.pzc.nl/bergen-op-zoom/grote-opluchting-bij-tantelouise-energienet-in-halsteren-heeft-toch-plek-voor-een-verpleeghuis~a121495db/",
             "publishedDate": "26/11/2026 07:03",
@@ -776,7 +763,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "4. Conclusie en discussie | CBS",
@@ -804,33 +791,34 @@
             "title": "Enschede huisartsen parkeerontheffing 403 euro | Economy - Head Topics",
             "link": "https://nl.headtopics.com/news/enschede-huisartsen-parkeerontheffing-403-euro-90194335",
             "publishedDate": "26/11/2026 05:37",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, oost.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Huisartsen in Enschede niet te spreken over nieuwe 'te dure' parkeervergunning - RTV Oost",
+                    "source": "oost.nl",
+                    "link": "https://www.oost.nl/nieuws/3721543/huisartsen-in-enschede-niet-te-spreken-over-nieuwe-te-dure-parkeervergunning",
+                    "publishedDate": "26/11/2026 05:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Zeeuwse huisarts en apotheker bieden samen afslanktraject met medicatie aan - Drimble",
             "link": "https://drimble.nl/regio/zeeland/walcheren/108715757/zeeuwse-huisarts-en-apotheker-bieden-samen-afslanktraject-met-medicatie-aan.html",
             "publishedDate": "26/11/2026 05:28",
-            "source": "drimble.nl, huisartsvandaag.nl, oost.nl",
+            "source": "drimble.nl, huisartsvandaag.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Zeeuwse huisarts en apotheker bieden samen afslanktraject met medicatie aan",
                     "source": "huisartsvandaag.nl",
                     "link": "https://huisartsvandaag.nl/zeeuwse-huisarts-en-apotheker-bieden-samen-afslanktraject-met-medicatie-aan/",
                     "publishedDate": "26/11/2026 00:30"
-                },
-                {
-                    "title": "Huisartsen in Enschede niet te spreken over nieuwe 'te dure' parkeervergunning - RTV Oost",
-                    "source": "oost.nl",
-                    "link": "https://www.oost.nl/nieuws/3721543/huisartsen-in-enschede-niet-te-spreken-over-nieuwe-te-dure-parkeervergunning",
-                    "publishedDate": "26/11/2026 05:08"
                 }
             ],
             "belangrijkheid": 0
@@ -875,6 +863,17 @@
             "source": "gva.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "LHV, Verenso en KNMG: investeer in extramurale artsen en voorkom nieuwe regeldruk",
+            "link": "https://www.lhv.nl/nieuws/lhv-verenso-en-knmg-investeer-in-extramurale-artsen-en-voorkom-nieuwe-regeldruk/",
+            "publishedDate": "26/11/2026 03:20",
+            "source": "lhv.nl",
+            "category": "Overig",
+            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1245,6 +1244,17 @@
             "source": "gld.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare - Omroep Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare",
+            "publishedDate": "25/11/2026 18:08",
+            "source": "omroepbrabant.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1955,17 +1965,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-            "publishedDate": "25/11/2026 10:43",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Een nieuwe weg voor de plasbuis - UMC Utrecht",
             "link": "https://www.umcutrecht.nl/nieuws/een-nieuwe-weg-voor-de-plasbuis",
             "publishedDate": "25/11/2026 09:45",
@@ -2058,7 +2057,7 @@
             "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
@@ -2134,17 +2133,6 @@
             "category": "Overig",
             "feed_label": "Medisch Contact",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "LHV kritisch op terugvorderen van eerder betaalde declaraties",
-            "link": "https://www.lhv.nl/nieuws/lhv-kritisch-op-terugvorderen-van-eerder-betaalde-declaraties/",
-            "publishedDate": "24/11/2026 06:33",
-            "source": "lhv.nl",
-            "category": "Overig",
-            "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
