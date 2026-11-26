@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
+            "publishedDate": "26/11/2026 09:29",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Huisarts onthouden van werk na alcoholgebruik: tuchtzaak 8 december",
             "link": "https://www.tuchtcollege-gezondheidszorg.nl/actueel/nieuws/2026/11/26/huisarts-onthouden-van-werk-na-alcoholgebruik-tuchtzaak-8-december",
             "publishedDate": "26/11/2026 09:21",
@@ -483,8 +494,15 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -601,18 +619,11 @@
             "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
             "link": "https://nl.headtopics.com/news/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-90185377",
             "publishedDate": "25/11/2026 20:29",
-            "source": "nl.headtopics.com, omroepwest.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
-                    "source": "omroepwest.nl",
-                    "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
-                    "publishedDate": "25/11/2026 20:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -622,6 +633,17 @@
             "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
+            "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
+            "publishedDate": "25/11/2026 20:07",
+            "source": "omroepwest.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -862,11 +884,18 @@
             "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
             "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
             "publishedDate": "25/11/2026 17:17",
-            "source": "vgn.nl",
+            "source": "jeugdzorgnederland.nl, vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
+                    "source": "jeugdzorgnederland.nl",
+                    "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
+                    "publishedDate": "25/11/2026 16:54"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -899,17 +928,6 @@
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
-            "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
-            "publishedDate": "25/11/2026 16:54",
-            "source": "jeugdzorgnederland.nl",
-            "category": "Overig",
-            "feed_label": "Jeugdzorg Nederland",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1075,17 +1093,6 @@
             "source": "centraalplus.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-            "publishedDate": "25/11/2026 15:50",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1442,11 +1449,18 @@
             "title": "SEH wil erkende bijscholing als alternatief voor Wft-PE-examen - InFinance",
             "link": "https://infinance.nl/artikel/seh-wil-erkende-bijscholing-als-alternatief-voor-wft-pe-examen/",
             "publishedDate": "25/11/2026 13:27",
-            "source": "infinance.nl",
+            "source": "amweb.nl, infinance.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Open brief aan Financi\u00ebn: SEH vreest minder adviseurs \u00e9n minder examens - AMweb",
+                    "source": "amweb.nl",
+                    "link": "https://www.amweb.nl/161049/open-brief-aan-financien-seh-vreest-minder-adviseurs-en-minder-examens",
+                    "publishedDate": "25/11/2026 11:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1496,26 +1510,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-            "publishedDate": "25/11/2026 13:10",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1547,17 +1556,6 @@
             "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Open brief aan Financi\u00ebn: SEH vreest minder adviseurs \u00e9n minder examens - AMweb",
-            "link": "https://www.amweb.nl/161049/open-brief-aan-financien-seh-vreest-minder-adviseurs-en-minder-examens",
-            "publishedDate": "25/11/2026 11:36",
-            "source": "amweb.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1677,7 +1675,7 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "N=5 vervolgt bekroonde contentcampagne Uit Balans - Marketing Report",
