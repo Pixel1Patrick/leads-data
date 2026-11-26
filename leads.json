@@ -19,6 +19,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Afbakening jeugdhulp geen oplossing voor stijgende kosten - Binnenlands Bestuur",
+            "link": "https://www.binnenlandsbestuur.nl/sociaal/afbakening-jeugdhulp-geen-oplossing-voor-stijgende-kosten",
+            "publishedDate": "26/11/2026 16:57",
+            "source": "binnenlandsbestuur.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
             "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
             "publishedDate": "26/11/2026 16:44",
@@ -60,6 +71,17 @@
             "source": "telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Kinderen helpen de stilte te doorbreken - UMC Utrecht",
+            "link": "https://www.umcutrecht.nl/nieuws/kinderen-helpen-de-stilte-te-doorbreken",
+            "publishedDate": "26/11/2026 16:30",
+            "source": "umcutrecht.nl",
+            "category": "Zorgaanbieders",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -152,22 +174,54 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "lad.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
+                {
+                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+                    "publishedDate": "24/11/2026 11:08"
+                },
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
             "title": "Ziekenhuizen Nij Smellinghe en Antonius onderzoeken bestuurlijke fusie - Omrop Frysl\u00e2n",
             "link": "https://www.omropfryslan.nl/nl/nieuws/18982998/ziekenhuizen-nij-smellinghe-en-antonius-onderzoeken-bestuurlijke-fusie",
             "publishedDate": "26/11/2026 16:00",
-            "source": "omropfryslan.nl",
+            "source": "omropfryslan.nl, tvl.be",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Limburgse ziekenhuizen financieel kwetsbaar in 2025 | TVL",
+                    "source": "tvl.be",
+                    "link": "https://www.tvl.be/nieuws/limburgse-ziekenhuizen-blijven-financieel-kwetsbaar-184500",
+                    "publishedDate": "26/11/2026 14:03"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -367,18 +421,11 @@
             "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
             "publishedDate": "26/11/2026 14:41",
-            "source": "pw.nl, rivm.nl",
+            "source": "pw.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
-                    "publishedDate": "24/11/2026 13:53"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -509,7 +556,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Mega-operatie in ziekenhuis Tergooi: alle 345 bedden worden vervangen - NH Nieuws",
@@ -517,17 +564,6 @@
             "publishedDate": "26/11/2026 14:11",
             "source": "nhnieuws.nl",
             "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Limburgse ziekenhuizen financieel kwetsbaar in 2025 | TVL",
-            "link": "https://www.tvl.be/nieuws/limburgse-ziekenhuizen-blijven-financieel-kwetsbaar-184500",
-            "publishedDate": "26/11/2026 14:03",
-            "source": "tvl.be",
-            "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1410,15 +1446,8 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1751,6 +1780,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+            "publishedDate": "25/11/2026 15:50",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Handreiking Duurzaamheid in de strategie",
             "link": "https://www.vgn.nl/nieuws/handreiking-duurzaamheid-de-strategie",
             "publishedDate": "25/11/2026 15:32",
@@ -2042,42 +2082,23 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
-                },
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Amvest koopt 22 woon-zorgcomplexen - PropertyNL | Voorop in vastgoed",
             "link": "https://propertynl.com/amvest-koopt-22-woon-zorgcomplexen/",
             "publishedDate": "24/11/2026 13:54",
             "source": "propertynl.com",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
+            "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
+            "publishedDate": "24/11/2026 13:53",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
