@@ -92,12 +92,25 @@
             "title": "'Finaal is de pati\u00ebnt de dupe': drie op de vier ziekenhuizen financieel kwetsbaar",
             "link": "https://www.demorgen.be/nieuws/finaal-is-de-patient-de-dupe-drie-op-de-vier-ziekenhuizen-financieel-kwetsbaar~bb484f71b/",
             "publishedDate": "26/11/2026 04:34",
-            "source": "demorgen.be",
+            "source": "artsenkrant.pmg.be, dekrantenkoppen.be, demorgen.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Ziekenhuizen zitten in slechte papieren: \u201cDe overheid is geen betrouwbare partner meer\u201d",
+                    "source": "dekrantenkoppen.be",
+                    "link": "https://www.dekrantenkoppen.be/detail/4003523/ziekenhuizen-zitten-in-slechte-papieren-de-overheid-is-geen-betrouwbare-partner-meer.html",
+                    "publishedDate": "25/11/2026 22:43"
+                },
+                {
+                    "title": "Zorgnet-Icuro: ziekenhuizen hebben geen financi\u00eble ruimte meer - Artsenkrant",
+                    "source": "artsenkrant.pmg.be",
+                    "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2648S30_00",
+                    "publishedDate": "25/11/2026 21:01"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Deze huisartsen willen een gezonde supermarkt beginnen in Zuidoost: 'Ik zie hier veel ... - Het Parool",
@@ -396,17 +409,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Ziekenhuizen zitten in slechte papieren: \u201cDe overheid is geen betrouwbare partner meer\u201d",
-            "link": "https://www.dekrantenkoppen.be/detail/4003523/ziekenhuizen-zitten-in-slechte-papieren-de-overheid-is-geen-betrouwbare-partner-meer.html",
-            "publishedDate": "25/11/2026 22:43",
-            "source": "dekrantenkoppen.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gerard (66) is chauffeur voor de huisartsenpost: 'We zijn binnen de medische wereld amper bekend'",
             "link": "https://www.bd.nl/waalwijk/gerard-66-is-chauffeur-voor-de-huisartsenpost-we-zijn-binnen-de-medische-wereld-amper-bekend~ae37b385/",
             "publishedDate": "25/11/2026 22:25",
@@ -495,17 +497,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Zorgnet-Icuro: ziekenhuizen hebben geen financi\u00eble ruimte meer - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAKbe2648S30_00",
-            "publishedDate": "25/11/2026 21:01",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Apothekers dienden al 30 procent meer griepvaccins toe dan vorig jaar - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/newsletter/EAKbe2648E03/EAPbe2648S02_00",
             "publishedDate": "25/11/2026 21:01",
@@ -542,11 +533,18 @@
             "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
             "link": "https://nl.headtopics.com/news/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-90185377",
             "publishedDate": "25/11/2026 20:29",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, omroepwest.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
+                    "source": "omroepwest.nl",
+                    "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
+                    "publishedDate": "25/11/2026 20:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -561,50 +559,14 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
-            "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
-            "publishedDate": "25/11/2026 20:07",
-            "source": "omroepwest.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Aantal coronagevallen neemt snel toe - Welingelichte Kringen",
             "link": "https://www.welingelichtekringen.nl/samenleving/aantal-coronagevallen-neemt-snel-toe",
             "publishedDate": "25/11/2026 19:48",
-            "source": "nl.headtopics.com, omroepbrabant.nl, telegraaf.nl, welingelichtekringen.nl",
+            "source": "welingelichtekringen.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "Aantal coronagevallen neemt toe, ook piek in Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6036184/aantal-coronagevallen-neemt-toe-ook-piek-in-brabant",
-                    "publishedDate": "25/11/2026 19:14"
-                },
-                {
-                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-90182617",
-                    "publishedDate": "25/11/2026 18:29"
-                },
-                {
-                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Omroep Brabant",
-                    "source": "omroepbrabant.nl",
-                    "link": "https://www.omroepbrabant.nl/nieuws/6036184/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-het-beste",
-                    "publishedDate": "25/11/2026 18:06"
-                },
-                {
-                    "title": "Aantal coronagevallen neemt snel toe: gestegen naar het hoogste niveau sinds pandemie",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/binnenland/aantal-coronagevallen-neemt-snel-toe-gestegen-naar-het-hoogste-niveau-sinds-pandemie/165105802.html",
-                    "publishedDate": "25/11/2026 17:17"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -628,6 +590,36 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Aantal coronagevallen neemt toe, ook piek in Brabant",
+            "link": "https://www.omroepbrabant.nl/nieuws/6036184/aantal-coronagevallen-neemt-toe-ook-piek-in-brabant",
+            "publishedDate": "25/11/2026 19:14",
+            "source": "nl.headtopics.com, omroepbrabant.nl, telegraaf.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-90182617",
+                    "publishedDate": "25/11/2026 18:29"
+                },
+                {
+                    "title": "Corona bereikt hoogste niveau sinds pandemie: 'Uitzieken is het beste' - Omroep Brabant",
+                    "source": "omroepbrabant.nl",
+                    "link": "https://www.omroepbrabant.nl/nieuws/6036184/corona-bereikt-hoogste-niveau-sinds-pandemie-uitzieken-is-het-beste",
+                    "publishedDate": "25/11/2026 18:06"
+                },
+                {
+                    "title": "Aantal coronagevallen neemt snel toe: gestegen naar het hoogste niveau sinds pandemie",
+                    "source": "telegraaf.nl",
+                    "link": "https://www.telegraaf.nl/binnenland/aantal-coronagevallen-neemt-snel-toe-gestegen-naar-het-hoogste-niveau-sinds-pandemie/165105802.html",
+                    "publishedDate": "25/11/2026 17:17"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Traditie in Vilsteren: levende kerstwandeltocht op 26 december | Regio | De Stentor.nl",
@@ -1005,7 +997,7 @@
                     "publishedDate": "24/11/2026 07:00"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
@@ -1243,7 +1235,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Woensdrecht betaalt deel mee aan collectieve zorgverzekering voor inwoners met lager inkomen",
