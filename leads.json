@@ -186,53 +186,28 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
             "link": "https://www.deputtenaer.nl/lokaal/politiek/1330862/een-regionaal-expertiseteam-noord-veluwe-voor-complexe-proble",
             "publishedDate": "26/11/2026 16:04",
-            "source": "deputtenaer.nl, open.overheid.nl",
+            "source": "deputtenaer.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027 - 2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/2da7f0aa-a431-4089-afd6-26dcd5e56714",
-                    "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
-                    "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-                    "publishedDate": "25/11/2026 13:10"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl, petities.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 6,
+            "duplicate_count": 5,
             "extra_bronnen": [
-                {
-                    "title": "Zorg voor \u00e9chte waardering van zorgprofessionals in de ggz in de cao - Petities.nl",
-                    "source": "petities.nl",
-                    "link": "https://petities.nl/petities/zorg-voor-echte-waardering-van-zorgprofessionals-in-de-ggz-in-de-cao",
-                    "publishedDate": "26/11/2026 11:28"
-                },
                 {
                     "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
                     "source": "nu91.nl",
@@ -286,11 +261,18 @@
             "title": "Tekort aan RS-vaccins voor volwassenen in meerdere regio's: 'Konden het vorige week niet ...",
             "link": "https://www.ed.nl/gezond/tekort-aan-rs-vaccins-voor-volwassenen-in-meerdere-regios-konden-het-vorige-week-niet-bestellen~af28964a/",
             "publishedDate": "26/11/2026 15:47",
-            "source": "ed.nl",
+            "source": "ed.nl, eenvandaag.avrotros.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Door aanhoudend medicijntekort kan Jolke vaak niet aan medicijnen voor dochter (14) komen",
+                    "source": "eenvandaag.avrotros.nl",
+                    "link": "https://eenvandaag.avrotros.nl/artikelen/door-aanhoudend-medicijntekort-kan-jolke-vaak-niet-aan-medicijnen-voor-dochter-14-komen-165488",
+                    "publishedDate": "25/11/2026 18:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -440,11 +422,18 @@
             "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
             "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
             "publishedDate": "26/11/2026 14:41",
-            "source": "omroeppenm.nl",
+            "source": "l1nieuws.nl, omroeppenm.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
+                    "publishedDate": "26/11/2026 13:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -655,17 +644,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
-            "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
-            "publishedDate": "26/11/2026 13:38",
-            "source": "l1nieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gemeenten Kop van Noord-Holland zetten volgende stap in regionale samenwerking",
             "link": "https://www.schagen.nl/gemeenten-kop-van-noord-holland-zetten-volgende-stap-regionale-samenwerking",
             "publishedDate": "26/11/2026 13:30",
@@ -834,12 +812,19 @@
             "title": "Tweede Kamer debatteert over ADHD-medicijnen voor crackverslaafden - Head Topics",
             "link": "https://nl.headtopics.com/news/tweede-kamer-debatteert-over-adhd-medicijnen-voor-90204306",
             "publishedDate": "26/11/2026 12:08",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, nos.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
+                    "publishedDate": "26/11/2026 10:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Ozempic kan mogelijk de kwaliteit van sperma verbeteren | TAGMAG",
@@ -914,6 +899,17 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorg voor \u00e9chte waardering van zorgprofessionals in de ggz in de cao - Petities.nl",
+            "link": "https://petities.nl/petities/zorg-voor-echte-waardering-van-zorgprofessionals-in-de-ggz-in-de-cao",
+            "publishedDate": "26/11/2026 11:28",
+            "source": "petities.nl",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -996,17 +992,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
-            "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
-            "publishedDate": "26/11/2026 10:38",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
@@ -1484,8 +1469,15 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1583,17 +1575,6 @@
             "source": "nieuwsinalphen.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Door aanhoudend medicijntekort kan Jolke vaak niet aan medicijnen voor dochter (14) komen",
-            "link": "https://eenvandaag.avrotros.nl/artikelen/door-aanhoudend-medicijntekort-kan-jolke-vaak-niet-aan-medicijnen-voor-dochter-14-komen-165488",
-            "publishedDate": "25/11/2026 18:41",
-            "source": "eenvandaag.avrotros.nl",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1742,7 +1723,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "SEH laat begeleiders vanaf nu buiten wachten na incident met Donovan Grep",
@@ -1791,17 +1772,6 @@
             "source": "centraalplus.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-            "publishedDate": "25/11/2026 15:50",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1947,6 +1917,30 @@
                     "title": "Kamerbrief inzake Aanbieding factsheet Artsencollectief Windwiki m.b.t. windturbinegeluid",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/69c51827-4166-4239-a7a1-33836766cf13",
+                    "publishedDate": "25/11/2026 13:10"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027 - 2029",
+            "link": "https://open.overheid.nl/details/2da7f0aa-a431-4089-afd6-26dcd5e56714",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
+                    "publishedDate": "25/11/2026 13:10"
+                },
+                {
+                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
                     "publishedDate": "25/11/2026 13:10"
                 }
             ],
