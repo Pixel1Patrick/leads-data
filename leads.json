@@ -630,10 +630,10 @@
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
             "link": "https://ggz.nl/actualiteiten/2026/medische-verwijsroute-naar-jeugdhulp-blijft-behouden/",
             "publishedDate": "25/11/2026 17:54",
-            "source": "denederlandseggz.nl, ggz.nl, jeugdzorgnederland.nl",
+            "source": "denederlandseggz.nl, ggz.nl, open.overheid.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[GGZ] Medische verwijsroute naar jeugdhulp blijft behouden",
@@ -642,10 +642,10 @@
                     "publishedDate": "16/11/2026 13:54"
                 },
                 {
-                    "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
-                    "publishedDate": "25/11/2026 16:54"
+                    "title": "Onderzoek naar de prikkelwerking en gevolgen van inhoudelijke afbakening van de Jeugdwet",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/01fc0e0a-a16f-4876-9cd8-8c5d714a7da5",
+                    "publishedDate": "24/11/2026 17:12"
                 }
             ],
             "belangrijkheid": 0
@@ -764,6 +764,17 @@
             "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
+            "publishedDate": "25/11/2026 16:54",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Jeugdzorg Nederland",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1434,21 +1445,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1499,18 +1515,11 @@
             "title": "Pharming zet productie medicijn stop na niet-geslaagde test - Nieuws.nl",
             "link": "https://nieuws.nl/economie/pharming-zet-productie-medicijn-stop-na-niet-geslaagde-test",
             "publishedDate": "25/11/2026 11:34",
-            "source": "nieuws.nl, nu.nl",
+            "source": "nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
-                    "source": "nu.nl",
-                    "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
-                    "publishedDate": "25/11/2026 11:21"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1533,6 +1542,24 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
+            "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
+            "publishedDate": "25/11/2026 11:21",
+            "source": "lhv.nl, nu.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Reactie LHV op Nivel-rapport over dwingende controle",
+                    "source": "lhv.nl",
+                    "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
+                    "publishedDate": "25/11/2026 11:11"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1571,17 +1598,6 @@
             "source": "alzheimer-nederland.nl",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Reactie LHV op Nivel-rapport over dwingende controle",
-            "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
-            "publishedDate": "25/11/2026 11:11",
-            "source": "lhv.nl",
-            "category": "Overig",
-            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1809,17 +1825,6 @@
             "source": "vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Onderzoek naar de prikkelwerking en gevolgen van inhoudelijke afbakening van de Jeugdwet",
-            "link": "https://open.overheid.nl/details/01fc0e0a-a16f-4876-9cd8-8c5d714a7da5",
-            "publishedDate": "24/11/2026 17:12",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
