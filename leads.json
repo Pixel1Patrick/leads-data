@@ -210,16 +210,16 @@
             "title": "Ziekenhuizen Nij Smellinghe en Antonius onderzoeken bestuurlijke fusie - Omrop Frysl\u00e2n",
             "link": "https://www.omropfryslan.nl/nl/nieuws/18982998/ziekenhuizen-nij-smellinghe-en-antonius-onderzoeken-bestuurlijke-fusie",
             "publishedDate": "26/11/2026 16:00",
-            "source": "l1nieuws.nl, omropfryslan.nl",
+            "source": "omropfryslan.nl, tvl.be",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 2,
             "extra_bronnen": [
                 {
-                    "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
-                    "source": "l1nieuws.nl",
-                    "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
-                    "publishedDate": "26/11/2026 13:38"
+                    "title": "Limburgse ziekenhuizen financieel kwetsbaar in 2025 | TVL",
+                    "source": "tvl.be",
+                    "link": "https://www.tvl.be/nieuws/limburgse-ziekenhuizen-blijven-financieel-kwetsbaar-184500",
+                    "publishedDate": "26/11/2026 14:03"
                 }
             ],
             "belangrijkheid": 0
@@ -570,17 +570,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Limburgse ziekenhuizen financieel kwetsbaar in 2025 | TVL",
-            "link": "https://www.tvl.be/nieuws/limburgse-ziekenhuizen-blijven-financieel-kwetsbaar-184500",
-            "publishedDate": "26/11/2026 14:03",
-            "source": "tvl.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Losser verkoopt grond voor nieuwbouw van huisartsenpraktijk De Sl\u00f6ttel | Regio | AD.nl",
             "link": "https://www.ad.nl/losser/losser-verkoopt-grond-voor-nieuwbouw-van-huisartsenpraktijk-slottel~a070da6e/",
             "publishedDate": "26/11/2026 13:50",
@@ -615,6 +604,17 @@
             "publishedDate": "26/11/2026 13:38",
             "source": "security.nl",
             "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
+            "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
+            "publishedDate": "26/11/2026 13:38",
+            "source": "l1nieuws.nl",
+            "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -956,11 +956,18 @@
             "title": "Uitstelbrief op Kamervragen van het lid Vervuurt (D66) over het artikel 'Van winstdeal naar strop: het laboratoriumdrama van Gelre ziekenhuizen'",
             "link": "https://open.overheid.nl/details/71623609-591b-4ac2-a3d4-180daffafbc2",
             "publishedDate": "26/11/2026 10:51",
-            "source": "open.overheid.nl",
+            "source": "gld.nl, open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Tonnen aan terugvordering: maar miljoenen onderzocht Apeldoorn niet - Omroep Gelderland",
+                    "source": "gld.nl",
+                    "link": "https://www.gld.nl/nieuws/8551378/tonnen-aan-terugvordering-maar-miljoenen-onderzocht-apeldoorn-niet",
+                    "publishedDate": "25/11/2026 18:20"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1572,17 +1579,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Tonnen aan terugvordering: maar miljoenen onderzocht Apeldoorn niet - Omroep Gelderland",
-            "link": "https://www.gld.nl/nieuws/8551378/tonnen-aan-terugvordering-maar-miljoenen-onderzocht-apeldoorn-niet",
-            "publishedDate": "25/11/2026 18:20",
-            "source": "gld.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Zestien kinderen nog altijd zonder oplossing na sluiten Villa ExpertCare - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036170/zestien-kinderen-nog-altijd-zonder-oplossing-na-sluiten-villa-expertcare",
             "publishedDate": "25/11/2026 18:08",
@@ -1591,7 +1587,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
