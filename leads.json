@@ -89,18 +89,11 @@
             "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
             "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
             "publishedDate": "26/11/2026 10:38",
-            "source": "nos.nl, scientias.nl",
+            "source": "nos.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "ADHD-medicatie tijdens zwangerschap: hoe veilig is dat voor het kind? - Scientias",
-                    "source": "scientias.nl",
-                    "link": "https://scientias.nl/adhd-medicatie-tijdens-zwangerschap-hoe-veilig-is-dat-voor-het-kind/",
-                    "publishedDate": "26/11/2026 08:32"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -234,6 +227,17 @@
             "source": "kliknieuwsdenbosch.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "ADHD-medicatie tijdens zwangerschap: hoe veilig is dat voor het kind? - Scientias",
+            "link": "https://scientias.nl/adhd-medicatie-tijdens-zwangerschap-hoe-veilig-is-dat-voor-het-kind/",
+            "publishedDate": "26/11/2026 08:32",
+            "source": "scientias.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1226,7 +1230,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Afgelopen week 3 meldingen van de gemeente over onder meer bomenkap in Heerde",
