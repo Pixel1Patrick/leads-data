@@ -75,17 +75,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 19 november 2026, kenmerk 2026-3216634/IT2114610, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Gonasi 5000 IE, poeder en oplosmiddel voor oplossing voor injectie (RVG 125838)",
-            "link": "https://open.overheid.nl/details/oep-ob-787794d1f8b852141b50e1763b5cb265628bce8d_147",
-            "publishedDate": "26/11/2026 11:03",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Uitstelbrief op Kamervragen van het lid Vervuurt (D66) over het artikel 'Van winstdeal naar strop: het laboratoriumdrama van Gelre ziekenhuizen'",
             "link": "https://open.overheid.nl/details/71623609-591b-4ac2-a3d4-180daffafbc2",
             "publishedDate": "26/11/2026 10:51",
@@ -100,11 +89,18 @@
             "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
             "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
             "publishedDate": "26/11/2026 10:38",
-            "source": "nos.nl",
+            "source": "nos.nl, scientias.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "ADHD-medicatie tijdens zwangerschap: hoe veilig is dat voor het kind? - Scientias",
+                    "source": "scientias.nl",
+                    "link": "https://scientias.nl/adhd-medicatie-tijdens-zwangerschap-hoe-veilig-is-dat-voor-het-kind/",
+                    "publishedDate": "26/11/2026 08:32"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -238,17 +234,6 @@
             "source": "kliknieuwsdenbosch.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "ADHD-medicatie tijdens zwangerschap: hoe veilig is dat voor het kind? - Scientias",
-            "link": "https://scientias.nl/adhd-medicatie-tijdens-zwangerschap-hoe-veilig-is-dat-voor-het-kind/",
-            "publishedDate": "26/11/2026 08:32",
-            "source": "scientias.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -616,22 +601,24 @@
             "title": "Isra\u00ebl woest op Amnesty International: verspreidt 'valse verhalen van Hamas' over genocide in Gaza",
             "link": "https://www.telegraaf.nl/buitenland/israel-woest-op-amnesty-international-na-beschuldiging-belemmeren-zwangerschappen-in-gaza-valse-verhalen-van-hamas-verspreid/165065392.html",
             "publishedDate": "26/11/2026 00:01",
-            "source": "telegraaf.nl",
+            "source": "nieuws.marokko.nl, telegraaf.nl, volkskrant.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
-            "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
-            "publishedDate": "25/11/2026 23:33",
-            "source": "volkskrant.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
+                    "source": "volkskrant.nl",
+                    "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
+                    "publishedDate": "25/11/2026 23:33"
+                },
+                {
+                    "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
+                    "source": "nieuws.marokko.nl",
+                    "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
+                    "publishedDate": "25/11/2026 21:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -707,17 +694,6 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
-            "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
-            "publishedDate": "25/11/2026 21:42",
-            "source": "nieuws.marokko.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -962,7 +938,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Medische verwijsroute naar jeugdhulp blijft behouden - GGZ",
@@ -1250,7 +1226,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Afgelopen week 3 meldingen van de gemeente over onder meer bomenkap in Heerde",
@@ -1391,18 +1367,12 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/6d50665a-350d-45b6-93dd-787a262b7581",
-                    "publishedDate": "25/11/2026 14:08"
-                },
-                {
-                    "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
                     "publishedDate": "25/11/2026 14:08"
                 }
             ],
@@ -1411,6 +1381,17 @@
         {
             "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
             "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
+            "publishedDate": "25/11/2026 14:08",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
+            "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
             "publishedDate": "25/11/2026 14:08",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1821,6 +1802,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Onderzoek naar de prikkelwerking en gevolgen van inhoudelijke afbakening van de Jeugdwet",
+            "link": "https://open.overheid.nl/details/01fc0e0a-a16f-4876-9cd8-8c5d714a7da5",
+            "publishedDate": "24/11/2026 17:12",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief Verslag Schriftelijk Overleg inzake het rapport van het RISE-onderzoek naar de oorzaken en achtergronden van de stijging van euthanasie",
             "link": "https://open.overheid.nl/details/cfc12571-0991-47c7-89a6-38e3bf9a7c0c",
             "publishedDate": "24/11/2026 16:41",
@@ -1836,6 +1828,17 @@
                     "publishedDate": "24/11/2026 16:41"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij kamerbrief inzake Commentaar NVZ en meerdere organisaties t b v  debat Wijziging van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg en de Jeugdwet",
+            "link": "https://open.overheid.nl/details/15a0dee9-4841-49ce-861b-85257c386866",
+            "publishedDate": "24/11/2026 15:15",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
