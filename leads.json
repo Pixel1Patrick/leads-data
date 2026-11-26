@@ -172,11 +172,24 @@
             "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
             "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
             "publishedDate": "26/11/2026 16:44",
-            "source": "parool.nl",
+            "source": "olvg.nl, parool.nl, rd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
-            "extra_bronnen": [],
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
+                    "source": "olvg.nl",
+                    "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
+                    "publishedDate": "26/11/2026 13:05"
+                },
+                {
+                    "title": "Ziekenhuis OLVG sluit spoedeisende hulp in Amsterdam-Oost",
+                    "source": "rd.nl",
+                    "link": "https://www.rd.nl/artikel/ziekenhuis-olvg-sluit-spoedeisende-hulp-in-amsterdam-oost",
+                    "publishedDate": "26/11/2026 13:02"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -554,30 +567,11 @@
             "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
             "link": "https://locomediagroep.nl/nieuws/693-isala-als-eerste-ziekenhuis-met-eigen-geregistreerd-geneesmiddel/",
             "publishedDate": "26/11/2026 14:43",
-            "source": "drimble.nl, locomediagroep.nl, oost.nl, rtvfocuszwolle.nl",
+            "source": "locomediagroep.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Isala brengt eigen geneesmiddel op de markt: 'Naam blijft geheim' - RTV Oost",
-                    "source": "oost.nl",
-                    "link": "https://www.oost.nl/amp/nieuws/3723691/isala-brengt-eigen-geneesmiddel-op-de-markt-naam-blijft-geheim",
-                    "publishedDate": "26/11/2026 13:06"
-                },
-                {
-                    "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
-                    "source": "rtvfocuszwolle.nl",
-                    "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
-                    "publishedDate": "26/11/2026 12:56"
-                },
-                {
-                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
-                    "publishedDate": "26/11/2026 11:13"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -822,6 +816,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Isala brengt eigen geneesmiddel op de markt: 'Naam blijft geheim' - RTV Oost",
+            "link": "https://www.oost.nl/amp/nieuws/3723691/isala-brengt-eigen-geneesmiddel-op-de-markt-naam-blijft-geheim",
+            "publishedDate": "26/11/2026 13:06",
+            "source": "drimble.nl, oost.nl, rtvfocuszwolle.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Landelijke primeur: Isala ziekenhuis mag eigen medicijn op de markt brengen - RTV Focus",
+                    "source": "rtvfocuszwolle.nl",
+                    "link": "https://www.rtvfocuszwolle.nl/isala-zwolle-eigen-geneesmiddel-landelijke-primeur/",
+                    "publishedDate": "26/11/2026 12:56"
+                },
+                {
+                    "title": "Primeur voor Isala: eigen geneesmiddel geregistreerd en beschikbaar voor andere ziekenhuizen",
+                    "source": "drimble.nl",
+                    "link": "https://drimble.nl/regio/overijssel/zwolle/108713065/primeur-voor-isala-eigen-geneesmiddel-geregistreerd-en-beschikbaar-voor-andere-ziekenhuizen.html",
+                    "publishedDate": "26/11/2026 11:13"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Ledenvergadering: niet-gecontracteerde zorg en bekostiging centraal",
             "link": "https://www.lhv.nl/nieuws/ledenvergadering-niet-gecontracteerde-zorg-en-bekostiging-centraal/",
             "publishedDate": "26/11/2026 13:05",
@@ -831,24 +849,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
-            "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
-            "publishedDate": "26/11/2026 13:05",
-            "source": "olvg.nl, rd.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Ziekenhuis OLVG sluit spoedeisende hulp in Amsterdam-Oost",
-                    "source": "rd.nl",
-                    "link": "https://www.rd.nl/artikel/ziekenhuis-olvg-sluit-spoedeisende-hulp-in-amsterdam-oost",
-                    "publishedDate": "26/11/2026 13:02"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Steeds meer artsen willen huisarts worden, maar wie gaat hen opleiden? - Medi-Sfeer",
@@ -975,12 +975,19 @@
             "title": "Tweede Kamer debatteert over ADHD-medicijnen voor crackverslaafden - Head Topics",
             "link": "https://nl.headtopics.com/news/tweede-kamer-debatteert-over-adhd-medicijnen-voor-90204306",
             "publishedDate": "26/11/2026 12:08",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, nos.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
+                    "source": "nos.nl",
+                    "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
+                    "publishedDate": "26/11/2026 10:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Ozempic kan mogelijk de kwaliteit van sperma verbeteren | TAGMAG",
@@ -1137,17 +1144,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Kamer wil ADHD-medicijn inzetten tegen crack-verslaving - NOS",
-            "link": "https://nos.nl/artikel/2641049-kamer-wil-adhd-medicijn-inzetten-tegen-crack-verslaving",
-            "publishedDate": "26/11/2026 10:38",
-            "source": "nos.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Hoogbegaafde kinderen in Breda aan lot overgelaten, politiek slaat alarm - Omroep Brabant",
