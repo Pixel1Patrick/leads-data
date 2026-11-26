@@ -51,8 +51,14 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+                    "publishedDate": "26/11/2026 14:32"
+                },
                 {
                     "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
                     "source": "cnv.nl",
@@ -199,24 +205,11 @@
             "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
             "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
             "publishedDate": "26/11/2026 16:44",
-            "source": "olvg.nl, parool.nl, rd.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
-                    "source": "olvg.nl",
-                    "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
-                    "publishedDate": "26/11/2026 13:05"
-                },
-                {
-                    "title": "Ziekenhuis OLVG sluit spoedeisende hulp in Amsterdam-Oost",
-                    "source": "rd.nl",
-                    "link": "https://www.rd.nl/artikel/ziekenhuis-olvg-sluit-spoedeisende-hulp-in-amsterdam-oost",
-                    "publishedDate": "26/11/2026 13:02"
-                }
-            ],
+            "duplicate_count": 3,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -395,11 +388,23 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl, petities.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 4,
+            "duplicate_count": 6,
             "extra_bronnen": [
+                {
+                    "title": "Zorg voor \u00e9chte waardering van zorgprofessionals in de ggz in de cao - Petities.nl",
+                    "source": "petities.nl",
+                    "link": "https://petities.nl/petities/zorg-voor-echte-waardering-van-zorgprofessionals-in-de-ggz-in-de-cao",
+                    "publishedDate": "26/11/2026 11:28"
+                },
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -679,7 +684,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kannan is al bijna 7 jaar dood, maar wint nog altijd prijzen: 'Hij heeft 8000 veulens verwekt'",
@@ -688,17 +693,6 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-            "publishedDate": "26/11/2026 14:32",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -909,6 +903,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
+            "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
+            "publishedDate": "26/11/2026 13:05",
+            "source": "olvg.nl, rd.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Ziekenhuis OLVG sluit spoedeisende hulp in Amsterdam-Oost",
+                    "source": "rd.nl",
+                    "link": "https://www.rd.nl/artikel/ziekenhuis-olvg-sluit-spoedeisende-hulp-in-amsterdam-oost",
+                    "publishedDate": "26/11/2026 13:02"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Steeds meer artsen willen huisarts worden, maar wie gaat hen opleiden? - Medi-Sfeer",
             "link": "https://www.medi-sfeer.be/nl/nieuws/beroepsnieuws/steeds-meer-artsen-willen-huisarts-worden-maar-wie-gaat-hen-opleiden.html",
             "publishedDate": "26/11/2026 13:04",
@@ -1102,17 +1114,6 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorg voor \u00e9chte waardering van zorgprofessionals in de ggz in de cao - Petities.nl",
-            "link": "https://petities.nl/petities/zorg-voor-echte-waardering-van-zorgprofessionals-in-de-ggz-in-de-cao",
-            "publishedDate": "26/11/2026 11:28",
-            "source": "petities.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1994,17 +1995,6 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
