@@ -1,6 +1,28 @@
 {
     "artikelen": [
         {
+            "title": "Grootslag heroverweegt sloop van Sorghvliet Andijk en huurwoningen in ... - Noordhollands Dagblad",
+            "link": "https://www.noordhollandsdagblad.nl/regio/west-friesland/grootslag-heroverweegt-sloop-van-sorghvliet-andijk-en-huurwoningen-in-wervershoof.-huisarts-straks-in-rijdende-bus/165022782.html",
+            "publishedDate": "26/11/2026 05:13",
+            "source": "noordhollandsdagblad.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Huisartsen in Enschede niet te spreken over nieuwe 'te dure' parkeervergunning - RTV Oost",
+            "link": "https://www.oost.nl/nieuws/3721543/huisartsen-in-enschede-niet-te-spreken-over-nieuwe-te-dure-parkeervergunning",
+            "publishedDate": "26/11/2026 05:08",
+            "source": "oost.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Deze huisartsen willen een gezonde supermarkt beginnen in Zuidoost: 'Ik zie hier veel ... - Het Parool",
             "link": "https://www.parool.nl/amsterdam/deze-huisartsen-willen-een-gezonde-supermarkt-beginnen-in-zuidoost-ik-zie-hier-veel-mensen-die-bezig-zijn-met-hun-gezondheid~b22265e2/",
             "publishedDate": "26/11/2026 04:19",
@@ -88,18 +110,11 @@
             "title": "Henk Dammer (78) wilde radiotherapie voor zijn uitgezaaide prostaatkanker - BN DeStem",
             "link": "https://www.bndestem.nl/gezond/henk-dammer-78-wilde-radiotherapie-voor-zijn-uitgezaaide-prostaatkanker-informeer-jezelf-en-wees-brutaal~a8fde21f/",
             "publishedDate": "26/11/2026 00:20",
-            "source": "bndestem.nl, destentor.nl",
+            "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Henk Dammer (78) wilde radiotherapie voor zijn uitgezaaide prostaatkanker - de Stentor",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/gezond/henk-dammer-78-heeft-uitgezaaide-prostaatkanker-maar-door-behandeling-radioactieve-straling-geniet-hij-weer~a8fde21f/",
-                    "publishedDate": "25/11/2026 16:16"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -161,24 +176,22 @@
             "title": "Isra\u00ebl woest op Amnesty International: verspreidt 'valse verhalen van Hamas' over genocide in Gaza",
             "link": "https://www.telegraaf.nl/buitenland/israel-woest-op-amnesty-international-na-beschuldiging-belemmeren-zwangerschappen-in-gaza-valse-verhalen-van-hamas-verspreid/165065392.html",
             "publishedDate": "26/11/2026 00:01",
-            "source": "nieuws.marokko.nl, telegraaf.nl, volkskrant.nl",
+            "source": "telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
-                    "source": "volkskrant.nl",
-                    "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
-                    "publishedDate": "25/11/2026 23:33"
-                },
-                {
-                    "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
-                    "source": "nieuws.marokko.nl",
-                    "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
-                    "publishedDate": "25/11/2026 21:42"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Isra\u00ebl ontneemt vrouwen in Gaza de mogelijkheid om zich veilig voort te planten, zegt Amnesty",
+            "link": "https://www.volkskrant.nl/buitenland/israel-ontneemt-vrouwen-in-gaza-de-mogelijkheid-om-zich-veilig-voort-te-planten-zegt-amnesty~b0c6ac6a/",
+            "publishedDate": "25/11/2026 23:33",
+            "source": "volkskrant.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -212,7 +225,7 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Primeur Isala: mag eigen geneesmiddel verkopen aan andere ziekenhuizen | Zwolle",
@@ -302,15 +315,19 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Amnesty: Isra\u00ebl brengt vrouwen en meisjes in Gaza stelselmatig leed toe - Marokko Nieuws",
+            "link": "https://nieuws.marokko.nl/119506/amnesty-israel-brengt-vrouwen-en-meisjes-in-gaza-stelselmatig-leed-toe/",
+            "publishedDate": "25/11/2026 21:42",
+            "source": "nieuws.marokko.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -388,7 +405,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Apothekers dienden al 30 procent meer griepvaccins toe dan vorig jaar - Artsenkrant",
@@ -427,18 +444,11 @@
             "title": "Hagenaar M.A. riskeert drie jaar cel voor illegale medicijnen en fraude - Head Topics",
             "link": "https://nl.headtopics.com/news/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-90185377",
             "publishedDate": "25/11/2026 20:29",
-            "source": "nl.headtopics.com, omroepwest.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
-                    "source": "omroepwest.nl",
-                    "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
-                    "publishedDate": "25/11/2026 20:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -448,6 +458,17 @@
             "source": "limburger.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Man die illegale medicijnen naar Suriname wilde brengen, moet mogelijk de cel in",
+            "link": "https://www.omroepwest.nl/misdaad/5176484/man-die-illegale-medicijnen-naar-suriname-wilde-brengen-moet-mogelijk-de-cel-in",
+            "publishedDate": "25/11/2026 20:07",
+            "source": "omroepwest.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -497,7 +518,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "WSO-ledenvergadering en webinar Visie openbaar apotheker 2035 - KNMP",
@@ -525,18 +546,11 @@
             "title": "Ozempic- en Mounjaro-makers moeten in VS waarschuwen voor gezichtsverlies",
             "link": "https://www.nieuwsblad.be/buitenland/ozempic-en-mounjaro-makers-moeten-in-vs-waarschuwen-voor-gezichtsverlies/165114023.html",
             "publishedDate": "25/11/2026 19:07",
-            "source": "nieuwsblad.be, tijd.be",
+            "source": "nieuwsblad.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
-                    "source": "tijd.be",
-                    "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
-                    "publishedDate": "25/11/2026 13:02"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -548,7 +562,7 @@
             "feed_label": "Alert Jeugdhulp",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ex-topschaatser Michel Mulder (40) staat anders in het leven na angstige periode in ziekenhuis",
@@ -833,7 +847,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Amsterdamse universiteiten en UMC bundelen krachten in medtech - IO+",
@@ -855,28 +869,22 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz/",
             "publishedDate": "25/11/2026 16:15",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl, zorgwelzijn.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, zorgwelzijn.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 6,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Acties aangekondigd: 10 december voeren ggz-medewerkers actie voor een betere cao",
                     "source": "zorgwelzijn.nl",
                     "link": "https://www.zorgwelzijn.nl/acties-aangekondigd-10-december-voeren-ggz-medewerkers-actie-voor-een-betere-cao/",
                     "publishedDate": "25/11/2026 10:19"
-                },
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
                 },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
@@ -995,6 +1003,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+            "publishedDate": "25/11/2026 15:50",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Drie ziekenhuizen kondigden een pati\u00ebntenstop af door 'omzetplafonds' van Zilveren Kruis ... - NRC",
             "link": "https://www.nrc.nl/nieuws/2026/11/25/drie-ziekenhuizen-kondigden-een-patientenstop-af-door-omzetplafonds-van-zilveren-kruis-zo-stimuleren-wij-passende-zorg-verdedigt-de-topman-zich-a4942088",
             "publishedDate": "25/11/2026 15:35",
@@ -1045,17 +1064,6 @@
             "source": "telegraaf.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Alleen al bij het zien van het ding verkrampt je vagina, terwijl dat n\u00e8t niet de bedoeling is",
-            "link": "https://www.pzc.nl/binnenland/alleen-al-bij-het-zien-van-het-ding-verkrampt-je-vagina-terwijl-dat-net-niet-de-bedoeling-is~a6b060b4/",
-            "publishedDate": "25/11/2026 15:24",
-            "source": "pzc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1124,7 +1132,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Crack-epidemie in Nederlandse steden \u2022 Hebben we voldoende zicht op Zembla's neonazi's? - NOS",
@@ -1135,7 +1143,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Woensdrecht betaalt deel mee aan collectieve zorgverzekering voor inwoners met lager inkomen",
@@ -1422,21 +1430,37 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Bestuurlijke afspraken BRC-regeling 2027-2029",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/984d44cf-4ce7-4a3f-9c52-efab91a8d021",
                     "publishedDate": "25/11/2026 13:10"
-                },
-                {
-                    "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
-                    "publishedDate": "25/11/2026 13:10"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bestuurlijke afspraken BRC-regeling 2027-2029",
+            "link": "https://open.overheid.nl/details/832f39e5-4d02-4965-9e68-86d8ea405e55",
+            "publishedDate": "25/11/2026 13:10",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Afslankmiddelen Ozempic en Mounjaro krijgen Amerikaanse waarschuwing voor risico op ...",
+            "link": "https://www.tijd.be/markten-live/nieuws/aandelen-buitenlandse-beurzen/afslankmiddelen-ozempic-en-mounjaro-krijgen-amerikaanse-waarschuwing-voor-risico-op-gezichtsverlies/10706912.html",
+            "publishedDate": "25/11/2026 13:02",
+            "source": "tijd.be",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1520,11 +1544,18 @@
             "title": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test | Economie - NU",
             "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
             "publishedDate": "25/11/2026 11:21",
-            "source": "nu.nl",
+            "source": "alzheimer-nederland.nl, nu.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Geslaagd en leerzame avond over dementie en medicatie - Alzheimer Nederland",
+                    "source": "alzheimer-nederland.nl",
+                    "link": "https://www.alzheimer-nederland.nl/regios/voorne-putten-en-rozenburg/geslaagd-en-leerzame-avond-over-dementie-en-medicatie",
+                    "publishedDate": "25/11/2026 11:18"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1554,17 +1585,6 @@
                     "publishedDate": "25/11/2026 05:19"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Geslaagd en leerzame avond over dementie en medicatie - Alzheimer Nederland",
-            "link": "https://www.alzheimer-nederland.nl/regios/voorne-putten-en-rozenburg/geslaagd-en-leerzame-avond-over-dementie-en-medicatie",
-            "publishedDate": "25/11/2026 11:18",
-            "source": "alzheimer-nederland.nl",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1704,7 +1724,7 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Kinderen met darmfalen kunnen mogelijk aan minder belastende antistollingsmedicatie",
@@ -1863,6 +1883,17 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
