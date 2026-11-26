@@ -506,11 +506,18 @@
             "title": "Zwangeren hoeven straks niet meer voor alle klachten naar het ziekenhuis - De Limburger",
             "link": "https://www.limburger.nl/regio/sittard-geleen/zwangeren-hoeven-straks-niet-meer-voor-alle-klachten-naar-het-ziekenhuis-zuyderland-onderzoekt-mogelijke-verloskundigenpost-in-parkstad/165104731.html",
             "publishedDate": "25/11/2026 20:12",
-            "source": "limburger.nl",
+            "source": "limburger.nl, rtvparkstad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Plannen voor verloskundige post in Parkstad; zwangere vrouwen minder snel naar ziekenhuis",
+                    "source": "rtvparkstad.nl",
+                    "link": "https://rtvparkstad.nl/nieuws/plannen-voor-verloskundige-post-in-de-parkstad-zwangere-vrouwen-minder-snel-naar-ziekenhuis/",
+                    "publishedDate": "25/11/2026 17:01"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -813,17 +820,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Plannen voor verloskundige post in Parkstad; zwangere vrouwen minder snel naar ziekenhuis",
-            "link": "https://rtvparkstad.nl/nieuws/plannen-voor-verloskundige-post-in-de-parkstad-zwangere-vrouwen-minder-snel-naar-ziekenhuis/",
-            "publishedDate": "25/11/2026 17:01",
-            "source": "rtvparkstad.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Wat verdient een vrachtwagenchauffeur in 2026? Dit is het gemiddelde salaris",
             "link": "https://www.man-man.nl/gemiddelde-salaris-vrachtwagenchauffeur-2026/",
             "publishedDate": "25/11/2026 16:58",
@@ -882,18 +878,11 @@
             "title": "Amsterdamse universiteiten en UMC bundelen krachten in medtech - IO+",
             "link": "https://ioplus.nl/nl/posts/amsterdamse-universiteiten-en-umc-bundelen-krachten-in-medtech",
             "publishedDate": "25/11/2026 16:33",
-            "source": "ioplus.nl, zorgkrant.nl",
+            "source": "ioplus.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
-                    "source": "zorgkrant.nl",
-                    "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
-                    "publishedDate": "25/11/2026 11:05"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1048,11 +1037,18 @@
             "title": "Drie ziekenhuizen kondigden een pati\u00ebntenstop af door 'omzetplafonds' van Zilveren Kruis ... - NRC",
             "link": "https://www.nrc.nl/nieuws/2026/11/25/drie-ziekenhuizen-kondigden-een-patientenstop-af-door-omzetplafonds-van-zilveren-kruis-zo-stimuleren-wij-passende-zorg-verdedigt-de-topman-zich-a4942088",
             "publishedDate": "25/11/2026 15:35",
-            "source": "nrc.nl",
+            "source": "metronieuws.nl, nrc.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Wel plek in de kliniek, maar het budget van Zilveren Kruis is op: Arjan uit Zwolle staat voor ...",
+                    "source": "metronieuws.nl",
+                    "link": "https://www.metronieuws.nl/in-het-nieuws/binnenland/2026/11/wel-plek-in-kliniek-budget-zilveren-kruis-is-op-arja-zwolle-dichte-deur/",
+                    "publishedDate": "25/11/2026 14:41"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -1097,7 +1093,7 @@
             "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Helse zoektocht naar openbaar toilet voor duizenden mensen: WC-Wijzer moet steuntje in de rug zijn",
@@ -1151,17 +1147,6 @@
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Wel plek in de kliniek, maar het budget van Zilveren Kruis is op: Arjan uit Zwolle staat voor ...",
-            "link": "https://www.metronieuws.nl/in-het-nieuws/binnenland/2026/11/wel-plek-in-kliniek-budget-zilveren-kruis-is-op-arja-zwolle-dichte-deur/",
-            "publishedDate": "25/11/2026 14:41",
-            "source": "metronieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1602,6 +1587,17 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Medische innovatie sneller bij de pati\u00ebnt gebracht door Amsterdam MedTech - Zorgkrant",
+            "link": "https://www.zorgkrant.nl/wetenschap-en-onderwijs/21712-medische-innovatie-sneller-bij-de-patient-gebracht-door-amsterdam-medtech",
+            "publishedDate": "25/11/2026 11:05",
+            "source": "zorgkrant.nl",
+            "category": "Overig",
+            "feed_label": "Alert umc",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
