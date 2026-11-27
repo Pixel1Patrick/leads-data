@@ -69,28 +69,16 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief Schriftelijk Overleg inzake EU Gezondheidsraad 8 december 2026",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/e428ed2c-db22-46fd-b925-444bca674999",
                     "publishedDate": "27/11/2026 16:44"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
-                    "publishedDate": "27/11/2026 16:07"
-                },
-                {
-                    "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/adecdc5a-0f5f-4a7c-af1c-1549a9013aaf",
-                    "publishedDate": "27/11/2026 16:07"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nota bij Kamerbrief over Verzoek reactie op Onderwijscoalitie Zuid-West",
@@ -148,7 +136,7 @@
                     "publishedDate": "27/11/2026 16:42"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Woningcorporaties slaan alarm over overlast door verwarde huurders - RTV Noord",
@@ -217,18 +205,11 @@
             "title": "Nieuwbouwproject op Landgoed Veldwijk in Ermelo is 22 sociale koopappartementen rijker",
             "link": "https://www.destentor.nl/ermelo/nieuwbouwproject-op-landgoed-veldwijk-in-ermelo-is-22-sociale-koopappartementen-rijker~acbade10/",
             "publishedDate": "27/11/2026 16:24",
-            "source": "destentor.nl, nijkerk.nieuws.nl",
+            "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe woonzorglocatie aan Wallerstraat heet Bloemendal - Nijkerk Nieuws",
-                    "source": "nijkerk.nieuws.nl",
-                    "link": "https://nijkerk.nieuws.nl/nieuws/nieuwe-woonzorglocatie-aan-wallerstraat-heet-bloemendal",
-                    "publishedDate": "27/11/2026 15:23"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -296,34 +277,27 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 7,
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
+            "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
+            "publishedDate": "27/11/2026 16:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
-                    "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-armoedig-besluit-voor-een-wereldstad~b62a0f10/",
-                    "publishedDate": "27/11/2026 14:08"
-                },
-                {
-                    "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-doe-het-alsjeblieft-niet~b62a0f10/",
-                    "publishedDate": "27/11/2026 13:53"
-                },
-                {
-                    "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
-                    "publishedDate": "27/11/2026 12:42"
-                },
-                {
-                    "title": "Van pionier in de spoedzorg tot sluiting in 2032: waarom OLVG Oost zijn spoedeisende hulp verliest",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/amsterdam/van-pionier-in-de-spoedzorg-tot-sluiting-in-2032-waarom-olvg-oost-zijn-spoedeisende-hulp-verliest~bdc4aea1/",
-                    "publishedDate": "27/11/2026 10:40"
+                    "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/adecdc5a-0f5f-4a7c-af1c-1549a9013aaf",
+                    "publishedDate": "27/11/2026 16:07"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Aanpak vrouwengezondheid werkt in Salland, huisartsen gaan door | Regio | De Stentor.nl",
@@ -407,7 +381,7 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gemeenten worstelen met stijgende kosten voor jeugdzorg - Centraal+",
@@ -427,6 +401,17 @@
             "source": "haarlemsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nieuwe woonzorglocatie aan Wallerstraat heet Bloemendal - Nijkerk Nieuws",
+            "link": "https://nijkerk.nieuws.nl/nieuws/nieuwe-woonzorglocatie-aan-wallerstraat-heet-bloemendal",
+            "publishedDate": "27/11/2026 15:23",
+            "source": "nijkerk.nieuws.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -579,6 +564,24 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
+            "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-armoedig-besluit-voor-een-wereldstad~b62a0f10/",
+            "publishedDate": "27/11/2026 14:08",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
+                    "source": "parool.nl",
+                    "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-doe-het-alsjeblieft-niet~b62a0f10/",
+                    "publishedDate": "27/11/2026 13:53"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -816,6 +819,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
+            "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
+            "publishedDate": "27/11/2026 12:42",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "PRO wil dat Hardinxveld-Giessendam het kabinet oproept geen eigen bijdrage voor ... - Drimble",
             "link": "https://drimble.nl/regio/zuid-holland/drechtsteden/108730293/pro-wil-dat-hardinxveld-giessendam-het-kabinet-oproept-geen-eigen-bijdrage-voor-jeugdzorg-in-te-voeren-vergroot-kansenongelijkheid.html",
             "publishedDate": "27/11/2026 12:23",
@@ -903,18 +917,11 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "tln.nl, transport-online.nl",
+            "source": "transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
-                    "source": "tln.nl",
-                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-                    "publishedDate": "26/11/2026 18:37"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -926,7 +933,7 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Taakstraf voor bedreigen zorgpersoneel | Crime - Drimble",
@@ -988,7 +995,7 @@
                     "publishedDate": "27/11/2026 11:13"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Veel zorgverleners waren als kind mantelzorger. Charlotte: 'Zelfinzicht maakt je beter in je werk'",
@@ -1027,6 +1034,17 @@
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Van pionier in de spoedzorg tot sluiting in 2032: waarom OLVG Oost zijn spoedeisende hulp verliest",
+            "link": "https://www.parool.nl/amsterdam/van-pionier-in-de-spoedzorg-tot-sluiting-in-2032-waarom-olvg-oost-zijn-spoedeisende-hulp-verliest~bdc4aea1/",
+            "publishedDate": "27/11/2026 10:40",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1562,6 +1580,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "TLN en VVT doen loonbod in derde cao-overleg",
+            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+            "publishedDate": "26/11/2026 18:37",
+            "source": "tln.nl",
+            "category": "Overig",
+            "feed_label": "Alert Vvt",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Arnhem gaat zorgaanbieders beter spreiden over de stad",
             "link": "https://www.arnhem.nl/actueel/arnhem-gaat-zorgaanbieders-beter-spreiden-over-de-stad/",
             "publishedDate": "26/11/2026 18:36",
@@ -1655,7 +1684,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
