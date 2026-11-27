@@ -122,18 +122,11 @@
             "title": "Nivel-onderzoek: 'Huisartsen hebben onvoldoende oog voor dwingende controle door (ex-)partner.'",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/nivel-onderzoek-huisartsen-hebben-onvoldoende-oog-voor-dwingende-controle-door-ex-partner.",
             "publishedDate": "27/11/2026 18:52",
-            "source": "lhv.nl, medischcontact.nl",
+            "source": "medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Reactie LHV op Nivel-rapport over dwingende controle",
-                    "source": "lhv.nl",
-                    "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
-                    "publishedDate": "25/11/2026 11:11"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -220,13 +213,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de aanhoudende vertraging bij de verhuizing van het RIVM en de veiligheidsrisico's bij de huidige laboratoria",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/d7965339-7766-41a6-9aa5-998c83383b2d",
                     "publishedDate": "27/11/2026 17:49"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
+                    "publishedDate": "27/11/2026 17:38"
+                },
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/3f2dbd75-698f-4a43-a4ac-af7c31c1a693",
+                    "publishedDate": "27/11/2026 17:38"
                 }
             ],
             "belangrijkheid": 0
@@ -282,24 +287,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
-            "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
-            "publishedDate": "27/11/2026 17:38",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/3f2dbd75-698f-4a43-a4ac-af7c31c1a693",
-                    "publishedDate": "27/11/2026 17:38"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -579,12 +566,37 @@
             "title": "Mogelijke datadiefstal bij Lelie zorggroep raakt ook Zeeuwen, organisatie informeert ...",
             "link": "https://www.ad.nl/goes/mogelijke-datadiefstal-bij-lelie-zorggroep-raakt-ook-zeeuwen-organisatie-informeert-betrokkenen-uit-voorzorg~ad603c85/",
             "publishedDate": "27/11/2026 16:35",
-            "source": "ad.nl",
+            "source": "ad.nl, destentor.nl, nl.headtopics.com, tweakers.net, vrmg.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/veluwe/zorgorganisatie-met-ruim-15-000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen~a42cc98f/",
+                    "publishedDate": "27/11/2026 15:26"
+                },
+                {
+                    "title": "Nederlandse zorginstelling Lelie is gehackt, mogelijk pati\u00ebntgegevens gestolen - Tweakers",
+                    "source": "tweakers.net",
+                    "link": "https://tweakers.net/nieuws/254998/nederlandse-zorginstelling-lelie-is-gehackt-mogelijk-patientgegevens-gestolen.html",
+                    "publishedDate": "27/11/2026 15:00"
+                },
+                {
+                    "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
+                    "source": "vrmg.nl",
+                    "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
+                    "publishedDate": "27/11/2026 12:09"
+                },
+                {
+                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
+                    "publishedDate": "26/11/2026 18:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Hoe Maastricht UMC+ de innovatiekracht van verpleegkundigen inzet | ICT&amp;health",
@@ -808,36 +820,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
-            "link": "https://www.destentor.nl/veluwe/zorgorganisatie-met-ruim-15-000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen~a42cc98f/",
-            "publishedDate": "27/11/2026 15:26",
-            "source": "destentor.nl, nl.headtopics.com, tweakers.net, vrmg.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Nederlandse zorginstelling Lelie is gehackt, mogelijk pati\u00ebntgegevens gestolen - Tweakers",
-                    "source": "tweakers.net",
-                    "link": "https://tweakers.net/nieuws/254998/nederlandse-zorginstelling-lelie-is-gehackt-mogelijk-patientgegevens-gestolen.html",
-                    "publishedDate": "27/11/2026 15:00"
-                },
-                {
-                    "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
-                    "source": "vrmg.nl",
-                    "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
-                    "publishedDate": "27/11/2026 12:09"
-                },
-                {
-                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
-                    "publishedDate": "26/11/2026 18:38"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Gemeenten worstelen met stijgende kosten voor jeugdzorg - Centraal+",
@@ -1594,17 +1576,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Passende jeugdhulp moet uitgaan van de behoefte van het kind - - GGZ Nieuws",
-            "link": "https://www.ggznieuws.nl/passende-jeugdhulp-moet-uitgaan-van-de-behoefte-van-het-kind/",
-            "publishedDate": "26/11/2026 20:30",
-            "source": "ggznieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gebruikt de politie straks jouw DNA? Hoe nieuw verwantschapsonderzoek kan helpen met ...",
             "link": "https://eenvandaag.avrotros.nl/artikelen/gebruikt-de-politie-straks-jouw-dna-hoe-nieuw-verwantschapsonderzoek-kan-helpen-met-misdaden-oplossen-165501",
             "publishedDate": "26/11/2026 19:04",
@@ -1676,7 +1647,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
@@ -1789,7 +1760,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Huisarts onthouden van werk na alcoholgebruik: tuchtzaak 8 december",
@@ -1897,6 +1868,17 @@
             "source": "rijksoverheid.nl",
             "category": "Overig",
             "feed_label": "VWS Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Reactie LHV op Nivel-rapport over dwingende controle",
+            "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
+            "publishedDate": "25/11/2026 11:11",
+            "source": "lhv.nl",
+            "category": "Overig",
+            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
