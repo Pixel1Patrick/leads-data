@@ -4,18 +4,11 @@
             "title": "Inzet voor kwetsbare jongeren levert Dolf Herder uit Eefde een lintje op | Regio - Destentor",
             "link": "https://www.destentor.nl/lochem/inzet-voor-kwetsbare-jongeren-levert-dolf-herder-uit-eefde-een-lintje-op~a0eb87e5/",
             "publishedDate": "27/11/2026 19:04",
-            "source": "berkelbode.nl, destentor.nl",
+            "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Dolf Herder benoemd tot Ridder in de Orde van Oranje-Nassau voor jarenlange inzet voor ...",
-                    "source": "berkelbode.nl",
-                    "link": "https://www.berkelbode.nl/nieuws/maatschappij/565932/koninklijke-onderscheiding-voor-dolf-herder-uit-eefde",
-                    "publishedDate": "27/11/2026 18:05"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -55,18 +48,35 @@
             "title": "Arts veroordeeld na voorschrift anticonceptiepil Diane 35: 'Er valt iets te zeggen voor een ...",
             "link": "https://www.demorgen.be/nieuws/arts-veroordeeld-na-voorschrift-anticonceptiepil-diane-35-er-valt-iets-te-zeggen-voor-een-verbod-op-deze-pil~b1dc5ce7/",
             "publishedDate": "27/11/2026 18:13",
-            "source": "demorgen.be, rtl.nl",
+            "source": "demorgen.be, despecialist.eu, rtl.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Belgische meisje in levensgevaar door anticonceptiepil Diane 35, huisarts veroordeeld",
                     "source": "rtl.nl",
                     "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5667530/belgische-huisarts-veroordeeld-diane-35-trombose-anticonceptiepil",
                     "publishedDate": "27/11/2026 14:57"
+                },
+                {
+                    "title": "Huisarts veroordeeld: &quot;belangrijk dat we niet alle artsen culpabiliseren&quot; (Domus Medica)",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/generaliste-condamnee-laquo-il-est-important-de-ne-pas-culpabiliser-tous-les-medecins-raquo-domus-medica.html",
+                    "publishedDate": "26/11/2026 18:21"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dolf Herder benoemd tot Ridder in de Orde van Oranje-Nassau voor jarenlange inzet voor ...",
+            "link": "https://www.berkelbode.nl/nieuws/maatschappij/565932/koninklijke-onderscheiding-voor-dolf-herder-uit-eefde",
+            "publishedDate": "27/11/2026 18:05",
+            "source": "berkelbode.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -463,12 +473,37 @@
             "title": "Mogelijke datadiefstal bij Lelie zorggroep raakt ook Zeeuwen, organisatie informeert ...",
             "link": "https://www.ad.nl/goes/mogelijke-datadiefstal-bij-lelie-zorggroep-raakt-ook-zeeuwen-organisatie-informeert-betrokkenen-uit-voorzorg~ad603c85/",
             "publishedDate": "27/11/2026 16:35",
-            "source": "ad.nl",
+            "source": "ad.nl, destentor.nl, nl.headtopics.com, tweakers.net, vrmg.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/veluwe/zorgorganisatie-met-ruim-15-000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen~a42cc98f/",
+                    "publishedDate": "27/11/2026 15:26"
+                },
+                {
+                    "title": "Nederlandse zorginstelling Lelie is gehackt, mogelijk pati\u00ebntgegevens gestolen - Tweakers",
+                    "source": "tweakers.net",
+                    "link": "https://tweakers.net/nieuws/254998/nederlandse-zorginstelling-lelie-is-gehackt-mogelijk-patientgegevens-gestolen.html",
+                    "publishedDate": "27/11/2026 15:00"
+                },
+                {
+                    "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
+                    "source": "vrmg.nl",
+                    "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
+                    "publishedDate": "27/11/2026 12:09"
+                },
+                {
+                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
+                    "publishedDate": "26/11/2026 18:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Hoe Maastricht UMC+ de innovatiekracht van verpleegkundigen inzet | ICT&amp;health",
@@ -543,8 +578,27 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
+                    "source": "parool.nl",
+                    "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-armoedig-besluit-voor-een-wereldstad~b62a0f10/",
+                    "publishedDate": "27/11/2026 14:08"
+                },
+                {
+                    "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Doe het alsjeblieft niet'",
+                    "source": "parool.nl",
+                    "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-doe-het-alsjeblieft-niet~b62a0f10/",
+                    "publishedDate": "27/11/2026 12:23"
+                },
+                {
+                    "title": "Van pionier in de spoedzorg tot sluiting in 2032: waarom OLVG Oost zijn spoedeisende hulp verliest",
+                    "source": "parool.nl",
+                    "link": "https://www.parool.nl/amsterdam/van-pionier-in-de-spoedzorg-tot-sluiting-in-2032-waarom-olvg-oost-zijn-spoedeisende-hulp-verliest~bdc4aea1/",
+                    "publishedDate": "27/11/2026 10:36"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -681,36 +735,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
-            "link": "https://www.destentor.nl/veluwe/zorgorganisatie-met-ruim-15-000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen~a42cc98f/",
-            "publishedDate": "27/11/2026 15:26",
-            "source": "destentor.nl, nl.headtopics.com, tweakers.net, vrmg.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Nederlandse zorginstelling Lelie is gehackt, mogelijk pati\u00ebntgegevens gestolen - Tweakers",
-                    "source": "tweakers.net",
-                    "link": "https://tweakers.net/nieuws/254998/nederlandse-zorginstelling-lelie-is-gehackt-mogelijk-patientgegevens-gestolen.html",
-                    "publishedDate": "27/11/2026 15:00"
-                },
-                {
-                    "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
-                    "source": "vrmg.nl",
-                    "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
-                    "publishedDate": "27/11/2026 12:09"
-                },
-                {
-                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
-                    "publishedDate": "26/11/2026 18:38"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Gemeenten worstelen met stijgende kosten voor jeugdzorg - Centraal+",
@@ -874,17 +898,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
-            "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-armoedig-besluit-voor-een-wereldstad~b62a0f10/",
-            "publishedDate": "27/11/2026 14:08",
-            "source": "parool.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Hoe een lichtflits straks een pijnlijke stroomschok bij hartritmestoornissen kan vervangen",
             "link": "https://www.bndestem.nl/wetenschap/hoe-een-lichtflits-straks-een-pijnlijke-stroomschok-bij-hartritmestoornissen-kan-vervangen~aefaafe0/",
             "publishedDate": "27/11/2026 14:06",
@@ -1024,17 +1037,6 @@
             "belangrijkheid": 1
         },
         {
-            "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Doe het alsjeblieft niet'",
-            "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-doe-het-alsjeblieft-niet~b62a0f10/",
-            "publishedDate": "27/11/2026 12:23",
-            "source": "parool.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "PRO wil dat Hardinxveld-Giessendam het kabinet oproept geen eigen bijdrage voor ... - Drimble",
             "link": "https://drimble.nl/regio/zuid-holland/drechtsteden/108730293/pro-wil-dat-hardinxveld-giessendam-het-kabinet-oproept-geen-eigen-bijdrage-voor-jeugdzorg-in-te-voeren-vergroot-kansenongelijkheid.html",
             "publishedDate": "27/11/2026 12:23",
@@ -1159,17 +1161,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Van pionier in de spoedzorg tot sluiting in 2032: waarom OLVG Oost zijn spoedeisende hulp verliest",
-            "link": "https://www.parool.nl/amsterdam/van-pionier-in-de-spoedzorg-tot-sluiting-in-2032-waarom-olvg-oost-zijn-spoedeisende-hulp-verliest~bdc4aea1/",
-            "publishedDate": "27/11/2026 10:36",
-            "source": "parool.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Opinie: 'In de jeugdzorg is iedereen betrokken, maar niemand verantwoordelijk' | Praat mee",
             "link": "https://www.ad.nl/praat-mee/opinie-in-de-jeugdzorg-is-iedereen-betrokken-maar-niemand-verantwoordelijk~ad6df71b/",
             "publishedDate": "27/11/2026 10:26",
@@ -1206,22 +1197,16 @@
             "title": "Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer - ANP Persportaal",
             "link": "https://persportaal.anp.nl/artikel/ddfdd1da-c779-428d-84ce-9f36dcd7d279/zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:49",
-            "source": "lad.nl, nu91.nl, persportaal.anp.nl",
+            "source": "nu91.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
                     "source": "nu91.nl",
                     "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
                     "publishedDate": "27/11/2026 09:36"
-                },
-                {
-                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-                    "publishedDate": "26/11/2026 16:03"
                 }
             ],
             "belangrijkheid": 1
@@ -1674,17 +1659,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Huisarts veroordeeld: &quot;belangrijk dat we niet alle artsen culpabiliseren&quot; (Domus Medica)",
-            "link": "https://www.despecialist.eu/nl/nieuws/generaliste-condamnee-laquo-il-est-important-de-ne-pas-culpabiliser-tous-les-medecins-raquo-domus-medica.html",
-            "publishedDate": "26/11/2026 18:21",
-            "source": "despecialist.eu",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Europese zorgtransformatie: van ambitie naar resultaat | ICT&amp;health",
             "link": "https://www.icthealth.nl/nieuws/europese-zorgtransformatie-van-ambitie-naar-resultaat",
             "publishedDate": "26/11/2026 18:16",
@@ -1702,25 +1676,31 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
-                {
-                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-                    "publishedDate": "26/11/2026 14:32"
-                },
-                {
-                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
-                    "publishedDate": "26/11/2026 09:29"
-                },
                 {
                     "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
                     "source": "cnv.nl",
                     "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
                     "publishedDate": "24/11/2026 10:38"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+            "publishedDate": "26/11/2026 16:03",
+            "source": "cnv.nl, lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
                 }
             ],
             "belangrijkheid": 1
@@ -1742,6 +1722,17 @@
                 }
             ],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+            "publishedDate": "26/11/2026 14:32",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Ledenvergadering: niet-gecontracteerde zorg en bekostiging centraal",
@@ -1830,6 +1821,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
+            "publishedDate": "26/11/2026 09:29",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Huisarts onthouden van werk na alcoholgebruik: tuchtzaak 8 december",
@@ -2074,17 +2076,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-            "publishedDate": "24/11/2026 07:00",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
