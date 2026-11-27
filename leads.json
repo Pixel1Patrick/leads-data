@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Vrijwillige ouderenbezoekers en hun schat aan informatie - Vilans",
+            "link": "https://www.vilans.nl/actueel/verhalen/vrijwillige-ouderenbezoekers-schat-informatie",
+            "publishedDate": "27/11/2026 06:48",
+            "source": "vilans.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Het grote aftellen is begonnen in Roosendaal: Bravis zegt nu \u00e9cht te bouwen, al is ... - BN DeStem",
             "link": "https://www.bndestem.nl/roosendaal/het-grote-aftellen-is-begonnen-in-roosendaal-bravis-zegt-nu-echt-te-bouwen-al-is-die-eerste-paal-niet-de-eerste~a1c3d900/",
             "publishedDate": "27/11/2026 04:36",
@@ -380,6 +391,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Hygi\u00ebne en robots in ziekenhuizen - Hygiene control",
+            "link": "https://hygiene-control.nl/sector/ziekenhuis/",
+            "publishedDate": "26/11/2026 22:19",
+            "source": "hygiene-control.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Vooraankondiging subsidieoproep 'klinische ronde post-COVID: drug repurposing'",
             "link": "https://www.postcovidnl.nl/nieuws/vooraankondiging-subsidieoproep-klinische-ronde-post-covid-drug-repurposing",
             "publishedDate": "26/11/2026 22:02",
@@ -553,17 +575,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Almere wil met Philips en ziekenhuizen nieuwe zorgtechnologie testen - 1Almere",
-            "link": "https://1almere.nl/nieuws/artikel/almere-wil-met-philips-en-ziekenhuizen-nieuwe-zorgtechnologie-testen",
-            "publishedDate": "26/11/2026 20:20",
-            "source": "1almere.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Hoe brondata om zeep wordt geholpen - VVP online -",
             "link": "https://vvponline.nl/nieuws/hoe-brondata-om-zeep-wordt-geholpen/",
             "publishedDate": "26/11/2026 20:11",
@@ -685,18 +696,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Vrijwillige ouderenbezoekers en hun schat aan informatie - Vilans",
-            "link": "https://www.vilans.nl/actueel/verhalen/vrijwillige-ouderenbezoekers-schat-informatie",
-            "publishedDate": "26/11/2026 18:48",
-            "source": "vilans.nl",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "TLN en VVT doen loonbod in derde cao-overleg",
@@ -1116,17 +1116,11 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
                 {
                     "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
                     "source": "fnv.nl",
@@ -2101,6 +2095,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
