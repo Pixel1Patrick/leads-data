@@ -373,7 +373,7 @@
             "feed_label": "Alert seh",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "PRO wil dat Hardinxveld-Giessendam het kabinet oproept geen eigen bijdrage voor ... - Drimble",
@@ -408,12 +408,19 @@
             "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
             "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
             "publishedDate": "27/11/2026 12:09",
-            "source": "vrmg.nl",
+            "source": "nl.headtopics.com, vrmg.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
+                    "publishedDate": "26/11/2026 18:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Ziekenhuis verwijdert penis, prostaat en blaas van man, achteraf bleek dat diagnose verkeerd was",
@@ -431,7 +438,7 @@
                     "publishedDate": "27/11/2026 12:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Influencer Evie van Vliet tijdens zwangerschap naar ziekenhuis vanwege bloedingen",
@@ -1342,17 +1349,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
-            "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
-            "publishedDate": "26/11/2026 18:38",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Moeder (28) van jonge kinderen die Middelburgse ouderen oplichtte hoeft niet de cel in ... - PZC",
             "link": "https://www.pzc.nl/middelburg/moeder-28-van-jonge-kinderen-die-middelburgse-ouderen-oplichtte-hoeft-niet-de-cel-in-maar-krijgt-taakstraf-en-boete~a1acbe92/",
             "publishedDate": "26/11/2026 18:37",
@@ -1826,7 +1822,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nationaal AI-platform voor veiliger opereren - UMC Utrecht",
@@ -1977,18 +1973,11 @@
             "title": "Ozempic- en Mounjaro-makers moeten gebruikers in Verenigde Staten waarschuwen voor ...",
             "link": "https://www.demorgen.be/nieuws/ozempic-en-mounjaro-makers-moeten-gebruikers-in-verenigde-staten-waarschuwen-voor-mogelijk-verlies-van-gezichtsvermogen~b0fceda5/",
             "publishedDate": "26/11/2026 08:10",
-            "source": "demorgen.be, medischdossier.org",
+            "source": "demorgen.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "VS verplicht waarschuwing voor blindheid bij gebruik GLP-1 - Medisch Dossier",
-                    "source": "medischdossier.org",
-                    "link": "https://medischdossier.org/vs-verplicht-waarschuwing-voor-blindheid-bij-gebruik-glp-1/",
-                    "publishedDate": "25/11/2026 18:14"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -2020,6 +2009,17 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "VS verplicht waarschuwing voor blindheid bij gebruik GLP-1 - Medisch Dossier",
+            "link": "https://medischdossier.org/vs-verplicht-waarschuwing-voor-blindheid-bij-gebruik-glp-1/",
+            "publishedDate": "25/11/2026 18:14",
+            "source": "medischdossier.org",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
