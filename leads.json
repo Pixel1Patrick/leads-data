@@ -1,6 +1,30 @@
 {
     "artikelen": [
         {
+            "title": "Sluiskandidatenbrief eerste helft 2027",
+            "link": "https://open.overheid.nl/details/39058f31-2f70-46ac-80a4-a496f2891cbb",
+            "publishedDate": "27/11/2026 16:13",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
+                    "publishedDate": "27/11/2026 16:07"
+                },
+                {
+                    "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/adecdc5a-0f5f-4a7c-af1c-1549a9013aaf",
+                    "publishedDate": "27/11/2026 16:07"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Aanpak vrouwengezondheid werkt in Salland, huisartsen gaan door | Regio | De Stentor.nl",
             "link": "https://www.destentor.nl/deventer/aanpak-vrouwengezondheid-werkt-in-salland-huisartsen-gaan-door~a9a2a82b/",
             "publishedDate": "27/11/2026 16:01",
@@ -37,11 +61,18 @@
             "title": "Nieuwbouw Bravis officieel van start - FMT Gezondheidszorg",
             "link": "https://fmtgezondheidszorg.nl/nieuwbouw-bravis-officieel-van-start/",
             "publishedDate": "27/11/2026 15:29",
-            "source": "fmtgezondheidszorg.nl",
+            "source": "cobouw.nl, fmtgezondheidszorg.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Bouw nieuw Bravis-ziekenhuis voor 450 miljoen euro van start - Cobouw",
+                    "source": "cobouw.nl",
+                    "link": "https://www.cobouw.nl/341034/bouw-nieuw-bravis-ziekenhuis-voor-450-miljoen-euro-van-start",
+                    "publishedDate": "27/11/2026 11:37"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -53,7 +84,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gemeenten worstelen met stijgende kosten voor jeugdzorg - Centraal+",
@@ -185,18 +216,11 @@
             "title": "Belgische meisje in levensgevaar door anticonceptiepil Diane 35, huisarts veroordeeld",
             "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5667530/belgische-huisarts-veroordeeld-diane-35-trombose-anticonceptiepil",
             "publishedDate": "27/11/2026 14:57",
-            "source": "rtl.nl, youtube.com",
+            "source": "rtl.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "How dangerous is the Diane 35 pill? - YouTube",
-                    "source": "youtube.com",
-                    "link": "https://www.youtube.com/watch?v=1s9UyljmUH0",
-                    "publishedDate": "27/11/2026 01:21"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -252,30 +276,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Sluiskandidaten eerste helft 2027",
-            "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
-            "publishedDate": "27/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over Sluiskandidaten eerste helft 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/adecdc5a-0f5f-4a7c-af1c-1549a9013aaf",
-                    "publishedDate": "27/11/2026 14:08"
-                },
-                {
-                    "title": "Sluiskandidatenbrief eerste helft 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/39058f31-2f70-46ac-80a4-a496f2891cbb",
-                    "publishedDate": "27/11/2026 14:08"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -419,11 +419,18 @@
             "title": "Belgische primeur voor ziekenhuis Jan Yperman met heliumarme MRI - Medi-Sfeer",
             "link": "https://www.medi-sfeer.be/nl/nieuws/belgische-primeur-voor-ziekenhuis-jan-yperman-met-heliumarme-mri.html",
             "publishedDate": "27/11/2026 13:15",
-            "source": "medi-sfeer.be",
+            "source": "kw.be, medi-sfeer.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jan Yperman Ziekenhuis haalt Belgische MRI-primeur naar Westhoek - KW.be",
+                    "source": "kw.be",
+                    "link": "https://kw.be/nieuws/samenleving/gezondheid/ziekenhuis/jan-yperman-ziekenhuis-haalt-belgische-mri-primeur-naar-westhoek-van-1-000-naar-07-liter-helium-en-30-minder-elektriciteit/",
+                    "publishedDate": "27/11/2026 11:59"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -547,17 +554,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jan Yperman Ziekenhuis haalt Belgische MRI-primeur naar Westhoek - KW.be",
-            "link": "https://kw.be/nieuws/samenleving/gezondheid/ziekenhuis/jan-yperman-ziekenhuis-haalt-belgische-mri-primeur-naar-westhoek-van-1-000-naar-07-liter-helium-en-30-minder-elektriciteit/",
-            "publishedDate": "27/11/2026 11:59",
-            "source": "kw.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Influencer Evie van Vliet tijdens zwangerschap naar ziekenhuis vanwege bloedingen",
             "link": "https://www.rtl.nl/boulevard/artikel/5667481/evie-van-vliet-ziekenhuis-vanwege-bloedingen-zwangerschap",
             "publishedDate": "27/11/2026 11:58",
@@ -583,18 +579,11 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "tln.nl, transport-online.nl",
+            "source": "transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
-                    "source": "tln.nl",
-                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-                    "publishedDate": "26/11/2026 18:37"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -616,17 +605,6 @@
             "category": "Overig",
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Bouw nieuw Bravis-ziekenhuis voor 450 miljoen euro van start - Cobouw",
-            "link": "https://www.cobouw.nl/341034/bouw-nieuw-bravis-ziekenhuis-voor-450-miljoen-euro-van-start",
-            "publishedDate": "27/11/2026 11:37",
-            "source": "cobouw.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -751,16 +729,22 @@
             "title": "Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer - ANP Persportaal",
             "link": "https://persportaal.anp.nl/artikel/ddfdd1da-c779-428d-84ce-9f36dcd7d279/zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:49",
-            "source": "nu91.nl, persportaal.anp.nl",
+            "source": "lad.nl, nu91.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
                     "source": "nu91.nl",
                     "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
                     "publishedDate": "27/11/2026 09:36"
+                },
+                {
+                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+                    "publishedDate": "26/11/2026 16:03"
                 }
             ],
             "belangrijkheid": 1
@@ -1054,6 +1038,17 @@
             "source": "waterkant.net",
             "category": "Overig",
             "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "How dangerous is the Diane 35 pill? - YouTube",
+            "link": "https://www.youtube.com/watch?v=1s9UyljmUH0",
+            "publishedDate": "27/11/2026 01:21",
+            "source": "youtube.com",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1356,6 +1351,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "TLN en VVT doen loonbod in derde cao-overleg",
+            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+            "publishedDate": "26/11/2026 18:37",
+            "source": "tln.nl",
+            "category": "Overig",
+            "feed_label": "Alert Vvt",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Moeder (28) van jonge kinderen die Middelburgse ouderen oplichtte hoeft niet de cel in ... - PZC",
             "link": "https://www.pzc.nl/middelburg/moeder-28-van-jonge-kinderen-die-middelburgse-ouderen-oplichtte-hoeft-niet-de-cel-in-maar-krijgt-taakstraf-en-boete~a1acbe92/",
             "publishedDate": "26/11/2026 18:37",
@@ -1487,20 +1493,24 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
-                    "publishedDate": "26/11/2026 17:33"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1631,24 +1641,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-            "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, lad.nl",
-            "category": "Vakbonden",
-            "feed_label": "LAD (vakbond)",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Leerlingen KTA Brugge verzorgen pati\u00ebnten dienst geriatrie van AZ Sin-Jan tijdens Week ...",
             "link": "https://kw.be/nieuws/samenleving/onderwijs/leerlingen-kta-brugge-verzorgen-patienten-dienst-geriatrie-van-az-sin-jan-tijdens-week-van-de-ouderenzorg/",
             "publishedDate": "26/11/2026 15:54",
@@ -1774,7 +1766,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Doorbraak in hormoontherapie tegen borstkanker - Scientias",
@@ -1835,24 +1827,11 @@
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 11:35",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
+            "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-                    "publishedDate": "26/11/2026 09:31"
-                },
-                {
-                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-                    "publishedDate": "25/11/2026 10:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1884,6 +1863,17 @@
             "source": "113.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+            "publishedDate": "26/11/2026 09:31",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2032,6 +2022,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+            "publishedDate": "25/11/2026 10:43",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Gezocht: zorgorganisaties die werk willen maken van gebiedsgericht werken",
             "link": "https://www.vgn.nl/nieuws/gezocht-zorgorganisaties-die-werk-willen-maken-van-gebiedsgericht-werken",
             "publishedDate": "24/11/2026 17:28",
@@ -2142,6 +2143,17 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+            "publishedDate": "24/11/2026 07:00",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
