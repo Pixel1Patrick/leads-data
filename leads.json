@@ -27,16 +27,16 @@
                     "publishedDate": "27/11/2026 15:15"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Meer zorg thuis",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/1a415705-50e6-48f0-8ca0-089a4c4ef32b",
-                    "publishedDate": "27/11/2026 13:49"
+                    "link": "https://open.overheid.nl/details/3dd1b433-ac7d-44c6-8bfb-8cba64888df9",
+                    "publishedDate": "27/11/2026 14:57"
                 },
                 {
-                    "title": "[WOO] Antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
+                    "title": "Kamerbrief over Meer zorg thuis ",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/667deee5-cc2a-49e0-a247-8aa3c0bdd8e4",
-                    "publishedDate": "27/11/2026 13:49"
+                    "link": "https://open.overheid.nl/details/9e98c746-e254-48a5-827f-ca9af776ede1",
+                    "publishedDate": "27/11/2026 14:57"
                 }
             ],
             "belangrijkheid": 0
@@ -50,24 +50,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Meer zorg thuis",
-            "link": "https://open.overheid.nl/details/3dd1b433-ac7d-44c6-8bfb-8cba64888df9",
-            "publishedDate": "27/11/2026 14:57",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over Meer zorg thuis ",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9e98c746-e254-48a5-827f-ca9af776ede1",
-                    "publishedDate": "27/11/2026 14:57"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -238,6 +220,24 @@
             "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
+            "link": "https://open.overheid.nl/details/1a415705-50e6-48f0-8ca0-089a4c4ef32b",
+            "publishedDate": "27/11/2026 13:49",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[WOO] Antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/667deee5-cc2a-49e0-a247-8aa3c0bdd8e4",
+                    "publishedDate": "27/11/2026 13:49"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -419,18 +419,11 @@
             "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
             "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
             "publishedDate": "27/11/2026 12:09",
-            "source": "nl.headtopics.com, vrmg.nl",
+            "source": "vrmg.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
-                    "publishedDate": "26/11/2026 18:38"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -477,11 +470,18 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "transport-online.nl",
+            "source": "tln.nl, transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
+                    "source": "tln.nl",
+                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+                    "publishedDate": "26/11/2026 18:37"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -510,25 +510,12 @@
             "title": "Bouw nieuw Bravis-ziekenhuis voor 450 miljoen euro van start - Cobouw",
             "link": "https://www.cobouw.nl/341034/bouw-nieuw-bravis-ziekenhuis-voor-450-miljoen-euro-van-start",
             "publishedDate": "27/11/2026 11:37",
-            "source": "bndestem.nl, cobouw.nl, internetbode.nl",
+            "source": "cobouw.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Eerste paal nieuw Bravis ziekenhuis geslagen: 'Hier profiteert de hele regio van'",
-                    "source": "internetbode.nl",
-                    "link": "https://www.internetbode.nl/roosendaal/563387/-fotoalbum-eerste-paal-nieuw-bravis-ziekenhuis-geslagen-hier-profiteert-de-hele-regio-van",
-                    "publishedDate": "27/11/2026 09:36"
-                },
-                {
-                    "title": "Het grote aftellen is begonnen in Roosendaal: Bravis zegt nu \u00e9cht te bouwen, al is ... - BN DeStem",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/roosendaal/het-grote-aftellen-is-begonnen-in-roosendaal-bravis-zegt-nu-echt-te-bouwen-al-is-die-eerste-paal-niet-de-eerste~a1c3d900/",
-                    "publishedDate": "27/11/2026 04:36"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Eerste nazending Najaars ALV 11 december - VNG",
@@ -672,6 +659,17 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Eerste paal nieuw Bravis ziekenhuis geslagen: 'Hier profiteert de hele regio van'",
+            "link": "https://www.internetbode.nl/roosendaal/563387/-fotoalbum-eerste-paal-nieuw-bravis-ziekenhuis-geslagen-hier-profiteert-de-hele-regio-van",
+            "publishedDate": "27/11/2026 09:36",
+            "source": "internetbode.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -828,7 +826,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Een dag eerder weten dat het misgaat: onderzoek naar wat AI kan betekenen",
@@ -926,6 +924,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Het grote aftellen is begonnen in Roosendaal: Bravis zegt nu \u00e9cht te bouwen, al is ... - BN DeStem",
+            "link": "https://www.bndestem.nl/roosendaal/het-grote-aftellen-is-begonnen-in-roosendaal-bravis-zegt-nu-echt-te-bouwen-al-is-die-eerste-paal-niet-de-eerste~a1c3d900/",
+            "publishedDate": "27/11/2026 04:36",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Welzijnszorg | Otheo",
             "link": "https://www.otheo.be/pe-sint-jakob-tielt-pittem-dentergem/artikel/welzijnszorg",
             "publishedDate": "27/11/2026 04:32",
@@ -948,17 +957,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Kabinet steekt miljoenen in samenwerking tussen wetenschap en bedrijfsleven - BNR",
-            "link": "https://www.bnr.nl/nieuws/tech-innovatie/10616209/kabinet-steekt-miljoenen-in-samenwerking-tussen-wetenschap-en-bedrijfsleven",
-            "publishedDate": "27/11/2026 03:34",
-            "source": "bnr.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nij Smellinghe en Antonius ziekenhuis onderzoeken fusie mogelijkheden - Head Topics",
             "link": "https://nl.headtopics.com/news/nij-smellinghe-en-antonius-ziekenhuis-onderzoeken-fusie-90208025",
             "publishedDate": "27/11/2026 03:34",
@@ -970,34 +968,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Pharos ondersteunt manifest gezondheidsfondsen in strijd tegen de tabaksindustrie",
-            "link": "https://www.pharos.nl/nieuws/pharos-ondersteunt-manifest-gezondheidsfondsen-in-strijd-tegen-de-tabaksindustrie/",
-            "publishedDate": "27/11/2026 03:27",
-            "source": "pharos.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Een avatar als arts en met \u00e9\u00e9n klik je medicijnen thuisbezorgd: de Chinese digitale zorg ...",
             "link": "https://www.parool.nl/wereld/een-avatar-als-arts-en-met-een-klik-je-medicijnen-thuisbezorgd-de-chinese-digitale-zorg-ontwikkelt-zich-razendsnel~be94ac47/",
             "publishedDate": "27/11/2026 03:06",
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Belgische AI-assistent helpt chirurgen tijdens operaties: 'Binnen twintig jaar zal groot deel ...",
-            "link": "https://www.demorgen.be/beter-leven/belgische-ai-assistent-helpt-chirurgen-tijdens-operaties-binnen-twintig-jaar-zal-groot-deel-van-chirurgie-geautomatiseerd-verlopen~b2c356b8/",
-            "publishedDate": "27/11/2026 03:04",
-            "source": "demorgen.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1344,12 +1320,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "TLN en VVT doen loonbod in derde cao-overleg",
-            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-            "publishedDate": "26/11/2026 18:37",
-            "source": "tln.nl",
+            "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
+            "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
+            "publishedDate": "26/11/2026 18:38",
+            "source": "nl.headtopics.com",
             "category": "Overig",
-            "feed_label": "Alert Vvt",
+            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1828,7 +1804,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Nationaal AI-platform voor veiliger opereren - UMC Utrecht",
