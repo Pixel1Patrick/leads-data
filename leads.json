@@ -298,11 +298,24 @@
             "title": "VieCuri vernieuwt OK's en medische beeldvorming | ICT&amp;health",
             "link": "https://www.icthealth.nl/nieuws/viecuri-vernieuwt-oks-en-medische-beeldvorming",
             "publishedDate": "27/11/2026 07:00",
-            "source": "icthealth.nl",
+            "source": "icthealth.nl, l1nieuws.nl, omroeppenm.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
+                    "publishedDate": "27/11/2026 02:51"
+                },
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
+                    "source": "omroeppenm.nl",
+                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
+                    "publishedDate": "26/11/2026 14:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -493,17 +506,6 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
-            "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
-            "publishedDate": "27/11/2026 02:51",
-            "source": "l1nieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -754,11 +756,18 @@
             "title": "Addy van den Krommenacker terug in Nederland na ziekenhuis Jamaica - KIJK",
             "link": "https://www.kijk.nl/programmas/shownieuws/JWHbHIXQWKWtFR",
             "publishedDate": "26/11/2026 22:01",
-            "source": "kijk.nl",
+            "source": "kijk.nl, telegraaf.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Addy van den Krommenacker weer thuis na ziekenhuisopname in Jamaica: 'Geen pretje'",
+                    "source": "telegraaf.nl",
+                    "link": "https://www.telegraaf.nl/entertainment/sterren/addy-van-den-krommenacker-weer-thuis-na-ziekenhuisopname-in-jamaica-geen-pretje/165158358.html",
+                    "publishedDate": "26/11/2026 19:30"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -929,17 +938,6 @@
             "source": "medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Addy van den Krommenacker weer thuis na ziekenhuisopname in Jamaica: 'Geen pretje'",
-            "link": "https://www.telegraaf.nl/entertainment/sterren/addy-van-den-krommenacker-weer-thuis-na-ziekenhuisopname-in-jamaica-geen-pretje/165158358.html",
-            "publishedDate": "26/11/2026 19:30",
-            "source": "telegraaf.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1131,24 +1129,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1338,7 +1332,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
@@ -1454,17 +1448,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
-            "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
-            "publishedDate": "26/11/2026 14:41",
-            "source": "omroeppenm.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Waarom minder verkooppunten van tabak en nicotineproducten? - Trimbos-instituut",
             "link": "https://www.trimbos.nl/kennis/roken-tabak/verkoop-van-tabaks-en-nicotineproducten-in-nederland/waarom-minder-verkooppunten-van-tabak-en-nicotineproducten/",
             "publishedDate": "26/11/2026 14:41",
@@ -1479,11 +1462,18 @@
             "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
             "publishedDate": "26/11/2026 14:41",
-            "source": "pw.nl",
+            "source": "pw.nl, rivm.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
+                    "publishedDate": "24/11/2026 13:53"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -2123,17 +2113,6 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
-            "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
-            "publishedDate": "24/11/2026 13:53",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
