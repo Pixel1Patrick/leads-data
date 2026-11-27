@@ -124,7 +124,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 3,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gemeenten worstelen met stijgende kosten voor jeugdzorg - Centraal+",
@@ -325,19 +325,13 @@
             "source": "olvg.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 10,
+            "duplicate_count": 8,
             "extra_bronnen": [
                 {
                     "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
                     "source": "parool.nl",
                     "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-doe-het-alsjeblieft-niet~b62a0f10/",
                     "publishedDate": "27/11/2026 13:53"
-                },
-                {
-                    "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
-                    "publishedDate": "27/11/2026 12:42"
                 },
                 {
                     "title": "Van pionier in de spoedzorg tot sluiting in 2032: waarom OLVG Oost zijn spoedeisende hulp verliest",
@@ -551,6 +545,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
+            "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
+            "publishedDate": "27/11/2026 12:42",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "PRO wil dat Hardinxveld-Giessendam het kabinet oproept geen eigen bijdrage voor ... - Drimble",
             "link": "https://drimble.nl/regio/zuid-holland/drechtsteden/108730293/pro-wil-dat-hardinxveld-giessendam-het-kabinet-oproept-geen-eigen-bijdrage-voor-jeugdzorg-in-te-voeren-vergroot-kansenongelijkheid.html",
             "publishedDate": "27/11/2026 12:23",
@@ -628,7 +633,7 @@
                     "publishedDate": "27/11/2026 12:01"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Jan Yperman Ziekenhuis haalt Belgische MRI-primeur naar Westhoek - KW.be",
@@ -667,18 +672,11 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "tln.nl, transport-online.nl",
+            "source": "transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
-                    "source": "tln.nl",
-                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-                    "publishedDate": "26/11/2026 18:37"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -835,22 +833,16 @@
             "title": "Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer - ANP Persportaal",
             "link": "https://persportaal.anp.nl/artikel/ddfdd1da-c779-428d-84ce-9f36dcd7d279/zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:49",
-            "source": "lad.nl, nu91.nl, persportaal.anp.nl",
+            "source": "nu91.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
                     "source": "nu91.nl",
                     "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
                     "publishedDate": "27/11/2026 09:36"
-                },
-                {
-                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-                    "publishedDate": "26/11/2026 16:03"
                 }
             ],
             "belangrijkheid": 1
@@ -1343,6 +1335,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "TLN en VVT doen loonbod in derde cao-overleg",
+            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+            "publishedDate": "26/11/2026 18:37",
+            "source": "tln.nl",
+            "category": "Overig",
+            "feed_label": "Alert Vvt",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Moeder (28) van jonge kinderen die Middelburgse ouderen oplichtte hoeft niet de cel in ... - PZC",
             "link": "https://www.pzc.nl/middelburg/moeder-28-van-jonge-kinderen-die-middelburgse-ouderen-oplichtte-hoeft-niet-de-cel-in-maar-krijgt-taakstraf-en-boete~a1acbe92/",
             "publishedDate": "26/11/2026 18:37",
@@ -1456,18 +1459,12 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/431eeb7b-2095-4dd9-ba04-5cd9b34d85c8",
-                    "publishedDate": "26/11/2026 17:33"
-                },
-                {
-                    "title": "Stand van zaken moties en toezeggingen",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
                     "publishedDate": "26/11/2026 17:33"
                 }
             ],
@@ -1494,6 +1491,17 @@
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Stand van zaken moties en toezeggingen",
+            "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1611,6 +1619,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+            "publishedDate": "26/11/2026 16:03",
+            "source": "cnv.nl, lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Leerlingen KTA Brugge verzorgen pati\u00ebnten dienst geriatrie van AZ Sin-Jan tijdens Week ...",
@@ -1738,7 +1764,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Doorbraak in hormoontherapie tegen borstkanker - Scientias",
@@ -2126,17 +2152,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-            "publishedDate": "24/11/2026 07:00",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
