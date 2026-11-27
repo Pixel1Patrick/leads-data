@@ -4,11 +4,24 @@
             "title": "Arts veroordeeld na voorschrift anticonceptiepil Diane 35: 'Er valt iets te zeggen voor een ...",
             "link": "https://www.demorgen.be/nieuws/arts-veroordeeld-na-voorschrift-anticonceptiepil-diane-35-er-valt-iets-te-zeggen-voor-een-verbod-op-deze-pil~b1dc5ce7/",
             "publishedDate": "27/11/2026 18:13",
-            "source": "demorgen.be",
+            "source": "demorgen.be, despecialist.eu, rtl.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Belgische meisje in levensgevaar door anticonceptiepil Diane 35, huisarts veroordeeld",
+                    "source": "rtl.nl",
+                    "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5667530/belgische-huisarts-veroordeeld-diane-35-trombose-anticonceptiepil",
+                    "publishedDate": "27/11/2026 14:57"
+                },
+                {
+                    "title": "Huisarts veroordeeld: &quot;belangrijk dat we niet alle artsen culpabiliseren&quot; (Domus Medica)",
+                    "source": "despecialist.eu",
+                    "link": "https://www.despecialist.eu/nl/nieuws/generaliste-condamnee-laquo-il-est-important-de-ne-pas-culpabiliser-tous-les-medecins-raquo-domus-medica.html",
+                    "publishedDate": "26/11/2026 18:21"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -377,12 +390,31 @@
             "title": "Mogelijke datadiefstal bij Lelie zorggroep raakt ook Zeeuwen, organisatie informeert ...",
             "link": "https://www.ad.nl/goes/mogelijke-datadiefstal-bij-lelie-zorggroep-raakt-ook-zeeuwen-organisatie-informeert-betrokkenen-uit-voorzorg~ad603c85/",
             "publishedDate": "27/11/2026 16:35",
-            "source": "ad.nl",
+            "source": "ad.nl, nl.headtopics.com, tweakers.net, vrmg.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Nederlandse zorginstelling Lelie is gehackt, mogelijk pati\u00ebntgegevens gestolen - Tweakers",
+                    "source": "tweakers.net",
+                    "link": "https://tweakers.net/nieuws/254998/nederlandse-zorginstelling-lelie-is-gehackt-mogelijk-patientgegevens-gestolen.html",
+                    "publishedDate": "27/11/2026 15:00"
+                },
+                {
+                    "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
+                    "source": "vrmg.nl",
+                    "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
+                    "publishedDate": "27/11/2026 12:09"
+                },
+                {
+                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
+                    "publishedDate": "26/11/2026 18:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "gemeente grijpt in tegen zwijnen die elke nacht het gras omploegen | Regio | AD.nl",
@@ -712,41 +744,6 @@
             "source": "antoniusziekenhuis.nl",
             "category": "Zorgaanbieders",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nederlandse zorginstelling Lelie is gehackt, mogelijk pati\u00ebntgegevens gestolen - Tweakers",
-            "link": "https://tweakers.net/nieuws/254998/nederlandse-zorginstelling-lelie-is-gehackt-mogelijk-patientgegevens-gestolen.html",
-            "publishedDate": "27/11/2026 15:00",
-            "source": "nl.headtopics.com, tweakers.net, vrmg.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
-                    "source": "vrmg.nl",
-                    "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
-                    "publishedDate": "27/11/2026 12:09"
-                },
-                {
-                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
-                    "publishedDate": "26/11/2026 18:38"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Belgische meisje in levensgevaar door anticonceptiepil Diane 35, huisarts veroordeeld",
-            "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5667530/belgische-huisarts-veroordeeld-diane-35-trombose-anticonceptiepil",
-            "publishedDate": "27/11/2026 14:57",
-            "source": "rtl.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1658,17 +1655,6 @@
             "source": "arnhem.nl",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Huisarts veroordeeld: &quot;belangrijk dat we niet alle artsen culpabiliseren&quot; (Domus Medica)",
-            "link": "https://www.despecialist.eu/nl/nieuws/generaliste-condamnee-laquo-il-est-important-de-ne-pas-culpabiliser-tous-les-medecins-raquo-domus-medica.html",
-            "publishedDate": "26/11/2026 18:21",
-            "source": "despecialist.eu",
-            "category": "Overig",
-            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
