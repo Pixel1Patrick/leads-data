@@ -335,18 +335,11 @@
             "title": "Brandweer in actie na melding van beknelling door omgevallen boom op woning",
             "link": "https://www.waterkant.net/suriname/2026/11/26/brandweer-in-actie-na-melding-van-beknelling-door-omgevallen-boom-op-woning/",
             "publishedDate": "27/11/2026 01:32",
-            "source": "sun.sr, waterkant.net",
+            "source": "waterkant.net",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kankantrieboom valt op woning Nieuwe Charlesburgweg, drie kinderen naar SEH",
-                    "source": "sun.sr",
-                    "link": "https://sun.sr/nieuws/lokaal/kankantrieboom-valt-op-woning-nieuwe-charlesburgweg-drie-kinderen-naar-seh?id=46314",
-                    "publishedDate": "27/11/2026 00:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -356,6 +349,17 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Kankantrieboom valt op woning Nieuwe Charlesburgweg, drie kinderen naar SEH",
+            "link": "https://sun.sr/nieuws/lokaal/kankantrieboom-valt-op-woning-nieuwe-charlesburgweg-drie-kinderen-naar-seh?id=46314",
+            "publishedDate": "27/11/2026 00:43",
+            "source": "sun.sr",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -868,8 +872,20 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+                    "publishedDate": "26/11/2026 14:32"
+                },
+                {
+                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
+                    "publishedDate": "26/11/2026 09:29"
+                },
                 {
                     "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
                     "source": "cnv.nl",
@@ -1350,17 +1366,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-            "publishedDate": "26/11/2026 14:32",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Duitsland kondigt schadeclaim tegen Damen aan na fregattendrama | Regio | BN DeStem.nl",
             "link": "https://www.bndestem.nl/zeeland/duitsland-kondigt-schadeclaim-tegen-damen-aan-na-fregattendrama~ab8419be/",
             "publishedDate": "26/11/2026 14:21",
@@ -1739,17 +1744,6 @@
             "source": "fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
-            "publishedDate": "26/11/2026 09:29",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
