@@ -445,19 +445,13 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
                     "source": "parool.nl",
                     "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-armoedig-besluit-voor-een-wereldstad~b62a0f10/",
                     "publishedDate": "27/11/2026 14:08"
-                },
-                {
-                    "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
-                    "publishedDate": "27/11/2026 12:42"
                 },
                 {
                     "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Doe het alsjeblieft niet'",
@@ -969,6 +963,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
+            "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
+            "publishedDate": "27/11/2026 12:42",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "PRO wil dat Hardinxveld-Giessendam het kabinet oproept geen eigen bijdrage voor ... - Drimble",
             "link": "https://drimble.nl/regio/zuid-holland/drechtsteden/108730293/pro-wil-dat-hardinxveld-giessendam-het-kabinet-oproept-geen-eigen-bijdrage-voor-jeugdzorg-in-te-voeren-vergroot-kansenongelijkheid.html",
             "publishedDate": "27/11/2026 12:23",
@@ -1023,11 +1028,18 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "transport-online.nl",
+            "source": "tln.nl, transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
+                    "source": "tln.nl",
+                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+                    "publishedDate": "26/11/2026 18:37"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1619,17 +1631,6 @@
             "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "TLN en VVT doen loonbod in derde cao-overleg",
-            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-            "publishedDate": "26/11/2026 18:37",
-            "source": "tln.nl",
-            "category": "Overig",
-            "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
