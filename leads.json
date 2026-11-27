@@ -127,18 +127,11 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "tln.nl, transport-online.nl",
+            "source": "transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
-                    "source": "tln.nl",
-                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-                    "publishedDate": "26/11/2026 18:37"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -287,7 +280,7 @@
                     "publishedDate": "26/11/2026 10:51"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
@@ -484,7 +477,7 @@
                     "publishedDate": "27/11/2026 06:43"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Een dag eerder weten dat het misgaat: onderzoek naar wat AI kan betekenen",
@@ -501,11 +494,18 @@
             "title": "Medemblik gaat extern personeel inhuren om wachtlijst jeugdzorg aan te ... - Noordhollands Dagblad",
             "link": "https://www.noordhollandsdagblad.nl/regio/west-friesland/medemblik-gaat-extern-personeel-inhuren-om-wachtlijst-jeugdzorg-aan-te-pakken.-gemeente-kan-hulpvraag-momenteel-zelf-niet-aan/165179484.html",
             "publishedDate": "27/11/2026 07:04",
-            "source": "noordhollandsdagblad.nl",
+            "source": "binnenlandsbestuur.nl, noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Afbakening jeugdhulp geen oplossing voor stijgende kosten - Binnenlands Bestuur",
+                    "source": "binnenlandsbestuur.nl",
+                    "link": "https://www.binnenlandsbestuur.nl/sociaal/afbakening-jeugdhulp-geen-oplossing-voor-stijgende-kosten",
+                    "publishedDate": "26/11/2026 16:57"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1087,6 +1087,17 @@
             "belangrijkheid": 1
         },
         {
+            "title": "TLN en VVT doen loonbod in derde cao-overleg",
+            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+            "publishedDate": "26/11/2026 18:37",
+            "source": "tln.nl",
+            "category": "Overig",
+            "feed_label": "Alert Vvt",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Moeder (28) van jonge kinderen die Middelburgse ouderen oplichtte hoeft niet de cel in ... - PZC",
             "link": "https://www.pzc.nl/middelburg/moeder-28-van-jonge-kinderen-die-middelburgse-ouderen-oplichtte-hoeft-niet-de-cel-in-maar-krijgt-taakstraf-en-boete~a1acbe92/",
             "publishedDate": "26/11/2026 18:37",
@@ -1202,7 +1213,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
@@ -1304,17 +1315,6 @@
                     "publishedDate": "26/11/2026 16:58"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Afbakening jeugdhulp geen oplossing voor stijgende kosten - Binnenlands Bestuur",
-            "link": "https://www.binnenlandsbestuur.nl/sociaal/afbakening-jeugdhulp-geen-oplossing-voor-stijgende-kosten",
-            "publishedDate": "26/11/2026 16:57",
-            "source": "binnenlandsbestuur.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
