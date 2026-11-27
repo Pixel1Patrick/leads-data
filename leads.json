@@ -666,7 +666,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Thomas in het verpleeghuis | medischcontact",
@@ -697,19 +697,13 @@
             "source": "bndestem.nl, destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Waarom doet kou soms fysiek pijn? Experts leggen uit hoe je beter tegen kou kunt | Nieuws",
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/gezond/waarom-doet-kou-soms-fysiek-pijn-experts-leggen-uit-hoe-je-beter-tegen-kou-kunt~ab6fe3b9/",
                     "publishedDate": "26/11/2026 16:11"
-                },
-                {
-                    "title": "Jonge kinderen klimmen en klauteren tijdens pietengym in Elspeet en Nunspeet - de Stentor",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/nunspeet/jonge-kinderen-klimmen-en-klauteren-tijdens-pietengym-in-elspeet-en-nunspeet~aaca0c9f/",
-                    "publishedDate": "26/11/2026 18:19"
                 }
             ],
             "belangrijkheid": 0
@@ -776,6 +770,17 @@
             "source": "despecialist.eu",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jonge kinderen klimmen en klauteren tijdens pietengym in Elspeet en Nunspeet - de Stentor",
+            "link": "https://www.destentor.nl/nunspeet/jonge-kinderen-klimmen-en-klauteren-tijdens-pietengym-in-elspeet-en-nunspeet~aaca0c9f/",
+            "publishedDate": "26/11/2026 18:19",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1125,29 +1130,11 @@
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
+            "source": "cnv.nl, lad.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 5,
+            "duplicate_count": 2,
             "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
-                },
                 {
                     "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
                     "source": "cnv.nl",
@@ -1899,18 +1886,22 @@
             "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
             "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
             "publishedDate": "25/11/2026 17:17",
-            "source": "jeugdzorgnederland.nl, vgn.nl",
+            "source": "vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
-                    "publishedDate": "25/11/2026 16:54"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
+            "publishedDate": "25/11/2026 16:54",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Jeugdzorg Nederland",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -2097,6 +2088,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
             "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
             "publishedDate": "24/11/2026 13:53",
@@ -2106,6 +2108,28 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+            "publishedDate": "24/11/2026 13:47",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+            "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+            "publishedDate": "24/11/2026 11:08",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
