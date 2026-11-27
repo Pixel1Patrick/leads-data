@@ -769,12 +769,19 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "transport-online.nl",
+            "source": "tln.nl, transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
+                    "source": "tln.nl",
+                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+                    "publishedDate": "26/11/2026 18:37"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Kamer krijgt Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg - VNG",
@@ -785,7 +792,7 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Taakstraf voor bedreigen zorgpersoneel | Crime - Drimble",
@@ -1421,17 +1428,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "TLN en VVT doen loonbod in derde cao-overleg",
-            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-            "publishedDate": "26/11/2026 18:37",
-            "source": "tln.nl",
-            "category": "Overig",
-            "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Arnhem gaat zorgaanbieders beter spreiden over de stad",
             "link": "https://www.arnhem.nl/actueel/arnhem-gaat-zorgaanbieders-beter-spreiden-over-de-stad/",
             "publishedDate": "26/11/2026 18:36",
@@ -1777,7 +1773,7 @@
             "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "MedZO in de praktijk: Hoe onderzoek beslissingen tijdens een schildklieroperatie kan verbeteren",
@@ -1975,7 +1971,7 @@
             "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gezocht: zorgorganisaties die werk willen maken van gebiedsgericht werken",
