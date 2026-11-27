@@ -526,22 +526,16 @@
             "title": "Primeur voor Isala: eigen geneesmiddel beschikbaar voor andere ziekenhuizen",
             "link": "https://www.brugnieuws.nl/nieuws/nieuws/380348/primeur-voor-isala-eigen-geneesmiddel-beschikbaar-voor-andere-ziekenhuizen",
             "publishedDate": "26/11/2026 21:08",
-            "source": "brugnieuws.nl, deswollenaer.nl, locomediagroep.nl",
+            "source": "brugnieuws.nl, deswollenaer.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Primeur voor Isala: eigen geneesmiddel beschikbaar voor andere ziekenhuizen",
                     "source": "deswollenaer.nl",
                     "link": "https://www.deswollenaer.nl/nieuws/nieuws/380348/primeur-voor-isala-eigen-geneesmiddel-beschikbaar-voor-andere-ziekenhuizen",
                     "publishedDate": "26/11/2026 20:55"
-                },
-                {
-                    "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
-                    "source": "locomediagroep.nl",
-                    "link": "https://locomediagroep.nl/nieuws/693-isala-als-eerste-ziekenhuis-met-eigen-geregistreerd-geneesmiddel/",
-                    "publishedDate": "26/11/2026 14:43"
                 }
             ],
             "belangrijkheid": 0
@@ -703,13 +697,19 @@
             "source": "bndestem.nl, destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Waarom doet kou soms fysiek pijn? Experts leggen uit hoe je beter tegen kou kunt | Nieuws",
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/gezond/waarom-doet-kou-soms-fysiek-pijn-experts-leggen-uit-hoe-je-beter-tegen-kou-kunt~ab6fe3b9/",
                     "publishedDate": "26/11/2026 16:11"
+                },
+                {
+                    "title": "Jonge kinderen klimmen en klauteren tijdens pietengym in Elspeet en Nunspeet - de Stentor",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/nunspeet/jonge-kinderen-klimmen-en-klauteren-tijdens-pietengym-in-elspeet-en-nunspeet~aaca0c9f/",
+                    "publishedDate": "26/11/2026 18:19"
                 }
             ],
             "belangrijkheid": 0
@@ -729,18 +729,11 @@
             "title": "Vrije artsenkeuze wordt een luxe: zoveel betaal je er in 2027 extra voor - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/vrije-artsenkeuze-wordt-een-luxe-zoveel-betaal-je-er-in-2027-extra-voor",
             "publishedDate": "26/11/2026 18:50",
-            "source": "overstappen.nl, zorgwijzer.nl",
+            "source": "zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Deze extra's krijg je gratis bij je zorgverzekering in 2027 - Overstappen.nl",
-                    "source": "overstappen.nl",
-                    "link": "https://www.overstappen.nl/nieuws/deze-extras-krijg-je-gratis-bij-je-zorgverzekering-in-2027/",
-                    "publishedDate": "26/11/2026 16:36"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -783,17 +776,6 @@
             "source": "despecialist.eu",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jonge kinderen klimmen en klauteren tijdens pietengym in Elspeet en Nunspeet - de Stentor",
-            "link": "https://www.destentor.nl/nunspeet/jonge-kinderen-klimmen-en-klauteren-tijdens-pietengym-in-elspeet-en-nunspeet~aaca0c9f/",
-            "publishedDate": "26/11/2026 18:19",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1014,6 +996,17 @@
             "source": "domusmedica.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Deze extra's krijg je gratis bij je zorgverzekering in 2027 - Overstappen.nl",
+            "link": "https://www.overstappen.nl/nieuws/deze-extras-krijg-je-gratis-bij-je-zorgverzekering-in-2027/",
+            "publishedDate": "26/11/2026 16:36",
+            "source": "overstappen.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1278,6 +1271,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
+            "link": "https://locomediagroep.nl/nieuws/693-isala-als-eerste-ziekenhuis-met-eigen-geregistreerd-geneesmiddel/",
+            "publishedDate": "26/11/2026 14:43",
+            "source": "locomediagroep.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
             "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
             "publishedDate": "26/11/2026 14:41",
@@ -1374,7 +1378,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Gemeenten Kop van Noord-Holland zetten volgende stap in regionale samenwerking",
@@ -1418,7 +1422,7 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bestuurder Warande vertrekt na verlies rechtszaak Kraaijbeek, organisatie ontkent verband",
@@ -1895,22 +1899,18 @@
             "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
             "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
             "publishedDate": "25/11/2026 17:17",
-            "source": "vgn.nl",
+            "source": "jeugdzorgnederland.nl, vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
-            "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
-            "publishedDate": "25/11/2026 16:54",
-            "source": "jeugdzorgnederland.nl",
-            "category": "Overig",
-            "feed_label": "Jeugdzorg Nederland",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
+                    "source": "jeugdzorgnederland.nl",
+                    "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
+                    "publishedDate": "25/11/2026 16:54"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
