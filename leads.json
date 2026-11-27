@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "De Changemakers van het Jaar 2026: Klaske Postma en Celina Kroon winnen Awards",
+            "link": "https://www.change.inc/transities/leiderschap-transitie/de-changemakers-van-het-jaar-2026-klaske-postma-en-celina-kroon-winnen-awards",
+            "publishedDate": "27/11/2026 08:42",
+            "source": "change.inc",
+            "category": "Overig",
+            "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Vallende blaadjes in vrieskou: zeldzaam weer kan voor gevaarlijke situaties zorgen",
             "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5667364/wat-kan-ik-doen-tegen-bevroren-bladeren-op-de-weg",
             "publishedDate": "27/11/2026 08:28",
@@ -807,11 +818,18 @@
             "title": "Huisarts veroordeeld: &quot;belangrijk dat we niet alle artsen culpabiliseren&quot; (Domus Medica)",
             "link": "https://www.despecialist.eu/nl/nieuws/generaliste-condamnee-laquo-il-est-important-de-ne-pas-culpabiliser-tous-les-medecins-raquo-domus-medica.html",
             "publishedDate": "26/11/2026 18:21",
-            "source": "despecialist.eu",
+            "source": "avs.be, despecialist.eu",
             "category": "Overig",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gentse huisarts veroordeeld voor het voorschrijven van Diane 35 - AVS",
+                    "source": "avs.be",
+                    "link": "https://avs.be/nieuws/gentse-huisarts-veroordeeld-voor-het-voorschrijven-van-diane-35",
+                    "publishedDate": "26/11/2026 17:59"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -848,17 +866,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Gentse huisarts veroordeeld voor het voorschrijven van Diane 35 - AVS",
-            "link": "https://avs.be/nieuws/gentse-huisarts-veroordeeld-voor-het-voorschrijven-van-diane-35",
-            "publishedDate": "26/11/2026 17:59",
-            "source": "avs.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Durf buiten de lijntjes te kleuren in de jeugdzorg: 'Zelfs als het schuurt, doen!'",
             "link": "https://www.binnenlandsbestuur.nl/sociaal/durf-buiten-de-lijntjes-te-kleuren-in-de-jeugdzorg",
             "publishedDate": "26/11/2026 17:55",
@@ -873,11 +880,24 @@
             "title": "[FNV] Medewerkers Sanquin bieden 5.500 kaarten aan directie aan vanwege zorgen toekomst bloedbank",
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/medewerkers-sanquin-geven-5500-kaarten-directie",
             "publishedDate": "26/11/2026 17:45",
-            "source": "fnv.nl",
+            "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
+                    "publishedDate": "26/11/2026 09:29"
+                },
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -887,12 +907,18 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/431eeb7b-2095-4dd9-ba04-5cd9b34d85c8",
+                    "publishedDate": "26/11/2026 17:33"
+                },
+                {
+                    "title": "Stand van zaken moties en toezeggingen",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
                     "publishedDate": "26/11/2026 17:33"
                 }
             ],
@@ -919,17 +945,6 @@
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Stand van zaken moties en toezeggingen",
-            "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1745,17 +1760,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
-            "publishedDate": "26/11/2026 09:29",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
             "link": "https://www.eemskrant.nl/groninger-zorgakkoord-zoekt-nieuwe-zorgontdekkers/",
             "publishedDate": "26/11/2026 09:22",
@@ -2080,17 +2084,6 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-            "publishedDate": "24/11/2026 10:38",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
