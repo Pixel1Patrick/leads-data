@@ -36,8 +36,14 @@
             "source": "olvg.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 5,
+            "duplicate_count": 6,
             "extra_bronnen": [
+                {
+                    "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Doe het alsjeblieft niet'",
+                    "source": "parool.nl",
+                    "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-doe-het-alsjeblieft-niet~b62a0f10/",
+                    "publishedDate": "27/11/2026 12:23"
+                },
                 {
                     "title": "Van pionier in de spoedzorg tot sluiting in 2032: waarom OLVG Oost zijn spoedeisende hulp verliest",
                     "source": "parool.nl",
@@ -58,17 +64,6 @@
                 }
             ],
             "belangrijkheid": 1
-        },
-        {
-            "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Doe het alsjeblieft niet'",
-            "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-doe-het-alsjeblieft-niet~b62a0f10/",
-            "publishedDate": "27/11/2026 12:23",
-            "source": "parool.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
         },
         {
             "title": "PRO wil dat Hardinxveld-Giessendam het kabinet oproept geen eigen bijdrage voor ... - Drimble",
@@ -168,7 +163,7 @@
                     "publishedDate": "27/11/2026 04:36"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Eerste nazending Najaars ALV 11 december - VNG",
@@ -208,7 +203,7 @@
                     "publishedDate": "27/11/2026 11:13"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "'Vliegende draagmoeders' bevallen soms ook in Nederland, regels worden daarbij omzeild",
@@ -292,17 +287,35 @@
                     "publishedDate": "26/11/2026 10:51"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
             "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:36",
-            "source": "cnv.nl, nu91.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+                    "publishedDate": "26/11/2026 16:03"
+                },
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
                 {
                     "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
                     "source": "cnv.nl",
@@ -459,12 +472,19 @@
             "title": "Griepvirus duikt dit jaar veel eerder op, ziekenhuizen zien al de eerste extra opnames",
             "link": "https://www.gelderlander.nl/gezond/griepvirus-duikt-dit-jaar-veel-eerder-op-ziekenhuizen-zien-al-de-eerste-extra-opnames~a6ccde79/",
             "publishedDate": "27/11/2026 07:14",
-            "source": "gelderlander.nl",
+            "source": "gelderlander.nl, omroepwest.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Huisarts ziet meer luchtwegklachten nu coronavirus weer rondgaat - Omroep West",
+                    "source": "omroepwest.nl",
+                    "link": "https://www.omroepwest.nl/zorg/5176355/huisarts-ziet-meer-luchtwegklachten-nu-coronavirus-weer-rondgaat",
+                    "publishedDate": "27/11/2026 06:43"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Een dag eerder weten dat het misgaat: onderzoek naar wat AI kan betekenen",
@@ -518,17 +538,6 @@
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Huisarts ziet meer luchtwegklachten nu coronavirus weer rondgaat - Omroep West",
-            "link": "https://www.omroepwest.nl/zorg/5176355/huisarts-ziet-meer-luchtwegklachten-nu-coronavirus-weer-rondgaat",
-            "publishedDate": "27/11/2026 06:43",
-            "source": "omroepwest.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -603,7 +612,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Pharos ondersteunt manifest gezondheidsfondsen in strijd tegen de tabaksindustrie",
@@ -1172,7 +1181,7 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
@@ -1185,6 +1194,12 @@
                     "source": "cnv.nl",
                     "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
                     "publishedDate": "26/11/2026 09:29"
+                },
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
                 }
             ],
             "belangrijkheid": 1
@@ -1422,36 +1437,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-            "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "LAD (vakbond)",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Leerlingen KTA Brugge verzorgen pati\u00ebnten dienst geriatrie van AZ Sin-Jan tijdens Week ...",
@@ -1795,7 +1780,7 @@
             "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Huisarts onthouden van werk na alcoholgebruik: tuchtzaak 8 december",
@@ -1944,17 +1929,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "7e Voortgangsrapportage Waardigheid en trots voor de toekomst",
-            "link": "https://open.overheid.nl/details/40869c0b-bd15-4312-851c-bcd5da867889",
-            "publishedDate": "25/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "\u201eBoontjes uit eigen tuin vinden de bewoners drie keer zo lekker\u201d: Stijn zet zijn schouders ...",
             "link": "https://www.rd.nl/artikel/boontjes-uit-eigen-tuin-vinden-de-bewoners-drie-keer-zo-lekker-stijn-zet-zijn-schouders-onder-de-moestuin-van-philadelphia",
             "publishedDate": "25/11/2026 13:16",
@@ -2021,17 +1995,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-            "publishedDate": "24/11/2026 10:38",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nieuwe handreiking ondersteunt medisch verantwoorde eiwittransitie voor pati\u00ebnten",
             "link": "https://nvz-ziekenhuizen.nl/actualiteit-en-opinie/nieuwe-handreiking-ondersteunt-medisch-verantwoorde-eiwittransitie-voor",
             "publishedDate": "24/11/2026 09:09",
@@ -2074,6 +2037,17 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+            "publishedDate": "24/11/2026 07:00",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
