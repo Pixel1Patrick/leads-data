@@ -279,11 +279,18 @@
             "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
             "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
             "publishedDate": "27/11/2026 12:09",
-            "source": "vrmg.nl",
+            "source": "nl.headtopics.com, vrmg.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
+                    "publishedDate": "26/11/2026 18:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -458,18 +465,11 @@
             "title": "Den Helder, Schagen, Hollands Kroon en Texel bundelen krachten in zorg en ondersteuning",
             "link": "https://www.noordhollandsdagblad.nl/regio/noordkop/noordkop-denhelder/den-helder-schagen-hollands-kroon-en-texel-bundelen-krachten-in-zorg-en-ondersteuning/165131587.html",
             "publishedDate": "27/11/2026 10:49",
-            "source": "deputtenaer.nl, noordhollandsdagblad.nl",
+            "source": "noordhollandsdagblad.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
-                    "source": "deputtenaer.nl",
-                    "link": "https://www.deputtenaer.nl/lokaal/politiek/1330862/een-regionaal-expertiseteam-noord-veluwe-voor-complexe-proble",
-                    "publishedDate": "26/11/2026 16:04"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1215,17 +1215,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
-            "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
-            "publishedDate": "26/11/2026 18:38",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Moeder (28) van jonge kinderen die Middelburgse ouderen oplichtte hoeft niet de cel in ... - PZC",
             "link": "https://www.pzc.nl/middelburg/moeder-28-van-jonge-kinderen-die-middelburgse-ouderen-oplichtte-hoeft-niet-de-cel-in-maar-krijgt-taakstraf-en-boete~a1acbe92/",
             "publishedDate": "26/11/2026 18:37",
@@ -1552,6 +1541,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
+            "link": "https://www.deputtenaer.nl/lokaal/politiek/1330862/een-regionaal-expertiseteam-noord-veluwe-voor-complexe-proble",
+            "publishedDate": "26/11/2026 16:04",
+            "source": "deputtenaer.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdhulp",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Leerlingen KTA Brugge verzorgen pati\u00ebnten dienst geriatrie van AZ Sin-Jan tijdens Week ...",
             "link": "https://kw.be/nieuws/samenleving/onderwijs/leerlingen-kta-brugge-verzorgen-patienten-dienst-geriatrie-van-az-sin-jan-tijdens-week-van-de-ouderenzorg/",
             "publishedDate": "26/11/2026 15:54",
@@ -1822,24 +1822,11 @@
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 11:35",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
+            "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-                    "publishedDate": "26/11/2026 09:31"
-                },
-                {
-                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-                    "publishedDate": "25/11/2026 10:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1876,6 +1863,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+            "publishedDate": "26/11/2026 09:31",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Huisarts onthouden van werk na alcoholgebruik: tuchtzaak 8 december",
             "link": "https://www.tuchtcollege-gezondheidszorg.nl/actueel/nieuws/2026/11/26/huisarts-onthouden-van-werk-na-alcoholgebruik-tuchtzaak-8-december",
             "publishedDate": "26/11/2026 09:21",
@@ -1890,18 +1888,11 @@
             "title": "Ozempic- en Mounjaro-makers moeten gebruikers in Verenigde Staten waarschuwen voor ...",
             "link": "https://www.demorgen.be/nieuws/ozempic-en-mounjaro-makers-moeten-gebruikers-in-verenigde-staten-waarschuwen-voor-mogelijk-verlies-van-gezichtsvermogen~b0fceda5/",
             "publishedDate": "26/11/2026 08:10",
-            "source": "demorgen.be, medischdossier.org",
+            "source": "demorgen.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "VS verplicht waarschuwing voor blindheid bij gebruik GLP-1 - Medisch Dossier",
-                    "source": "medischdossier.org",
-                    "link": "https://medischdossier.org/vs-verplicht-waarschuwing-voor-blindheid-bij-gebruik-glp-1/",
-                    "publishedDate": "25/11/2026 18:14"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1933,6 +1924,17 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "VS verplicht waarschuwing voor blindheid bij gebruik GLP-1 - Medisch Dossier",
+            "link": "https://medischdossier.org/vs-verplicht-waarschuwing-voor-blindheid-bij-gebruik-glp-1/",
+            "publishedDate": "25/11/2026 18:14",
+            "source": "medischdossier.org",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2010,6 +2012,17 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+            "publishedDate": "25/11/2026 10:43",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
