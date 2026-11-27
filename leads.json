@@ -178,7 +178,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Monitor Ouderenzorg. Ontwikkelingen bij thuiswonende ouderen in Nederland - RIVM",
@@ -424,7 +424,7 @@
                     "publishedDate": "27/11/2026 04:36"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Eerste nazending Najaars ALV 11 december - VNG",
@@ -452,22 +452,16 @@
             "title": "Kamerbrief over digitale en fysieke weerbaarheid in de zorg",
             "link": "https://open.overheid.nl/details/816a887a-19b0-41d4-ab0f-bb3a7d4290bd",
             "publishedDate": "27/11/2026 11:14",
-            "source": "icthealth.nl, open.overheid.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Beslisnota] Beslisnota bij Kamerbrief over digitale en fysieke weerbaarheid in de zorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/21ee7c0a-9e4b-4b76-b28c-faca5c66770a",
                     "publishedDate": "27/11/2026 11:13"
-                },
-                {
-                    "title": "Europese zorgtransformatie: van ambitie naar resultaat | ICT&amp;health",
-                    "source": "icthealth.nl",
-                    "link": "https://www.icthealth.nl/nieuws/europese-zorgtransformatie-van-ambitie-naar-resultaat",
-                    "publishedDate": "26/11/2026 18:16"
                 }
             ],
             "belangrijkheid": 0
@@ -1250,7 +1244,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
@@ -1319,6 +1313,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Europese zorgtransformatie: van ambitie naar resultaat | ICT&amp;health",
+            "link": "https://www.icthealth.nl/nieuws/europese-zorgtransformatie-van-ambitie-naar-resultaat",
+            "publishedDate": "26/11/2026 18:16",
+            "source": "icthealth.nl",
+            "category": "Overig",
+            "feed_label": "Alert eerstelijnszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Beroep eigen kracht in Purmerend: problemen thuis vaker oplossen in eigen netwerk en wijk",
             "link": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/waterland/beroep-eigen-kracht-in-purmerend-problemen-thuis-vaker-oplossen-in-eigen-netwerk-en-wijk/165140379.html",
             "publishedDate": "26/11/2026 18:05",
@@ -1333,24 +1338,11 @@
             "title": "Gentse huisarts veroordeeld voor het voorschrijven van Diane 35 - AVS",
             "link": "https://avs.be/nieuws/gentse-huisarts-veroordeeld-voor-het-voorschrijven-van-diane-35",
             "publishedDate": "26/11/2026 17:59",
-            "source": "avs.be, demorgen.be, medischdossier.org",
+            "source": "avs.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Ozempic- en Mounjaro-makers moeten gebruikers in Verenigde Staten waarschuwen voor ...",
-                    "source": "demorgen.be",
-                    "link": "https://www.demorgen.be/nieuws/ozempic-en-mounjaro-makers-moeten-gebruikers-in-verenigde-staten-waarschuwen-voor-mogelijk-verlies-van-gezichtsvermogen~b0fceda5/",
-                    "publishedDate": "26/11/2026 08:10"
-                },
-                {
-                    "title": "VS verplicht waarschuwing voor blindheid bij gebruik GLP-1 - Medisch Dossier",
-                    "source": "medischdossier.org",
-                    "link": "https://medischdossier.org/vs-verplicht-waarschuwing-voor-blindheid-bij-gebruik-glp-1/",
-                    "publishedDate": "25/11/2026 18:14"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1392,7 +1384,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
@@ -1582,7 +1574,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
@@ -1918,6 +1910,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Ozempic- en Mounjaro-makers moeten gebruikers in Verenigde Staten waarschuwen voor ...",
+            "link": "https://www.demorgen.be/nieuws/ozempic-en-mounjaro-makers-moeten-gebruikers-in-verenigde-staten-waarschuwen-voor-mogelijk-verlies-van-gezichtsvermogen~b0fceda5/",
+            "publishedDate": "26/11/2026 08:10",
+            "source": "demorgen.be",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "LHV, Verenso en KNMG: investeer in extramurale artsen en voorkom nieuwe regeldruk",
             "link": "https://www.lhv.nl/nieuws/lhv-verenso-en-knmg-investeer-in-extramurale-artsen-en-voorkom-nieuwe-regeldruk/",
             "publishedDate": "26/11/2026 03:20",
@@ -1946,6 +1949,17 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "VS verplicht waarschuwing voor blindheid bij gebruik GLP-1 - Medisch Dossier",
+            "link": "https://medischdossier.org/vs-verplicht-waarschuwing-voor-blindheid-bij-gebruik-glp-1/",
+            "publishedDate": "25/11/2026 18:14",
+            "source": "medischdossier.org",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
