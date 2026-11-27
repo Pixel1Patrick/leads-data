@@ -127,11 +127,18 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "transport-online.nl",
+            "source": "tln.nl, transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
+                    "source": "tln.nl",
+                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+                    "publishedDate": "26/11/2026 18:37"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -196,7 +203,7 @@
                     "publishedDate": "27/11/2026 11:13"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "'Vliegende draagmoeders' bevallen soms ook in Nederland, regels worden daarbij omzeild",
@@ -280,7 +287,7 @@
                     "publishedDate": "26/11/2026 10:51"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
@@ -666,11 +673,18 @@
             "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
             "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
             "publishedDate": "27/11/2026 02:51",
-            "source": "l1nieuws.nl",
+            "source": "l1nieuws.nl, omroeppenm.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
+                    "source": "omroeppenm.nl",
+                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
+                    "publishedDate": "26/11/2026 14:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -944,30 +958,11 @@
             "title": "Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 21:13",
-            "source": "cnv.nl, fnv.nl, nu91.nl, tln.nl",
+            "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 5,
-            "extra_bronnen": [
-                {
-                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
-                    "source": "tln.nl",
-                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-                    "publishedDate": "26/11/2026 18:37"
-                },
-                {
-                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-                    "publishedDate": "26/11/2026 09:31"
-                },
-                {
-                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-                    "publishedDate": "25/11/2026 10:43"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1089,7 +1084,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Moeder (28) van jonge kinderen die Middelburgse ouderen oplichtte hoeft niet de cel in ... - PZC",
@@ -1186,7 +1181,7 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
@@ -1199,9 +1194,15 @@
                     "source": "cnv.nl",
                     "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
                     "publishedDate": "26/11/2026 09:29"
+                },
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
@@ -1228,20 +1229,24 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
-                    "publishedDate": "26/11/2026 17:33"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1518,17 +1523,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
-            "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
-            "publishedDate": "26/11/2026 14:41",
-            "source": "omroeppenm.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Waarom minder verkooppunten van tabak en nicotineproducten? - Trimbos-instituut",
             "link": "https://www.trimbos.nl/kennis/roken-tabak/verkoop-van-tabaks-en-nicotineproducten-in-nederland/waarom-minder-verkooppunten-van-tabak-en-nicotineproducten/",
             "publishedDate": "26/11/2026 14:41",
@@ -1621,7 +1615,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gemeenten Kop van Noord-Holland zetten volgende stap in regionale samenwerking",
@@ -1701,17 +1695,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "&quot;Therapeutische exceptie beschermt persoonlijke notities&quot; - Artsenkrant",
-            "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2648S36_00",
-            "publishedDate": "26/11/2026 12:20",
-            "source": "artsenkrant.pmg.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Utrechtse hoogleraar gaat zich inzetten voor minder dierproeven - DUIC",
             "link": "https://www.duic.nl/nieuws/wetenschap/61610/utrechtse-hoogleraar-gaat-zich-inzetten-voor-minder-dierproeven",
             "publishedDate": "26/11/2026 12:20",
@@ -1740,17 +1723,6 @@
             "source": "nvz-ziekenhuizen.nl",
             "category": "Brancheverenigingen",
             "feed_label": "NVZ Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorg voor \u00e9chte waardering van zorgprofessionals in de ggz in de cao - Petities.nl",
-            "link": "https://petities.nl/petities/zorg-voor-echte-waardering-van-zorgprofessionals-in-de-ggz-in-de-cao",
-            "publishedDate": "26/11/2026 11:28",
-            "source": "petities.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1800,26 +1772,15 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Van begeleider tot psychiater: zoveel verdien je in de ggz in 2026 - Manly",
-            "link": "https://manly.nl/ggz-salaris-per-functie",
-            "publishedDate": "26/11/2026 10:07",
-            "source": "manly.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+            "publishedDate": "26/11/2026 09:31",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
-            "link": "https://www.eemskrant.nl/groninger-zorgakkoord-zoekt-nieuwe-zorgontdekkers/",
-            "publishedDate": "26/11/2026 09:22",
-            "source": "eemskrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Huisarts onthouden van werk na alcoholgebruik: tuchtzaak 8 december",
@@ -2012,6 +1973,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+            "publishedDate": "25/11/2026 10:43",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Eerstelijnszorg] Samenwerking voor voldoende capaciteit medische kindzorg",
             "link": "https://www.zn.nl/actueel/samenwerking-voor-voldoende-capaciteit-medische-kindzorg/",
             "publishedDate": "24/11/2026 15:14",
@@ -2029,17 +2001,6 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-            "publishedDate": "24/11/2026 10:38",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
