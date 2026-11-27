@@ -95,13 +95,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Klacht over werkwijze Valys",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/c771eb7f-91fe-466c-9419-72143870f45d",
                     "publishedDate": "27/11/2026 15:15"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/1a415705-50e6-48f0-8ca0-089a4c4ef32b",
+                    "publishedDate": "27/11/2026 13:49"
+                },
+                {
+                    "title": "[WOO] Antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/667deee5-cc2a-49e0-a247-8aa3c0bdd8e4",
+                    "publishedDate": "27/11/2026 13:49"
                 }
             ],
             "belangrijkheid": 0
@@ -159,26 +171,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Meer zorg thuis ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9e98c746-e254-48a5-827f-ca9af776ede1",
                     "publishedDate": "27/11/2026 14:57"
+                },
+                {
+                    "title": "Evaluatierapport peiling meerzorg",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/d9286639-3307-4bcf-8eab-8addbfbfb161",
+                    "publishedDate": "27/11/2026 14:57"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Evaluatierapport peiling meerzorg",
-            "link": "https://open.overheid.nl/details/d9286639-3307-4bcf-8eab-8addbfbfb161",
-            "publishedDate": "27/11/2026 14:57",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -358,24 +365,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
-            "link": "https://open.overheid.nl/details/1a415705-50e6-48f0-8ca0-089a4c4ef32b",
-            "publishedDate": "27/11/2026 13:49",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[WOO] Antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/667deee5-cc2a-49e0-a247-8aa3c0bdd8e4",
-                    "publishedDate": "27/11/2026 13:49"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Monitor Ouderenzorg. Ontwikkelingen bij thuiswonende ouderen in Nederland - RIVM",
             "link": "https://www.rivm.nl/publicaties/monitor-ouderenzorg-ontwikkelingen-bij-thuiswonende-ouderen-in-nederland",
             "publishedDate": "27/11/2026 13:33",
@@ -412,11 +401,18 @@
             "title": "Belgische primeur voor ziekenhuis Jan Yperman met heliumarme MRI - Medi-Sfeer",
             "link": "https://www.medi-sfeer.be/nl/nieuws/belgische-primeur-voor-ziekenhuis-jan-yperman-met-heliumarme-mri.html",
             "publishedDate": "27/11/2026 13:15",
-            "source": "medi-sfeer.be",
+            "source": "kw.be, medi-sfeer.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jan Yperman Ziekenhuis haalt Belgische MRI-primeur naar Westhoek - KW.be",
+                    "source": "kw.be",
+                    "link": "https://kw.be/nieuws/samenleving/gezondheid/ziekenhuis/jan-yperman-ziekenhuis-haalt-belgische-mri-primeur-naar-westhoek-van-1-000-naar-07-liter-helium-en-30-minder-elektriciteit/",
+                    "publishedDate": "27/11/2026 11:59"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -540,17 +536,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jan Yperman Ziekenhuis haalt Belgische MRI-primeur naar Westhoek - KW.be",
-            "link": "https://kw.be/nieuws/samenleving/gezondheid/ziekenhuis/jan-yperman-ziekenhuis-haalt-belgische-mri-primeur-naar-westhoek-van-1-000-naar-07-liter-helium-en-30-minder-elektriciteit/",
-            "publishedDate": "27/11/2026 11:59",
-            "source": "kw.be",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Influencer Evie van Vliet tijdens zwangerschap naar ziekenhuis vanwege bloedingen",
             "link": "https://www.rtl.nl/boulevard/artikel/5667481/evie-van-vliet-ziekenhuis-vanwege-bloedingen-zwangerschap",
             "publishedDate": "27/11/2026 11:58",
@@ -661,7 +646,7 @@
                     "publishedDate": "27/11/2026 11:13"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "'Vliegende draagmoeders' bevallen soms ook in Nederland, regels worden daarbij omzeild",
@@ -744,22 +729,16 @@
             "title": "Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer - ANP Persportaal",
             "link": "https://persportaal.anp.nl/artikel/ddfdd1da-c779-428d-84ce-9f36dcd7d279/zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:49",
-            "source": "lad.nl, nu91.nl, persportaal.anp.nl",
+            "source": "nu91.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
                     "source": "nu91.nl",
                     "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
                     "publishedDate": "27/11/2026 09:36"
-                },
-                {
-                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-                    "publishedDate": "26/11/2026 16:03"
                 }
             ],
             "belangrijkheid": 1
@@ -1479,12 +1458,18 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/431eeb7b-2095-4dd9-ba04-5cd9b34d85c8",
+                    "publishedDate": "26/11/2026 17:33"
+                },
+                {
+                    "title": "Stand van zaken moties en toezeggingen",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
                     "publishedDate": "26/11/2026 17:33"
                 }
             ],
@@ -1511,17 +1496,6 @@
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Stand van zaken moties en toezeggingen",
-            "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1639,6 +1613,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+            "publishedDate": "26/11/2026 16:03",
+            "source": "cnv.nl, lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Leerlingen KTA Brugge verzorgen pati\u00ebnten dienst geriatrie van AZ Sin-Jan tijdens Week ...",
@@ -2134,17 +2126,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-            "publishedDate": "24/11/2026 07:00",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
