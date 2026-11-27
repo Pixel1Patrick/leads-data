@@ -469,7 +469,7 @@
                     "publishedDate": "26/11/2026 18:38"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Hoe Maastricht UMC+ de innovatiekracht van verpleegkundigen inzet | ICT&amp;health",
@@ -533,8 +533,21 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
+                    "publishedDate": "27/11/2026 16:07"
+                },
+                {
+                    "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/adecdc5a-0f5f-4a7c-af1c-1549a9013aaf",
+                    "publishedDate": "27/11/2026 16:07"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -572,24 +585,6 @@
                 }
             ],
             "belangrijkheid": 1
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
-            "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
-            "publishedDate": "27/11/2026 16:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/adecdc5a-0f5f-4a7c-af1c-1549a9013aaf",
-                    "publishedDate": "27/11/2026 16:07"
-                }
-            ],
-            "belangrijkheid": 0
         },
         {
             "title": "Aanpak vrouwengezondheid werkt in Salland, huisartsen gaan door | Regio | De Stentor.nl",
@@ -717,7 +712,7 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Gemeenten worstelen met stijgende kosten voor jeugdzorg - Centraal+",
