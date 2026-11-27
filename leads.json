@@ -126,11 +126,18 @@
             "title": "Slachtoffer naar ziekenhuis na grote brand in winkel, meerdere woningen ontruimd | Regio",
             "link": "https://www.bndestem.nl/hoeksche-waard/slachtoffer-naar-ziekenhuis-na-grote-brand-in-winkel-meerdere-woningen-ontruimd~a4c7d22c/",
             "publishedDate": "27/11/2026 20:33",
-            "source": "bndestem.nl",
+            "source": "bd.nl, bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Slachtoffer naar ziekenhuis na grote brand in winkel, meerdere woningen ontruimd",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/videos/productie/slachtoffer-naar-ziekenhuis-na-grote-brand-in-winkel-meerdere-woningen-ontruimd-15162716",
+                    "publishedDate": "27/11/2026 20:11"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -143,6 +150,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 1
+        },
+        {
+            "title": "AZ Klina opent Medipunt in Kalmthout om dichter bij pati\u00ebnten in Noorderkempen te komen",
+            "link": "https://www.gva.be/atv/az-klina-opent-medipunt-in-kalmthout-om-dichter-bij-patienten-in-noorderkempen-te-komen/165234123.html",
+            "publishedDate": "27/11/2026 20:15",
+            "source": "gva.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Enorme brand in Rotterdams winkelpand: een persoon naar ziekenhuis | De Telegraaf",
@@ -228,11 +246,18 @@
             "title": "Inzet voor kwetsbare jongeren levert Dolf Herder uit Eefde een lintje op | Regio - Destentor",
             "link": "https://www.destentor.nl/lochem/inzet-voor-kwetsbare-jongeren-levert-dolf-herder-uit-eefde-een-lintje-op~a0eb87e5/",
             "publishedDate": "27/11/2026 19:04",
-            "source": "destentor.nl",
+            "source": "berkelbode.nl, destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Dolf Herder benoemd tot Ridder in de Orde van Oranje-Nassau voor jarenlange inzet voor ...",
+                    "source": "berkelbode.nl",
+                    "link": "https://www.berkelbode.nl/nieuws/maatschappij/565932/koninklijke-onderscheiding-voor-dolf-herder-uit-eefde",
+                    "publishedDate": "27/11/2026 18:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -324,17 +349,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Dolf Herder benoemd tot Ridder in de Orde van Oranje-Nassau voor jarenlange inzet voor ...",
-            "link": "https://www.berkelbode.nl/nieuws/maatschappij/565932/koninklijke-onderscheiding-voor-dolf-herder-uit-eefde",
-            "publishedDate": "27/11/2026 18:05",
-            "source": "berkelbode.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Merz wil Europese miljardensteun aan Oekra\u00efne snel vastleggen uit vrees voor Franse verkiezingen",
             "link": "https://www.bnr.nl/nieuws/nieuws-politiek/10616300/merz-wil-europese-miljardensteun-aan-oekraine-snel-vastleggen-uit-vrees-voor-franse-verkiezingen",
             "publishedDate": "27/11/2026 18:01",
@@ -363,25 +377,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de aanhoudende vertraging bij de verhuizing van het RIVM en de veiligheidsrisico's bij de huidige laboratoria",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/d7965339-7766-41a6-9aa5-998c83383b2d",
                     "publishedDate": "27/11/2026 17:49"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
-                    "publishedDate": "27/11/2026 17:38"
-                },
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/3f2dbd75-698f-4a43-a4ac-af7c31c1a693",
-                    "publishedDate": "27/11/2026 17:38"
                 }
             ],
             "belangrijkheid": 0
@@ -395,6 +397,24 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
+            "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
+            "publishedDate": "27/11/2026 17:38",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/3f2dbd75-698f-4a43-a4ac-af7c31c1a693",
+                    "publishedDate": "27/11/2026 17:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -746,17 +766,6 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Twee medewerkers tankstation in Oss onwel en naar ziekenhuis na uitlaatgassen in winkel",
-            "link": "https://www.ad.nl/play/productie/twee-medewerkers-tankstation-in-oss-onwel-en-naar-ziekenhuis-na-uitlaatgassen-in-winkel-15161133",
-            "publishedDate": "27/11/2026 16:19",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1244,22 +1253,16 @@
             "title": "Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer - ANP Persportaal",
             "link": "https://persportaal.anp.nl/artikel/ddfdd1da-c779-428d-84ce-9f36dcd7d279/zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:49",
-            "source": "lad.nl, nu91.nl, persportaal.anp.nl",
+            "source": "nu91.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
                     "source": "nu91.nl",
                     "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
                     "publishedDate": "27/11/2026 09:36"
-                },
-                {
-                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-                    "publishedDate": "26/11/2026 16:03"
                 }
             ],
             "belangrijkheid": 1
@@ -1602,17 +1605,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Onderzoekresultaten jeugdhulp tonen zorgelijk beeld - Nieuw-Volendam",
-            "link": "https://www.nieuw-volendam.nl/onderzoekresultaten-jeugdhulp-tonen-zorgelijk-beeld/",
-            "publishedDate": "26/11/2026 21:02",
-            "source": "nieuw-volendam.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Vrije artsenkeuze wordt een luxe: zoveel betaal je er in 2027 extra voor - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/vrije-artsenkeuze-wordt-een-luxe-zoveel-betaal-je-er-in-2027-extra-voor",
             "publishedDate": "26/11/2026 18:50",
@@ -1676,6 +1668,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+            "publishedDate": "26/11/2026 16:03",
+            "source": "cnv.nl, lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Paul Blokhuis benoemd tot nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
             "link": "https://www.vgn.nl/nieuws/paul-blokhuis-benoemd-tot-nieuwe-bestuursvoorzitter-vereniging-gehandicaptenzorg-nederland",
             "publishedDate": "26/11/2026 15:42",
@@ -1719,24 +1729,11 @@
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 11:35",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
+            "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-                    "publishedDate": "26/11/2026 09:31"
-                },
-                {
-                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-                    "publishedDate": "25/11/2026 10:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1768,6 +1765,17 @@
             "source": "113.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+            "publishedDate": "26/11/2026 09:31",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1894,6 +1902,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+            "publishedDate": "25/11/2026 10:43",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Gezocht: zorgorganisaties die werk willen maken van gebiedsgericht werken",
             "link": "https://www.vgn.nl/nieuws/gezocht-zorgorganisaties-die-werk-willen-maken-van-gebiedsgericht-werken",
             "publishedDate": "24/11/2026 17:28",
@@ -2004,17 +2023,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-            "publishedDate": "24/11/2026 07:00",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
