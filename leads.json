@@ -944,18 +944,11 @@
             "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
             "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
             "publishedDate": "26/11/2026 16:44",
-            "source": "olvg.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
-                    "source": "olvg.nl",
-                    "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
-                    "publishedDate": "26/11/2026 13:05"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1383,6 +1376,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
+            "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
+            "publishedDate": "26/11/2026 13:05",
+            "source": "olvg.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Bestuurder Warande vertrekt na verlies rechtszaak Kraaijbeek, organisatie ontkent verband",
             "link": "https://www.nieuwsbladdekaap.nl/lokaal/maatschappelijk/1330890/bestuurder-warande-vertrekt-na-verlies-rechtszaak-kraaijbeek-",
             "publishedDate": "26/11/2026 13:04",
@@ -1523,7 +1527,7 @@
             "feed_label": "IGJ Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "MedZO in de praktijk: Hoe onderzoek beslissingen tijdens een schildklieroperatie kan verbeteren",
