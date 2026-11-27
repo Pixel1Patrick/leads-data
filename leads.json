@@ -81,24 +81,11 @@
             "title": "VieCuri vernieuwt OK's en medische beeldvorming | ICT&amp;health",
             "link": "https://www.icthealth.nl/nieuws/viecuri-vernieuwt-oks-en-medische-beeldvorming",
             "publishedDate": "27/11/2026 07:00",
-            "source": "icthealth.nl, l1nieuws.nl, omroeppenm.nl",
+            "source": "icthealth.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
-                    "source": "l1nieuws.nl",
-                    "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
-                    "publishedDate": "27/11/2026 02:51"
-                },
-                {
-                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
-                    "source": "omroeppenm.nl",
-                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
-                    "publishedDate": "26/11/2026 14:41"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -280,6 +267,24 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
+            "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
+            "publishedDate": "27/11/2026 02:51",
+            "source": "l1nieuws.nl, omroeppenm.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
+                    "source": "omroeppenm.nl",
+                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
+                    "publishedDate": "26/11/2026 14:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -701,7 +706,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Thomas in het verpleeghuis | medischcontact",
@@ -752,7 +757,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "TLN en VVT doen loonbod in derde cao-overleg",
@@ -1396,7 +1401,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gemeenten Kop van Noord-Holland zetten volgende stap in regionale samenwerking",
@@ -2682,17 +2687,6 @@
             "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[FNV] Tweede overleg cao Ziekenhuizen",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/tweede-overleg-cao-ziekenhuizen",
-            "publishedDate": "13/11/2026 08:40",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
