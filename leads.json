@@ -289,20 +289,8 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 7,
+            "duplicate_count": 4,
             "extra_bronnen": [
-                {
-                    "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-armoedig-besluit-voor-een-wereldstad~b62a0f10/",
-                    "publishedDate": "27/11/2026 14:08"
-                },
-                {
-                    "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-doe-het-alsjeblieft-niet~b62a0f10/",
-                    "publishedDate": "27/11/2026 13:53"
-                },
                 {
                     "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
                     "source": "parool.nl",
@@ -586,6 +574,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
+            "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-armoedig-besluit-voor-een-wereldstad~b62a0f10/",
+            "publishedDate": "27/11/2026 14:08",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
+                    "source": "parool.nl",
+                    "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-doe-het-alsjeblieft-niet~b62a0f10/",
+                    "publishedDate": "27/11/2026 13:53"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Hoe een lichtflits straks een pijnlijke stroomschok bij hartritmestoornissen kan vervangen",
             "link": "https://www.bndestem.nl/wetenschap/hoe-een-lichtflits-straks-een-pijnlijke-stroomschok-bij-hartritmestoornissen-kan-vervangen~aefaafe0/",
             "publishedDate": "27/11/2026 14:06",
@@ -711,7 +717,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Belgische primeur voor ziekenhuis Jan Yperman met heliumarme MRI - Medi-Sfeer",
@@ -1659,7 +1665,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
