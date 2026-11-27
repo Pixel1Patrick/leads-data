@@ -526,16 +526,22 @@
             "title": "Primeur voor Isala: eigen geneesmiddel beschikbaar voor andere ziekenhuizen",
             "link": "https://www.brugnieuws.nl/nieuws/nieuws/380348/primeur-voor-isala-eigen-geneesmiddel-beschikbaar-voor-andere-ziekenhuizen",
             "publishedDate": "26/11/2026 21:08",
-            "source": "brugnieuws.nl, deswollenaer.nl",
+            "source": "brugnieuws.nl, deswollenaer.nl, locomediagroep.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Primeur voor Isala: eigen geneesmiddel beschikbaar voor andere ziekenhuizen",
                     "source": "deswollenaer.nl",
                     "link": "https://www.deswollenaer.nl/nieuws/nieuws/380348/primeur-voor-isala-eigen-geneesmiddel-beschikbaar-voor-andere-ziekenhuizen",
                     "publishedDate": "26/11/2026 20:55"
+                },
+                {
+                    "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
+                    "source": "locomediagroep.nl",
+                    "link": "https://locomediagroep.nl/nieuws/693-isala-als-eerste-ziekenhuis-met-eigen-geregistreerd-geneesmiddel/",
+                    "publishedDate": "26/11/2026 14:43"
                 }
             ],
             "belangrijkheid": 0
@@ -666,7 +672,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Thomas in het verpleeghuis | medischcontact",
@@ -697,19 +703,13 @@
             "source": "bndestem.nl, destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Waarom doet kou soms fysiek pijn? Experts leggen uit hoe je beter tegen kou kunt | Nieuws",
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/gezond/waarom-doet-kou-soms-fysiek-pijn-experts-leggen-uit-hoe-je-beter-tegen-kou-kunt~ab6fe3b9/",
                     "publishedDate": "26/11/2026 16:11"
-                },
-                {
-                    "title": "Jonge kinderen klimmen en klauteren tijdens pietengym in Elspeet en Nunspeet - de Stentor",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/nunspeet/jonge-kinderen-klimmen-en-klauteren-tijdens-pietengym-in-elspeet-en-nunspeet~aaca0c9f/",
-                    "publishedDate": "26/11/2026 18:19"
                 }
             ],
             "belangrijkheid": 0
@@ -729,11 +729,18 @@
             "title": "Vrije artsenkeuze wordt een luxe: zoveel betaal je er in 2027 extra voor - Zorgwijzer",
             "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/vrije-artsenkeuze-wordt-een-luxe-zoveel-betaal-je-er-in-2027-extra-voor",
             "publishedDate": "26/11/2026 18:50",
-            "source": "zorgwijzer.nl",
+            "source": "overstappen.nl, zorgwijzer.nl",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Deze extra's krijg je gratis bij je zorgverzekering in 2027 - Overstappen.nl",
+                    "source": "overstappen.nl",
+                    "link": "https://www.overstappen.nl/nieuws/deze-extras-krijg-je-gratis-bij-je-zorgverzekering-in-2027/",
+                    "publishedDate": "26/11/2026 16:36"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -776,6 +783,17 @@
             "source": "despecialist.eu",
             "category": "Overig",
             "feed_label": "Alert apotheker",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jonge kinderen klimmen en klauteren tijdens pietengym in Elspeet en Nunspeet - de Stentor",
+            "link": "https://www.destentor.nl/nunspeet/jonge-kinderen-klimmen-en-klauteren-tijdens-pietengym-in-elspeet-en-nunspeet~aaca0c9f/",
+            "publishedDate": "26/11/2026 18:19",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1001,17 +1019,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Deze extra's krijg je gratis bij je zorgverzekering in 2027 - Overstappen.nl",
-            "link": "https://www.overstappen.nl/nieuws/deze-extras-krijg-je-gratis-bij-je-zorgverzekering-in-2027/",
-            "publishedDate": "26/11/2026 16:36",
-            "source": "overstappen.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Man vraagt zorgtoeslag \u00e9\u00e9n dag te laat aan en loopt bijna 1000 euro mis - De Telegraaf",
             "link": "https://www.telegraaf.nl/financieel/geld/man-vraagt-zorgtoeslag-een-dag-te-laat-aan-en-loopt-bijna-1000-euro-mis-eigen-verantwoordelijkheid/164980719.html",
             "publishedDate": "26/11/2026 16:36",
@@ -1114,29 +1121,40 @@
             "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
             "link": "https://www.deputtenaer.nl/lokaal/politiek/1330862/een-regionaal-expertiseteam-noord-veluwe-voor-complexe-proble",
             "publishedDate": "26/11/2026 16:04",
-            "source": "bd.nl, deputtenaer.nl",
+            "source": "deputtenaer.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
             "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
             "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, lad.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "LAD (vakbond)",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
+                {
+                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+                    "publishedDate": "24/11/2026 11:08"
+                },
                 {
                     "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
                     "source": "cnv.nl",
@@ -1260,17 +1278,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
-            "link": "https://locomediagroep.nl/nieuws/693-isala-als-eerste-ziekenhuis-met-eigen-geregistreerd-geneesmiddel/",
-            "publishedDate": "26/11/2026 14:43",
-            "source": "locomediagroep.nl",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
             "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
             "publishedDate": "26/11/2026 14:41",
@@ -1367,7 +1374,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gemeenten Kop van Noord-Holland zetten volgende stap in regionale samenwerking",
@@ -1411,7 +1418,7 @@
             "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Bestuurder Warande vertrekt na verlies rechtszaak Kraaijbeek, organisatie ontkent verband",
@@ -1862,8 +1869,15 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1881,18 +1895,22 @@
             "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
             "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
             "publishedDate": "25/11/2026 17:17",
-            "source": "jeugdzorgnederland.nl, vgn.nl",
+            "source": "vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
-                    "publishedDate": "25/11/2026 16:54"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
+            "publishedDate": "25/11/2026 16:54",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Jeugdzorg Nederland",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -2079,17 +2097,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-            "publishedDate": "24/11/2026 14:04",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
             "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
             "publishedDate": "24/11/2026 13:53",
@@ -2099,28 +2106,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-            "publishedDate": "24/11/2026 13:47",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-            "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-            "publishedDate": "24/11/2026 11:08",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "Hepatitis A-vaccinatie structureel aanbieden aan mannen die seks hebben met mannen",
