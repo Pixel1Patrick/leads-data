@@ -1,6 +1,47 @@
 {
     "artikelen": [
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Klacht over werkwijze Valys",
+            "link": "https://open.overheid.nl/details/43e0597e-c2f2-4422-8133-0f94d76f54a0",
+            "publishedDate": "27/11/2026 15:15",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Klacht over werkwijze Valys",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c771eb7f-91fe-466c-9419-72143870f45d",
+                    "publishedDate": "27/11/2026 15:15"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Meer zorg thuis",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/3dd1b433-ac7d-44c6-8bfb-8cba64888df9",
+                    "publishedDate": "27/11/2026 14:57"
+                },
+                {
+                    "title": "Kamerbrief over Meer zorg thuis ",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9e98c746-e254-48a5-827f-ca9af776ede1",
+                    "publishedDate": "27/11/2026 14:57"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Evaluatierapport peiling meerzorg",
+            "link": "https://open.overheid.nl/details/d9286639-3307-4bcf-8eab-8addbfbfb161",
+            "publishedDate": "27/11/2026 14:57",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "SKV in topvorm naar foutloze koploper \u2022 Streekclash op de Grebbeberg | Regio | AD.nl",
             "link": "https://www.ad.nl/west-betuwe/skv-in-topvorm-naar-foutloze-koploper-streekclash-op-de-grebbeberg~a363be36/",
             "publishedDate": "27/11/2026 14:48",
@@ -44,7 +85,7 @@
                     "publishedDate": "27/11/2026 14:08"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
@@ -279,19 +320,12 @@
             "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
             "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
             "publishedDate": "27/11/2026 12:09",
-            "source": "nl.headtopics.com, vrmg.nl",
+            "source": "vrmg.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
-                    "publishedDate": "26/11/2026 18:38"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Ziekenhuis verwijdert penis, prostaat en blaas van man, achteraf bleek dat diagnose verkeerd was",
@@ -309,7 +343,7 @@
                     "publishedDate": "27/11/2026 12:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Influencer Evie van Vliet tijdens zwangerschap naar ziekenhuis vanwege bloedingen",
@@ -348,12 +382,19 @@
             "title": "Kamer krijgt Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg - VNG",
             "link": "https://vng.nl/nieuws/kamer-krijgt-voortgangsbrief-hoofdlijnenakkoord-ouderenzorg",
             "publishedDate": "27/11/2026 11:52",
-            "source": "vng.nl",
+            "source": "open.overheid.nl, vng.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Bouw nieuw Bravis-ziekenhuis voor 450 miljoen euro van start - Cobouw",
@@ -417,7 +458,7 @@
                     "publishedDate": "27/11/2026 11:13"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "'Vliegende draagmoeders' bevallen soms ook in Nederland, regels worden daarbij omzeild",
@@ -677,7 +718,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Een dag eerder weten dat het misgaat: onderzoek naar wat AI kan betekenen",
@@ -1197,7 +1238,18 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
+            "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
+            "publishedDate": "26/11/2026 18:38",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "TLN en VVT doen loonbod in derde cao-overleg",
@@ -1280,11 +1332,24 @@
             "title": "Gentse huisarts veroordeeld voor het voorschrijven van Diane 35 - AVS",
             "link": "https://avs.be/nieuws/gentse-huisarts-veroordeeld-voor-het-voorschrijven-van-diane-35",
             "publishedDate": "26/11/2026 17:59",
-            "source": "avs.be",
+            "source": "avs.be, fnv.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "[FNV] Medewerkers Sanquin bieden 5.500 kaarten aan directie aan vanwege zorgen toekomst bloedbank",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/medewerkers-sanquin-geven-5500-kaarten-directie",
+                    "publishedDate": "26/11/2026 17:45"
+                },
+                {
+                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+                    "publishedDate": "26/11/2026 14:32"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1296,36 +1361,6 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[FNV] Medewerkers Sanquin bieden 5.500 kaarten aan directie aan vanwege zorgen toekomst bloedbank",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/medewerkers-sanquin-geven-5500-kaarten-directie",
-            "publishedDate": "26/11/2026 17:45",
-            "source": "cnv.nl, fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-                    "publishedDate": "26/11/2026 14:32"
-                },
-                {
-                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
-                    "publishedDate": "26/11/2026 09:29"
-                },
-                {
-                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-                    "publishedDate": "24/11/2026 10:38"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1353,30 +1388,15 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
-            "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1410,24 +1430,6 @@
             "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie op Verzoek WOMEN Inc  tot aanbieding petitie m b t  oproep 'We hebben elke vrouw op de arbeidsmarkt keihard nodig - investeer in vrouwengezondheid",
-            "link": "https://open.overheid.nl/details/adf95ce8-ce56-491f-a760-b0a1e5860de5",
-            "publishedDate": "26/11/2026 16:58",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief inzake Reactie op Verzoek WOMEN Inc. tot aanbieding petitie m.b.t. oproep 'We hebben elke vrouw op de arbeidsmarkt keihard nodig - investeer in vrouwengezondheid",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/47ff53cb-dea3-4780-87e9-698b8a8427fc",
-                    "publishedDate": "26/11/2026 16:58"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1607,35 +1609,6 @@
                     "publishedDate": "19/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Verzamelbrief gehandicaptenzorg Wlz",
-            "link": "https://open.overheid.nl/details/4a708c21-e874-431f-b670-460051caf839",
-            "publishedDate": "26/11/2026 15:39",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief inzake Verzamelbrief gehandicaptenzorg Wlz",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/f12c6e5d-5467-4304-bf83-98aa80f2a1d9",
-                    "publishedDate": "26/11/2026 15:39"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgplicht voor jongeren met een tijdelijke Wlz-indicatie",
-            "link": "https://open.overheid.nl/details/8d217693-4cc2-4b2a-9199-bfb1df55001f",
-            "publishedDate": "26/11/2026 15:39",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1903,6 +1876,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
+            "publishedDate": "26/11/2026 09:29",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Huisarts onthouden van werk na alcoholgebruik: tuchtzaak 8 december",
             "link": "https://www.tuchtcollege-gezondheidszorg.nl/actueel/nieuws/2026/11/26/huisarts-onthouden-van-werk-na-alcoholgebruik-tuchtzaak-8-december",
             "publishedDate": "26/11/2026 09:21",
@@ -2120,6 +2104,17 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+            "publishedDate": "24/11/2026 10:38",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
