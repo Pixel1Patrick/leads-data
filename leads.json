@@ -139,7 +139,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Influencer Evie van Vliet tijdens zwangerschap naar ziekenhuis vanwege bloedingen",
@@ -216,25 +216,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Beslisnota] Beslisnota bij Kamerbrief over digitale en fysieke weerbaarheid in de zorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/21ee7c0a-9e4b-4b76-b28c-faca5c66770a",
                     "publishedDate": "27/11/2026 11:13"
-                },
-                {
-                    "title": "Samenhangende preventiestrategie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/097b2bc3-5400-4593-b5a3-e3259dce2520",
-                    "publishedDate": "26/11/2026 17:33"
-                },
-                {
-                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
-                    "publishedDate": "26/11/2026 17:33"
                 }
             ],
             "belangrijkheid": 0
@@ -594,22 +582,16 @@
             "title": "Aantal huisartsen per 10.000 inwoners varieert van 4 tot 18 per gemeente - Overstappen.nl",
             "link": "https://www.overstappen.nl/nieuws/aantal-huisartsen-per-10-000-inwoners-varieert-van-4-tot-18-per-gemeente/",
             "publishedDate": "27/11/2026 06:06",
-            "source": "drimble.nl, overstappen.nl, persportaal.anp.nl",
+            "source": "overstappen.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Aantal huisartsen per 10.000 inwoners varieert van 4 tot 18 per gemeente - ANP Persportaal",
                     "source": "persportaal.anp.nl",
                     "link": "https://persportaal.anp.nl/artikel/601435da-1975-4ff5-9453-e8fce0c6ea7b/aantal-huisartsen-per-10000-inwoners-varieert-van-4-tot-18-per-gemeente",
                     "publishedDate": "27/11/2026 05:19"
-                },
-                {
-                    "title": "Ingezonden: \u00b4Werken in de zorg in de regio Dongen: wat voor werk is er en hoe kies je?\u00b4 | Tilburg",
-                    "source": "drimble.nl",
-                    "link": "https://drimble.nl/regio/noord-brabant/tilburg/108720449/ingezonden-werken-in-de-zorg-in-de-regio-dongen-wat-voor-werk-is-er-en-hoe-kies-je.html",
-                    "publishedDate": "26/11/2026 17:29"
                 }
             ],
             "belangrijkheid": 0
@@ -717,18 +699,11 @@
             "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
             "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
             "publishedDate": "27/11/2026 02:51",
-            "source": "l1nieuws.nl, omroeppenm.nl",
+            "source": "l1nieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
-                    "source": "omroeppenm.nl",
-                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
-                    "publishedDate": "26/11/2026 14:41"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -768,18 +743,11 @@
             "title": "How dangerous is the Diane 35 pill? - YouTube",
             "link": "https://www.youtube.com/watch?v=1s9UyljmUH0",
             "publishedDate": "27/11/2026 01:21",
-            "source": "avs.be, youtube.com",
+            "source": "youtube.com",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gentse huisarts veroordeeld voor het voorschrijven van Diane 35 - AVS",
-                    "source": "avs.be",
-                    "link": "https://avs.be/nieuws/gentse-huisarts-veroordeeld-voor-het-voorschrijven-van-diane-35",
-                    "publishedDate": "26/11/2026 17:59"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -789,6 +757,17 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Artikel] Vijf vragen aan Anneke Westerlaken: \u2018We moeten meer oog hebben voor de kracht van een ouder wordende samenleving\u2019",
+            "link": "https://www.actiz.nl/actueel/vijf-vragen-aan-anneke-westerlaken-we-moeten-meer-oog-hebben-voor-de-kracht-van-een-ouder",
+            "publishedDate": "27/11/2026 01:00",
+            "source": "actiz.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Actiz",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1204,6 +1183,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Gentse huisarts veroordeeld voor het voorschrijven van Diane 35 - AVS",
+            "link": "https://avs.be/nieuws/gentse-huisarts-veroordeeld-voor-het-voorschrijven-van-diane-35",
+            "publishedDate": "26/11/2026 17:59",
+            "source": "avs.be",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Durf buiten de lijntjes te kleuren in de jeugdzorg: 'Zelfs als het schuurt, doen!'",
             "link": "https://www.binnenlandsbestuur.nl/sociaal/durf-buiten-de-lijntjes-te-kleuren-in-de-jeugdzorg",
             "publishedDate": "26/11/2026 17:55",
@@ -1263,6 +1253,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Samenhangende preventiestrategie",
+            "link": "https://open.overheid.nl/details/097b2bc3-5400-4593-b5a3-e3259dce2520",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
             "publishedDate": "26/11/2026 17:33",
@@ -1280,6 +1288,17 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Ingezonden: \u00b4Werken in de zorg in de regio Dongen: wat voor werk is er en hoe kies je?\u00b4 | Tilburg",
+            "link": "https://drimble.nl/regio/noord-brabant/tilburg/108720449/ingezonden-werken-in-de-zorg-in-de-regio-dongen-wat-voor-werk-is-er-en-hoe-kies-je.html",
+            "publishedDate": "26/11/2026 17:29",
+            "source": "drimble.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1543,6 +1562,17 @@
             "source": "locomediagroep.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
+            "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
+            "publishedDate": "26/11/2026 14:41",
+            "source": "omroeppenm.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
