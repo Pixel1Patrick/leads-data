@@ -489,22 +489,22 @@
             "title": "Mogelijke datadiefstal bij Lelie zorggroep raakt ook Zeeuwen, organisatie informeert ...",
             "link": "https://www.ad.nl/goes/mogelijke-datadiefstal-bij-lelie-zorggroep-raakt-ook-zeeuwen-organisatie-informeert-betrokkenen-uit-voorzorg~ad603c85/",
             "publishedDate": "27/11/2026 16:35",
-            "source": "ad.nl, nl.headtopics.com, tweakers.net, vrmg.nl",
+            "source": "ad.nl, destentor.nl, nl.headtopics.com, tweakers.net",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 4,
             "extra_bronnen": [
                 {
+                    "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/veluwe/zorgorganisatie-met-ruim-15-000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen~a42cc98f/",
+                    "publishedDate": "27/11/2026 15:26"
+                },
+                {
                     "title": "Nederlandse zorginstelling Lelie is gehackt, mogelijk pati\u00ebntgegevens gestolen - Tweakers",
                     "source": "tweakers.net",
                     "link": "https://tweakers.net/nieuws/254998/nederlandse-zorginstelling-lelie-is-gehackt-mogelijk-patientgegevens-gestolen.html",
                     "publishedDate": "27/11/2026 15:00"
-                },
-                {
-                    "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
-                    "source": "vrmg.nl",
-                    "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
-                    "publishedDate": "27/11/2026 12:09"
                 },
                 {
                     "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
@@ -513,7 +513,7 @@
                     "publishedDate": "26/11/2026 18:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hoe Maastricht UMC+ de innovatiekracht van verpleegkundigen inzet | ICT&amp;health",
@@ -742,17 +742,6 @@
             "source": "blue2greenrecycling.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
-            "link": "https://www.destentor.nl/veluwe/zorgorganisatie-met-ruim-15-000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen~a42cc98f/",
-            "publishedDate": "27/11/2026 15:26",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1049,6 +1038,17 @@
             "source": "zorgkrant.nl",
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
+            "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
+            "publishedDate": "27/11/2026 12:09",
+            "source": "vrmg.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
