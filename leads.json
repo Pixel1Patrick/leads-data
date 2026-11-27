@@ -1,6 +1,30 @@
 {
     "artikelen": [
         {
+            "title": "VieCuri vernieuwt OK's en medische beeldvorming | ICT&amp;health",
+            "link": "https://www.icthealth.nl/nieuws/viecuri-vernieuwt-oks-en-medische-beeldvorming",
+            "publishedDate": "27/11/2026 07:00",
+            "source": "icthealth.nl, l1nieuws.nl, omroeppenm.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
+                    "publishedDate": "27/11/2026 02:51"
+                },
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
+                    "source": "omroeppenm.nl",
+                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
+                    "publishedDate": "26/11/2026 14:41"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Vrijwillige ouderenbezoekers en hun schat aan informatie - Vilans",
             "link": "https://www.vilans.nl/actueel/verhalen/vrijwillige-ouderenbezoekers-schat-informatie",
             "publishedDate": "27/11/2026 06:48",
@@ -8,6 +32,17 @@
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "\u201cKleine gebaren betekenen soms veel\u201d: Anuschka (59) uit Oostduinkerke getuigt over het ... - KW.be",
+            "link": "https://kw.be/nieuws/samenleving/gezondheid/kleine-gebaren-betekenen-soms-veel-anuschka-59-uit-oostduinkerke-getuigt-over-het-belang-van-zorg-en-ondersteuning-in-het-traject-van-kankerpatienten/",
+            "publishedDate": "27/11/2026 06:10",
+            "source": "kw.be",
+            "category": "Overig",
+            "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -150,24 +185,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
-            "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
-            "publishedDate": "27/11/2026 02:51",
-            "source": "l1nieuws.nl, omroeppenm.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
-                    "source": "omroeppenm.nl",
-                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
-                    "publishedDate": "26/11/2026 14:41"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -416,11 +433,18 @@
             "title": "Addy van den Krommenacker terug in Nederland na ziekenhuis Jamaica - KIJK",
             "link": "https://www.kijk.nl/programmas/shownieuws/JWHbHIXQWKWtFR",
             "publishedDate": "26/11/2026 22:01",
-            "source": "kijk.nl",
+            "source": "kijk.nl, telegraaf.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Addy van den Krommenacker weer thuis na ziekenhuisopname in Jamaica: 'Geen pretje'",
+                    "source": "telegraaf.nl",
+                    "link": "https://www.telegraaf.nl/entertainment/sterren/addy-van-den-krommenacker-weer-thuis-na-ziekenhuisopname-in-jamaica-geen-pretje/165158358.html",
+                    "publishedDate": "26/11/2026 19:30"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -482,22 +506,16 @@
             "title": "Primeur voor Isala: eigen geneesmiddel beschikbaar voor andere ziekenhuizen",
             "link": "https://www.brugnieuws.nl/nieuws/nieuws/380348/primeur-voor-isala-eigen-geneesmiddel-beschikbaar-voor-andere-ziekenhuizen",
             "publishedDate": "26/11/2026 21:08",
-            "source": "bijniervereniging.nl, brugnieuws.nl, deswollenaer.nl, locomediagroep.nl",
+            "source": "brugnieuws.nl, deswollenaer.nl, locomediagroep.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Primeur voor Isala: eigen geneesmiddel beschikbaar voor andere ziekenhuizen",
                     "source": "deswollenaer.nl",
                     "link": "https://www.deswollenaer.nl/nieuws/nieuws/380348/primeur-voor-isala-eigen-geneesmiddel-beschikbaar-voor-andere-ziekenhuizen",
                     "publishedDate": "26/11/2026 20:55"
-                },
-                {
-                    "title": "Isala mag eigen geneesmiddel leveren aan andere ziekenhuizen - Bijniervereniging",
-                    "source": "bijniervereniging.nl",
-                    "link": "https://bijniervereniging.nl/algemeen/isala-mag-eigen-geneesmiddel-leveren-aan-andere-ziekenhuizen/",
-                    "publishedDate": "26/11/2026 20:47"
                 },
                 {
                     "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
@@ -648,17 +666,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Addy van den Krommenacker weer thuis na ziekenhuisopname in Jamaica: 'Geen pretje'",
-            "link": "https://www.telegraaf.nl/entertainment/sterren/addy-van-den-krommenacker-weer-thuis-na-ziekenhuisopname-in-jamaica-geen-pretje/165158358.html",
-            "publishedDate": "26/11/2026 19:30",
-            "source": "telegraaf.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Waarom doet kou soms fysiek pijn? Experts leggen uit hoe je beter tegen kou kunt | Nieuws",
             "link": "https://www.bndestem.nl/gezond/waarom-doet-kou-soms-fysiek-pijn-experts-leggen-uit-hoe-je-beter-tegen-kou-kunt~ab6fe3b9/",
             "publishedDate": "26/11/2026 19:20",
@@ -696,7 +703,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "TLN en VVT doen loonbod in derde cao-overleg",
@@ -852,24 +859,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1440,7 +1443,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "&quot;Therapeutische exceptie beschermt persoonlijke notities&quot; - Artsenkrant",
@@ -1720,17 +1723,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Een warme zondagochtend vol scherpe blikken: Dominique Willaert in Zottegem - NUUS",
-            "link": "https://www.nuus.be/2026/11/26/een-warme-zondagochtend-vol-scherpe-blikken-dominique-willaert-in-zottegem/",
-            "publishedDate": "26/11/2026 08:22",
-            "source": "nuus.be",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Peuter (2) ontsnapte uit opvang in Ekeren via slecht afgesloten deur - Nieuwsblad",
             "link": "https://www.nieuwsblad.be/binnenland/peuter-2-ontsnapte-uit-opvang-in-ekeren-via-slecht-afgesloten-deur-de-organisatie-is-wakker-geschud/165089917.html",
             "publishedDate": "26/11/2026 08:13",
@@ -1792,17 +1784,6 @@
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "4. Conclusie en discussie | CBS",
-            "link": "https://www.cbs.nl/nl-nl/longread/statistische-trends/2026/respectloos-gedrag-en-discriminatie-ervaren-door-lhbtqia-mensen/4-conclusie-en-discussie",
-            "publishedDate": "26/11/2026 06:46",
-            "source": "cbs.nl",
-            "category": "Overig",
-            "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
