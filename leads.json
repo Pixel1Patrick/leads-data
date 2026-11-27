@@ -59,21 +59,26 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Meer zorg thuis ",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/9e98c746-e254-48a5-827f-ca9af776ede1",
                     "publishedDate": "27/11/2026 14:57"
-                },
-                {
-                    "title": "Evaluatierapport peiling meerzorg",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/d9286639-3307-4bcf-8eab-8addbfbfb161",
-                    "publishedDate": "27/11/2026 14:57"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Evaluatierapport peiling meerzorg",
+            "link": "https://open.overheid.nl/details/d9286639-3307-4bcf-8eab-8addbfbfb161",
+            "publishedDate": "27/11/2026 14:57",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -233,7 +238,7 @@
             "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Het ene na het andere ziekenhuis voert pati\u00ebntenstop in \u2013 hierom stelt Zilveren Kruis niet ...",
@@ -244,7 +249,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Monitor Ouderenzorg. Ontwikkelingen bij thuiswonende ouderen in Nederland - RIVM",
@@ -414,12 +419,19 @@
             "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
             "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
             "publishedDate": "27/11/2026 12:09",
-            "source": "vrmg.nl",
+            "source": "nl.headtopics.com, vrmg.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
+                    "publishedDate": "26/11/2026 18:38"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Ziekenhuis verwijdert penis, prostaat en blaas van man, achteraf bleek dat diagnose verkeerd was",
@@ -437,7 +449,7 @@
                     "publishedDate": "27/11/2026 12:01"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Influencer Evie van Vliet tijdens zwangerschap naar ziekenhuis vanwege bloedingen",
@@ -465,18 +477,11 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "tln.nl, transport-online.nl",
+            "source": "transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
-                    "source": "tln.nl",
-                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-                    "publishedDate": "26/11/2026 18:37"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -486,15 +491,8 @@
             "source": "vng.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Eerste nazending Najaars ALV 11 december - VNG",
-                    "source": "vng.nl",
-                    "link": "https://vng.nl/nieuws/eerste-nazending-najaars-alv-11-december",
-                    "publishedDate": "27/11/2026 11:33"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -530,6 +528,17 @@
                     "publishedDate": "27/11/2026 04:36"
                 }
             ],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Eerste nazending Najaars ALV 11 december - VNG",
+            "link": "https://vng.nl/nieuws/eerste-nazending-najaars-alv-11-december",
+            "publishedDate": "27/11/2026 11:33",
+            "source": "vng.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -620,18 +629,11 @@
             "title": "Klinisch neuropsycholoog - NIP",
             "link": "https://nip.nl/vacatures-opleidingen/klinisch-neuropsycholoog-6/",
             "publishedDate": "27/11/2026 10:26",
-            "source": "locomediagroep.nl, nip.nl",
+            "source": "nip.nl",
             "category": "Overig",
             "feed_label": "Alert Universitair medisch centra",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
-                    "source": "locomediagroep.nl",
-                    "link": "https://locomediagroep.nl/nieuws/693-isala-als-eerste-ziekenhuis-met-eigen-geregistreerd-geneesmiddel/",
-                    "publishedDate": "26/11/2026 14:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -826,7 +828,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Een dag eerder weten dat het misgaat: onderzoek naar wat AI kan betekenen",
@@ -1342,12 +1344,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
-            "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
-            "publishedDate": "26/11/2026 18:38",
-            "source": "nl.headtopics.com",
+            "title": "TLN en VVT doen loonbod in derde cao-overleg",
+            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+            "publishedDate": "26/11/2026 18:37",
+            "source": "tln.nl",
             "category": "Overig",
-            "feed_label": "Alert zorginstelling",
+            "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1499,24 +1501,11 @@
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
             "publishedDate": "26/11/2026 17:33",
-            "source": "jeugdzorgnederland.nl, open.overheid.nl, vgn.nl",
+            "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
-                    "source": "vgn.nl",
-                    "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
-                    "publishedDate": "25/11/2026 17:17"
-                },
-                {
-                    "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
-                    "publishedDate": "25/11/2026 16:54"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1743,6 +1732,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Isala als eerste ziekenhuis met eigen geregistreerd geneesmiddel - Loco Media Groep",
+            "link": "https://locomediagroep.nl/nieuws/693-isala-als-eerste-ziekenhuis-met-eigen-geregistreerd-geneesmiddel/",
+            "publishedDate": "26/11/2026 14:43",
+            "source": "locomediagroep.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
             "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
             "publishedDate": "26/11/2026 14:41",
@@ -1828,7 +1828,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Nationaal AI-platform voor veiliger opereren - UMC Utrecht",
@@ -1979,18 +1979,11 @@
             "title": "Ozempic- en Mounjaro-makers moeten gebruikers in Verenigde Staten waarschuwen voor ...",
             "link": "https://www.demorgen.be/nieuws/ozempic-en-mounjaro-makers-moeten-gebruikers-in-verenigde-staten-waarschuwen-voor-mogelijk-verlies-van-gezichtsvermogen~b0fceda5/",
             "publishedDate": "26/11/2026 08:10",
-            "source": "demorgen.be, medischdossier.org",
+            "source": "demorgen.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "VS verplicht waarschuwing voor blindheid bij gebruik GLP-1 - Medisch Dossier",
-                    "source": "medischdossier.org",
-                    "link": "https://medischdossier.org/vs-verplicht-waarschuwing-voor-blindheid-bij-gebruik-glp-1/",
-                    "publishedDate": "25/11/2026 18:14"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -2022,6 +2015,39 @@
             "source": "actiz.nl",
             "category": "Brancheverenigingen",
             "feed_label": "Actiz",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "VS verplicht waarschuwing voor blindheid bij gebruik GLP-1 - Medisch Dossier",
+            "link": "https://medischdossier.org/vs-verplicht-waarschuwing-voor-blindheid-bij-gebruik-glp-1/",
+            "publishedDate": "25/11/2026 18:14",
+            "source": "medischdossier.org",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
+            "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
+            "publishedDate": "25/11/2026 17:17",
+            "source": "vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
+            "publishedDate": "25/11/2026 16:54",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Jeugdzorg Nederland",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
