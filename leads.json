@@ -115,7 +115,7 @@
                     "publishedDate": "27/11/2026 02:48"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Eerste nazending Najaars ALV 11 december - VNG",
@@ -436,11 +436,18 @@
             "title": "Griepvirus duikt dit jaar veel eerder op, ziekenhuizen zien al de eerste extra opnames",
             "link": "https://www.gelderlander.nl/gezond/griepvirus-duikt-dit-jaar-veel-eerder-op-ziekenhuizen-zien-al-de-eerste-extra-opnames~a6ccde79/",
             "publishedDate": "27/11/2026 07:14",
-            "source": "gelderlander.nl",
+            "source": "gelderlander.nl, omroepwest.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Huisarts ziet meer luchtwegklachten nu coronavirus weer rondgaat - Omroep West",
+                    "source": "omroepwest.nl",
+                    "link": "https://www.omroepwest.nl/zorg/5176355/huisarts-ziet-meer-luchtwegklachten-nu-coronavirus-weer-rondgaat",
+                    "publishedDate": "27/11/2026 06:43"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -495,17 +502,6 @@
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Huisarts ziet meer luchtwegklachten nu coronavirus weer rondgaat - Omroep West",
-            "link": "https://www.omroepwest.nl/zorg/5176355/huisarts-ziet-meer-luchtwegklachten-nu-coronavirus-weer-rondgaat",
-            "publishedDate": "27/11/2026 06:43",
-            "source": "omroepwest.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -1085,7 +1081,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "TLN en VVT doen loonbod in derde cao-overleg",
