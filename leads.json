@@ -335,11 +335,18 @@
             "title": "Brandweer in actie na melding van beknelling door omgevallen boom op woning",
             "link": "https://www.waterkant.net/suriname/2026/11/26/brandweer-in-actie-na-melding-van-beknelling-door-omgevallen-boom-op-woning/",
             "publishedDate": "27/11/2026 01:32",
-            "source": "waterkant.net",
+            "source": "sun.sr, waterkant.net",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kankantrieboom valt op woning Nieuwe Charlesburgweg, drie kinderen naar SEH",
+                    "source": "sun.sr",
+                    "link": "https://sun.sr/nieuws/lokaal/kankantrieboom-valt-op-woning-nieuwe-charlesburgweg-drie-kinderen-naar-seh?id=46314",
+                    "publishedDate": "27/11/2026 00:43"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -349,17 +356,6 @@
             "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kankantrieboom valt op woning Nieuwe Charlesburgweg, drie kinderen naar SEH",
-            "link": "https://sun.sr/nieuws/lokaal/kankantrieboom-valt-op-woning-nieuwe-charlesburgweg-drie-kinderen-naar-seh?id=46314",
-            "publishedDate": "27/11/2026 00:43",
-            "source": "sun.sr",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -869,11 +865,18 @@
             "title": "[FNV] Medewerkers Sanquin bieden 5.500 kaarten aan directie aan vanwege zorgen toekomst bloedbank",
             "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/medewerkers-sanquin-geven-5500-kaarten-directie",
             "publishedDate": "26/11/2026 17:45",
-            "source": "fnv.nl",
+            "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+                    "publishedDate": "24/11/2026 10:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -2076,17 +2079,6 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-            "publishedDate": "24/11/2026 10:38",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
