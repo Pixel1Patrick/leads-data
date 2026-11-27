@@ -42,7 +42,7 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Bouw nieuw Bravis-ziekenhuis voor 450 miljoen euro van start - Cobouw",
@@ -152,25 +152,12 @@
             "title": "Van pionier in de spoedzorg tot sluiting in 2032: waarom OLVG Oost zijn spoedeisende hulp verliest",
             "link": "https://www.parool.nl/amsterdam/van-pionier-in-de-spoedzorg-tot-sluiting-in-2032-waarom-olvg-oost-zijn-spoedeisende-hulp-verliest~bdc4aea1/",
             "publishedDate": "27/11/2026 10:36",
-            "source": "olvg.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
-                    "publishedDate": "26/11/2026 16:44"
-                },
-                {
-                    "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
-                    "source": "olvg.nl",
-                    "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
-                    "publishedDate": "26/11/2026 13:05"
-                }
-            ],
-            "belangrijkheid": 0
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Opinie: 'In de jeugdzorg is iedereen betrokken, maar niemand verantwoordelijk' | Praat mee",
@@ -227,11 +214,23 @@
             "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
             "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:36",
-            "source": "cnv.nl, nu91.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+                    "publishedDate": "26/11/2026 16:03"
+                },
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
                 {
                     "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
                     "source": "cnv.nl",
@@ -388,11 +387,18 @@
             "title": "Griepvirus duikt dit jaar veel eerder op, ziekenhuizen zien al de eerste extra opnames",
             "link": "https://www.gelderlander.nl/gezond/griepvirus-duikt-dit-jaar-veel-eerder-op-ziekenhuizen-zien-al-de-eerste-extra-opnames~a6ccde79/",
             "publishedDate": "27/11/2026 07:14",
-            "source": "gelderlander.nl",
+            "source": "gelderlander.nl, omroepwest.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Huisarts ziet meer luchtwegklachten nu coronavirus weer rondgaat - Omroep West",
+                    "source": "omroepwest.nl",
+                    "link": "https://www.omroepwest.nl/zorg/5176355/huisarts-ziet-meer-luchtwegklachten-nu-coronavirus-weer-rondgaat",
+                    "publishedDate": "27/11/2026 06:43"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -447,17 +453,6 @@
             "category": "Overig",
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Huisarts ziet meer luchtwegklachten nu coronavirus weer rondgaat - Omroep West",
-            "link": "https://www.omroepwest.nl/zorg/5176355/huisarts-ziet-meer-luchtwegklachten-nu-coronavirus-weer-rondgaat",
-            "publishedDate": "27/11/2026 06:43",
-            "source": "omroepwest.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -604,11 +599,18 @@
             "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
             "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
             "publishedDate": "27/11/2026 02:51",
-            "source": "l1nieuws.nl",
+            "source": "l1nieuws.nl, omroeppenm.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
+                    "source": "omroeppenm.nl",
+                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
+                    "publishedDate": "26/11/2026 14:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -689,14 +691,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "IT Projectleider Ziekenhuizen in Bunnik bij PinkRoccade Ziekenhuizen &amp; Laboratoria | #1118573 (nl)",
-            "link": "https://magnet.me/nl-NL/vacature/1118573/it-projectleider-ziekenhuizen",
+            "title": "Medior IT Consultant Ziekenhuizen in Bunnik bij PinkRoccade Ziekenhuizen &amp; Laboratoria",
+            "link": "https://magnet.me/nl-NL/vacature/1118574/medior-it-consultant-ziekenhuizen",
             "publishedDate": "27/11/2026 00:41",
             "source": "magnet.me",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "IT Projectleider Ziekenhuizen in Bunnik bij PinkRoccade Ziekenhuizen &amp; Laboratoria | #1118573 (nl)",
+                    "source": "magnet.me",
+                    "link": "https://magnet.me/nl-NL/vacature/1118573/it-projectleider-ziekenhuizen",
+                    "publishedDate": "27/11/2026 00:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1028,6 +1037,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
+            "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
+            "publishedDate": "26/11/2026 18:38",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert zorginstelling",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "TLN en VVT doen loonbod in derde cao-overleg",
             "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
             "publishedDate": "26/11/2026 18:37",
@@ -1248,6 +1268,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
+            "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
+            "publishedDate": "26/11/2026 16:44",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Terug Naar Werk II goedgekeurd: welke maatregelen gaan wanneer van start?",
             "link": "https://www.domusmedica.be/actueel/terug-naar-werk-ii-goedgekeurd-welke-maatregelen-gaan-wanneer-van-start",
             "publishedDate": "26/11/2026 16:39",
@@ -1369,36 +1400,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-            "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "LAD (vakbond)",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Leerlingen KTA Brugge verzorgen pati\u00ebnten dienst geriatrie van AZ Sin-Jan tijdens Week ...",
             "link": "https://kw.be/nieuws/samenleving/onderwijs/leerlingen-kta-brugge-verzorgen-patienten-dienst-geriatrie-van-az-sin-jan-tijdens-week-van-de-ouderenzorg/",
             "publishedDate": "26/11/2026 15:54",
@@ -1496,17 +1497,6 @@
             "source": "locomediagroep.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
-            "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
-            "publishedDate": "26/11/2026 14:41",
-            "source": "omroeppenm.nl",
-            "category": "Overig",
-            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1633,6 +1623,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
+            "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
+            "publishedDate": "26/11/2026 13:05",
+            "source": "olvg.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Bestuurder Warande vertrekt na verlies rechtszaak Kraaijbeek, organisatie ontkent verband",
             "link": "https://www.nieuwsbladdekaap.nl/lokaal/maatschappelijk/1330890/bestuurder-warande-vertrekt-na-verlies-rechtszaak-kraaijbeek-",
             "publishedDate": "26/11/2026 13:04",
@@ -1685,7 +1686,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "&quot;Therapeutische exceptie beschermt persoonlijke notities&quot; - Artsenkrant",
@@ -1727,28 +1728,6 @@
             "source": "tagmag.news",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Faillissementen KBN Montage en Dalfse zorginstelling | Nieuws - Head Topics",
-            "link": "https://nl.headtopics.com/news/faillissementen-kbn-montage-en-dalfse-zorginstelling-90204171",
-            "publishedDate": "26/11/2026 11:50",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kozijnenhandelaar, zorgbureau en vuurhaarden: deze bedrijven gingen failliet - RTV Oost",
-            "link": "https://www.oost.nl/nieuws/3723277/kozijnenhandelaar-zorgbureau-en-vuurhaarden-deze-bedrijven-gingen-failliet",
-            "publishedDate": "26/11/2026 11:39",
-            "source": "oost.nl",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1886,34 +1865,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Peuter (2) ontsnapte uit opvang in Ekeren via slecht afgesloten deur - Nieuwsblad",
-            "link": "https://www.nieuwsblad.be/binnenland/peuter-2-ontsnapte-uit-opvang-in-ekeren-via-slecht-afgesloten-deur-de-organisatie-is-wakker-geschud/165089917.html",
-            "publishedDate": "26/11/2026 08:13",
-            "source": "nieuwsblad.be",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ozempic- en Mounjaro-makers moeten gebruikers in Verenigde Staten waarschuwen voor ...",
             "link": "https://www.demorgen.be/nieuws/ozempic-en-mounjaro-makers-moeten-gebruikers-in-verenigde-staten-waarschuwen-voor-mogelijk-verlies-van-gezichtsvermogen~b0fceda5/",
             "publishedDate": "26/11/2026 08:10",
             "source": "demorgen.be",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Marcouch reageert op spandoeken met hem als varken erop: 'Natuurlijk was dit beledigend bedoeld'",
-            "link": "https://www.ad.nl/arnhem/marcouch-reageert-op-spandoeken-met-hem-als-varken-erop-natuurlijk-was-dit-beledigend-bedoeld~a9f36202/",
-            "publishedDate": "26/11/2026 08:02",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorgpersoneel",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1995,22 +1952,18 @@
             "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
             "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
             "publishedDate": "25/11/2026 17:17",
-            "source": "vgn.nl",
+            "source": "jeugdzorgnederland.nl, vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
-            "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
-            "publishedDate": "25/11/2026 16:54",
-            "source": "jeugdzorgnederland.nl",
-            "category": "Overig",
-            "feed_label": "Jeugdzorg Nederland",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
+                    "source": "jeugdzorgnederland.nl",
+                    "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
+                    "publishedDate": "25/11/2026 16:54"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -2131,6 +2084,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+            "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+            "publishedDate": "24/11/2026 14:04",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
             "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
             "publishedDate": "24/11/2026 13:53",
@@ -2195,6 +2159,17 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+            "publishedDate": "24/11/2026 07:00",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
