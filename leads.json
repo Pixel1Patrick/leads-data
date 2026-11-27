@@ -260,7 +260,7 @@
                     "publishedDate": "27/11/2026 04:36"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Eerste nazending Najaars ALV 11 december - VNG",
@@ -1275,8 +1275,20 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+                    "publishedDate": "26/11/2026 14:32"
+                },
+                {
+                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
+                    "publishedDate": "26/11/2026 09:29"
+                },
                 {
                     "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
                     "source": "cnv.nl",
@@ -1503,30 +1515,17 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
             "link": "https://www.deputtenaer.nl/lokaal/politiek/1330862/een-regionaal-expertiseteam-noord-veluwe-voor-complexe-proble",
             "publishedDate": "26/11/2026 16:04",
-            "source": "deputtenaer.nl, jeugdzorgnederland.nl, vgn.nl",
+            "source": "deputtenaer.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
-                    "source": "vgn.nl",
-                    "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
-                    "publishedDate": "25/11/2026 17:17"
-                },
-                {
-                    "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
-                    "publishedDate": "25/11/2026 16:54"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1680,24 +1679,6 @@
             "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-            "publishedDate": "26/11/2026 14:32",
-            "source": "cnv.nl, fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
-                    "publishedDate": "26/11/2026 09:29"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1949,6 +1930,28 @@
             "source": "medischdossier.org",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
+            "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
+            "publishedDate": "25/11/2026 17:17",
+            "source": "vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
+            "publishedDate": "25/11/2026 16:54",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Jeugdzorg Nederland",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
