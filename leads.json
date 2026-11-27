@@ -435,7 +435,7 @@
                     "publishedDate": "27/11/2026 12:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Jan Yperman Ziekenhuis haalt Belgische MRI-primeur naar Westhoek - KW.be",
@@ -474,11 +474,18 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "transport-online.nl",
+            "source": "tln.nl, transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
+                    "source": "tln.nl",
+                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+                    "publishedDate": "26/11/2026 18:37"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -507,25 +514,12 @@
             "title": "Bouw nieuw Bravis-ziekenhuis voor 450 miljoen euro van start - Cobouw",
             "link": "https://www.cobouw.nl/341034/bouw-nieuw-bravis-ziekenhuis-voor-450-miljoen-euro-van-start",
             "publishedDate": "27/11/2026 11:37",
-            "source": "bndestem.nl, cobouw.nl, internetbode.nl",
+            "source": "cobouw.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Eerste paal nieuw Bravis ziekenhuis geslagen: 'Hier profiteert de hele regio van'",
-                    "source": "internetbode.nl",
-                    "link": "https://www.internetbode.nl/roosendaal/563387/-fotoalbum-eerste-paal-nieuw-bravis-ziekenhuis-geslagen-hier-profiteert-de-hele-regio-van",
-                    "publishedDate": "27/11/2026 09:36"
-                },
-                {
-                    "title": "Het grote aftellen is begonnen in Roosendaal: Bravis zegt nu \u00e9cht te bouwen, al is ... - BN DeStem",
-                    "source": "bndestem.nl",
-                    "link": "https://www.bndestem.nl/roosendaal/het-grote-aftellen-is-begonnen-in-roosendaal-bravis-zegt-nu-echt-te-bouwen-al-is-die-eerste-paal-niet-de-eerste~a1c3d900/",
-                    "publishedDate": "27/11/2026 04:36"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Eerste nazending Najaars ALV 11 december - VNG",
@@ -669,6 +663,17 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Eerste paal nieuw Bravis ziekenhuis geslagen: 'Hier profiteert de hele regio van'",
+            "link": "https://www.internetbode.nl/roosendaal/563387/-fotoalbum-eerste-paal-nieuw-bravis-ziekenhuis-geslagen-hier-profiteert-de-hele-regio-van",
+            "publishedDate": "27/11/2026 09:36",
+            "source": "internetbode.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -920,6 +925,17 @@
                     "publishedDate": "27/11/2026 05:19"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Het grote aftellen is begonnen in Roosendaal: Bravis zegt nu \u00e9cht te bouwen, al is ... - BN DeStem",
+            "link": "https://www.bndestem.nl/roosendaal/het-grote-aftellen-is-begonnen-in-roosendaal-bravis-zegt-nu-echt-te-bouwen-al-is-die-eerste-paal-niet-de-eerste~a1c3d900/",
+            "publishedDate": "27/11/2026 04:36",
+            "source": "bndestem.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1314,17 +1330,6 @@
             "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "TLN en VVT doen loonbod in derde cao-overleg",
-            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-            "publishedDate": "26/11/2026 18:37",
-            "source": "tln.nl",
-            "category": "Overig",
-            "feed_label": "Alert Vvt",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
