@@ -164,19 +164,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Beslisnota] Beslisnota bij Kamerbrief over digitale en fysieke weerbaarheid in de zorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/21ee7c0a-9e4b-4b76-b28c-faca5c66770a",
                     "publishedDate": "27/11/2026 11:13"
-                },
-                {
-                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
-                    "publishedDate": "26/11/2026 17:33"
                 }
             ],
             "belangrijkheid": 0
@@ -316,11 +310,18 @@
             "title": "Twentse uitvinding moet bevolkingsonderzoek voor vrouwen eenvoudiger maken - Oost",
             "link": "https://www.oost.nl/nieuws/3723720/twentse-uitvinding-moet-bevolkingsonderzoek-voor-vrouwen-eenvoudiger-maken",
             "publishedDate": "27/11/2026 09:22",
-            "source": "oost.nl",
+            "source": "oost.nl, sociaal.net",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jongeren over drugpreventie in jeugdhulp: 'Waarom is daar zo weinig aandacht voor?'",
+                    "source": "sociaal.net",
+                    "link": "https://sociaal.net/achtergrond/jongeren-over-drugpreventie-in-jeugdhulp-waarom-is-daar-zo-weinig-aandacht-voor/",
+                    "publishedDate": "27/11/2026 07:37"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -332,7 +333,7 @@
             "feed_label": "Alert zorginstelling",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gebombardeerde ziekenhuizen ontbreekt het aan alles - The Rights Forum",
@@ -423,17 +424,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Jongeren over drugpreventie in jeugdhulp: 'Waarom is daar zo weinig aandacht voor?'",
-            "link": "https://sociaal.net/achtergrond/jongeren-over-drugpreventie-in-jeugdhulp-waarom-is-daar-zo-weinig-aandacht-voor/",
-            "publishedDate": "27/11/2026 07:37",
-            "source": "sociaal.net",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Na een mensenleven achter het stuur rijdt Gerard (bijna 80) zijn laatste buurtbusrit - BN DeStem",
             "link": "https://www.bndestem.nl/zundert/na-een-mensenleven-achter-het-stuur-rijdt-gerard-bijna-80-zijn-laatste-buurtbusrit-ik-had-nog-wel-wat-jaartjes-door-gewild~ab68e42c/",
             "publishedDate": "27/11/2026 07:17",
@@ -448,19 +438,12 @@
             "title": "Griepvirus duikt dit jaar veel eerder op, ziekenhuizen zien al de eerste extra opnames",
             "link": "https://www.gelderlander.nl/gezond/griepvirus-duikt-dit-jaar-veel-eerder-op-ziekenhuizen-zien-al-de-eerste-extra-opnames~a6ccde79/",
             "publishedDate": "27/11/2026 07:14",
-            "source": "gelderlander.nl, omroepwest.nl",
+            "source": "gelderlander.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Huisarts ziet meer luchtwegklachten nu coronavirus weer rondgaat - Omroep West",
-                    "source": "omroepwest.nl",
-                    "link": "https://www.omroepwest.nl/zorg/5176355/huisarts-ziet-meer-luchtwegklachten-nu-coronavirus-weer-rondgaat",
-                    "publishedDate": "27/11/2026 06:43"
-                }
-            ],
-            "belangrijkheid": 0
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "Een dag eerder weten dat het misgaat: onderzoek naar wat AI kan betekenen",
@@ -518,6 +501,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Huisarts ziet meer luchtwegklachten nu coronavirus weer rondgaat - Omroep West",
+            "link": "https://www.omroepwest.nl/zorg/5176355/huisarts-ziet-meer-luchtwegklachten-nu-coronavirus-weer-rondgaat",
+            "publishedDate": "27/11/2026 06:43",
+            "source": "omroepwest.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "\u201cKleine gebaren betekenen soms veel\u201d: Anuschka (59) uit Oostduinkerke getuigt over het ... - KW.be",
             "link": "https://kw.be/nieuws/samenleving/gezondheid/kleine-gebaren-betekenen-soms-veel-anuschka-59-uit-oostduinkerke-getuigt-over-het-belang-van-zorg-en-ondersteuning-in-het-traject-van-kankerpatienten/",
             "publishedDate": "27/11/2026 06:10",
@@ -532,16 +526,22 @@
             "title": "Aantal huisartsen per 10.000 inwoners varieert van 4 tot 18 per gemeente - Overstappen.nl",
             "link": "https://www.overstappen.nl/nieuws/aantal-huisartsen-per-10-000-inwoners-varieert-van-4-tot-18-per-gemeente/",
             "publishedDate": "27/11/2026 06:06",
-            "source": "overstappen.nl, persportaal.anp.nl",
+            "source": "domusmedica.be, overstappen.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert zorgverzekeraar",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Aantal huisartsen per 10.000 inwoners varieert van 4 tot 18 per gemeente - ANP Persportaal",
                     "source": "persportaal.anp.nl",
                     "link": "https://persportaal.anp.nl/artikel/601435da-1975-4ff5-9453-e8fce0c6ea7b/aantal-huisartsen-per-10000-inwoners-varieert-van-4-tot-18-per-gemeente",
                     "publishedDate": "27/11/2026 05:19"
+                },
+                {
+                    "title": "Fitnote vanaf september 2027: wat betekent dit voor de huisarts? - Domus Medica",
+                    "source": "domusmedica.be",
+                    "link": "https://www.domusmedica.be/actueel/fitnote-vanaf-september-2027-wat-betekent-dit-voor-de-huisarts",
+                    "publishedDate": "27/11/2026 00:30"
                 }
             ],
             "belangrijkheid": 0
@@ -660,18 +660,11 @@
             "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
             "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
             "publishedDate": "27/11/2026 02:51",
-            "source": "l1nieuws.nl, omroeppenm.nl",
+            "source": "l1nieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
-                    "source": "omroeppenm.nl",
-                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
-                    "publishedDate": "26/11/2026 14:41"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -767,17 +760,6 @@
                     "publishedDate": "27/11/2026 00:41"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Fitnote vanaf september 2027: wat betekent dit voor de huisarts? - Domus Medica",
-            "link": "https://www.domusmedica.be/actueel/fitnote-vanaf-september-2027-wat-betekent-dit-voor-de-huisarts",
-            "publishedDate": "27/11/2026 00:30",
-            "source": "domusmedica.be",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1082,7 +1064,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "TLN en VVT doen loonbod in derde cao-overleg",
@@ -1211,7 +1193,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
@@ -1220,18 +1202,12 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/431eeb7b-2095-4dd9-ba04-5cd9b34d85c8",
-                    "publishedDate": "26/11/2026 17:33"
-                },
-                {
-                    "title": "Stand van zaken moties en toezeggingen",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
                     "publishedDate": "26/11/2026 17:33"
                 }
             ],
@@ -1244,13 +1220,31 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Stand van zaken moties en toezeggingen",
+            "link": "https://open.overheid.nl/details/c8b58591-b5c7-4701-842b-569c0de28a5d",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1418,7 +1412,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
@@ -1534,6 +1528,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
+            "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
+            "publishedDate": "26/11/2026 14:41",
+            "source": "omroeppenm.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Waarom minder verkooppunten van tabak en nicotineproducten? - Trimbos-instituut",
             "link": "https://www.trimbos.nl/kennis/roken-tabak/verkoop-van-tabaks-en-nicotineproducten-in-nederland/waarom-minder-verkooppunten-van-tabak-en-nicotineproducten/",
             "publishedDate": "26/11/2026 14:41",
@@ -1548,11 +1553,18 @@
             "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
             "publishedDate": "26/11/2026 14:41",
-            "source": "pw.nl",
+            "source": "pw.nl, rivm.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
+                    "publishedDate": "24/11/2026 13:53"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1619,7 +1631,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Gemeenten Kop van Noord-Holland zetten volgende stap in regionale samenwerking",
@@ -2071,17 +2083,6 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
-            "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
-            "publishedDate": "24/11/2026 13:53",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
