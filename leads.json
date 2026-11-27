@@ -4,11 +4,18 @@
             "title": "Belgische primeur voor ziekenhuis Jan Yperman met heliumarme MRI - Medi-Sfeer",
             "link": "https://www.medi-sfeer.be/nl/nieuws/belgische-primeur-voor-ziekenhuis-jan-yperman-met-heliumarme-mri.html",
             "publishedDate": "27/11/2026 13:15",
-            "source": "medi-sfeer.be",
+            "source": "kw.be, medi-sfeer.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Jan Yperman Ziekenhuis haalt Belgische MRI-primeur naar Westhoek - KW.be",
+                    "source": "kw.be",
+                    "link": "https://kw.be/nieuws/samenleving/gezondheid/ziekenhuis/jan-yperman-ziekenhuis-haalt-belgische-mri-primeur-naar-westhoek-van-1-000-naar-07-liter-helium-en-30-minder-elektriciteit/",
+                    "publishedDate": "27/11/2026 11:59"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -92,7 +99,7 @@
                     "publishedDate": "26/11/2026 18:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Ziekenhuis verwijdert penis, prostaat en blaas van man: diagnose blijkt achteraf verkeerd",
@@ -100,17 +107,6 @@
             "publishedDate": "27/11/2026 12:01",
             "source": "telegraaf.nl",
             "category": "Landelijke Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jan Yperman Ziekenhuis haalt Belgische MRI-primeur naar Westhoek - KW.be",
-            "link": "https://kw.be/nieuws/samenleving/gezondheid/ziekenhuis/jan-yperman-ziekenhuis-haalt-belgische-mri-primeur-naar-westhoek-van-1-000-naar-07-liter-helium-en-30-minder-elektriciteit/",
-            "publishedDate": "27/11/2026 11:59",
-            "source": "kw.be",
-            "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -191,25 +187,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Beslisnota] Beslisnota bij Kamerbrief over digitale en fysieke weerbaarheid in de zorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/21ee7c0a-9e4b-4b76-b28c-faca5c66770a",
                     "publishedDate": "27/11/2026 11:13"
-                },
-                {
-                    "title": "Samenhangende preventiestrategie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/097b2bc3-5400-4593-b5a3-e3259dce2520",
-                    "publishedDate": "26/11/2026 17:33"
-                },
-                {
-                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
-                    "publishedDate": "26/11/2026 17:33"
                 }
             ],
             "belangrijkheid": 0
@@ -302,11 +286,29 @@
             "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
             "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:36",
-            "source": "cnv.nl, nu91.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 2,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+                    "publishedDate": "26/11/2026 16:03"
+                },
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
                 {
                     "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
                     "source": "cnv.nl",
@@ -942,11 +944,17 @@
             "title": "Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 21:13",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
+            "source": "cnv.nl, fnv.nl, nu91.nl, tln.nl",
             "category": "Vakbonden",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
+                    "source": "tln.nl",
+                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+                    "publishedDate": "26/11/2026 18:37"
+                },
                 {
                     "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
                     "source": "fnv.nl",
@@ -1081,18 +1089,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "TLN en VVT doen loonbod in derde cao-overleg",
-            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-            "publishedDate": "26/11/2026 18:37",
-            "source": "tln.nl",
-            "category": "Overig",
-            "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Moeder (28) van jonge kinderen die Middelburgse ouderen oplichtte hoeft niet de cel in ... - PZC",
@@ -1189,7 +1186,7 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
@@ -1202,12 +1199,6 @@
                     "source": "cnv.nl",
                     "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
                     "publishedDate": "26/11/2026 09:29"
-                },
-                {
-                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-                    "publishedDate": "24/11/2026 10:38"
                 }
             ],
             "belangrijkheid": 0
@@ -1225,6 +1216,24 @@
                     "title": "Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/431eeb7b-2095-4dd9-ba04-5cd9b34d85c8",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Samenhangende preventiestrategie",
+            "link": "https://open.overheid.nl/details/097b2bc3-5400-4593-b5a3-e3259dce2520",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
                     "publishedDate": "26/11/2026 17:33"
                 }
             ],
@@ -1425,36 +1434,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-            "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "LAD (vakbond)",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Leerlingen KTA Brugge verzorgen pati\u00ebnten dienst geriatrie van AZ Sin-Jan tijdens Week ...",
             "link": "https://kw.be/nieuws/samenleving/onderwijs/leerlingen-kta-brugge-verzorgen-patienten-dienst-geriatrie-van-az-sin-jan-tijdens-week-van-de-ouderenzorg/",
             "publishedDate": "26/11/2026 15:54",
@@ -1463,24 +1442,6 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Paul Blokhuis benoemd tot nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
-            "link": "https://www.vgn.nl/nieuws/paul-blokhuis-benoemd-tot-nieuwe-bestuursvoorzitter-vereniging-gehandicaptenzorg-nederland",
-            "publishedDate": "26/11/2026 15:42",
-            "source": "vgn.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "VGN Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Paul Blokhuis voorgedragen als nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
-                    "source": "vgn.nl",
-                    "link": "https://www.vgn.nl/nieuws/paul-blokhuis-voorgedragen-als-nieuwe-bestuursvoorzitter-vereniging-gehandicaptenzorg-nederland",
-                    "publishedDate": "19/11/2026 10:38"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1660,7 +1621,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Gemeenten Kop van Noord-Holland zetten volgende stap in regionale samenwerking",
@@ -1933,8 +1894,15 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1944,17 +1912,6 @@
             "source": "medischdossier.org",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
-            "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
-            "publishedDate": "25/11/2026 17:17",
-            "source": "vgn.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1986,39 +1943,6 @@
                     "publishedDate": "25/11/2026 16:11"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-            "publishedDate": "25/11/2026 15:50",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Handreiking Duurzaamheid in de strategie",
-            "link": "https://www.vgn.nl/nieuws/handreiking-duurzaamheid-de-strategie",
-            "publishedDate": "25/11/2026 15:32",
-            "source": "vgn.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Meerjarig kader moet meebewegen met zorgvraag",
-            "link": "https://www.vgn.nl/nieuws/meerjarig-kader-moet-meebewegen-met-zorgvraag",
-            "publishedDate": "25/11/2026 14:49",
-            "source": "vgn.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -2088,17 +2012,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Gezocht: zorgorganisaties die werk willen maken van gebiedsgericht werken",
-            "link": "https://www.vgn.nl/nieuws/gezocht-zorgorganisaties-die-werk-willen-maken-van-gebiedsgericht-werken",
-            "publishedDate": "24/11/2026 17:28",
-            "source": "vgn.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Eerstelijnszorg] Samenwerking voor voldoende capaciteit medische kindzorg",
             "link": "https://www.zn.nl/actueel/samenwerking-voor-voldoende-capaciteit-medische-kindzorg/",
             "publishedDate": "24/11/2026 15:14",
@@ -2116,6 +2029,17 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+            "publishedDate": "24/11/2026 10:38",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2163,6 +2087,17 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+            "publishedDate": "24/11/2026 07:00",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
@@ -2440,24 +2375,6 @@
             "belangrijkheid": 1
         },
         {
-            "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
-            "link": "https://www.vgn.nl/nieuws/rivm-nederland-schiet-tekort-bevorderen-gelijke-kansen-voor-mensen-met-een-beperking",
-            "publishedDate": "17/11/2026 14:45",
-            "source": "rivm.nl, vgn.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "VGN Nieuws",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
-                    "publishedDate": "16/11/2026 16:09"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
             "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
             "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
             "publishedDate": "17/11/2026 13:00",
@@ -2601,12 +2518,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Negen deelnemers hebben de VGN Masterclass Kennismanagement met goed gevolg afgerond",
-            "link": "https://www.vgn.nl/nieuws/negen-deelnemers-hebben-de-vgn-masterclass-kennismanagement-met-goed-gevolg-afgerond",
-            "publishedDate": "16/11/2026 16:27",
-            "source": "vgn.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "VGN Nieuws",
+            "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
+            "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
+            "publishedDate": "16/11/2026 16:09",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
