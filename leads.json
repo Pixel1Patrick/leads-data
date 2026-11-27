@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Crisis in Haarlem? Hier komen noodsteunpunten met hulp",
+            "link": "https://www.haarlemsdagblad.nl/regio/haarlem/haarlem-krijgt-vijf-noodsteunpunten-waar-inwoners-tijdens-een-crisis-terecht-kunnen-voor-informatie-medicijnen-en-voedsel/165136050.html",
+            "publishedDate": "27/11/2026 15:24",
+            "source": "haarlemsdagblad.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Klacht over werkwijze Valys",
             "link": "https://open.overheid.nl/details/43e0597e-c2f2-4422-8133-0f94d76f54a0",
             "publishedDate": "27/11/2026 15:15",
@@ -16,16 +27,16 @@
                     "publishedDate": "27/11/2026 15:15"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Meer zorg thuis",
+                    "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/3dd1b433-ac7d-44c6-8bfb-8cba64888df9",
-                    "publishedDate": "27/11/2026 14:57"
+                    "link": "https://open.overheid.nl/details/1a415705-50e6-48f0-8ca0-089a4c4ef32b",
+                    "publishedDate": "27/11/2026 13:49"
                 },
                 {
-                    "title": "Kamerbrief over Meer zorg thuis ",
+                    "title": "[WOO] Antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9e98c746-e254-48a5-827f-ca9af776ede1",
-                    "publishedDate": "27/11/2026 14:57"
+                    "link": "https://open.overheid.nl/details/667deee5-cc2a-49e0-a247-8aa3c0bdd8e4",
+                    "publishedDate": "27/11/2026 13:49"
                 }
             ],
             "belangrijkheid": 0
@@ -39,6 +50,24 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Meer zorg thuis",
+            "link": "https://open.overheid.nl/details/3dd1b433-ac7d-44c6-8bfb-8cba64888df9",
+            "publishedDate": "27/11/2026 14:57",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over Meer zorg thuis ",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9e98c746-e254-48a5-827f-ca9af776ede1",
+                    "publishedDate": "27/11/2026 14:57"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -56,18 +85,11 @@
             "title": "Belgische meisje in levensgevaar door anticonceptiepil Diane 35, huisarts veroordeeld",
             "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5667530/belgische-huisarts-veroordeeld-diane-35-trombose-anticonceptiepil",
             "publishedDate": "27/11/2026 14:57",
-            "source": "rtl.nl, youtube.com",
+            "source": "rtl.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "How dangerous is the Diane 35 pill? - YouTube",
-                    "source": "youtube.com",
-                    "link": "https://www.youtube.com/watch?v=1s9UyljmUH0",
-                    "publishedDate": "27/11/2026 01:21"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -153,10 +175,10 @@
             "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
             "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-armoedig-besluit-voor-een-wereldstad~b62a0f10/",
             "publishedDate": "27/11/2026 14:08",
-            "source": "parool.nl",
+            "source": "olvg.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 5,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Doe het alsjeblieft niet'",
@@ -175,6 +197,12 @@
                     "source": "parool.nl",
                     "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
                     "publishedDate": "26/11/2026 16:44"
+                },
+                {
+                    "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
+                    "source": "olvg.nl",
+                    "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
+                    "publishedDate": "26/11/2026 13:05"
                 }
             ],
             "belangrijkheid": 1
@@ -210,24 +238,6 @@
             "feed_label": "Alert Huisartsenpost",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
-            "link": "https://open.overheid.nl/details/1a415705-50e6-48f0-8ca0-089a4c4ef32b",
-            "publishedDate": "27/11/2026 13:49",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[WOO] Antwoorden op Kamervragen over gevolgen van de wachtlijsten voor de specialistische (jeugd-)GGZ en vragen over su\u00efcide",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/667deee5-cc2a-49e0-a247-8aa3c0bdd8e4",
-                    "publishedDate": "27/11/2026 13:49"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -369,18 +379,11 @@
             "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
             "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
             "publishedDate": "27/11/2026 12:42",
-            "source": "olvg.nl, parool.nl",
+            "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
-                    "source": "olvg.nl",
-                    "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
-                    "publishedDate": "26/11/2026 13:05"
-                }
-            ],
+            "duplicate_count": 2,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -1048,6 +1051,17 @@
             "source": "waterkant.net",
             "category": "Overig",
             "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "How dangerous is the Diane 35 pill? - YouTube",
+            "link": "https://www.youtube.com/watch?v=1s9UyljmUH0",
+            "publishedDate": "27/11/2026 01:21",
+            "source": "youtube.com",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1906,24 +1920,11 @@
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 11:35",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
+            "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-                    "publishedDate": "26/11/2026 09:31"
-                },
-                {
-                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-                    "publishedDate": "25/11/2026 10:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1955,6 +1956,17 @@
             "source": "113.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+            "publishedDate": "26/11/2026 09:31",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2098,6 +2110,17 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+            "publishedDate": "25/11/2026 10:43",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
