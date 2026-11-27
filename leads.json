@@ -40,7 +40,7 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Kamerbrief over Digitale en Fysieke weerbaarheid in de Zorg",
@@ -49,16 +49,10 @@
                     "publishedDate": "27/11/2026 10:19"
                 },
                 {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
                     "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/ba362b9d-afa0-4a96-95bd-00193b614e2f",
-                    "publishedDate": "26/11/2026 17:33"
-                },
-                {
-                    "title": "Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/431eeb7b-2095-4dd9-ba04-5cd9b34d85c8",
-                    "publishedDate": "26/11/2026 17:33"
+                    "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
+                    "publishedDate": "25/11/2026 14:08"
                 }
             ],
             "belangrijkheid": 0
@@ -1095,6 +1089,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
+            "link": "https://open.overheid.nl/details/ba362b9d-afa0-4a96-95bd-00193b614e2f",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/431eeb7b-2095-4dd9-ba04-5cd9b34d85c8",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Samenhangende preventiestrategie",
             "link": "https://open.overheid.nl/details/097b2bc3-5400-4593-b5a3-e3259dce2520",
             "publishedDate": "26/11/2026 17:33",
@@ -1178,24 +1190,11 @@
             "title": "Afbakening jeugdhulp geen oplossing voor stijgende kosten - Binnenlands Bestuur",
             "link": "https://www.binnenlandsbestuur.nl/sociaal/afbakening-jeugdhulp-geen-oplossing-voor-stijgende-kosten",
             "publishedDate": "26/11/2026 16:57",
-            "source": "binnenlandsbestuur.nl, jeugdzorgnederland.nl, vgn.nl",
+            "source": "binnenlandsbestuur.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
-                    "source": "vgn.nl",
-                    "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
-                    "publishedDate": "25/11/2026 17:17"
-                },
-                {
-                    "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
-                    "source": "jeugdzorgnederland.nl",
-                    "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
-                    "publishedDate": "25/11/2026 16:54"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1963,8 +1962,15 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+                    "source": "bd.nl",
+                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+                    "publishedDate": "25/11/2026 15:50"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1974,6 +1980,28 @@
             "source": "gld.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
+            "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
+            "publishedDate": "25/11/2026 17:17",
+            "source": "vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
+            "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
+            "publishedDate": "25/11/2026 16:54",
+            "source": "jeugdzorgnederland.nl",
+            "category": "Overig",
+            "feed_label": "Jeugdzorg Nederland",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1997,17 +2025,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-            "publishedDate": "25/11/2026 15:50",
-            "source": "bd.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Handreiking Duurzaamheid in de strategie",
             "link": "https://www.vgn.nl/nieuws/handreiking-duurzaamheid-de-strategie",
             "publishedDate": "25/11/2026 15:32",
@@ -2025,17 +2042,6 @@
             "source": "vgn.nl",
             "category": "Brancheverenigingen",
             "feed_label": "VGN Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
-            "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
-            "publishedDate": "25/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
