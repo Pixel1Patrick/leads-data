@@ -117,7 +117,7 @@
                     "publishedDate": "26/11/2026 18:38"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ziekenhuis verwijdert penis, prostaat en blaas van man: diagnose blijkt achteraf verkeerd",
@@ -145,11 +145,18 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "transport-online.nl",
+            "source": "tln.nl, transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
+                    "source": "tln.nl",
+                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+                    "publishedDate": "26/11/2026 18:37"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -316,11 +323,17 @@
             "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
             "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:36",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+                    "publishedDate": "26/11/2026 16:03"
+                },
                 {
                     "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
                     "source": "nu91.nl",
@@ -494,7 +507,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Een dag eerder weten dat het misgaat: onderzoek naar wat AI kan betekenen",
@@ -1097,17 +1110,6 @@
             "belangrijkheid": 1
         },
         {
-            "title": "TLN en VVT doen loonbod in derde cao-overleg",
-            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-            "publishedDate": "26/11/2026 18:37",
-            "source": "tln.nl",
-            "category": "Overig",
-            "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Moeder (28) van jonge kinderen die Middelburgse ouderen oplichtte hoeft niet de cel in ... - PZC",
             "link": "https://www.pzc.nl/middelburg/moeder-28-van-jonge-kinderen-die-middelburgse-ouderen-oplichtte-hoeft-niet-de-cel-in-maar-krijgt-taakstraf-en-boete~a1acbe92/",
             "publishedDate": "26/11/2026 18:37",
@@ -1202,13 +1204,19 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
                     "source": "fnv.nl",
                     "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
                     "publishedDate": "26/11/2026 14:32"
+                },
+                {
+                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
+                    "publishedDate": "26/11/2026 09:29"
                 },
                 {
                     "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
@@ -1418,7 +1426,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "E\u00e9n regionaal expertiseteam Noord-Veluwe voor complexe problemen rond jeugd ... - De Puttenaer",
@@ -1432,24 +1440,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-            "publishedDate": "26/11/2026 16:03",
-            "source": "cnv.nl, lad.nl",
-            "category": "Vakbonden",
-            "feed_label": "LAD (vakbond)",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-                    "publishedDate": "24/11/2026 07:00"
-                }
-            ],
-            "belangrijkheid": 1
-        },
-        {
             "title": "Leerlingen KTA Brugge verzorgen pati\u00ebnten dienst geriatrie van AZ Sin-Jan tijdens Week ...",
             "link": "https://kw.be/nieuws/samenleving/onderwijs/leerlingen-kta-brugge-verzorgen-patienten-dienst-geriatrie-van-az-sin-jan-tijdens-week-van-de-ouderenzorg/",
             "publishedDate": "26/11/2026 15:54",
@@ -1458,6 +1448,24 @@
             "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Paul Blokhuis benoemd tot nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
+            "link": "https://www.vgn.nl/nieuws/paul-blokhuis-benoemd-tot-nieuwe-bestuursvoorzitter-vereniging-gehandicaptenzorg-nederland",
+            "publishedDate": "26/11/2026 15:42",
+            "source": "vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Paul Blokhuis voorgedragen als nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
+                    "source": "vgn.nl",
+                    "link": "https://www.vgn.nl/nieuws/paul-blokhuis-voorgedragen-als-nieuwe-bestuursvoorzitter-vereniging-gehandicaptenzorg-nederland",
+                    "publishedDate": "19/11/2026 10:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1754,17 +1762,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
-            "publishedDate": "26/11/2026 09:29",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Huisarts onthouden van werk na alcoholgebruik: tuchtzaak 8 december",
             "link": "https://www.tuchtcollege-gezondheidszorg.nl/actueel/nieuws/2026/11/26/huisarts-onthouden-van-werk-na-alcoholgebruik-tuchtzaak-8-december",
             "publishedDate": "26/11/2026 09:21",
@@ -1849,6 +1846,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Jeugdbranches: maak scherpe keuzes voor inrichting jeugdstelsel",
+            "link": "https://www.vgn.nl/nieuws/jeugdbranches-maak-scherpe-keuzes-voor-inrichting-jeugdstelsel",
+            "publishedDate": "25/11/2026 17:17",
+            "source": "vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Nieuws] Jeugdbranches: investeren in preventie en regie op specialistische jeugdzorg noodzakelijk",
             "link": "https://www.jeugdzorgnederland.nl/actueel/jeugdbranches-investeren-in-preventie-en-regie-op-specialistische-jeugdzorg-noodzakelijk/",
             "publishedDate": "25/11/2026 16:54",
@@ -1878,25 +1886,43 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Handreiking Duurzaamheid in de strategie",
+            "link": "https://www.vgn.nl/nieuws/handreiking-duurzaamheid-de-strategie",
+            "publishedDate": "25/11/2026 15:32",
+            "source": "vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Meerjarig kader moet meebewegen met zorgvraag",
+            "link": "https://www.vgn.nl/nieuws/meerjarig-kader-moet-meebewegen-met-zorgvraag",
+            "publishedDate": "25/11/2026 14:49",
+            "source": "vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief over Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg",
             "link": "https://open.overheid.nl/details/16ea560e-2179-490e-acc0-1c89c6249920",
             "publishedDate": "25/11/2026 14:08",
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
-            "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
-            "publishedDate": "25/11/2026 14:08",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Voortgangsrapportage Medisch generalistische zorg in de regio",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/2712dab4-93cc-431d-b6dc-bd3005239fa7",
+                    "publishedDate": "25/11/2026 14:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1939,6 +1965,17 @@
             "source": "nu91.nl",
             "category": "Vakbonden",
             "feed_label": "NU91",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gezocht: zorgorganisaties die werk willen maken van gebiedsgericht werken",
+            "link": "https://www.vgn.nl/nieuws/gezocht-zorgorganisaties-die-werk-willen-maken-van-gebiedsgericht-werken",
+            "publishedDate": "24/11/2026 17:28",
+            "source": "vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2019,6 +2056,17 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+            "publishedDate": "24/11/2026 07:00",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
@@ -2296,6 +2344,24 @@
             "belangrijkheid": 1
         },
         {
+            "title": "RIVM: Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
+            "link": "https://www.vgn.nl/nieuws/rivm-nederland-schiet-tekort-bevorderen-gelijke-kansen-voor-mensen-met-een-beperking",
+            "publishedDate": "17/11/2026 14:45",
+            "source": "rivm.nl, vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
+                    "source": "rivm.nl",
+                    "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
+                    "publishedDate": "16/11/2026 16:09"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
             "title": "IGJ neemt partij illegale geneesmiddelen in beslag",
             "link": "https://www.igj.nl/actueel/nieuws/2026/11/17/igj-neemt-partij-illegale-geneesmiddelen-in-beslag",
             "publishedDate": "17/11/2026 13:00",
@@ -2439,12 +2505,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nederland schiet tekort in bevorderen gelijke kansen voor mensen met een beperking",
-            "link": "https://www.rivm.nl/nieuws/nederland-schiet-tekort-in-bevorderen-gelijke-kansen-voor-mensen-met-beperking",
-            "publishedDate": "16/11/2026 16:09",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "RIVM Nieuws",
+            "title": "Negen deelnemers hebben de VGN Masterclass Kennismanagement met goed gevolg afgerond",
+            "link": "https://www.vgn.nl/nieuws/negen-deelnemers-hebben-de-vgn-masterclass-kennismanagement-met-goed-gevolg-afgerond",
+            "publishedDate": "16/11/2026 16:27",
+            "source": "vgn.nl",
+            "category": "Brancheverenigingen",
+            "feed_label": "VGN Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
