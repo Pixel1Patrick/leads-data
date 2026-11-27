@@ -26,24 +26,11 @@
             "title": "Arts veroordeeld na voorschrift anticonceptiepil Diane 35: 'Er valt iets te zeggen voor een ...",
             "link": "https://www.demorgen.be/nieuws/arts-veroordeeld-na-voorschrift-anticonceptiepil-diane-35-er-valt-iets-te-zeggen-voor-een-verbod-op-deze-pil~b1dc5ce7/",
             "publishedDate": "27/11/2026 18:13",
-            "source": "demorgen.be, despecialist.eu, rtl.nl",
+            "source": "demorgen.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "Belgische meisje in levensgevaar door anticonceptiepil Diane 35, huisarts veroordeeld",
-                    "source": "rtl.nl",
-                    "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5667530/belgische-huisarts-veroordeeld-diane-35-trombose-anticonceptiepil",
-                    "publishedDate": "27/11/2026 14:57"
-                },
-                {
-                    "title": "Huisarts veroordeeld: &quot;belangrijk dat we niet alle artsen culpabiliseren&quot; (Domus Medica)",
-                    "source": "despecialist.eu",
-                    "link": "https://www.despecialist.eu/nl/nieuws/generaliste-condamnee-laquo-il-est-important-de-ne-pas-culpabiliser-tous-les-medecins-raquo-domus-medica.html",
-                    "publishedDate": "26/11/2026 18:21"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -445,17 +432,11 @@
             "title": "Mogelijke datadiefstal bij Lelie zorggroep raakt ook Zeeuwen, organisatie informeert ...",
             "link": "https://www.ad.nl/goes/mogelijke-datadiefstal-bij-lelie-zorggroep-raakt-ook-zeeuwen-organisatie-informeert-betrokkenen-uit-voorzorg~ad603c85/",
             "publishedDate": "27/11/2026 16:35",
-            "source": "ad.nl, destentor.nl, nl.headtopics.com, tweakers.net, vrmg.nl",
+            "source": "ad.nl, nl.headtopics.com, tweakers.net, vrmg.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
-                {
-                    "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
-                    "source": "destentor.nl",
-                    "link": "https://www.destentor.nl/veluwe/zorgorganisatie-met-ruim-15-000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen~a42cc98f/",
-                    "publishedDate": "27/11/2026 15:26"
-                },
                 {
                     "title": "Nederlandse zorginstelling Lelie is gehackt, mogelijk pati\u00ebntgegevens gestolen - Tweakers",
                     "source": "tweakers.net",
@@ -475,7 +456,7 @@
                     "publishedDate": "26/11/2026 18:38"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Hoe Maastricht UMC+ de innovatiekracht van verpleegkundigen inzet | ICT&amp;health",
@@ -539,21 +520,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
-                    "publishedDate": "27/11/2026 16:07"
-                },
-                {
-                    "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/adecdc5a-0f5f-4a7c-af1c-1549a9013aaf",
-                    "publishedDate": "27/11/2026 16:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -591,6 +559,24 @@
                 }
             ],
             "belangrijkheid": 1
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
+            "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
+            "publishedDate": "27/11/2026 16:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/adecdc5a-0f5f-4a7c-af1c-1549a9013aaf",
+                    "publishedDate": "27/11/2026 16:07"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Aanpak vrouwengezondheid werkt in Salland, huisartsen gaan door | Regio | De Stentor.nl",
@@ -710,6 +696,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
+            "link": "https://www.destentor.nl/veluwe/zorgorganisatie-met-ruim-15-000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen~a42cc98f/",
+            "publishedDate": "27/11/2026 15:26",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert zorgorganisatie",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Gemeenten worstelen met stijgende kosten voor jeugdzorg - Centraal+",
             "link": "https://centraalplus.nl/2026/11/27/gemeenten-worstelen-met-stijgende-kosten-voor-jeugdzorg/",
             "publishedDate": "27/11/2026 15:25",
@@ -800,6 +797,17 @@
             "source": "francken.belgium.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Belgische meisje in levensgevaar door anticonceptiepil Diane 35, huisarts veroordeeld",
+            "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5667530/belgische-huisarts-veroordeeld-diane-35-trombose-anticonceptiepil",
+            "publishedDate": "27/11/2026 14:57",
+            "source": "rtl.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1627,6 +1635,17 @@
             "source": "arnhem.nl",
             "category": "Overig",
             "feed_label": "Alert zorgaanbieder",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Huisarts veroordeeld: &quot;belangrijk dat we niet alle artsen culpabiliseren&quot; (Domus Medica)",
+            "link": "https://www.despecialist.eu/nl/nieuws/generaliste-condamnee-laquo-il-est-important-de-ne-pas-culpabiliser-tous-les-medecins-raquo-domus-medica.html",
+            "publishedDate": "26/11/2026 18:21",
+            "source": "despecialist.eu",
+            "category": "Overig",
+            "feed_label": "Alert apotheker",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
