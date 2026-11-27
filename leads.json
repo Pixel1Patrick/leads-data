@@ -55,6 +55,24 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Hack bij zorggroep Lelie, mogelijk gegevens gestolen - VRMG",
+            "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
+            "publishedDate": "27/11/2026 12:09",
+            "source": "nl.headtopics.com, vrmg.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgorganisatie",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
+                    "publishedDate": "26/11/2026 18:38"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
             "title": "Ziekenhuis verwijdert penis, prostaat en blaas van man: diagnose blijkt achteraf verkeerd",
             "link": "https://www.telegraaf.nl/buitenland/ziekenhuis-verwijdert-penis-prostaat-en-blaas-van-man-diagnose-blijkt-achteraf-verkeerd/165184730.html",
             "publishedDate": "27/11/2026 12:01",
@@ -115,7 +133,7 @@
                     "publishedDate": "27/11/2026 02:48"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Eerste nazending Najaars ALV 11 december - VNG",
@@ -146,25 +164,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Beslisnota] Beslisnota bij Kamerbrief over digitale en fysieke weerbaarheid in de zorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/21ee7c0a-9e4b-4b76-b28c-faca5c66770a",
                     "publishedDate": "27/11/2026 11:13"
-                },
-                {
-                    "title": "Samenhangende preventiestrategie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/097b2bc3-5400-4593-b5a3-e3259dce2520",
-                    "publishedDate": "26/11/2026 17:33"
-                },
-                {
-                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
-                    "publishedDate": "26/11/2026 17:33"
                 }
             ],
             "belangrijkheid": 0
@@ -441,7 +447,7 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Een dag eerder weten dat het misgaat: onderzoek naar wat AI kan betekenen",
@@ -1067,17 +1073,6 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
-            "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
-            "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
-            "publishedDate": "26/11/2026 18:38",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert zorginstelling",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1228,8 +1223,30 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Samenhangende preventiestrategie",
+            "link": "https://open.overheid.nl/details/097b2bc3-5400-4593-b5a3-e3259dce2520",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
+            "publishedDate": "26/11/2026 17:33",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1549,18 +1566,11 @@
             "title": "'Landelijke doelen valpreventie nog buiten bereik' | Pharmaceutisch Weekblad",
             "link": "https://www.pw.nl/nieuws/algemeen-nieuws/2026-11/landelijke-doelen-valpreventie-nog-buiten-bereik",
             "publishedDate": "26/11/2026 14:41",
-            "source": "pw.nl, rivm.nl",
+            "source": "pw.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
-                    "source": "rivm.nl",
-                    "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
-                    "publishedDate": "24/11/2026 13:53"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1627,7 +1637,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Gemeenten Kop van Noord-Holland zetten volgende stap in regionale samenwerking",
@@ -1911,15 +1921,8 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1971,6 +1974,17 @@
                     "publishedDate": "25/11/2026 16:11"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+            "publishedDate": "25/11/2026 15:50",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -2079,6 +2093,17 @@
             "source": "zn.nl",
             "category": "Overig",
             "feed_label": "ZN",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Valpreventie krijgt meer aandacht, maar landelijke doelen nog buiten bereik",
+            "link": "https://www.rivm.nl/nieuws/valpreventie-krijgt-meer-aandacht-maar-landelijke-doelen-nog-buiten-bereik",
+            "publishedDate": "24/11/2026 13:53",
+            "source": "rivm.nl",
+            "category": "Toezichthouders/Instituten",
+            "feed_label": "RIVM Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
