@@ -7,14 +7,8 @@
             "source": "olvg.nl, parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert seh",
-            "duplicate_count": 6,
+            "duplicate_count": 5,
             "extra_bronnen": [
-                {
-                    "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Doe het alsjeblieft niet'",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-doe-het-alsjeblieft-niet~b62a0f10/",
-                    "publishedDate": "27/11/2026 12:23"
-                },
                 {
                     "title": "Van pionier in de spoedzorg tot sluiting in 2032: waarom OLVG Oost zijn spoedeisende hulp verliest",
                     "source": "parool.nl",
@@ -35,6 +29,17 @@
                 }
             ],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Doe het alsjeblieft niet'",
+            "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-doe-het-alsjeblieft-niet~b62a0f10/",
+            "publishedDate": "27/11/2026 12:23",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "PRO wil dat Hardinxveld-Giessendam het kabinet oproept geen eigen bijdrage voor ... - Drimble",
@@ -115,7 +120,7 @@
                     "publishedDate": "27/11/2026 02:48"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Eerste nazending Najaars ALV 11 december - VNG",
@@ -648,18 +653,11 @@
             "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
             "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
             "publishedDate": "27/11/2026 02:51",
-            "source": "l1nieuws.nl, omroeppenm.nl",
+            "source": "l1nieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
-                    "source": "omroeppenm.nl",
-                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
-                    "publishedDate": "26/11/2026 14:41"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -900,11 +898,18 @@
             "title": "Vooraankondiging subsidieoproep 'klinische ronde post-COVID: drug repurposing'",
             "link": "https://www.postcovidnl.nl/nieuws/vooraankondiging-subsidieoproep-klinische-ronde-post-covid-drug-repurposing",
             "publishedDate": "26/11/2026 22:02",
-            "source": "postcovidnl.nl",
+            "source": "l1nieuws.nl, postcovidnl.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Antibiotica slaan steeds slechter aan: 'We moeten onnodig gebruik voorkomen' - L1 Nieuws",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/amp/nieuws/3277935/antibiotica-slaan-steeds-slechter-aan-we-moeten-onnodig-gebruik-voorkomen",
+                    "publishedDate": "26/11/2026 14:18"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1527,6 +1532,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
+            "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
+            "publishedDate": "26/11/2026 14:41",
+            "source": "omroeppenm.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Waarom minder verkooppunten van tabak en nicotineproducten? - Trimbos-instituut",
             "link": "https://www.trimbos.nl/kennis/roken-tabak/verkoop-van-tabaks-en-nicotineproducten-in-nederland/waarom-minder-verkooppunten-van-tabak-en-nicotineproducten/",
             "publishedDate": "26/11/2026 14:41",
@@ -1566,17 +1582,6 @@
             "source": "bndestem.nl",
             "category": "Regionale Media",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Antibiotica slaan steeds slechter aan: 'We moeten onnodig gebruik voorkomen' - L1 Nieuws",
-            "link": "https://www.l1nieuws.nl/amp/nieuws/3277935/antibiotica-slaan-steeds-slechter-aan-we-moeten-onnodig-gebruik-voorkomen",
-            "publishedDate": "26/11/2026 14:18",
-            "source": "l1nieuws.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Universitair medisch centra",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
