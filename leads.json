@@ -527,7 +527,7 @@
                     "publishedDate": "27/11/2026 12:01"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Influencer Evie van Vliet tijdens zwangerschap naar ziekenhuis vanwege bloedingen",
@@ -555,11 +555,18 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "transport-online.nl",
+            "source": "tln.nl, transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
+                    "source": "tln.nl",
+                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+                    "publishedDate": "26/11/2026 18:37"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -705,22 +712,16 @@
             "title": "Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer - ANP Persportaal",
             "link": "https://persportaal.anp.nl/artikel/ddfdd1da-c779-428d-84ce-9f36dcd7d279/zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:49",
-            "source": "lad.nl, nu91.nl, persportaal.anp.nl",
+            "source": "nu91.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
                     "source": "nu91.nl",
                     "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
                     "publishedDate": "27/11/2026 09:36"
-                },
-                {
-                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-                    "publishedDate": "26/11/2026 16:03"
                 }
             ],
             "belangrijkheid": 1
@@ -1316,17 +1317,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "TLN en VVT doen loonbod in derde cao-overleg",
-            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-            "publishedDate": "26/11/2026 18:37",
-            "source": "tln.nl",
-            "category": "Overig",
-            "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Moeder (28) van jonge kinderen die Middelburgse ouderen oplichtte hoeft niet de cel in ... - PZC",
             "link": "https://www.pzc.nl/middelburg/moeder-28-van-jonge-kinderen-die-middelburgse-ouderen-oplichtte-hoeft-niet-de-cel-in-maar-krijgt-taakstraf-en-boete~a1acbe92/",
             "publishedDate": "26/11/2026 18:37",
@@ -1458,24 +1448,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+                    "publishedDate": "26/11/2026 17:33"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Tweede Kamerbrief over jeugdzorg van 17 december 2025",
             "link": "https://open.overheid.nl/details/e743dff4-1739-4ffe-984a-d9366c230129",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-            "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
             "publishedDate": "26/11/2026 17:33",
             "source": "open.overheid.nl",
             "category": "VWS",
@@ -1615,6 +1601,24 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+            "publishedDate": "26/11/2026 16:03",
+            "source": "cnv.nl, lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Leerlingen KTA Brugge verzorgen pati\u00ebnten dienst geriatrie van AZ Sin-Jan tijdens Week ...",
@@ -2130,17 +2134,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-            "publishedDate": "24/11/2026 07:00",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
