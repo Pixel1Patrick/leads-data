@@ -288,18 +288,11 @@
             "title": "Belgische primeur voor ziekenhuis Jan Yperman met heliumarme MRI - Medi-Sfeer",
             "link": "https://www.medi-sfeer.be/nl/nieuws/belgische-primeur-voor-ziekenhuis-jan-yperman-met-heliumarme-mri.html",
             "publishedDate": "27/11/2026 13:15",
-            "source": "kw.be, medi-sfeer.be",
+            "source": "medi-sfeer.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Jan Yperman Ziekenhuis haalt Belgische MRI-primeur naar Westhoek - KW.be",
-                    "source": "kw.be",
-                    "link": "https://kw.be/nieuws/samenleving/gezondheid/ziekenhuis/jan-yperman-ziekenhuis-haalt-belgische-mri-primeur-naar-westhoek-van-1-000-naar-07-liter-helium-en-30-minder-elektriciteit/",
-                    "publishedDate": "27/11/2026 11:59"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -424,7 +417,7 @@
             "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Ziekenhuis verwijdert penis, prostaat en blaas van man, achteraf bleek dat diagnose verkeerd was",
@@ -443,6 +436,17 @@
                 }
             ],
             "belangrijkheid": 1
+        },
+        {
+            "title": "Jan Yperman Ziekenhuis haalt Belgische MRI-primeur naar Westhoek - KW.be",
+            "link": "https://kw.be/nieuws/samenleving/gezondheid/ziekenhuis/jan-yperman-ziekenhuis-haalt-belgische-mri-primeur-naar-westhoek-van-1-000-naar-07-liter-helium-en-30-minder-elektriciteit/",
+            "publishedDate": "27/11/2026 11:59",
+            "source": "kw.be",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Influencer Evie van Vliet tijdens zwangerschap naar ziekenhuis vanwege bloedingen",
@@ -470,18 +474,11 @@
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
-            "source": "tln.nl, transport-online.nl",
+            "source": "transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "TLN en VVT doen loonbod in derde cao-overleg",
-                    "source": "tln.nl",
-                    "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
-                    "publishedDate": "26/11/2026 18:37"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -510,12 +507,25 @@
             "title": "Bouw nieuw Bravis-ziekenhuis voor 450 miljoen euro van start - Cobouw",
             "link": "https://www.cobouw.nl/341034/bouw-nieuw-bravis-ziekenhuis-voor-450-miljoen-euro-van-start",
             "publishedDate": "27/11/2026 11:37",
-            "source": "cobouw.nl",
+            "source": "bndestem.nl, cobouw.nl, internetbode.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "Eerste paal nieuw Bravis ziekenhuis geslagen: 'Hier profiteert de hele regio van'",
+                    "source": "internetbode.nl",
+                    "link": "https://www.internetbode.nl/roosendaal/563387/-fotoalbum-eerste-paal-nieuw-bravis-ziekenhuis-geslagen-hier-profiteert-de-hele-regio-van",
+                    "publishedDate": "27/11/2026 09:36"
+                },
+                {
+                    "title": "Het grote aftellen is begonnen in Roosendaal: Bravis zegt nu \u00e9cht te bouwen, al is ... - BN DeStem",
+                    "source": "bndestem.nl",
+                    "link": "https://www.bndestem.nl/roosendaal/het-grote-aftellen-is-begonnen-in-roosendaal-bravis-zegt-nu-echt-te-bouwen-al-is-die-eerste-paal-niet-de-eerste~a1c3d900/",
+                    "publishedDate": "27/11/2026 04:36"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Eerste nazending Najaars ALV 11 december - VNG",
@@ -659,17 +669,6 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Eerste paal nieuw Bravis ziekenhuis geslagen: 'Hier profiteert de hele regio van'",
-            "link": "https://www.internetbode.nl/roosendaal/563387/-fotoalbum-eerste-paal-nieuw-bravis-ziekenhuis-geslagen-hier-profiteert-de-hele-regio-van",
-            "publishedDate": "27/11/2026 09:36",
-            "source": "internetbode.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -921,17 +920,6 @@
                     "publishedDate": "27/11/2026 05:19"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Het grote aftellen is begonnen in Roosendaal: Bravis zegt nu \u00e9cht te bouwen, al is ... - BN DeStem",
-            "link": "https://www.bndestem.nl/roosendaal/het-grote-aftellen-is-begonnen-in-roosendaal-bravis-zegt-nu-echt-te-bouwen-al-is-die-eerste-paal-niet-de-eerste~a1c3d900/",
-            "publishedDate": "27/11/2026 04:36",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1331,6 +1319,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "TLN en VVT doen loonbod in derde cao-overleg",
+            "link": "https://www.tln.nl/actueel/tln-en-vvt-doen-loonbod-in-derde-cao-overleg",
+            "publishedDate": "26/11/2026 18:37",
+            "source": "tln.nl",
+            "category": "Overig",
+            "feed_label": "Alert Vvt",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Moeder (28) van jonge kinderen die Middelburgse ouderen oplichtte hoeft niet de cel in ... - PZC",
             "link": "https://www.pzc.nl/middelburg/moeder-28-van-jonge-kinderen-die-middelburgse-ouderen-oplichtte-hoeft-niet-de-cel-in-maar-krijgt-taakstraf-en-boete~a1acbe92/",
             "publishedDate": "26/11/2026 18:37",
@@ -1414,20 +1413,8 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
-                {
-                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-                    "publishedDate": "26/11/2026 14:32"
-                },
-                {
-                    "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
-                    "publishedDate": "26/11/2026 09:29"
-                },
                 {
                     "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
                     "source": "cnv.nl",
@@ -1752,6 +1739,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+            "publishedDate": "26/11/2026 14:32",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Duitsland kondigt schadeclaim tegen Damen aan na fregattendrama | Regio | BN DeStem.nl",
             "link": "https://www.bndestem.nl/zeeland/duitsland-kondigt-schadeclaim-tegen-damen-aan-na-fregattendrama~ab8419be/",
             "publishedDate": "26/11/2026 14:21",
@@ -1887,24 +1885,11 @@
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 11:35",
-            "source": "cnv.nl, fnv.nl, nu91.nl",
+            "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-                    "publishedDate": "26/11/2026 09:31"
-                },
-                {
-                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-                    "publishedDate": "25/11/2026 10:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1936,6 +1921,28 @@
             "source": "113.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+            "publishedDate": "26/11/2026 09:31",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Meedoen op 1 december: wat we met Sanquin hebben afgesproken",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
+            "publishedDate": "26/11/2026 09:29",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -2079,6 +2086,17 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+            "publishedDate": "25/11/2026 10:43",
+            "source": "nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
