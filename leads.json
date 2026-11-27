@@ -1,6 +1,28 @@
 {
     "artikelen": [
         {
+            "title": "Inzet voor kwetsbare jongeren levert Dolf Herder uit Eefde een lintje op | Regio - Destentor",
+            "link": "https://www.destentor.nl/lochem/inzet-voor-kwetsbare-jongeren-levert-dolf-herder-uit-eefde-een-lintje-op~a0eb87e5/",
+            "publishedDate": "27/11/2026 19:04",
+            "source": "destentor.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "VieCuri vernieuwt OK's en medische beeldvorming | ICT&amp;health",
+            "link": "https://www.icthealth.nl/nieuws/viecuri-vernieuwt-oks-en-medische-beeldvorming",
+            "publishedDate": "27/11/2026 19:00",
+            "source": "icthealth.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Dorpsbelangen Swifterbant lanceert eigen kanaal op WhatsApp voor lokale berichtgeving",
             "link": "https://www.destentor.nl/dronten/dorpsbelangen-swifterbant-lanceert-eigen-kanaal-op-whatsapp-voor-lokale-berichtgeving~a5faee53/",
             "publishedDate": "27/11/2026 18:35",
@@ -75,25 +97,13 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 4,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de aanhoudende vertraging bij de verhuizing van het RIVM en de veiligheidsrisico's bij de huidige laboratoria",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/d7965339-7766-41a6-9aa5-998c83383b2d",
                     "publishedDate": "27/11/2026 17:49"
-                },
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
-                    "publishedDate": "27/11/2026 17:38"
-                },
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/3f2dbd75-698f-4a43-a4ac-af7c31c1a693",
-                    "publishedDate": "27/11/2026 17:38"
                 }
             ],
             "belangrijkheid": 0
@@ -149,6 +159,24 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
+            "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
+            "publishedDate": "27/11/2026 17:38",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/3f2dbd75-698f-4a43-a4ac-af7c31c1a693",
+                    "publishedDate": "27/11/2026 17:38"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -236,7 +264,7 @@
                     "publishedDate": "27/11/2026 15:27"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Jonge moeder raakt gekneld tussen twee voertuigen in Tielrode, en wordt in kritieke ...",
@@ -445,11 +473,17 @@
             "title": "Mogelijke datadiefstal bij Lelie zorggroep raakt ook Zeeuwen, organisatie informeert ...",
             "link": "https://www.ad.nl/goes/mogelijke-datadiefstal-bij-lelie-zorggroep-raakt-ook-zeeuwen-organisatie-informeert-betrokkenen-uit-voorzorg~ad603c85/",
             "publishedDate": "27/11/2026 16:35",
-            "source": "ad.nl, nl.headtopics.com, tweakers.net, vrmg.nl",
+            "source": "ad.nl, destentor.nl, nl.headtopics.com, tweakers.net, vrmg.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 4,
+            "duplicate_count": 5,
             "extra_bronnen": [
+                {
+                    "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
+                    "source": "destentor.nl",
+                    "link": "https://www.destentor.nl/veluwe/zorgorganisatie-met-ruim-15-000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen~a42cc98f/",
+                    "publishedDate": "27/11/2026 15:26"
+                },
                 {
                     "title": "Nederlandse zorginstelling Lelie is gehackt, mogelijk pati\u00ebntgegevens gestolen - Tweakers",
                     "source": "tweakers.net",
@@ -469,7 +503,7 @@
                     "publishedDate": "26/11/2026 18:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Hoe Maastricht UMC+ de innovatiekracht van verpleegkundigen inzet | ICT&amp;health",
@@ -533,21 +567,8 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 3,
-            "extra_bronnen": [
-                {
-                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
-                    "publishedDate": "27/11/2026 16:07"
-                },
-                {
-                    "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/adecdc5a-0f5f-4a7c-af1c-1549a9013aaf",
-                    "publishedDate": "27/11/2026 16:07"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -557,19 +578,13 @@
             "source": "parool.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 5,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Armoedig besluit voor ...",
                     "source": "parool.nl",
                     "link": "https://www.parool.nl/columns-opinie/lezers-over-de-sluiting-van-de-spoedeisende-hulp-van-olvg-oost-armoedig-besluit-voor-een-wereldstad~b62a0f10/",
                     "publishedDate": "27/11/2026 14:08"
-                },
-                {
-                    "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
-                    "source": "parool.nl",
-                    "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
-                    "publishedDate": "27/11/2026 12:42"
                 },
                 {
                     "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Doe het alsjeblieft niet'",
@@ -585,6 +600,24 @@
                 }
             ],
             "belangrijkheid": 1
+        },
+        {
+            "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
+            "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
+            "publishedDate": "27/11/2026 16:07",
+            "source": "open.overheid.nl",
+            "category": "VWS",
+            "feed_label": "VWS Open Overheid",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/adecdc5a-0f5f-4a7c-af1c-1549a9013aaf",
+                    "publishedDate": "27/11/2026 16:07"
+                }
+            ],
+            "belangrijkheid": 0
         },
         {
             "title": "Aanpak vrouwengezondheid werkt in Salland, huisartsen gaan door | Regio | De Stentor.nl",
@@ -699,17 +732,6 @@
             "source": "blue2greenrecycling.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
-            "link": "https://www.destentor.nl/veluwe/zorgorganisatie-met-ruim-15-000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen~a42cc98f/",
-            "publishedDate": "27/11/2026 15:26",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1002,6 +1024,17 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
+            "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
+            "publishedDate": "27/11/2026 12:42",
+            "source": "parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 1
         },
         {
             "title": "PRO wil dat Hardinxveld-Giessendam het kabinet oproept geen eigen bijdrage voor ... - Drimble",
@@ -1472,17 +1505,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Basisschool in Hulst deels ontruimd na melding van gaslucht | Regio | BN DeStem.nl",
-            "link": "https://www.bndestem.nl/hulst/basisschool-in-hulst-deels-ontruimd-na-melding-van-gaslucht~a4e3c6d6/",
-            "publishedDate": "26/11/2026 23:03",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Vooraankondiging subsidieoproep 'klinische ronde post-COVID: drug repurposing'",
             "link": "https://www.postcovidnl.nl/nieuws/vooraankondiging-subsidieoproep-klinische-ronde-post-covid-drug-repurposing",
             "publishedDate": "26/11/2026 22:02",
@@ -1675,7 +1697,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
