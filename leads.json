@@ -1,6 +1,52 @@
 {
     "artikelen": [
         {
+            "title": "Den Helder, Schagen, Hollands Kroon en Texel bundelen krachten in zorg en ondersteuning",
+            "link": "https://www.noordhollandsdagblad.nl/regio/noordkop/noordkop-denhelder/den-helder-schagen-hollands-kroon-en-texel-bundelen-krachten-in-zorg-en-ondersteuning/165131587.html",
+            "publishedDate": "27/11/2026 10:49",
+            "source": "noordhollandsdagblad.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Van pionier in de spoedzorg tot sluiting in 2032: waarom OLVG Oost zijn spoedeisende hulp verliest",
+            "link": "https://www.parool.nl/amsterdam/van-pionier-in-de-spoedzorg-tot-sluiting-in-2032-waarom-olvg-oost-zijn-spoedeisende-hulp-verliest~bdc4aea1/",
+            "publishedDate": "27/11/2026 10:36",
+            "source": "olvg.nl, parool.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
+                    "source": "parool.nl",
+                    "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
+                    "publishedDate": "26/11/2026 16:44"
+                },
+                {
+                    "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
+                    "source": "olvg.nl",
+                    "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
+                    "publishedDate": "26/11/2026 13:05"
+                }
+            ],
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Opinie: 'In de jeugdzorg is iedereen betrokken, maar niemand verantwoordelijk' | Praat mee",
+            "link": "https://www.ad.nl/praat-mee/opinie-in-de-jeugdzorg-is-iedereen-betrokken-maar-niemand-verantwoordelijk~ad6df71b/",
+            "publishedDate": "27/11/2026 10:26",
+            "source": "ad.nl",
+            "category": "Landelijke Media",
+            "feed_label": "Alert Jeugdzorg",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief Digitale en Fysieke Weerbaarheid in de zorg",
             "link": "https://open.overheid.nl/details/21ee7c0a-9e4b-4b76-b28c-faca5c66770a",
             "publishedDate": "27/11/2026 10:19",
@@ -456,18 +502,11 @@
             "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
             "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
             "publishedDate": "27/11/2026 02:51",
-            "source": "l1nieuws.nl, omroeppenm.nl",
+            "source": "l1nieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
-                    "source": "omroeppenm.nl",
-                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
-                    "publishedDate": "26/11/2026 14:41"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -760,11 +799,24 @@
             "title": "Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 21:13",
-            "source": "cnv.nl",
+            "source": "cnv.nl, fnv.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+                    "publishedDate": "26/11/2026 09:31"
+                },
+                {
+                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+                    "publishedDate": "25/11/2026 10:43"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -937,7 +989,7 @@
             "feed_label": "Alert zorgaanbieder",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "TLN en VVT doen loonbod in derde cao-overleg",
@@ -1045,7 +1097,7 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
@@ -1058,12 +1110,6 @@
                     "source": "cnv.nl",
                     "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/meedoen-op-1-december-wat-we-met-sanquin-hebben-afgesproken-2026-11-26/",
                     "publishedDate": "26/11/2026 09:29"
-                },
-                {
-                    "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
-                    "publishedDate": "24/11/2026 10:38"
                 }
             ],
             "belangrijkheid": 0
@@ -1158,24 +1204,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Spoedeisende hulp van OLVG Oost sluit in 2032: 'Het is echt heel pijnlijk' | Het Parool",
-            "link": "https://www.parool.nl/amsterdam/spoedeisende-hulp-van-olvg-oost-sluit-in-2032-het-is-echt-heel-pijnlijk~b7a24b1b/",
-            "publishedDate": "26/11/2026 16:44",
-            "source": "olvg.nl, parool.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Vanaf 2032 verplaatst OLVG alle spoedeisende zorg naar OLVG, locatie West",
-                    "source": "olvg.nl",
-                    "link": "https://www.olvg.nl/nieuws/vanaf-2032-verplaatst-olvg-alle-spoedeisende-zorg-naar-olvg-locatie-west/",
-                    "publishedDate": "26/11/2026 13:05"
-                }
-            ],
-            "belangrijkheid": 1
         },
         {
             "title": "Terug Naar Werk II goedgekeurd: welke maatregelen gaan wanneer van start?",
@@ -1389,6 +1417,17 @@
             "source": "locomediagroep.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
+            "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
+            "publishedDate": "26/11/2026 14:41",
+            "source": "omroeppenm.nl",
+            "category": "Overig",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1786,17 +1825,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-            "publishedDate": "26/11/2026 09:31",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
             "link": "https://www.eemskrant.nl/groninger-zorgakkoord-zoekt-nieuwe-zorgontdekkers/",
             "publishedDate": "26/11/2026 09:22",
@@ -1891,15 +1919,8 @@
             "source": "bd.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
-                    "source": "bd.nl",
-                    "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
-                    "publishedDate": "25/11/2026 15:50"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1940,6 +1961,17 @@
                     "publishedDate": "25/11/2026 16:11"
                 }
             ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Gerard is chauffeur voor de huisartsenpost: 'Nu en dan de spanning verlichten' | Regio",
+            "link": "https://www.bd.nl/waalwijk/gerard-is-chauffeur-voor-de-huisartsenpost-nu-en-dan-de-spanning-verlichten~ae37b385/",
+            "publishedDate": "25/11/2026 15:50",
+            "source": "bd.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert Huisartsenpost",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1998,17 +2030,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-            "publishedDate": "25/11/2026 10:43",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Eerstelijnszorg] Samenwerking voor voldoende capaciteit medische kindzorg",
             "link": "https://www.zn.nl/actueel/samenwerking-voor-voldoende-capaciteit-medische-kindzorg/",
             "publishedDate": "24/11/2026 15:14",
@@ -2026,6 +2047,17 @@
             "source": "gezondheidsraad.nl",
             "category": "Overig",
             "feed_label": "Gezondheidsraad",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
+            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/alles-over-cao-sanquin-plasma-products/nieuws/sanquin-aanbieden-van-de-kaarten-verplaatst-naar-1-december-2026-11-24/",
+            "publishedDate": "24/11/2026 10:38",
+            "source": "cnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "CNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
