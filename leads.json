@@ -92,13 +92,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[Beslisnota] Beslisnota bij Kamerbrief over digitale en fysieke weerbaarheid in de zorg",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/21ee7c0a-9e4b-4b76-b28c-faca5c66770a",
                     "publishedDate": "27/11/2026 11:13"
+                },
+                {
+                    "title": "Samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/097b2bc3-5400-4593-b5a3-e3259dce2520",
+                    "publishedDate": "26/11/2026 17:33"
+                },
+                {
+                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
+                    "publishedDate": "26/11/2026 17:33"
                 }
             ],
             "belangrijkheid": 0
@@ -432,11 +444,24 @@
             "title": "VieCuri vernieuwt OK's en medische beeldvorming | ICT&amp;health",
             "link": "https://www.icthealth.nl/nieuws/viecuri-vernieuwt-oks-en-medische-beeldvorming",
             "publishedDate": "27/11/2026 07:00",
-            "source": "icthealth.nl",
+            "source": "icthealth.nl, l1nieuws.nl, omroeppenm.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
+                    "source": "l1nieuws.nl",
+                    "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
+                    "publishedDate": "27/11/2026 02:51"
+                },
+                {
+                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
+                    "source": "omroeppenm.nl",
+                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
+                    "publishedDate": "26/11/2026 14:41"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -587,24 +612,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nieuwe ziekenhuisvleugel VieCuri in Venlo geopend: 'Noord-Limburg kan trots zijn'",
-            "link": "https://www.l1nieuws.nl/nieuws/3278241/nieuwe-ziekenhuisvleugel-viecuri-in-venlo-geopend-noord-limburg-kan-trots-zijn",
-            "publishedDate": "27/11/2026 02:51",
-            "source": "l1nieuws.nl, omroeppenm.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Nieuwe ziekenhuisvleugel VieCuri Venlo geopend - Omroep P&amp;M",
-                    "source": "omroeppenm.nl",
-                    "link": "https://www.omroeppenm.nl/nieuws/nieuwe-ziekenhuisvleugel-viecuri-venlo-geopend",
-                    "publishedDate": "26/11/2026 14:41"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -889,11 +896,24 @@
             "title": "Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 21:13",
-            "source": "cnv.nl",
+            "source": "cnv.nl, fnv.nl, nu91.nl",
             "category": "Vakbonden",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+                    "publishedDate": "26/11/2026 09:31"
+                },
+                {
+                    "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
+                    "publishedDate": "25/11/2026 10:43"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1170,24 +1190,6 @@
                     "title": "Kamerbrief inzake Reactie op Eerste Kamer rappel toezeggingen en moties",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/431eeb7b-2095-4dd9-ba04-5cd9b34d85c8",
-                    "publishedDate": "26/11/2026 17:33"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Samenhangende preventiestrategie",
-            "link": "https://open.overheid.nl/details/097b2bc3-5400-4593-b5a3-e3259dce2520",
-            "publishedDate": "26/11/2026 17:33",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Aanbiedingsbrief samenhangende preventiestrategie",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/9527c35f-d1e2-4740-a8ad-40d88db08e15",
                     "publishedDate": "26/11/2026 17:33"
                 }
             ],
@@ -1849,17 +1851,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-            "publishedDate": "26/11/2026 09:31",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Groninger Zorgakkoord zoekt nieuwe 'zorgontdekkers' - Eemskrant.nl",
             "link": "https://www.eemskrant.nl/groninger-zorgakkoord-zoekt-nieuwe-zorgontdekkers/",
             "publishedDate": "26/11/2026 09:22",
@@ -2078,17 +2069,6 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[NU'91] NVZ lijkt in te zetten op versobering in onderhandelingen cao ziekenhuizen",
-            "link": "https://nu91.nl/nieuws/773-nvz-lijkt-in-te-zetten-op-versobering-in-onderhandelingen-cao-ziekenhuizen",
-            "publishedDate": "25/11/2026 10:43",
-            "source": "nu91.nl",
-            "category": "Vakbonden",
-            "feed_label": "NU91",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
