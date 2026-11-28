@@ -144,7 +144,7 @@
             "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Compliment van provincie over raming jeugdzorg - Ridderkerks Dagblad",
@@ -216,42 +216,11 @@
             "title": "Zorgpersoneel ggz Venray legt een uur het werk neer: 'De eerste actie, maar zeker niet de laatste'",
             "link": "https://www.l1nieuws.nl/nieuws/3279541/zorgpersoneel-ggz-venray-legt-een-uur-het-werk-neer-de-eerste-actie-maar-zeker-niet-de-laatste",
             "publishedDate": "28/11/2026 14:44",
-            "source": "cnv.nl, fnv.nl, l1nieuws.nl, lad.nl, nu91.nl",
+            "source": "l1nieuws.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgpersoneel",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
-                    "publishedDate": "27/11/2026 09:36"
-                },
-                {
-                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-                    "publishedDate": "26/11/2026 16:03"
-                },
-                {
-                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
-                    "source": "nu91.nl",
-                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
-                    "publishedDate": "24/11/2026 14:04"
-                },
-                {
-                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
-                    "publishedDate": "24/11/2026 13:47"
-                },
-                {
-                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
-                    "source": "cnv.nl",
-                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
-                    "publishedDate": "24/11/2026 11:08"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -320,7 +289,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Slachtoffer naar ziekenhuis na grote brand in winkel, meerdere woningen ontruimd - AD",
@@ -525,6 +494,17 @@
             "source": "andijkernieuws.net",
             "category": "Overig",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Bijdrage van Armand Girbes - LinkedIn",
+            "link": "https://nl.linkedin.com/posts/armand-girbes-27334318_drie-ziekenhuizen-kondigden-een-pati%C3%ABntenstop-activity-7532372184212709377-mHdV",
+            "publishedDate": "28/11/2026 11:57",
+            "source": "nl.linkedin.com",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -789,8 +769,14 @@
             "source": "open.overheid.nl, tweedekamer.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 3,
+            "duplicate_count": 4,
             "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over verzoek reactie op Onderwijscoalitie Zuid-West",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c162df85-bc3a-4816-8312-5e8bdddd26e3",
+                    "publishedDate": "27/11/2026 17:18"
+                },
                 {
                     "title": "Reactie op brief over noodzaak om te investeren in onderwijs gedurende de transformatie van de gesloten jeugdhulp",
                     "source": "open.overheid.nl",
@@ -855,7 +841,7 @@
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
@@ -1186,17 +1172,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over verzoek reactie op Onderwijscoalitie Zuid-West",
-            "link": "https://open.overheid.nl/details/c162df85-bc3a-4816-8312-5e8bdddd26e3",
-            "publishedDate": "27/11/2026 17:18",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "[Beslisnota] Beslisnota bij Kamerbrief Schriftelijk Overleg inzake EU Gezondheidsraad 8 december 2026",
             "link": "https://open.overheid.nl/details/0c0a8a5f-2959-49b4-ab64-7f6ac38131c2",
             "publishedDate": "27/11/2026 16:44",
@@ -1317,6 +1292,42 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
+        },
+        {
+            "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
+            "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
+            "publishedDate": "27/11/2026 09:36",
+            "source": "cnv.nl, fnv.nl, lad.nl, nu91.nl",
+            "category": "Vakbonden",
+            "feed_label": "NU91",
+            "duplicate_count": 5,
+            "extra_bronnen": [
+                {
+                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+                    "source": "lad.nl",
+                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+                    "publishedDate": "26/11/2026 16:03"
+                },
+                {
+                    "title": "[NU'91] Landelijke actiedag zorgprofessionals in de ggz",
+                    "source": "nu91.nl",
+                    "link": "https://nu91.nl/nieuws/772-landelijke-actiedag-zorgprofessionals-in-de-ggz",
+                    "publishedDate": "24/11/2026 14:04"
+                },
+                {
+                    "title": "[FNV] Werknemers ggz voeren op 10 december actie voor betere cao",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-ggz-voeren-10-december-actie-betere-cao",
+                    "publishedDate": "24/11/2026 13:47"
+                },
+                {
+                    "title": "[CNV] GGZ-medewerkers komen massaal in actie voor betere cao",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/nieuws/ggz-werknemers-voeren-op-10-december-landelijk-actie-voor-een-betere-cao/",
+                    "publishedDate": "24/11/2026 11:08"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Oplaadstation Spoedeisende Hulp - Tergooi MC",
