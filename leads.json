@@ -1,6 +1,17 @@
 {
     "artikelen": [
         {
+            "title": "Compressiekousen in het vliegtuig: werken ze en wie heeft ze nodig? - Vlucht-Vertraagd.nl",
+            "link": "https://www.vlucht-vertraagd.nl/blog/2026/11/27/compressiekousen-vliegtuig-werken-ze",
+            "publishedDate": "28/11/2026 07:06",
+            "source": "vlucht-vertraagd.nl",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Corona wint weer terrein: dit moet je weten - Omroep Gelderland",
             "link": "https://www.gld.nl/nieuws/8552498/corona-wint-weer-terrein-dit-moet-je-weten",
             "publishedDate": "28/11/2026 06:21",
@@ -136,11 +147,30 @@
             "title": "Afschrift reactie op de brief van Onderwijscoalitie Zuid-West over de noodzaak om ... - Tweede Kamer",
             "link": "https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z26691&did=2026D61799",
             "publishedDate": "28/11/2026 00:39",
-            "source": "tweedekamer.nl",
+            "source": "open.overheid.nl, tweedekamer.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 4,
+            "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over verzoek reactie op Onderwijscoalitie Zuid-West",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/c162df85-bc3a-4816-8312-5e8bdddd26e3",
+                    "publishedDate": "27/11/2026 17:18"
+                },
+                {
+                    "title": "Reactie op brief over noodzaak om te investeren in onderwijs gedurende de transformatie van de gesloten jeugdhulp",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/4cedd73f-10bc-483d-b9d0-31461f8e6850",
+                    "publishedDate": "27/11/2026 17:18"
+                },
+                {
+                    "title": "Kamerbrief over noodzaak om te investeren in onderwijs gedurende de transformatie van de gesloten jeugdhulp",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/3019e171-a71c-4fec-a84a-a085dc46f0a8",
+                    "publishedDate": "27/11/2026 17:18"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -827,26 +857,20 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de aanhoudende vertraging bij de verhuizing van het RIVM en de veiligheidsrisico's bij de huidige laboratoria",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/d7965339-7766-41a6-9aa5-998c83383b2d",
                     "publishedDate": "27/11/2026 17:49"
-                }
-            ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
-            "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
-            "publishedDate": "27/11/2026 17:38",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
+                    "publishedDate": "27/11/2026 17:38"
+                },
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
                     "source": "open.overheid.nl",
@@ -905,35 +929,6 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over verzoek reactie op Onderwijscoalitie Zuid-West",
-            "link": "https://open.overheid.nl/details/c162df85-bc3a-4816-8312-5e8bdddd26e3",
-            "publishedDate": "27/11/2026 17:18",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Reactie op brief over noodzaak om te investeren in onderwijs gedurende de transformatie van de gesloten jeugdhulp",
-            "link": "https://open.overheid.nl/details/4cedd73f-10bc-483d-b9d0-31461f8e6850",
-            "publishedDate": "27/11/2026 17:18",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Kamerbrief over noodzaak om te investeren in onderwijs gedurende de transformatie van de gesloten jeugdhulp",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/3019e171-a71c-4fec-a84a-a085dc46f0a8",
-                    "publishedDate": "27/11/2026 17:18"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -1096,19 +1091,14 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
-            "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
-            "publishedDate": "27/11/2026 16:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
+                    "publishedDate": "27/11/2026 16:07"
+                },
                 {
                     "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
                     "source": "open.overheid.nl",
