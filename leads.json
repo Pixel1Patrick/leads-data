@@ -453,10 +453,10 @@
             "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
             "link": "https://drimble.nl/regio/zuid-holland/rotterdam/108734894/zorgorganisatie-met-ruim-15000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen.html",
             "publishedDate": "27/11/2026 23:05",
-            "source": "ad.nl, destentor.nl, drimble.nl, nl.headtopics.com, tweakers.net, vrmg.nl",
+            "source": "ad.nl, destentor.nl, drimble.nl, tweakers.net, vrmg.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 6,
+            "duplicate_count": 5,
             "extra_bronnen": [
                 {
                     "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
@@ -481,12 +481,6 @@
                     "source": "vrmg.nl",
                     "link": "https://vrmg.nl/mogelijk-datalek-bij-lelie-zorggroep",
                     "publishedDate": "27/11/2026 12:09"
-                },
-                {
-                    "title": "Cyberaanval Lelie Zorggroep: Datalek bij Zeelandse zorginstelling bevestigd - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/cyberaanval-lelie-zorggroep-datalek-bij-zeelandse-90215722",
-                    "publishedDate": "26/11/2026 18:38"
                 }
             ],
             "belangrijkheid": 0
@@ -678,11 +672,18 @@
             "title": "Nieuwe aanpak helpt huisarts bij beoordelen van pijn op de borst - Hartstichting",
             "link": "https://www.hartstichting.nl/nieuws/nieuwe-aanpak-helpt-huisarts-bij-beoordelen-van-pijn-op-de-borst",
             "publishedDate": "27/11/2026 21:14",
-            "source": "hartstichting.nl",
+            "source": "hartstichting.nl, nrc.nl",
             "category": "Overig",
             "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Met een vingerprik en hartfilmpje kunnen huisartsen beter inschatten of iemand naar het ... - NRC",
+                    "source": "nrc.nl",
+                    "link": "https://www.nrc.nl/nieuws/2026/11/27/met-een-vingerprik-en-hartfilmpje-kunnen-huisartsen-beter-inschatten-of-iemand-naar-het-ziekenhuis-moet-vanwege-een-hartinfarct-a4942376",
+                    "publishedDate": "27/11/2026 14:42"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -1302,17 +1303,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Met een vingerprik en hartfilmpje kunnen huisartsen beter inschatten of iemand naar het ... - NRC",
-            "link": "https://www.nrc.nl/nieuws/2026/11/27/met-een-vingerprik-en-hartfilmpje-kunnen-huisartsen-beter-inschatten-of-iemand-naar-het-ziekenhuis-moet-vanwege-een-hartinfarct-a4942376",
-            "publishedDate": "27/11/2026 14:42",
-            "source": "nrc.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert Huisartsenpost",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Transformatie Hannelore Zwitserlood: foto voor en na maagoperatie - Socialnieuws.nl",
             "link": "https://socialnieuws.nl/2026/11/27/bizar-bner-verliest-55-kilo-en-is-compleet-onherkenbaar/",
             "publishedDate": "27/11/2026 14:36",
@@ -1641,8 +1631,14 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+                    "publishedDate": "26/11/2026 14:32"
+                },
                 {
                     "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
                     "source": "cnv.nl",
@@ -1689,17 +1685,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-            "publishedDate": "26/11/2026 14:32",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Ledenvergadering: niet-gecontracteerde zorg en bekostiging centraal",
             "link": "https://www.lhv.nl/nieuws/ledenvergadering-niet-gecontracteerde-zorg-en-bekostiging-centraal/",
             "publishedDate": "26/11/2026 13:05",
@@ -1725,18 +1710,11 @@
             "title": "[CNV] Derde onderhandelingsdag cao Ziekenhuizen: verschillende beelden bij duurzame inzetbaarheid",
             "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ziekenhuizen/nieuws/derde-onderhandelingsdag-cao-ziekenhuizen-verschillende-beelden-bij-duurzame-inzetbaarheid-2026-11-26/",
             "publishedDate": "26/11/2026 11:35",
-            "source": "cnv.nl, fnv.nl",
+            "source": "cnv.nl",
             "category": "Vakbonden",
             "feed_label": "CNV zorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
-                    "source": "fnv.nl",
-                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
-                    "publishedDate": "26/11/2026 09:31"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -1757,6 +1735,17 @@
             "source": "lhv.nl",
             "category": "Overig",
             "feed_label": "LHV Nieuws",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "[FNV] Cao Ziekenhuizen: erkenning, maar geen concrete afspraken",
+            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/cao-ziekenhuizen-erkenning-geen-concrete-afspraken",
+            "publishedDate": "26/11/2026 09:31",
+            "source": "fnv.nl",
+            "category": "Vakbonden",
+            "feed_label": "FNV zorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
