@@ -29,7 +29,7 @@
             "source": "bnnvara.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -64,6 +64,17 @@
             "source": "ad.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Overstappen van zorgverzekering: zo werkt het, met data en overstapservice - Head Topics",
+            "link": "https://nl.headtopics.com/news/overstappen-van-zorgverzekering-zo-werkt-het-met-data-en-90257853",
+            "publishedDate": "28/11/2026 13:29",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -274,30 +285,11 @@
             "title": "Toename van coronabesmettingen in Nederland, gezondheidsdiensten blijven kalm",
             "link": "https://www.mojaniderlandia.pl/nl/report/toename-van-coronabesmettingen-in-nederland-gezondheidsdiensten-blijven-kalm-10889",
             "publishedDate": "28/11/2026 10:01",
-            "source": "gld.nl, mojaniderlandia.pl, nl.headtopics.com",
+            "source": "mojaniderlandia.pl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Coronagevallen nemen toe maar GGD en huisartsen zien geen aanleiding tot zorg",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/coronagevallen-nemen-toe-maar-ggd-en-huisartsen-zien-geen-90258028",
-                    "publishedDate": "28/11/2026 07:55"
-                },
-                {
-                    "title": "Corona wint weer terrein: dit moet je weten - Omroep Gelderland",
-                    "source": "gld.nl",
-                    "link": "https://www.gld.nl/nieuws/8552498/corona-wint-weer-terrein-dit-moet-je-weten",
-                    "publishedDate": "28/11/2026 06:21"
-                },
-                {
-                    "title": "Coronavirusstijging Zuid-Holland Riooldata Leimuiden Huisarts Afsharzada - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/coronavirusstijging-zuid-holland-riooldata-leimuiden-90229565",
-                    "publishedDate": "27/11/2026 20:43"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -345,6 +337,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Coronagevallen nemen toe maar GGD en huisartsen zien geen aanleiding tot zorg",
+            "link": "https://nl.headtopics.com/news/coronagevallen-nemen-toe-maar-ggd-en-huisartsen-zien-geen-90258028",
+            "publishedDate": "28/11/2026 07:55",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Gesteggel over overschot van 4,6 miljoen euro voor de opvang van Oekra\u00efners in Purmerend",
             "link": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/waterland/gesteggel-over-overschot-van-46-miljoen-euro-voor-de-opvang-van-oekraners-in-purmerend-steek-dat-geld-in-de-jeugdzorg/165200718.html",
             "publishedDate": "28/11/2026 07:07",
@@ -361,6 +364,17 @@
             "publishedDate": "28/11/2026 07:06",
             "source": "vlucht-vertraagd.nl",
             "category": "Overig",
+            "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Corona wint weer terrein: dit moet je weten - Omroep Gelderland",
+            "link": "https://www.gld.nl/nieuws/8552498/corona-wint-weer-terrein-dit-moet-je-weten",
+            "publishedDate": "28/11/2026 06:21",
+            "source": "gld.nl",
+            "category": "Regionale Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -674,25 +688,12 @@
             "title": "Apothekers eisen einde preferentiebeleid na zware medicijntekorten | Health - Head Topics",
             "link": "https://nl.headtopics.com/news/apothekers-eisen-einde-preferentiebeleid-na-zware-90251445",
             "publishedDate": "27/11/2026 23:10",
-            "source": "nl.headtopics.com, rtvdrenthe.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 6,
-            "extra_bronnen": [
-                {
-                    "title": "Apothekers machteloos door voortdurende medicijngeweld | Nieuws - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/apothekers-machteloos-door-voortdurende-medicijngeweld-90250947",
-                    "publishedDate": "27/11/2026 22:14"
-                },
-                {
-                    "title": "Medicijntekorten houden aan, apothekers zijn het zat: 'Soms heel schrijnend' - RTV Drenthe",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/nieuws/18986382/medicijntekorten-houden-aan-apothekers-zijn-het-zat-soms-heel-schrijnend",
-                    "publishedDate": "27/11/2026 22:08"
-                }
-            ],
-            "belangrijkheid": 1
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
         },
         {
             "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
@@ -747,6 +748,17 @@
             "belangrijkheid": 0
         },
         {
+            "title": "Apothekers machteloos door voortdurende medicijngeweld | Nieuws - Head Topics",
+            "link": "https://nl.headtopics.com/news/apothekers-machteloos-door-voortdurende-medicijngeweld-90250947",
+            "publishedDate": "27/11/2026 22:14",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Toegang tot zorg moet de prioriteit blijven - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2648S48_00",
             "publishedDate": "27/11/2026 22:12",
@@ -754,6 +766,17 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Medicijntekorten houden aan, apothekers zijn het zat: 'Soms heel schrijnend' - RTV Drenthe",
+            "link": "https://www.rtvdrenthe.nl/nieuws/18986382/medicijntekorten-houden-aan-apothekers-zijn-het-zat-soms-heel-schrijnend",
+            "publishedDate": "27/11/2026 22:08",
+            "source": "rtvdrenthe.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -871,11 +894,11 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Mijn dochter keek rond in de klas en concludeerde: zij heeft als enige volslagen ...",
-            "link": "https://www.destentor.nl/columns/mijn-dochter-keek-rond-in-de-klas-en-concludeerde-zij-heeft-als-enige-volslagen-incompetente-ouders~ae4833ea/",
-            "publishedDate": "27/11/2026 20:38",
-            "source": "destentor.nl",
-            "category": "Regionale Media",
+            "title": "Coronavirusstijging Zuid-Holland Riooldata Leimuiden Huisarts Afsharzada - Head Topics",
+            "link": "https://nl.headtopics.com/news/coronavirusstijging-zuid-holland-riooldata-leimuiden-90229565",
+            "publishedDate": "27/11/2026 20:43",
+            "source": "nl.headtopics.com",
+            "category": "Overig",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -1303,17 +1326,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Crisis in Haarlem? Hier komen noodsteunpunten met hulp",
-            "link": "https://www.haarlemsdagblad.nl/regio/haarlem/haarlem-krijgt-vijf-noodsteunpunten-waar-inwoners-tijdens-een-crisis-terecht-kunnen-voor-informatie-medicijnen-en-voedsel/165136050.html",
-            "publishedDate": "27/11/2026 15:24",
-            "source": "haarlemsdagblad.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Nieuwe woonzorglocatie aan Wallerstraat heet Bloemendal - Nijkerk Nieuws",
             "link": "https://nijkerk.nieuws.nl/nieuws/nieuwe-woonzorglocatie-aan-wallerstraat-heet-bloemendal",
             "publishedDate": "27/11/2026 15:23",
@@ -1513,7 +1525,7 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Paul Blokhuis benoemd tot nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
