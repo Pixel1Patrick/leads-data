@@ -555,11 +555,18 @@
             "title": "Nivel-onderzoek: 'Huisartsen hebben onvoldoende oog voor dwingende controle door (ex-)partner.'",
             "link": "https://www.medischcontact.nl/actueel/laatste-nieuws/nieuwsartikel/nivel-onderzoek-huisartsen-hebben-onvoldoende-oog-voor-dwingende-controle-door-ex-partner.",
             "publishedDate": "27/11/2026 18:52",
-            "source": "medischcontact.nl",
+            "source": "lhv.nl, medischcontact.nl",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Reactie LHV op Nivel-rapport over dwingende controle",
+                    "source": "lhv.nl",
+                    "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
+                    "publishedDate": "25/11/2026 11:11"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -953,19 +960,14 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
-            "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
-            "publishedDate": "27/11/2026 16:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
+                    "publishedDate": "27/11/2026 16:07"
+                },
                 {
                     "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
                     "source": "open.overheid.nl",
@@ -1941,17 +1943,6 @@
             "source": "rijksoverheid.nl",
             "category": "Overig",
             "feed_label": "VWS Nieuws",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Reactie LHV op Nivel-rapport over dwingende controle",
-            "link": "https://www.lhv.nl/nieuws/reactie-lhv-op-nivel-rapport-over-dwingende-controle/",
-            "publishedDate": "25/11/2026 11:11",
-            "source": "lhv.nl",
-            "category": "Overig",
-            "feed_label": "LHV Nieuws",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
