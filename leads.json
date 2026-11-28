@@ -1,6 +1,41 @@
 {
     "artikelen": [
         {
+            "title": "Kort: Groene Hart Ziekenhuis over op HiX, online-adviestool over fraude (en meer)",
+            "link": "https://www.computable.nl/2026/11/28/kort-groene-hart-ziekenhuis-over-op-hix-online-adviestool-over-fraude-en-meer/",
+            "publishedDate": "28/11/2026 11:47",
+            "source": "computable.nl, goudsdagblad.nl, zogouds.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Groene Hart Ziekenhuis succesvol overgestapt op nieuw pati\u00ebntendossier - Gouds Dagblad",
+                    "source": "goudsdagblad.nl",
+                    "link": "https://goudsdagblad.nl/Lokaal/groene-hart-ziekenhuis-succesvol-overgestapt-op-nieuw-patientendossier",
+                    "publishedDate": "28/11/2026 10:46"
+                },
+                {
+                    "title": "Groene Hart Ziekenhuis overgestapt op nieuw pati\u00ebntendossier - ZoGouds.nl",
+                    "source": "zogouds.nl",
+                    "link": "https://zogouds.nl/nieuws/groene-hart-ziekenhuis-overgestapt-op-nieuw-patientendossier",
+                    "publishedDate": "27/11/2026 21:07"
+                }
+            ],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Catharina Ziekenhuis test AI voor vroege waarschuwing - AI Wereld",
+            "link": "https://aiwereld.nl/nieuws/catharina-ziekenhuis-ai-onverwachte-ic-opname-aam",
+            "publishedDate": "28/11/2026 11:32",
+            "source": "aiwereld.nl",
+            "category": "Overig",
+            "feed_label": "Alert Ziekenhuis",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Auto belandt op zijn dak in sloot in Lith, \u00e9\u00e9n inzittende naar ziekenhuis - Omroep Brabant",
             "link": "https://www.omroepbrabant.nl/nieuws/6036574/auto-belandt-op-zijn-dak-in-sloot-in-lith-een-inzittende-naar-ziekenhuis",
             "publishedDate": "28/11/2026 10:55",
@@ -9,24 +44,6 @@
             "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Groene Hart Ziekenhuis succesvol overgestapt op nieuw pati\u00ebntendossier - Gouds Dagblad",
-            "link": "https://goudsdagblad.nl/Lokaal/groene-hart-ziekenhuis-succesvol-overgestapt-op-nieuw-patientendossier",
-            "publishedDate": "28/11/2026 10:46",
-            "source": "goudsdagblad.nl, zogouds.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Groene Hart Ziekenhuis overgestapt op nieuw pati\u00ebntendossier - ZoGouds.nl",
-                    "source": "zogouds.nl",
-                    "link": "https://zogouds.nl/nieuws/groene-hart-ziekenhuis-overgestapt-op-nieuw-patientendossier",
-                    "publishedDate": "27/11/2026 21:07"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -220,11 +237,18 @@
             "title": "Nieuw Bravis ziekenhuis moet in najaar 2030 deuren openen - Eendrachtbode",
             "link": "https://www.eendrachtbode.nl/nieuws/algemeen-nieuws/31577/nieuw-bravis-ziekenhuis-moet-in-najaar-2030-deuren-openen",
             "publishedDate": "28/11/2026 04:11",
-            "source": "eendrachtbode.nl",
+            "source": "eendrachtbode.nl, roosendaal.nieuws.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Nieuwbouw Bravis officieel van start met slaan van palen - Roosendaal.nieuws.nl",
+                    "source": "roosendaal.nieuws.nl",
+                    "link": "https://roosendaal.nieuws.nl/nieuwsberichten/nieuwbouw-bravis-officieel-van-start-met-slaan-van-palen",
+                    "publishedDate": "27/11/2026 23:39"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -404,17 +428,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Nieuwbouw Bravis officieel van start met slaan van palen - Roosendaal.nieuws.nl",
-            "link": "https://roosendaal.nieuws.nl/nieuwsberichten/nieuwbouw-bravis-officieel-van-start-met-slaan-van-palen",
-            "publishedDate": "27/11/2026 23:39",
-            "source": "roosendaal.nieuws.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Begrijpelijke ziekenhuiszorg: 'Zeg precies wat je bedoelt' - Vilans",
             "link": "https://www.vilans.nl/actueel/verhalen/begrijpelijke-ziekenhuiszorg-netwerkbijeenkomst",
             "publishedDate": "27/11/2026 23:28",
@@ -493,10 +506,10 @@
             "title": "Grote brand in winkelpand Rotterdam-Zuid, slachtoffer naar ziekenhuis - Rijnmond",
             "link": "https://www.rijnmond.nl/nieuws/2289194/grote-brand-in-winkelpand-rotterdam-zuid-slachtoffer-naar-ziekenhuis",
             "publishedDate": "27/11/2026 22:48",
-            "source": "bd.nl, bndestem.nl, rijnmond.nl, telegraaf.nl",
+            "source": "bd.nl, bndestem.nl, rijnmond.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 4,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Slachtoffer naar ziekenhuis na grote brand in winkel, meerdere woningen ontruimd | Regio",
@@ -509,12 +522,6 @@
                     "source": "bd.nl",
                     "link": "https://www.bd.nl/videos/productie/slachtoffer-naar-ziekenhuis-na-grote-brand-in-winkel-meerdere-woningen-ontruimd-15162716",
                     "publishedDate": "27/11/2026 20:11"
-                },
-                {
-                    "title": "Enorme brand in Rotterdams winkelpand: een persoon naar ziekenhuis | De Telegraaf",
-                    "source": "telegraaf.nl",
-                    "link": "https://www.telegraaf.nl/video/enorme-brand-in-rotterdams-winkelpand-een-persoon-naar-ziekenhuis/165237489.html",
-                    "publishedDate": "27/11/2026 20:06"
                 }
             ],
             "belangrijkheid": 0
@@ -847,17 +854,6 @@
             "source": "ijmuidensdagblad.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Nij Smellinghe, ZuidOostZorg en Antonius onderzoeken bestuurlijke fusie",
-            "link": "https://www.lc.nl/regio/friesland/sudwest-fryslan/nij-smellinghe-zuidoostzorg-en-antonius-onderzoeken-bestuurlijke-fusie/165184642.html",
-            "publishedDate": "27/11/2026 19:30",
-            "source": "lc.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1645,8 +1641,14 @@
             "source": "cnv.nl, fnv.nl",
             "category": "Vakbonden",
             "feed_label": "FNV zorg",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
+                    "source": "fnv.nl",
+                    "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
+                    "publishedDate": "26/11/2026 14:32"
+                },
                 {
                     "title": "[CNV] Sanquin: aanbieden van de kaarten verplaatst naar 1 december",
                     "source": "cnv.nl",
@@ -1690,17 +1692,6 @@
                     "publishedDate": "19/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[FNV] Werknemers bloedbank Sanquin voeren actie: 'wachten al bijna jaar op inflatiecorrectie'",
-            "link": "https://www.fnv.nl/nieuwsbericht/sectornieuws/zorg-welzijn/2026/11/werknemers-bloedbank-sanquin-voeren-actie-wachten",
-            "publishedDate": "26/11/2026 14:32",
-            "source": "fnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "FNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
