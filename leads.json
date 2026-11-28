@@ -503,7 +503,7 @@
             "source": "at5.nl, nhnieuws.nl, nl.headtopics.com, parool.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 5,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "5 vragen over de sluiting van de spoedzorg OLVG Oost - NH Nieuws",
@@ -516,6 +516,12 @@
                     "source": "at5.nl",
                     "link": "https://www.at5.nl/artikelen/241293/5-vragen-over-de-sluiting-van-de-spoedzorg-olvg-oost",
                     "publishedDate": "27/11/2026 19:14"
+                },
+                {
+                    "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
+                    "source": "parool.nl",
+                    "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
+                    "publishedDate": "27/11/2026 12:42"
                 },
                 {
                     "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Doe het alsjeblieft niet'",
@@ -591,18 +597,11 @@
             "title": "Inzet voor kwetsbare jongeren levert Dolf Herder uit Eefde een lintje op | Regio - Destentor",
             "link": "https://www.destentor.nl/lochem/inzet-voor-kwetsbare-jongeren-levert-dolf-herder-uit-eefde-een-lintje-op~a0eb87e5/",
             "publishedDate": "27/11/2026 19:04",
-            "source": "berkelbode.nl, destentor.nl",
+            "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "Dolf Herder benoemd tot Ridder in de Orde van Oranje-Nassau voor jarenlange inzet voor ...",
-                    "source": "berkelbode.nl",
-                    "link": "https://www.berkelbode.nl/nieuws/maatschappij/565932/koninklijke-onderscheiding-voor-dolf-herder-uit-eefde",
-                    "publishedDate": "27/11/2026 18:05"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 0
         },
         {
@@ -689,6 +688,17 @@
             "source": "demorgen.be",
             "category": "Overig",
             "feed_label": "Alert huisarts",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Dolf Herder benoemd tot Ridder in de Orde van Oranje-Nassau voor jarenlange inzet voor ...",
+            "link": "https://www.berkelbode.nl/nieuws/maatschappij/565932/koninklijke-onderscheiding-voor-dolf-herder-uit-eefde",
+            "publishedDate": "27/11/2026 18:05",
+            "source": "berkelbode.nl",
+            "category": "Overig",
+            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1267,7 +1277,7 @@
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "Handdoeken wassen op 60 graden: is dat eigenlijk wel voldoende?",
@@ -1279,17 +1289,6 @@
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
-            "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
-            "publishedDate": "27/11/2026 12:42",
-            "source": "parool.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "PRO wil dat Hardinxveld-Giessendam het kabinet oproept geen eigen bijdrage voor ... - Drimble",
