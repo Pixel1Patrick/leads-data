@@ -73,24 +73,11 @@
             "title": "Apothekers eisen einde preferentiebeleid na zware medicijntekorten | Health - Head Topics",
             "link": "https://nl.headtopics.com/news/apothekers-eisen-einde-preferentiebeleid-na-zware-90251445",
             "publishedDate": "27/11/2026 23:10",
-            "source": "nl.headtopics.com, rtvdrenthe.nl",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 4,
-            "extra_bronnen": [
-                {
-                    "title": "Apothekers machteloos door voortdurende medicijngeweld | Nieuws - Head Topics",
-                    "source": "nl.headtopics.com",
-                    "link": "https://nl.headtopics.com/news/apothekers-machteloos-door-voortdurende-medicijngeweld-90250947",
-                    "publishedDate": "27/11/2026 22:14"
-                },
-                {
-                    "title": "Medicijntekorten houden aan, apothekers zijn het zat: 'Soms heel schrijnend' - RTV Drenthe",
-                    "source": "rtvdrenthe.nl",
-                    "link": "https://www.rtvdrenthe.nl/nieuws/18986382/medicijntekorten-houden-aan-apothekers-zijn-het-zat-soms-heel-schrijnend",
-                    "publishedDate": "27/11/2026 22:08"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -241,6 +228,24 @@
             "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Apothekers machteloos door voortdurende medicijngeweld | Nieuws - Head Topics",
+            "link": "https://nl.headtopics.com/news/apothekers-machteloos-door-voortdurende-medicijngeweld-90250947",
+            "publishedDate": "27/11/2026 22:14",
+            "source": "nl.headtopics.com, rtvdrenthe.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Medicijntekorten houden aan, apothekers zijn het zat: 'Soms heel schrijnend' - RTV Drenthe",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18986382/medicijntekorten-houden-aan-apothekers-zijn-het-zat-soms-heel-schrijnend",
+                    "publishedDate": "27/11/2026 22:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -453,7 +458,7 @@
             "source": "at5.nl, nhnieuws.nl, nl.headtopics.com, parool.nl",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 5,
+            "duplicate_count": 6,
             "extra_bronnen": [
                 {
                     "title": "5 vragen over de sluiting van de spoedzorg OLVG Oost - NH Nieuws",
@@ -466,6 +471,12 @@
                     "source": "at5.nl",
                     "link": "https://www.at5.nl/artikelen/241293/5-vragen-over-de-sluiting-van-de-spoedzorg-olvg-oost",
                     "publishedDate": "27/11/2026 19:14"
+                },
+                {
+                    "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
+                    "source": "parool.nl",
+                    "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
+                    "publishedDate": "27/11/2026 12:42"
                 },
                 {
                     "title": "Lezers over de sluiting van de spoedeisende hulp van OLVG Oost: 'Doe het alsjeblieft niet'",
@@ -676,13 +687,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de aanhoudende vertraging bij de verhuizing van het RIVM en de veiligheidsrisico's bij de huidige laboratoria",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/d7965339-7766-41a6-9aa5-998c83383b2d",
                     "publishedDate": "27/11/2026 17:49"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
+                    "publishedDate": "27/11/2026 17:38"
+                },
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/3f2dbd75-698f-4a43-a4ac-af7c31c1a693",
+                    "publishedDate": "27/11/2026 17:38"
                 }
             ],
             "belangrijkheid": 0
@@ -696,24 +719,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
-            "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
-            "publishedDate": "27/11/2026 17:38",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/3f2dbd75-698f-4a43-a4ac-af7c31c1a693",
-                    "publishedDate": "27/11/2026 17:38"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
@@ -978,19 +983,14 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
-            "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
-            "publishedDate": "27/11/2026 16:07",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamerbrief over sluiskandidaten eerste helft 2027",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/402af1d2-6940-4397-b352-584392416105",
+                    "publishedDate": "27/11/2026 16:07"
+                },
                 {
                     "title": "Kamerbrief over sluiskandidaten eerste helft 2027",
                     "source": "open.overheid.nl",
@@ -1279,17 +1279,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Voor een gebroken been of een hartstilstand moeten Amsterdammers vanaf 2032 naar OLVG West",
-            "link": "https://www.parool.nl/amsterdam/voor-een-gebroken-been-of-een-hartstilstand-moeten-amsterdammers-vanaf-2032-naar-olvg-west-waarom-de-seh-in-oost-niet-open-kan-blijven~bdc4aea1/",
-            "publishedDate": "27/11/2026 12:42",
-            "source": "parool.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
-        },
-        {
             "title": "PRO wil dat Hardinxveld-Giessendam het kabinet oproept geen eigen bijdrage voor ... - Drimble",
             "link": "https://drimble.nl/regio/zuid-holland/drechtsteden/108730293/pro-wil-dat-hardinxveld-giessendam-het-kabinet-oproept-geen-eigen-bijdrage-voor-jeugdzorg-in-te-voeren-vergroot-kansenongelijkheid.html",
             "publishedDate": "27/11/2026 12:23",
@@ -1454,22 +1443,16 @@
             "title": "Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer - ANP Persportaal",
             "link": "https://persportaal.anp.nl/artikel/ddfdd1da-c779-428d-84ce-9f36dcd7d279/zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:49",
-            "source": "lad.nl, nu91.nl, persportaal.anp.nl",
+            "source": "nu91.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
                     "source": "nu91.nl",
                     "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
                     "publishedDate": "27/11/2026 09:36"
-                },
-                {
-                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-                    "publishedDate": "26/11/2026 16:03"
                 }
             ],
             "belangrijkheid": 1
@@ -1784,7 +1767,25 @@
                     "publishedDate": "24/11/2026 10:38"
                 }
             ],
-            "belangrijkheid": 0
+            "belangrijkheid": 1
+        },
+        {
+            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+            "publishedDate": "26/11/2026 16:03",
+            "source": "cnv.nl, lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Paul Blokhuis benoemd tot nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
@@ -2102,17 +2103,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-            "publishedDate": "24/11/2026 07:00",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
