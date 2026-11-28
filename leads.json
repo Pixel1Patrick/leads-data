@@ -37,22 +37,36 @@
             "title": "Kort: Groene Hart Ziekenhuis over op HiX, online-adviestool over fraude (en meer)",
             "link": "https://www.computable.nl/2026/11/28/kort-groene-hart-ziekenhuis-over-op-hix-online-adviestool-over-fraude-en-meer/",
             "publishedDate": "28/11/2026 11:47",
-            "source": "computable.nl",
+            "source": "computable.nl, goudsdagblad.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Groene Hart Ziekenhuis succesvol overgestapt op nieuw pati\u00ebntendossier - Gouds Dagblad",
+                    "source": "goudsdagblad.nl",
+                    "link": "https://goudsdagblad.nl/Lokaal/groene-hart-ziekenhuis-succesvol-overgestapt-op-nieuw-patientendossier",
+                    "publishedDate": "28/11/2026 10:46"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Diederik Gommers keert in 2027 terug bij Erasmus MC, maar niet als ic-baas - NU",
             "link": "https://www.nu.nl/binnenland/6418088/diederik-gommers-keert-in-2027-terug-bij-erasmus-mc-maar-niet-als-ic-baas.html",
             "publishedDate": "28/11/2026 11:42",
-            "source": "nu.nl",
+            "source": "gelderlander.nl, nu.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Geen functie elders voor Diederik Gommers, blijft bij het Erasmus MC: 'Hij heeft veel competenties'",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/binnenland/geen-functie-elders-voor-diederik-gommers-blijft-bij-het-erasmus-mc-hij-heeft-veel-competenties~a3335377/",
+                    "publishedDate": "28/11/2026 05:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -106,17 +120,6 @@
             "source": "zoetermeersdagblad.nl",
             "category": "Overig",
             "feed_label": "Alert Jeugdhulp",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Groene Hart Ziekenhuis succesvol overgestapt op nieuw pati\u00ebntendossier - Gouds Dagblad",
-            "link": "https://goudsdagblad.nl/Lokaal/groene-hart-ziekenhuis-succesvol-overgestapt-op-nieuw-patientendossier",
-            "publishedDate": "28/11/2026 10:46",
-            "source": "goudsdagblad.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -202,11 +205,18 @@
             "title": "Coronagevallen nemen toe maar GGD en huisartsen zien geen aanleiding tot zorg",
             "link": "https://nl.headtopics.com/news/coronagevallen-nemen-toe-maar-ggd-en-huisartsen-zien-geen-90258028",
             "publishedDate": "28/11/2026 07:55",
-            "source": "nl.headtopics.com",
+            "source": "gld.nl, nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Corona wint weer terrein: dit moet je weten - Omroep Gelderland",
+                    "source": "gld.nl",
+                    "link": "https://www.gld.nl/nieuws/8552498/corona-wint-weer-terrein-dit-moet-je-weten",
+                    "publishedDate": "28/11/2026 06:21"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -226,17 +236,6 @@
             "publishedDate": "28/11/2026 07:06",
             "source": "vlucht-vertraagd.nl",
             "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Corona wint weer terrein: dit moet je weten - Omroep Gelderland",
-            "link": "https://www.gld.nl/nieuws/8552498/corona-wint-weer-terrein-dit-moet-je-weten",
-            "publishedDate": "28/11/2026 06:21",
-            "source": "gld.nl",
-            "category": "Regionale Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -293,17 +292,6 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Geen functie elders voor Diederik Gommers, blijft bij het Erasmus MC: 'Hij heeft veel competenties'",
-            "link": "https://www.gelderlander.nl/binnenland/geen-functie-elders-voor-diederik-gommers-blijft-bij-het-erasmus-mc-hij-heeft-veel-competenties~a3335377/",
-            "publishedDate": "28/11/2026 05:05",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -535,11 +523,24 @@
             "title": "Apothekers eisen einde preferentiebeleid na zware medicijntekorten | Health - Head Topics",
             "link": "https://nl.headtopics.com/news/apothekers-eisen-einde-preferentiebeleid-na-zware-90251445",
             "publishedDate": "27/11/2026 23:10",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, rtvdrenthe.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Apothekers machteloos door voortdurende medicijngeweld | Nieuws - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/apothekers-machteloos-door-voortdurende-medicijngeweld-90250947",
+                    "publishedDate": "27/11/2026 22:14"
+                },
+                {
+                    "title": "Medicijntekorten houden aan, apothekers zijn het zat: 'Soms heel schrijnend' - RTV Drenthe",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18986382/medicijntekorten-houden-aan-apothekers-zijn-het-zat-soms-heel-schrijnend",
+                    "publishedDate": "27/11/2026 22:08"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -646,34 +647,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Apothekers machteloos door voortdurende medicijngeweld | Nieuws - Head Topics",
-            "link": "https://nl.headtopics.com/news/apothekers-machteloos-door-voortdurende-medicijngeweld-90250947",
-            "publishedDate": "27/11/2026 22:14",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Toegang tot zorg moet de prioriteit blijven - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2648S48_00",
             "publishedDate": "27/11/2026 22:12",
             "source": "artsenkrant.pmg.be",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Medicijntekorten houden aan, apothekers zijn het zat: 'Soms heel schrijnend' - RTV Drenthe",
-            "link": "https://www.rtvdrenthe.nl/nieuws/18986382/medicijntekorten-houden-aan-apothekers-zijn-het-zat-soms-heel-schrijnend",
-            "publishedDate": "27/11/2026 22:08",
-            "source": "rtvdrenthe.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1412,34 +1391,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Monitor Ouderenzorg. Ontwikkelingen bij thuiswonende ouderen in Nederland - RIVM",
-            "link": "https://www.rivm.nl/publicaties/monitor-ouderenzorg-ontwikkelingen-bij-thuiswonende-ouderen-in-nederland",
-            "publishedDate": "27/11/2026 13:33",
-            "source": "rivm.nl",
-            "category": "Toezichthouders/Instituten",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "'De deur gaat niet dicht', maar waar slapen de laatste daklozen van De Belt straks? - PZC",
             "link": "https://www.pzc.nl/middelburg/de-deur-gaat-niet-dicht-maar-waar-slapen-de-laatste-daklozen-van-de-belt-straks~ad64ecfe/",
             "publishedDate": "27/11/2026 13:00",
             "source": "pzc.nl",
             "category": "Regionale Media",
             "feed_label": "Alert apotheker",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Banneweg en Stadhuisplein pas in augustus 2027 klaar, een half jaar later dan gepland",
-            "link": "https://www.bndestem.nl/altena/banneweg-en-stadhuisplein-pas-in-augustus-2027-klaar-een-half-jaar-later-dan-gepland-wat-ging-er-mis~a2633843/",
-            "publishedDate": "27/11/2026 12:58",
-            "source": "bndestem.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1467,34 +1424,12 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Meer aandacht voor valpreventie - Zorgkrant",
-            "link": "https://www.zorgkrant.nl/ouderenzorg/21721-meer-aandacht-voor-valpreventie",
-            "publishedDate": "27/11/2026 12:15",
-            "source": "zorgkrant.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ouderenzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "TLN en VVT bieden 3,2 procent loonsverhoging in nieuwe transport-cao, maar willen lagere ...",
             "link": "https://www.transport-online.nl/146379/tln-en-vvt-bieden-32-procent-loonsverhoging-in-nieuwe-transport-cao-maar-willen-lagere-loondoorbetaling-bij-ziekte/",
             "publishedDate": "27/11/2026 11:57",
             "source": "transport-online.nl",
             "category": "Overig",
             "feed_label": "Alert Vvt",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Kamer krijgt Voortgangsbrief Hoofdlijnenakkoord Ouderenzorg - VNG",
-            "link": "https://vng.nl/nieuws/kamer-krijgt-voortgangsbrief-hoofdlijnenakkoord-ouderenzorg",
-            "publishedDate": "27/11/2026 11:52",
-            "source": "vng.nl",
-            "category": "Brancheverenigingen",
-            "feed_label": "Alert Ouderenzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
