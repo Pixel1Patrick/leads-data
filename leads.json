@@ -1,6 +1,28 @@
 {
     "artikelen": [
         {
+            "title": "Zit je bij CZ of VGZ? Deze zorgverzekering is tot \u20ac 346 per jaar goedkoper - Zorgwijzer",
+            "link": "https://www.zorgwijzer.nl/zorgverzekering-2027/zit-je-bij-cz-of-vgz-deze-zorgverzekering-is-tot-e-346-per-jaar-goedkoper",
+            "publishedDate": "28/11/2026 16:03",
+            "source": "zorgwijzer.nl",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "Zorgpremie stijgt fors: zoveel extra geld ben je in 2027 kwijt - Newsbit",
+            "link": "https://newsbit.nl/zorgpremie-stijgt-fors-zoveel-extra-geld-ben-je-in-2027-kwijt/",
+            "publishedDate": "28/11/2026 15:52",
+            "source": "newsbit.nl",
+            "category": "Overig",
+            "feed_label": "Alert zorgverzekeraar",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
             "title": "Professioneel Bekende Nederlander Gompie keert over drie maanden terug bij Erasmus",
             "link": "https://www.geenstijl.nl/5193298/professioneel-bekende-nederlander-gompie-keert-over-drie-maanden-terug-bij-erasmus",
             "publishedDate": "28/11/2026 15:07",
@@ -218,22 +240,36 @@
             "title": "Kort: Groene Hart Ziekenhuis over op HiX, online-adviestool over fraude (en meer)",
             "link": "https://www.computable.nl/2026/11/28/kort-groene-hart-ziekenhuis-over-op-hix-online-adviestool-over-fraude-en-meer/",
             "publishedDate": "28/11/2026 11:47",
-            "source": "computable.nl",
+            "source": "computable.nl, goudsdagblad.nl",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Groene Hart Ziekenhuis succesvol overgestapt op nieuw pati\u00ebntendossier - Gouds Dagblad",
+                    "source": "goudsdagblad.nl",
+                    "link": "https://goudsdagblad.nl/Lokaal/groene-hart-ziekenhuis-succesvol-overgestapt-op-nieuw-patientendossier",
+                    "publishedDate": "28/11/2026 10:46"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
             "title": "Diederik Gommers keert in 2027 terug bij Erasmus MC, maar niet als ic-baas - NU",
             "link": "https://www.nu.nl/binnenland/6418088/diederik-gommers-keert-in-2027-terug-bij-erasmus-mc-maar-niet-als-ic-baas.html",
             "publishedDate": "28/11/2026 11:42",
-            "source": "nu.nl",
+            "source": "gelderlander.nl, nu.nl",
             "category": "Landelijke Media",
             "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Geen functie elders voor Diederik Gommers, blijft bij het Erasmus MC: 'Hij heeft veel competenties'",
+                    "source": "gelderlander.nl",
+                    "link": "https://www.gelderlander.nl/binnenland/geen-functie-elders-voor-diederik-gommers-blijft-bij-het-erasmus-mc-hij-heeft-veel-competenties~a3335377/",
+                    "publishedDate": "28/11/2026 05:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -314,17 +350,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Groene Hart Ziekenhuis succesvol overgestapt op nieuw pati\u00ebntendossier - Gouds Dagblad",
-            "link": "https://goudsdagblad.nl/Lokaal/groene-hart-ziekenhuis-succesvol-overgestapt-op-nieuw-patientendossier",
-            "publishedDate": "28/11/2026 10:46",
-            "source": "goudsdagblad.nl",
-            "category": "Overig",
-            "feed_label": "Alert Ziekenhuis",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gevolgen verhuizing acute ziekenhuiszorg van Heerlen naar Geleen volgens Zorgalliantie ...",
             "link": "https://www.limburger.nl/regio/limburg/gevolgen-verhuizing-acute-ziekenhuiszorg-van-heerlen-naar-geleen-volgens-zorgalliantie-onvoldoende-onderzocht-kan-jaarlijks-tientallen-mensenlevens-kosten/165129506.html",
             "publishedDate": "28/11/2026 10:35",
@@ -361,11 +386,24 @@
             "title": "Toename van coronabesmettingen in Nederland, gezondheidsdiensten blijven kalm",
             "link": "https://www.mojaniderlandia.pl/nl/report/toename-van-coronabesmettingen-in-nederland-gezondheidsdiensten-blijven-kalm-10889",
             "publishedDate": "28/11/2026 10:01",
-            "source": "mojaniderlandia.pl",
+            "source": "gld.nl, mojaniderlandia.pl, nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert Ziekenhuizen",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 3,
+            "extra_bronnen": [
+                {
+                    "title": "Coronagevallen nemen toe maar GGD en huisartsen zien geen aanleiding tot zorg",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/coronagevallen-nemen-toe-maar-ggd-en-huisartsen-zien-geen-90258028",
+                    "publishedDate": "28/11/2026 07:55"
+                },
+                {
+                    "title": "Corona wint weer terrein: dit moet je weten - Omroep Gelderland",
+                    "source": "gld.nl",
+                    "link": "https://www.gld.nl/nieuws/8552498/corona-wint-weer-terrein-dit-moet-je-weten",
+                    "publishedDate": "28/11/2026 06:21"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -376,6 +414,17 @@
             "category": "Overig",
             "feed_label": "Alert medicijnen",
             "duplicate_count": 2,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "TSMC-top verwacht volgens berichten jarenlang sterke vraag naar AI-chips - NeoTeo",
+            "link": "https://www.neoteo.com/nl/tsmc-top-verwacht-volgens-berichten-jarenlang-sterke-vraag-naar-ai-chips",
+            "publishedDate": "28/11/2026 09:42",
+            "source": "neoteo.com",
+            "category": "Overig",
+            "feed_label": "Alert medicijnen",
+            "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -413,17 +462,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Coronagevallen nemen toe maar GGD en huisartsen zien geen aanleiding tot zorg",
-            "link": "https://nl.headtopics.com/news/coronagevallen-nemen-toe-maar-ggd-en-huisartsen-zien-geen-90258028",
-            "publishedDate": "28/11/2026 07:55",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Gesteggel over overschot van 4,6 miljoen euro voor de opvang van Oekra\u00efners in Purmerend",
             "link": "https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/waterland/gesteggel-over-overschot-van-46-miljoen-euro-voor-de-opvang-van-oekraners-in-purmerend-steek-dat-geld-in-de-jeugdzorg/165200718.html",
             "publishedDate": "28/11/2026 07:07",
@@ -440,17 +478,6 @@
             "publishedDate": "28/11/2026 07:06",
             "source": "vlucht-vertraagd.nl",
             "category": "Overig",
-            "feed_label": "Alert huisarts",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Corona wint weer terrein: dit moet je weten - Omroep Gelderland",
-            "link": "https://www.gld.nl/nieuws/8552498/corona-wint-weer-terrein-dit-moet-je-weten",
-            "publishedDate": "28/11/2026 06:21",
-            "source": "gld.nl",
-            "category": "Regionale Media",
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
@@ -507,17 +534,6 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Geen functie elders voor Diederik Gommers, blijft bij het Erasmus MC: 'Hij heeft veel competenties'",
-            "link": "https://www.gelderlander.nl/binnenland/geen-functie-elders-voor-diederik-gommers-blijft-bij-het-erasmus-mc-hij-heeft-veel-competenties~a3335377/",
-            "publishedDate": "28/11/2026 05:05",
-            "source": "gelderlander.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert Ziekenhuizen",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -720,27 +736,46 @@
             "title": "Apothekers eisen einde preferentiebeleid na zware medicijntekorten | Health - Head Topics",
             "link": "https://nl.headtopics.com/news/apothekers-eisen-einde-preferentiebeleid-na-zware-90251445",
             "publishedDate": "27/11/2026 23:10",
-            "source": "nl.headtopics.com",
+            "source": "nl.headtopics.com, rtvdrenthe.nl",
             "category": "Overig",
             "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
+            "duplicate_count": 6,
+            "extra_bronnen": [
+                {
+                    "title": "Apothekers machteloos door voortdurende medicijngeweld | Nieuws - Head Topics",
+                    "source": "nl.headtopics.com",
+                    "link": "https://nl.headtopics.com/news/apothekers-machteloos-door-voortdurende-medicijngeweld-90250947",
+                    "publishedDate": "27/11/2026 22:14"
+                },
+                {
+                    "title": "Medicijntekorten houden aan, apothekers zijn het zat: 'Soms heel schrijnend' - RTV Drenthe",
+                    "source": "rtvdrenthe.nl",
+                    "link": "https://www.rtvdrenthe.nl/nieuws/18986382/medicijntekorten-houden-aan-apothekers-zijn-het-zat-soms-heel-schrijnend",
+                    "publishedDate": "27/11/2026 22:08"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
             "link": "https://drimble.nl/regio/zuid-holland/rotterdam/108734894/zorgorganisatie-met-ruim-15000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen.html",
             "publishedDate": "27/11/2026 23:05",
-            "source": "destentor.nl, drimble.nl",
+            "source": "ad.nl, destentor.nl, drimble.nl",
             "category": "Overig",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 2,
+            "duplicate_count": 3,
             "extra_bronnen": [
                 {
                     "title": "Zorgorganisatie met ruim 15.000 cli\u00ebnten gehackt, mogelijk zijn ook medische dossiers gestolen",
                     "source": "destentor.nl",
                     "link": "https://www.destentor.nl/veluwe/zorgorganisatie-met-ruim-15-000-clienten-gehackt-mogelijk-zijn-ook-medische-dossiers-gestolen~a42cc98f/",
                     "publishedDate": "27/11/2026 15:26"
+                },
+                {
+                    "title": "Mogelijke datadiefstal bij Lelie zorggroep raakt ook Zeeuwen, organisatie informeert ...",
+                    "source": "ad.nl",
+                    "link": "https://www.ad.nl/goes/mogelijke-datadiefstal-bij-lelie-zorggroep-raakt-ook-zeeuwen-organisatie-informeert-betrokkenen-uit-voorzorg~ad603c85/",
+                    "publishedDate": "27/11/2026 16:35"
                 }
             ],
             "belangrijkheid": 1
@@ -768,17 +803,6 @@
             "belangrijkheid": 0
         },
         {
-            "title": "Apothekers machteloos door voortdurende medicijngeweld | Nieuws - Head Topics",
-            "link": "https://nl.headtopics.com/news/apothekers-machteloos-door-voortdurende-medicijngeweld-90250947",
-            "publishedDate": "27/11/2026 22:14",
-            "source": "nl.headtopics.com",
-            "category": "Overig",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Toegang tot zorg moet de prioriteit blijven - Artsenkrant",
             "link": "https://artsenkrant.pmg.be/nl/dossier/EAKbe2648S48_00",
             "publishedDate": "27/11/2026 22:12",
@@ -786,17 +810,6 @@
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
             "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Medicijntekorten houden aan, apothekers zijn het zat: 'Soms heel schrijnend' - RTV Drenthe",
-            "link": "https://www.rtvdrenthe.nl/nieuws/18986382/medicijntekorten-houden-aan-apothekers-zijn-het-zat-soms-heel-schrijnend",
-            "publishedDate": "27/11/2026 22:08",
-            "source": "rtvdrenthe.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert medicijnen",
-            "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
         },
@@ -939,11 +952,18 @@
             "title": "OLVG sluit SEH Oost per 2032 door personeelstekort en zorgvraag - Head Topics",
             "link": "https://nl.headtopics.com/news/olvg-sluit-seh-oost-per-2032-door-personeelstekort-en-90248207",
             "publishedDate": "27/11/2026 19:47",
-            "source": "nl.headtopics.com",
+            "source": "at5.nl, nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "5 vragen over de sluiting van de spoedzorg OLVG Oost - AT5",
+                    "source": "at5.nl",
+                    "link": "https://www.at5.nl/artikelen/241293/5-vragen-over-de-sluiting-van-de-spoedzorg-olvg-oost",
+                    "publishedDate": "27/11/2026 19:14"
+                }
+            ],
             "belangrijkheid": 1
         },
         {
@@ -958,25 +978,21 @@
             "belangrijkheid": 0
         },
         {
-            "title": "5 vragen over de sluiting van de spoedzorg OLVG Oost - AT5",
-            "link": "https://www.at5.nl/artikelen/241293/5-vragen-over-de-sluiting-van-de-spoedzorg-olvg-oost",
-            "publishedDate": "27/11/2026 19:14",
-            "source": "at5.nl",
-            "category": "Regionale Media",
-            "feed_label": "Alert seh",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
             "title": "Inzet voor kwetsbare jongeren levert Dolf Herder uit Eefde een lintje op | Regio - Destentor",
             "link": "https://www.destentor.nl/lochem/inzet-voor-kwetsbare-jongeren-levert-dolf-herder-uit-eefde-een-lintje-op~a0eb87e5/",
             "publishedDate": "27/11/2026 19:04",
-            "source": "destentor.nl",
+            "source": "berkelbode.nl, destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Jeugdzorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "Dolf Herder benoemd tot Ridder in de Orde van Oranje-Nassau voor jarenlange inzet voor ...",
+                    "source": "berkelbode.nl",
+                    "link": "https://www.berkelbode.nl/nieuws/maatschappij/565932/koninklijke-onderscheiding-voor-dolf-herder-uit-eefde",
+                    "publishedDate": "27/11/2026 18:05"
+                }
+            ],
             "belangrijkheid": 0
         },
         {
@@ -997,17 +1013,6 @@
             "source": "destentor.nl",
             "category": "Regionale Media",
             "feed_label": "Alert zorgorganisatie",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Dolf Herder benoemd tot Ridder in de Orde van Oranje-Nassau voor jarenlange inzet voor ...",
-            "link": "https://www.berkelbode.nl/nieuws/maatschappij/565932/koninklijke-onderscheiding-voor-dolf-herder-uit-eefde",
-            "publishedDate": "27/11/2026 18:05",
-            "source": "berkelbode.nl",
-            "category": "Overig",
-            "feed_label": "Alert Jeugdzorg",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1226,17 +1231,6 @@
             "source": "rtvnoord.nl",
             "category": "Regionale Media",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "Mogelijke datadiefstal bij Lelie zorggroep raakt ook Zeeuwen, organisatie informeert ...",
-            "link": "https://www.ad.nl/goes/mogelijke-datadiefstal-bij-lelie-zorggroep-raakt-ook-zeeuwen-organisatie-informeert-betrokkenen-uit-voorzorg~ad603c85/",
-            "publishedDate": "27/11/2026 16:35",
-            "source": "ad.nl",
-            "category": "Landelijke Media",
-            "feed_label": "Alert zorgorganisatie",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
