@@ -538,7 +538,7 @@
                     "publishedDate": "27/11/2026 15:00"
                 }
             ],
-            "belangrijkheid": 1
+            "belangrijkheid": 0
         },
         {
             "title": "UZ Leuven verliest jaarlijkse subsidie van 1,2 miljoen euro voor forensisch instituut",
@@ -846,18 +846,11 @@
             "title": "OLVG sluit SEH Oost per 2032 door personeelstekort en zorgvraag - Head Topics",
             "link": "https://nl.headtopics.com/news/olvg-sluit-seh-oost-per-2032-door-personeelstekort-en-90248207",
             "publishedDate": "27/11/2026 19:47",
-            "source": "at5.nl, nl.headtopics.com",
+            "source": "nl.headtopics.com",
             "category": "Overig",
             "feed_label": "Alert seh",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "5 vragen over de sluiting van de spoedzorg OLVG Oost - AT5",
-                    "source": "at5.nl",
-                    "link": "https://www.at5.nl/artikelen/241293/5-vragen-over-de-sluiting-van-de-spoedzorg-olvg-oost",
-                    "publishedDate": "27/11/2026 19:14"
-                }
-            ],
+            "duplicate_count": 1,
+            "extra_bronnen": [],
             "belangrijkheid": 1
         },
         {
@@ -878,6 +871,17 @@
             "source": "ijmuidensdagblad.nl",
             "category": "Overig",
             "feed_label": "Alert umc",
+            "duplicate_count": 1,
+            "extra_bronnen": [],
+            "belangrijkheid": 0
+        },
+        {
+            "title": "5 vragen over de sluiting van de spoedzorg OLVG Oost - AT5",
+            "link": "https://www.at5.nl/artikelen/241293/5-vragen-over-de-sluiting-van-de-spoedzorg-olvg-oost",
+            "publishedDate": "27/11/2026 19:14",
+            "source": "at5.nl",
+            "category": "Regionale Media",
+            "feed_label": "Alert seh",
             "duplicate_count": 1,
             "extra_bronnen": [],
             "belangrijkheid": 0
@@ -1565,22 +1569,16 @@
             "title": "Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer - ANP Persportaal",
             "link": "https://persportaal.anp.nl/artikel/ddfdd1da-c779-428d-84ce-9f36dcd7d279/zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
             "publishedDate": "27/11/2026 09:49",
-            "source": "lad.nl, nu91.nl, persportaal.anp.nl",
+            "source": "nu91.nl, persportaal.anp.nl",
             "category": "Overig",
             "feed_label": "Alert Geestelijke gezondheidszorg",
-            "duplicate_count": 3,
+            "duplicate_count": 2,
             "extra_bronnen": [
                 {
                     "title": "[NU'91] Zorgprofessionals ggz Vincent van Gogh leggen dinsdag het werk neer",
                     "source": "nu91.nl",
                     "link": "https://nu91.nl/nieuws/774-zorgprofessionals-ggz-vincent-van-gogh-leggen-dinsdag-het-werk-neer",
                     "publishedDate": "27/11/2026 09:36"
-                },
-                {
-                    "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
-                    "source": "lad.nl",
-                    "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
-                    "publishedDate": "26/11/2026 16:03"
                 }
             ],
             "belangrijkheid": 1
@@ -1663,6 +1661,24 @@
                 }
             ],
             "belangrijkheid": 0
+        },
+        {
+            "title": "Donderdag 10 december actiedag voor betere Cao GGZ",
+            "link": "https://www.lad.nl/donderdag-10-december-actiedag-voor-betere-cao-ggz-2/",
+            "publishedDate": "26/11/2026 16:03",
+            "source": "cnv.nl, lad.nl",
+            "category": "Vakbonden",
+            "feed_label": "LAD (vakbond)",
+            "duplicate_count": 2,
+            "extra_bronnen": [
+                {
+                    "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
+                    "source": "cnv.nl",
+                    "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
+                    "publishedDate": "24/11/2026 07:00"
+                }
+            ],
+            "belangrijkheid": 1
         },
         {
             "title": "Paul Blokhuis benoemd tot nieuwe bestuursvoorzitter Vereniging Gehandicaptenzorg Nederland",
@@ -1991,17 +2007,6 @@
             "duplicate_count": 2,
             "extra_bronnen": [],
             "belangrijkheid": 0
-        },
-        {
-            "title": "[CNV] Landelijke actiedag GGZ: 10 december 2026",
-            "link": "https://www.cnv.nl/zorg-en-welzijn/zorg/cao-ggz/nieuws/landelijke-actiedag-ggz-10-december-2026/",
-            "publishedDate": "24/11/2026 07:00",
-            "source": "cnv.nl",
-            "category": "Vakbonden",
-            "feed_label": "CNV zorg",
-            "duplicate_count": 1,
-            "extra_bronnen": [],
-            "belangrijkheid": 1
         },
         {
             "title": "[Artikel] Reablement wint terrein, maar de praktijk vraagt om meer",
