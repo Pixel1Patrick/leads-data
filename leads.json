@@ -678,13 +678,25 @@
             "source": "open.overheid.nl",
             "category": "VWS",
             "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
+            "duplicate_count": 4,
             "extra_bronnen": [
                 {
                     "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de aanhoudende vertraging bij de verhuizing van het RIVM en de veiligheidsrisico's bij de huidige laboratoria",
                     "source": "open.overheid.nl",
                     "link": "https://open.overheid.nl/details/d7965339-7766-41a6-9aa5-998c83383b2d",
                     "publishedDate": "27/11/2026 17:49"
+                },
+                {
+                    "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
+                    "publishedDate": "27/11/2026 17:38"
+                },
+                {
+                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
+                    "source": "open.overheid.nl",
+                    "link": "https://open.overheid.nl/details/3f2dbd75-698f-4a43-a4ac-af7c31c1a693",
+                    "publishedDate": "27/11/2026 17:38"
                 }
             ],
             "belangrijkheid": 0
@@ -698,24 +710,6 @@
             "feed_label": "Alert huisarts",
             "duplicate_count": 1,
             "extra_bronnen": [],
-            "belangrijkheid": 0
-        },
-        {
-            "title": "[Beslisnota] Beslisnota bij Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
-            "link": "https://open.overheid.nl/details/95b6ed69-f7f7-491d-bb6c-b7d5128f9405",
-            "publishedDate": "27/11/2026 17:38",
-            "source": "open.overheid.nl",
-            "category": "VWS",
-            "feed_label": "VWS Open Overheid",
-            "duplicate_count": 2,
-            "extra_bronnen": [
-                {
-                    "title": "[Kamer-antwoorden] Antwoorden op Kamervragen over de veiligheid van en het toezicht op de laboratoria van het RIVM",
-                    "source": "open.overheid.nl",
-                    "link": "https://open.overheid.nl/details/3f2dbd75-698f-4a43-a4ac-af7c31c1a693",
-                    "publishedDate": "27/11/2026 17:38"
-                }
-            ],
             "belangrijkheid": 0
         },
         {
